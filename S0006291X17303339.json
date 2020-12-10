@@ -1,0 +1,3229 @@
+{
+    "abstract": "Melatonin produced by the pineal gland suppresses inflammatory responses in innate immune cells. However, the mechanism of how melatonin affects inflammatory gene regulation remains unclear. Here we performed comprehensive microarray analysis combined with transcription factor binding site (TFBS) analysis using LPS-induced mouse macrophages to investigate the effect of melatonin treatment. The results showed that melatonin preferentially downregulated interferon regulatory factors (IRFs) and signal transducers and activators of transcription (STATs) related signaling. The results also showed that melatonin strongly suppressed virus infection related gene expression. Furthermore, TFBS analysis implicated that melatonin downregulated the binding activity of hypoxia inducible factors (HIFs), following destabilizing actin cytoskeleton which are indispensable for induction of the TRIF-dependent signaling pathway. Indeed, it was demonstrated that melatonin treatment caused impaired phagocytosis in macrophages. Thus, melatonin regulates inflammatory responses by inhibiting specific subsets of transcription factors (TFs) by disrupting actin dynamics in the macrophage.",
+    "author_highlights": [
+        {
+            "endOffset": 15588,
+            "sentence": "Melatonin suppresses inflammatory responses by uncertain mechanisms in macrophage.",
+            "startOffset": 15506
+        },
+        {
+            "endOffset": 15671,
+            "sentence": "Microarray analysis and TFs binding site analysis were performed for this purpose.",
+            "startOffset": 15589
+        },
+        {
+            "endOffset": 15757,
+            "sentence": "Results showed melatonin inhibited various pathways thru HIF1\u03b1 as well as IRF, NF-\u03baB.",
+            "startOffset": 15672
+        },
+        {
+            "endOffset": 15826,
+            "sentence": "Melatonin destabilized actin cytoskeleton and impaired phagocytosis.",
+            "startOffset": 15758
+        },
+        {
+            "endOffset": 15908,
+            "sentence": "Melatonin regulates inflammations by inhibiting TFs by disrupting actin dynamics.",
+            "startOffset": 15827
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Russel J.",
+                    "initial": "R.J.",
+                    "last": "Reiter"
+                }
+            ],
+            "doi": "10.1016/0303-7207(91)90087-9",
+            "firstpage": "C153",
+            "issn": "03037207",
+            "lastpage": "C158",
+            "pmid": "1936532",
+            "pub_year": 1991,
+            "title": "Melatonin: The chemical expression of darkness",
+            "volume": "79"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Eun Young",
+                    "initial": "E.Y.",
+                    "last": "Choi"
+                },
+                {
+                    "first": "Ji Young",
+                    "initial": "J.Y.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "Ju Youn",
+                    "initial": "J.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Jeom Il",
+                    "initial": "J.I.",
+                    "last": "Choi"
+                },
+                {
+                    "first": "In Soon",
+                    "initial": "I.S.",
+                    "last": "Choi"
+                },
+                {
+                    "first": "Sung Jo",
+                    "initial": "S.J.",
+                    "last": "Kim"
+                }
+            ],
+            "doi": "10.1111/j.1600-079X.2010.00829.x",
+            "firstpage": "197",
+            "issn": "07423098",
+            "lastpage": "206",
+            "pmid": "21158907",
+            "pub_year": 2011,
+            "title": "Melatonin inhibits Prevotella intermedia lipopolysaccharide-induced production of nitric oxide and interleukin-6 in murine macrophages by suppressing NF-\u03baB and STAT1 activity",
+            "volume": "50"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Kato"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Fujita"
+                }
+            ],
+            "doi": "10.1016/j.coi.2015.10.002",
+            "firstpage": "40",
+            "issn": "09527915",
+            "lastpage": "45",
+            "pmid": "26530735",
+            "pub_year": 2015,
+            "title": "RIG-I-like receptors and autoimmune diseases",
+            "volume": "37"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Surya",
+                    "initial": "S.",
+                    "last": "Pandey"
+                },
+                {
+                    "first": "Taro",
+                    "initial": "T.",
+                    "last": "Kawai"
+                },
+                {
+                    "first": "Shizuo",
+                    "initial": "S.",
+                    "last": "Akira"
+                }
+            ],
+            "doi": "10.1101/cshperspect.a016246",
+            "issn": "19430264",
+            "pmid": "25301932",
+            "pub_year": 2015,
+            "title": "Microbial sensing by toll-like receptors and intracellular nucleic acid sensors",
+            "volume": "7"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Tomonori",
+                    "initial": "T.",
+                    "last": "Hirotani"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Yutaro",
+                    "initial": "Y.",
+                    "last": "Kumagai"
+                },
+                {
+                    "first": "Satoshi",
+                    "initial": "S.",
+                    "last": "Uematsu"
+                },
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Kawase"
+                },
+                {
+                    "first": "Osamu",
+                    "initial": "O.",
+                    "last": "Takeuchi"
+                },
+                {
+                    "first": "Shizuo",
+                    "initial": "S.",
+                    "last": "Akira"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2004.12.184",
+            "firstpage": "383",
+            "issn": "0006291X",
+            "lastpage": "392",
+            "pmid": "15694359",
+            "pub_year": 2005,
+            "title": "Regulation of lipopolysaccharide-inducible genes by MyD88 and Toll/IL-1 domain containing adaptor inducing IFN-\u03b2",
+            "volume": "328"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Alexis",
+                    "initial": "A.",
+                    "last": "Vandenbon"
+                },
+                {
+                    "first": "Viet H.",
+                    "initial": "V.H.",
+                    "last": "Dinh"
+                },
+                {
+                    "first": "Norihisa",
+                    "initial": "N.",
+                    "last": "Mikami"
+                },
+                {
+                    "first": "Yohko",
+                    "initial": "Y.",
+                    "last": "Kitagawa"
+                },
+                {
+                    "first": "Shunsuke",
+                    "initial": "S.",
+                    "last": "Teraguchi"
+                },
+                {
+                    "first": "Naganari",
+                    "initial": "N.",
+                    "last": "Ohkura"
+                },
+                {
+                    "first": "Shimon",
+                    "initial": "S.",
+                    "last": "Sakaguchi"
+                }
+            ],
+            "doi": "10.1073/pnas.1604351113",
+            "firstpage": "E2393",
+            "issn": "00278424",
+            "lastpage": "2402",
+            "pmid": "27078110",
+            "pub_year": 2016,
+            "title": "Immuno-Navigator, a batch-corrected coexpression database, reveals cell type-specific gene networks in the immune system",
+            "volume": "113"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Ashwini",
+                    "initial": "A.",
+                    "last": "Patil"
+                },
+                {
+                    "first": "Yutaro",
+                    "initial": "Y.",
+                    "last": "Kumagai"
+                },
+                {
+                    "first": "Kuo ching",
+                    "initial": "K.c.",
+                    "last": "Liang"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Kenta",
+                    "initial": "K.",
+                    "last": "Nakai"
+                }
+            ],
+            "doi": "10.1371/journal.pcbi.1003323",
+            "issn": "1553734X",
+            "pmid": "24244133",
+            "pub_year": 2013,
+            "title": "Linking Transcriptional Changes over Time in Stimulated Dendritic Cells to Identify Gene Networks Activated during the Innate Immune Response",
+            "volume": "9"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Yutaro",
+                    "initial": "Y.",
+                    "last": "Kumagai"
+                },
+                {
+                    "first": "Alexis",
+                    "initial": "A.",
+                    "last": "Vandenbon"
+                },
+                {
+                    "first": "Shunsuke",
+                    "initial": "S.",
+                    "last": "Teraguchi"
+                },
+                {
+                    "first": "Shizuo",
+                    "initial": "S.",
+                    "last": "Akira"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Suzuki"
+                }
+            ],
+            "doi": "10.1186/s12864-016-3325-7",
+            "issn": "14712164",
+            "pmid": "28155712",
+            "pub_year": 2016,
+            "title": "Genome-wide map of RNA degradation kinetics patterns in dendritic cells after LPS stimulation facilitates identification of primary sequence and secondary structure motifs in mRNAs",
+            "volume": "17"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Ashburner"
+                },
+                {
+                    "first": "Catherine A.",
+                    "initial": "C.A.",
+                    "last": "Ball"
+                },
+                {
+                    "first": "Judith A.",
+                    "initial": "J.A.",
+                    "last": "Blake"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Botstein"
+                },
+                {
+                    "first": "Heather",
+                    "initial": "H.",
+                    "last": "Butler"
+                },
+                {
+                    "first": "J. Michael",
+                    "initial": "J.M.",
+                    "last": "Cherry"
+                },
+                {
+                    "first": "Allan P.",
+                    "initial": "A.P.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Kara",
+                    "initial": "K.",
+                    "last": "Dolinski"
+                },
+                {
+                    "first": "Selina S.",
+                    "initial": "S.S.",
+                    "last": "Dwight"
+                },
+                {
+                    "first": "Janan T.",
+                    "initial": "J.T.",
+                    "last": "Eppig"
+                },
+                {
+                    "first": "Midori A.",
+                    "initial": "M.A.",
+                    "last": "Harris"
+                },
+                {
+                    "first": "David P.",
+                    "initial": "D.P.",
+                    "last": "Hill"
+                },
+                {
+                    "first": "Laurie",
+                    "initial": "L.",
+                    "last": "Issel-Tarver"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Kasarskis"
+                },
+                {
+                    "first": "Suzanna",
+                    "initial": "S.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "John C.",
+                    "initial": "J.C.",
+                    "last": "Matese"
+                },
+                {
+                    "first": "Joel E.",
+                    "initial": "J.E.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Ringwald"
+                },
+                {
+                    "first": "Gerald M.",
+                    "initial": "G.M.",
+                    "last": "Rubin"
+                },
+                {
+                    "first": "Gavin",
+                    "initial": "G.",
+                    "last": "Sherlock"
+                }
+            ],
+            "doi": "10.1038/75556",
+            "firstpage": "25",
+            "issn": "10614036",
+            "lastpage": "29",
+            "pmid": "10802651",
+            "pub_year": 2000,
+            "title": "Gene ontology: Tool for the unification of biology",
+            "volume": "25"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Fumiji",
+                    "initial": "F.",
+                    "last": "Saito"
+                },
+                {
+                    "first": "Hirotaka",
+                    "initial": "H.",
+                    "last": "Kuwata"
+                },
+                {
+                    "first": "Eiji",
+                    "initial": "E.",
+                    "last": "Oiki"
+                },
+                {
+                    "first": "Masato",
+                    "initial": "M.",
+                    "last": "Koike"
+                },
+                {
+                    "first": "Yasuo",
+                    "initial": "Y.",
+                    "last": "Uchiyama"
+                },
+                {
+                    "first": "Kenya",
+                    "initial": "K.",
+                    "last": "Honda"
+                },
+                {
+                    "first": "Kiyoshi",
+                    "initial": "K.",
+                    "last": "Takeda"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2008.07.141",
+            "firstpage": "113",
+            "issn": "0006291X",
+            "lastpage": "118",
+            "pmid": "18692022",
+            "pub_year": 2008,
+            "title": "Inefficient phagosome maturation in infant macrophages",
+            "volume": "375"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Mauricio F.",
+                    "initial": "M.F.",
+                    "last": "Farez"
+                },
+                {
+                    "first": "Ivan D.",
+                    "initial": "I.D.",
+                    "last": "Mascanfroni"
+                },
+                {
+                    "first": "Santiago P.",
+                    "initial": "S.P.",
+                    "last": "M\u00e9ndez-Huergo"
+                },
+                {
+                    "first": "Ada",
+                    "initial": "A.",
+                    "last": "Yeste"
+                },
+                {
+                    "first": "Gopal",
+                    "initial": "G.",
+                    "last": "Murugaiyan"
+                },
+                {
+                    "first": "Lucien P.",
+                    "initial": "L.P.",
+                    "last": "Garo"
+                },
+                {
+                    "first": "Mar\u00eda E.",
+                    "initial": "M.E.",
+                    "last": "Balbuena Aguirre"
+                },
+                {
+                    "first": "Bonny",
+                    "initial": "B.",
+                    "last": "Patel"
+                },
+                {
+                    "first": "Mar\u00eda C.",
+                    "initial": "M.C.",
+                    "last": "Ysrraelit"
+                },
+                {
+                    "first": "Chen",
+                    "initial": "C.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Vijay K.",
+                    "initial": "V.K.",
+                    "last": "Kuchroo"
+                },
+                {
+                    "first": "Gabriel A.",
+                    "initial": "G.A.",
+                    "last": "Rabinovich"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "Quintana"
+                },
+                {
+                    "first": "Jorge",
+                    "initial": "J.",
+                    "last": "Correale"
+                }
+            ],
+            "doi": "10.1016/j.cell.2015.08.025",
+            "firstpage": "1338",
+            "issn": "00928674",
+            "lastpage": "1352",
+            "pmid": "26359987",
+            "pub_year": 2015,
+            "title": "Melatonin Contributes to the Seasonality of Multiple Sclerosis Relapses",
+            "volume": "162"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Carrillo-Vico"
+                },
+                {
+                    "first": "Sof\u00eda",
+                    "initial": "S.",
+                    "last": "Garc\u00eda-Mauri\u00f1o"
+                },
+                {
+                    "first": "Juan R.",
+                    "initial": "J.R.",
+                    "last": "Calvo"
+                },
+                {
+                    "first": "Juan M.",
+                    "initial": "J.M.",
+                    "last": "Guerrero"
+                }
+            ],
+            "firstpage": "755",
+            "issn": "15306860",
+            "lastpage": "757",
+            "pmid": "12594180",
+            "pub_year": 2003,
+            "title": "Melatonin counteracts the inhibitory effect of PGE2 on IL-2 production in human lymphocytes via its mt1 membrane receptor.",
+            "volume": "17"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Jos\u00e9 A.",
+                    "initial": "J.A.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Huayqui",
+                    "initial": "H.",
+                    "last": "Volt"
+                },
+                {
+                    "first": "Carmen",
+                    "initial": "C.",
+                    "last": "Venegas"
+                },
+                {
+                    "first": "Carolina",
+                    "initial": "C.",
+                    "last": "Doerrier"
+                },
+                {
+                    "first": "Germaine",
+                    "initial": "G.",
+                    "last": "Escames"
+                },
+                {
+                    "first": "Luis C.",
+                    "initial": "L.C.",
+                    "last": "L\u00f3pez"
+                },
+                {
+                    "first": "Dar\u00edo",
+                    "initial": "D.",
+                    "last": "Acu\u00f1a-Castroviejo"
+                }
+            ],
+            "doi": "10.1096/fj.15-273656",
+            "firstpage": "3863",
+            "issn": "08926638",
+            "lastpage": "3875",
+            "pmid": "26045547",
+            "pub_year": 2015,
+            "title": "Disruption of the NF-\u03baB/NLRP3 connection by melatonin requires retinoid-related orphan receptor-a and blocks the septic response in mice",
+            "volume": "29"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Weidemann"
+                },
+                {
+                    "first": "Johannes",
+                    "initial": "J.",
+                    "last": "Breyer"
+                },
+                {
+                    "first": "Margot",
+                    "initial": "M.",
+                    "last": "Rehm"
+                },
+                {
+                    "first": "Kai Uwe",
+                    "initial": "K.U.",
+                    "last": "Eckardt"
+                },
+                {
+                    "first": "Christoph",
+                    "initial": "C.",
+                    "last": "Daniel"
+                },
+                {
+                    "first": "Iwona",
+                    "initial": "I.",
+                    "last": "Cicha"
+                },
+                {
+                    "first": "Klaudia",
+                    "initial": "K.",
+                    "last": "Giehl"
+                },
+                {
+                    "first": "Margarete",
+                    "initial": "M.",
+                    "last": "Goppelt-Struebe"
+                }
+            ],
+            "doi": "10.1186/1478-811X-11-80",
+            "issn": "1478811X",
+            "pmid": "24144209",
+            "pub_year": 2013,
+            "title": "HIF-1\u03b1 activation results in actin cytoskeleton reorganization and modulation of Rac-1 signaling in endothelial cells",
+            "volume": "11"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Pablo",
+                    "initial": "P.",
+                    "last": "Rougerie"
+                },
+                {
+                    "first": "Veronika",
+                    "initial": "V.",
+                    "last": "Miskolci"
+                },
+                {
+                    "first": "Dianne",
+                    "initial": "D.",
+                    "last": "Cox"
+                }
+            ],
+            "doi": "10.1111/imr.12118",
+            "firstpage": "222",
+            "issn": "01052896",
+            "lastpage": "239",
+            "pmid": "24117824",
+            "pub_year": 2013,
+            "title": "Generation of membrane structures during phagocytosis and chemotaxis of macrophages: Role and regulation of the actin cytoskeleton",
+            "volume": "256"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Do Wan",
+                    "initial": "D.W.",
+                    "last": "Shim"
+                },
+                {
+                    "first": "Hee Jae",
+                    "initial": "H.J.",
+                    "last": "Shin"
+                },
+                {
+                    "first": "Ji Won",
+                    "initial": "J.W.",
+                    "last": "Han"
+                },
+                {
+                    "first": "Young Eun",
+                    "initial": "Y.E.",
+                    "last": "Ji"
+                },
+                {
+                    "first": "Cheol Hun",
+                    "initial": "C.H.",
+                    "last": "Jang"
+                },
+                {
+                    "first": "Sushruta",
+                    "initial": "S.",
+                    "last": "Koppula"
+                },
+                {
+                    "first": "Tae Bong",
+                    "initial": "T.B.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Kwang Ho",
+                    "initial": "K.H.",
+                    "last": "Lee"
+                }
+            ],
+            "doi": "10.1016/j.taap.2015.02.006",
+            "firstpage": "227",
+            "issn": "0041008X",
+            "lastpage": "235",
+            "pmid": "25689174",
+            "pub_year": 2015,
+            "title": "A novel synthetic derivative of melatonin, 5-hydroxy-2'-isobutyl-streptochlorin (HIS), inhibits inflammatory responses via regulation of TRIF-dependent signaling and inflammasome activation",
+            "volume": "284"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Taku",
+                    "initial": "T.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Katsuyoshi",
+                    "initial": "K.",
+                    "last": "Matsuoka"
+                },
+                {
+                    "first": "Shehzad Z.",
+                    "initial": "S.Z.",
+                    "last": "Sheikh"
+                },
+                {
+                    "first": "Houda Z.",
+                    "initial": "H.Z.",
+                    "last": "Elloumi"
+                },
+                {
+                    "first": "Nobuhiko",
+                    "initial": "N.",
+                    "last": "Kamada"
+                },
+                {
+                    "first": "Tadakazu",
+                    "initial": "T.",
+                    "last": "Hisamatsu"
+                },
+                {
+                    "first": "Jonathan J.",
+                    "initial": "J.J.",
+                    "last": "Hansen"
+                },
+                {
+                    "first": "Kevin R.",
+                    "initial": "K.R.",
+                    "last": "Doty"
+                },
+                {
+                    "first": "Scott D.",
+                    "initial": "S.D.",
+                    "last": "Pope"
+                },
+                {
+                    "first": "Stephen T.",
+                    "initial": "S.T.",
+                    "last": "Smale"
+                },
+                {
+                    "first": "Toshifumi",
+                    "initial": "T.",
+                    "last": "Hibi"
+                },
+                {
+                    "first": "Paul B.",
+                    "initial": "P.B.",
+                    "last": "Rothman"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Kashiwada"
+                },
+                {
+                    "first": "Scott E.",
+                    "initial": "S.E.",
+                    "last": "Plevy"
+                }
+            ],
+            "doi": "10.4049/jimmunol.1003888",
+            "firstpage": "4649",
+            "issn": "00221767",
+            "lastpage": "4655",
+            "pmid": "21383239",
+            "pub_year": 2011,
+            "title": "NFIL3 is a regulator of IL-12 p40 in macrophages and mucosal immunity",
+            "volume": "186"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Asis",
+                    "initial": "A.",
+                    "last": "Palazon"
+                },
+                {
+                    "first": "Ananda W.",
+                    "initial": "A.W.",
+                    "last": "Goldrath"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Nizet"
+                },
+                {
+                    "first": "Randall S.",
+                    "initial": "R.S.",
+                    "last": "Johnson"
+                }
+            ],
+            "doi": "10.1016/j.immuni.2014.09.008",
+            "firstpage": "518",
+            "issn": "10747613",
+            "lastpage": "528",
+            "pmid": "25367569",
+            "pub_year": 2014,
+            "title": "HIF Transcription Factors, Inflammation, and Immunity",
+            "volume": "41"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Hongming",
+                    "initial": "H.",
+                    "last": "Miao"
+                },
+                {
+                    "first": "Liang",
+                    "initial": "L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Lijun",
+                    "initial": "L.",
+                    "last": "Hao"
+                },
+                {
+                    "first": "Xuan",
+                    "initial": "X.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Yujuan",
+                    "initial": "Y.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Zhihua",
+                    "initial": "Z.",
+                    "last": "Ruan"
+                },
+                {
+                    "first": "Houjie",
+                    "initial": "H.",
+                    "last": "Liang"
+                }
+            ],
+            "doi": "10.1038/srep13092",
+            "issn": "20452322",
+            "pmid": "26271607",
+            "pub_year": 2015,
+            "title": "Stearic acid induces proinflammatory cytokine production partly through activation of lactate-HIF1\u03b1 pathway in chondrocytes",
+            "volume": "5"
+        },
+        "bib27": null,
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Carrillo-Vico"
+                },
+                {
+                    "first": "Patricia J.",
+                    "initial": "P.J.",
+                    "last": "Lardone"
+                },
+                {
+                    "first": "Latifa",
+                    "initial": "L.",
+                    "last": "Naji"
+                },
+                {
+                    "first": "Jos\u00e9 M.",
+                    "initial": "J.M.",
+                    "last": "Fern\u00e1ndez-Santos"
+                },
+                {
+                    "first": "In\u00e9s",
+                    "initial": "I.",
+                    "last": "Mart\u00edn-Lacave"
+                },
+                {
+                    "first": "Juan M.",
+                    "initial": "J.M.",
+                    "last": "Guerrero"
+                },
+                {
+                    "first": "Juan R.",
+                    "initial": "J.R.",
+                    "last": "Calvo"
+                }
+            ],
+            "doi": "10.1111/j.1600-079X.2005.00265.x",
+            "firstpage": "400",
+            "issn": "07423098",
+            "lastpage": "408",
+            "pmid": "16207296",
+            "pub_year": 2005,
+            "title": "Beneficial pleiotropic actions of melatonin in an experimental model of septic shock in mice: Regulation of pro-/anti-inflammatory cytokine network, protection against oxidative damage and anti-apoptotic effects",
+            "volume": "39"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Carrillo-Vico"
+                },
+                {
+                    "first": "Juan M.",
+                    "initial": "J.M.",
+                    "last": "Guerrero"
+                },
+                {
+                    "first": "Patricia J.",
+                    "initial": "P.J.",
+                    "last": "Lardone"
+                },
+                {
+                    "first": "Russel J.",
+                    "initial": "R.J.",
+                    "last": "Reiter"
+                }
+            ],
+            "doi": "10.1385/ENDO:27:2:189",
+            "firstpage": "189",
+            "issn": "1355008X",
+            "lastpage": "200",
+            "pmid": "16217132",
+            "pub_year": 2005,
+            "title": "A review of the multiple actions of melatonin on the immune system",
+            "volume": "27"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Dingbo",
+                    "initial": "D.",
+                    "last": "Shi"
+                },
+                {
+                    "first": "Xiangsheng",
+                    "initial": "X.",
+                    "last": "Xiao"
+                },
+                {
+                    "first": "Jingshu",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Liqun",
+                    "initial": "L.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Wangbing",
+                    "initial": "W.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Lingyi",
+                    "initial": "L.",
+                    "last": "Fu"
+                },
+                {
+                    "first": "Fangyun",
+                    "initial": "F.",
+                    "last": "Xie"
+                },
+                {
+                    "first": "Wenlin",
+                    "initial": "W.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Wuguo",
+                    "initial": "W.",
+                    "last": "Deng"
+                }
+            ],
+            "doi": "10.1111/j.1600-079X.2012.00982.x",
+            "firstpage": "154",
+            "issn": "07423098",
+            "lastpage": "165",
+            "pmid": "22348531",
+            "pub_year": 2012,
+            "title": "Melatonin suppresses proinflammatory mediators in lipopolysaccharide- stimulated CRL1999 cells via targeting MAPK, NF-\u03baB, c/EBP\u03b2, and p300 signaling",
+            "volume": "53"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "S. O.",
+                    "initial": "S.O.",
+                    "last": "Silva"
+                },
+                {
+                    "first": "M. R.",
+                    "initial": "M.R.",
+                    "last": "Rodrigues"
+                },
+                {
+                    "first": "V. F.",
+                    "initial": "V.F.",
+                    "last": "Ximenes"
+                },
+                {
+                    "first": "A. E.B.",
+                    "initial": "A.E.B.",
+                    "last": "Bueno-Da-Silva"
+                },
+                {
+                    "first": "G. P.",
+                    "initial": "G.P.",
+                    "last": "Amarante-Mendes"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Campa"
+                }
+            ],
+            "doi": "10.1016/j.jneuroim.2004.07.015",
+            "firstpage": "146",
+            "issn": "01655728",
+            "lastpage": "152",
+            "pmid": "15465605",
+            "pub_year": 2004,
+            "title": "Neutrophils as a specific target for melatonin and kynuramines: Effects on cytokine release",
+            "volume": "156"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Germaine",
+                    "initial": "G.",
+                    "last": "Escames"
+                },
+                {
+                    "first": "Dar\u00edo",
+                    "initial": "D.",
+                    "last": "Acu\u00f1a-Castroviejo"
+                },
+                {
+                    "first": "Luis Carlos",
+                    "initial": "L.C.",
+                    "last": "L\u00f3pez"
+                },
+                {
+                    "first": "Dun Xian",
+                    "initial": "D.X.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "Maria Dolores",
+                    "initial": "M.D.",
+                    "last": "Maldonado"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "S\u00e1nchez-Hidalgo"
+                },
+                {
+                    "first": "Josefa",
+                    "initial": "J.",
+                    "last": "Le\u00f3n"
+                },
+                {
+                    "first": "Russel J.",
+                    "initial": "R.J.",
+                    "last": "Reiter"
+                }
+            ],
+            "doi": "10.1211/jpp.58.9.0001",
+            "firstpage": "1153",
+            "issn": "00223573",
+            "lastpage": "1165",
+            "pmid": "16945173",
+            "pub_year": 2006,
+            "title": "Pharmacological utility of melatonin in the treatment of septic shock: Experimental and clinical evidence",
+            "volume": "58"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Eloisa",
+                    "initial": "E.",
+                    "last": "Gitto"
+                },
+                {
+                    "first": "Russel J.",
+                    "initial": "R.J.",
+                    "last": "Reiter"
+                },
+                {
+                    "first": "Giuseppe",
+                    "initial": "G.",
+                    "last": "Sabatino"
+                },
+                {
+                    "first": "Giuseppe",
+                    "initial": "G.",
+                    "last": "Buonocore"
+                },
+                {
+                    "first": "Carmelo",
+                    "initial": "C.",
+                    "last": "Romeo"
+                },
+                {
+                    "first": "Placido",
+                    "initial": "P.",
+                    "last": "Gitto"
+                },
+                {
+                    "first": "Concetta",
+                    "initial": "C.",
+                    "last": "Bugg\u00e9"
+                },
+                {
+                    "first": "Giuseppe",
+                    "initial": "G.",
+                    "last": "Trimarchi"
+                },
+                {
+                    "first": "Ignazio",
+                    "initial": "I.",
+                    "last": "Barberi"
+                }
+            ],
+            "doi": "10.1111/j.1600-079X.2005.00251.x",
+            "firstpage": "287",
+            "issn": "07423098",
+            "lastpage": "293",
+            "pmid": "16150110",
+            "pub_year": 2005,
+            "title": "Correlation among cytokines, bronchopulmonary dysplasia and modality of ventilation in preterm newborns: Improvement with melatonin treatment",
+            "volume": "39"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Mi Zhen",
+                    "initial": "M.Z.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Ying Li",
+                    "initial": "Y.L.",
+                    "last": "Liang"
+                },
+                {
+                    "first": "Hua",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Xi",
+                    "initial": "X.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Yin Yin",
+                    "initial": "Y.Y.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Zhi Hui",
+                    "initial": "Z.H.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Yuan Hua",
+                    "initial": "Y.H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Chen",
+                    "initial": "C.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Mei",
+                    "initial": "M.",
+                    "last": "Zhao"
+                },
+                {
+                    "first": "De Xiang",
+                    "initial": "D.X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Li Hua",
+                    "initial": "L.H.",
+                    "last": "Song"
+                }
+            ],
+            "doi": "10.1111/j.1600-079X.2012.01002.x",
+            "firstpage": "325",
+            "issn": "07423098",
+            "lastpage": "334",
+            "pmid": "22537289",
+            "pub_year": 2012,
+            "title": "Melatonin modulates TLR4-mediated inflammatory genes through MyD88- and TRIF-dependent signaling pathways in lipopolysaccharide-stimulated RAW264.7 cells",
+            "volume": "53"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 28636,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Immuno-Navigator, a cutting-edge methodology, was used on our data, which allows researchers to predict the contribution of TF correlation with cell specific gene expression in the immune system.",
+            "startOffset": 28441,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 27026,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "On the other hand, melatonin could suppress IFN-\u03b2 even at 16 h with LPS stimulation.",
+            "startOffset": 26942,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 27432,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In cluster 1, the terms such as \u201ccytoplasmic vesicle\u201d (GO:0031410) were remarkably downregulated.",
+            "startOffset": 27335,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 22823,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Stained cells were observed using an Axiovert200 M equipped with a Colibri LED illumination system and analyzed the fluorescence per area with Zen software for quantification (Carl Zeiss).",
+            "startOffset": 22635,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 33082,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 33081,
+                    "startOffset": 33077
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Indeed, melatonin preferentially suppressed the IRF/STAT families of TFs (cluster 2) than NF-\u03baB families (cluster 1), which is consistent with a previous report that has demonstrated that a synthetic derivative of melatonin inhibited TRIF-dependent signaling [23].",
+            "startOffset": 32818,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31805,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Melatonin decreased the CFSE-labeled E. coli engulfment by phagocytosis (Fig. 4C).",
+            "startOffset": 31723,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 24246,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Cluster 6\u20138 showed transient high noise so they were removed from further analysis.",
+            "startOffset": 24163,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 21295,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Resulting high-scoring genes have high correlation of expression in macrophage-derived gene expression data, which could reflect regulatory interactions (see Fig. 3).",
+            "startOffset": 21129,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 31169,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 31168,
+                    "startOffset": 31164
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "Actin filaments are associated with several cellular dynamics and enable macrophages to phagocytose [22].",
+            "startOffset": 31064,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 32671,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 32670,
+                    "startOffset": 32665
+                },
+                "bib3": {
+                    "endOffset": 32670,
+                    "startOffset": 32665
+                },
+                "bib4": {
+                    "endOffset": 32670,
+                    "startOffset": 32665
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Recent studies have shown that melatonin regulates the inflammatory responses in various immune systems and has a beneficial effect on autoimmune disease and severe inflammatory disease [2\u20134].",
+            "startOffset": 32479,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27563,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In cluster 2, the terms such as \u201cimmune system process\u201d (GO:0002376) were significantly downregulated by melatonin in macrophages.",
+            "startOffset": 27433,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 33402,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 33401,
+                    "startOffset": 33397
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A recent study described that melatonin induced the expression of Nfil3 to limit Th17 cell differentiation and boost the protective Tr1 population [19].",
+            "startOffset": 33250,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29558,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Top ranked motifs in cluster 3 showed the composed mixture of multiple TFs, such as \u201cMAF bZIP transcription factor F\u201d (Maff), \u201cETS proto-oncogene 2\u201d (Ets2), \u201cCysteine and serine rich nuclear protein 1\u201d (Csrnp1), \u201cJunB\u201d (Junb), \u201cRel\u201d (Rel), \u201cCCAAT/enhancer-binding protein beta\u201d (Cebpb).",
+            "startOffset": 29272,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 31063,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 31062,
+                    "startOffset": 31058
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "Simultaneously, TFBS analysis approach also showed enrichment of HIF1\u03b1 which is known to be related to cellular function [21].",
+            "startOffset": 30937,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 18864,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These findings indicate that melatonin inhibits a wide range of cellular functions in the macrophage, thereby possibly providing a novel molecular basis to consider for therapeutic effects of melatonin.",
+            "startOffset": 18662,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19125,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "LPS (Escherichia coli O55:B5) was purchased from Sigma-Aldrich.",
+            "startOffset": 19062,
+            "title": "Reagents and cell culture"
+        },
+        {
+            "endOffset": 33886,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, we identified Hif1\u03b1 as an influential transcription regulator.",
+            "startOffset": 33811,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34465,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In endothelial cells, hypoxia and induction of Hif1\u03b1 induced stabilization of actin fiber by a reduction of Rac-1 signaling.",
+            "startOffset": 34341,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29068,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "As indicated in Fig. 3, we found many candidates enriched in each cluster.",
+            "startOffset": 28994,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 35211,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Finally, we have shown that melatonin is a wide range suppressor for inflammatory responses, and possibly acts by a change in cytoskeleton dynamics such as the depolymerization of actin filaments.",
+            "startOffset": 35015,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21343,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Scores above 10 are regarded to be significant.",
+            "startOffset": 21296,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 23594,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 23593,
+                    "startOffset": 23589
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "The choice of these time points of LPS treatment for transcriptional profiling was guided by previous report which investigated the transcriptional networks in macrophages during LPS-dependent activation over time [19].",
+            "startOffset": 23375,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 24162,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Global gene sets in macrophages are classified into 8 clusters.",
+            "startOffset": 24099,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 30244,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, our TFBS data did not demonstrate a binding site for any ROR activators in any clusters.",
+            "startOffset": 30147,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 23929,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Melatonin treatment did not affect the viability of RAW264.7 during these time courses (data not shown).",
+            "startOffset": 23825,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 30146,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 30145,
+                    "startOffset": 30141
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Additionally, a couple of studies also showed that RAR-related orphan receptor \u03b1 (ROR\u03b1) is essential to the anti-inflammatory effects of melatonin using a sepsis shock mouse model [20].",
+            "startOffset": 29961,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 26215,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To confirm the results from microarray analysis, we also performed qRT-PCR analysis.",
+            "startOffset": 26131,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 24552,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The treatment with melatonin did not induce gene expression over control in cluster 5.",
+            "startOffset": 24466,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 26584,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "On the other hand, the expressions of IL-6 and IFN-\u03b2 were severely inhibited at 1, 3, and 5 h.",
+            "startOffset": 26490,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 21849,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Quantitation was performed with comparative CT method using GAPDH as an endogenous control and non-stimulation cell for calibration.",
+            "startOffset": 21717,
+            "title": "Quantitative real-time RT-PCR (qRT-PCR)"
+        },
+        {
+            "endOffset": 17147,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17146,
+                    "startOffset": 17140
+                },
+                "bib9": {
+                    "endOffset": 17146,
+                    "startOffset": 17140
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Previous studies showed that melatonin had an inhibitory effect on LPS-induction in macrophages through the inhibition of the TLR4-signaling pathway, causing alterations in gene expression of IL-6 and TNF-\u03b1 [9,10].",
+            "startOffset": 16933,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28373,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Only a little upregulation with melatonin was observed in cluster 5, and the biological significance was not clear.",
+            "startOffset": 28258,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 23824,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In this study, we defined three groups of the gene expression profile in response to LPS as follows, the initial group, the intermediate group and the late group showing the highest fold inductions at 1, 3, and 5 h, respectively.",
+            "startOffset": 23595,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 35014,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This may be a crucial molecular mechanism for inhibiting inflammatory responses in macrophages.",
+            "startOffset": 34919,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21716,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Quantitative real-time PCR (qRT-PCR) was performed on a StepOnePlus RT-PCR system using SYBR Green Master Mix (Applied Biosystems).",
+            "startOffset": 21585,
+            "title": "Quantitative real-time RT-PCR (qRT-PCR)"
+        },
+        {
+            "endOffset": 30401,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We also examined SR1078, a synthetic agonist for ROR\u03b1 and ROR\u03b3 in LPS-stimulated macrophages, but no significant differences were observed (data not shown).",
+            "startOffset": 30245,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 20314,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Data analysis was performed by using R (https://www.r-project.org/).",
+            "startOffset": 20246,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 22634,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After permeabilization with 0.1% Triton X-100 in PBS, cells were washed with PBS and stained with phalloidin Alexa594 and DNase I Alexa488 (Molecular Probes) to visualize F-actin and G-actin respectively.",
+            "startOffset": 22430,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 29692,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We found some other notable results from TFBS.",
+            "startOffset": 29646,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 25492,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Cluster 3 and 4 include Cxcl10, Ifnb1, Ifih1/MDA5, Tnf and Areg, Nab2 respectively.",
+            "startOffset": 25409,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 27747,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In cluster 3, the terms such as \u201cnegative regulation of inflammatory response\u201d (GO:0050728) were found.",
+            "startOffset": 27644,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 34340,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 34339,
+                    "startOffset": 34335
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Increasingly, Hif seems to be involved in cytoskeleton remodeling [27].",
+            "startOffset": 34269,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26821,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Melatonin severely inhibited secretion of IL-6 and IFN-\u03b2, but not that of TNF-\u03b1 (Supplemental Fig. 1B).",
+            "startOffset": 26718,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 31517,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Melatonin treatment for 1 h increased monomeric actin and decreased polymeric actin, as shown in green and red, respectively (Fig. 4A).",
+            "startOffset": 31382,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 34820,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "One important aspect here is TLR4-signaling uses the TRIF-pathway for IRF dependent induction of IFN-\u03b2 following receptor endocytosis as well as the MyD88-pathway at the plasma membrane to induce NF-\u03baB dependent induction such as TNF-\u03b1.",
+            "startOffset": 34584,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27334,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The results are summarized in Fig. 2B.",
+            "startOffset": 27296,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 17853,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 17852,
+                    "startOffset": 17845
+                },
+                "bib15": {
+                    "endOffset": 17852,
+                    "startOffset": 17845
+                },
+                "bib16": {
+                    "endOffset": 17852,
+                    "startOffset": 17845
+                }
+            },
+            "secId": "sec1",
+            "sentence": "To discover potential TFs in co-regulated genes in the immune system, the methodologies designed for computational prediction have been updated [14\u201316].",
+            "startOffset": 17701,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23247,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To characterize the effect of melatonin on macrophages, we performed comprehensive microarray analysis in RAW264.7 macrophage.",
+            "startOffset": 23121,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 22937,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 22936,
+                    "startOffset": 22932
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "For phagocytosis assay, cells were infected with CFSE-labeled E. coli for 30 min followed by a 45 min chase [18].",
+            "startOffset": 22824,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 31381,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Actin forms monomeric globules (G-actin) and polymeric filaments (F-actin).",
+            "startOffset": 31306,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 25921,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 25920,
+                    "startOffset": 25916
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Notably, these clusters contained the virus infection related genes, such as Ddx58/RIG-I, Dhx58/LGP2 and Ifih1/MDA5 which are known as critical regulators mediating antiviral signaling in innate immunity and regulated with IRFs [11].",
+            "startOffset": 25688,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 20057,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The number of clusters was determined by using Akaike Information Criterion (AIC).",
+            "startOffset": 19975,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 28993,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 28992,
+                    "startOffset": 28985
+                },
+                "bib15": {
+                    "endOffset": 28992,
+                    "startOffset": 28985
+                },
+                "bib16": {
+                    "endOffset": 28992,
+                    "startOffset": 28985
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Therefore, this technology, based on the assumption that co-regulated gene expressions in each cluster with similar expression profiles are controlled by the same TFs, was utilized to find the candidates of TFs altered by melatonin [14\u201316].",
+            "startOffset": 28753,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 20795,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "To predict candidate transcriptional regulators in melatonin treated macrophage, we used our gene clusters as input to the Co-expression Network Hub Prediction (CNHP) tool of the Immuno-Navigator database (sysimm.ifrec.osaka-u.",
+            "startOffset": 20568,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 17615,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 17614,
+                    "startOffset": 17607
+                },
+                "bib12": {
+                    "endOffset": 17614,
+                    "startOffset": 17607
+                },
+                "bib13": {
+                    "endOffset": 17614,
+                    "startOffset": 17607
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Transcription factors (TFs) are crucial for the site-specific control of gene expression, and numerous studies have intensively analyzed the various sets of TFs binding to specific sites among putative promoter regions of co-regulated genes in macrophages [11\u201313].",
+            "startOffset": 17351,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25305,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Those genes were also induced after 3 h of LPS induction, but the suppression by melatonin in cluster 2 was larger than ones in cluster 1.",
+            "startOffset": 25167,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 24099,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The genes were then clustered as shown in Fig. 1A.",
+            "startOffset": 24049,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 32817,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 32816,
+                    "startOffset": 32809
+                },
+                "bib12": {
+                    "endOffset": 32816,
+                    "startOffset": 32809
+                },
+                "bib13": {
+                    "endOffset": 32816,
+                    "startOffset": 32809
+                }
+            },
+            "secId": "sec4",
+            "sentence": "So far, many studies have established that melatonin suppressed TLR-dependent gene induction which is regulated mainly by NF-\u03baB and IRFs [11\u201313].",
+            "startOffset": 32672,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17700,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "TF binding sites on these promoter regions are likely to be positionally overlapped.",
+            "startOffset": 17616,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25645,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The genes in both clusters were induced quickly after 1 h with LPS induction, but the suppression rate in cluster 3 was less than the ones in cluster 4.",
+            "startOffset": 25493,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 18438,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We found that melatonin suppressed a broad range of inflammatory outcomes as well as regulated various type of TFs such as NF-\u03baB, IRFs, which are consistent with past studies.",
+            "startOffset": 18263,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20825,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 20824,
+                    "startOffset": 20820
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "ac.jp/immuno-navigator/) [14].",
+            "startOffset": 20795,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 26131,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In cluster 5, melatonin did not show the suppressive effect on the LPS-dependent gene expressions, but showed some upregulation of genes between vehicle control and melatonin treatment without LPS stimulation.",
+            "startOffset": 25922,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 26412,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These genes showed the same expression patterns as those detected in the microarray (Supplemental Fig. 1A).",
+            "startOffset": 26305,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 32367,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Additionally, subsequent GO analysis implicated to us that melatonin can alter the cytoskeletal dynamics and bacterial phagocytosis, which has not been reported yet.",
+            "startOffset": 32202,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27643,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Additionally, \u201cruffle membrane\u201d (GO:0032587) was also enriched in this cluster.",
+            "startOffset": 27564,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 26489,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The reduction of TNF-\u03b1 mRNA with melatonin was about 30% at all time points.",
+            "startOffset": 26413,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 28257,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Notably, we hardly found induced gene expressions with melatonin treatment.",
+            "startOffset": 28182,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 32478,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 32477,
+                    "startOffset": 32474
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Melatonin was originally identified as a hormone of the pineal gland that regulates the sleep-wake cycles [1].",
+            "startOffset": 32368,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20245,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The Mann-Whitney test was performed as a statistical analysis to discriminate clusters of genes with differential expression levels between macrophages treated with and without melatonin.",
+            "startOffset": 20058,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 34268,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 34267,
+                    "startOffset": 34263
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Now the Hif pathway is recognized as a key factor in the control of the immune system, for example cooperating with NF-\u03baB to induce proinflammatory cytokine [26].",
+            "startOffset": 34106,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30526,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Hypoxia inducible factor 1\u03b1 subunit (Hif1\u03b1), which is induced in hypoxia, was significantly enriched in cluster 1, 2, and 3.",
+            "startOffset": 30402,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 29271,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In cluster 2, TFs such as \u201cIRF7\u201d (Irf7) were observed with highly correlation.",
+            "startOffset": 29193,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 29646,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In cluster 4 and 5, we could not find enriched TF motifs with significant correlations.",
+            "startOffset": 29559,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 33524,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We identified that the binding sites for Nfil3 in the co-expression genes in cluster 1 and 3 were significantly enriched.",
+            "startOffset": 33403,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18086,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Using these technologies, we can predict which types of TFs regulate the gene expressions in melatonin treated cells and link them to the biological understanding of melatonin's physiological and pathological role in the human body.",
+            "startOffset": 17854,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21128,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For this study, the macrophage-derived co-expression network in the database was used.",
+            "startOffset": 21042,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 31648,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Fluorescence quantification per cell-area also clearly showed that melatonin depolymerized F-actin to monomeric G-actin (Fig. 4B).",
+            "startOffset": 31518,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 26304,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We analyzed TNF-\u03b1, IL-6 and IFN-\u03b2 as representative of typical inflammatory expressions.",
+            "startOffset": 26216,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 16932,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 16638,
+                    "startOffset": 16635
+                },
+                "bib5": {
+                    "endOffset": 16814,
+                    "startOffset": 16809
+                },
+                "bib6": {
+                    "endOffset": 16814,
+                    "startOffset": 16809
+                },
+                "bib7": {
+                    "endOffset": 16931,
+                    "startOffset": 16926
+                },
+                "bib8": {
+                    "endOffset": 16931,
+                    "startOffset": 16926
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although the effect of melatonin in the host immune system depends on the type of cells and the dose [4], numerous reports have shown that melatonin has a tendency to suppress the innate immune system by affecting the function of macrophages and polymorph nuclear neutrophil [5,6] and has a role as a potential novel therapeutic agent in autoimmune and inflammatory disease, including sepsis [7,8].",
+            "startOffset": 16534,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22329,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "RAW264.7 were treated with 1 mM melatonin for 1 h.",
+            "startOffset": 22279,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 18262,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we exhibit the time-course microarray analysis combined with transcription factor binding site (TFBS) prediction to decipher the pathways affected by melatonin.",
+            "startOffset": 18087,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27295,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To understand the biological processes affected by melatonin, we performed enrichment analysis based on GO analysis.",
+            "startOffset": 27179,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 29960,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In our results, we also found that Nfil3 is significantly enriched in cluster 1 and 3 (Fig. 3).",
+            "startOffset": 29865,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 18661,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Furthermore, we also found that melatonin caused destabilization of the cytoskeleton, leading to defective phagocytosis of bacteria.",
+            "startOffset": 18529,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30936,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "This implied to us that melatonin affects cellular function.",
+            "startOffset": 30876,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 21948,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Statistical significance was determined by the Student's t-test with significance set at p < 0.01.",
+            "startOffset": 21850,
+            "title": "Quantitative real-time RT-PCR (qRT-PCR)"
+        },
+        {
+            "endOffset": 25687,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The number of genes in cluster 4 was 118.",
+            "startOffset": 25646,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 31305,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Therefore, to assess the alteration of cellular function by melatonin, we compared the cytoskeletal changes with and without melatonin.",
+            "startOffset": 31170,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 21584,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Total RNA was isolated with Trizol reagent, and reverse-transcribed using reverse transcriptase.",
+            "startOffset": 21488,
+            "title": "Quantitative real-time RT-PCR (qRT-PCR)"
+        },
+        {
+            "endOffset": 23374,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Cells were treated with melatonin or vehicle control for 1 h and followed by induction with LPS (100 ng/ml) for 1, 3, and 5 h.",
+            "startOffset": 23248,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 33987,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The relationship between melatonin and Hif1\u03b1 in the innate immune system has not been described yet.",
+            "startOffset": 33887,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23014,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After washing with PBS, images were taken and analyzed identically as above.",
+            "startOffset": 22938,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 24465,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In these clusters, the changes in gene expressions by melatonin treatment was largely downregulation.",
+            "startOffset": 24364,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 24605,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Hereafter we focused on the analysis in cluster 1\u20134.",
+            "startOffset": 24553,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 33249,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In addition to the contribution of NF-\u03baB and IRFs, TFBS analysis elucidated the involvement of some other TFs which may be crucial to melatonin suppressive mechanisms.",
+            "startOffset": 33082,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26717,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We compared cytokine production from the LPS-induced macrophage with vehicle control and melatonin by ELISA and saw similar results.",
+            "startOffset": 26585,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 16443,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 16442,
+                    "startOffset": 16439
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Melatonin is the major product released from the pineal gland that regulates sleep and circadian rhythms [1].",
+            "startOffset": 16334,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19251,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "ELISA kits (BioLegend) were used for measurement of TNF-\u03b1, IL-6 and IFN-\u03b2 in accordance with the manufacturer's instructions.",
+            "startOffset": 19126,
+            "title": "Reagents and cell culture"
+        },
+        {
+            "endOffset": 34105,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 34104,
+                    "startOffset": 34100
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The expression of Hif families are triggered by hypoxia, but also by other factors associated with inflammation [25].",
+            "startOffset": 33988,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19778,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Raw intensities were quantile normalized and genes having significantly higher intensities than background and more than 3-fold induction with LPS stimulation compared to the control were selected.",
+            "startOffset": 19581,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 19818,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "This gave 2984 selected genes in total.",
+            "startOffset": 19779,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 19061,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The murine macrophage cell line, RAW264.7, was cultured in RPMI 1640 supplemented with 5% FBS.",
+            "startOffset": 18967,
+            "title": "Reagents and cell culture"
+        },
+        {
+            "endOffset": 21041,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In brief, CNHP predicts genes that have highly correlated expression with the input genes, through the analysis of a gene co-expression network based on a large collection of manually annotated gene expression data.",
+            "startOffset": 20826,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 35429,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Since the immune system, endocrine system, and nervous system are tightly connected, the treatment with melatonin may cause a potential risk of infection because of the widely suppressive effects to the immune system.",
+            "startOffset": 35212,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25166,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Genes found in cluster 2 were Stat3, Ddx58/RIG-I and Dhx58/LPG2.",
+            "startOffset": 25102,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 33611,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 33610,
+                    "startOffset": 33606
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Nfil3 has also been described as a negative repressor for IL12 p40 in macrophage [24].",
+            "startOffset": 33525,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26941,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Interestingly, the suppression effect by melatonin for IL-6 was not sustained (up to 16 h of LPS stimulation, Fig. 1B).",
+            "startOffset": 26822,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 28752,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 28751,
+                    "startOffset": 28744
+                },
+                "bib12": {
+                    "endOffset": 28751,
+                    "startOffset": 28744
+                },
+                "bib13": {
+                    "endOffset": 28751,
+                    "startOffset": 28744
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Numerous TFs such as NF-\u03baB, IRFs and STATs are widely known to play roles in gene expression evoked by LPS [11\u201313].",
+            "startOffset": 28637,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 31722,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Phagocytosis is the most characteristic cellular function in macrophages.",
+            "startOffset": 31649,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 24048,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We set the threshold to select genes for which expression by LPS was upregulated or downregulated more than threefold.",
+            "startOffset": 23930,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 20426,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Data of microarray analysis were deposited in GEO (Gene Expression Omnibus) with the accession number GSE94629.",
+            "startOffset": 20315,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 20567,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 20566,
+                    "startOffset": 20562
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Subsequent selection of enriched gene ontology (GO) terms were performed based on the calculated q values with a threshold of q < 0.05 [16].",
+            "startOffset": 20427,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 33810,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In addition to suppression of these TFs, melatonin also suppressed a wide range of TFs, such as Foxp4, Ifi204, Nr4a3 which are not recognized as regulatory factors in melatonin suppression (Fig. 3).",
+            "startOffset": 33612,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24363,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Significant differences between vehicle control and melatonin-treated cells were observed in clusters 1\u20134 (Fig. 1B).",
+            "startOffset": 24247,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 25408,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Additionally, the suppression between melatonin vs control showed significance in cluster 2 (Fig. 1B).",
+            "startOffset": 25306,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 28181,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Together, melatonin showed the suppressive effects on various immune responses in macrophages, which are related to protecting against infection such as viruses, protozoa, intracellular bacteria.",
+            "startOffset": 27986,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 30875,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "GO analysis showed terms related to cell function such as \u201ccytoplasmic vesicles\u201d (in cluster 1) and \u201cruffle membrane\u201d in cluster 2 with significant q-value.",
+            "startOffset": 30719,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 24800,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In cluster 2, melatonin downregulated gene expressions at all time points (Fig. 1B).",
+            "startOffset": 24716,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 21446,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 21445,
+                    "startOffset": 21441
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "TFs were defined using GO term GO:0001071 (\u201cnucleic acid binding transcription factor activity\u201d) [17].",
+            "startOffset": 21344,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 22247,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The following primer sets were used: GAPDH; 5\u2032-gcacagtcaaggccgagaat-3\u2032 and 5\u2032-gccttctccatggtggtgaa-3\u2019; TNF-\u03b1; 5\u2032-ctcttctcattcctgttgtgg-3\u2032 and 5\u2032-aatcggctgacggtgtgg-3\u2019; IL-6; 5\u2032-agttgccttcttgggactga-3\u2032 and 5\u2032-tccacgatttcccagagaac-3\u2019: IFN-\u03b2; 5\u2032-ccctatggagatgacggaga-3\u2032 and 5\u2032-ctgtctgctggtggagttca-3\u2019.",
+            "startOffset": 21949,
+            "title": "Quantitative real-time RT-PCR (qRT-PCR)"
+        },
+        {
+            "endOffset": 27127,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Probably, this data implicated that the mechanism of suppression for these cytokines were different.",
+            "startOffset": 27027,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 25101,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The genes in cluster 1 were identified as IL-1\u03b2 and IL-6, which are largely observed highly induction after 3 h of LPS induction.",
+            "startOffset": 24972,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 32201,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This study addresses that melatonin treatment modulated a wide range of signaling pathways and TFs in LPS-induced inflammatory expression and transcriptional disposition were more pronounced with clustering genes based on time-dependent expression profiles.",
+            "startOffset": 31944,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34918,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Microarray data showed that melatonin suppressed Hif1\u03b1 expression compared to the control by 51%.",
+            "startOffset": 34821,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16533,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 16532,
+                    "startOffset": 16527
+                },
+                "bib3": {
+                    "endOffset": 16532,
+                    "startOffset": 16527
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In addition, melatonin has been shown to act as a modulator of the immune response [2,3].",
+            "startOffset": 16444,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24715,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In cluster 1, 3 and 4, the gene expression with LPS-induction for 1, 3 and 5 h were inhibited with melatonin.",
+            "startOffset": 24606,
+            "title": "Comprehensive microarray analysis of macrophage in responses to LPS after melatonin pretreatment"
+        },
+        {
+            "endOffset": 17351,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Despite these advances in the understanding of the inhibitory effects of melatonin on inflammatory responses, the molecular mechanism of how melatonin suppresses these signaling pathways remains unclear.",
+            "startOffset": 17148,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19580,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Microarray expression analysis was performed using total RNA of macrophages which were induced with 100 ng/ml LPS for 1, 3, 5 h after the pretreatment with 1 mM melatonin for 1 h. For the gene expression analysis, SurePrint G3 Mouse GE 8 \u00d7 60 K V2.0 one-color Microarray Kit (Agilent Technologies) was used.",
+            "startOffset": 19273,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 30660,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Taken together, melatonin suppression had an effect on various types of TFs such as NF-\u03baB and IRFs in suppressed clusters 1,2, and 3.",
+            "startOffset": 30527,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 34583,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We have observed F-actin depolymerization and increased amounts of monomeric G-actin in melatonin treatment (Fig. 4).",
+            "startOffset": 34466,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22429,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The cells were then washed with PBS and fixed with 4% paraformaldehyde at room temperature for 1 h.",
+            "startOffset": 22330,
+            "title": "Immunofluorescence microscopy"
+        },
+        {
+            "endOffset": 31933,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "These data showed that melatonin destabilized the polymerization of actin filaments and resulted in inhibition of phagocytosis.",
+            "startOffset": 31806,
+            "title": "Fluorescence images of macrophage treated with melatonin"
+        },
+        {
+            "endOffset": 18966,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Melatonin was purchased from Nacalai tesque (Japan).",
+            "startOffset": 18914,
+            "title": "Reagents and cell culture"
+        },
+        {
+            "endOffset": 19974,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Expression values of the genes were rescaled to a mean of 0 and a standard deviation of 1, and hierarchical clustering was performed with Ward's algorithm.",
+            "startOffset": 19819,
+            "title": "Microarray analysis"
+        },
+        {
+            "endOffset": 24971,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Fig. 2A is a list of selected gene expressions that were downregulated with melatonin.",
+            "startOffset": 24885,
+            "title": "LPS-induced gene expressions and group analysis in melatonin pretreated macrophage"
+        },
+        {
+            "endOffset": 18528,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Additionally, we could discover novel relationships with TFs such as Hif1\u03b1, NR4a3, Bcl-3.",
+            "startOffset": 18439,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29192,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In cluster 1, the most highly correlated TFs were \u201cNF-\u03baB subunit 2\u201d (Nfkb2), \u201cNF-\u03baB subunit 1\u201d (Nfkb1) and others (Fig. 3).",
+            "startOffset": 29069,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 27986,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In cluster 4, we did not enriched the GO terms with enough significances except \u201cpositive regulation of extrinsic apoptotic signaling pathway via death domain receptors\u201d (GO:1902043) and \u201cprotein homotrimerization\u201d (GO:0070207) (Fig. 2B).",
+            "startOffset": 27748,
+            "title": "GO analysis correlated with melatonin suppression"
+        },
+        {
+            "endOffset": 29864,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 29863,
+                    "startOffset": 29859
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "It has been previously reported that melatonin induced the expression of the nuclear factor interleukin 3 (Nfil3) to suppress the differentiation of Th17 lymphocytes [19].",
+            "startOffset": 29693,
+            "title": "Functional analysis of TFBS correlated with melatonin suppression"
+        }
+    ],
+    "docId": "S0006291X17303339",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Miki",
+                "initial": "M.",
+                "last": "Kadena"
+            },
+            {
+                "email": null,
+                "first": "Yutaro",
+                "initial": "Y.",
+                "last": "Kumagai"
+            },
+            {
+                "email": null,
+                "first": "Alexis",
+                "initial": "A.",
+                "last": "Vandenbon"
+            },
+            {
+                "email": null,
+                "first": "Hitomi",
+                "initial": "H.",
+                "last": "Matsushima"
+            },
+            {
+                "email": null,
+                "first": "Haruka",
+                "initial": "H.",
+                "last": "Fukamachi"
+            },
+            {
+                "email": null,
+                "first": "Noboru",
+                "initial": "N.",
+                "last": "Maruta"
+            },
+            {
+                "email": null,
+                "first": "Hideo",
+                "initial": "H.",
+                "last": "Kataoka"
+            },
+            {
+                "email": null,
+                "first": "Takafumi",
+                "initial": "T.",
+                "last": "Arimoto"
+            },
+            {
+                "email": null,
+                "first": "Hirobumi",
+                "initial": "H.",
+                "last": "Morisaki"
+            },
+            {
+                "email": null,
+                "first": "Takahiro",
+                "initial": "T.",
+                "last": "Funatsu"
+            },
+            {
+                "email": "hkuwata@dent.showa-u.ac.jp",
+                "first": "Hirotaka",
+                "initial": "H.",
+                "last": "Kuwata"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.02.063",
+        "firstpage": "414",
+        "issn": "0006291X",
+        "keywords": [
+            "Inflammation",
+            "Macrophage",
+            "Melatonin",
+            "Microarray analysis",
+            "Transcription factor"
+        ],
+        "lastpage": "420",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Microarray and gene co-expression analysis reveals that melatonin attenuates immune responses and modulates actin rearrangement in macrophages"
+    }
+}

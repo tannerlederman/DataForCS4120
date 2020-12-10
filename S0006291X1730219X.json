@@ -1,0 +1,2060 @@
+{
+    "abstract": "Multi electrode arrays (MEAs) are increasingly used to detect external field potentials in electrically active cells. Recently, in combination with cardiomyocytes derived from human (induced) pluripotent stem cells they have started to become a preferred tool to examine newly developed drugs for potential cardiac toxicity in pre-clinical safety pharmacology. The most important risk parameter is proarrhythmic activity in cardiomyocytes which can cause sudden cardiac death. Whilst MEAs can provide medium- to high- throughput noninvasive assay platform, the translation of a field potential to cardiac action potential (normally measured by low-throughput patch clamp) is complex so that accurate assessment of drug risk to the heart is in practice still challenging. To address this, we used computational simulation to study the theoretical relationship between aspects of the field potential and the underlying cardiac action potential. We then validated the model in both primary mouse- and human pluripotent (embryonic) stem cell-derived cardiomyocytes showing that field potentials measured in MEAs could be converted to action potentials that were essentially identical to those determined directly by electrophysiological patch clamp. The method significantly increased the amount of information that could be extracted from MEA measurements and thus combined the advantages of medium/high throughput with more informative readouts. We believe that this will benefit the analysis of drug toxicity screening of cardiomyocytes using in time and accuracy.",
+    "author_highlights": [
+        {
+            "endOffset": 18304,
+            "sentence": "Computational model for the translation of field potential to action potential.",
+            "startOffset": 18225
+        },
+        {
+            "endOffset": 18373,
+            "sentence": "Validation of the model using patch clamp and multi electrode array.",
+            "startOffset": 18305
+        },
+        {
+            "endOffset": 18453,
+            "sentence": "Quantification of INA modulation, prolongation and triangulation from MEA data.",
+            "startOffset": 18374
+        },
+        {
+            "endOffset": 18531,
+            "sentence": "Validation of the correlations by measurements with known cardioactive drugs.",
+            "startOffset": 18454
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Stefan R.",
+                    "initial": "S.R.",
+                    "last": "Braam"
+                },
+                {
+                    "first": "Leon",
+                    "initial": "L.",
+                    "last": "Tertoolen"
+                },
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "van de Stolpe"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Meyer"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Passier"
+                },
+                {
+                    "first": "Christine L.",
+                    "initial": "C.L.",
+                    "last": "Mummery"
+                }
+            ],
+            "doi": "10.1016/j.scr.2009.11.004",
+            "firstpage": "107",
+            "issn": "18735061",
+            "lastpage": "116",
+            "pmid": "20034863",
+            "pub_year": 2010,
+            "title": "Prediction of drug-induced cardiotoxicity using human embryonic stem cell-derived cardiomyocytes",
+            "volume": "4"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Champeroux"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Martel"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Vannier"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Blanc"
+                },
+                {
+                    "first": "J. Y.",
+                    "initial": "J.Y.",
+                    "last": "Leguennec"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Fowler"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Richard"
+                }
+            ],
+            "firstpage": "101",
+            "issn": "00405957",
+            "lastpage": "109",
+            "pmid": "10860008",
+            "pub_year": 2000,
+            "title": "The preclinical assessment of the risk for QT interval prolongation",
+            "volume": "55"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fermini"
+                },
+                {
+                    "first": "Anthony A.",
+                    "initial": "A.A.",
+                    "last": "Fossa"
+                }
+            ],
+            "doi": "10.1038/nrd1108",
+            "firstpage": "439",
+            "issn": "14741776",
+            "lastpage": "447",
+            "pmid": "12776219",
+            "pub_year": 2003,
+            "title": "The impact of drug-induced QT interval prolongation on drug discovery and development",
+            "volume": "2"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Kenneth R.",
+                    "initial": "K.R.",
+                    "last": "Boheler"
+                },
+                {
+                    "first": "Jaroslaw",
+                    "initial": "J.",
+                    "last": "Czyz"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Tweedie"
+                },
+                {
+                    "first": "Huang Tian",
+                    "initial": "H.T.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Sergey V.",
+                    "initial": "S.V.",
+                    "last": "Anisimov"
+                },
+                {
+                    "first": "Anna M.",
+                    "initial": "A.M.",
+                    "last": "Wobus"
+                }
+            ],
+            "doi": "10.1161/01.RES.0000027865.61704.32",
+            "firstpage": "189",
+            "issn": "00097330",
+            "lastpage": "201",
+            "pmid": "12169644",
+            "pub_year": 2002,
+            "title": "Differentiation of pluripotent embryonic stem cells into cardiomyocytes",
+            "volume": "91"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Gui Rong",
+                    "initial": "G.R.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Chu Pak",
+                    "initial": "C.P.",
+                    "last": "Lau"
+                },
+                {
+                    "first": "Tack Ki",
+                    "initial": "T.K.",
+                    "last": "Leung"
+                },
+                {
+                    "first": "Stanley",
+                    "initial": "S.",
+                    "last": "Nattel"
+                }
+            ],
+            "doi": "10.1016/j.hrthm.2004.06.003",
+            "firstpage": "460",
+            "issn": "15475271",
+            "lastpage": "468",
+            "pmid": "15851200",
+            "pub_year": 2004,
+            "title": "Ionic current abnormalities associated with prolonged action potentials in cardiomyocytes from diseased human right ventricles",
+            "volume": "1"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Junyi",
+                    "initial": "J.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "Liang",
+                    "initial": "L.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Steve J.",
+                    "initial": "S.J.",
+                    "last": "Fiene"
+                },
+                {
+                    "first": "Blake D.",
+                    "initial": "B.D.",
+                    "last": "Anson"
+                },
+                {
+                    "first": "James A.",
+                    "initial": "J.A.",
+                    "last": "Thomson"
+                },
+                {
+                    "first": "Timothy J.",
+                    "initial": "T.J.",
+                    "last": "Kamp"
+                },
+                {
+                    "first": "Kyle L.",
+                    "initial": "K.L.",
+                    "last": "Kolaja"
+                },
+                {
+                    "first": "Bradley J.",
+                    "initial": "B.J.",
+                    "last": "Swanson"
+                },
+                {
+                    "first": "Craig T.",
+                    "initial": "C.T.",
+                    "last": "January"
+                }
+            ],
+            "doi": "10.1152/ajpheart.00694.2011",
+            "firstpage": "H2006",
+            "issn": "03636135",
+            "lastpage": "H2017",
+            "pmid": "21890694",
+            "pub_year": 2011,
+            "title": "High purity human-induced pluripotent stem cell-derived cardiomyocytes: Electrophysiological properties of action potentials and ionic currents",
+            "volume": "301"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Yukiomi",
+                    "initial": "Y.",
+                    "last": "Tsuji"
+                },
+                {
+                    "first": "Tobias",
+                    "initial": "T.",
+                    "last": "Opthof"
+                },
+                {
+                    "first": "Kenji",
+                    "initial": "K.",
+                    "last": "Yasui"
+                },
+                {
+                    "first": "Yasuya",
+                    "initial": "Y.",
+                    "last": "Inden"
+                },
+                {
+                    "first": "Haruki",
+                    "initial": "H.",
+                    "last": "Takemura"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Niwa"
+                },
+                {
+                    "first": "Zhibo",
+                    "initial": "Z.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Jong Kook",
+                    "initial": "J.K.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Haruo",
+                    "initial": "H.",
+                    "last": "Honjo"
+                },
+                {
+                    "first": "Kaichiro",
+                    "initial": "K.",
+                    "last": "Kamiya"
+                },
+                {
+                    "first": "Itsuo",
+                    "initial": "I.",
+                    "last": "Kodama"
+                }
+            ],
+            "doi": "10.1161/01.CIR.0000031160.86313.24",
+            "firstpage": "2012",
+            "issn": "00097322",
+            "lastpage": "2018",
+            "pmid": "12370228",
+            "pub_year": 2002,
+            "title": "Ionic mechanisms of acquired QT prolongation and torsades de pointes in rabbits with chronic complete atrioventricular block",
+            "volume": "106"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Yukiomi",
+                    "initial": "Y.",
+                    "last": "Tsuji"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Zicha"
+                },
+                {
+                    "first": "Xiao Yan",
+                    "initial": "X.Y.",
+                    "last": "Qi"
+                },
+                {
+                    "first": "Itsuo",
+                    "initial": "I.",
+                    "last": "Kodama"
+                },
+                {
+                    "first": "Stanley",
+                    "initial": "S.",
+                    "last": "Nattel"
+                }
+            ],
+            "doi": "10.1161/CIRCULATIONAHA.105.552968",
+            "firstpage": "345",
+            "issn": "00097322",
+            "lastpage": "355",
+            "pmid": "16432066",
+            "pub_year": 2006,
+            "title": "Potassium channel subunit remodeling in rabbits exposed to long-term bradycardia or tachycardia: Discrete arrhythmogenic consequences related to differential delayed-rectifier changes",
+            "volume": "113"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Paul G.A.",
+                    "initial": "P.G.A.",
+                    "last": "Volders"
+                },
+                {
+                    "first": "Karin R.",
+                    "initial": "K.R.",
+                    "last": "Sipido"
+                },
+                {
+                    "first": "Marc A.",
+                    "initial": "M.A.",
+                    "last": "Vos"
+                },
+                {
+                    "first": "Roel L.H.M.G.",
+                    "initial": "R.L.H.M.G.",
+                    "last": "Sp\u00e4tjens"
+                },
+                {
+                    "first": "Jet D.M.",
+                    "initial": "J.D.M.",
+                    "last": "Leunissen"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Carmeliet"
+                },
+                {
+                    "first": "Hein J.J.",
+                    "initial": "H.J.J.",
+                    "last": "Wellens"
+                }
+            ],
+            "doi": "10.1161/01.CIR.100.24.2455",
+            "firstpage": "2455",
+            "issn": "00097322",
+            "lastpage": "2461",
+            "pmid": "10595960",
+            "pub_year": 1999,
+            "title": "Downregulation of delayed rectifier K+ currents in dogs with chronic complete atrioventricular block and acquired torsades de pointes",
+            "volume": "100"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Mummery"
+                },
+                {
+                    "first": "Dorien",
+                    "initial": "D.",
+                    "last": "Ward-van Oostwaard"
+                },
+                {
+                    "first": "Pieter",
+                    "initial": "P.",
+                    "last": "Doevendans"
+                },
+                {
+                    "first": "Rene",
+                    "initial": "R.",
+                    "last": "Spijker"
+                },
+                {
+                    "first": "Stieneke",
+                    "initial": "S.",
+                    "last": "Van den Brink"
+                },
+                {
+                    "first": "Rutger",
+                    "initial": "R.",
+                    "last": "Hassink"
+                },
+                {
+                    "first": "Marcel",
+                    "initial": "M.",
+                    "last": "Van der Heyden"
+                },
+                {
+                    "first": "Tobias",
+                    "initial": "T.",
+                    "last": "Opthof"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Pera"
+                },
+                {
+                    "first": "Aart",
+                    "initial": "A.",
+                    "last": "Brutel de la Riviere"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Passier"
+                },
+                {
+                    "first": "Leon",
+                    "initial": "L.",
+                    "last": "Tertoolen"
+                }
+            ],
+            "firstpage": "2733",
+            "issn": "00097322",
+            "lastpage": "2740",
+            "pmid": "12742992",
+            "pub_year": 2003,
+            "title": "Differentiation of human embryonic stem cells to cardiomyocytes: Role of coculture with visceral endoderm-like cells",
+            "volume": "107"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Magdaline",
+                    "initial": "M.",
+                    "last": "Costa"
+                },
+                {
+                    "first": "Mirella",
+                    "initial": "M.",
+                    "last": "Dottori"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Ng"
+                },
+                {
+                    "first": "Susan M.",
+                    "initial": "S.M.",
+                    "last": "Hawes"
+                },
+                {
+                    "first": "Koula",
+                    "initial": "K.",
+                    "last": "Sourris"
+                },
+                {
+                    "first": "Pegah",
+                    "initial": "P.",
+                    "last": "Jamshidi"
+                },
+                {
+                    "first": "Martin F.",
+                    "initial": "M.F.",
+                    "last": "Pera"
+                },
+                {
+                    "first": "Andrew G.",
+                    "initial": "A.G.",
+                    "last": "Elefanty"
+                },
+                {
+                    "first": "Edouard G.",
+                    "initial": "E.G.",
+                    "last": "Stanley"
+                }
+            ],
+            "doi": "10.1038/nmeth748",
+            "firstpage": "259",
+            "issn": "15487091",
+            "lastpage": "260",
+            "pmid": "15782217",
+            "pub_year": 2005,
+            "title": "The hESC line Envy expresses high levels of GFP in all differentiated progeny",
+            "volume": "2"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 23592,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Large numbers of contracting areas were obtained within 12 days that consisted of 20\u201325% cardiomyocytes.",
+            "startOffset": 23488,
+            "title": "hPSC-CM and differentiation"
+        },
+        {
+            "endOffset": 19500,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this context, the Food and Drug Administration recently initiated the \u201cComprehensive in Vitro Proarrhythmia Assay\u201d which aims to establish robust methods to assess cardiac drug safety using hiPSC-CMs.",
+            "startOffset": 19297,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29891,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "FPs resulting from our model are shown in Fig. 4B.",
+            "startOffset": 29841,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 20473,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 20472,
+                    "startOffset": 20467
+                },
+                "bib6": {
+                    "endOffset": 20472,
+                    "startOffset": 20467
+                },
+                "bib7": {
+                    "endOffset": 20472,
+                    "startOffset": 20467
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prolongation or shortening of repolarization can lead to concomitant modulation of the QT interval [5\u20137].",
+            "startOffset": 20368,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26843,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The underlying electrical transfer function of a MEA seems to act as a simple second order filter but in reality the final shape of the FP is dependent on the behaviour of all resistors and capacitors present in the circuit.",
+            "startOffset": 26619,
+            "title": "Simulations"
+        },
+        {
+            "endOffset": 29629,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "The peaks of the FPs are shown in Fig. 3E. Both slope upstrokes (Fig. 3F) and slope decays were analysed (Fig. 3G).",
+            "startOffset": 29514,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 24352,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The MEAs used had titanium nitrate electrodes of 30 \u03bcm in size and a spacing of 200 \u03bcm.",
+            "startOffset": 24265,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 21457,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In practice extraction of this information is hampered by poor knowledge of the underlying relationship (transfer function) between the AP and the FP.",
+            "startOffset": 21307,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24689,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Multisim (Multisim 10.1.1 National Instruments, Austin, Texas, USA) SPICE based software was used for the transformation of APs to FPs according to the equivalent circuit depicted in Fig. 1B.",
+            "startOffset": 24498,
+            "title": "Software and data analysis"
+        },
+        {
+            "endOffset": 22420,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The pipette contained buffer consisting of 145 mM KCl, 5 mM NaCl, 2 mM CaCl2, 4 mM EGTA, 2 mM MgCl2, and 10 mM HEPES, adjusted to pH 7.30 with KOH.",
+            "startOffset": 22273,
+            "title": "Patch clamp electrophysiology"
+        },
+        {
+            "endOffset": 33596,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "In our study we used levels of 90%\u201345% of the peak amplitude.",
+            "startOffset": 33535,
+            "title": "Sodium current modulation"
+        },
+        {
+            "endOffset": 19771,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Classically, the cardiac action potential (AP) is measured using patch clamp electrophysiology in current clamp mode.",
+            "startOffset": 19654,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34563,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 34562,
+                    "startOffset": 34558
+                }
+            },
+            "secId": "sec4.3",
+            "sentence": "As a result, assays that measure IKr block have become standard tools for assessing cardiac hazard [11].",
+            "startOffset": 34459,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 31940,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "E-4031, a class III antiarrhythmic agent, is well known for decreasing the IKr current, while Bay K 8644 induces FDP prolongation by increasing activation of the L-type Ca2+ channel.",
+            "startOffset": 31758,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 26256,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Next, the FP of mouse E17.5 cardiomyocytes was recorded with MEA (Fig. 1G) and spectrally analysed (Fig. 1H).",
+            "startOffset": 26147,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 20912,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Although these parameters can be accurately measured using patch clamp electrophysiology, this is labour intensive and requires highly skilled experienced operators.",
+            "startOffset": 20747,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25313,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "From a linear electronic circuit perspective it functions as a high pass filter.",
+            "startOffset": 25233,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 31239,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "APs and corresponding FPs were generated that showed a high degree of triangulation (Fig. 4C and D, respectively).",
+            "startOffset": 31125,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 30784,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Differences of APD90-APD70 are used to quantify modulation of IKr, IKs currents.",
+            "startOffset": 30704,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 33443,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "Vmax can be derived from both the slope upstroke and slope decay of the FP which can be obtained by linear regression.",
+            "startOffset": 33325,
+            "title": "Sodium current modulation"
+        },
+        {
+            "endOffset": 30250,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "hPSC-CMs were then exposed to E-4031 (Fig. 4J) and Bay K 8644 (Fig. 4K) to shorten and prolong the FPD respectively, and measured by MEA.",
+            "startOffset": 30113,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 31124,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Since the FP is strongly related to changes in the AP, we investigated whether it was possible to derive an indication of triangulation from FPs by measuring the interval of peak 3\u2032 and 4\u2032 (FPD4\u2032-FPD3\u2032; Suppl. Fig. 1).",
+            "startOffset": 30906,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 29060,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "In order to address the robustness of the relationship in practice, we investigated the effects for different values for Cje and Rj to model variation in cell attachment.",
+            "startOffset": 28890,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 28890,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "Estimation of the slope upstroke and slope decay of the peak by linear regression was carried out over the trajectory from 45% to 95% of the peak or 45%\u201395% of the minimum amplitude of the FP.",
+            "startOffset": 28698,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 25766,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Mouse cardiomyocytes were chosen for comparison of APs and FPs experiments because of their homogeneity and reproducibility in both electrophysiology and MEA measurements.",
+            "startOffset": 25595,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 23264,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Mouse experiments were performed conform EU Directive 2010/63/EU for animal experiments (Leiden University Medical Center).",
+            "startOffset": 23141,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 21609,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Here we present a robust basis for more informative MEA analysis by comparing simulated APs with their resulting FPs using an electrical circuit model.",
+            "startOffset": 21458,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22046,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Microelectrodes with a resistance between 2 and 4 MOhm were made from Borosilicate glass (Warner Instruments, GC-150 T) with Flaming/Brown Micropipette Puller Model 97 (Sutter Instruments, CA).",
+            "startOffset": 21853,
+            "title": "Patch clamp electrophysiology"
+        },
+        {
+            "endOffset": 28092,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "An mouse E17.5 cardiomyocyte AP was simulated (Fig. 2A) and the corresponding FPs were generated using different combinations for Rj and Cje with a product constant of 5 F\u00b7Ohm (Fig 2E and F; Table 2).",
+            "startOffset": 27892,
+            "title": "Simulations"
+        },
+        {
+            "endOffset": 26090,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "After the filter step, peak power frequencies were quantified (Table 1).",
+            "startOffset": 26018,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 33930,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "Analysis of the FP duration is one of the most commonly used parameters in cardiac toxicity assays on MEAs.",
+            "startOffset": 33823,
+            "title": "FPD prolongation and shortening"
+        },
+        {
+            "endOffset": 25062,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The FP of a cell on a MEA electrode can be best understood from the electronic equivalent circuit (Fig. 1B).",
+            "startOffset": 24954,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 22685,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Tissue fragments were then incubated in enzyme-containing medium for 25\u201335 min at 37 \u00b0C.",
+            "startOffset": 22597,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 20131,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Alterations of one or more of these currents can lead to serious dysfunction of the heart, such as Torsade de Pointes (TdP) or prolongation of the \u201cQT interval\u201d on the standard electrocardiogram.",
+            "startOffset": 19936,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34041,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "There is a good linear relationship (R2 = 0.999) between the AP duration and the duration of the resulting FP.",
+            "startOffset": 33931,
+            "title": "FPD prolongation and shortening"
+        },
+        {
+            "endOffset": 19213,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Most recently, in combination with cardiomyocytes derived from human (induced) pluripotent stem cells (hiPSC-CMs) they have started to emerge as powerful tools to examine the ability of certain compounds to induce arrhythmias in the heart, which can lead to \u201cSudden Cardiac Death\u201d.",
+            "startOffset": 18932,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28297,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "APs of hPSC-CMs with different upstroke velocities (Na+ currents) were generated and analysed (Fig. 3A).",
+            "startOffset": 28193,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 31582,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The relationship between the APD90 -APD70 and the FPD4\u2032 -FPD3\u2032 are in reasonably good agreement with a linear relationship (R2 = 0.9452) (Fig. 4I), while the APD90-APD70 and the FPD4\u2032-FPD3\u2032 of the prolonged APs and FPs without modulation of the potassium currents during repolarization (Fig. 4E and F, respectively) do not show triangulation.",
+            "startOffset": 31240,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 21061,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "By contrast, MEAs are much more user-friendly, are medium- to high- throughput in use but record the cardiac field potential (FP) instead of the AP.",
+            "startOffset": 20913,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34458,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "In humans, drug-induced block of the rapid component of the K+ channels (IKr or IKs) can induce ventricular tachyarrhythmias in the heart known as TdP.",
+            "startOffset": 34307,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 35466,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Work in the Mummery lab is supported by the European Research Council [grant number ERCAdG 323182 STEMCARDIOVASC].",
+            "startOffset": 35352,
+            "title": "Funding"
+        },
+        {
+            "endOffset": 26354,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "This spectrum was almost identical to the power spectrum obtained from the filtered AP (Fig. 1F).",
+            "startOffset": 26257,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 28421,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "The upstroke duration of the AP was varied from 0.25 to 4 ms resulting in Vmax values of 400 Vs\u22121 to 25 Vs\u22121, respectively.",
+            "startOffset": 28298,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 33186,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "As a direct result from our simulations, it is possible to interpret under various conditions which phenomenon underlies modulation induced by unknown drugs, using our simulation sets for typecasting.",
+            "startOffset": 32986,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21306,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 21186,
+                    "startOffset": 21183
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prolongation or shortening of FP duration (FPD) are routinely measured on MEAs and are considered a measure of the APD90 [1], but other parameters are difficult to extract from FPs although they may actually contain a high level of information.",
+            "startOffset": 21062,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21852,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 21851,
+                    "startOffset": 21848
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Patch clamp electrophysiology was essentially done as described previously [8].",
+            "startOffset": 21773,
+            "title": "Patch clamp electrophysiology"
+        },
+        {
+            "endOffset": 32985,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here we showed that many of these changes can be derived from the FP.",
+            "startOffset": 32916,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20367,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Drug induced changes in the AP can be caused by modulations in Na+ and Ca2+ inward currents or several of the outward K+ currents, such as the rapidly activated (IKr) and slow activated (IKs) currents in human cardiomyocytes (Fig. 1A).",
+            "startOffset": 20132,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26544,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "This demonstrated that the transfer function of the MEA electrode can be modelled as a high pass filter with an Fc value around 30 Hz.",
+            "startOffset": 26410,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 21720,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We validated our findings by analysis of FPs recorded on MEAs in hPSC-CMs exposed to drugs with known effects.",
+            "startOffset": 21610,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24469,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "TTX was obtained from Alomone Labs (Jerusalem, Israel), Bay K 8644 from Tocris Bioscience (Bristol, United Kingdom).",
+            "startOffset": 24353,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 22596,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Hearts of mouse embryos at embryonic day (E)17.5 were isolated by micro scalpel and washed in low calcium (Ca2+) medium for 30 min at room temperature.",
+            "startOffset": 22445,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 24042,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Standard measurements were performed in DMEM supplemented with 5% FCS.",
+            "startOffset": 23972,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 25953,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Since the filter effect is the most dominant part of the basal cell membrane to electrode transfer function, we analysed frequency domains of both AP and FP signals by spectral analysis.",
+            "startOffset": 25767,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 32819,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Finally it leads to complete repolarization of the cardiomyocyte to its RMP.",
+            "startOffset": 32743,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34246,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "We did not observe any deviation from linearity under varying conditions using different values of Cje and Rj with a constant product (Fc = 30 Hz, data not shown) modelling differences in cell attachment.",
+            "startOffset": 34042,
+            "title": "FPD prolongation and shortening"
+        },
+        {
+            "endOffset": 24092,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "During recordings, temperature was kept at 37 \u00b0C.",
+            "startOffset": 24043,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 34962,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "In conclusion, to our knowledge we presented here the first comprehensive description of the cardiac FP in relation to cardiac toxicity screening and modulation of the underlying currents.",
+            "startOffset": 34774,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 18765,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Multi electrode arrays (MEAs) have been developed to measure electrical activity in neural and cardiac cells.",
+            "startOffset": 18656,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26147,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The 30 Hz filtered example is depicted in Fig. 1E and F.",
+            "startOffset": 26091,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 33534,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "It is important to keep the trajectory over which the regression is computed well defined.",
+            "startOffset": 33444,
+            "title": "Sodium current modulation"
+        },
+        {
+            "endOffset": 29309,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "However, the relationship between Vmax and the slope decay was in general less linear (Fig. 3D).",
+            "startOffset": 29213,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 23930,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Extracellular recording was performed using a MEA1060INV MEA amplifier (Multi Channel Systems).",
+            "startOffset": 23835,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 30905,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 30904,
+                    "startOffset": 30900
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "Triangulation, based on differences in APD90-APD70 (see Supplemental Data), is often used in cardiotoxicity assays [10].",
+            "startOffset": 30785,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 24264,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Data were recorded using QT-screen (Multi Channel Systems) and analysed off-line with QT-analyser (Multi Channel Systems) or with LabVIEW software (see Supplemental Data).",
+            "startOffset": 24093,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 29840,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "APs were generated where the APD90 of the simulated hPSC-CM was varied over a range from 180 to 240 ms (Fig. 4A).",
+            "startOffset": 29727,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 35345,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "The approach we describe could serve as a framework for future medium- and high-throughput screening of new drugs and compounds for their potential harmful effects on the human heart.",
+            "startOffset": 35162,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 32250,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "As expected, Bay K 8644 showed FPD prolongation (Fig. 4M) that was not accompanied by triangulation (Fig. 4O), while E-4031 showed both FPD prolongation (Fig. 4L) and triangulation (Fig. 4N) which is in line with our simulations.",
+            "startOffset": 32021,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 23695,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "MEA chips were plasma-cleaned and coated with fibronectin (50 \u03bcg/mL) for 1 h at 37 \u00b0C.",
+            "startOffset": 23609,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 32742,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In humans, this outward current, corresponding to negative change in membrane potential, allows activation of the rapid delayed rectifier (IKr) and the slow rectifying (IKs) K+ channels.",
+            "startOffset": 32556,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28697,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "To gain insight into the relationship between Vmax of the AP versus the slope upstroke (from initiation to 0\u2032 in Fig. 1A) and the slope decay (from 0\u2032 to 1\u2032 in Fig. 1A) of the FPs (Fig. 3B) they were plotted against each other and fitted by linear regression (Fig. 3C and D).",
+            "startOffset": 28422,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 32362,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The AP is generated by a fast depolarization of the membrane potential due to Na+ channel activation.",
+            "startOffset": 32261,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30462,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "Deviations from regular repetitive contraction, known as tachyarrhythmias or TdP, are visualized in Poincar\u00e9 diagrams.",
+            "startOffset": 30344,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 23140,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The isolated cardiomyocytes were allowed to attach to the surface of the MEA for 24 h in DMEM containing 5% FCS.",
+            "startOffset": 23028,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 25594,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The filter characteristics of a single MEA electrode is modelled by applying a second order Chybechev digital infinite impulse response (IIR) filter with a half maximal cut off frequency (Fc) of 30 Hz on an AP measured on a mouse E17.5 cardiomyocyte (Fig. 1E and C, respectively).",
+            "startOffset": 25314,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 33789,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "Vmax can be obtained more accurately from the FP when extracted from the slope upstroke compared to the slope decay since the linearity is higher (respectively R2 = 0.9965 versus R2 = 0.8725).",
+            "startOffset": 33597,
+            "title": "Sodium current modulation"
+        },
+        {
+            "endOffset": 18931,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "They are now being increasingly used specifically to analyze pharmacological toxicity of newly developed or combinations of compounds on cardiomyocytes of the heart.",
+            "startOffset": 18766,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32915,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Commonly, consecutive changes of these currents can be deduced from changes in shape of the AP.",
+            "startOffset": 32820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33297,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The interpretation and constraints in AP-FP translation are discussed below for different individual currents.",
+            "startOffset": 33187,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23487,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 23486,
+                    "startOffset": 23483
+                },
+                "bib9": {
+                    "endOffset": 23344,
+                    "startOffset": 23341
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "The human embryonic stem cell (hESC) line HES3 [9] was routinely cultured on 129SV mouse embryonic fibroblasts (MEFs) and induced to differentiate to cardiomyocytes as described previously [8].",
+            "startOffset": 23294,
+            "title": "hPSC-CM and differentiation"
+        },
+        {
+            "endOffset": 32020,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Dose response curves for triangulation (FPD4\u2032-FPD3\u2032) are shown (Fig. 4N and O).",
+            "startOffset": 31941,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 19654,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Crucial will be the ability to measure electrical responses of the cardiomyocytes in an accurate and predictive yet medium- to high- throughput platform.",
+            "startOffset": 19501,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30344,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "The dose response curves of the FPD prolongation for the compounds is shown in Fig. 4L and M.",
+            "startOffset": 30251,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 19296,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 19295,
+                    "startOffset": 19292
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This represents a major toxic hazard for new drugs in pre-clinical evaluation [1].",
+            "startOffset": 19214,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29212,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "For the slope upstroke of the FP, the goodness of fit was relatively insensitive to different combinations of Cje and Rj.",
+            "startOffset": 29091,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 22940,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The isolated cells were resuspended in Dulbecco's Modified Eagle Medium (DMEM) supplemented with 20% fetal calf serum (FCS) and incubated at 37 \u00b0C.",
+            "startOffset": 22793,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 24954,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The important active currents in the different phases of the AP and FP are indicated.",
+            "startOffset": 24869,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 27005,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Multisim was used (see Supplemental Data) to build the equivalent circuit depicted in Fig. 1B connected to a voltage source in order to inject the AP at node Ip.",
+            "startOffset": 26844,
+            "title": "Simulations"
+        },
+        {
+            "endOffset": 20746,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Parameters involved in determining the magnitude of these AP effects are the AP amplitude (APA; mV), the resting membrane potential (RMP; mV), the maximal rate of depolarization (Vmax; Vs\u22121) and AP duration at 50% and 90% of repolarization (APD50, APD90 respectively; ms).",
+            "startOffset": 20474,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29513,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "To compare the predicted behaviour of our simulations with actual MEA measurement data, hPSC-CMs were treated with increasing concentrations of tetrodotoxin (TTX) to block the sodium channels selectively.",
+            "startOffset": 29309,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 31757,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "To compare the predicted behaviour of our simulations with actual MEA data, FPs of hPSC-CMs were recorded on MEAs in the presence of E-4031 (Fig. 4J) and Bay K 8644 (Fig. 4K).",
+            "startOffset": 31582,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 35161,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "We propose that it will improve the analysis of cardiac toxicity screening of cardiomyocytes using MEAs in general, but in particular of human in vitro models based on hPSC-CMs (hiPSC- or hESC-CMs).",
+            "startOffset": 34963,
+            "title": "Modulation of the potassium currents during repolarization"
+        },
+        {
+            "endOffset": 22080,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The sampling frequency was 5 kHz.",
+            "startOffset": 22047,
+            "title": "Patch clamp electrophysiology"
+        },
+        {
+            "endOffset": 23027,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "MEA chips were plasma cleaned and coated with fibronectin (40 \u03bcg/mL) for 1 h at 37 \u00b0C.",
+            "startOffset": 22941,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 22792,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Dissociation of the tissue was completed in King's B medium by gentle shaking at room temperature for 1 h.",
+            "startOffset": 22686,
+            "title": "Primary cardiomyocytes"
+        },
+        {
+            "endOffset": 26605,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The power spectrum of the unfiltered AP is shown in Fig. 1D.",
+            "startOffset": 26545,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 25232,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The main determinant of the circuit is the resistor-capacitance combination (Rj-Cje) resembling the junction resistance of the basal cell membrane and the MEA electrode.",
+            "startOffset": 25063,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 24868,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "A representative hPSC-CM AP measured by current clamp electrophysiology and a representative hPSC-CM FP measured by MEA is depicted in Fig. 1A.",
+            "startOffset": 24725,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 30552,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "They are accurately detected from current clamp recordings (APD and repetition interval).",
+            "startOffset": 30463,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 32555,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This ensures a strong inward current, activate the L-type Ca2+ channels and induces an increasing permeability to K+ as a result of the rapid activation of transient outward K+ channels (Ito).",
+            "startOffset": 32363,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19935,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 19934,
+                    "startOffset": 19929
+                },
+                "bib3": {
+                    "endOffset": 19934,
+                    "startOffset": 19929
+                },
+                "bib4": {
+                    "endOffset": 19934,
+                    "startOffset": 19929
+                }
+            },
+            "secId": "sec1",
+            "sentence": "All ionic currents of which the AP is composed can be measured individually in whole cell voltage clamp and have been studied in detail over several decades [2\u20134].",
+            "startOffset": 19772,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26017,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Different values for Fc were applied (15\u201360 Hz) on the same AP.",
+            "startOffset": 25954,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 26409,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Most FPs have a peak power frequency of around 3.5 Hz.",
+            "startOffset": 26355,
+            "title": "Translation from AP to FP"
+        },
+        {
+            "endOffset": 22272,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "During electrophysiological measurements, cells were kept in a buffer containing 145 mM NaCl, 5 mM KCl, 2 mM CaCl2, 2 mM MgCl2, 10 mM d-glucose and 10 mM HEPES, adjusted to pH 7.30 with NaOH.",
+            "startOffset": 22081,
+            "title": "Patch clamp electrophysiology"
+        },
+        {
+            "endOffset": 23971,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Output signals were digitized at 10 kHz.",
+            "startOffset": 23931,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 30112,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "The relationship between the APD and the FPD was assessed by linear regression (Fig. 4G).",
+            "startOffset": 30023,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 30643,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "This method is also applicable to FPs (FPD and repetition interval) (Supplemental Fig. 2).",
+            "startOffset": 30553,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 29090,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.3",
+                    "title": "Modulation of the APs and FPs characteristic for hPSC-CMs"
+                }
+            ],
+            "secId": "sec3.3.1",
+            "sentence": "Table 3 shows this behaviour.",
+            "startOffset": 29061,
+            "title": "Modulation of the inward Na+ current"
+        },
+        {
+            "endOffset": 30022,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "Modulation of the repolarizing phase of the AP"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "The FPDs were defined as the time between the peak of the upstroke (0\u2032 in Fig. 1A) until the repolarization phase (4\u2032 in Fig. 1A).",
+            "startOffset": 29892,
+            "title": "APD prolongation, shortening and periodicity"
+        },
+        {
+            "endOffset": 23834,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Clusters of beating hPSC-CMs were micro-dissected and replated on standard 60 electrode MEAs (Multi Channel Systems, Reutlingen, Germany).",
+            "startOffset": 23696,
+            "title": "MEA recordings"
+        },
+        {
+            "endOffset": 34774,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "Here we show with simulations and known drugs that the presence of changes in APD90-APD70 measured from APs can be equally well detected and predicted by analysis of corresponding points from FPs (FPD4\u2032-FPD3\u2032).",
+            "startOffset": 34564,
+            "title": "Modulation of the potassium currents during repolarization"
+        }
+    ],
+    "docId": "S0006291X1730219X",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "l.g.j.tertoolen@lumc.nl",
+                "first": "L. G.J.",
+                "initial": "L.G.J.",
+                "last": "Tertoolen"
+            },
+            {
+                "email": "stefan.braam@pluriomics.com",
+                "first": "S. R.",
+                "initial": "S.R.",
+                "last": "Braam"
+            },
+            {
+                "email": "b.j.vanmeer@lumc.nl",
+                "first": "B. J.",
+                "initial": "B.J.",
+                "last": "van Meer"
+            },
+            {
+                "email": "robert.passier@twente.nl",
+                "first": "R.",
+                "initial": "R.",
+                "last": "Passier"
+            },
+            {
+                "email": "c.l.mummery@lumc.nl",
+                "first": "C. L.",
+                "initial": "C.L.",
+                "last": "Mummery"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.01.151",
+        "firstpage": "1135",
+        "issn": "0006291X",
+        "keywords": [
+            "Action potential",
+            "Cardiomyocytes",
+            "Cardiotoxicity",
+            "Computational simulation",
+            "Field potential",
+            "Multi electrode array"
+        ],
+        "lastpage": "1141",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Interpretation of field potentials measured on a multi electrode array in pharmacological toxicity screening on primary and human pluripotent stem cell-derived cardiomyocytes"
+    }
+}

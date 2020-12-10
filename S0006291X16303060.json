@@ -1,0 +1,2820 @@
+{
+    "abstract": "T-type Ca2+ channels are important regulators of peripheral sensory neuron excitability. Accordingly, T-type Ca2+ currents are often increased in various pathological pain conditions, such as inflammation or nerve injury. Here we investigated effects of inflammation on functional expression of T-type Ca2+ channels in small-diameter cultured dorsal root ganglion (DRG) neurons. We found that overnight treatment of DRG cultures with a cocktail of inflammatory mediators bradykinin (BK), adenosine triphosphate (ATP), norepinephrine (NE) and prostaglandin E2 (PGE2) strongly increased the population size of the small-diameter neurons displaying low-voltage activated (LVA, T-type) Ca2+ currents while having no effect on the peak LVA current amplitude. When applied individually, BK and ATP also increased the population size of LVA-positive neurons while NE and PGE2 had no effect. The PLC inhibitor U-73122 and B2 receptor antagonist, Hoe-140, both abolished the increase of the population of LVA-positive DRG neurons. Inflammatory treatment did not affect CaV3.2 mRNA or protein levels in DRG cultures. Furthermore, an ubiquitination inhibitor, MG132, did not increase the population of LVA-positive neurons. Our data suggest that inflammatory mediators BK and ATP increase the abundance of LVA-positive DRG neurons in total neuronal population by stimulating the recruitment of a 'reserve pool' of CaV3.2 channels, particularly in neurons that do not display measurable LVA currents under control conditions.",
+    "author_highlights": [
+        {
+            "endOffset": 13116,
+            "sentence": "Inflammatory mediators bradykinin and ATP increase the population of DRG neurons displaying T-type Ca2+ currents.",
+            "startOffset": 13003
+        },
+        {
+            "endOffset": 13182,
+            "sentence": "This effect is mediated by the phospholipase C signaling cascade.",
+            "startOffset": 13117
+        },
+        {
+            "endOffset": 13305,
+            "sentence": "Increase in the proportion is not correlated with the increased expression or decreased degradation of the CaV3.2 channel.",
+            "startOffset": 13183
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                }
+            ],
+            "doi": "10.1007/s00424-014-1452-z",
+            "firstpage": "701",
+            "issn": "00316768",
+            "lastpage": "706",
+            "pmid": "24482063",
+            "pub_year": 2014,
+            "title": "Targeting of CaV3.2 T-type calcium channels in peripheral sensory neurons for the treatment of painful diabetic neuropathy",
+            "volume": "466"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Jung Bum",
+                    "initial": "J.B.",
+                    "last": "Shin"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Martinez-Salgado"
+                },
+                {
+                    "first": "Paul A.",
+                    "initial": "P.A.",
+                    "last": "Heppenstall"
+                },
+                {
+                    "first": "Gary R.",
+                    "initial": "G.R.",
+                    "last": "Lewin"
+                }
+            ],
+            "doi": "10.1038/nn1076",
+            "firstpage": "724",
+            "issn": "10976256",
+            "lastpage": "730",
+            "pmid": "12808460",
+            "pub_year": 2003,
+            "title": "A T-type calcium channel required for normal function of a mammalian mechanoreceptor",
+            "volume": "6"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Edmund M.",
+                    "initial": "E.M.",
+                    "last": "Talley"
+                },
+                {
+                    "first": "Leanne L.",
+                    "initial": "L.L.",
+                    "last": "Cribbs"
+                },
+                {
+                    "first": "Jung Ha",
+                    "initial": "J.H.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Asif",
+                    "initial": "A.",
+                    "last": "Daud"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Perez-Reyes"
+                },
+                {
+                    "first": "Douglas A.",
+                    "initial": "D.A.",
+                    "last": "Bayliss"
+                }
+            ],
+            "firstpage": "1895",
+            "issn": "02706474",
+            "lastpage": "1911",
+            "pmid": "10066243",
+            "pub_year": 1999,
+            "title": "Differential distribution of three members of a gene family encoding low voltage-activated (T-type) calcium channels",
+            "volume": "19"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Megan O.",
+                    "initial": "M.O.",
+                    "last": "Jacus"
+                },
+                {
+                    "first": "Victor N.",
+                    "initial": "V.N.",
+                    "last": "Uebele"
+                },
+                {
+                    "first": "John J.",
+                    "initial": "J.J.",
+                    "last": "Renger"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1523/JNEUROSCI.0068-12.2012",
+            "firstpage": "9374",
+            "issn": "02706474",
+            "lastpage": "9382",
+            "pmid": "22764245",
+            "pub_year": 2012,
+            "title": "Presynaptic CaV3.2 channels regulate excitatory neurotransmission in nociceptive dorsal horn neurons",
+            "volume": "32"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                },
+                {
+                    "first": "Abdelkrim",
+                    "initial": "A.",
+                    "last": "Alloui"
+                },
+                {
+                    "first": "Arnaud",
+                    "initial": "A.",
+                    "last": "Monteil"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barr\u00e8re"
+                },
+                {
+                    "first": "Brigitte",
+                    "initial": "B.",
+                    "last": "Couette"
+                },
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Poirot"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Pages"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "McRory"
+                },
+                {
+                    "first": "Terrance P.",
+                    "initial": "T.P.",
+                    "last": "Snutch"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Eschalier"
+                },
+                {
+                    "first": "Jo\u00ebl",
+                    "initial": "J.",
+                    "last": "Nargeot"
+                }
+            ],
+            "doi": "10.1038/sj.emboj.7600515",
+            "firstpage": "315",
+            "issn": "02614189",
+            "lastpage": "324",
+            "pmid": "15616581",
+            "pub_year": 2005,
+            "title": "Silencing of the Cav3.2 T-type calcium channel gene in sensory neurons demonstrates its major role in nociception",
+            "volume": "24"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Richard B.",
+                    "initial": "R.B.",
+                    "last": "Messinger"
+                },
+                {
+                    "first": "Ajit K.",
+                    "initial": "A.K.",
+                    "last": "Naik"
+                },
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Woo Yong",
+                    "initial": "W.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Won Joo",
+                    "initial": "W.J.",
+                    "last": "Choe"
+                },
+                {
+                    "first": "Peihan",
+                    "initial": "P.",
+                    "last": "Orestes"
+                },
+                {
+                    "first": "Janelle R.",
+                    "initial": "J.R.",
+                    "last": "Latham"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                }
+            ],
+            "doi": "10.1016/j.pain.2009.06.012",
+            "firstpage": "184",
+            "issn": "03043959",
+            "lastpage": "195",
+            "pmid": "19577366",
+            "pub_year": 2009,
+            "title": "In vivo silencing of the CaV3.2 T-type calcium channels in sensory neurons alleviates hyperalgesia in rats with streptozocin-induced diabetic neuropathy",
+            "volume": "145"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Adam",
+                    "initial": "A.",
+                    "last": "Meyenburg"
+                },
+                {
+                    "first": "Steven",
+                    "initial": "S.",
+                    "last": "Mennerick"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Perez-Reyes"
+                },
+                {
+                    "first": "Carmelo",
+                    "initial": "C.",
+                    "last": "Romano"
+                },
+                {
+                    "first": "John W.",
+                    "initial": "J.W.",
+                    "last": "Olney"
+                },
+                {
+                    "first": "Charles F.",
+                    "initial": "C.F.",
+                    "last": "Zorumski"
+                }
+            ],
+            "doi": "10.1016/S0896-6273(01)00338-5",
+            "firstpage": "75",
+            "issn": "08966273",
+            "lastpage": "85",
+            "pmid": "11498052",
+            "pub_year": 2001,
+            "title": "Redox modulation of T-Type calcium channels in rat peripheral nociceptors",
+            "volume": "31"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Janelle R.",
+                    "initial": "J.R.",
+                    "last": "Latham"
+                },
+                {
+                    "first": "Sriyani",
+                    "initial": "S.",
+                    "last": "Pathirathna"
+                },
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Joo Choe",
+                    "initial": "J.C.",
+                    "last": "Won"
+                },
+                {
+                    "first": "Michaela E.",
+                    "initial": "M.E.",
+                    "last": "Levin"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Yong Lee",
+                    "initial": "Y.L.",
+                    "last": "Woo"
+                },
+                {
+                    "first": "Kathiresan",
+                    "initial": "K.",
+                    "last": "Krishnan"
+                },
+                {
+                    "first": "Douglas F.",
+                    "initial": "D.F.",
+                    "last": "Covey"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                }
+            ],
+            "doi": "10.2337/db08-1763",
+            "firstpage": "2656",
+            "issn": "00121797",
+            "lastpage": "2665",
+            "pmid": "19651818",
+            "pub_year": 2009,
+            "title": "Selective T-type calcium channel blockade alleviates hyperalgesia in ob/ob mice",
+            "volume": "58"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                },
+                {
+                    "first": "Sriyani",
+                    "initial": "S.",
+                    "last": "Pathirathna"
+                },
+                {
+                    "first": "Barbara C.",
+                    "initial": "B.C.",
+                    "last": "Brimelow"
+                },
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Seong Hoon",
+                    "initial": "S.H.",
+                    "last": "Ko"
+                },
+                {
+                    "first": "Xin",
+                    "initial": "X.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "Kent R.",
+                    "initial": "K.R.",
+                    "last": "Nilsson"
+                },
+                {
+                    "first": "Charles F.",
+                    "initial": "C.F.",
+                    "last": "Zorumski"
+                },
+                {
+                    "first": "Douglas F.",
+                    "initial": "D.F.",
+                    "last": "Covey"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                }
+            ],
+            "doi": "10.1124/mol.104.002402",
+            "firstpage": "1223",
+            "issn": "0026895X",
+            "lastpage": "1235",
+            "pmid": "15280444",
+            "pub_year": 2004,
+            "title": "5\u03b2-Reduced neuroactive steroids are novel voltage-dependent blockers of T-type Ca2+ channels in rat sensory neurons in vitro and potent peripheral analgesics in vivo",
+            "volume": "66"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Won Joo",
+                    "initial": "W.J.",
+                    "last": "Choe"
+                },
+                {
+                    "first": "Richard B.",
+                    "initial": "R.B.",
+                    "last": "Messinger"
+                },
+                {
+                    "first": "Emily",
+                    "initial": "E.",
+                    "last": "Leach"
+                },
+                {
+                    "first": "Veit Simon",
+                    "initial": "V.S.",
+                    "last": "Eckle"
+                },
+                {
+                    "first": "Aleksandar",
+                    "initial": "A.",
+                    "last": "Obradovic"
+                },
+                {
+                    "first": "Reza",
+                    "initial": "R.",
+                    "last": "Salajegheh"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1124/mol.111.073205",
+            "firstpage": "900",
+            "issn": "0026895X",
+            "lastpage": "910",
+            "pmid": "21821734",
+            "pub_year": 2011,
+            "title": "TTA-P2 is a potent and selective blocker of T-type calcium channels in rat sensory neurons and a novel antinociceptive agent",
+            "volume": "80"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Amaury",
+                    "initial": "A.",
+                    "last": "Francois"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Kerckhove"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Meleine"
+                },
+                {
+                    "first": "Abdelkrim",
+                    "initial": "A.",
+                    "last": "Alloui"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barrere"
+                },
+                {
+                    "first": "Agathe",
+                    "initial": "A.",
+                    "last": "Gelot"
+                },
+                {
+                    "first": "Victor N.",
+                    "initial": "V.N.",
+                    "last": "Uebele"
+                },
+                {
+                    "first": "John J.",
+                    "initial": "J.J.",
+                    "last": "Renger"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Eschalier"
+                },
+                {
+                    "first": "Denis",
+                    "initial": "D.",
+                    "last": "Ardid"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                }
+            ],
+            "doi": "10.1016/j.pain.2012.10.023",
+            "firstpage": "283",
+            "issn": "03043959",
+            "lastpage": "293",
+            "pmid": "23257507",
+            "pub_year": 2013,
+            "title": "State-dependent properties of a new T-type calcium channel blocker enhance CaV3.2 selectivity and support analgesic effects",
+            "volume": "154"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                },
+                {
+                    "first": "Christophe",
+                    "initial": "C.",
+                    "last": "Altier"
+                },
+                {
+                    "first": "Michael E.",
+                    "initial": "M.E.",
+                    "last": "Hildebrand"
+                },
+                {
+                    "first": "Tuan",
+                    "initial": "T.",
+                    "last": "Trang"
+                },
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Salter"
+                },
+                {
+                    "first": "Gerald W.",
+                    "initial": "G.W.",
+                    "last": "Zamponi"
+                }
+            ],
+            "doi": "10.1152/physrev.00023.2013",
+            "firstpage": "81",
+            "issn": "00319333",
+            "lastpage": "140",
+            "pmid": "24382884",
+            "pub_year": 2014,
+            "title": "Calcium-permeable ion channels in pain signaling",
+            "volume": "94"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Lee"
+                }
+            ],
+            "doi": "10.1111/jns.12080_2",
+            "firstpage": "S11",
+            "issn": "10859489",
+            "lastpage": "S12",
+            "pmid": "25269728",
+            "pub_year": 2014,
+            "title": "Z944: A first in class T-type calcium channel modulator for the treatment of pain",
+            "volume": "19"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Sriyani",
+                    "initial": "S.",
+                    "last": "Pathirathna"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Stefani",
+                    "initial": "S.",
+                    "last": "Mancuso"
+                },
+                {
+                    "first": "Pavle M.",
+                    "initial": "P.M.",
+                    "last": "Joksovic"
+                },
+                {
+                    "first": "Ethan R.",
+                    "initial": "E.R.",
+                    "last": "Rosenberg"
+                },
+                {
+                    "first": "Douglas A.",
+                    "initial": "D.A.",
+                    "last": "Bayliss"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1523/JNEUROSCI.4866-06.2007",
+            "firstpage": "3305",
+            "issn": "02706474",
+            "lastpage": "3316",
+            "pmid": "17376991",
+            "pub_year": 2007,
+            "title": "Cell-specific alterations of T-type calcium current in painful diabetic neuropathy enhance excitability of sensory neurons",
+            "volume": "27"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Sriyani",
+                    "initial": "S.",
+                    "last": "Pathirathna"
+                },
+                {
+                    "first": "Pavle M.",
+                    "initial": "P.M.",
+                    "last": "Joksovic"
+                },
+                {
+                    "first": "Woo Yong",
+                    "initial": "W.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Ajit K.",
+                    "initial": "A.K.",
+                    "last": "Naik"
+                },
+                {
+                    "first": "Peihan",
+                    "initial": "P.",
+                    "last": "Su"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1152/jn.01031.2007",
+            "firstpage": "3151",
+            "issn": "00223077",
+            "lastpage": "3156",
+            "pmid": "18417624",
+            "pub_year": 2008,
+            "title": "Upregulation of the T-type calcium current in small rat sensory neurons after chronic constrictive injury of the sciatic nerve",
+            "volume": "99"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Agustin",
+                    "initial": "A.",
+                    "last": "Garc\u00eda-Caballero"
+                },
+                {
+                    "first": "Vinicius M.",
+                    "initial": "V.M.",
+                    "last": "Gadotti"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Stemkowski"
+                },
+                {
+                    "first": "Norbert",
+                    "initial": "N.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Ivana A.",
+                    "initial": "I.A.",
+                    "last": "Souza"
+                },
+                {
+                    "first": "Victoria",
+                    "initial": "V.",
+                    "last": "Hodgkinson"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Bladen"
+                },
+                {
+                    "first": "Lina",
+                    "initial": "L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Jawed",
+                    "initial": "J.",
+                    "last": "Hamid"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Pizzoccaro"
+                },
+                {
+                    "first": "Mickael",
+                    "initial": "M.",
+                    "last": "Deage"
+                },
+                {
+                    "first": "Amaury",
+                    "initial": "A.",
+                    "last": "Fran\u00e7ois"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                },
+                {
+                    "first": "Gerald W.",
+                    "initial": "G.W.",
+                    "last": "Zamponi"
+                }
+            ],
+            "doi": "10.1016/j.neuron.2014.07.036",
+            "firstpage": "1144",
+            "issn": "08966273",
+            "lastpage": "1158",
+            "pmid": "25189210",
+            "pub_year": 2014,
+            "title": "The Deubiquitinating Enzyme USP5 Modulates Neuropathic and Inflammatory Pain by Enhancing Cav3.2 Channel Activity",
+            "volume": "83"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Fabrice",
+                    "initial": "F.",
+                    "last": "Marger"
+                },
+                {
+                    "first": "Agathe",
+                    "initial": "A.",
+                    "last": "Gelot"
+                },
+                {
+                    "first": "Abdelkrim",
+                    "initial": "A.",
+                    "last": "Alloui"
+                },
+                {
+                    "first": "Julien",
+                    "initial": "J.",
+                    "last": "Matricon"
+                },
+                {
+                    "first": "Juan F.",
+                    "initial": "J.F.",
+                    "last": "Sanguesa Ferrer"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Barr\u00e8re"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Pizzoccaro"
+                },
+                {
+                    "first": "Emilie",
+                    "initial": "E.",
+                    "last": "Muller"
+                },
+                {
+                    "first": "Jo\u00ebl",
+                    "initial": "J.",
+                    "last": "Nargeot"
+                },
+                {
+                    "first": "Terrance P.",
+                    "initial": "T.P.",
+                    "last": "Snutch"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Eschalier"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                },
+                {
+                    "first": "Denis",
+                    "initial": "D.",
+                    "last": "Ardid"
+                }
+            ],
+            "doi": "10.1073/pnas.1100869108",
+            "firstpage": "11268",
+            "issn": "00278424",
+            "lastpage": "11273",
+            "pmid": "21690417",
+            "pub_year": 2011,
+            "title": "T-type calcium channels contribute to colonic hypersensitivity in a rat model of irritable bowel syndrome",
+            "volume": "108"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Peihan",
+                    "initial": "P.",
+                    "last": "Orestes"
+                },
+                {
+                    "first": "Hari Prasad",
+                    "initial": "H.P.",
+                    "last": "Osuru"
+                },
+                {
+                    "first": "William E.",
+                    "initial": "W.E.",
+                    "last": "McIntire"
+                },
+                {
+                    "first": "Megan O.",
+                    "initial": "M.O.",
+                    "last": "Jacus"
+                },
+                {
+                    "first": "Reza",
+                    "initial": "R.",
+                    "last": "Salajegheh"
+                },
+                {
+                    "first": "Miljen M.",
+                    "initial": "M.M.",
+                    "last": "Jagodic"
+                },
+                {
+                    "first": "Won Joo",
+                    "initial": "W.J.",
+                    "last": "Choe"
+                },
+                {
+                    "first": "Jeong Han",
+                    "initial": "J.H.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Sang Soo",
+                    "initial": "S.S.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Kirstin E.",
+                    "initial": "K.E.",
+                    "last": "Rose"
+                },
+                {
+                    "first": "Nathan",
+                    "initial": "N.",
+                    "last": "Poiro"
+                },
+                {
+                    "first": "Michael R.",
+                    "initial": "M.R.",
+                    "last": "DiGruccio"
+                },
+                {
+                    "first": "Katiresan",
+                    "initial": "K.",
+                    "last": "Krishnan"
+                },
+                {
+                    "first": "Douglas F.",
+                    "initial": "D.F.",
+                    "last": "Covey"
+                },
+                {
+                    "first": "Jung Ha",
+                    "initial": "J.H.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Paula Q.",
+                    "initial": "P.Q.",
+                    "last": "Barrett"
+                },
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.2337/db13-0813",
+            "firstpage": "3828",
+            "issn": "00121797",
+            "lastpage": "3838",
+            "pmid": "23835327",
+            "pub_year": 2013,
+            "title": "Reversal of neuropathic pain in diabetes by targeting glycosylation of Cav3.2 T-type calcium channels",
+            "volume": "62"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Norbert",
+                    "initial": "N.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Stefanie A.G.",
+                    "initial": "S.A.G.",
+                    "last": "Black"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Bladen"
+                },
+                {
+                    "first": "Lina",
+                    "initial": "L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Gerald W.",
+                    "initial": "G.W.",
+                    "last": "Zamponi"
+                }
+            ],
+            "doi": "10.1007/s00424-013-1259-3",
+            "firstpage": "1159",
+            "issn": "00316768",
+            "lastpage": "1170",
+            "pmid": "23503728",
+            "pub_year": 2013,
+            "title": "Surface expression and function of Cav3.2 T-type calcium channels are controlled by asparagine-linked glycosylation",
+            "volume": "465"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Xiaona",
+                    "initial": "X.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Han",
+                    "initial": "H.",
+                    "last": "Hao"
+                },
+                {
+                    "first": "Sylvain",
+                    "initial": "S.",
+                    "last": "Gigout"
+                },
+                {
+                    "first": "Dongyang",
+                    "initial": "D.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Yuehui",
+                    "initial": "Y.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Caixue",
+                    "initial": "C.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Danielle",
+                    "initial": "D.",
+                    "last": "Sundt"
+                },
+                {
+                    "first": "David B.",
+                    "initial": "D.B.",
+                    "last": "Jaffe"
+                },
+                {
+                    "first": "Hailin",
+                    "initial": "H.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Nikita",
+                    "initial": "N.",
+                    "last": "Gamper"
+                }
+            ],
+            "doi": "10.1016/j.pain.2014.08.025",
+            "firstpage": "2306",
+            "issn": "03043959",
+            "lastpage": "2322",
+            "pmid": "25168672",
+            "pub_year": 2014,
+            "title": "Control of somatic membrane potential in nociceptive neurons and its implications for peripheral nociceptive transmission",
+            "volume": "155"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Dongyang",
+                    "initial": "D.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Sha",
+                    "initial": "S.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Peers"
+                },
+                {
+                    "first": "Xiaona",
+                    "initial": "X.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Hailin",
+                    "initial": "H.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Nikita",
+                    "initial": "N.",
+                    "last": "Gamper"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2015.07.137",
+            "firstpage": "188",
+            "issn": "0006291X",
+            "lastpage": "193",
+            "pmid": "26239659",
+            "pub_year": 2015,
+            "title": "GABAB receptors inhibit low-voltage activated and high-voltage activated Ca2+ channels in sensory neurons via distinct mechanisms",
+            "volume": "465"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Yuan",
+                    "initial": "Y.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Wenjuan",
+                    "initial": "W.",
+                    "last": "Qin"
+                },
+                {
+                    "first": "Zhiyuan",
+                    "initial": "Z.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Xingjun",
+                    "initial": "X.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Hua",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Shan",
+                    "initial": "S.",
+                    "last": "Gong"
+                },
+                {
+                    "first": "Yan Gang",
+                    "initial": "Y.G.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Terrance P.",
+                    "initial": "T.P.",
+                    "last": "Snutch"
+                },
+                {
+                    "first": "Xinghong",
+                    "initial": "X.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Tao"
+                }
+            ],
+            "doi": "10.1126/scisignal.2005283",
+            "firstpage": "ra94",
+            "issn": "19450877",
+            "pmid": "25292213",
+            "pub_year": 2014,
+            "title": "Peripheral pain is enhanced by insulin-like growth factor 1 through a G protein-mediated stimulation of T-type calcium channels",
+            "volume": "7"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Amaury",
+                    "initial": "A.",
+                    "last": "Fran\u00e7ois"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Laffray"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Pizzoccaro"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Eschalier"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                }
+            ],
+            "doi": "10.1007/s00424-014-1484-4",
+            "firstpage": "707",
+            "issn": "00316768",
+            "lastpage": "717",
+            "pmid": "24590509",
+            "pub_year": 2014,
+            "title": "T-type calcium channels in chronic pain: Mouse models and specific blockers",
+            "volume": "466"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "G\u00e1bor",
+                    "initial": "G.",
+                    "last": "Peth\u00f6"
+                },
+                {
+                    "first": "Peter W.",
+                    "initial": "P.W.",
+                    "last": "Reeh"
+                }
+            ],
+            "doi": "10.1152/physrev.00048.2010",
+            "firstpage": "1699",
+            "issn": "00319333",
+            "lastpage": "1775",
+            "pmid": "23073630",
+            "pub_year": 2012,
+            "title": "Sensory and signaling mechanisms of bradykinin, eicosanoids, platelet-activating factor, and nitric oxide in peripheral nociceptors",
+            "volume": "92"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "Chih Cheng",
+                    "initial": "C.C.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Armen N.",
+                    "initial": "A.N.",
+                    "last": "Akopian"
+                },
+                {
+                    "first": "Lucia",
+                    "initial": "L.",
+                    "last": "Sivilotti"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Colquhoun"
+                },
+                {
+                    "first": "Geoffrey",
+                    "initial": "G.",
+                    "last": "Burnstock"
+                },
+                {
+                    "first": "John N.",
+                    "initial": "J.N.",
+                    "last": "Wood"
+                }
+            ],
+            "doi": "10.1038/377428a0",
+            "firstpage": "428",
+            "issn": "00280836",
+            "lastpage": "431",
+            "pmid": "7566119",
+            "pub_year": 1995,
+            "title": "A P2X purinoceptor expressed by a subset of sensory neurons",
+            "volume": "377"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Neidhart"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Holy"
+                },
+                {
+                    "first": "R. A.",
+                    "initial": "R.A.",
+                    "last": "North"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Buell"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Surprenant"
+                }
+            ],
+            "doi": "10.1038/377432a0",
+            "firstpage": "432",
+            "issn": "00280836",
+            "lastpage": "435",
+            "pmid": "7566120",
+            "pub_year": 1995,
+            "title": "Coexpression of P2X2 and P2X3 receptor subunits can account for ATP-gated currents in sensory neurons",
+            "volume": "377"
+        },
+        "bib33": {
+            "authors": [
+                {
+                    "first": "Kimiko",
+                    "initial": "K.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Yamanaka"
+                },
+                {
+                    "first": "Koichi",
+                    "initial": "K.",
+                    "last": "Noguchi"
+                }
+            ],
+            "doi": "10.1007/s12565-012-0163-9",
+            "firstpage": "10",
+            "issn": "14476959",
+            "lastpage": "16",
+            "pmid": "23179910",
+            "pub_year": 2013,
+            "title": "Expression of ATP receptors in the rat dorsal root ganglion and spinal cord",
+            "volume": "88"
+        },
+        "bib34": {
+            "authors": [
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Linley"
+                },
+                {
+                    "first": "Kirstin",
+                    "initial": "K.",
+                    "last": "Rose"
+                },
+                {
+                    "first": "Lezanne",
+                    "initial": "L.",
+                    "last": "Ooi"
+                },
+                {
+                    "first": "Nikita",
+                    "initial": "N.",
+                    "last": "Gamper"
+                }
+            ],
+            "doi": "10.1007/s00424-010-0784-6",
+            "firstpage": "657",
+            "issn": "00316768",
+            "lastpage": "669",
+            "pmid": "20162302",
+            "pub_year": 2010,
+            "title": "Understanding inflammatory pain: Ion channels contributing to acute and chronic nociception",
+            "volume": "459"
+        },
+        "bib35": {
+            "authors": [
+                {
+                    "first": "Louisa",
+                    "initial": "L.",
+                    "last": "Pettinger"
+                },
+                {
+                    "first": "Sylvain",
+                    "initial": "S.",
+                    "last": "Gigout"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Linley"
+                },
+                {
+                    "first": "Nikita",
+                    "initial": "N.",
+                    "last": "Gamper"
+                }
+            ],
+            "doi": "10.1523/JNEUROSCI.0123-13.2013",
+            "firstpage": "10762",
+            "issn": "02706474",
+            "lastpage": "10771",
+            "pmid": "23804098",
+            "pub_year": 2013,
+            "title": "Bradykinin controls pool size of sensory neurons expressing functional-\u03b4opioid receptors",
+            "volume": "33"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Gerald W.",
+                    "initial": "G.W.",
+                    "last": "Zamponi"
+                },
+                {
+                    "first": "Joerg",
+                    "initial": "J.",
+                    "last": "Striessnig"
+                },
+                {
+                    "first": "Alexandra",
+                    "initial": "A.",
+                    "last": "Koschak"
+                },
+                {
+                    "first": "Annette C.",
+                    "initial": "A.C.",
+                    "last": "Dolphin"
+                }
+            ],
+            "doi": "10.1124/pr.114.009654",
+            "firstpage": "821",
+            "issn": "00316997",
+            "lastpage": "870",
+            "pmid": "26362469",
+            "pub_year": 2015,
+            "title": "The physiology, pathology, and pharmacology of voltage-gated calcium channels and their future therapeutic potential",
+            "volume": "67"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "William A.",
+                    "initial": "W.A.",
+                    "last": "Catterall"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Perez-Reyes"
+                },
+                {
+                    "first": "Terrance P.",
+                    "initial": "T.P.",
+                    "last": "Snutch"
+                },
+                {
+                    "first": "Joerg",
+                    "initial": "J.",
+                    "last": "Striessnig"
+                }
+            ],
+            "doi": "10.1124/pr.57.4.5",
+            "firstpage": "411",
+            "issn": "00316997",
+            "lastpage": "425",
+            "pmid": "16382099",
+            "pub_year": 2005,
+            "title": "International Union of Pharmacology. XLVIII. Nomenclature and structure-function relationships of voltage-gated calcium channels",
+            "volume": "57"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Vesna",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "Slobodan M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1016/j.ceca.2006.04.024",
+            "firstpage": "197",
+            "issn": "01434160",
+            "lastpage": "203",
+            "pmid": "16777222",
+            "pub_year": 2006,
+            "title": "The role of peripheral T-type calcium channels in pain transmission",
+            "volume": "40"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "K. E.",
+                    "initial": "K.E.",
+                    "last": "Rose"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Lunardi"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Boscolo"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Dong"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Erisir"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Jevtovic-Todorovic"
+                },
+                {
+                    "first": "S. M.",
+                    "initial": "S.M.",
+                    "last": "Todorovic"
+                }
+            ],
+            "doi": "10.1016/j.neuroscience.2013.07.005",
+            "firstpage": "263",
+            "issn": "03064522",
+            "lastpage": "274",
+            "pmid": "23867767",
+            "pub_year": 2013,
+            "title": "Immunohistological demonstration of CaV3.2 T-type voltage-gated calcium channel expression in soma of dorsal root ganglion neurons and peripheral axons of rat and mouse",
+            "volume": "250"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Bertrand",
+                    "initial": "B.",
+                    "last": "Coste"
+                },
+                {
+                    "first": "Marcel",
+                    "initial": "M.",
+                    "last": "Crest"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Delmas"
+                }
+            ],
+            "doi": "10.1085/jgp.200609665",
+            "firstpage": "57",
+            "issn": "00221295",
+            "lastpage": "77",
+            "pmid": "17190903",
+            "pub_year": 2007,
+            "title": "Pharmacological dissection and distribution of NaN/Nav1.9, T-type Ca 2+ currents, and mechanically activated cation currents in different populations of DRG neurons",
+            "volume": "129"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Amaury",
+                    "initial": "A.",
+                    "last": "Fran\u00e7ois"
+                },
+                {
+                    "first": "Niklas",
+                    "initial": "N.",
+                    "last": "Sch\u00fcetter"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Laffray"
+                },
+                {
+                    "first": "Juan",
+                    "initial": "J.",
+                    "last": "Sanguesa"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Pizzoccaro"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Dubel"
+                },
+                {
+                    "first": "Annabelle",
+                    "initial": "A.",
+                    "last": "Mantilleri"
+                },
+                {
+                    "first": "Joel",
+                    "initial": "J.",
+                    "last": "Nargeot"
+                },
+                {
+                    "first": "Jacques",
+                    "initial": "J.",
+                    "last": "No\u00ebl"
+                },
+                {
+                    "first": "John N.",
+                    "initial": "J.N.",
+                    "last": "Wood"
+                },
+                {
+                    "first": "Aziz",
+                    "initial": "A.",
+                    "last": "Moqrich"
+                },
+                {
+                    "first": "Olaf",
+                    "initial": "O.",
+                    "last": "Pongs"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Bourinet"
+                }
+            ],
+            "doi": "10.1016/j.celrep.2014.12.042",
+            "firstpage": "370",
+            "issn": "22111247",
+            "lastpage": "382",
+            "pub_year": 2015,
+            "title": "The Low-Threshold Calcium Channel Cav3.2 Determines Low-Threshold Mechanoreceptor Function",
+            "volume": "10"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 14743,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 14729,
+                    "startOffset": 14725
+                },
+                "bib7": {
+                    "endOffset": 14621,
+                    "startOffset": 14616
+                },
+                "bib9": {
+                    "endOffset": 14741,
+                    "startOffset": 14738
+                }
+            },
+            "secId": "sec1",
+            "sentence": "CaV3.2 expression was reported in various compartments of peripheral fibers including peripheral nociceptive nerve endings and axons of skin afferents [7,9], nodes of Ranvier of A\u03b4 fibers [9] and presynaptic terminals of nociceptive fibers in the spinal cord ([12] but cf. [9]).",
+            "startOffset": 14465,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19948,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "NE, Hoe-140, MG132 and A-317491 were purchase from MCE; PGE2 was from TCI; all other chemicals were from Sigma.",
+            "startOffset": 19837,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 22018,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "One possible explanation for the observed results could be that the inflammatory treatment causes neuronal death, and that LVA-negative neurons are more susceptible to this effect for some unknown reason.",
+            "startOffset": 21814,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24374,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "PLC inhibitor U-73122 (1 \u03bcM) completely abolished the effect of the inflammatory cocktail on the abundance of LVA-positive neurons in DRG culture.",
+            "startOffset": 24228,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27684,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "BK perhaps plays a dominant role in the effect since selective B2 receptor antagonist abolished the action of the inflammatory cocktail (although some cross-reactivity of Hoe-140 at P2Y receptors cannot be excluded).",
+            "startOffset": 27468,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27467,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Among the mediators tested (BK, ATP, NE and PGE2) only BK and ATP demonstrated such an activity when used individually.",
+            "startOffset": 27348,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29133,
+            "parents": [],
+            "refoffsets": {
+                "bib35": {
+                    "endOffset": 29132,
+                    "startOffset": 29128
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A very similar phenomenon was recently reported for delta-opioid receptors (DOR); indeed BK treatment potently increased the pool size of the DOR-competent DRG neurons without enhancing overall DOR activity in the individual neurons [35].",
+            "startOffset": 28895,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15597,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 15547,
+                    "startOffset": 15540
+                },
+                "bib21": {
+                    "endOffset": 15547,
+                    "startOffset": 15540
+                },
+                "bib22": {
+                    "endOffset": 15596,
+                    "startOffset": 15589
+                },
+                "bib23": {
+                    "endOffset": 15596,
+                    "startOffset": 15589
+                },
+                "bib24": {
+                    "endOffset": 15596,
+                    "startOffset": 15589
+                }
+            },
+            "secId": "sec1",
+            "sentence": "LVA Ca2+ currents are often increased in pathological pain conditions, such as diabetic neuropathy [14,21], peripheral nerve injury or inflammation [22\u201324].",
+            "startOffset": 15441,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19037,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Staining was visualized using a confocal fluorescent microscope (Leica, SP-5).",
+            "startOffset": 18959,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 26615,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 26614,
+                    "startOffset": 26610
+                }
+            },
+            "secId": "sec3",
+            "sentence": "MG132 did not affect LVA current amplitude (\u2212124.3 \u00b1 23.5 pA, n = 17), which is consistent with the previous finding [23].",
+            "startOffset": 26493,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26163,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "To investigate these mechanisms we first tested the effect of the proteasome inhibitor, MG132, on the pool size of LVA-positive neurons in DRG culture.",
+            "startOffset": 26012,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15922,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 15813,
+                    "startOffset": 15809
+                },
+                "bib25": {
+                    "endOffset": 15724,
+                    "startOffset": 15717
+                },
+                "bib26": {
+                    "endOffset": 15724,
+                    "startOffset": 15717
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Mechanistically, an enhancement of channel trafficking to the plasma membrane (perhaps via the N-linked glycosylation) [25,26] and enhanced retention at the plasma membrane due to the increased deubiquitination [23] were reported as potential contributors to the increased abundance of LVA channels in these pain conditions.",
+            "startOffset": 15598,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23679,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 23678,
+                    "startOffset": 23674
+                }
+            },
+            "secId": "sec3",
+            "sentence": "BK signals through the constitutive B2 receptors and inducible B1 receptors, both belong to the Gq/11-coupled G protein coupled receptors [30].",
+            "startOffset": 23536,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24227,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 24226,
+                    "startOffset": 24219
+                },
+                "bib34": {
+                    "endOffset": 24226,
+                    "startOffset": 24219
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Similarly to BK receptors [30], P2Y1 and P2Y2 are coupled to the Gq/11 signaling cascade which involves activation of phospholipase C (PLC), hydrolysis of membrane phosphoinositide phosphatidylinositol 4,5-bisphosphate (PIP2) into inositol trisphosphate (IP3) and diacylglycerol (DAG) and triggering the appropriate downstream signaling cascades [30,34].",
+            "startOffset": 23873,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14008,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These channels have fast kinetics and low (\u221270 to \u221260 mV) threshold for activation, enabling them to be partially active at voltages near the neuronal resting membrane potential.",
+            "startOffset": 13830,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17732,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "DRG were dissociated as described above and cultured on 15 mm glass-bottom dishes (NEST).",
+            "startOffset": 17643,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 28442,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, some neurons that do not normally express functional CaV3.2 at the plasma membrane may possess an intracellular store of channels, and BK treatment may promote their membrane insertion, making these neurons de novo LVA-positive.",
+            "startOffset": 28208,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21538,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Overnight treatment with the inflammatory cocktail significantly increased the percentage of the LVA-positive neurons from 21/43 (48.8%) to 31/42 (73.8%; p < 0.05; Fig. 1A) but did not affect the peak LVA current amplitude (Fig. 1A).",
+            "startOffset": 21305,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21304,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 21303,
+                    "startOffset": 21299
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We recorded from small-diameter (\u223c20 \u03bcm diameter, \u223c25 pF capacitance) DRG neurons, which are predominantly TRPV1-positive under our experimental conditions [27].",
+            "startOffset": 21143,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16738,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Electrophysiology.",
+            "startOffset": 16720,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 18004,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Images were taken every 1 min.",
+            "startOffset": 17974,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 13724,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 13723,
+                    "startOffset": 13718
+                },
+                "bib2": {
+                    "endOffset": 13723,
+                    "startOffset": 13718
+                },
+                "bib3": {
+                    "endOffset": 13723,
+                    "startOffset": 13718
+                },
+                "bib4": {
+                    "endOffset": 13723,
+                    "startOffset": 13718
+                }
+            },
+            "secId": "sec1",
+            "sentence": "T-type Ca2+ channels are increasingly recognized as an important ion channel in peripheral pain pathways [1\u20134].",
+            "startOffset": 13613,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17624,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "A low-profile perfusion chamber fed by a gravity perfusion system was used for solution exchange.",
+            "startOffset": 17527,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 21142,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We cultured DRG neurons overnight (24 h) in the presence of a cocktail of inflammatory mediators (100 nM BK; 2 \u03bcM ATP; 500 nM NE and 500 nM PGE2) to mimic inflammation, and performed patch-clamp recording to evaluate LVA Ca2+ current amplitude and also the population size of the DRG neurons expressing LVA currents (\u2018LVA-positive neurons\u2019).",
+            "startOffset": 20801,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14127,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Due to the negative activation threshold T-type Ca2+ currents are often called \u2018low voltage-activated\u2019 (LVA) currents.",
+            "startOffset": 14009,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15008,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 14915,
+                    "startOffset": 14908
+                },
+                "bib14": {
+                    "endOffset": 14915,
+                    "startOffset": 14908
+                },
+                "bib9": {
+                    "endOffset": 14779,
+                    "startOffset": 14776
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Conditional knock-out of CaV3.2 [9] or specific knock-down of this subunit in dorsal root ganglion (DRG), using intrathecal injection of antisense oligonucleotides [13,14], resulted in potent anti-nociceptive effects in models of neuropathic and inflammatory pain.",
+            "startOffset": 14744,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20366,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Statistical analyses were performed using Origin 8.6 (OriginLab Corporation, Northampton, CA, USA).",
+            "startOffset": 20267,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 24628,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, in the cultures treated overnight with the inflammatory cocktail in the presence of U-73122 only 19/45 (42.2%) of neurons displayed LVA currents, a proportion similar to that observed in the control conditions (22/50, 44.0%; p < 0.05; Fig. 3A, B).",
+            "startOffset": 24375,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23419,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Both compounds had no effect on LVA Ca2+ current amplitude (Fig. 2A, C).",
+            "startOffset": 23347,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16063,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study we investigated the effect of inflammatory conditions on functional expression of CaV3.2 in small-diameter DRG neurons.",
+            "startOffset": 15923,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18151,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "At the end of the 24 h incubation, the number of morphologically intact neurons was evaluated and compared to that at the beginning of incubation.",
+            "startOffset": 18005,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 21814,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There was no significant effect of the inflammatory cocktail on the LVA current voltage dependence or kinetics (not shown).",
+            "startOffset": 21691,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22782,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next tested the effects of individual inflammatory mediators on both the LVA amplitude and the incidence of LVA-positive neurons in the DRG culture.",
+            "startOffset": 22631,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17271,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The standard intracellular solution contained (in mM): 135 CsCl; 3 MgCl2; 10 EGTA; 10 HEPES; 3 Mg-ATP; 0.6 GTP (pH 7.4 adjusted with CsOH).",
+            "startOffset": 17132,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 27179,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Confocal imaging of cultured DRG neurons immunostained for CaV3.2 revealed there were also no significant changes in the total CaV3.2 protein abundance in DRG neurons after either of inflammatory treatments (inflammatory cocktail or individual inflammatory mediators; Fig. 4C, D).",
+            "startOffset": 26899,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22193,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, during 24 h live cell imaging of DRG cultures we did not observe any significant cell death induced by the inflammatory cocktail, as compared with control (Fig. 1B).",
+            "startOffset": 22019,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26315,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 26314,
+                    "startOffset": 26310
+                }
+            },
+            "secId": "sec3",
+            "sentence": "MG132 reduces the degradation of ubiquitin-conjugated proteins; it was successfully used to prevent degradation of CaV3.2 channels in DRG neurons [23].",
+            "startOffset": 26164,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26395,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "MG132 (5 \u03bcM) treatment had no effect on the proportion of LVA-positive neurons.",
+            "startOffset": 26316,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20094,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "All data are given as mean \u00b1 S.E.M. Differences between groups were assessed by Student's t-test (paired or unpaired, as appropriate).",
+            "startOffset": 19960,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 18322,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "DRG were dissociated as described previously and cultured on 10 mm cover-glasses in 24-well plates in the presence and absence of the test compounds.",
+            "startOffset": 18173,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 19826,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The following primers were used: Cacna1h sense: 5\u2032-TGCCCACGGAGTCTATGAGT-3\u2032; Cacna1h antisense: 5\u2032-GTTGTAGGGGTTCCGGATGT-3\u2032 and Gapdh sense: 5\u2032-GACATGCCGCCTGGAGAAAC-3\u2032; Gapdh antisense: 5\u2032-AGCCCAGGATGCCCTTTAGT-3\u2032.",
+            "startOffset": 19615,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 23115,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Again, there was no effect on the peak LVA Ca2+ current amplitude by either treatment (Fig. 2A, C).",
+            "startOffset": 23016,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23346,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Neither NE (500 nM) nor PGE2 (500 nM) had an effect on the percentage of LVA-positive neurons: 21/46 (45.6%) in NE-treated group and 20/47 (42.6%) in PGE2-treated group were LVA-positive (Fig. 2A, B; p > 0.05 compared to control).",
+            "startOffset": 23116,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19614,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "qPCR reactions were performed using a kit (SYBR Premix Ex TaqII (Tli RNase H Plus), Takara) and the fluorescent DNA detected and quantified with a FQD-48A(A4) system (BIOER).",
+            "startOffset": 19440,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 15130,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 15129,
+                    "startOffset": 15122
+                },
+                "bib16": {
+                    "endOffset": 15129,
+                    "startOffset": 15122
+                },
+                "bib17": {
+                    "endOffset": 15129,
+                    "startOffset": 15122
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Pharmacological inhibitors of T-type Ca2+ channels consistently display analgesic efficacy in rodent pain models [15\u201317].",
+            "startOffset": 15009,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24709,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There was no effect of U-73122 on the peak LVA Ca2+ current amplitude (Fig. 3C).",
+            "startOffset": 24629,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14380,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 14379,
+                    "startOffset": 14373
+                },
+                "bib6": {
+                    "endOffset": 14253,
+                    "startOffset": 14248
+                },
+                "bib7": {
+                    "endOffset": 14253,
+                    "startOffset": 14248
+                },
+                "bib8": {
+                    "endOffset": 14379,
+                    "startOffset": 14373
+                },
+                "bib9": {
+                    "endOffset": 14379,
+                    "startOffset": 14373
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In the peripheral somatosensory system, T-type Ca2+ channels are expressed in small, TRPV1-positive nociceptive neurons [6\u20138] and in two populations of low-threshold mechanoreceptors (LTMRs): A\u03b4- and C-LTMRs, which innervate skin hair follicles [8\u201310].",
+            "startOffset": 14128,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19959,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Statistics.",
+            "startOffset": 19948,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 20800,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, we tested if and how functional expression of LVA channels is changed under the inflammatory conditions in vitro.",
+            "startOffset": 20681,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25634,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Neither Hoe-140 nor A-317491 produced an effect on the LVA current amplitude (Fig. 3A, C).",
+            "startOffset": 25544,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17492,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "LVA currents were measured by 50 ms square voltage pulses to \u221240 mV from a holding potential of \u221290 mV.",
+            "startOffset": 17389,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 26744,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We also tested the effect of inflammatory conditions on the expression of CaV3.2 in DRG neurons using RT-PCR and immunostaining.",
+            "startOffset": 26616,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24869,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next used a specific antagonist of B2 receptors, Hoe-140, to confirm the contribution of the BK signaling cascade to the action of the inflammatory cocktail.",
+            "startOffset": 24709,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14464,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 14463,
+                    "startOffset": 14459
+                }
+            },
+            "secId": "sec1",
+            "sentence": "CaV3.2 is the predominant T-type channel isoform expressed in sensory neurons [11].",
+            "startOffset": 14381,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18801,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "On a following day sections were washed with 0.1 M PBS and incubated with secondary antibody (Jackson, FITC-Goat Anti-Rabbit IgG) for 4 h at room temperature.",
+            "startOffset": 18643,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 19169,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "DRG were dissociated and cultured on 10 mm cover-glasses in 24-well plates in the presence or absence of the test compounds.",
+            "startOffset": 19045,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 13829,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 13828,
+                    "startOffset": 13825
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The family consists of three subunits, CaV3.1\u2013CaV3.3, encoded by CACNA1G, CACNA1H and CACNA1I genes [5].",
+            "startOffset": 13725,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27347,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here we demonstrate that inflammatory mediators, acting via the Gq/11-PLC signaling cascade, strongly increase the pool size of the LVA-positive DRG neurons.",
+            "startOffset": 27190,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18495,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Cover-glasses with DRG cultures were washed with 0.1 M phosphate buffered saline (PBS; Sigma) and blocked for 2 h with blocking buffer (10% Goat serum in 0.1 M PBS; Sigma).",
+            "startOffset": 18323,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 15440,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "A flip side of CaV3.2 expression in pain pathways is that an increase in this channel activity and/or abundance can have a pro-algesic effect.",
+            "startOffset": 15298,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22391,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "After 24 h incubation 82/114 (71.9%) neurons monitored in control culture and 63/85 (74.1%) neurons monitored in the inflammatory cocktail-treated culture remained morphologically intact (Fig. 1B).",
+            "startOffset": 22194,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16472,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 16471,
+                    "startOffset": 16464
+                },
+                "bib28": {
+                    "endOffset": 16471,
+                    "startOffset": 16464
+                }
+            },
+            "secId": "sec2",
+            "sentence": "DRGs from all spinal levels were extracted and dissociated using collagenase/dispase method as described [27,28].",
+            "startOffset": 16359,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 16881,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "All recordings were made at room temperature using Multiclamp 700B amplifier in combination with pCLAMP 10.4 software (Axon Instruments, USA).",
+            "startOffset": 16739,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 23015,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Overnight incubation with BK (100 nM) or ATP (2 \u03bcM) significantly increased the percentage of LVA-positive neurons from 25/54 (46.3%; control) to 43/54 (79.6%; BK; p < 0.05) or 39/56 (69.6%; ATP; p < 0.05), respectively (Fig. 2A\u2013B).",
+            "startOffset": 22783,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20209,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "\u03c72 test was used to determine whether there were differences in the proportion of cells responding to a treatment.",
+            "startOffset": 20095,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 28569,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This hypothesis may explain a paradoxical lack of effect of the inflammatory treatment on the mean LVA Ca2+ current amplitude.",
+            "startOffset": 28443,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23872,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 23792,
+                    "startOffset": 23785
+                },
+                "bib32": {
+                    "endOffset": 23792,
+                    "startOffset": 23785
+                },
+                "bib33": {
+                    "endOffset": 23870,
+                    "startOffset": 23866
+                }
+            },
+            "secId": "sec3",
+            "sentence": "ATP activates ionotropic P2X receptors (DRG neurons express predominantly P2X2, P2X3 and their multimers [31,32]) and metabotropic P2Y receptors (DRG express predominantly P2Y1 and P2Y2 [33]).",
+            "startOffset": 23680,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18172,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Immunohistochemistry.",
+            "startOffset": 18151,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 27804,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We could not detect an increase in the expression of CaV3.2 after the inflammatory treatment on mRNA or protein levels.",
+            "startOffset": 27685,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19439,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Isolated RNA was dissolved in 20 \u03bcl DEPC-treated water and reverse-transcribed using an RT reagent kit (PrimeScript\u2122 with gDNA Eraser, Takara) and a thermal cycler (Mastercycler, Eppendorf).",
+            "startOffset": 19249,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 29273,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Taken together our data report novel mechanism that may contribute to the inflammatory overexcitability of peripheral somatosensory fibers.",
+            "startOffset": 29134,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20266,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The differences were considered significant at P \u2264 0.05.",
+            "startOffset": 20210,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 28894,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "There might be an effective control mechanism responsible for the tonic levels of functional CaV3.2 channels at the plasma membrane and while inflammatory treatment does not change this level, it triggers the recruitment of a \u2018CaV3.2 reserve\u2019 in some \u2018nominally\u2019 LVA-negative neurons, converting these into the LVA-positive.",
+            "startOffset": 28570,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26011,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In addition, increased expression can also potentially contribute.",
+            "startOffset": 25945,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17642,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Live cell imaging.",
+            "startOffset": 17624,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 26898,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There was no significant increase of CaV3.2 transcript in DRG cultures after overnight incubation in the presence of the inflammatory cocktail (Fig. 4B).",
+            "startOffset": 26745,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17973,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Twenty four hours after dissociation the dishes were put into a humidified (37 \u00b0C, 5% CO2) live cell imaging station (GSI-D35, TOKAI HIT) and monitored for the next 24 h under control conditions or in the presence of inflammatory mediators.",
+            "startOffset": 17733,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 25944,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 25943,
+                    "startOffset": 25939
+                },
+                "bib25": {
+                    "endOffset": 25827,
+                    "startOffset": 25820
+                },
+                "bib26": {
+                    "endOffset": 25827,
+                    "startOffset": 25820
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Earlier studies suggest that at least two mechanisms may contribute to the increased abundance of T-type channels in nociceptors under inflammatory conditions: (i) increased trafficking [25,26] and (ii) enhanced membrane retention due to the increased deubiquitination by the deubiquitinating enzyme USP5 [23].",
+            "startOffset": 25634,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16097,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "DRG culture.",
+            "startOffset": 16085,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17526,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Recordings were sampled at 4 kHz.",
+            "startOffset": 17493,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 21690,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The mean LVA current amplitudes were \u2212113.6 \u00b1 18.5 pA (n = 21) and \u2212105.3 \u00b1 14.5 pA (n = 31) in control and inflammatory treated neurons, respectively.",
+            "startOffset": 21539,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23535,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next tested the signaling cascade underlying the BK and ATP effects on the pool size of LVA-positive DRG neurons.",
+            "startOffset": 23419,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25543,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Consistent with the effect of the PLC inhibitor U-73122, P2X2/P2X3 receptor antagonist A-317491 (1 \u03bcM) did not abolish the increase in the proportion of LVA-positive neurons induced by the inflammatory treatment: there were 29/43 (67.5%) LVA-positive neurons in cultures treated with the inflammatory cocktail and A-317491, thus producing a similar proportion to cultures treated with the inflammatory cocktail only (31/42 or 73.8% neurons) (Fig. 3A, B).",
+            "startOffset": 25089,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16958,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "A whole-cell configuration of the patch clamp technique was used throughout.",
+            "startOffset": 16882,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17131,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Patch pipettes were pulled from borosilicate glass using a horizontal micropipette puller (P-97, Sutter Instruments, USA) and fire-polished to a final resistance of 2\u20134 M\u03a9.",
+            "startOffset": 16959,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 18958,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Each cover-glass was washed with PBS and incubated with DAPI for 10 min, followed by repeated PBS washes and mounted on microscope slides using Vectashield.",
+            "startOffset": 18802,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 19248,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Total RNA was extracted using a commercial RNA isolation kit (RNAiso, Takara).",
+            "startOffset": 19170,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 15298,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 15297,
+                    "startOffset": 15290
+                },
+                "bib19": {
+                    "endOffset": 15297,
+                    "startOffset": 15290
+                },
+                "bib2": {
+                    "endOffset": 15187,
+                    "startOffset": 15184
+                },
+                "bib20": {
+                    "endOffset": 15297,
+                    "startOffset": 15290
+                }
+            },
+            "secId": "sec1",
+            "sentence": "CaV3s are clinically validated drug targets for pain [2] and several novel selective T-type channel blockers are currently under clinical trials as analgesics [18\u201320].",
+            "startOffset": 15131,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19044,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "RT-PCR.",
+            "startOffset": 19037,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 16145,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 16144,
+                    "startOffset": 16137
+                },
+                "bib28": {
+                    "endOffset": 16144,
+                    "startOffset": 16137
+                }
+            },
+            "secId": "sec2",
+            "sentence": "DRG neurons were cultured as described [27,28].",
+            "startOffset": 16098,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 25088,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In cultures treated with the inflammatory cocktail in the presence of Hoe-140 (10 nM) overnight only 23/48 (48.0%) of neurons displayed LVA currents, a proportion similar to that in the control conditions (Fig. 3A, B).",
+            "startOffset": 24870,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28207,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It seems logical to propose that stimulation of Gq/11-PLC signaling pathway by B2 or P2Y receptors stimulates recruitment of the \u2018reserve pool\u2019 of CaV3.2 channels, particularly in neurons which do not normally display robust LVA currents.",
+            "startOffset": 27969,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22631,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, a feasible explanation for an increase in the proportion of LVA-positive neurons after the inflammatory treatment is the increase of functional T-type channel abundance in neurons that do not normally display measurable LVA currents.",
+            "startOffset": 22392,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27968,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Similarly, the inability of MG132 to increase the proportion of LVA-positive neurons argues against reduced ubiquitination as the underlying reason for the effect.",
+            "startOffset": 27805,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16358,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Adult Sprague Dawley rats (170 g\u2013180 g) were humanely euthanized by isoflurane overdose in accordance with the guidelines of the Animal Care and Ethical Committee of Hebei Medical University, Shijiazhuang, China.",
+            "startOffset": 16146,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17388,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The standard bath solution contained (in mM): 150 TEA-Cl; 2 CaCl2; 10 HEPES; 10 glucose (pH 7.4 adjusted with CsOH).",
+            "startOffset": 17272,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 20680,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 20679,
+                    "startOffset": 20672
+                },
+                "bib24": {
+                    "endOffset": 20605,
+                    "startOffset": 20601
+                },
+                "bib29": {
+                    "endOffset": 20679,
+                    "startOffset": 20672
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Up-regulation of activity [29] or abundance [23,24] of T-type Ca2+ channels was reported to contribute to pain and hyperalgesia observed in several inflammatory models, including experimentally-induced irritable bowel syndrome [24] and complete Freund's adjuvant (CFA)-induced chronic inflammation [23,29].",
+            "startOffset": 20374,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19836,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Chemicals.",
+            "startOffset": 19826,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 26492,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "After overnight treatment with MG132 there were 17/40 (42.5%) of LVA-positive neurons (Fig. 4A).",
+            "startOffset": 26396,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16720,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Dissociated cells we cultured in DMEN supplemented with GlutaMax I, 10% fetal calf serum, penicillin (50 U/ml) and streptomycin (50 \u03bcg/ml) and plated on poly-d-lysine coasted glass coverslips for 2\u20135 days in a humidified incubator (37 \u00b0C, 5% CO2).",
+            "startOffset": 16473,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 18642,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Primary anti-CaV3.2 antibody (Alomone, Rabbit, Cat#: ACC-025) was diluted (1:200) in 0.3% Triton X-100/PBS buffer and incubated overnight at 4 \u00b0C.",
+            "startOffset": 18496,
+            "title": "Materials and methods"
+        }
+    ],
+    "docId": "S0006291X16303060",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Dongyang",
+                "initial": "D.",
+                "last": "Huang"
+            },
+            {
+                "email": null,
+                "first": "Ce",
+                "initial": "C.",
+                "last": "Liang"
+            },
+            {
+                "email": null,
+                "first": "Fan",
+                "initial": "F.",
+                "last": "Zhang"
+            },
+            {
+                "email": null,
+                "first": "Hongchao",
+                "initial": "H.",
+                "last": "Men"
+            },
+            {
+                "email": null,
+                "first": "Xiaona",
+                "initial": "X.",
+                "last": "Du"
+            },
+            {
+                "email": "N.Gamper@leeds.ac.uk",
+                "first": "Nikita",
+                "initial": "N.",
+                "last": "Gamper"
+            },
+            {
+                "email": "zhanghl@hebmu.edu.cn",
+                "first": "Hailin",
+                "initial": "H.",
+                "last": "Zhang"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.02.118",
+        "firstpage": "396",
+        "issn": "0006291X",
+        "keywords": [
+            "Bradykinin",
+            "Inflammation",
+            "Nociceptor",
+            "P2Y receptors",
+            "Prostaglandin",
+            "T-type Ca2+ channels"
+        ],
+        "lastpage": "402",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Inflammatory mediator bradykinin increases population of sensory neurons expressing functional T-type Ca2+ channels"
+    }
+}

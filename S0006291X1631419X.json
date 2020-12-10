@@ -1,0 +1,2826 @@
+{
+    "abstract": "Untargeted metabolic profiling has generated large activity in the field of clinical biomarker discovery. Yet, no clinically approved metabolite biomarkers have emerged with failure in validation phases often being a reason. To investigate why, we have applied untargeted metabolic profiling in a retrospective cohort of serum samples representing non-related diseases. Age and gender matched samples from patients diagnosed with pneumonia, congestive heart failure, lymphoma and healthy controls were subject to comprehensive metabolic profiling using ultra-performance liquid chromatography-mass spectrometry (UPLC-MS). The metabolic profile of each diagnosis was compared to the healthy control group and significant metabolites were filtered out using t-test with FDR correction. Metabolites found to be significant between each disease and healthy controls were compared and analyzed for overlap. Results show that despite differences in etiology and clinical disease presentation, the fraction of metabolites with an overlap between two or more diseases was 61%. A majority of these metabolites can be associated with immune responses thus representing non-disease specific events. We show that metabolic serum profiles from patients representing non-related diseases display very similar metabolic differences when compared to healthy controls. Many of the metabolites discovered as disease specific in this study have further been associated with other diseases in the literature. Based on our findings we suggest non-related disease controls in metabolomics biomarker discovery studies to increase the chances of a successful validation and future clinical applications.",
+    "author_highlights": [
+        {
+            "endOffset": 15578,
+            "sentence": "There is a large overlap in serum metabolic profiles between non-related diseases.",
+            "startOffset": 15496
+        },
+        {
+            "endOffset": 15659,
+            "sentence": "A large fraction the overlap can be associated with non-disease specific events.",
+            "startOffset": 15579
+        },
+        {
+            "endOffset": 15723,
+            "sentence": "The implementation of non-related disease controls is proposed.",
+            "startOffset": 15660
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Nordstr\u00f6m"
+                },
+                {
+                    "first": "Rolf",
+                    "initial": "R.",
+                    "last": "Lewensohn"
+                }
+            ],
+            "doi": "10.1007/s11481-009-9156-4",
+            "firstpage": "4",
+            "issn": "15571890",
+            "lastpage": "17",
+            "pmid": "19399626",
+            "pub_year": 2010,
+            "title": "Metabolomics: Moving to the clinic",
+            "volume": "5"
+        },
+        "bib10": null,
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Jean Pierre",
+                    "initial": "J.P.",
+                    "last": "Trezzi"
+                },
+                {
+                    "first": "Nikos",
+                    "initial": "N.",
+                    "last": "Vlassis"
+                },
+                {
+                    "first": "Karsten",
+                    "initial": "K.",
+                    "last": "Hiller"
+                }
+            ],
+            "doi": "10.1007/978-94-017-7215-0_4",
+            "firstpage": "41",
+            "issn": "00652598",
+            "lastpage": "57",
+            "pmid": "26530359",
+            "pub_year": 2015,
+            "title": "The role of metabolomics in the study of cancer biomarkers and in the development of diagnostic tools",
+            "volume": "867"
+        },
+        "bib12": null,
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Colin A.",
+                    "initial": "C.A.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Grace",
+                    "initial": "G.",
+                    "last": "O'Maille"
+                },
+                {
+                    "first": "Elizabeth J.",
+                    "initial": "E.J.",
+                    "last": "Want"
+                },
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Qin"
+                },
+                {
+                    "first": "Sunia A.",
+                    "initial": "S.A.",
+                    "last": "Trauger"
+                },
+                {
+                    "first": "Theodore R.",
+                    "initial": "T.R.",
+                    "last": "Brandon"
+                },
+                {
+                    "first": "Darlene E.",
+                    "initial": "D.E.",
+                    "last": "Custodio"
+                },
+                {
+                    "first": "Ruben",
+                    "initial": "R.",
+                    "last": "Abagyan"
+                },
+                {
+                    "first": "Gary",
+                    "initial": "G.",
+                    "last": "Siuzdak"
+                }
+            ],
+            "doi": "10.1097/01.ftd.0000179845.53213.39",
+            "firstpage": "747",
+            "issn": "01634356",
+            "lastpage": "751",
+            "pmid": "16404815",
+            "pub_year": 2005,
+            "title": "METLIN: A metabolite mass spectral database",
+            "volume": "27"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "David S.",
+                    "initial": "D.S.",
+                    "last": "Wishart"
+                },
+                {
+                    "first": "Timothy",
+                    "initial": "T.",
+                    "last": "Jewison"
+                },
+                {
+                    "first": "An Chi",
+                    "initial": "A.C.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Craig",
+                    "initial": "C.",
+                    "last": "Knox"
+                },
+                {
+                    "first": "Yifeng",
+                    "initial": "Y.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Yannick",
+                    "initial": "Y.",
+                    "last": "Djoumbou"
+                },
+                {
+                    "first": "Rupasri",
+                    "initial": "R.",
+                    "last": "Mandal"
+                },
+                {
+                    "first": "Farid",
+                    "initial": "F.",
+                    "last": "Aziat"
+                },
+                {
+                    "first": "Edison",
+                    "initial": "E.",
+                    "last": "Dong"
+                },
+                {
+                    "first": "Souhaila",
+                    "initial": "S.",
+                    "last": "Bouatra"
+                },
+                {
+                    "first": "Igor",
+                    "initial": "I.",
+                    "last": "Sinelnikov"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Arndt"
+                },
+                {
+                    "first": "Jianguo",
+                    "initial": "J.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Philip",
+                    "initial": "P.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Faizath",
+                    "initial": "F.",
+                    "last": "Yallou"
+                },
+                {
+                    "first": "Trent",
+                    "initial": "T.",
+                    "last": "Bjorndahl"
+                },
+                {
+                    "first": "Rolando",
+                    "initial": "R.",
+                    "last": "Perez-Pineiro"
+                },
+                {
+                    "first": "Roman",
+                    "initial": "R.",
+                    "last": "Eisner"
+                },
+                {
+                    "first": "Felicity",
+                    "initial": "F.",
+                    "last": "Allen"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Neveu"
+                },
+                {
+                    "first": "Russ",
+                    "initial": "R.",
+                    "last": "Greiner"
+                },
+                {
+                    "first": "Augustin",
+                    "initial": "A.",
+                    "last": "Scalbert"
+                }
+            ],
+            "doi": "10.1093/nar/gks1065",
+            "firstpage": "D801",
+            "issn": "03051048",
+            "lastpage": "D807",
+            "pmid": "23161693",
+            "pub_year": 2013,
+            "title": "HMDB 3.0-The Human Metabolome Database in 2013",
+            "volume": "41"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Warwick B.",
+                    "initial": "W.B.",
+                    "last": "Dunn"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Broadhurst"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Begley"
+                },
+                {
+                    "first": "Eva",
+                    "initial": "E.",
+                    "last": "Zelena"
+                },
+                {
+                    "first": "Sue",
+                    "initial": "S.",
+                    "last": "Francis-Mcintyre"
+                },
+                {
+                    "first": "Nadine",
+                    "initial": "N.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Marie",
+                    "initial": "M.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "Joshau D.",
+                    "initial": "J.D.",
+                    "last": "Knowles"
+                },
+                {
+                    "first": "Antony",
+                    "initial": "A.",
+                    "last": "Halsall"
+                },
+                {
+                    "first": "John N.",
+                    "initial": "J.N.",
+                    "last": "Haselden"
+                },
+                {
+                    "first": "Andrew W.",
+                    "initial": "A.W.",
+                    "last": "Nicholls"
+                },
+                {
+                    "first": "Ian D.",
+                    "initial": "I.D.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Douglas B.",
+                    "initial": "D.B.",
+                    "last": "Kell"
+                },
+                {
+                    "first": "Royston",
+                    "initial": "R.",
+                    "last": "Goodacre"
+                }
+            ],
+            "doi": "10.1038/nprot.2011.335",
+            "firstpage": "1060",
+            "issn": "17542189",
+            "lastpage": "1083",
+            "pmid": "21720319",
+            "pub_year": 2011,
+            "title": "Procedures for large-scale metabolic profiling of serum and plasma using gas chromatography and liquid chromatography coupled to mass spectrometry",
+            "volume": "6"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Leonor",
+                    "initial": "L.",
+                    "last": "Puchades-Carrasco"
+                },
+                {
+                    "first": "Eloisa",
+                    "initial": "E.",
+                    "last": "Jantus-Lewintre"
+                },
+                {
+                    "first": "Clara",
+                    "initial": "C.",
+                    "last": "P\u00e9rez-Rambla"
+                },
+                {
+                    "first": "Francisco",
+                    "initial": "F.",
+                    "last": "Garc\u00eda-Garc\u00eda"
+                },
+                {
+                    "first": "Rut",
+                    "initial": "R.",
+                    "last": "Lucas"
+                },
+                {
+                    "first": "Silvia",
+                    "initial": "S.",
+                    "last": "Calabuig"
+                },
+                {
+                    "first": "Ana",
+                    "initial": "A.",
+                    "last": "Blasco"
+                },
+                {
+                    "first": "Joaqu\u00edn",
+                    "initial": "J.",
+                    "last": "Dopazo"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Camps"
+                },
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Pineda-Lucena"
+                }
+            ],
+            "doi": "10.18632/oncotarget.7354",
+            "firstpage": "12904",
+            "issn": "19492553",
+            "lastpage": "12916",
+            "pmid": "26883203",
+            "pub_year": 2016,
+            "title": "Serum metabolomic profiling facilitates the non-invasive identification of metabolic biomarkers associated with the onset and progression of non-small cell lung cancer",
+            "volume": "7"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Anastasios",
+                    "initial": "A.",
+                    "last": "Mastrokolias"
+                },
+                {
+                    "first": "Rene",
+                    "initial": "R.",
+                    "last": "Pool"
+                },
+                {
+                    "first": "Eleni",
+                    "initial": "E.",
+                    "last": "Mina"
+                },
+                {
+                    "first": "Kristina M.",
+                    "initial": "K.M.",
+                    "last": "Hettne"
+                },
+                {
+                    "first": "Erik",
+                    "initial": "E.",
+                    "last": "van Duijn"
+                },
+                {
+                    "first": "Roos C.",
+                    "initial": "R.C.",
+                    "last": "van der Mast"
+                },
+                {
+                    "first": "Gert Jan",
+                    "initial": "G.J.",
+                    "last": "van Ommen"
+                },
+                {
+                    "first": "Peter A.C.",
+                    "initial": "P.A.C.",
+                    "last": "\u2018t Hoen"
+                },
+                {
+                    "first": "Cornelia",
+                    "initial": "C.",
+                    "last": "Prehn"
+                },
+                {
+                    "first": "Jerzy",
+                    "initial": "J.",
+                    "last": "Adamski"
+                },
+                {
+                    "first": "Willeke",
+                    "initial": "W.",
+                    "last": "van Roon-Mom"
+                }
+            ],
+            "doi": "10.1007/s11306-016-1084-8",
+            "issn": "15733882",
+            "pub_year": 2016,
+            "title": "Integration of targeted metabolomics and transcriptomics identifies deregulation of phosphatidylcholine metabolism in Huntington\u2019s disease peripheral blood samples",
+            "volume": "12"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Ra\u00fal",
+                    "initial": "R.",
+                    "last": "Gonz\u00e1lez-Dom\u00ednguez"
+                },
+                {
+                    "first": "Tamara",
+                    "initial": "T.",
+                    "last": "Garc\u00eda-Barrera"
+                },
+                {
+                    "first": "Jos\u00e9 Luis",
+                    "initial": "J.L.",
+                    "last": "G\u00f3mez-Ariza"
+                }
+            ],
+            "doi": "10.1016/j.jpba.2014.10.010",
+            "firstpage": "75",
+            "issn": "07317085",
+            "lastpage": "81",
+            "pmid": "25575172",
+            "pub_year": 2015,
+            "title": "Metabolite profiling for the identification of altered metabolic pathways in Alzheimer's disease",
+            "volume": "107"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Kelvin K.W.",
+                    "initial": "K.K.W.",
+                    "last": "To"
+                },
+                {
+                    "first": "Kim Chung",
+                    "initial": "K.C.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Samson S.Y.",
+                    "initial": "S.S.Y.",
+                    "last": "Wong"
+                },
+                {
+                    "first": "Ka Ching",
+                    "initial": "K.C.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Yin Ming",
+                    "initial": "Y.M.",
+                    "last": "Lui"
+                },
+                {
+                    "first": "Akhee S.",
+                    "initial": "A.S.",
+                    "last": "Jahan"
+                },
+                {
+                    "first": "Andrea L.",
+                    "initial": "A.L.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Yi Hong",
+                    "initial": "Y.H.",
+                    "last": "Ke"
+                },
+                {
+                    "first": "Chun Yiu",
+                    "initial": "C.Y.",
+                    "last": "Law"
+                },
+                {
+                    "first": "Kong Hung",
+                    "initial": "K.H.",
+                    "last": "Sze"
+                },
+                {
+                    "first": "Susanna K.P.",
+                    "initial": "S.K.P.",
+                    "last": "Lau"
+                },
+                {
+                    "first": "Patrick C.Y.",
+                    "initial": "P.C.Y.",
+                    "last": "Woo"
+                },
+                {
+                    "first": "Ching Wan",
+                    "initial": "C.W.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "Kwok Yung",
+                    "initial": "K.Y.",
+                    "last": "Yuen"
+                }
+            ],
+            "doi": "10.1016/j.jinf.2015.02.011",
+            "firstpage": "433",
+            "issn": "01634453",
+            "lastpage": "444",
+            "pmid": "25727996",
+            "pub_year": 2015,
+            "title": "Lipid mediators of inflammation as novel plasma biomarkers to identify patients with bacteremia",
+            "volume": "70"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Rossella",
+                    "initial": "R.",
+                    "last": "Parini"
+                },
+                {
+                    "first": "Carlo",
+                    "initial": "C.",
+                    "last": "Corbetta"
+                }
+            ],
+            "doi": "10.3109/14767058.2011.606617",
+            "firstpage": "7",
+            "issn": "14767058",
+            "lastpage": "9",
+            "pmid": "21770861",
+            "pub_year": 2011,
+            "title": "Metabolic screening for the newborn",
+            "volume": "24"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Tao",
+                    "initial": "T.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "Liang",
+                    "initial": "L.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Zongmei",
+                    "initial": "Z.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "Chunyan",
+                    "initial": "C.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Chuen Seng",
+                    "initial": "C.S.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "Wei Zhong",
+                    "initial": "W.Z.",
+                    "last": "Toh"
+                },
+                {
+                    "first": "Choon Nam",
+                    "initial": "C.N.",
+                    "last": "Ong"
+                }
+            ],
+            "doi": "10.1039/c3mb70138g",
+            "firstpage": "2370",
+            "issn": "1742206X",
+            "lastpage": "2378",
+            "pmid": "23857124",
+            "pub_year": 2013,
+            "title": "Exploratory investigation of plasma metabolomics in human lung adenocarcinoma",
+            "volume": "9"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Danuta",
+                    "initial": "D.",
+                    "last": "Dudzik"
+                },
+                {
+                    "first": "Marcin",
+                    "initial": "M.",
+                    "last": "Zorawski"
+                },
+                {
+                    "first": "Mariusz",
+                    "initial": "M.",
+                    "last": "Skotnicki"
+                },
+                {
+                    "first": "Wieslaw",
+                    "initial": "W.",
+                    "last": "Zarzycki"
+                },
+                {
+                    "first": "Gabryela",
+                    "initial": "G.",
+                    "last": "Kozlowska"
+                },
+                {
+                    "first": "Katarzyna",
+                    "initial": "K.",
+                    "last": "Bibik-Malinowska"
+                },
+                {
+                    "first": "Mar\u00eda",
+                    "initial": "M.",
+                    "last": "Vallejo"
+                },
+                {
+                    "first": "Antonia",
+                    "initial": "A.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Coral",
+                    "initial": "C.",
+                    "last": "Barbas"
+                },
+                {
+                    "first": "M. Pilar",
+                    "initial": "M.P.",
+                    "last": "Ramos"
+                }
+            ],
+            "doi": "10.1016/j.jprot.2014.03.025",
+            "firstpage": "57",
+            "issn": "18743919",
+            "lastpage": "71",
+            "pmid": "24698665",
+            "pub_year": 2014,
+            "title": "Metabolic fingerprint of gestational diabetes mellitus",
+            "volume": "103"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Magdalena",
+                    "initial": "M.",
+                    "last": "Chechlinska"
+                },
+                {
+                    "first": "Magdalena",
+                    "initial": "M.",
+                    "last": "Kowalewska"
+                },
+                {
+                    "first": "Radoslawa",
+                    "initial": "R.",
+                    "last": "Nowak"
+                }
+            ],
+            "doi": "10.1038/nrc2782",
+            "firstpage": "2",
+            "issn": "1474175X",
+            "lastpage": "3",
+            "pmid": "20050335",
+            "pub_year": 2010,
+            "title": "Systemic inflammation as a confounding factor in cancer biomarker discovery and validation",
+            "volume": "10"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Jiri",
+                    "initial": "J.",
+                    "last": "Petrak"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Ivanek"
+                },
+                {
+                    "first": "Ondrej",
+                    "initial": "O.",
+                    "last": "Toman"
+                },
+                {
+                    "first": "Radek",
+                    "initial": "R.",
+                    "last": "Cmejla"
+                },
+                {
+                    "first": "Jana",
+                    "initial": "J.",
+                    "last": "Cmejlova"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Vyoral"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Zivny"
+                },
+                {
+                    "first": "Christopher D.",
+                    "initial": "C.D.",
+                    "last": "Vulpe"
+                }
+            ],
+            "doi": "10.1002/pmic.200700919",
+            "firstpage": "1744",
+            "issn": "16159853",
+            "lastpage": "1749",
+            "pmid": "18442176",
+            "pub_year": 2008,
+            "title": "D\u00e9j\u00e0 vu in proteomics. A hit parade of repeatedly identified differentially expressed proteins",
+            "volume": "8"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Ioanna",
+                    "initial": "I.",
+                    "last": "Sevastou"
+                },
+                {
+                    "first": "Eleanna",
+                    "initial": "E.",
+                    "last": "Kaffe"
+                },
+                {
+                    "first": "Marios Angelos",
+                    "initial": "M.A.",
+                    "last": "Mouratis"
+                },
+                {
+                    "first": "Vassilis",
+                    "initial": "V.",
+                    "last": "Aidinis"
+                }
+            ],
+            "doi": "10.1016/j.bbalip.2012.07.019",
+            "firstpage": "42",
+            "issn": "13881981",
+            "lastpage": "60",
+            "pmid": "22867755",
+            "pub_year": 2013,
+            "title": "Lysoglycerophospholipids in chronic inflammatory disorders: The PLA 2/LPC and ATX/LPA axes",
+            "volume": "1831"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "M. T.",
+                    "initial": "M.T.",
+                    "last": "Quinn"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Parthasarathy"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Steinberg"
+                }
+            ],
+            "doi": "10.1073/pnas.85.8.2805",
+            "firstpage": "2805",
+            "issn": "00278424",
+            "lastpage": "2809",
+            "pmid": "3357891",
+            "pub_year": 1988,
+            "title": "Lysophosphatidylcholine: A chemotactic factor for human monocytes and its potential role in atherogenesis",
+            "volume": "85"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Shalina S.",
+                    "initial": "S.S.",
+                    "last": "Ousman"
+                },
+                {
+                    "first": "Samuel",
+                    "initial": "S.",
+                    "last": "David"
+                }
+            ],
+            "doi": "10.1002/(SICI)1098-1136(200003)30:1<92::AID-GLIA10>3.0.CO;2-W",
+            "firstpage": "92",
+            "issn": "08941491",
+            "lastpage": "104",
+            "pmid": "10696148",
+            "pub_year": 2000,
+            "title": "Lysophosphatidylcholine induces rapid recruitment and activation of macrophages in the adult mouse spinal cord",
+            "volume": "30"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Oliver",
+                    "initial": "O.",
+                    "last": "Soehnlein"
+                },
+                {
+                    "first": "Lennart",
+                    "initial": "L.",
+                    "last": "Lindbom"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Weber"
+                }
+            ],
+            "doi": "10.1182/blood-2009-06-221630",
+            "firstpage": "4613",
+            "issn": "00064971",
+            "lastpage": "4623",
+            "pmid": "19696199",
+            "pub_year": 2009,
+            "title": "Mechanisms underlying neutrophil-mediated monocyte recruitment",
+            "volume": "114"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Kirthana",
+                    "initial": "K.",
+                    "last": "Ganeshan"
+                },
+                {
+                    "first": "Ajay",
+                    "initial": "A.",
+                    "last": "Chawla"
+                }
+            ],
+            "doi": "10.1146/annurev-immunol-032713-120236",
+            "firstpage": "609",
+            "issn": "07320582",
+            "lastpage": "634",
+            "pmid": "24655299",
+            "pub_year": 2014,
+            "title": "Metabolic regulation of immune responses",
+            "volume": "32"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Douglas",
+                    "initial": "D.",
+                    "last": "Hanahan"
+                },
+                {
+                    "first": "Robert A.",
+                    "initial": "R.A.",
+                    "last": "Weinberg"
+                }
+            ],
+            "doi": "10.1016/j.cell.2011.02.013",
+            "firstpage": "646",
+            "issn": "00928674",
+            "lastpage": "674",
+            "pmid": "21376230",
+            "pub_year": 2011,
+            "title": "Hallmarks of cancer: The next generation",
+            "volume": "144"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Shin",
+                    "initial": "S.",
+                    "last": "Nishiumi"
+                },
+                {
+                    "first": "Atsuki",
+                    "initial": "A.",
+                    "last": "Ikeda"
+                },
+                {
+                    "first": "Tomoo",
+                    "initial": "T.",
+                    "last": "Yoshie"
+                },
+                {
+                    "first": "Aya",
+                    "initial": "A.",
+                    "last": "Sakai"
+                },
+                {
+                    "first": "Atsuki",
+                    "initial": "A.",
+                    "last": "Matsubara"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Izumi"
+                },
+                {
+                    "first": "Hidetaka",
+                    "initial": "H.",
+                    "last": "Tsumura"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Tsuda"
+                },
+                {
+                    "first": "Hogara",
+                    "initial": "H.",
+                    "last": "Nishisaki"
+                },
+                {
+                    "first": "Nobuhide",
+                    "initial": "N.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Seiji",
+                    "initial": "S.",
+                    "last": "Kawano"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Fujiwara"
+                },
+                {
+                    "first": "Hironobu",
+                    "initial": "H.",
+                    "last": "Minami"
+                },
+                {
+                    "first": "Tadaomi",
+                    "initial": "T.",
+                    "last": "Takenawa"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Azuma"
+                },
+                {
+                    "first": "Masaru",
+                    "initial": "M.",
+                    "last": "Yoshida"
+                }
+            ],
+            "doi": "10.1158/1055-9965.EPI-12-1033",
+            "firstpage": "571",
+            "issn": "10559965",
+            "lastpage": "579",
+            "pmid": "23542803",
+            "pub_year": 2013,
+            "title": "Anovel serum metabolomics-based diagnostic approach to pancreatic cancer",
+            "volume": "22"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Sana",
+                    "initial": "S.",
+                    "last": "Shakour"
+                },
+                {
+                    "first": "Mack T.",
+                    "initial": "M.T.",
+                    "last": "Ruffin"
+                },
+                {
+                    "first": "Suzanna M.",
+                    "initial": "S.M.",
+                    "last": "Zick"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Lubman"
+                },
+                {
+                    "first": "Song",
+                    "initial": "S.",
+                    "last": "Nie"
+                }
+            ],
+            "doi": "10.1158/1055-9965.EPI-13-0672",
+            "firstpage": "1921",
+            "issn": "10559965",
+            "pmid": "24097201",
+            "pub_year": 2013,
+            "title": "Serum metabolomic analysis of pancreatic cancer-letter",
+            "volume": "22"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Arun",
+                    "initial": "A.",
+                    "last": "Sreekumar"
+                },
+                {
+                    "first": "Laila M.",
+                    "initial": "L.M.",
+                    "last": "Poisson"
+                },
+                {
+                    "first": "Thekkelnaycke M.",
+                    "initial": "T.M.",
+                    "last": "Rajendiran"
+                },
+                {
+                    "first": "Amjad P.",
+                    "initial": "A.P.",
+                    "last": "Khan"
+                },
+                {
+                    "first": "Qi",
+                    "initial": "Q.",
+                    "last": "Cao"
+                },
+                {
+                    "first": "Jindan",
+                    "initial": "J.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Bharathi",
+                    "initial": "B.",
+                    "last": "Laxman"
+                },
+                {
+                    "first": "Rohit",
+                    "initial": "R.",
+                    "last": "Mehra"
+                },
+                {
+                    "first": "Robert J.",
+                    "initial": "R.J.",
+                    "last": "Lonigro"
+                },
+                {
+                    "first": "Yong",
+                    "initial": "Y.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Mukesh K.",
+                    "initial": "M.K.",
+                    "last": "Nyati"
+                },
+                {
+                    "first": "Aarif",
+                    "initial": "A.",
+                    "last": "Ahsan"
+                },
+                {
+                    "first": "Shanker",
+                    "initial": "S.",
+                    "last": "Kalyana-Sundaram"
+                },
+                {
+                    "first": "Bo",
+                    "initial": "B.",
+                    "last": "Han"
+                },
+                {
+                    "first": "Xuhong",
+                    "initial": "X.",
+                    "last": "Cao"
+                },
+                {
+                    "first": "Jaeman",
+                    "initial": "J.",
+                    "last": "Byun"
+                },
+                {
+                    "first": "Gilbert S.",
+                    "initial": "G.S.",
+                    "last": "Omenn"
+                },
+                {
+                    "first": "Debashis",
+                    "initial": "D.",
+                    "last": "Ghosh"
+                },
+                {
+                    "first": "Subramaniam",
+                    "initial": "S.",
+                    "last": "Pennathur"
+                },
+                {
+                    "first": "Danny C.",
+                    "initial": "D.C.",
+                    "last": "Alexander"
+                },
+                {
+                    "first": "Alvin",
+                    "initial": "A.",
+                    "last": "Berger"
+                },
+                {
+                    "first": "Jeffrey R.",
+                    "initial": "J.R.",
+                    "last": "Shuster"
+                },
+                {
+                    "first": "John T.",
+                    "initial": "J.T.",
+                    "last": "Wei"
+                },
+                {
+                    "first": "Sooryanarayana",
+                    "initial": "S.",
+                    "last": "Varambally"
+                },
+                {
+                    "first": "Christopher",
+                    "initial": "C.",
+                    "last": "Beecher"
+                },
+                {
+                    "first": "Arul M.",
+                    "initial": "A.M.",
+                    "last": "Chinnaiyan"
+                }
+            ],
+            "doi": "10.1038/nature07762",
+            "firstpage": "910",
+            "issn": "00280836",
+            "lastpage": "914",
+            "pmid": "19212411",
+            "pub_year": 2009,
+            "title": "Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression",
+            "volume": "457"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Florian",
+                    "initial": "F.",
+                    "last": "Jentzmik"
+                },
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Stephan"
+                },
+                {
+                    "first": "Klaus",
+                    "initial": "K.",
+                    "last": "Jung"
+                }
+            ],
+            "doi": "10.1016/j.eururo.2010.05.004",
+            "firstpage": "e31",
+            "issn": "03022838",
+            "lastpage": "e32",
+            "pub_year": 2010,
+            "title": "Letter to the editor",
+            "volume": "58"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Florian",
+                    "initial": "F.",
+                    "last": "Jentzmik"
+                },
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Stephan"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Lein"
+                },
+                {
+                    "first": "Kurt",
+                    "initial": "K.",
+                    "last": "Miller"
+                },
+                {
+                    "first": "Beate",
+                    "initial": "B.",
+                    "last": "Kamlage"
+                },
+                {
+                    "first": "Bianca",
+                    "initial": "B.",
+                    "last": "Bethan"
+                },
+                {
+                    "first": "Glen",
+                    "initial": "G.",
+                    "last": "Kristiansen"
+                },
+                {
+                    "first": "Klaus",
+                    "initial": "K.",
+                    "last": "Jung"
+                }
+            ],
+            "doi": "10.1016/j.juro.2010.09.077",
+            "firstpage": "706",
+            "issn": "00225347",
+            "lastpage": "711",
+            "pmid": "21168877",
+            "pub_year": 2011,
+            "title": "Sarcosine in prostate cancer tissue is not a differential metabolite for prostate cancer aggressiveness and biochemical progression",
+            "volume": "185"
+        },
+        "bib9": {
+            "authors": [],
+            "doi": "10.1001/jama.2013.281053",
+            "firstpage": "2191",
+            "issn": "00987484",
+            "lastpage": "2194",
+            "pmid": "24141714",
+            "pub_year": 2013,
+            "title": "World Medical Association declaration of Helsinki: Ethical principles for medical research involving human subjects",
+            "volume": "310"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 15999,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15911,
+                    "startOffset": 15908
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Metabolic profiling has become an active field of clinical research in several areas of diagnostic medicine [1], but has so far failed to produce clinically approved novel small molecular biomarkers.",
+            "startOffset": 15800,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26721,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "66% of the differential metabolites were identified.",
+            "startOffset": 26669,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 18252,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Resulting profiles were compared separately to healthy controls.",
+            "startOffset": 18188,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27057,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Likewise, pneumonia was the disease with the largest number of unique metabolites (n = 51).",
+            "startOffset": 26966,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 19700,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Prior to analysis, samples were re-dissolved in 50 \u03bcL 1:1 MeOH:H2O.",
+            "startOffset": 19633,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 22531,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "For each disease, Student's t-test with Benjamini Hochberg FDR correction for multiple testing was performed.",
+            "startOffset": 22422,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 23054,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "In the case of poor automatic peak area integration, features were re-integrated manually.",
+            "startOffset": 22964,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 30290,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, all four of these metabolites have also been found specific to other diseases in previous studies unrelated to the present one.",
+            "startOffset": 30154,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18895,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Samples were selected to match for gender and age between groups.",
+            "startOffset": 18830,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 16201,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 16132,
+                    "startOffset": 16129
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Yet, it is evident from neonatal screening programs with up to 55 inborn errors of metabolism on the list of screenable diseases [2], that a disease can be very tightly linked to a metabolic signature.",
+            "startOffset": 16000,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32500,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, LPCs play a central role in initiating and maintaining the inflammatory response creating a rationale for postulating that LPC levels in serum will change with a plethora of pathological conditions that trigger inflammatory responses.",
+            "startOffset": 32260,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25489,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Therefore BMI was considered a potential confounding factor.",
+            "startOffset": 25429,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 28138,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "A literature search for associations of this metabolite class with disease showed a strong association between serum LPC levels and various diseases (Fig. 3).",
+            "startOffset": 27980,
+            "title": "43% of metabolites overlapping between all three diseases are lysophosphatidylcholines (LPCs) which may be connected to immune responses"
+        },
+        {
+            "endOffset": 26557,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Removal of low quality metabolic features and features overlapping between ionization modes resulted in a total of 178 differential metabolites, 106 and 72 in positive and negative mode, respectively.",
+            "startOffset": 26357,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 28736,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 28735,
+                    "startOffset": 28731
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "Another possible study design is to compare progression states of a disease such as stages of a cancer [17].",
+            "startOffset": 28628,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 29813,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Considering that these diseases have very different etiology and clinical presentation, they would be expected to have a large fraction of unique serum metabolic markers when compared to healthy controls.",
+            "startOffset": 29609,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23642,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 23540,
+                    "startOffset": 23536
+                },
+                "bib14": {
+                    "endOffset": 23575,
+                    "startOffset": 23571
+                }
+            },
+            "secId": "sec2.6",
+            "sentence": "Accurate mass measurements were subjected to database searches in the public databases METLIN [13] and Human Metabolome Database [14] as well as an in-house library comprising 384 synthetic standards.",
+            "startOffset": 23442,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 17798,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 17797,
+                    "startOffset": 17794
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For example, sarcosine was associated with prostate cancer progression both in urine and tissue [6].",
+            "startOffset": 17698,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19165,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 19101,
+                    "startOffset": 19097
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Samples were collected at different hospitals according to a standardized protocol [10] following FDA guidelines and then stored at a central location.",
+            "startOffset": 19014,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 24064,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "In a few cases, samples were also fractionated by LC and relevant fractions were then analyzed by direct infusion on a Thermo Scientific Orbitrap MS instrument to acquire MSn structural information.",
+            "startOffset": 23866,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 21188,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Additional QC-sample injections were also made to acquire data dependent MS/MS spectra for metabolite identification purposes.",
+            "startOffset": 21062,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 30740,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 30632,
+                    "startOffset": 30628
+                },
+                "bib21": {
+                    "endOffset": 30739,
+                    "startOffset": 30735
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Androsterone sulfate was found down-regulated in plasma from patients with lung adenocarcinoma [20] and plasma levels of LPC(20:5) were lower in women diagnosed with Gestational Diabetes Mellitus (GDM) [21].",
+            "startOffset": 30533,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24194,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "In the case of multiple possible database hits, e.g. for structural isomers, metabolites were annotated with compound class only.",
+            "startOffset": 24065,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 31969,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 31968,
+                    "startOffset": 31964
+                }
+            },
+            "secId": "sec4",
+            "sentence": "LPCs and the downstream metabolite lysophosphatidic acid (LPA) are emerging as equally important inflammatory mediators [24].",
+            "startOffset": 31844,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23770,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Database hits were then confirmed by retention time match (in-house library only) and MS/MS spectral match from the QC-samples.",
+            "startOffset": 23643,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 24385,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Phospholipid species such as phosphatidylcholine (PC) and lysophosphatidylcholines (LPC) were annotated using the formula X:Y, where X = number of carbon atoms and Y = number of double bonds.",
+            "startOffset": 24194,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 21268,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Blank samples were injected throughout the sample series to monitor carry over.",
+            "startOffset": 21189,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 23865,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "When data dependent MS/MS spectra were missing, samples were re-analyzed using targeted MS/MS.",
+            "startOffset": 23771,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 26668,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Differential metabolites were subsequently analyzed for overlap between diseases compared to healthy controls.",
+            "startOffset": 26558,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 32063,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 32027,
+                    "startOffset": 32023
+                },
+                "bib26": {
+                    "endOffset": 32062,
+                    "startOffset": 32058
+                }
+            },
+            "secId": "sec4",
+            "sentence": "For example, LPCs are potent attractors of monocytes [25] and activators of macrophages [26].",
+            "startOffset": 31970,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23286,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Prism was further used to perform Pearson correlation analyses and to create box plots.",
+            "startOffset": 23199,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 25209,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The clinical sample table (Table 1) shows disease and control samples with equal gender ratios and matched age span.",
+            "startOffset": 25093,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 17361,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Conceptually the biomarker process can be divided into a discovery- and a clinical validation phase.",
+            "startOffset": 17261,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18659,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 18658,
+                    "startOffset": 18655
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Serum samples were acquired from the commercial vendor BioServe and had been collected in accordance with the Declaration of Helsinki [9].",
+            "startOffset": 18521,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 29946,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Based on our results this appears not to be the case; the number of disease specific markers seems in fact to be surprisingly small.",
+            "startOffset": 29814,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21061,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The QC-injections were used i) to calculate the repeatability of the analytical method and ii) to evaluate the effect of sample normalization.",
+            "startOffset": 20919,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 17561,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 17560,
+                    "startOffset": 17555
+                },
+                "bib5": {
+                    "endOffset": 17560,
+                    "startOffset": 17555
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The discovery phase should include confirmation of findings in an external test set and a disease mechanism hypothesis in order to minimize the risk of costly validations of unspecific markers [4,5].",
+            "startOffset": 17362,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24810,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 24809,
+                    "startOffset": 24805
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "The analytical repeatability of each of the selected metabolite features was calculated as \u22648.6% based on the QC-samples, which is considered an acceptable coefficient of variation according to FDA guidelines [15].",
+            "startOffset": 24596,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 19521,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "50 \u03bcL serum per sample was mixed with 150 \u03bcL MeOH and then centrifuged at 15800g for 15 min.",
+            "startOffset": 19429,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 30918,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These examples show that potential metabolite disease markers risk being repeatedly identified across a wide range of non-related disease states, and hence not disease specific.",
+            "startOffset": 30741,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20410,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "All solvents were of HPLC grade and the water was Milli-Q.",
+            "startOffset": 20352,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 19771,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "An aliquot of each sample was pooled for quality control (QC) samples.",
+            "startOffset": 19701,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 22854,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Metabolite features with FDR <0.05 were examined in the raw data using the \u201cFind by Formula\u201d-function in MassHunter Qual in combination with manual curation.",
+            "startOffset": 22697,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 27979,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Of the metabolites overlapping between all three diseases (Supplementary Table 2), the dominating metabolite class was LPCs, of which all were down-regulated in disease compared to healthy controls.",
+            "startOffset": 27781,
+            "title": "43% of metabolites overlapping between all three diseases are lysophosphatidylcholines (LPCs) which may be connected to immune responses"
+        },
+        {
+            "endOffset": 30532,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 30531,
+                    "startOffset": 30527
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The plasma levels of the phospholipid LPC(O-18:0) were lower in bacteremia patients than in controls [19].",
+            "startOffset": 30426,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32773,
+            "parents": [],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 32772,
+                    "startOffset": 32768
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These changes include increased glycolysis, glutaminolysis and fatty acid oxidation [28].",
+            "startOffset": 32684,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33068,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "At a certain critical level and magnitude of immune cell activation, it is reasonable to assume that this altered metabolic activity can leave a trace detectable in the blood, and that this trace will be specific to the immune cell status rather than to the cause of the inflammation (Fig. 3B).",
+            "startOffset": 32774,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26091,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "After signal correction by sample-wise median intensity normalization and frequency/abundance filtering, 590 and 506 metabolites remained from the UPLC-MS positive and negative mode analysis, respectively.",
+            "startOffset": 25886,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 28860,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Observing the relative concentration of LPC(18:3) from stage I to stage IV lymphoma, a significant trend emerged (Fig. 4B).",
+            "startOffset": 28737,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 19632,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The supernatant was transferred to a new vial, dried down in a speed vacuum concentrator and stored at \u221280 \u00b0C.",
+            "startOffset": 19522,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 27140,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Only 12 and 6 metabolites were unique to heart failure and lymphoma, respectively.",
+            "startOffset": 27058,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 20098,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The platform used was an Agilent 1290 UPLC-system connected online to an Agilent 6550 Q-ToF mass spectrometer equipped with a JetStream source.",
+            "startOffset": 19955,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 18951,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Lymphoma samples were non-Hodgkin lymphomas stage I\u2013IV.",
+            "startOffset": 18896,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 31843,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The free fatty acid, if being arachidonic acid, can be further metabolized into various prostaglandin-, thromboxane- and leukotriene metabolites which participate in inflammatory responses.",
+            "startOffset": 31654,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20918,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Samples were run in randomized order with a QC-sample injection interspersed between every 5 samples.",
+            "startOffset": 20817,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 29058,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "When however congestive heart failure and pneumonia were included as non-related disease controls in the study design, it became apparent that LPC(18:3) was not a disease specific marker (Fig. 4C).",
+            "startOffset": 28861,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 17261,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Further, the patient being screened for inborn errors of metabolism is most often only a few days old, has no established microbiota and rarely has any co-morbidities whereas the prospective patient being screened for cancer typically is in the age of 40\u201370, has a complex microbiota and is very likely to have some kind of co-morbidity even if undiagnosed, increasing the risk of identifying non-specific biomarkers.",
+            "startOffset": 16844,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28539,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "In the present dataset this was for example illustrated by the comparison of lymphoma patients with healthy control subjects.",
+            "startOffset": 28414,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 31653,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "LPCs are released by the action of phospholipases A2 (PLA2s) on plasma membrane phosphatidylcholines resulting in an LPC and a free fatty acid (Fig. 3B).",
+            "startOffset": 31500,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26356,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Of these, 354 metabolites significantly differed in disease compared to healthy controls in positive mode, while the corresponding number for negative mode was 205, determined by Student's t-test with Benjamini Hochberg multiple testing correction FDR limit of 5%.",
+            "startOffset": 26092,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 18187,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study, we have performed metabolic profiling, using LC-MS, of serum from patients representing three completely unrelated diseases with respect to clinical disease presentation and etiology; non-Hodgkin lymphoma, community acquired pneumonia and congestive heart failure.",
+            "startOffset": 17901,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19428,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Prior to metabolite extraction, samples were thawed on ice.",
+            "startOffset": 19369,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 31499,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A systematic literature search revealed that the levels of these phospholipids have repeatedly been found altered in a number of different pathological conditions including cancer, infection and diabetes (Fig. 3A, Supplementary Table 3).",
+            "startOffset": 31262,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19954,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Metabolites were separated by reversed phase liquid chromatography and detected by electrospray ionization mass spectrometry operated in positive and negative mode.",
+            "startOffset": 19790,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 23414,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 23413,
+                    "startOffset": 23409
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "Overlap analysis of metabolites differing between disease and healthy controls was visualized using the online tool Venny [12].",
+            "startOffset": 23287,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 26965,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The number of metabolites differing between disease and control was largest in pneumonia (n = 134), while the corresponding number was 91 in lymphoma and 109 in heart failure (Fig. 2).",
+            "startOffset": 26781,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 21713,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Samples were normalized to have equal median intensity.",
+            "startOffset": 21658,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 28413,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 28412,
+                    "startOffset": 28406
+                },
+                "bib16": {
+                    "endOffset": 28412,
+                    "startOffset": 28406
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "One form of biomarker discovery study design is to compare the disease of interest with healthy controls [1,16].",
+            "startOffset": 28301,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 25093,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The data were further visualized by principal components analysis and box plot to verify sample homogeneity.",
+            "startOffset": 24985,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 24984,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Carry over was below the limit of detection as determined by comparing the peak areas of lipophilic metabolites (such as LPCs) in patient samples to blank sample injections.",
+            "startOffset": 24811,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 20817,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The following gradient was used at a flow rate of 0.5 ml/min: Min 0, 5% B; min 8, 95% B; min 10, 95% B; min 10.2, 5% B; min 12, 5% B. MS data was collected between m/z 70\u20131700 with the following electrospray ionization settings: Gas temperature 300 \u00b0C; gas flow 8 L/min; nebulizer pressure 40 psi; sheet gas temperature 350 \u00b0C; sheet gas flow 11; Vcap 4000; fragmentor 100; skimmer1 45; OctapoleRFPeak 750.",
+            "startOffset": 20411,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 25428,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "BMI was significantly different (Student's t-test p < 0.05) in the control group compared to the three disease groups (control vs. heart failure p = 0.03; control vs. lymphoma p = 0.03; control vs. pneumonia p = 0.01).",
+            "startOffset": 25210,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 33780,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Based on our results, non-related disease controls would help avoiding general disease markers and thus improve clinical usefulness.",
+            "startOffset": 33648,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21476,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Raw data was processed using the \u201cFind by Molecular Feature\u201d-function in the software MassHunter Qual version B.06.00 (Agilent) for peak detection and removal of isotopes and adducts.",
+            "startOffset": 21293,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 33206,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When healthy control subjects were compared to the entire lymphoma cohort in this study, LPC(18:3) was one promising biomarker (Fig. 4A).",
+            "startOffset": 33069,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16416,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 16348,
+                    "startOffset": 16345
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Likewise, it is a well-established fact that diseases like cancer have a dramatically altered metabolism to that of normal proliferating cells [3], providing a biochemical rationale for biomarker discovery efforts.",
+            "startOffset": 16202,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25630,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Pearson correlation between BMI and all selected metabolites respectively showed however no significant correlation (Supplementary Table 1).",
+            "startOffset": 25490,
+            "title": "Quality control"
+        },
+        {
+            "endOffset": 33647,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, when the level of LPC(18:3) in patients diagnosed with non-related diseases is included as well, it becomes clear that this particular metabolite marker most likely is indicative of disease in general rather than lymphoma specifically (Fig. 4C).",
+            "startOffset": 33393,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30153,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The metabolites phenylalanine, LPC(O-18:0), androsterone sulfate and LPC(20:5) were found down-regulated and specific to lymphoma, congestive heart failure and pneumonia, respectively (Supplementary Fig. 1).",
+            "startOffset": 29946,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18829,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Healthy controls (n = 40) and the following three diseases were included: Congestive heart failure (n = 40), lymphoma (n = 40) and community acquired pneumonia (n = 25).",
+            "startOffset": 18660,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 20351,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "5 \u03bcL per sample of the re-dissolved supernatant were injected onto a C18 column (Kinetex 100 \u00d7 2.1 mm 2.6 um 100 \u00c5, Phenomenex) using the following mobile phases: H2O with 0.1% formic acid (A) and 3:1 acetonitrile:isopropanol with 0.1% formic acid (B).",
+            "startOffset": 20099,
+            "title": "UPLC-MS analysis"
+        },
+        {
+            "endOffset": 31261,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, LPCs were in majority among the overlapping metabolites identified (Supplementary Table 2).",
+            "startOffset": 31148,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22259,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "A two-step filtering approach was used for peak quality control: firstly, only peaks present in at least 75% of samples in at least one group were retained; secondly, only peaks above a specified intensity level in the raw data were used for further analysis.",
+            "startOffset": 22000,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 19013,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Congestive heart failure samples were stage III\u2013IV (Table 1).",
+            "startOffset": 18952,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 23198,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The significance of the re-integrated curated data was then confirmed with a Student's t-test using the software Prism version 6.07 (GraphPad).",
+            "startOffset": 23055,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 21999,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 21998,
+                    "startOffset": 21994
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "The intention of a sample-wise signal correction method like median normalization is hence to correct for technical variation in e.g. sample preparation and MS signal intensity [11].",
+            "startOffset": 21817,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 22421,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "To identify single metabolite markers discriminating disease from healthy controls, univariate statistical analysis was applied.",
+            "startOffset": 22293,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 30425,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 30424,
+                    "startOffset": 30420
+                }
+            },
+            "secId": "sec4",
+            "sentence": "For example, phenylalanine was found down-regulated in serum from patients with Alzheimer's disease compared to healthy controls [18].",
+            "startOffset": 30291,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32259,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 32258,
+                    "startOffset": 32254
+                }
+            },
+            "secId": "sec4",
+            "sentence": "As LPCs are being released from apoptotic tissue or immune cells such as neutrophils attracted to the site of insult or inflammation, they will in turn attract and activate phagocytic cells [27].",
+            "startOffset": 32064,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25885,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Following MeOH extraction, serum samples were analyzed by ultra-performance liquid chromatography-mass spectrometry (UPLC-MS), detecting approximately 1200 metabolites per sample (Fig. 1).",
+            "startOffset": 25697,
+            "title": "178 metabolites differed in disease compared to healthy controls"
+        },
+        {
+            "endOffset": 33392,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Comparing the serum level of LPC(18:3) in patients with different stages of lymphoma, progressive reduction of this metabolite appears to correlate with disease stage I to IV (Fig. 4B).",
+            "startOffset": 33207,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18480,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We propose a strategy for clinical discovery projects to increase chances of finding disease specific metabolic serum biomarkers.",
+            "startOffset": 18351,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27642,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Metabolites unique to a certain disease and those overlapping between only two diseases were to a larger extent up-regulated or regulated in opposite directions in different diseases (Fig. 2).",
+            "startOffset": 27450,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 32683,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Further, activation and expansion of white blood cells such as neutrophils and macrophages require substantial changes of their intrinsic metabolism to sustain their immune functions.",
+            "startOffset": 32500,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29608,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our study cohort comprised serum samples from three diseases that had been selected to represent clearly separate disease categories: malignancy (non-Hodgkin lymphoma), intrinsic organ failure (congestive heart failure) and infectious disease (community acquired pneumonia).",
+            "startOffset": 29334,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17901,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 17900,
+                    "startOffset": 17895
+                },
+                "bib8": {
+                    "endOffset": 17900,
+                    "startOffset": 17895
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However subsequent studies using comparable patient samples failed to validate this association [7,8].",
+            "startOffset": 17799,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18350,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Our results indicate that the number of disease specific serum metabolites is surprisingly small.",
+            "startOffset": 18253,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17697,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "So far, no novel metabolite biomarkers have passed an independent clinical validation phase since the emergence of modern metabolomics.",
+            "startOffset": 17562,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29149,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A key aspect of a biomarker discovery study is to find disease specific markers.",
+            "startOffset": 29069,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16476,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "So why are no novel disease metabolite biomarkers emerging?",
+            "startOffset": 16417,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22697,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Missing values were excluded and the comparison of pneumonia with healthy controls was done by t-test not assuming equal variances due to differences in sample size.",
+            "startOffset": 22532,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 29333,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The results from the present study show that the number of general disease markers in serum may be larger than expected, making the discovery of truly unique markers more challenging.",
+            "startOffset": 29150,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27210,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Examples of unique metabolites are displayed in Supplementary Fig. 1.",
+            "startOffset": 27141,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 28300,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "We used our dataset to conceptually investigate the impact of study design on results interpretation.",
+            "startOffset": 28199,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 27320,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "61% of the differential metabolites overlapped between two or all three diseases compared to healthy controls.",
+            "startOffset": 27210,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 21657,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Generated CEF files were then imported into the software Mass Profiler Professional version B.12.05 (Agilent) for normalization, alignment, peak filtering and statistical analysis.",
+            "startOffset": 21477,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 21816,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The normalization was based on the assumption that all serum samples have a similar metabolic profile.",
+            "startOffset": 21714,
+            "title": "Raw data preprocessing"
+        },
+        {
+            "endOffset": 22963,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Low quality features such as PEG contaminations and erroneous peak detection were removed from the data set.",
+            "startOffset": 22855,
+            "title": "Univariate statistical analysis"
+        },
+        {
+            "endOffset": 24570,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "denotes oxidation.",
+            "startOffset": 24552,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 19368,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Samples were stored at \u221280 \u00b0C.",
+            "startOffset": 19338,
+            "title": "Serum sample preparation"
+        },
+        {
+            "endOffset": 27449,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "26% of metabolites overlapped between all three diseases, and a majority of these were down-regulated in comparison to controls.",
+            "startOffset": 27321,
+            "title": "A majority of differential metabolites overlap in disease"
+        },
+        {
+            "endOffset": 24534,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "A phospholipid \u201cO\u201d annotation (e.g. LPC(O-X:Y)) represents an alkyl ether bond; a \u201cP\u201d annotation (e.g. LPC(P-X:Y)) represents an alkenyl ether bond.",
+            "startOffset": 24386,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 28627,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "One example of a metabolite differing between these two groups was LPC(18:3) (Fig. 4A).",
+            "startOffset": 28540,
+            "title": "Implications for the design of biomarker discovery studies"
+        },
+        {
+            "endOffset": 16843,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 16842,
+                    "startOffset": 16839
+                }
+            },
+            "secId": "sec1",
+            "sentence": "A major difference between most inborn errors of metabolism and a disease like cancer or cardiovascular disease is that while the first most often consist of a point mutation resulting in a single malfunctioning protein, the latter is a multifactorial disease developed over longer periods of time often involving several errors occurring in a sequential fashion [3].",
+            "startOffset": 16476,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19311,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All samples were extracted and prepared at the same time and analyzed, in a randomized order, over a period of three days on the same instrument.",
+            "startOffset": 19166,
+            "title": "Clinical samples"
+        },
+        {
+            "endOffset": 24551,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The suffix \u201cox.\u201d",
+            "startOffset": 24535,
+            "title": "Metabolite identification"
+        },
+        {
+            "endOffset": 31147,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 31146,
+                    "startOffset": 31139
+                },
+                "bib23": {
+                    "endOffset": 31146,
+                    "startOffset": 31139
+                }
+            },
+            "secId": "sec4",
+            "sentence": "When a disease of interest is compared to healthy control samples or progressive disease states, proteins and presumably metabolites that are part of a general stress- or inflammatory response will display altered levels [22,23].",
+            "startOffset": 30918,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X1631419X",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Anna",
+                "initial": "A.",
+                "last": "Lindahl"
+            },
+            {
+                "email": null,
+                "first": "Jenny",
+                "initial": "J.",
+                "last": "Forshed"
+            },
+            {
+                "email": "anders.nordstrom@umu.se",
+                "first": "Anders",
+                "initial": "A.",
+                "last": "Nordstr\u00f6m"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.08.155",
+        "firstpage": "1472",
+        "issn": "0006291X",
+        "keywords": [
+            "Biomarker",
+            "Heart failure",
+            "LC-MS",
+            "Lymphoma",
+            "Metabolomics",
+            "Pneumonia"
+        ],
+        "lastpage": "1477",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Overlap in serum metabolic profiles between non-related diseases: Implications for LC-MS metabolomics biomarker discovery"
+    }
+}

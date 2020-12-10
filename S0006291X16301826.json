@@ -1,0 +1,2254 @@
+{
+    "abstract": "The definition of stabilization centers was introduced almost two decades ago. They are centers of noncovalent long range interaction clusters, believed to have a role in maintaining the three-dimensional structure of proteins by preventing their decay due to their cooperative long range interactions. Here, this hypothesis is investigated from the viewpoint of thermal stability for the first time, using a large protein thermodynamics database. The positions of amino acids belonging to stabilization centers are correlated with available experimental thermodynamic data on protein thermal stability. Our analysis suggests that stabilization centers, especially solvent exposed ones, do contribute to the thermal stabilization of proteins.",
+    "author_highlights": [
+        {
+            "endOffset": 10579,
+            "sentence": "Stabilization centers contribute to thermal stabilization of protein structures.",
+            "startOffset": 10499
+        },
+        {
+            "endOffset": 10657,
+            "sentence": "Stabilization center content correlates with melting temperature of proteins.",
+            "startOffset": 10580
+        },
+        {
+            "endOffset": 10747,
+            "sentence": "Exposed stabilization center content correlates with stability even in hyperthermophiles.",
+            "startOffset": 10658
+        },
+        {
+            "endOffset": 10823,
+            "sentence": "Stability changing mutations are frequently found at stabilization centers.",
+            "startOffset": 10748
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Zsuzsanna",
+                    "initial": "Z.",
+                    "last": "Doszt\u00e1nyi"
+                },
+                {
+                    "first": "Andr\u00e1s",
+                    "initial": "A.",
+                    "last": "Fiser"
+                },
+                {
+                    "first": "Istv\u00e1n",
+                    "initial": "I.",
+                    "last": "Simon"
+                }
+            ],
+            "doi": "10.1006/jmbi.1997.1242",
+            "firstpage": "597",
+            "issn": "00222836",
+            "lastpage": "612",
+            "pmid": "9325115",
+            "pub_year": 1997,
+            "title": "Stabilization centers in proteins: Identification, characterization and predictions",
+            "volume": "272"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "M. Michael",
+                    "initial": "M.M.",
+                    "last": "Gromiha"
+                },
+                {
+                    "first": "Jianghong",
+                    "initial": "J.",
+                    "last": "An"
+                },
+                {
+                    "first": "Hidetoshi",
+                    "initial": "H.",
+                    "last": "Kono"
+                },
+                {
+                    "first": "Motohisa",
+                    "initial": "M.",
+                    "last": "Oobatake"
+                },
+                {
+                    "first": "Hatsuho",
+                    "initial": "H.",
+                    "last": "Uedaira"
+                },
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Sarai"
+                }
+            ],
+            "doi": "10.1093/nar/27.1.286",
+            "firstpage": "286",
+            "issn": "03051048",
+            "lastpage": "288",
+            "pmid": "9847203",
+            "pub_year": 1999,
+            "title": "ProTherm: Thermodynamic database for proteins and mutants",
+            "volume": "27"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Sven",
+                    "initial": "S.",
+                    "last": "Griep"
+                },
+                {
+                    "first": "Uwe",
+                    "initial": "U.",
+                    "last": "Hobohm"
+                }
+            ],
+            "doi": "10.1093/nar/gkp786",
+            "firstpage": "D318",
+            "issn": "03051048",
+            "lastpage": "D319",
+            "pmid": "19783827",
+            "pub_year": 2010,
+            "title": "PDBselect 1992 2009 and PDBfilter-select",
+            "volume": "38"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "M. D.Shaji",
+                    "initial": "M.D.S.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "K. Abdulla",
+                    "initial": "K.A.",
+                    "last": "Bava"
+                },
+                {
+                    "first": "M. Michael",
+                    "initial": "M.M.",
+                    "last": "Gromiha"
+                },
+                {
+                    "first": "Ponraj",
+                    "initial": "P.",
+                    "last": "Prabakaran"
+                },
+                {
+                    "first": "Koji",
+                    "initial": "K.",
+                    "last": "Kitajima"
+                },
+                {
+                    "first": "Hatsuho",
+                    "initial": "H.",
+                    "last": "Uedaira"
+                },
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Sarai"
+                }
+            ],
+            "firstpage": "D204",
+            "issn": "13624962",
+            "lastpage": "206",
+            "pmid": "16381846",
+            "pub_year": 2006,
+            "title": "ProTherm and ProNIT: thermodynamic databases for proteins and protein-nucleic acid interactions.",
+            "volume": "34"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Yves",
+                    "initial": "Y.",
+                    "last": "Dehouck"
+                },
+                {
+                    "first": "Jean M.",
+                    "initial": "J.M.",
+                    "last": "Kwasigroch"
+                },
+                {
+                    "first": "Dimitri",
+                    "initial": "D.",
+                    "last": "Gilis"
+                },
+                {
+                    "first": "Marianne",
+                    "initial": "M.",
+                    "last": "Rooman"
+                }
+            ],
+            "doi": "10.1186/1471-2105-12-151",
+            "issn": "14712105",
+            "pmid": "21569468",
+            "pub_year": 2011,
+            "title": "PoPMuSiC 2.1: A web server for the estimation of protein stability changes upon mutation and sequence optimality",
+            "volume": "12"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Liang Tsung",
+                    "initial": "L.T.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "M. Michael",
+                    "initial": "M.M.",
+                    "last": "Gromiha"
+                },
+                {
+                    "first": "Shinn Ying",
+                    "initial": "S.Y.",
+                    "last": "Ho"
+                }
+            ],
+            "doi": "10.1093/bioinformatics/btm100",
+            "firstpage": "1292",
+            "issn": "13674803",
+            "lastpage": "1293",
+            "pmid": "17379687",
+            "pub_year": 2007,
+            "title": "iPTREE-STAB: Interpretable decision tree based method for predicting protein stability changes upon mutations",
+            "volume": "23"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Majid",
+                    "initial": "M.",
+                    "last": "Masso"
+                },
+                {
+                    "first": "Iosif I.",
+                    "initial": "I.I.",
+                    "last": "Vaisman"
+                }
+            ],
+            "doi": "10.1093/bioinformatics/btn353",
+            "firstpage": "2002",
+            "issn": "13674803",
+            "lastpage": "2009",
+            "pmid": "18632749",
+            "pub_year": 2008,
+            "title": "Accurate prediction of stability changes in protein mutants by combining machine learning with structure based computational mutagenesis",
+            "volume": "24"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Costantino",
+                    "initial": "C.",
+                    "last": "Vetriani"
+                },
+                {
+                    "first": "Dennis L.",
+                    "initial": "D.L.",
+                    "last": "Maeder"
+                },
+                {
+                    "first": "Nicola",
+                    "initial": "N.",
+                    "last": "Tolliday"
+                },
+                {
+                    "first": "Kitty S.P.",
+                    "initial": "K.S.P.",
+                    "last": "Yip"
+                },
+                {
+                    "first": "Timothy J.",
+                    "initial": "T.J.",
+                    "last": "Stillman"
+                },
+                {
+                    "first": "K. Linda",
+                    "initial": "K.L.",
+                    "last": "Britton"
+                },
+                {
+                    "first": "David W.",
+                    "initial": "D.W.",
+                    "last": "Rice"
+                },
+                {
+                    "first": "Horst H.",
+                    "initial": "H.H.",
+                    "last": "Klump"
+                },
+                {
+                    "first": "Frank T.",
+                    "initial": "F.T.",
+                    "last": "Robb"
+                }
+            ],
+            "doi": "10.1073/pnas.95.21.12300",
+            "firstpage": "12300",
+            "issn": "00278424",
+            "lastpage": "12305",
+            "pmid": "9770481",
+            "pub_year": 1998,
+            "title": "Protein thermostability above 100\u00b0C: A key role for ionic interactions",
+            "volume": "95"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "A. C.",
+                    "initial": "A.C.",
+                    "last": "Sen"
+                },
+                {
+                    "first": "M. T.",
+                    "initial": "M.T.",
+                    "last": "Walsh"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Chakrabarti"
+                }
+            ],
+            "firstpage": "11898",
+            "issn": "00219258",
+            "lastpage": "11907",
+            "pmid": "1601859",
+            "pub_year": 1992,
+            "title": "An insight into domain structures and thermal stability of \u03b3-crystallins",
+            "volume": "267"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Andr\u00e1s",
+                    "initial": "A.",
+                    "last": "Szil\u00e1gyi"
+                },
+                {
+                    "first": "P\u00e9ter",
+                    "initial": "P.",
+                    "last": "Z\u00e1vodszky"
+                }
+            ],
+            "doi": "10.1016/S0969-2126(00)00133-7",
+            "firstpage": "493",
+            "issn": "09692126",
+            "lastpage": "504",
+            "pmid": "10801491",
+            "pub_year": 2000,
+            "title": "Structural differences between mesophilic, moderately thermophilic and extremely thermophilic protein subunits: Results of a comprehensive survey",
+            "volume": "8"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "M. Michael",
+                    "initial": "M.M.",
+                    "last": "Gromiha"
+                },
+                {
+                    "first": "Manish C.",
+                    "initial": "M.C.",
+                    "last": "Pathak"
+                },
+                {
+                    "first": "Kadhirvel",
+                    "initial": "K.",
+                    "last": "Saraboji"
+                },
+                {
+                    "first": "Eric A.",
+                    "initial": "E.A.",
+                    "last": "Ortlund"
+                },
+                {
+                    "first": "Eric A.",
+                    "initial": "E.A.",
+                    "last": "Gaucher"
+                }
+            ],
+            "doi": "10.1002/prot.24232",
+            "firstpage": "715",
+            "issn": "08873585",
+            "lastpage": "721",
+            "pmid": "23319168",
+            "pub_year": 2013,
+            "title": "Hydrophobic environment is a key factor for the stability of thermophilic proteins",
+            "volume": "81"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Istvan",
+                    "initial": "I.",
+                    "last": "Simon"
+                },
+                {
+                    "first": "Leslie",
+                    "initial": "L.",
+                    "last": "Glasser"
+                },
+                {
+                    "first": "Harold A.",
+                    "initial": "H.A.",
+                    "last": "Scheraga"
+                }
+            ],
+            "doi": "10.1073/pnas.88.9.3661",
+            "firstpage": "3661",
+            "issn": "00278424",
+            "lastpage": "3665",
+            "pmid": "2023916",
+            "pub_year": 1991,
+            "title": "Calculation of protein conformation as an assembly of stable overlapping segments: Application to bovine pancreatic trypsin inhibitor",
+            "volume": "88"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Hubbard"
+                },
+                {
+                    "first": "S. F.",
+                    "initial": "S.F.",
+                    "last": "Campbell"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Thornton"
+                }
+            ],
+            "doi": "10.1016/0022-2836(91)90027-4",
+            "firstpage": "507",
+            "issn": "00222836",
+            "lastpage": "530",
+            "pmid": "1856871",
+            "pub_year": 1991,
+            "title": "Molecular recognition. Conformational analysis of limited proteolytic sites and serine proteinase protein inhibitors",
+            "volume": "220"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Kazufumi",
+                    "initial": "K.",
+                    "last": "Takano"
+                },
+                {
+                    "first": "Yuriko",
+                    "initial": "Y.",
+                    "last": "Yamagata"
+                },
+                {
+                    "first": "Katsuhide",
+                    "initial": "K.",
+                    "last": "Yutani"
+                }
+            ],
+            "doi": "10.1006/jmbi.1998.1906",
+            "firstpage": "749",
+            "issn": "00222836",
+            "lastpage": "761",
+            "pmid": "9677301",
+            "pub_year": 1998,
+            "title": "A general rule for the relationship between hydrophobic effect and conformational stability of a protein: Stability and structure of a series of hydrophobic mutants of human lysozyme",
+            "volume": "280"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Rangjiao",
+                    "initial": "R.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Walter A.",
+                    "initial": "W.A.",
+                    "last": "Baase"
+                },
+                {
+                    "first": "Brian W.",
+                    "initial": "B.W.",
+                    "last": "Matthews"
+                }
+            ],
+            "doi": "10.1006/jmbi.1999.3300",
+            "firstpage": "127",
+            "issn": "00222836",
+            "lastpage": "145",
+            "pmid": "10623513",
+            "pub_year": 2000,
+            "title": "The introduction of strain and its effects on the structure and stability of T4 lysozyme",
+            "volume": "295"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Matouschek"
+                },
+                {
+                    "first": "James T.",
+                    "initial": "J.T.",
+                    "last": "Kellis"
+                },
+                {
+                    "first": "Luis",
+                    "initial": "L.",
+                    "last": "Serrano"
+                },
+                {
+                    "first": "Alan R.",
+                    "initial": "A.R.",
+                    "last": "Fersht"
+                }
+            ],
+            "doi": "10.1038/340122a0",
+            "firstpage": "122",
+            "issn": "00280836",
+            "lastpage": "126",
+            "pmid": "2739734",
+            "pub_year": 1989,
+            "title": "Mapping the transition state and pathway of protein folding by protein engineering",
+            "volume": "340"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Maurice R.",
+                    "initial": "M.R.",
+                    "last": "Eftink"
+                },
+                {
+                    "first": "Camillo A.",
+                    "initial": "C.A.",
+                    "last": "Ghiron"
+                },
+                {
+                    "first": "Roger A.",
+                    "initial": "R.A.",
+                    "last": "Kautz"
+                },
+                {
+                    "first": "Robert O.",
+                    "initial": "R.O.",
+                    "last": "Fox"
+                },
+                {
+                    "first": "Robert O.",
+                    "initial": "R.O.",
+                    "last": "Fox"
+                }
+            ],
+            "doi": "10.1021/bi00219a005",
+            "firstpage": "1193",
+            "issn": "00062960",
+            "lastpage": "1199",
+            "pmid": "1991099",
+            "pub_year": 1991,
+            "title": "Fluorescence and Conformational Stability Studies of Staphylococcus Nuclease and Its Mutants, Including the Less Stable Nuclease-Concanavalin a Hybrids",
+            "volume": "30"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Takayuki",
+                    "initial": "T.",
+                    "last": "Nakano"
+                },
+                {
+                    "first": "Lisa C.",
+                    "initial": "L.C.",
+                    "last": "Antonino"
+                },
+                {
+                    "first": "Robert O.",
+                    "initial": "R.O.",
+                    "last": "Fox"
+                },
+                {
+                    "first": "Anthony L.",
+                    "initial": "A.L.",
+                    "last": "Fink"
+                }
+            ],
+            "doi": "10.1021/bi00061a010",
+            "firstpage": "2534",
+            "issn": "00062960",
+            "lastpage": "2541",
+            "pmid": "8448112",
+            "pub_year": 1993,
+            "title": "Effect of Proline Mutations on the Stability and Kinetics of Folding of Staphylococcal Nuclease",
+            "volume": "32"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Susan M.",
+                    "initial": "S.M.",
+                    "last": "Green"
+                },
+                {
+                    "first": "Alan K.",
+                    "initial": "A.K.",
+                    "last": "Meeker"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Shortle"
+                }
+            ],
+            "doi": "10.1021/bi00140a005",
+            "firstpage": "5717",
+            "issn": "00062960",
+            "lastpage": "5728",
+            "pmid": "1610820",
+            "pub_year": 1992,
+            "title": "Contributions of the Polar, Uncharged Amino Acids to the Stability of Staphylococcal Nuclease: Evidence for Mutational Effects on the Free Energy of the Denatured State",
+            "volume": "31"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Zsuzsanna",
+                    "initial": "Z.",
+                    "last": "Doszt\u00e1nyi"
+                },
+                {
+                    "first": "Csaba",
+                    "initial": "C.",
+                    "last": "Magyar"
+                },
+                {
+                    "first": "G\u00e1bor E.",
+                    "initial": "G.E.",
+                    "last": "Tusn\u00e1dy"
+                },
+                {
+                    "first": "Istv\u00e1n",
+                    "initial": "I.",
+                    "last": "Simon"
+                }
+            ],
+            "doi": "10.1093/bioinformatics/btg110",
+            "firstpage": "899",
+            "issn": "13674803",
+            "lastpage": "900",
+            "pmid": "12724305",
+            "pub_year": 2003,
+            "title": "SCide: Identification of stabilization centers in proteins",
+            "volume": "19"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "\u00c9va",
+                    "initial": "E.",
+                    "last": "T\u00fcdos"
+                },
+                {
+                    "first": "Andr\u00e1s",
+                    "initial": "A.",
+                    "last": "Fiser"
+                },
+                {
+                    "first": "\u00c1gnes",
+                    "initial": "A.",
+                    "last": "Simon"
+                },
+                {
+                    "first": "Zsuzsanna",
+                    "initial": "Z.",
+                    "last": "Doszt\u00e1nyi"
+                },
+                {
+                    "first": "M\u00f3nika",
+                    "initial": "M.",
+                    "last": "Fuxreiter"
+                },
+                {
+                    "first": "Csaba",
+                    "initial": "C.",
+                    "last": "Magyar"
+                },
+                {
+                    "first": "Istv\u00e1n",
+                    "initial": "I.",
+                    "last": "Simon"
+                }
+            ],
+            "firstpage": "347",
+            "issn": "00952338",
+            "lastpage": "351",
+            "pmid": "15032510",
+            "pub_year": 2004,
+            "title": "Noncovalent cross-links in context with other structural and functional elements of proteins",
+            "volume": "44"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Csaba",
+                    "initial": "C.",
+                    "last": "Magyar"
+                },
+                {
+                    "first": "\u00c9va",
+                    "initial": "E.",
+                    "last": "T\u00fcdos"
+                },
+                {
+                    "first": "Istv\u00e1n",
+                    "initial": "I.",
+                    "last": "Simon"
+                }
+            ],
+            "doi": "10.1016/j.febslet.2004.04.070",
+            "firstpage": "239",
+            "issn": "00145793",
+            "lastpage": "242",
+            "pmid": "15178329",
+            "pub_year": 2004,
+            "title": "Functionally and structurally relevant residues of enzymes: Are they segregated or overlapping?",
+            "volume": "567"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Dhriti",
+                    "initial": "D.",
+                    "last": "Sengupta"
+                },
+                {
+                    "first": "Sudip",
+                    "initial": "S.",
+                    "last": "Kundu"
+                }
+            ],
+            "doi": "10.1186/1471-2105-13-142",
+            "firstpage": "142",
+            "issn": "14712105",
+            "pmid": "22720789",
+            "pub_year": 2012,
+            "title": "Role of long- and short-range hydrophobic, hydrophilic and charged residues contact network in protein's structural organization.",
+            "volume": "13"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Gugolya"
+                },
+                {
+                    "first": "Zs",
+                    "initial": "Z.",
+                    "last": "Doszt\u00e1nyi"
+                },
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Simon"
+                }
+            ],
+            "doi": "10.1002/(SICI)1097-0134(199703)27:3<360::AID-PROT4>3.0.CO;2-H",
+            "firstpage": "360",
+            "issn": "08873585",
+            "lastpage": "366",
+            "pmid": "9094738",
+            "pub_year": 1997,
+            "title": "Interresidue interactions in protein classes",
+            "volume": "27"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Kihara"
+                }
+            ],
+            "doi": "10.1110/ps.051479505",
+            "firstpage": "1955",
+            "issn": "09618368",
+            "lastpage": "1963",
+            "pmid": "15987894",
+            "pub_year": 2005,
+            "title": "The effect of long-range interactions on the secondary structure formation of proteins",
+            "volume": "14"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "P. K.",
+                    "initial": "P.K.",
+                    "last": "Ponnuswamy"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Michael Gromiha"
+                }
+            ],
+            "doi": "10.1006/jtbi.1994.1005",
+            "firstpage": "63",
+            "issn": "00225193",
+            "lastpage": "74",
+            "pub_year": 1994,
+            "title": "On the conformational stability of folded proteins",
+            "volume": "166"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 28838,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In the PDBselect database 52.87% of SC elements were buried, 39.2% were partially buried and only 7.93% were exposed, thus SC elements are more frequent among buried residues.",
+            "startOffset": 28663,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17058,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the first wild type dataset only entries with Tm melting temperature data were included.",
+            "startOffset": 16967,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 19172,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "These measures were collected in different datasets because of the different nature of these measurements.",
+            "startOffset": 19066,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 15441,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We used the transformation matrix found in the PDB files to generate the quaternary structure of the proteins.",
+            "startOffset": 15331,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 24768,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "For example the 0 point in Fig. 3 gives the number of mutation which have a \u22120.5\u2264\u0394Tm<0.5 value.",
+            "startOffset": 24673,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26757,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Mutations in Range1 decrease stability and mutations in Range3 increase thermal stability.",
+            "startOffset": 26667,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26382,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In every entry we checked if the position of the mutation is a stabilization center element or not.",
+            "startOffset": 26283,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31754,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our results coincide well into this picture that proteins with higher melting temperature have a higher average number of SCEs, but there is no correlation between Gibbs free energy of unfolding in water and SCE content.",
+            "startOffset": 31534,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29399,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Taking this observation into account exposed SCEs might be even more important in stabilizing protein structures.",
+            "startOffset": 29286,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22717,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Results can be seen in Fig. 1.",
+            "startOffset": 22687,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27779,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The result for Range3 that the mutation of SCEs which already take part in the stabilization of a proteins structure do not improve stability further is not surprising either.",
+            "startOffset": 27604,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26561,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We calculated the number of overlaps of mutations with stabilization center elements for all the three (destabilizing, neutral and stabilizing) regions in the different datasets.",
+            "startOffset": 26383,
+            "title": "Results"
+        },
+        {
+            "endOffset": 11472,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The idea of stabilization centers came from the fact that the functional sites of proteins are usually composed only of a couple of residues.",
+            "startOffset": 11331,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15151,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We have used our in-house computer programs for identifying the stabilization center elements.",
+            "startOffset": 15057,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 14586,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 14585,
+                    "startOffset": 14581
+                }
+            },
+            "secId": "sec1",
+            "sentence": "To check the putative role of SCs in thermal stabilization of proteins a survey was done on the ProTherm database [10].",
+            "startOffset": 14467,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24672,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "For every N whole number of \u0394Tm, \u0394\u0394G and \u0394\u0394G_H2O values we counted the number of entries within the [N\u22120.5,N+0.5[ intervals.",
+            "startOffset": 24548,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28414,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Partially buried residues (0.1 < RSA \u2264 0.5)",
+            "startOffset": 28371,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17481,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Since we are interested in stability of the native like protein structure entries with measurements under extreme conditions were discarded.",
+            "startOffset": 17341,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 27330,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since this dataset has the lowest number of data, results for this range do not provide a strong evidence.",
+            "startOffset": 27224,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22781,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "It can be stated that the SCE content is increasing until 80 \u00b0C.",
+            "startOffset": 22717,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29115,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Compared to the average SCE content of about 19% we can see that buried residues are really overrepresented among SCEs.",
+            "startOffset": 28996,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24282,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "From the S-shape of the curve we can conclude that there is no correlation between the SCE content and Gibbs free energy of unfolding in water of proteins.",
+            "startOffset": 24127,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28575,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In the PDBselect database 31.9% of all residues were classified as buried, 40.97% were partially exposed and 27.13% were exposed.",
+            "startOffset": 28446,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13619,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "It is reasonable to consider that both types of crosslinks stabilize the folded structure.",
+            "startOffset": 13529,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12515,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Two residues are stabilization center elements (SCEs) and form a SC together if they are involved in long-range contacts and at least one supporting residue can be found in both flanking tetra-peptides of these residues in a special way that at least seven out of the possible nine interactions are actually found between the two triplets.",
+            "startOffset": 12176,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20029,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Like in the wild type case, we have considered the stability of the native like protein structures and the entries with measurements under extreme conditions were discarded.",
+            "startOffset": 19856,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 15534,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 15524,
+                    "startOffset": 15520
+                }
+            },
+            "secId": "sec2",
+            "sentence": "To get an idea of the average SCE content of proteins we checked the PDBselect [11] database.",
+            "startOffset": 15441,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 13908,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 13907,
+                    "startOffset": 13904
+                }
+            },
+            "secId": "sec1",
+            "sentence": "While covalent crosslinks do it by reducing the entropy of the unfolded state, thereby they increase the refolding rate, noncovalent crosslinks disappear during denaturation thus only slowing down this process, therefore they stabilize the folded state by reducing the unfolding rate [7].",
+            "startOffset": 13620,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28662,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We investigated the distribution of SC elements among these three categories, as well.",
+            "startOffset": 28576,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30493,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As previously seen in Fig. 1, we can see that protein structures with higher thermal stability contain more solvent exposed SCE residues.",
+            "startOffset": 30356,
+            "title": "Results"
+        },
+        {
+            "endOffset": 11330,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 11329,
+                    "startOffset": 11324
+                },
+                "bib2": {
+                    "endOffset": 11329,
+                    "startOffset": 11324
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We introduced the concept of stabilization centers (SCs) to solve the problem raised by the fact that the three-dimensional structure of a protein cannot be calculated from amino acid sequence considering only local (short range) interactions [1,2].",
+            "startOffset": 11081,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12610,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 12609,
+                    "startOffset": 12606
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Stabilization centers can be identified with the SCide public server (www.enzim.hu/scide) [3].",
+            "startOffset": 12516,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16553,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "First a wild type stability database was set up to check if there is a correlation between the thermal stability and the SCE content of a protein, called the wild type database.",
+            "startOffset": 16376,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 13439,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 13438,
+                    "startOffset": 13435
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Long range cross-links help maintaining the native structure of proteins [6].",
+            "startOffset": 13362,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23701,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The second dataset of the wild type database includes entries with \u0394G_H2O measurements.",
+            "startOffset": 23614,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29851,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This ratios are almost the same as the values obtained for the PDBselect database.",
+            "startOffset": 29769,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24378,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thermodynamic data from the Protherm derived mutant datasets were analyzed in the following way.",
+            "startOffset": 24282,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19261,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The values within one datasets can originate from different type of measurement methods.",
+            "startOffset": 19173,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 29285,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This is probably because of the geometric criterion in the SC definition which can be much easier fulfilled in the inner part of a protein structure than on the surface.",
+            "startOffset": 29116,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27045,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "According to the results, it can be stated that for all the three measurements, in the destabilizing range (1) the ratio of stabilization centers among the mutated positions is higher than the average SCE content, thus there is an overlap between the SCEs and the positions of mutations.",
+            "startOffset": 26758,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17812,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "After applying these filters in many cases more than one Tm value was present in the first dataset.",
+            "startOffset": 17713,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 26175,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The average stabilization center element content was 20.10%, 19.50% and 20.50% for the \u0394Tm, \u0394\u0394G and \u0394\u0394G_H2O datasets, respectively.",
+            "startOffset": 26044,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23380,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 23379,
+                    "startOffset": 23372
+                },
+                "bib19": {
+                    "endOffset": 23379,
+                    "startOffset": 23372
+                }
+            },
+            "secId": "sec3",
+            "sentence": "There are several reviews which indicate that thermophiles and hyperthermophiles apply different strategies (like optimizing cavities) in the optimization of their protein structures to reach increased thermal stability needed at their physiological temperature [18,19].",
+            "startOffset": 23110,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32174,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, the trend is not true in the temperature range of hyperthermophilic proteins.",
+            "startOffset": 32088,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14181,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Stabilization centers incorporate clusters of cooperative long-range interactions.",
+            "startOffset": 14099,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31060,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We even found a special case, where a stabilizing mutation resulted in the formation of a SC, which was not present in the wild type structure.",
+            "startOffset": 30917,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22175,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Most of these protein structures were solution NMR structures.",
+            "startOffset": 22113,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27603,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The results for the first two ranges, that SCE overlap with destabilizing mutation and segregate from neutral mutation positions strengthen our hypothesis that SCs are important in maintaining protein stability, mutations of SCE residues usually destabilize the structure.",
+            "startOffset": 27331,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15721,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We took all protein chains in the 25% list from November 2012, obtained from http://bioinfo.mni.th-mh.de/pdbselect/recent.pdb_select25.nsigma3.0 and identified intra- and interchain SCs.",
+            "startOffset": 15535,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 27223,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In the stabilizing range (3) only in the \u0394\u0394G dataset is there a significant overlap.",
+            "startOffset": 27139,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32087,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The investigation of the wild type protein structures showed that structures with higher denaturation temperatures up to 85 \u00b0C have a higher number of SCEs.",
+            "startOffset": 31931,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28446,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Exposed residues (0.5 < RSA)",
+            "startOffset": 28418,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30732,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Although the number of 3D structures for mutated proteins is low in the Protherm database, we managed to find a couple of examples, where the effects of a mutation at an SCE position can be verified by the structure of the mutated protein.",
+            "startOffset": 30493,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28241,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Before solvent accessibility calculation the quaternary structure of all proteins were created based on the BIOMT transformation matrices.",
+            "startOffset": 28103,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32415,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These findings strengthen our hypothesis that SCs are important for the maintenance of a stable protein structure.",
+            "startOffset": 32301,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22416,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We searched the PDB database for X-ray structures of the same proteins.",
+            "startOffset": 22345,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22542,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We used the PDB clustering available at http://resources.rcsb.org/sequence/clusters/bc-100.out to identify X-ray equivalents.",
+            "startOffset": 22417,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22618,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We managed to find an appropriate structure in the cases listed in Table 1.",
+            "startOffset": 22543,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23462,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This finding might explain the change in the SCE content at extreme temperatures.",
+            "startOffset": 23381,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21792,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 21714,
+                    "startOffset": 21707
+                },
+                "bib17": {
+                    "endOffset": 21714,
+                    "startOffset": 21707
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Since there were only a few points in the highest temperature range, the entries with the next two highest Tm value (glutamate dehydrogenase from Thermococcus litoralis and Pyrococcus furiosus; 1BVU, Tm = 109 \u00b0C and 1GTM, Tm = 114 \u00b0C) [16,17] were added to this dataset, which were originally excluded from the database.",
+            "startOffset": 21472,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23765,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There were 170 entries within the range of 0 and 25.5 kcal/mol.",
+            "startOffset": 23702,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18394,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We used the following filtering criteria:",
+            "startOffset": 18353,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 31930,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Mutations which do not influence protein stability are not overlapping with SCs, while mutations which change stability in either way are more frequently found at SC residues.",
+            "startOffset": 31755,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15769,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We investigated a total of 3096 protein chains.",
+            "startOffset": 15722,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 17913,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We discarded proteins where difference between the lowest and highest Tm value was greater than 10\u00b0.",
+            "startOffset": 17813,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 31334,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 31256,
+                    "startOffset": 31252
+                },
+                "bib25": {
+                    "endOffset": 31290,
+                    "startOffset": 31286
+                },
+                "bib26": {
+                    "endOffset": 31333,
+                    "startOffset": 31329
+                }
+            },
+            "secId": "sec3",
+            "sentence": "1SYE, P117T, \u0394Tm = +0.6 \u00b0C [24] and \u0394\u0394G_H2O = +1.10 kcal/mol [25]; 1SNP, P117G, \u0394Tm = +5 \u00b0C [24] and \u0394\u0394G_H2O = +1.60 kcal/mol [25]; 1SYG, P117A, \u0394\u0394G_H2O = +0.8 kcal/mol [26].",
+            "startOffset": 31160,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22037,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This is not a significant problem, because this structure with Tm value of 49.8 \u00b0C fall into a region, where relatively many data can be found.",
+            "startOffset": 21894,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26593,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Results can be seen in Table 2.",
+            "startOffset": 26562,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22344,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since the definition of SCs is very sensitive to the quality of the structure due to the hard limit of heavy atom distances, we prefer high resolution X-ray structures.",
+            "startOffset": 22176,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16298,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 16297,
+                    "startOffset": 16290
+                },
+                "bib13": {
+                    "endOffset": 16297,
+                    "startOffset": 16290
+                },
+                "bib14": {
+                    "endOffset": 16297,
+                    "startOffset": 16290
+                }
+            },
+            "secId": "sec2",
+            "sentence": "ProTherm is freely available at http://www.abren.net/protherm/, which has been effectively used to understand the factors influencing the stability of protein mutants and developing methods for predicting the stability upon mutations [12\u201314].",
+            "startOffset": 16056,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 20931,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The number of stabilization center elements was 69,706, while the total number of residues was 351,385, giving an average SCE content of 19.84%, which is used as a reference value hereafter.",
+            "startOffset": 20741,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22686,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "SCE content was recalculated using these alternate X-ray structures.",
+            "startOffset": 22618,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30244,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In virtue of this result we checked if solvent exposed SCE content shows any correlation with thermal stability using the wild type database.",
+            "startOffset": 30103,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20146,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In all three datasets negative values mean a decrease in stability, while positive ones denote increase in stability.",
+            "startOffset": 20029,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 16964,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Only entries with known 3D structure of wild type proteins were taken into account.",
+            "startOffset": 16881,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 26282,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We identified the stabilization center elements in the wild type PDB structures assigned to the mutations.",
+            "startOffset": 26176,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30002,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However for exposed residues in this dataset 14.04% of the residues were SCEs, while for the PDBselect database the corresponding value is only 5.86%.",
+            "startOffset": 29852,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22878,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Above this temperature, the average SCE content goes into saturation or even starts to decrease.",
+            "startOffset": 22782,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18352,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "This is called the mutant database.",
+            "startOffset": 18317,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 28995,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Further we found that 33.24% of buried residues are SCEs, while in the partially buried and exposed categories this ratio is 19.19% and 5.86%, respectively.",
+            "startOffset": 28839,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21893,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "One entry (1BGL) was deleted from the dataset, because our program could not process this structure.",
+            "startOffset": 21793,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13528,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These cross-links can be either covalent, like disulfide bonds, or noncovalent like SCs.",
+            "startOffset": 13440,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19627,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Since an atomic resolution structure is needed for the identification of the stabilization centers, all remaining entries had to have an available PDB structure.",
+            "startOffset": 19466,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 24489,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The \u0394Tm, \u0394\u0394G and \u0394\u0394G_H2O datasets were handled separately because of the different nature of the measurements.",
+            "startOffset": 24379,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17623,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Furthermore we used the Tm \u2264 105 \u00b0C filtering criteria for the first dataset.",
+            "startOffset": 17546,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 19462,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 19461,
+                    "startOffset": 19457
+                }
+            },
+            "secId": "sec2",
+            "sentence": "In order to get reliable and comparable data, only entries obtained by CD or DSC methods were kept for the \u0394Tm and \u0394\u0394G datasets and only fluorescence or CD methods in the case of \u0394\u0394G_H2O dataset [15].",
+            "startOffset": 19262,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 21471,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We averaged the SCE content of proteins within a Tm window of 20\u00b0, i.e. the data at temperature T is the average SCE value of proteins with a Tm value within the T \u00b1 10 interval.",
+            "startOffset": 21293,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19853,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Ideally this would be the structure of the mutant, but since the number of mutated protein structures in the Protherm database is very low compared to the wild type structures, the wild type structures were used in all cases.",
+            "startOffset": 19628,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 14712,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The interplay between SCEs and residues which influence the thermal stability has been investigated with multiple approaches.",
+            "startOffset": 14587,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28102,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 28101,
+                    "startOffset": 28097
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Solvent accessibility was calculated using the Naccess 2.1.1 software [20].",
+            "startOffset": 28027,
+            "title": "Results"
+        },
+        {
+            "endOffset": 12026,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "If there is at least one pair of heavy atoms with a distance less than the sum of the van der Waals radii of the two atoms plus 1.0 \u00c5, the corresponding residues are considered to be in contact.",
+            "startOffset": 11832,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15330,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In our protocol, we have not only considered the intra-chain stabilization centers, where both SC forming residues come from the same polypeptide chain, but also inter-chain SCs.",
+            "startOffset": 15152,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 31159,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 31158,
+                    "startOffset": 31151
+                },
+                "bib25": {
+                    "endOffset": 31158,
+                    "startOffset": 31151
+                },
+                "bib26": {
+                    "endOffset": 31158,
+                    "startOffset": 31151
+                }
+            },
+            "secId": "sec3",
+            "sentence": "It is the Staphylococcus aureus nuclease; 1STN, where the proline 117 residue was mutated [24\u201326].",
+            "startOffset": 31061,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16831,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the first dataset entries with data from thermal denaturation experiments, while in the second dataset entries with data from chemical denaturation experiments were included.",
+            "startOffset": 16654,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 15036,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Subsequently, we have explored the possible correlation between protein stability change upon mutations and SCEs using thermodynamic parameters in the ProTherm database.",
+            "startOffset": 14867,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16055,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "The thermal stability data for proteins and mutants have been obtained from ProTherm database, which is a collection of a large number of experimental data on protein stability such as unfolding Gibbs free energy change, enthalpy change, heat capacity change and transition temperature.",
+            "startOffset": 15769,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 23951,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We created 8 intervals as in the previous Tm wild type dataset and used a window size of 6 kcal/mol for averaging the SCE content for all proteins of the dataset within the given range.",
+            "startOffset": 23766,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13200,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 12954,
+                    "startOffset": 12951
+                },
+                "bib5": {
+                    "endOffset": 13199,
+                    "startOffset": 13196
+                }
+            },
+            "secId": "sec1",
+            "sentence": "There were some efforts to reveal a possible connection between stabilization center content and proteins stability [4] and we investigated our hypothesis that some residues determine function, while others are responsible for stability and found that despite our expectations there is an overlap between residues responsible for protein function and stability [5].",
+            "startOffset": 12835,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21219,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "First we identified the SCEs in the proteins of first dataset of the wild type database and calculated the average SCE content for all proteins.",
+            "startOffset": 21075,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29768,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We calculated how many residues of the three classes are SCEs in this dataset: 33.71% and 17.91% of buried and partially buried residues were SCEs, respectively.",
+            "startOffset": 29607,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29606,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We found in this dataset the strongest correlation between SCE content and stability change.",
+            "startOffset": 29514,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13362,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, this is the first comprehensive study until now, which deals with possible connections of stabilization centers and protein thermal stability in detail.",
+            "startOffset": 13201,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 11831,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 11754,
+                    "startOffset": 11751
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The definition of stabilization centers is based on the contact map of a protein with known three-dimensional structure [1] in which residue contacts are identified with pairs of heavy atom distances.",
+            "startOffset": 11631,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30916,
+            "parents": [],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 30751,
+                    "startOffset": 30744
+                },
+                "bib22": {
+                    "endOffset": 30751,
+                    "startOffset": 30744
+                },
+                "bib23": {
+                    "endOffset": 30751,
+                    "startOffset": 30744
+                }
+            },
+            "secId": "sec3",
+            "sentence": "In Table 3 [21\u201323] we can see a couple of destabilizing mutations, where the wild type residue is a SCE, but in the mutated structure the corresponding residue is not a SCE, any more.",
+            "startOffset": 30733,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27138,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In the neutral range (2) we can see segregation of SCEs and mutations in all three datasets.",
+            "startOffset": 27046,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16653,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In order to investigate broader aspects of stability two datasets were set up within this database.",
+            "startOffset": 16554,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 17545,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Only entries with 5 \u2264 pH \u2264 9 experimental conditions were kept.",
+            "startOffset": 17482,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 26666,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Mutations in Range2 are considered neutral in terms of thermal stability.",
+            "startOffset": 26593,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23109,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, standard deviations are quite large, and there is a low number of data points in the Tm > 80 region, this temperature range coincides well with the temperature range in which organisms are classified as hyperthermophiles.",
+            "startOffset": 22879,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17218,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In order to get a uniform database only Tm values obtained by Circular Dichroism (CD) or Differential Scanning Calorimetry (DSC) measurement methods were used.",
+            "startOffset": 17059,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 18763,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "This is not a serious restriction since more than 80% of data in the Protherm database is for single point mutations.",
+            "startOffset": 18646,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 23982,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Results can be seen in Fig. 2.",
+            "startOffset": 23952,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18645,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the latter case we would not be able to distinguish, which mutation has high contribution to the cumulative effect of mutations.",
+            "startOffset": 18514,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 24972,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "By means of the equation of the fitted curve, the two points of the curve at the half maximum were determined and rounded to one decimal precision.",
+            "startOffset": 24825,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24547,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In all three cases data were represented with histograms.",
+            "startOffset": 24490,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22112,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There were a couple of PDB structures in which no SCs could be identified.",
+            "startOffset": 22038,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20473,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Since we are interested in stability changes related to an amino acid position rather than the amino acid itself, we were using the maximum value for stabilizing and the minimum value for destabilizing mutations if measurements for several different mutations are available for the same position, rather than an average value.",
+            "startOffset": 20147,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 14098,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14052,
+                    "startOffset": 14045
+                },
+                "bib5": {
+                    "endOffset": 14052,
+                    "startOffset": 14045
+                },
+                "bib8": {
+                    "endOffset": 14052,
+                    "startOffset": 14045
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The relationship of SCs with secondary structural elements as well as functionally important regions of proteins were already presented [1,5,8] to show a detailed picture of these clusters.",
+            "startOffset": 13909,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16879,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "We were using the following filtering criteria:",
+            "startOffset": 16832,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 30102,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This finding underlines the role of exposed SCs in the thermal stabilization of protein structures.",
+            "startOffset": 30003,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16375,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Two different databases were constructed from the original Protherm database.",
+            "startOffset": 16298,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 32300,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This seems even more clearly in the case of solvent exposed SCs, where the trend is even true for hyperthermophilic proteins.",
+            "startOffset": 32175,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19065,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "One of the following experimental thermodynamic data had to be available, \u0394Tm: melting temperature change upon mutation, \u0394\u0394G: change in Gibbs free energy of unfolding obtained by thermal denaturation or \u0394\u0394G_H2O: change in Gibbs free energy of unfolding in water, determined by chemical denaturation.",
+            "startOffset": 18766,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 27951,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since the geometric definition of stabilization centers might prefer buried residues over solvent exposed ones, we investigated if this might play any role in our findings.",
+            "startOffset": 27779,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28026,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "First we investigated if SC elements are biased to favor buried positions.",
+            "startOffset": 27952,
+            "title": "Results"
+        },
+        {
+            "endOffset": 12834,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The role of SCs on protein thermal stability was not considered when the concept was introduced and has not yet been explored in detail.",
+            "startOffset": 12698,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18316,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "A second database was set up to investigate if stability altering amino acid substitutions overlap with SCEs or not.",
+            "startOffset": 18200,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 24824,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We fitted the sum of two Gaussians to these data points.",
+            "startOffset": 24768,
+            "title": "Results"
+        },
+        {
+            "endOffset": 12175,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Long-range contacts are defined as contacts between residues, which are separated by at least 10 residues or belong to different polypeptide chains.",
+            "startOffset": 12027,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18200,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "For proteins with smaller differences average values were used.",
+            "startOffset": 18137,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 18513,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Wild type and multiple mutation entries were discarded.",
+            "startOffset": 18458,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 31533,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Stabilization centers are thought to have a role in \u201cmaintenance\u201d of the three-dimensional structure of proteins by preventing their decay due to their cooperative long range interactions.",
+            "startOffset": 31345,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12697,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "It is important to note that a SCE can participate in more than one SC simultaneously.",
+            "startOffset": 12611,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14866,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "First we have analyzed the relationship between melting temperature or Gibbs free energy of unfolding in water and the SCE content of wild type proteins.",
+            "startOffset": 14713,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25094,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These two points defined 3 regions (destabilizing, neutral and stabilizing), which were different for the three datasets.",
+            "startOffset": 24973,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23613,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Gibbs free energy of unfolding in water \u0394G_H2O values obtained by chemical denaturation measurements represent a different aspect of protein stability.",
+            "startOffset": 23462,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18457,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Only entries of single point mutants were taken into account.",
+            "startOffset": 18396,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 17985,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the remaining cases the average of the different Tm values was used.",
+            "startOffset": 17914,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 28368,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Buried residues (RSA < 0.1)",
+            "startOffset": 28341,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21074,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We were interested if there is any general correlation between the thermal stability of a protein and its stabilization center element content.",
+            "startOffset": 20931,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20740,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We calculated the average SCE content of the protein chains from the PDBselect database.",
+            "startOffset": 20652,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28339,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Based on the relative surface area (RSA) all protein residues were divided into three categories:",
+            "startOffset": 28242,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14467,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 14389,
+                    "startOffset": 14386
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although the Gibbs free energy contribution of an individual noncovalent bond is generally marginal due to the entropy loss, it can become significant when several inter-residue interactions act together [9], thus we believe that SCs might be important from the viewpoint of stability.",
+            "startOffset": 14182,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24126,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since there is an overlap between entries belonging to adjacent intervals, a relatively smooth curve is expected even for an uncorrelated case.",
+            "startOffset": 23983,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32531,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus we can conclude that stabilization centers are deeply involved in thermal stabilization of protein structures.",
+            "startOffset": 32416,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30355,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The result can be seen in Fig. 4, where the exposed SCE content is plotted as function of melting temperature.",
+            "startOffset": 30245,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18136,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the second dataset proteins, where differences in the Gibbs free energy of unfolding in water values were bigger than 1.5 kcal/mol, were discarded.",
+            "startOffset": 17986,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 17713,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the second dataset entries with the most extreme \u0394G_H2O values (>25.5) were discarded.",
+            "startOffset": 17624,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 11630,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "According to our hypothesis there might be a few additional residues which might be responsible for the stability of three-dimensional structure of proteins.",
+            "startOffset": 11473,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21292,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "There were a total of 181 Tm measurements in the range of 25 and 105 \u00b0C.",
+            "startOffset": 21220,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29513,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We analyzed the largest subset of the Protherm database, the destabilizing mutation of Range1 of the \u0394Tm dataset.",
+            "startOffset": 29400,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20644,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "An average value would be unadvisable because of the asymmetrical nature of the database composition, there are a lot more destabilizing mutations, than stabilizing ones.",
+            "startOffset": 20474,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 17337,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "In the second wild type dataset only entries with \u0394G_H2O (Gibbs free energy of unfolding in water) data were included.",
+            "startOffset": 17219,
+            "title": "Material and methods"
+        }
+    ],
+    "docId": "S0006291X16301826",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Csaba",
+                "initial": "C.",
+                "last": "Magyar"
+            },
+            {
+                "email": null,
+                "first": "M. Michael",
+                "initial": "M.M.",
+                "last": "Gromiha"
+            },
+            {
+                "email": null,
+                "first": "Zolt\u00e1n",
+                "initial": "Z.",
+                "last": "S\u00e1voly"
+            },
+            {
+                "email": "simon.istvan@ttk.mta.hu",
+                "first": "Istv\u00e1n",
+                "initial": "I.",
+                "last": "Simon"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.01.181",
+        "firstpage": "57",
+        "issn": "0006291X",
+        "keywords": [
+            "Protein stability",
+            "Stability changing mutations",
+            "Stabilization centers",
+            "Thermal stability",
+            "Thermophiles"
+        ],
+        "lastpage": "62",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "The role of stabilization centers in protein thermal stability"
+    }
+}

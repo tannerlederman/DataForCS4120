@@ -1,0 +1,3092 @@
+{
+    "abstract": "Environmental noise monitoring systems continuously measure sound levels without assigning these measurements to different noise sources in the acoustic scenes, therefore incapable of identifying the main noise source. In this paper a feasibility study is presented on a new monitoring concept in which an acoustic pattern classification algorithm running in a wireless sensor is used to automatically assign the measured sound level to different noise sources. A supervised noise source classifier is learned from a small amount of manually annotated recordings and the learned classifier is used to automatically detect the activity of target noise source in the presence of interfering noise sources. The sensor is based on an inexpensive credit-card-sized single-board computer with a microphone and associated electronics and wireless connectivity. The measurement results and the noise source information are transferred from the sensors scattered around the measurement site to a cloud service and a noise portal is used to visualise the measurements to users. The proposed noise monitoring concept was piloted on a rock crushing site. The system ran reliably over 50 days on site, during which it was able to recognise more than 90% of the noise sources correctly. The pilot study shows that the proposed noise monitoring system can reduce the amount of required human validation of the sound level measurements when the target noise source is clearly defined.",
+    "bib_entries": {
+        "b0005": null,
+        "b0010": null,
+        "b0015": null,
+        "b0020": null,
+        "b0025": null,
+        "b0030": null,
+        "b0035": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Konishi"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Tanioku"
+                },
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Maekawa"
+                }
+            ],
+            "doi": "10.1016/S0003-682X(00)00009-8",
+            "firstpage": "149",
+            "issn": "0003682X",
+            "lastpage": "172",
+            "pub_year": 2000,
+            "title": "Long time measurement of long range sound propagation over an ocean surface",
+            "volume": "61"
+        },
+        "b0040": null,
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Benoit",
+                    "initial": "B.",
+                    "last": "Gauvreau"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2013.01.008",
+            "firstpage": "958",
+            "issn": "0003682X",
+            "lastpage": "967",
+            "pub_year": 2013,
+            "title": "Long-term experimental database for environmental acoustics",
+            "volume": "74"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Panu P.",
+                    "initial": "P.P.",
+                    "last": "Maijala"
+                },
+                {
+                    "first": "Ossi T.",
+                    "initial": "O.T.",
+                    "last": "Ojanen"
+                }
+            ],
+            "firstpage": "1809",
+            "lastpage": "1818",
+            "pub_year": 2006,
+            "title": "Longterm measurements of sound propagation in Finland",
+            "volume": "3"
+        },
+        "b0055": null,
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Antti",
+                    "initial": "A.",
+                    "last": "Leskinen"
+                },
+                {
+                    "first": "Roy",
+                    "initial": "R.",
+                    "last": "Hjort"
+                },
+                {
+                    "first": "Kari",
+                    "initial": "K.",
+                    "last": "Saine"
+                },
+                {
+                    "first": "Zengxin",
+                    "initial": "Z.",
+                    "last": "Gao"
+                }
+            ],
+            "pub_year": 2014,
+            "title": "Aures - The advanced environment noise monitoring system - Leq(A) or new measurement technology?"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Michael Noll"
+                }
+            ],
+            "doi": "10.1121/1.1918949",
+            "firstpage": "296",
+            "issn": "00014966",
+            "lastpage": "302",
+            "pub_year": 1964,
+            "title": "Short-Time Spectrum and \u201cCepstrum\u201d Techniques for Vocal-Pitch Detection",
+            "volume": "36"
+        },
+        "b0070": null,
+        "b0075": null,
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Douglas A.",
+                    "initial": "D.A.",
+                    "last": "Reynolds"
+                },
+                {
+                    "first": "Thomas F.",
+                    "initial": "T.F.",
+                    "last": "Quatieri"
+                },
+                {
+                    "first": "Robert B.",
+                    "initial": "R.B.",
+                    "last": "Dunn"
+                }
+            ],
+            "doi": "10.1006/dspr.1999.0361",
+            "firstpage": "19",
+            "issn": "10512004",
+            "lastpage": "41",
+            "pub_year": 2000,
+            "title": "Speaker verification using adapted Gaussian mixture models",
+            "volume": "10"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Sakurai"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Sakai"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Ando"
+                }
+            ],
+            "doi": "10.1006/jsvi.2000.3273",
+            "firstpage": "19",
+            "issn": "0022460X",
+            "lastpage": "27",
+            "pub_year": 2001,
+            "title": "A computational software for noise measurement and toward its identification",
+            "volume": "241"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Kenji",
+                    "initial": "K.",
+                    "last": "Fujii"
+                },
+                {
+                    "first": "Masatsugu",
+                    "initial": "M.",
+                    "last": "Sakurai"
+                },
+                {
+                    "first": "Yoichi",
+                    "initial": "Y.",
+                    "last": "Ando"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2004.03.019",
+            "firstpage": "573",
+            "issn": "0022460X",
+            "lastpage": "582",
+            "pub_year": 2004,
+            "title": "Computer software for identification of noise source and automatic noise measurement",
+            "volume": "277"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Annamaria",
+                    "initial": "A.",
+                    "last": "Mesaros"
+                },
+                {
+                    "first": "Toni",
+                    "initial": "T.",
+                    "last": "Heittola"
+                },
+                {
+                    "first": "Antti",
+                    "initial": "A.",
+                    "last": "Eronen"
+                },
+                {
+                    "first": "Tuomas",
+                    "initial": "T.",
+                    "last": "Virtanen"
+                }
+            ],
+            "firstpage": "1267",
+            "issn": "22195491",
+            "lastpage": "1271",
+            "pub_year": 2010,
+            "title": "Acoustic event detection in real life recordings"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Oguzhan",
+                    "initial": "O.",
+                    "last": "Gencoglu"
+                },
+                {
+                    "first": "Tuomas",
+                    "initial": "T.",
+                    "last": "Virtanen"
+                },
+                {
+                    "first": "Heikki",
+                    "initial": "H.",
+                    "last": "Huttunen"
+                }
+            ],
+            "firstpage": "509",
+            "issn": "22195491",
+            "lastpage": "510",
+            "pub_year": 2014,
+            "title": "Recognition of acoustic events using deep neural networks"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Emre",
+                    "initial": "E.",
+                    "last": "Cakir"
+                },
+                {
+                    "first": "Toni",
+                    "initial": "T.",
+                    "last": "Heittola"
+                },
+                {
+                    "first": "Heikki",
+                    "initial": "H.",
+                    "last": "Huttunen"
+                },
+                {
+                    "first": "Tuomas",
+                    "initial": "T.",
+                    "last": "Virtanen"
+                }
+            ],
+            "doi": "10.1109/IJCNN.2015.7280624",
+            "pub_year": 2015,
+            "title": "Polyphonic sound event detection using multi label deep neural networks",
+            "volume": "2015-"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Culler"
+                },
+                {
+                    "first": "Deborah",
+                    "initial": "D.",
+                    "last": "Estrin"
+                },
+                {
+                    "first": "Mani",
+                    "initial": "M.",
+                    "last": "Srivastava"
+                }
+            ],
+            "doi": "10.1109/MC.2004.93",
+            "firstpage": "41",
+            "issn": "00189162",
+            "lastpage": "49",
+            "pub_year": 2004,
+            "title": "Overview of sensor networks",
+            "volume": "37"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Jayavardhana",
+                    "initial": "J.",
+                    "last": "Gubbi"
+                },
+                {
+                    "first": "Rajkumar",
+                    "initial": "R.",
+                    "last": "Buyya"
+                },
+                {
+                    "first": "Slaven",
+                    "initial": "S.",
+                    "last": "Marusic"
+                },
+                {
+                    "first": "Marimuthu",
+                    "initial": "M.",
+                    "last": "Palaniswami"
+                }
+            ],
+            "doi": "10.1016/j.future.2013.01.010",
+            "firstpage": "1645",
+            "issn": "0167739X",
+            "lastpage": "1660",
+            "pub_year": 2013,
+            "title": "Internet of Things (IoT): A vision, architectural elements, and future directions",
+            "volume": "29"
+        },
+        "b0120": null,
+        "b0125": null,
+        "b0130": null,
+        "b0135": {
+            "authors": [
+                {
+                    "first": "Eiman",
+                    "initial": "E.",
+                    "last": "Kanjo"
+                }
+            ],
+            "doi": "10.1007/s11036-009-0217-y",
+            "firstpage": "562",
+            "issn": "1383469X",
+            "lastpage": "574",
+            "pub_year": 2010,
+            "title": "NoiseSPY: A real-time mobile phone platform for urban noise monitoring and mapping",
+            "volume": "15"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Maisonneuve"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Stevens"
+                },
+                {
+                    "first": "Bartek",
+                    "initial": "B.",
+                    "last": "Ochab"
+                }
+            ],
+            "doi": "10.3233/IP-2010-0200",
+            "firstpage": "51",
+            "issn": "15701255",
+            "lastpage": "71",
+            "pub_year": 2010,
+            "title": "Participatory noise pollution monitoring using mobile phones",
+            "volume": "15"
+        },
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Silvia",
+                    "initial": "S.",
+                    "last": "Santini"
+                },
+                {
+                    "first": "Benedikt",
+                    "initial": "B.",
+                    "last": "Ostermaier"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Adelmann"
+                }
+            ],
+            "doi": "10.1109/INSS.2009.5409957",
+            "firstpage": "31",
+            "lastpage": "38",
+            "pub_year": 2009,
+            "title": "On the use of sensor nodes and mobile phones for the assessment of noise pollution levels in urban environments"
+        },
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Douglas",
+                    "initial": "D.",
+                    "last": "Manvell"
+                },
+                {
+                    "first": "Erik",
+                    "initial": "E.",
+                    "last": "Aflalo"
+                }
+            ],
+            "firstpage": "1263",
+            "lastpage": "1268",
+            "pub_year": 2005,
+            "title": "Uncertainties in environmental noise assessments - ISO 1996, effects of instrument class and residual sound"
+        },
+        "b0155": null,
+        "b0160": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Valenzise"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Gerosa"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Tagliasacchi"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Antonacci"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Sarti"
+                }
+            ],
+            "doi": "10.1109/AVSS.2007.4425280",
+            "firstpage": "21",
+            "lastpage": "26",
+            "pub_year": 2007,
+            "title": "Scream and gunshot detection and localization for audio-surveillance systems"
+        },
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Stavros",
+                    "initial": "S.",
+                    "last": "Ntalampiras"
+                },
+                {
+                    "first": "Ilyas",
+                    "initial": "I.",
+                    "last": "Potamitis"
+                },
+                {
+                    "first": "Nikos",
+                    "initial": "N.",
+                    "last": "Fakotakis"
+                }
+            ],
+            "doi": "10.1109/icassp.2009.4959546",
+            "firstpage": "165",
+            "issn": "15206149",
+            "lastpage": "168",
+            "pub_year": 2009,
+            "title": "On acoustic surveillance of hazardous situations"
+        },
+        "b0170": null,
+        "b0175": null,
+        "b0180": null,
+        "b0185": null,
+        "b0190": null,
+        "b0195": {
+            "authors": [
+                {
+                    "first": "Harvey",
+                    "initial": "H.",
+                    "last": "Fletcher"
+                },
+                {
+                    "first": "W. A.",
+                    "initial": "W.A.",
+                    "last": "Munson"
+                }
+            ],
+            "doi": "10.1121/1.1915637",
+            "firstpage": "82",
+            "issn": "00014966",
+            "lastpage": "108",
+            "pub_year": 1933,
+            "title": "Loudness, Its Definition, Measurement and Calculation",
+            "volume": "5"
+        },
+        "b0200": {
+            "authors": [
+                {
+                    "first": "Justin",
+                    "initial": "J.",
+                    "last": "Salamon"
+                },
+                {
+                    "first": "Christopher",
+                    "initial": "C.",
+                    "last": "Jacoby"
+                },
+                {
+                    "first": "Juan Pablo",
+                    "initial": "J.P.",
+                    "last": "Bello"
+                }
+            ],
+            "doi": "10.1145/2647868.2655045",
+            "firstpage": "1041",
+            "lastpage": "1044",
+            "pub_year": 2014,
+            "title": "A dataset and taxonomy for urban sound research"
+        },
+        "b0205": {
+            "authors": [
+                {
+                    "first": "Karol J.",
+                    "initial": "K.J.",
+                    "last": "Piczak"
+                }
+            ],
+            "doi": "10.1145/2733373.2806390",
+            "firstpage": "1015",
+            "lastpage": "1018",
+            "pub_year": 2015,
+            "title": "ESC: Dataset for environmental sound classification"
+        },
+        "b0210": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Genesc\u00e0"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Romeu"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "P\u00e0mies"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "S\u00e1nchez"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2008.12.030",
+            "firstpage": "112",
+            "issn": "0022460X",
+            "lastpage": "129",
+            "pub_year": 2009,
+            "title": "Real time aircraft fly-over noise discrimination",
+            "volume": "323"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 58315,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "A reduced size of the training material was tested by using every second or every fourth recording in time order.",
+            "startOffset": 58202,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 39372,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The portal provides different level information depending on the user account type.",
+            "startOffset": 39289,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 39719,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The monitoring site managers (system clients) can grant access for the people living close to the monitoring site (public users), and the services provides them easily approachable noise measurement summaries, and possibility to add feedback or comments on the measurement time-line, providing direct connection to the monitoring site management.",
+            "startOffset": 39373,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 31284,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 31203,
+                    "startOffset": 31199
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Gaussian mixture model (GMM) [16] has been traditionally cooperated with MFCCs to model different types of sounds.",
+            "startOffset": 31170,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40164,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Public access is important to make the noise monitoring transparent, and engage the public by giving them more active role how the monitoring results should be interpreted.",
+            "startOffset": 39992,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 61423,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "With this method, the annotation was fast but less accurate.",
+            "startOffset": 61363,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 53614,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Mel cepstral coefficients from the first to kth were used as features.",
+            "startOffset": 53544,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 56842,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This computation time could be further reduced with a better implementation.",
+            "startOffset": 56766,
+            "title": "Results"
+        },
+        {
+            "endOffset": 62844,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In future, the final outcome of an environmental noise assessment will be an annoyance map of an area, reported with the level of uncertainty.",
+            "startOffset": 62702,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 42201,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Examples of possible target sounds are plant noise and aircraft noise.",
+            "startOffset": 42131,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 35219,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The selection of the microphones ended up with two models: one covering the audible range dynamics from 14 dB to 119 dB, and another from 20 dB to 140 dB (A-weighted).",
+            "startOffset": 35052,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 49071,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Fig. 3 illustrates the noise portal that represents the estimated target activity in long term (1 h), taking majority vote from the activity outputs of corresponding seconds.",
+            "startOffset": 48897,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 63895,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "A solar-powered sensor was demonstrated to allow measurements in locations without power outlet.",
+            "startOffset": 63799,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 63079,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 63019,
+                    "startOffset": 63015
+                }
+            },
+            "secId": "s0100",
+            "sentence": "Further, when the needs go beyond the current legislative values and limits, it is possible to calculate higher level descriptors like unbiased noise annoyance (e.g. UBA [25]), or some other psychoacoustical descriptors at the sensor.",
+            "startOffset": 62845,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 30197,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Furthermore, privacy issues can be avoided and required network load can be largely reduced, if the automatic validation algorithm is performed on the sensor and only the measurement result is transferred.",
+            "startOffset": 29992,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49243,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "A case study was made on the noise measurement of a rock crushing plant \u2013 a typical environmental noise assessment with nearby habitation.",
+            "startOffset": 49105,
+            "title": "A case study: rock-crushing plant"
+        },
+        {
+            "endOffset": 64666,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "The system was run for 50 days and the results of the developed classifier matched well with the regular working hours of the rock crushing plant.",
+            "startOffset": 64520,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58201,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In the training material, about four hours of audio, the total number of feature vectors was about 300 000.",
+            "startOffset": 58094,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 50460,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Three minutes of audio was continuously captured every 10 min, making a total of 432 min for each day.",
+            "startOffset": 50358,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 53815,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "In addition to static MFCCs, the deltas were calculated using four preceding frames and four succeeding frames to represent temporal dynamics.",
+            "startOffset": 53673,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 38139,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Only measurements associated to the targeted sound class are presented in the calendar.",
+            "startOffset": 38052,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 42550,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The audio input is the same as the signal used for SPL measurement, but without the A-weighting filter.",
+            "startOffset": 42447,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 57816,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The sensors continuously performed noise measurement and source classification for 50 days and were able to transmit the results of every single hour, though some results were received with a delay of hours.",
+            "startOffset": 57609,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60885,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "The same algorithm could be used in noise measurement scenarios involving multiple noise types.",
+            "startOffset": 60790,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 50656,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "All types of noise generated by the working activity of the plant was collectively defined as the target class, including rock crushing, lifting-truck sounds, and alarm sounds from the machinery.",
+            "startOffset": 50461,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 56985,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The computation in the sensor includes reading the audio stream, SPL measurement, feature extraction, classification, and transmitting results.",
+            "startOffset": 56842,
+            "title": "Results"
+        },
+        {
+            "endOffset": 58475,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Thus, it is sufficient to use about one hour of annotated recordings to achieve a decent classifier.",
+            "startOffset": 58375,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 58955,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "refoffsets": {
+                "b0200": {
+                    "endOffset": 58913,
+                    "startOffset": 58909
+                }
+            },
+            "secId": "s0080",
+            "sentence": "For example, UrbanSound8K [40] contains one hour for each of 10 classes.",
+            "startOffset": 58883,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 30582,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "As another drawback, the design of a hand-crafted classifier requires an expert for every noise monitoring scenario.",
+            "startOffset": 30466,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 56765,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This suggests that it takes the most time for overhead operations such as copying the features, when compared to computing likelihoods with the classifier.",
+            "startOffset": 56610,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31169,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 31019,
+                    "startOffset": 31015
+                },
+                "b0070": {
+                    "endOffset": 31131,
+                    "startOffset": 31127
+                },
+                "b0075": {
+                    "endOffset": 31168,
+                    "startOffset": 31164
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Mel-frequency cepstral coefficients (MFCCs) [13] are used as common features for a wide range of acoustic pattern classification such as speech recognition [14] and music information retrieval [15].",
+            "startOffset": 30971,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32618,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This would free the huge amount of human resources needed to validate the noise data and improve and representativeness of the results in environmental noise measurements.",
+            "startOffset": 32447,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37969,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For the case study (see Section 4), colours are defined in following manner: green colour denotes SPL values under 45 dB, yellow denotes SPL values between 45 dB and 55 dB, and red denotes SPL value over 55 dB, the national limit for outdoor noise in residential areas.",
+            "startOffset": 37700,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 61110,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "In this case, a classification system with multiple noise source classes was built.",
+            "startOffset": 61027,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 62312,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The data will be made available for all the purposes it is needed: mapping and monitoring of emissions, noise, aerosols etc.",
+            "startOffset": 62188,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 63563,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "It was shown that environmental noise monitoring could be enhanced by separating between the target and interfering noise sources and implementing this approach to the sensor level.",
+            "startOffset": 63382,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 29817,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This requires a huge amount of resources because of a large amount of data due to often necessary long-term measurements.",
+            "startOffset": 29696,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 63370,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "However, during a long period when the direct sunlight is limited, or does not exist at all (e.g. winter north of Arctic Circle), external power is needed.",
+            "startOffset": 63215,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 64519,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "The quantitative evaluation showed that the noise source classification using the proposed approach was accurate enough: on a temporal resolution of one second, F-score of 0.938 with the best investigated classifier was achieved.",
+            "startOffset": 64290,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38636,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Three type of graphs are used to visualise measurement with differently assigned data: firstly showing all SPL measurements as such, secondly showing SPL measurements and sound source probability at current time interval denoted with colour intensity under the curve, and thirdly showing only SPL measurements assigned for targeted sound source.",
+            "startOffset": 38291,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 51159,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The rock crushing activity is rather continuous and long-lasting, which made the annotation easy in most cases.",
+            "startOffset": 51048,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 40694,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Most of the commercially available sound level meters conform this standard requirements.",
+            "startOffset": 40605,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 37080,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The sound pressure level (SPL) measurements can be filtered based on the sound source classification results to show measurements for assigned to particular sound source.",
+            "startOffset": 36910,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 63798,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "A credit-card-sized single-board computer, Raspberry Pi, was found to be powerful enough for automatic source classification.",
+            "startOffset": 63673,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 30465,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, a simple hand-crafted classification rule can hardly provide good accuracy in a complex environment, e.g. monitored target producing several types of sounds.",
+            "startOffset": 30299,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32005,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 31916,
+                    "startOffset": 31912
+                },
+                "b0115": {
+                    "endOffset": 32004,
+                    "startOffset": 32000
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Together with the smaller and cheaper computing capacity, the breakthrough of wireless technology in the very beginning of 2000s have made possible to translate the physical world into information [22] and given reason to define concepts like Internet of Things and ubiquitous sensing [23].",
+            "startOffset": 31715,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35613,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Whenever the 60 W panel gets solar energy, the batteries start charging, system is powered up, a secure cloud service connection is established, and pre-processed real-time noise data flow to the online service is initiated.",
+            "startOffset": 35389,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 40464,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Administrative users like governmental authorities are presented accurate measurement reports to help to follow the average noise levels over longer time segments often used in official noise management.",
+            "startOffset": 40261,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 42291,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Possible background noises may be caused by e.g. traffic, wind, rain, thunder, and birds.",
+            "startOffset": 42202,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 35306,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Based on preliminary tests, solar power was selected to allow totally wireless sensors.",
+            "startOffset": 35219,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 53328,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The acoustic features (MFCCs) from an audio signal which was sampled at 22,055 Hz.",
+            "startOffset": 53246,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 49538,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The audio data was captured near a rock crushing plant (Fig. 6).",
+            "startOffset": 49474,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 49814,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The most prominent sound sources in the plant are two rock-rushers denoted as red circles: a fixed rock-crusher and a mobile rock-crusher.",
+            "startOffset": 49676,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 57340,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The leading factor of the computation time in the source classification algorithm is the audio analysis frame length, which determines the number of frames to process.",
+            "startOffset": 57173,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28716,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Also, a single point noise measurement is rarely representative for a whole neighbourhood and several sensor locations are needed.",
+            "startOffset": 28586,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35970,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The total cost of the components is about 150 \u20ac, the solar panel being the most expensive component, but the price could be reduced in mass production, or using an external power source.",
+            "startOffset": 35784,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 63214,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The solar powered sensor was optimised for average summer conditions, so that the batteries keep the system running at the night time.",
+            "startOffset": 63080,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 64723,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "Also, a cloud service and a noise portal were introduced.",
+            "startOffset": 64666,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35783,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The batteries, when fully charged, will keep the system running during the dark hours.",
+            "startOffset": 35697,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 34708,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "For the prototype, the credit-card-sized RPi (Raspberry Pi) developed by the Raspberry Pi Foundation was selected mainly due to its excellent support network and general usability.",
+            "startOffset": 34528,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 37244,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Example view from the portal is shown in Fig. 3.",
+            "startOffset": 37196,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 40831,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 40830,
+                    "startOffset": 40823
+                },
+                "b0140": {
+                    "endOffset": 40830,
+                    "startOffset": 40823
+                },
+                "b0145": {
+                    "endOffset": 40830,
+                    "startOffset": 40823
+                }
+            },
+            "secId": "s0025",
+            "sentence": "There have been attempts to integrate sound measuring capabilities also to other instrumentation or devices, like mobile phones [27\u201329].",
+            "startOffset": 40695,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 30298,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 30297,
+                    "startOffset": 30293
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Previous validation algorithms on sensors have been limited to hand-crafted rule-based systems [12].",
+            "startOffset": 30198,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53211,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "A reliability evaluation was made by examining the results transmitted to the web portal.",
+            "startOffset": 53122,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 50281,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Beside the rock-crushers, another significant type of a target sound was made by lift-trucks, which feeded rocks to the crushers and distributed the produced stones.",
+            "startOffset": 50116,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 32090,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The word \u201dsmart\u201d was first used as an attribute to a sensor with an Internet access.",
+            "startOffset": 32006,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30970,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "An pattern classification algorithm typically consists of a feature extractor and a classifier.",
+            "startOffset": 30875,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33021,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Additionally, an evaluation of the performance of the algorithms in a case study is shown (Section 4) and some discussion the requirements and the future work in Section 5.",
+            "startOffset": 32849,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51273,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In a few cases, the onset and offset of the target sound were hard to determine due to overlapping sound sources.",
+            "startOffset": 51160,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 61230,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "There are many kind of sound sources in the port area, some of them being also present in the neighbouring environment.",
+            "startOffset": 61111,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 62701,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "refoffsets": {
+                "b0210": {
+                    "endOffset": 62700,
+                    "startOffset": 62696
+                }
+            },
+            "secId": "s0100",
+            "sentence": "To increase the validity of the classification, multiple sensors could be used to also analyse the direction of arrival of sounds [42].",
+            "startOffset": 62566,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 28246,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Airports, (wind) power plants, rock-crushing, shooting ranges, and motorsport tracks are examples of noise sources for which sound propagation over several kilometers is relevant.",
+            "startOffset": 28067,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42954,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "An example of the system output is given in Fig. 5.",
+            "startOffset": 42903,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 59454,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "However, annotated recordings in more diverse conditions are typically required to achieve a similar accuracy as obtained in the quantitative evaluation with one second temporal resolution.",
+            "startOffset": 59265,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 41041,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The driving force in these studies has been the need for spatially more representative data and fulfilling the accuracy requirements of the instrumentation for standardised measurements has not been addressed.",
+            "startOffset": 40832,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 62418,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "It is possible to get accumulated standardised descriptors and conventional reports for various purposes.",
+            "startOffset": 62313,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 29391,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, also other noise sources exist and the captured noise level is usually a result of a combination of the target and interfering sound sources: wind-generated, cars, and birds being examples.",
+            "startOffset": 29193,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38051,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The limits shall be adjusted in accordance with the national law for each target.",
+            "startOffset": 37970,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 28383,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "One challenge in environmental noise monitoring is how to make sufficiently comprehensive measurements both in time domain and spatially.",
+            "startOffset": 28246,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 61362,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "The noise data was annotated with an interactive clustering method, by which a cluster of sounds were annotated or skipped at once.",
+            "startOffset": 61231,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 41985,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "In the proposed automatic target source detection system, noises are defined into two classes.",
+            "startOffset": 41891,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 53672,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The number of coefficients (k) was studied as a variable.",
+            "startOffset": 53615,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 61888,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "It should be noted that the results might be optimistic since the segments not clearly belonging to any of the classes might have been skipped in the annotation with interactive clustering.",
+            "startOffset": 61699,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 62566,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "Also, it is possible to comment the visualised, and, possibly auralised, results on a time line to make feedback possible to the responsible party.",
+            "startOffset": 62419,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 64198,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "Mel-frequency cepstral coefficients were used as acoustic features and the classification was made using a supervised classifier (GMM and ANN), learned from annotated audio recordings.",
+            "startOffset": 64014,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 51483,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "A quantitative evaluation was made on the target noise detection performance with temporal resolution of one second.",
+            "startOffset": 51367,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 52248,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Precision is the fraction of the predicted target activities that are correct, whereas recall is the fraction of the actual target activities that are predicted.",
+            "startOffset": 52087,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 56609,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The estimated classification time does not largely depend on the number of the model parameters.",
+            "startOffset": 56513,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35051,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Additional functionality was added by an audio codec (a 24-bit multi-bit sigma delta AD converter), a smart power management board with an uninterruptible power supply feature, and mobile connectivity.",
+            "startOffset": 34850,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 49597,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The location of the sensor is indicated by a red triangle.",
+            "startOffset": 49539,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 35696,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "It is also possible to access the sensor unit remotely through the online service.",
+            "startOffset": 35614,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 57608,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "To evaluate the reliability of the proposed system, the hour-level measurement and detection results visualised in the web portal (Fig. 3) were examined.",
+            "startOffset": 57455,
+            "title": "Results"
+        },
+        {
+            "endOffset": 48738,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The target sound source is detected as being active when the target likelihood is over a threshold (default value 0.5), otherwise inactive.",
+            "startOffset": 48599,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 28066,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 27974,
+                    "startOffset": 27963
+                },
+                "b0010": {
+                    "endOffset": 28065,
+                    "startOffset": 28055
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Environmental noise, defined as unwanted or harmful outdoor sound created by human activities [1, Art. 3], can be generated by traffic, industry, construction, and recreation activities [2, p. 12].",
+            "startOffset": 27869,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57091,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "A feasible implementation would use less than 70% of real-time for feature extraction and classification.",
+            "startOffset": 56986,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60565,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "If there were ten classes in the same setup, the classification with ANN would have been about five times faster than GMM.",
+            "startOffset": 60443,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 61026,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "In addition to the rock crushing case study described above, a preliminary study on a set of noise samples from the port of Dublin was made.",
+            "startOffset": 60886,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 36910,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The measurements are accessible through a web-based user interface, which combines a large amount of measurements in an easily readable format by using data visualisation and data reports.",
+            "startOffset": 36722,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 52086,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The F-score is calculated as a harmonic mean of precision and recall.",
+            "startOffset": 52017,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 55100,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The selected values are shown in bold font and the computational requirements for the feature extraction is expressed as a time ratio to the estimate of real-time.",
+            "startOffset": 54937,
+            "title": "Results"
+        },
+        {
+            "endOffset": 64875,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "The sensors transmitted the results to the cloud service and the portal was for visualisation of the results, statistical analysis, and data archiving.",
+            "startOffset": 64724,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 48480,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "For each class, a score is computed as the sum of log-likelihoods (the logarithm of the likelihoods) of each frame in the corresponding second.",
+            "startOffset": 48337,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 42652,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The detection system consists of two stages: the training stage and the monitoring stage (see Fig. 4).",
+            "startOffset": 42550,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 58374,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The learned classifiers achieved F-scores 0.913 and 0.924.",
+            "startOffset": 58316,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 32446,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The main objective of this study was to show if it would be possible to automatically capture only the noise from the original source, by adding intelligence and human hearing-like decision algorithms to the sensor.",
+            "startOffset": 32231,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31393,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 31392,
+                    "startOffset": 31385
+                },
+                "b0090": {
+                    "endOffset": 31392,
+                    "startOffset": 31385
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Specifically, the combination of MFCCs and GMM has been used for various noise monitoring scenarios [17,18].",
+            "startOffset": 31285,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48336,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "At the monitoring stage, a detection is made in one second non-overlapping segments.",
+            "startOffset": 48252,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 29991,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A considerable amount of manual work can be saved by automatically validating sound sources.",
+            "startOffset": 29899,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48896,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The precision and recall are later introduced in Section 4.3.",
+            "startOffset": 48835,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 41671,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 41670,
+                    "startOffset": 41667
+                },
+                "b0150": {
+                    "endOffset": 41615,
+                    "startOffset": 41611
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Considering the uncertainty of the measurements, the fact is that the influence of instrumentation can be considered low [30] compared to the effect of environmental conditions [5].",
+            "startOffset": 41490,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 58603,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "When using the first half or the second half of a day data for training, the learned classifier achieved less than 0.8 F-score.",
+            "startOffset": 58476,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 56451,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "ANN achieves the best F-score and takes the least time to compute.",
+            "startOffset": 56385,
+            "title": "Results"
+        },
+        {
+            "endOffset": 58052,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "With this assumption, almost all the target detection results were correct (1198/1200).",
+            "startOffset": 57965,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60740,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "In the one-minute audio test on a ten class case, it took 0.32 s for the ANN classifier and 1.48 s for the GMM classifier using a Python implementation in a desktop computer.",
+            "startOffset": 60566,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 30875,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The increased computational capacity has made a sensor possible to classify noise sources using a pattern classification algorithm, which is capable of learning a sophisticated noise source classifier for an arbitrary scenario, simply using relevant annotated recordings as training material.",
+            "startOffset": 30583,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54936,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "A quantitative evaluation of the results is shown in Table 1.",
+            "startOffset": 54875,
+            "title": "Results"
+        },
+        {
+            "endOffset": 64013,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "The activity of the noise source was detected by making a binary classification between the target and the background.",
+            "startOffset": 63895,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 37699,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In preliminary studies, three colours were observed to give sufficient visualisation of measured SPL values.",
+            "startOffset": 37591,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 50814,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "On the contrary, traffic noise coming from the road and the noise generated by the wind and the trees were two significant types of background sound sources.",
+            "startOffset": 50657,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 37451,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The calendar heat-maps are used to visualise the average SPL values over certain time span (one day, one hour) with a colour of a calendar cell, an example of this is shown as measurement calendar in Fig. 3.",
+            "startOffset": 37244,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 57455,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "In comparison, the computation time is not much affected by other the factors such as the neural network topology.",
+            "startOffset": 57341,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32848,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The general concept of the noise monitoring system is explained in Section 2 and the pattern classification algorithms are given in Section 3.",
+            "startOffset": 32706,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 65185,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "By using this approach, the reliability, validity, and the spatial coverage of environmental noise monitoring will be increased.",
+            "startOffset": 65057,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 57172,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This has to be taken into account when choosing the features and the classifier.",
+            "startOffset": 57092,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31715,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 31714,
+                    "startOffset": 31707
+                },
+                "b0100": {
+                    "endOffset": 31714,
+                    "startOffset": 31707
+                },
+                "b0105": {
+                    "endOffset": 31714,
+                    "startOffset": 31707
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Some recent studies have shown that ANN outperforms traditional GMM in sound event detection [19\u201321].",
+            "startOffset": 31614,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52016,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "refoffsets": {
+                "b0190": {
+                    "endOffset": 51948,
+                    "startOffset": 51944
+                }
+            },
+            "secId": "s0065",
+            "sentence": "The target source detection performance was evaluated using F-score [38], which is often used to evaluate binary classification performance.",
+            "startOffset": 51876,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 28585,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 28473,
+                    "startOffset": 28470
+                },
+                "b0020": {
+                    "endOffset": 28584,
+                    "startOffset": 28579
+                },
+                "b0025": {
+                    "endOffset": 28584,
+                    "startOffset": 28579
+                },
+                "b0030": {
+                    "endOffset": 28584,
+                    "startOffset": 28579
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The changes in weather conditions have a significant effect on monitored noise levels [3] and in order to obtain most of the variations the noise has to be monitored for extended periods of time [4\u20136].",
+            "startOffset": 28384,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49454,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The plant has regular working hours, thus the reliability of the target activity detection could be easily verified.",
+            "startOffset": 49338,
+            "title": "A case study: rock-crushing plant"
+        },
+        {
+            "endOffset": 59603,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The performance of the classifiers GMM and ANN was practically the same in the evaluation.",
+            "startOffset": 59513,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 42446,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The activity of the target sources is detected by analysing continuous audio input and making binary classification between the background and the target.",
+            "startOffset": 42292,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 29695,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The most common method to ensure the noise was caused by the original source is listening through all the samples afterwards.",
+            "startOffset": 29570,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52688,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The file read/write, SPL measurement, feature extraction, and classification process takes 51 s for a one minute signal, fast enough for real-time execution (85%).",
+            "startOffset": 52525,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 56512,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "However, the difference between ANN and GMM is rather small.",
+            "startOffset": 56452,
+            "title": "Results"
+        },
+        {
+            "endOffset": 59264,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In the reliability evaluation, it was shown that the system was able to do accurate hour-level classification in varying weather conditions by using annotated data of one day captured in good weather conditions.",
+            "startOffset": 59053,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 50898,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Example sound spectra of rock crushing, a car passing, and wind is given in Fig. 7.",
+            "startOffset": 50815,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 58766,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "This suggests that the training material should contain recordings from different times of a day to cover the most of the variability of the environmental sounds.",
+            "startOffset": 58604,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 28896,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Because of high costs of the equipment and the amount of human resources needed, the reliability, validity, and representativeness of environmental data is usually unsatisfactory.",
+            "startOffset": 28717,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53121,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The developed classifier was imported to the sensor and it continuously performed noise measurement and source classification for 50 days.",
+            "startOffset": 52983,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 59902,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "In contrast to the GMM, the ANN has to re-estimate all the parameters to introduce a new class.",
+            "startOffset": 59807,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 62187,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In the future, all the data from a large number of various networked sources, already available or from the autonomous smart sensors, will be centralised to a cloud service, where the data is accessible to a various groups of people: public, authorities, and to the dedicated users.",
+            "startOffset": 61905,
+            "title": "Sensor network"
+        },
+        {
+            "endOffset": 59053,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 59000,
+                    "startOffset": 58996
+                }
+            },
+            "secId": "s0080",
+            "sentence": "As an example of small datasets, ESC-10 [41] contains at most 200 s audio for each of 10 classes.",
+            "startOffset": 58956,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 29569,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 29568,
+                    "startOffset": 29564
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Sound level meters used for noise monitoring either capture sound levels or time domain noise data and store the data locally \u2013 or nowadays more often \u2013 on a remote server [11].",
+            "startOffset": 29392,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 61698,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "The ten classes were alarm sounds, bird chirping, mild fans, strong fans, traffic noise, engine noise, footsteps, musical concert, raining, and wind blocking the microphone.",
+            "startOffset": 61525,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 48834,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The threshold can be tuned in case that precision is more important than recall, or vice versa.",
+            "startOffset": 48739,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 39991,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "If the commented time-stamp has a stored audio associated to it, the site manager can also audition it in this stage.",
+            "startOffset": 39874,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 41324,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The presented approach balances between these two extremes: the goal for design is to conform at least class 2 requirements, but still to keep the costs low so that the number of units in any implementation may be several times higher than using the conventional sound level meters.",
+            "startOffset": 41042,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 48598,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Automatic detection of target sources"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The target likelihood in Fig. 5 is calculated as the score of target class divided by the sum score from all classes.",
+            "startOffset": 48481,
+            "title": "Training and monitoring"
+        },
+        {
+            "endOffset": 49675,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The location of the nearest habitation house is indicated by the blue square.",
+            "startOffset": 49598,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 38290,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The measurement graph is used to visualise the SPL values against the measurement time-stamp, an example of this is shown in the lower panel in Fig. 3.",
+            "startOffset": 38139,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 37590,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The heat-map collapses SPL measurements within one hour into one number and decodes it into colours based on location-specific SPL limits.",
+            "startOffset": 37452,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 65056,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "This approach makes it possible to extend the system towards noise management and, due to the minimal cost per sensor unit, towards real-time noise mapping with real measured data.",
+            "startOffset": 64876,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 50997,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Two days of audio data were annotated and used to develop and evaluate the target detection system.",
+            "startOffset": 50898,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 51047,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The data was manually annotated (like in Fig. 5).",
+            "startOffset": 50998,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 53543,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "4096 point discrete Fourier transform and 40 Mel bands were used.",
+            "startOffset": 53478,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 38763,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The noise monitoring location specific SPL limits (same as in calendar heat-map) are shown in the graph with horizontal lines.",
+            "startOffset": 38637,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 37195,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In the service the measurement data is visualised in multiple ways: calendar heat-maps, graphs, and report tables.",
+            "startOffset": 37081,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 49337,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The feasibility of the proposed concept was evaluated with one sensor node next to the plant.",
+            "startOffset": 49244,
+            "title": "A case study: rock-crushing plant"
+        },
+        {
+            "endOffset": 60157,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Typically ANN outperforms GMM when the number of classes is large.",
+            "startOffset": 60091,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 41490,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The calibration of the unit is performed using a conventional sound level calibrator equipped with a specially manufactured 1\u201d adapter on the microphone of the unit.",
+            "startOffset": 41325,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 60090,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 60079,
+                    "startOffset": 60075
+                }
+            },
+            "secId": "s0090",
+            "sentence": "Another benefit of using the GMM is that it is easier to adapt so that the classifier could adapt to small changes of the environment over time, using maximum a posteriori [16] algorithm.",
+            "startOffset": 59903,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 64289,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "The performance of the developed methods was evaluated in a rock crushing plant case study.",
+            "startOffset": 64198,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 43017,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The training algorithm needs only annotation of target sounds.",
+            "startOffset": 42955,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 50115,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The distance between the sensor and the fixed rock-crusher was about 280 m measured from their GPS coordinates and the distance between the sensor and the mobile rock-crusher was about 500 m. Even though the mobile rock-crusher is able to change its position, it was stationary during the case study.",
+            "startOffset": 49815,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 55258,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Besides the detection performance, the estimated computation time (the feature extraction time) is shown for the sensor implementation compared to real time.",
+            "startOffset": 55101,
+            "title": "Results"
+        },
+        {
+            "endOffset": 59806,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Adding a new class to the GMM classifier is easier, since statistics of the existing classes stay unchanged when a new class is added.",
+            "startOffset": 59672,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 51581,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "A two-folded validation, swapping the data of day 1 and day 2 for training and testing, was used.",
+            "startOffset": 51484,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 34849,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "RPi1, the first generation model was used in the prototype because it was the only available model in 2012 when the implementation was made.",
+            "startOffset": 34709,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 58882,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In environmental sound classification, a training set with a few hours can currently be regarded as a large dataset.",
+            "startOffset": 58766,
+            "title": "Required amount of annotated recordings"
+        },
+        {
+            "endOffset": 60322,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The number of the ANN parameters does not significantly increase with the number of classes, whereas the number of GMMs depends linearly from the number of classes.",
+            "startOffset": 60158,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 40260,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This should alleviate many negative attitudes related environmental noise and noise monitoring.",
+            "startOffset": 40165,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 40604,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 40520,
+                    "startOffset": 40516
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Standard IEC 61672-1:2002 [26] specifies three kinds of sound measuring instruments in two performance categories.",
+            "startOffset": 40490,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 57964,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "It was assumed that the work in the plant could begin one hour later and end one hour earlier than the regular working hours (Mon-Fri, 8:00\u201315:00).",
+            "startOffset": 57817,
+            "title": "Results"
+        },
+        {
+            "endOffset": 61524,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Ten classes of sound sources were present in the evaluation and the average recognition rate was 81%.",
+            "startOffset": 61423,
+            "title": "Extension to monitoring multiple target classes"
+        },
+        {
+            "endOffset": 29192,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The typical need for measurements is to monitor the noise caused by a noise source (e.g. an airport or an industrial plant) in a residential area.",
+            "startOffset": 29046,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35388,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The electronics and batteries were built inside a solar panel frame (see Fig. 2).",
+            "startOffset": 35307,
+            "title": "Smart sensor"
+        },
+        {
+            "endOffset": 29046,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 29045,
+                    "startOffset": 29039
+                },
+                "b0040": {
+                    "endOffset": 29045,
+                    "startOffset": 29039
+                },
+                "b0045": {
+                    "endOffset": 29045,
+                    "startOffset": 29039
+                },
+                "b0050": {
+                    "endOffset": 29045,
+                    "startOffset": 29039
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Only a few reported scientific experiments with uninterrupted noise data captured from each relevant location over long periods of time exist [7\u201310].",
+            "startOffset": 28897,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31613,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The use of artificial neural network (ANN) for acoustic pattern classification has been increasing with the development of computing power and new training algorithms that allow utilising large amounts of training data.",
+            "startOffset": 31394,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32231,
+            "parents": [],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 32230,
+                    "startOffset": 32226
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Today, it is more closely related to a sensor with own intelligence, some computational capacity for data analysis and decision making [24].",
+            "startOffset": 32091,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42130,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Sounds propagating from the target sources belong to a target class, whereas interfering noises as well as silence belong to a background class.",
+            "startOffset": 41986,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 41853,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The representativeness of data increases validity of an environmental noise measurement and this is achieved by both the increased spatial coverage and classified noise source data.",
+            "startOffset": 41672,
+            "title": "Validity of the results"
+        },
+        {
+            "endOffset": 43113,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Traffic sounds, regarded as background in 5 are annotated to help understand the system output.",
+            "startOffset": 43018,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 51876,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The ground truth of a one second segment was seen as a target, when the target sound lasted longer than 0.1 s according to the annotation, otherwise judged as background noise.",
+            "startOffset": 51700,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 29899,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Also, if only noise levels are recorded, validation by listening is not possible.",
+            "startOffset": 29818,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32705,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "An implementation of a noise classification algorithms in a sensor will be introduced.",
+            "startOffset": 32619,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42902,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The learned acoustic models are used to classify audio captured on a sensor, to detect the activity of target, in the monitoring stage.",
+            "startOffset": 42767,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 51348,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In these cases, a 0.4 s uncertainty was associated to the onset or offset.",
+            "startOffset": 51274,
+            "title": "Captured noise data"
+        },
+        {
+            "endOffset": 53477,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The audio signal was further analysed at a frame length of 100 ms with a 50% overlap between neighbouring frames and windowed with a Hamming window.",
+            "startOffset": 53329,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 52983,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The sensor implementation was used as a benchmark and computation time of other feature extractors and classifiers were estimated using a Python implementation, assuming that the computation time had always the same proportion between the implementation in the sensor and in any other computer.",
+            "startOffset": 52689,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 63673,
+            "parents": [],
+            "secId": "s0105",
+            "sentence": "Also, an autonomous and a low-cost sensor implementation with a connection to a cloud service was introduced.",
+            "startOffset": 63564,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 52440,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "In order to study the feasibility of real-time execution and to find the most relevant factor to computation time, the computation time was evaluated for feature extraction and classification.",
+            "startOffset": 52248,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 54874,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The parts of the system were evaluated to select the features and the classifiers.",
+            "startOffset": 54792,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60442,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "For example, ANN and GMM used approximately the same time in the computational time test for the binary classification.",
+            "startOffset": 60323,
+            "title": "Selection of classifier"
+        },
+        {
+            "endOffset": 51699,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "A detection output, either active or inactive, was obtained through the proposed system for every one-second segment.",
+            "startOffset": 51582,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 53928,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The features were normalised to zero mean and unit variance was based on the statistics of the training dataset.",
+            "startOffset": 53816,
+            "title": "Evaluated classification systems"
+        },
+        {
+            "endOffset": 39873,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Noise monitoring"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The site manager or a community liaison officer can use the feedback from the public to react noise levels and types, and reply directly to the comments.",
+            "startOffset": 39720,
+            "title": "Accessing data and visualisation"
+        },
+        {
+            "endOffset": 52524,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The target detection algorithm was implemented in C++ and was run in a sensor node.",
+            "startOffset": 52441,
+            "title": "Evaluation setup"
+        },
+        {
+            "endOffset": 50336,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "A case study: rock-crushing plant"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The sensor was located close to a road, near a forest.",
+            "startOffset": 50282,
+            "title": "Measurement setup"
+        },
+        {
+            "endOffset": 42766,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Acoustic models are learned from training examples, captured audio with manual annotation, in the training stage.",
+            "startOffset": 42653,
+            "title": "Automatic detection of target sources"
+        },
+        {
+            "endOffset": 59671,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Further analysis and future work"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The selection between GMM and ANN should be based on other aspects.",
+            "startOffset": 59604,
+            "title": "Selection of classifier"
+        }
+    ],
+    "docId": "S0003682X17307533",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "Panu.Maijala@vtt.fi",
+                "first": "Panu",
+                "initial": "P.",
+                "last": "Maijala"
+            },
+            {
+                "email": "Shuyang.Zhao@tut.fi",
+                "first": "Zhao",
+                "initial": "Z.",
+                "last": "Shuyang"
+            },
+            {
+                "email": "Toni.Heittola@tut.fi",
+                "first": "Toni",
+                "initial": "T.",
+                "last": "Heittola"
+            },
+            {
+                "email": "Tuomas.Virtanen@tut.fi",
+                "first": "Tuomas",
+                "initial": "T.",
+                "last": "Virtanen"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2017.08.006",
+        "firstpage": "258",
+        "issn": "0003682X",
+        "keywords": [
+            "Acoustic pattern classification",
+            "Cloud service",
+            "Environmental noise monitoring",
+            "Wireless sensor network"
+        ],
+        "lastpage": "267",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Environmental noise monitoring using source classification in sensors"
+    }
+}

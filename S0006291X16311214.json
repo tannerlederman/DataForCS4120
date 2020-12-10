@@ -1,0 +1,2217 @@
+{
+    "abstract": "Unlike mammals, zebrafish can regenerate their injured spinal cord and regain control of caudal tissues. It was recently shown that Wnt/\u03b2-catenin signaling is necessary for spinal cord regeneration in the larval zebrafish. However, the molecular mechanisms of regeneration may or may not be conserved between larval and adult zebrafish. To test this, we assessed the role of Wnt/\u03b2-catenin signaling after spinal cord injury in the adult zebrafish. We show that Wnt/\u03b2-catenin signaling is increased after spinal cord injury in the adult zebrafish. Moreover, overexpression of Dkk1b inhibited Wnt/\u03b2-catenin signaling in the regenerating spinal cord of adult zebrafish. Dkk1b overexpression also inhibited locomotor recovery, axon regeneration, and glial bridge formation in the injured spinal cord. Thus, our data illustrate a conserved role for Wnt/\u03b2-catenin signaling in adult and larval zebrafish spinal cord regeneration.",
+    "author_highlights": [
+        {
+            "endOffset": 9765,
+            "sentence": "Wnt/\u03b2-catenin signaling is increased after spinal cord injury in adult zebrafish.",
+            "startOffset": 9684
+        },
+        {
+            "endOffset": 9845,
+            "sentence": "Dkk overexpression inhibits Wnt/\u03b2-catenin signaling in the injured spinal cord.",
+            "startOffset": 9766
+        },
+        {
+            "endOffset": 9918,
+            "sentence": "Dkk overexpression inhibits locomotor recovery after spinal cord injury.",
+            "startOffset": 9846
+        },
+        {
+            "endOffset": 9990,
+            "sentence": "Dkk overexpression inhibits axon regeneration & glial bridge formation.",
+            "startOffset": 9919
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Becker"
+                },
+                {
+                    "first": "Mario F.",
+                    "initial": "M.F.",
+                    "last": "Wullimann"
+                },
+                {
+                    "first": "Catherina G.",
+                    "initial": "C.G.",
+                    "last": "Becker"
+                },
+                {
+                    "first": "Robert R.",
+                    "initial": "R.R.",
+                    "last": "Bernhardt"
+                },
+                {
+                    "first": "Melitta",
+                    "initial": "M.",
+                    "last": "Schachner"
+                }
+            ],
+            "doi": "10.1002/(sici)1096-9861(19970127)377:4<577::aid-cne8>3.0.co;2-%23",
+            "firstpage": "577",
+            "issn": "00219967",
+            "lastpage": "595",
+            "pmid": "9007194",
+            "pub_year": 1997,
+            "title": "Axonal regrowth after spinal cord transection in adult zebrafish",
+            "volume": "377"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Nicola",
+                    "initial": "N.",
+                    "last": "Blum"
+                },
+                {
+                    "first": "Gerrit",
+                    "initial": "G.",
+                    "last": "Begemann"
+                }
+            ],
+            "doi": "10.1242/dev.065391",
+            "firstpage": "107",
+            "issn": "09501991",
+            "lastpage": "116",
+            "pmid": "22096078",
+            "pub_year": 2011,
+            "title": "Retinoic acid signaling controls the formation, proliferation and survival of the blastema during adult zebrafish fin regeneration",
+            "volume": "139"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Enrico",
+                    "initial": "E.",
+                    "last": "Moro"
+                },
+                {
+                    "first": "Gunes",
+                    "initial": "G.",
+                    "last": "Ozhan-Kizil"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Mongera"
+                },
+                {
+                    "first": "Dimitris",
+                    "initial": "D.",
+                    "last": "Beis"
+                },
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Wierzbicki"
+                },
+                {
+                    "first": "Rodrigo M.",
+                    "initial": "R.M.",
+                    "last": "Young"
+                },
+                {
+                    "first": "Despina",
+                    "initial": "D.",
+                    "last": "Bournele"
+                },
+                {
+                    "first": "Alice",
+                    "initial": "A.",
+                    "last": "Domenichini"
+                },
+                {
+                    "first": "Leonardo E.",
+                    "initial": "L.E.",
+                    "last": "Valdivia"
+                },
+                {
+                    "first": "Lawrence",
+                    "initial": "L.",
+                    "last": "Lum"
+                },
+                {
+                    "first": "Chuo",
+                    "initial": "C.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "James F.",
+                    "initial": "J.F.",
+                    "last": "Amatruda"
+                },
+                {
+                    "first": "Natascia",
+                    "initial": "N.",
+                    "last": "Tiso"
+                },
+                {
+                    "first": "Gilbert",
+                    "initial": "G.",
+                    "last": "Weidinger"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Argenton"
+                }
+            ],
+            "doi": "10.1016/j.ydbio.2012.03.023",
+            "firstpage": "327",
+            "issn": "00121606",
+            "lastpage": "340",
+            "pmid": "22546689",
+            "pub_year": 2012,
+            "title": "In vivo Wnt signaling tracing through a transgenic biosensor fish reveals novel activity domains",
+            "volume": "366"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Cristofanilli"
+                },
+                {
+                    "first": "R. P.",
+                    "initial": "R.P.",
+                    "last": "Hart"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Hao"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Schachner"
+                }
+            ],
+            "doi": "10.1016/j.neuroscience.2010.10.026",
+            "firstpage": "329",
+            "issn": "03064522",
+            "lastpage": "341",
+            "pmid": "20951776",
+            "pub_year": 2011,
+            "title": "Transcription factor Sox11b is involved in spinal cord regeneration in adult zebrafish",
+            "volume": "172"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Subhra Prakash",
+                    "initial": "S.P.",
+                    "last": "Hui"
+                },
+                {
+                    "first": "Dhriti",
+                    "initial": "D.",
+                    "last": "Sengupta"
+                },
+                {
+                    "first": "Serene Gek Ping",
+                    "initial": "S.G.P.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Triparna",
+                    "initial": "T.",
+                    "last": "Sen"
+                },
+                {
+                    "first": "Sudip",
+                    "initial": "S.",
+                    "last": "Kundu"
+                },
+                {
+                    "first": "Sinnakaruppan",
+                    "initial": "S.",
+                    "last": "Mathavan"
+                },
+                {
+                    "first": "Sukla",
+                    "initial": "S.",
+                    "last": "Ghosh"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0084212",
+            "issn": "19326203",
+            "pmid": "24465396",
+            "pub_year": 2014,
+            "title": "Genome wide expression profiling during spinal cord regeneration identifies comprehensive cellular responses in zebrafish",
+            "volume": "9"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Andrei",
+                    "initial": "A.",
+                    "last": "Glinka"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Hajo",
+                    "initial": "H.",
+                    "last": "Delius"
+                },
+                {
+                    "first": "A. Paula",
+                    "initial": "A.P.",
+                    "last": "Monaghan"
+                },
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Blumenstock"
+                },
+                {
+                    "first": "Christof",
+                    "initial": "C.",
+                    "last": "Niehrs"
+                }
+            ],
+            "doi": "10.1038/34848",
+            "firstpage": "357",
+            "issn": "00280836",
+            "lastpage": "362",
+            "pmid": "9450748",
+            "pub_year": 1998,
+            "title": "Dickkopf-1 is a member of a new family of secreted proteins and functions in head induction",
+            "volume": "391"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Katarina",
+                    "initial": "K.",
+                    "last": "Vajn"
+                },
+                {
+                    "first": "Denis",
+                    "initial": "D.",
+                    "last": "Suler"
+                },
+                {
+                    "first": "Jeffery A.",
+                    "initial": "J.A.",
+                    "last": "Plunkett"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Oudega"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0105857",
+            "issn": "19326203",
+            "pmid": "25157957",
+            "pub_year": 2014,
+            "title": "Temporal profile of endogenous anatomical repair and functional recovery following spinal cord injury in adult zebrafish",
+            "volume": "9"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Yona",
+                    "initial": "Y.",
+                    "last": "Goldshmit"
+                },
+                {
+                    "first": "Frisca",
+                    "initial": "F.",
+                    "last": "Frisca"
+                },
+                {
+                    "first": "Alexander R.",
+                    "initial": "A.R.",
+                    "last": "Pinto"
+                },
+                {
+                    "first": "Alice",
+                    "initial": "A.",
+                    "last": "P\u00e9bay"
+                },
+                {
+                    "first": "Jean Kitty K.Y.",
+                    "initial": "J.K.K.Y.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Ashley L.",
+                    "initial": "A.L.",
+                    "last": "Siegel"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Kaslin"
+                },
+                {
+                    "first": "Peter D.",
+                    "initial": "P.D.",
+                    "last": "Currie"
+                }
+            ],
+            "doi": "10.1002/brb3.172",
+            "firstpage": "187",
+            "issn": "21623279",
+            "lastpage": "200",
+            "pmid": "24683512",
+            "pub_year": 2014,
+            "title": "Fgf2 improves functional recovery-decreasing gliosis and increasing radial glia and neural progenitor cells after spinal cord injury",
+            "volume": "4"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Shota",
+                    "initial": "S.",
+                    "last": "Sasagawa"
+                },
+                {
+                    "first": "Yuhei",
+                    "initial": "Y.",
+                    "last": "Nishimura"
+                },
+                {
+                    "first": "Yuka",
+                    "initial": "Y.",
+                    "last": "Hayakawa"
+                },
+                {
+                    "first": "Soichiro",
+                    "initial": "S.",
+                    "last": "Murakami"
+                },
+                {
+                    "first": "Yoshifumi",
+                    "initial": "Y.",
+                    "last": "Ashikawa"
+                },
+                {
+                    "first": "Mizuki",
+                    "initial": "M.",
+                    "last": "Yuge"
+                },
+                {
+                    "first": "Shiko",
+                    "initial": "S.",
+                    "last": "Okabe"
+                },
+                {
+                    "first": "Koki",
+                    "initial": "K.",
+                    "last": "Kawaguchi"
+                },
+                {
+                    "first": "Reiko",
+                    "initial": "R.",
+                    "last": "Kawase"
+                },
+                {
+                    "first": "Toshio",
+                    "initial": "T.",
+                    "last": "Tanaka"
+                }
+            ],
+            "doi": "10.3389/fphar.2016.00119",
+            "issn": "16639812",
+            "pub_year": 2016,
+            "title": "E2F4 promotes neuronal regeneration and functional recovery after spinal cord injury in zebrafish",
+            "volume": "7"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Michell M.",
+                    "initial": "M.M.",
+                    "last": "Reimer"
+                },
+                {
+                    "first": "Inga",
+                    "initial": "I.",
+                    "last": "S\u00f6rensen"
+                },
+                {
+                    "first": "Veronika",
+                    "initial": "V.",
+                    "last": "Kuscha"
+                },
+                {
+                    "first": "Rebecca E.",
+                    "initial": "R.E.",
+                    "last": "Frank"
+                },
+                {
+                    "first": "Chong",
+                    "initial": "C.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Catherina G.",
+                    "initial": "C.G.",
+                    "last": "Becker"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Becker"
+                }
+            ],
+            "doi": "10.1523/JNEUROSCI.1189-08.2008",
+            "firstpage": "8510",
+            "issn": "02706474",
+            "lastpage": "8516",
+            "pmid": "18716209",
+            "pub_year": 2008,
+            "title": "Motor neuron regeneration in adult zebrafish",
+            "volume": "28"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Yona",
+                    "initial": "Y.",
+                    "last": "Goldshmit"
+                },
+                {
+                    "first": "Tamar E.",
+                    "initial": "T.E.",
+                    "last": "Sztal"
+                },
+                {
+                    "first": "Patricia R.",
+                    "initial": "P.R.",
+                    "last": "Jusuf"
+                },
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Hall"
+                },
+                {
+                    "first": "Mai",
+                    "initial": "M.",
+                    "last": "Nguyen-Chi"
+                },
+                {
+                    "first": "Peter D.",
+                    "initial": "P.D.",
+                    "last": "Currie"
+                }
+            ],
+            "doi": "10.1523/JNEUROSCI.0758-12.2012",
+            "firstpage": "7477",
+            "issn": "02706474",
+            "lastpage": "7492",
+            "pmid": "22649227",
+            "pub_year": 2012,
+            "title": "Fgf-dependent glial cell bridges facilitate spinal cord regeneration in Zebrafish",
+            "volume": "32"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Ken",
+                    "initial": "K.",
+                    "last": "Muneoka"
+                },
+                {
+                    "first": "Gregory",
+                    "initial": "G.",
+                    "last": "Holler\u2010Dinsmore"
+                },
+                {
+                    "first": "Susan V.",
+                    "initial": "S.V.",
+                    "last": "Bryant"
+                }
+            ],
+            "doi": "10.1002/jez.1402400107",
+            "firstpage": "47",
+            "issn": "0022104X",
+            "lastpage": "54",
+            "pmid": "3772329",
+            "pub_year": 1986,
+            "title": "Intrinsic control of regenerative loss in Xenopus laevis limbs",
+            "volume": "240"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Enzo R.",
+                    "initial": "E.R.",
+                    "last": "Porrello"
+                },
+                {
+                    "first": "Ahmed I.",
+                    "initial": "A.I.",
+                    "last": "Mahmoud"
+                },
+                {
+                    "first": "Emma",
+                    "initial": "E.",
+                    "last": "Simpson"
+                },
+                {
+                    "first": "Joseph A.",
+                    "initial": "J.A.",
+                    "last": "Hill"
+                },
+                {
+                    "first": "James A.",
+                    "initial": "J.A.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Eric N.",
+                    "initial": "E.N.",
+                    "last": "Olson"
+                },
+                {
+                    "first": "Hesham A.",
+                    "initial": "H.A.",
+                    "last": "Sadek"
+                }
+            ],
+            "doi": "10.1126/science.1200708",
+            "firstpage": "1078",
+            "issn": "00368075",
+            "lastpage": "1080",
+            "pmid": "21350179",
+            "pub_year": 2011,
+            "title": "Transient regenerative potential of the neonatal mouse heart",
+            "volume": "331"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Lisa K.",
+                    "initial": "L.K.",
+                    "last": "Briona"
+                },
+                {
+                    "first": "Fabienne E.",
+                    "initial": "F.E.",
+                    "last": "Poulain"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Mosimann"
+                },
+                {
+                    "first": "Richard I.",
+                    "initial": "R.I.",
+                    "last": "Dorsky"
+                }
+            ],
+            "doi": "10.1016/j.ydbio.2015.03.025",
+            "firstpage": "15",
+            "issn": "00121606",
+            "lastpage": "21",
+            "pmid": "25888075",
+            "pub_year": 2015,
+            "title": "Wnt/\u00df-catenin signaling is required for radial glial neurogenesis following spinal cord injury",
+            "volume": "403"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Lijoy K.",
+                    "initial": "L.K.",
+                    "last": "Mathew"
+                },
+                {
+                    "first": "Sumitra",
+                    "initial": "S.",
+                    "last": "Sengupta"
+                },
+                {
+                    "first": "Jill A.",
+                    "initial": "J.A.",
+                    "last": "Franzosa"
+                },
+                {
+                    "first": "Jessica",
+                    "initial": "J.",
+                    "last": "Perry"
+                },
+                {
+                    "first": "Jane",
+                    "initial": "J.",
+                    "last": "La Du"
+                },
+                {
+                    "first": "Eric A.",
+                    "initial": "E.A.",
+                    "last": "Andreasen"
+                },
+                {
+                    "first": "Robert L.",
+                    "initial": "R.L.",
+                    "last": "Tanguay"
+                }
+            ],
+            "doi": "10.1074/jbc.M109.011668",
+            "firstpage": "33642",
+            "issn": "00219258",
+            "lastpage": "33653",
+            "pmid": "19801676",
+            "pub_year": 2009,
+            "title": "Comparative expression profiling reveals an essential role for Raldh2 in epimorphic regeneration",
+            "volume": "284"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Cristi L.",
+                    "initial": "C.L.",
+                    "last": "Stoick-Cooper"
+                },
+                {
+                    "first": "Gilbert",
+                    "initial": "G.",
+                    "last": "Weidinger"
+                },
+                {
+                    "first": "Kimberly J.",
+                    "initial": "K.J.",
+                    "last": "Riehle"
+                },
+                {
+                    "first": "Charlotte",
+                    "initial": "C.",
+                    "last": "Hubbert"
+                },
+                {
+                    "first": "Michael B.",
+                    "initial": "M.B.",
+                    "last": "Major"
+                },
+                {
+                    "first": "Nelson",
+                    "initial": "N.",
+                    "last": "Fausto"
+                },
+                {
+                    "first": "Randall T.",
+                    "initial": "R.T.",
+                    "last": "Moon"
+                }
+            ],
+            "doi": "10.1242/dev.001123",
+            "firstpage": "479",
+            "issn": "09501991",
+            "lastpage": "489",
+            "pmid": "17185322",
+            "pub_year": 2007,
+            "title": "Distinct Wnt signaling pathways have opposing roles in appendage regeneration",
+            "volume": "134"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Yasuhiko",
+                    "initial": "Y.",
+                    "last": "Kawakami"
+                },
+                {
+                    "first": "Concepci\u00f3n Rodriguez",
+                    "initial": "C.R.",
+                    "last": "Esteban"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Raya"
+                },
+                {
+                    "first": "Hiroko",
+                    "initial": "H.",
+                    "last": "Kawakami"
+                },
+                {
+                    "first": "Merc\u00e8",
+                    "initial": "M.",
+                    "last": "Mart\u00ed"
+                },
+                {
+                    "first": "Ilir",
+                    "initial": "I.",
+                    "last": "Dubova"
+                },
+                {
+                    "first": "Juan Carlos Izpis\u00faa",
+                    "initial": "J.C.I.",
+                    "last": "Belmonte"
+                }
+            ],
+            "doi": "10.1101/gad.1475106",
+            "firstpage": "3232",
+            "issn": "08909369",
+            "lastpage": "3237",
+            "pmid": "17114576",
+            "pub_year": 2006,
+            "title": "Wnt/\u03b2-catenin signaling regulates vertebrate limb regeneration",
+            "volume": "20"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 10523,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Unlike mammals, the zebrafish Danio rerio possesses a remarkable ability to regain locomotor function after spinal cord injury.",
+            "startOffset": 10396,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18145,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 18144,
+                    "startOffset": 18141
+                }
+            },
+            "secId": "sec2.7",
+            "sentence": "Locomotor analysis was performed with a swim score modified from a previous publication [3].",
+            "startOffset": 18053,
+            "title": "Locomotor analysis"
+        },
+        {
+            "endOffset": 23724,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 23723,
+                    "startOffset": 23720
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Acetylated tubulin labels regenerating axons in the injured zebrafish spinal cord [6].",
+            "startOffset": 23638,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 12825,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Moreover, expression of the gene encoding the Wnt ligand Wnt4b was increased after spinal cord injury.",
+            "startOffset": 12723,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12471,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 12470,
+                    "startOffset": 12467
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Previous work demonstrated that exposing larval zebrafish to the small molecule IWR1 inhibits Wnt/\u03b2-catenin signaling in the injured spinal cord and prevents axon elongation through the injury site [6].",
+            "startOffset": 12269,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13825,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Dkk1b induction was achieved by exposing Tg(Hsp70:Dkk1b-GFP) and age-matched wild type fish to water slowly increased from 28 \u00b0C to 37 \u00b0C.",
+            "startOffset": 13687,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 23974,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This suggests that Dkk1b overexpression inhibits axonal regeneration.",
+            "startOffset": 23905,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 17789,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Swimming capability was quantified at 14 and 28 days post injury by analyzing the total distance swum over a 5 min timespan.",
+            "startOffset": 17665,
+            "title": "Free swim analysis"
+        },
+        {
+            "endOffset": 16978,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Zebrafish, 4 h, 3, or 14 days post transection, were euthanized in an overdose of buffered tricaine methanesulfonate (MS-222) in fish tank water.",
+            "startOffset": 16833,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 23181,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 23180,
+                    "startOffset": 23177
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "We also assessed swimming phenotypes using a modified version of a semi-quantitative method that correlates with axonal regeneration through the lesion site in spinal cord transected fish [3].",
+            "startOffset": 22989,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 24324,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We observed an abundance of GFAP-positive cells with bipolar morphology in lesioned area of the spinal cord in No HS and HS WT fish, but not in HS Dkk fish (Fig. 2D).",
+            "startOffset": 24158,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 15233,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Fish exhibiting signs of pain were euthanized in an overdose of tricaine methanesulfonate (MS-222) in fish tank water.",
+            "startOffset": 15115,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 26114,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 26113,
+                    "startOffset": 26109
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Furthermore, recent work identified E2F4 as being increased after spinal cord regeneration in adult zebrafish, and that inhibition of E2F4 inhibited spinal cord regeneration in larval zebrafish [17].",
+            "startOffset": 25915,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 10715,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 10714,
+                    "startOffset": 10709
+                },
+                "bib2": {
+                    "endOffset": 10714,
+                    "startOffset": 10709
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Zebrafish are able to generate new motor neurons from progenitor populations in the spinal cord and also extend axons through the lesion site to form synapses caudal to the injury site [1,2].",
+            "startOffset": 10524,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23904,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We observed acetylated tubulin staining in the lesion site of both No HS and HS WT fish at 21 dpt, but did not observe robust acetylated tubulin staining in HS Dkk fish (Fig. 2C).",
+            "startOffset": 23725,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 19716,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Bar and line graphs all show means with error bars representing standard error of the means (SEM).",
+            "startOffset": 19618,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 24157,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, we labeled 14dpt spinal cords for GFAP, a marker of glia.",
+            "startOffset": 24094,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 17352,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Quantitative PCR was run on a Roche LightCycler 480.",
+            "startOffset": 17300,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 25701,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The use of adult zebrafish to study spinal cord regeneration offers numerous advantages, but also possesses limitations compared to a larval spinal cord injury model, including a longer recovery time and lack of optical transparency.",
+            "startOffset": 25468,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26592,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These approaches could expand our knowledge of zebrafish spinal cord regeneration and accelerate our ability to identify potential regulators of spinal cord regeneration in mammals.",
+            "startOffset": 26411,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13067,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Systemic overexpression of a secreted Wnt inhibitory protein Dkk1b after spinal cord transection inhibited activation of the \u03b2-catenin reporter in the spinal cord, as well as locomotor recovery, axon regeneration, and glial bridge formation.",
+            "startOffset": 12826,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20852,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, by 14 dpi, there were more Siam:mCherry-positive cells in transected fish compared to sham fish (Fig. 1A).",
+            "startOffset": 20737,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 21299,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To determine if the increase in \u03b2-catenin mediated transcription was related to Wnt ligand binding, we analyzed the expression of Wnt ligand genes in the spinal cords of sham and transected fish.",
+            "startOffset": 21104,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 25104,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This work also suggests that \u03b2-catenin signaling may be necessary for the formation of bipolar glia, which merits further study.",
+            "startOffset": 24976,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19617,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Significance was assessed as p < 0.05, and is indicated via asterisks.",
+            "startOffset": 19547,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 11499,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Zebrafish are capable of regenerating multiple tissues, including the spinal cord and fin, during both larval and adult stages.",
+            "startOffset": 11372,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16814,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Transverse sections within 1 mm of the injury site were used for quantification.",
+            "startOffset": 16734,
+            "title": "Cell counting"
+        },
+        {
+            "endOffset": 13918,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Fish remained at 37 \u00b0C for 60 min, and were slowly brought back to normal water temperature.",
+            "startOffset": 13826,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 18877,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Fluorescent images of sections were taken on a Nikon A1 confocal system attached to a Nikon Ti-E inverted microscope with NIS-elements software.",
+            "startOffset": 18733,
+            "title": "Image acquisition and processing"
+        },
+        {
+            "endOffset": 20424,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "For controls, we used fish that did not undergo operation (uninjured) or those in which only the body wall was opened (sham).",
+            "startOffset": 20299,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 11018,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Understanding the mechanisms governing zebrafish regeneration could provide insight into developing therapies for the treatment of spinal cord injury.",
+            "startOffset": 10868,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 11889,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the degree of conservation of the molecular mechanisms that govern regeneration at different developmental stages is unclear.",
+            "startOffset": 11755,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16177,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "After blocking slides for 1 h at room temperature, samples were incubated in antibody solution overnight at 4 \u00b0C.",
+            "startOffset": 16064,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 20977,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "By 42 dpi, the number of Siam:mCherry-positive cells in both sham and transected fish was not different from uninjured fish.",
+            "startOffset": 20853,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 12268,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We analyzed the role of Wnt/\u03b2-catenin signaling in spinal cord regeneration in zebrafish.",
+            "startOffset": 12179,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 10867,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 10866,
+                    "startOffset": 10863
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The process of axon regeneration also relies on the formation of bipolar glia, which act as scaffolds for the axon to move through the injury site [3].",
+            "startOffset": 10716,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18975,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "ImageJ was used to merge different channels and figures were assembled using Adobe Photoshop CS3.",
+            "startOffset": 18878,
+            "title": "Image acquisition and processing"
+        },
+        {
+            "endOffset": 10395,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Furthermore, mammals are unable to regenerate their spinal cords after injury.",
+            "startOffset": 10317,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15385,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Zebrafish, 0, 3, 14, or 21 dpi, were euthanized in an overdose of buffered tricaine methanesulfonate (MS-222) in fish tank water.",
+            "startOffset": 15256,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 14197,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All experiments were approved and conducted in accordance with University of Washington Institutional Animal Care and Use Committee (IACUC) protocol 2057-01 guidelines.",
+            "startOffset": 14029,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 23435,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These data suggest that Dkk1b overexpression inhibits functional recovery in adult zebrafish.",
+            "startOffset": 23342,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 19054,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Quantifications were done as indicated in the individual sections.",
+            "startOffset": 18988,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 18032,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The resulting files were then analyzed by Tracker software (Cabrillo.edu/\u223cdbrown/tracker) to calculate distance traveled in cm.",
+            "startOffset": 17905,
+            "title": "Free swim analysis"
+        },
+        {
+            "endOffset": 19433,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "All comparisons of 2 variables were analyzed using a T test, while groups of 3 or more were analyzed using a one-way ANOVA with Tukey post-hoc test, except for swim score analysis, which was analyzed with a Kruskal-Wallis test, and free swim analysis, which was analyzed by a two-way ANOVA with repeated measures.",
+            "startOffset": 19120,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 22698,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Because overexpression of Dkk1b inhibited \u03b2-catenin reporter activity after spinal cord injury, we tested if overexpression of Dkk1b inhibited functional recovery after spinal cord injury.",
+            "startOffset": 22510,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 13559,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 13427,
+                    "startOffset": 13423
+                },
+                "bib8": {
+                    "endOffset": 13509,
+                    "startOffset": 13506
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "siam:mCherry)ia5 [11] to visualize \u03b2-catenin responsive cells, heterozygous Tg(Hsp70l:Dkk1b-GFP)w32 [8] to inhibit \u03b2-catenin signaling, and Tg(7xTCF-Xla.",
+            "startOffset": 13406,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 12576,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, it is not known whether Wnt/\u03b2-catenin signaling is required for adult spinal cord regeneration.",
+            "startOffset": 12472,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22310,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Using Hsp70l:Dkk fish, Siam:mCherry double-transgenic fish, we found that fish with Dkk1b overexpression induced by daily heat-shock starting 4 h before spinal cord transection (HS Dkk) showed fewer mCherry-positive cells at 3 and 14 days post transection (dpt) compared to heat shock WT (HS WT) (Fig. 1C).",
+            "startOffset": 22004,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 22003,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 21959,
+                    "startOffset": 21956
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "We used transgenic fish (Tg(Hsp70l:Dkk1b-GFP)w32) with a heat-inducible promoter driving expression of Dkk1b [8], heretofore referred to as Hsp70l:Dkk fish.",
+            "startOffset": 21847,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 14970,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The gills of the fish were flushed in a tank of fish water by puffing water past the gills with a 3 mL plastic transfer pipette.",
+            "startOffset": 14842,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 23534,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 23533,
+                    "startOffset": 23529
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "The ability to recover swimming function correlates with axon regeneration in the spinal cord [15].",
+            "startOffset": 23435,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 11754,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 11753,
+                    "startOffset": 11748
+                },
+                "bib6": {
+                    "endOffset": 11753,
+                    "startOffset": 11748
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Furthermore, many of the cellular changes associated with regeneration are conserved between larvae and adults; for example, formation of the glial bridge that is necessary for axon elongation through the lesioned area of regenerating spinal cords [3,6].",
+            "startOffset": 11500,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 10316,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Spinal cord injury can lead to severe disabilities in mammals, including loss of motor function caudal to the injury site.",
+            "startOffset": 10194,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21846,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 21845,
+                    "startOffset": 21841
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "To determine if ligand-mediated activation of Wnt receptors is required for \u03b2-catenin reporter activity after spinal cord injury, we overexpressed Dkk1b, a secreted inhibitor of Wnt binding to LRP6 [14].",
+            "startOffset": 21643,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 11085,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The regenerative potential of animals generally decreases with age.",
+            "startOffset": 11018,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14724,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "At a point halfway between the operculum and the dorsal fin (at approximately the 8th vertebrae), an incision was made through the muscle layer and the vertebral column was exposed via retracting the muscle.",
+            "startOffset": 14517,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 17148,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Spinal cords were excised from the fish 1 mm rostral and caudal from the transection site, collecting the regenerating tissue into pools of n \u2265 3 spinal cords per group.",
+            "startOffset": 16979,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 25914,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our work demonstrates a conserved molecular mechanism in larval and adult zebrafish spinal cord regeneration, providing evidence that larval spinal cord regeneration is relevant to adult spinal cord regeneration.",
+            "startOffset": 25702,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24093,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 24092,
+                    "startOffset": 24089
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Axonal regeneration in the injured zebrafish spinal cord requires the formation of bipolar glia in the lesion site [3].",
+            "startOffset": 23974,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 20087,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To assess whether Wnt/\u03b2-catenin signaling increases after spinal cord injury, we used transgenic zebrafish with a fluorescent reporter of \u03b2-catenin-mediated transcription, Tg(7xTCF-Xla.",
+            "startOffset": 19902,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 15613,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Samples were washed with phosphate-buffered saline (PBS) and sunk in 10% sucrose for 2 h, followed by 30% sucrose overnight at 4 \u00b0C.",
+            "startOffset": 15481,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 14841,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The vertebral column was cut with microscissors before sealing the wound with a drop of vetbond (3 M, St. Paul, MN).",
+            "startOffset": 14725,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 14028,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Fish were exposed to heat shock at 4 h prior to surgery and resumed daily heat shocks at 2 days post surgery.",
+            "startOffset": 13919,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 19806,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "The number of fish used in each experiment is indicated in the appropriate figure legend.",
+            "startOffset": 19717,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 22989,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We found that HS WT fish showed an increase in distance swum between 14 and 28 dpt, whereas HS Dkk fish did not (Fig. 2A).",
+            "startOffset": 22867,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 11372,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 11371,
+                    "startOffset": 11368
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Furthermore, neonatal mice are capable of regenerating cardiomyocytes after injury, but lose the ability to regenerate by 7 days old [5].",
+            "startOffset": 11235,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15825,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Samples were frozen in O.C.T. (Tissue-Tek, VWR #25608-930, Radnor, PA) at \u221280 \u00b0C, and sectioned at 20 \u03bcM transversely or longitudinally and adhered to Superfrost Plus slides (VWR, Radnor, PA) overnight at 40 \u00b0C.",
+            "startOffset": 15614,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 18698,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Fish were scored blindly based on swimming ability between 1 and 6; 1, fish is lying on its side on the bottom of the tank; 2, fish is upright and can swim forward and backward; 3, fish is able to turn by making jerky movements to move tail in line for next set of forward movements; 4, fish regains movement caudal to the injury site, but still swims primarily by head and pectoral fin movements; 5, fish is swimming by utilizing caudal fin but shows noticeable differences from an uninjured fish; 6, swimming is indistinguishable from uninjured fish.",
+            "startOffset": 18146,
+            "title": "Locomotor analysis"
+        },
+        {
+            "endOffset": 15480,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The spinal cord was removed and preserved in 4% paraformaldehyde in ethanol overnight at 4 \u00b0C.",
+            "startOffset": 15386,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 16733,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Slides were analyzed for mCherry + cells, identified by colocalization of mCherry fluorophore and DAPI.",
+            "startOffset": 16630,
+            "title": "Cell counting"
+        },
+        {
+            "endOffset": 21104,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These data suggest that \u03b2-catenin mediated transcription is transiently increased after spinal cord injury in adult zebrafish.",
+            "startOffset": 20978,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 23341,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We observed a lower swim score after spinal cord transection in HS Dkk fish compared to HS WT or no heat shock (No HS) control fish at 14 and 28 dpt (Fig. 2B).",
+            "startOffset": 23182,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 23637,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, we predicted that Dkk1b overexpression was inhibiting axon regeneration through the injury site.",
+            "startOffset": 23535,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 11234,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 11233,
+                    "startOffset": 11230
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For example, in frogs fully patterned limb regeneration occurs through stage 51, but this ability is diminished and eventually lost by stage 58 [4].",
+            "startOffset": 11086,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22866,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We performed a free swimming test on injured fish by measuring the total distance swum in 5 min in the absence of water flow, aversive stimuli, or other external cues.",
+            "startOffset": 22699,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        },
+        {
+            "endOffset": 17904,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Fish were placed in a brightly illuminated tank filled with tank water (5 cm deep, 27 \u00b0C) and recorded from above.",
+            "startOffset": 17790,
+            "title": "Free swim analysis"
+        },
+        {
+            "endOffset": 20159,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 20113,
+                    "startOffset": 20109
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "siam:mCherry)ia5 fish [11], heretofore referred to as Siam:mCherry fish.",
+            "startOffset": 20087,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 17433,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "All samples were normalized to \u03b2-actin levels and compared to 18s normalization.",
+            "startOffset": 17353,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 15114,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Fish resumed breathing within a few seconds and were monitored throughout recovery for signs of pain (e.g. clamped fins, distressed breathing).",
+            "startOffset": 14971,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 20736,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We found that the number of Siam:mCherry-positive cells increased after injury in sham and transected fish (Fig. 1A).",
+            "startOffset": 20619,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 21643,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Thus, this observation suggests that Wnt ligand binding may be required for the increase in \u03b2-catenin reporter activity after spinal cord injury.",
+            "startOffset": 21498,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 24784,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The work presented in this study show that Wnt/\u03b2-catenin signaling is increased after spinal cord injury, and that overexpression of Dkk1b inhibits Wnt/\u03b2-catenin signaling and functional recovery after spinal cord injury in adult zebrafish.",
+            "startOffset": 24544,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16468,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Samples were washed in PBS six times for 20 min with gentle shaking, and then stained with goat anti-mouse Alexa Fluor 568, goat anti-mouse 633, goat anti-rabbit 488, secondary antibody (Thermo Fisher Scientific, A11031, A31574, and A11034; 1:1000, Waltham, MA) for 1 h at room temperature.",
+            "startOffset": 16178,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 19119,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "All quantifications were done blinded to the experimental group.",
+            "startOffset": 19055,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 16614,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "After 6 more washes with PBS, the slides were sealed with a coverslip with Prolong Gold Antifade Reagent (Thermo Fisher Scientific, Waltham, MA).",
+            "startOffset": 16469,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 20298,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We cut the epidermis and musculature of the body wall and transected the spinal cord at approximately the 8th vertebrae (transected fish).",
+            "startOffset": 20160,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 16063,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Rabbit anti-GFAP antibody (Dako, Z0334; 1:500, Carpinteria, CA), and mouse acetylated \u03b1-tubulin antibody (Sigma Aldrich, T6793; 1:500, St Louis, MO) were added to blocking buffer (0.5% Triton X-100, 5% goat serum, 0.5% BSA in PBS-Tween).",
+            "startOffset": 15826,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 21497,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 21496,
+                    "startOffset": 21489
+                },
+                "bib13": {
+                    "endOffset": 21496,
+                    "startOffset": 21489
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "We found that wnt4b was increased in transected fish compared to sham fish at 3 and 14 dpi (Fig. 1B), consistent with large scale gene expression analyses of injured zebrafish spinal cords [12,13].",
+            "startOffset": 21300,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 13686,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "siam:mCherry)ia5 crossed with Tg(Hsp70l:Dkk1b-GFP)w32 to monitor \u03b2-catenin responsive transcription after Dkk1b overexpression.",
+            "startOffset": 13559,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 25287,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Understanding the mechanisms of spinal cord regeneration in zebrafish could lead to the identification of molecular targets to enhance regeneration after mammalian spinal cord injury.",
+            "startOffset": 25104,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14516,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Briefly, zebrafish greater than 3 months old of either sex were anesthetized in 0.017% buffered tricaine methanesulfonate (MS-222) in fish tank water until respiratory movements of the opercula stopped (2\u20135 min).",
+            "startOffset": 14304,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 13406,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "We used zebrafish (Danio rerio) of either sex from the following lines: wild-type AB, heterozygous Tg(7xTCF-Xla.",
+            "startOffset": 13294,
+            "title": "Zebrafish strains and heat shock protocol"
+        },
+        {
+            "endOffset": 19546,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "All statistics were calculated using Graphpad Prism Version 5.01 for Windows (Graphpad Software, San Diego, CA).",
+            "startOffset": 19434,
+            "title": "Statistics"
+        },
+        {
+            "endOffset": 25467,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 25466,
+                    "startOffset": 25460
+                },
+                "bib3": {
+                    "endOffset": 25466,
+                    "startOffset": 25460
+                }
+            },
+            "secId": "sec4",
+            "sentence": "For example, Fgf treatment induces bipolar glia formation and improved function after spinal cord injury in mice, similar to its role in zebrafish spinal cord regeneration [3,16].",
+            "startOffset": 25288,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17299,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Samples were homogenized and lysed with Trizol to extract RNA and cDNA was synthesized via RevertAid cDNA kit (Thermo Fisher Scientific, Waltham, MO).",
+            "startOffset": 17149,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 22427,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "This observation suggests that Wnt ligand binding is necessary for \u03b2-catenin reporter activity in a subset of cells.",
+            "startOffset": 22311,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 13228,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Thus, our work provides evidence for the conservation of signaling mechanisms involved in spinal cord regeneration of animals at different developmental stages.",
+            "startOffset": 13068,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20618,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We euthanized fish at 0, 3, 14, or 42 days post injury (dpi) and quantified the number of cells with Siam:mCherry reporter activation in transverse sections less than 1 mm from the lesion site.",
+            "startOffset": 20425,
+            "title": "Wnt/\u03b2-catenin signaling is increased after spinal cord transection in adult zebrafish"
+        },
+        {
+            "endOffset": 12179,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 12178,
+                    "startOffset": 12172
+                },
+                "bib7": {
+                    "endOffset": 12178,
+                    "startOffset": 12172
+                },
+                "bib8": {
+                    "endOffset": 12178,
+                    "startOffset": 12172
+                },
+                "bib9": {
+                    "endOffset": 12178,
+                    "startOffset": 12172
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For example, although Wnt/\u03b2-catenin signaling and retinoic acid signaling are involved in fin regeneration in larvae and adults, differences in gene expression between regenerating fins at different ages argue that there may be differences in activation of other signaling pathways [7\u201310].",
+            "startOffset": 11890,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24975,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 24974,
+                    "startOffset": 24971
+                }
+            },
+            "secId": "sec4",
+            "sentence": "This is consistent with the findings in the larval zebrafish, providing evidence for the conservation of regenerative mechanisms between the developing zebrafish and the adult zebrafish [6].",
+            "startOffset": 24785,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26410,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This study demonstrates conservation of genes regulated after spinal cord injury in adult zebrafish being necessary for functional recovery in a larval model of spinal cord injury, which complements the approach we took, starting from a larval model and extrapolating it to function in an adult.",
+            "startOffset": 26115,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12722,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We found that Wnt/\u03b2-catenin mediated transcription was increased in the regenerating spinal cord using transgenic fish with a \u03b2-catenin reporter.",
+            "startOffset": 12577,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14303,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14302,
+                    "startOffset": 14299
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Spinal cords of zebrafish were transected as previously described [1].",
+            "startOffset": 14233,
+            "title": "Zebrafish Spinal Cord transection"
+        },
+        {
+            "endOffset": 17644,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Primers used: bactin F (GGTATGGGACAGAAAGACAG), bactin R (AGAGTCCATCACGATACCAG), 18s F (CGCTATTGGAGCT GGAATTACC), 18s R (GAAACGGCTACCACATCCAA), wnt4b F (AAGGCTTCAGAGATGGTCATCG), wnt4b R (AGAATGCAACGCCGTAGGACAG).",
+            "startOffset": 17434,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 24533,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, these data suggest that Wnt/\u03b2-catenin signaling is necessary for locomotor recovery after spinal cord injury and may play a role in defining the cell architecture necessary for spinal cord regeneration.",
+            "startOffset": 24325,
+            "title": "Wnt/\u03b2-catenin signaling is necessary spinal cord regeneration in adult zebrafish"
+        }
+    ],
+    "docId": "S0006291X16311214",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Nicholas S.",
+                "initial": "N.S.",
+                "last": "Strand"
+            },
+            {
+                "email": null,
+                "first": "Kimberly K.",
+                "initial": "K.K.",
+                "last": "Hoi"
+            },
+            {
+                "email": null,
+                "first": "Tien M.T.",
+                "initial": "T.M.T.",
+                "last": "Phan"
+            },
+            {
+                "email": null,
+                "first": "Catherine A.",
+                "initial": "C.A.",
+                "last": "Ray"
+            },
+            {
+                "email": null,
+                "first": "Jason D.",
+                "initial": "J.D.",
+                "last": "Berndt"
+            },
+            {
+                "email": "rtmoon@uw.edu",
+                "first": "Randall T.",
+                "initial": "R.T.",
+                "last": "Moon"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.07.006",
+        "firstpage": "952",
+        "issn": "0006291X",
+        "keywords": [
+            "Regeneration",
+            "Spinal cord injury",
+            "Wnt/\u03b2-catenin signaling",
+            "Zebrafish"
+        ],
+        "lastpage": "956",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Wnt/\u03b2-catenin signaling promotes regeneration after adult zebrafish spinal cord injury"
+    }
+}

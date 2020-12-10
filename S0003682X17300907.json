@@ -1,0 +1,3238 @@
+{
+    "abstract": "Categorisation is a fundamental cognitive process that plays a central role in everyday behaviour and action. Whereas previous studies have investigated the categorisation of isolated everyday sounds, this paper presents an experiment to investigate the cognitive categorisation of everyday sounds within their original context. A group of eighteen expert and non-expert listeners took part in a free sorting task using 110 sounds identified within ambisonic reproductions of urban soundscapes. The participants were asked to sort the objects into groups of sounds that served a similar purpose in the overall perception of the soundscape. Following this, the participants were asked to provide descriptive labels for the groups they had formed. The results were analysed using hierarchical agglomerative clustering and non-metric multidimensional scaling (MDS) to explore both the structure and dimensionality of the data. The resulting hierarchical clustering of objects show three top level categories relating to transient sounds, continuous sounds, and speech and vocalisations. Sub-categories were identified in each of the top level categories which included harmonic and non-harmonic continuous sounds, clear speech, unintelligible speech, vocalisations, transient sounds that indicate actions, and non-salient transient sounds. The first two dimensions revealed by the MDS analysis relate to temporal extent and intelligibility respectively. Interpretation of the third dimension is less clear, but may be related to harmonic content.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Henri",
+                    "initial": "H.",
+                    "last": "Cohen"
+                },
+                {
+                    "first": "Claire",
+                    "initial": "C.",
+                    "last": "Lefebvre"
+                }
+            ],
+            "doi": "10.1016/B978-0-08-044612-7.X5053-7",
+            "pub_year": 2005,
+            "title": "Handbook of Categorization in Cognitive Science"
+        },
+        "b0010": null,
+        "b0015": {
+            "authors": [
+                {
+                    "first": "James L.",
+                    "initial": "J.L.",
+                    "last": "McClelland"
+                },
+                {
+                    "first": "Timothy T.",
+                    "initial": "T.T.",
+                    "last": "Rogers"
+                }
+            ],
+            "doi": "10.1038/nrn1076",
+            "firstpage": "310",
+            "issn": "1471003X",
+            "lastpage": "322",
+            "pmid": "12671647",
+            "pub_year": 2003,
+            "title": "The parallel distributed processing approach to semantic cognition",
+            "volume": "4"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Eleanor",
+                    "initial": "E.",
+                    "last": "Rosch"
+                },
+                {
+                    "first": "Carolyn B.",
+                    "initial": "C.B.",
+                    "last": "Mervis"
+                },
+                {
+                    "first": "Wayne D.",
+                    "initial": "W.D.",
+                    "last": "Gray"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Penny",
+                    "initial": "P.",
+                    "last": "Boyes-Braem"
+                }
+            ],
+            "doi": "10.1016/0010-0285(76)90013-X",
+            "firstpage": "382",
+            "issn": "00100285",
+            "lastpage": "439",
+            "pub_year": 1976,
+            "title": "Basic objects in natural categories",
+            "volume": "8"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Robert M.",
+                    "initial": "R.M.",
+                    "last": "Nosofsky"
+                }
+            ],
+            "doi": "10.1037/0096-3445.115.1.39",
+            "firstpage": "39",
+            "issn": "00963445",
+            "lastpage": "57",
+            "pmid": "2937873",
+            "pub_year": 1986,
+            "title": "Attention, Similarity, and the Identification-Categorization Relationship",
+            "volume": "115"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Robert L.",
+                    "initial": "R.L.",
+                    "last": "Goldstone"
+                }
+            ],
+            "doi": "10.1016/0010-0277(94)90065-5",
+            "firstpage": "125",
+            "issn": "00100277",
+            "lastpage": "157",
+            "pmid": "7924201",
+            "pub_year": 1994,
+            "title": "The role of similarity in categorization: providing a groundwork",
+            "volume": "52"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Vladimir M.",
+                    "initial": "V.M.",
+                    "last": "Sloutsky"
+                }
+            ],
+            "doi": "10.1016/S1364-6613(03)00109-8",
+            "firstpage": "246",
+            "issn": "13646613",
+            "lastpage": "251",
+            "pub_year": 2003,
+            "title": "The role of similarity in the development of categorization",
+            "volume": "7"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Elif",
+                    "initial": "E.",
+                    "last": "\u00d6zcan"
+                },
+                {
+                    "first": "Ren",
+                    "initial": "R.",
+                    "last": "Van Egmond"
+                },
+                {
+                    "first": "Jan J.",
+                    "initial": "J.J.",
+                    "last": "Jacobs"
+                }
+            ],
+            "firstpage": "97",
+            "issn": "19913761",
+            "lastpage": "111",
+            "pub_year": 2014,
+            "title": "Product sounds: Basic concepts and categories",
+            "volume": "8"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Aude",
+                    "initial": "A.",
+                    "last": "Oliva"
+                },
+                {
+                    "first": "Philippe G.",
+                    "initial": "P.G.",
+                    "last": "Schyns"
+                }
+            ],
+            "doi": "10.1006/cogp.1997.0667",
+            "firstpage": "72",
+            "issn": "00100285",
+            "lastpage": "107",
+            "pmid": "9325010",
+            "pub_year": 1997,
+            "title": "Coarse blobs or fine edges? Evidence that information diagnosticity changes the perception of complex visual stimuli",
+            "volume": "34"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Jacob",
+                    "initial": "J.",
+                    "last": "Feldman"
+                }
+            ],
+            "doi": "10.1016/S1364-6613(03)00111-6",
+            "firstpage": "252",
+            "issn": "13646613",
+            "lastpage": "256",
+            "pub_year": 2003,
+            "title": "What is a visual object?",
+            "volume": "7"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Jennifer K.",
+                    "initial": "J.K.",
+                    "last": "Bizley"
+                },
+                {
+                    "first": "Yale E.",
+                    "initial": "Y.E.",
+                    "last": "Cohen"
+                }
+            ],
+            "doi": "10.1038/nrn3565",
+            "firstpage": "693",
+            "issn": "1471003X",
+            "lastpage": "707",
+            "pmid": "24052177",
+            "pub_year": 2013,
+            "title": "The what, where and how of auditory-object perception",
+            "volume": "14"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Timothy D.",
+                    "initial": "T.D.",
+                    "last": "Griffiths"
+                },
+                {
+                    "first": "Jason D.",
+                    "initial": "J.D.",
+                    "last": "Warren"
+                }
+            ],
+            "doi": "10.1038/nrn1538",
+            "firstpage": "887",
+            "issn": "1471003X",
+            "lastpage": "892",
+            "pmid": "15496866",
+            "pub_year": 2004,
+            "title": "What is an auditory object?",
+            "volume": "5"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "James A.",
+                    "initial": "J.A.",
+                    "last": "Ballas"
+                },
+                {
+                    "first": "Timothy",
+                    "initial": "T.",
+                    "last": "Mullins"
+                }
+            ],
+            "doi": "10.1207/s15327043hup0403_3",
+            "firstpage": "199",
+            "issn": "08959285",
+            "lastpage": "219",
+            "pub_year": 1991,
+            "title": "Effects of Context on the Identification of Everyday Sounds",
+            "volume": "4"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Dani\u00e8le",
+                    "initial": "D.",
+                    "last": "Dubois"
+                },
+                {
+                    "first": "Catherine",
+                    "initial": "C.",
+                    "last": "Guastavino"
+                },
+                {
+                    "first": "Manon",
+                    "initial": "M.",
+                    "last": "Raimbault"
+                }
+            ],
+            "firstpage": "865",
+            "issn": "16101928",
+            "lastpage": "874",
+            "pub_year": 2006,
+            "title": "A cognitive approach to urban soundscapes: Using verbal data to access everyday life auditory categories",
+            "volume": "92"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Ay\u015fe Pinar",
+                    "initial": "A.P.",
+                    "last": "Saygin"
+                },
+                {
+                    "first": "Frederic",
+                    "initial": "F.",
+                    "last": "Dick"
+                },
+                {
+                    "first": "Stephen W.",
+                    "initial": "S.W.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Nina F.",
+                    "initial": "N.F.",
+                    "last": "Dronkers"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Bates"
+                }
+            ],
+            "doi": "10.1093/brain/awg082",
+            "firstpage": "928",
+            "issn": "00068950",
+            "lastpage": "945",
+            "pmid": "12615649",
+            "pub_year": 2003,
+            "title": "Neural resources for processing language and environmental sounds: Evidence from aphasia",
+            "volume": "126"
+        },
+        "b0080": null,
+        "b0085": null,
+        "b0090": {
+            "authors": [
+                {
+                    "first": "M. M.",
+                    "initial": "M.M.",
+                    "last": "Marcell"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Borella"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Greene"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Kerr"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Rogers"
+                }
+            ],
+            "doi": "10.1076/jcen.22.6.830.949",
+            "firstpage": "830",
+            "issn": "13803395",
+            "lastpage": "864",
+            "pmid": "11320440",
+            "pub_year": 2000,
+            "title": "Confrontation naming of environmental sounds",
+            "volume": "22"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Gygi"
+                },
+                {
+                    "first": "Gary R.",
+                    "initial": "G.R.",
+                    "last": "Kidd"
+                },
+                {
+                    "first": "Charles S.",
+                    "initial": "C.S.",
+                    "last": "Watson"
+                }
+            ],
+            "doi": "10.3758/BF03193921",
+            "firstpage": "839",
+            "issn": "00315117",
+            "lastpage": "855",
+            "pub_year": 2007,
+            "title": "Similarity and categorization of environmental sounds",
+            "volume": "69"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Houix"
+                },
+                {
+                    "first": "Guillaume",
+                    "initial": "G.",
+                    "last": "Lemaitre"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Misdariis"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Susini"
+                },
+                {
+                    "first": "Isabel",
+                    "initial": "I.",
+                    "last": "Urdapilleta"
+                }
+            ],
+            "doi": "10.1037/a0026240",
+            "firstpage": "52",
+            "issn": "1076898X",
+            "lastpage": "80",
+            "pmid": "22122114",
+            "pub_year": 2012,
+            "title": "A lexical analysis of environmental sound categories",
+            "volume": "18"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Mags D.",
+                    "initial": "M.D.",
+                    "last": "Adams"
+                },
+                {
+                    "first": "Neil S.",
+                    "initial": "N.S.",
+                    "last": "Bruce"
+                },
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Cain"
+                },
+                {
+                    "first": "Angus",
+                    "initial": "A.",
+                    "last": "Carlyle"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Cusack"
+                },
+                {
+                    "first": "Deborah A.",
+                    "initial": "D.A.",
+                    "last": "Hall"
+                },
+                {
+                    "first": "Ken I.",
+                    "initial": "K.I.",
+                    "last": "Hume"
+                },
+                {
+                    "first": "Amy",
+                    "initial": "A.",
+                    "last": "Irwin"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Jennings"
+                },
+                {
+                    "first": "Melissa",
+                    "initial": "M.",
+                    "last": "Marselle"
+                },
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Plack"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Poxon"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2012.05.010",
+            "firstpage": "224",
+            "issn": "0003682X",
+            "lastpage": "231",
+            "pub_year": 2013,
+            "title": "Perception of soundscapes: An interdisciplinary approach",
+            "volume": "74"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Jian",
+                    "initial": "J.",
+                    "last": "Kang"
+                }
+            ],
+            "doi": "10.1201/9781482265613",
+            "firstpage": "1",
+            "lastpage": "278",
+            "pub_year": 2006,
+            "title": "Urban sound environment"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "\u00d6sten",
+                    "initial": "O.",
+                    "last": "Axelsson"
+                },
+                {
+                    "first": "Mats E.",
+                    "initial": "M.E.",
+                    "last": "Nilsson"
+                },
+                {
+                    "first": "Birgitta",
+                    "initial": "B.",
+                    "last": "Berglund"
+                }
+            ],
+            "doi": "10.1121/1.3493436",
+            "firstpage": "2836",
+            "issn": "00014966",
+            "lastpage": "2846",
+            "pmid": "21110579",
+            "pub_year": 2010,
+            "title": "A principal components model of soundscape perception",
+            "volume": "128"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Deborah A.",
+                    "initial": "D.A.",
+                    "last": "Hall"
+                },
+                {
+                    "first": "Amy",
+                    "initial": "A.",
+                    "last": "Irwin"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Edmondson-Jones"
+                },
+                {
+                    "first": "Scott",
+                    "initial": "S.",
+                    "last": "Phillips"
+                },
+                {
+                    "first": "John E.W.",
+                    "initial": "J.E.W.",
+                    "last": "Poxon"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2011.03.006",
+            "firstpage": "248",
+            "issn": "0003682X",
+            "lastpage": "254",
+            "pub_year": 2013,
+            "title": "An exploratory evaluation of perceptual, psychoacoustic and acoustical properties of urban soundscapes",
+            "volume": "74"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Neil S.",
+                    "initial": "N.S.",
+                    "last": "Bruce"
+                },
+                {
+                    "first": "Jesse E.",
+                    "initial": "J.E.",
+                    "last": "Murphy"
+                }
+            ],
+            "doi": "10.3813/AAA.918708",
+            "firstpage": "285",
+            "issn": "16101928",
+            "lastpage": "292",
+            "pub_year": 2014,
+            "title": "Soundscape reproduction and synthesis",
+            "volume": "100"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Cain"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Jennings"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Poxon"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2011.11.006",
+            "firstpage": "232",
+            "issn": "0003682X",
+            "lastpage": "239",
+            "pub_year": 2013,
+            "title": "The development and application of the emotional dimensions of a soundscape",
+            "volume": "74"
+        },
+        "b0135": {
+            "authors": [
+                {
+                    "first": "Neil S.",
+                    "initial": "N.S.",
+                    "last": "Bruce"
+                },
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Davies"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2014.03.016",
+            "firstpage": "1",
+            "issn": "0003682X",
+            "lastpage": "11",
+            "pub_year": 2014,
+            "title": "The effects of expectation on the perception of soundscapes",
+            "volume": "85"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Catherine",
+                    "initial": "C.",
+                    "last": "Guastavino"
+                },
+                {
+                    "first": "Brian F.G.",
+                    "initial": "B.F.G.",
+                    "last": "Katz"
+                },
+                {
+                    "first": "Jean Dominique",
+                    "initial": "J.D.",
+                    "last": "Polack"
+                },
+                {
+                    "first": "Daniel J.",
+                    "initial": "D.J.",
+                    "last": "Levitin"
+                },
+                {
+                    "first": "Dani\u00e8le",
+                    "initial": "D.",
+                    "last": "Dubois"
+                }
+            ],
+            "firstpage": "333",
+            "issn": "16101928",
+            "lastpage": "341",
+            "pub_year": 2005,
+            "title": "Ecological validity of soundscape reproduction",
+            "volume": "91"
+        },
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Catherine",
+                    "initial": "C.",
+                    "last": "Guastavino"
+                }
+            ],
+            "doi": "10.1037/cjep2007006",
+            "firstpage": "54",
+            "issn": "11961961",
+            "lastpage": "63",
+            "pmid": "17479742",
+            "pub_year": 2007,
+            "title": "Categorization of environmental sounds",
+            "volume": "61"
+        },
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Olli",
+                    "initial": "O.",
+                    "last": "Rummukainen"
+                },
+                {
+                    "first": "Jenni",
+                    "initial": "J.",
+                    "last": "Radun"
+                },
+                {
+                    "first": "Toni",
+                    "initial": "T.",
+                    "last": "Virtanen"
+                },
+                {
+                    "first": "Ville",
+                    "initial": "V.",
+                    "last": "Pulkki"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0095848",
+            "issn": "19326203",
+            "pmid": "24788808",
+            "pub_year": 2014,
+            "title": "Categorization of natural dynamic audiovisual scenes",
+            "volume": "9"
+        },
+        "b0155": null,
+        "b0160": {
+            "authors": [
+                {
+                    "first": "Bruno L.",
+                    "initial": "B.L.",
+                    "last": "Giordano"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "McDonnell"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "McAdams"
+                }
+            ],
+            "doi": "10.1016/j.bandc.2010.01.005",
+            "firstpage": "7",
+            "issn": "02782626",
+            "lastpage": "19",
+            "pmid": "20188452",
+            "pub_year": 2010,
+            "title": "Hearing living symbols and nonliving icons: Category specificities in the cognitive processing of environmental sounds",
+            "volume": "73"
+        },
+        "b0165": {
+            "authors": [
+                {
+                    "first": "William W.",
+                    "initial": "W.W.",
+                    "last": "Gaver"
+                }
+            ],
+            "doi": "10.1207/s15326969eco0504_2",
+            "firstpage": "285",
+            "issn": "10407413",
+            "lastpage": "313",
+            "pub_year": 1993,
+            "title": "How Do We Hear in the World?: Explorations in Ecological Acoustics",
+            "volume": "5"
+        },
+        "b0170": {
+            "authors": [
+                {
+                    "first": "William W.",
+                    "initial": "W.W.",
+                    "last": "Gaver"
+                }
+            ],
+            "doi": "10.1207/s15326969eco0501_1",
+            "firstpage": "1",
+            "issn": "10407413",
+            "lastpage": "29",
+            "pub_year": 1993,
+            "title": "What in the World Do We Hear?: An Ecological Approach to Auditory Event Perception",
+            "volume": "5"
+        },
+        "b0175": {
+            "authors": [
+                {
+                    "first": "Manon",
+                    "initial": "M.",
+                    "last": "Raimbault"
+                }
+            ],
+            "firstpage": "929",
+            "issn": "16101928",
+            "lastpage": "937",
+            "pub_year": 2006,
+            "title": "Qualitative judgements of urban soundscapes: Questionning questionnaires and semantic scales",
+            "volume": "92"
+        },
+        "b0180": null,
+        "b0185": null,
+        "b0190": {
+            "authors": [
+                {
+                    "first": "Guillaume",
+                    "initial": "G.",
+                    "last": "Lemaitre"
+                },
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Houix"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Misdariis"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Susini"
+                }
+            ],
+            "doi": "10.1037/a0018762",
+            "firstpage": "16",
+            "issn": "1076898X",
+            "lastpage": "32",
+            "pmid": "20350041",
+            "pub_year": 2010,
+            "title": "Listener Expertise and Sound Identification Influence the Categorization of Environmental Sounds",
+            "volume": "16"
+        },
+        "b0195": {
+            "authors": [
+                {
+                    "first": "Penny",
+                    "initial": "P.",
+                    "last": "Bergman"
+                },
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Sk\u00f6ld"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "V\u00e4stfj\u00e4ll"
+                },
+                {
+                    "first": "Niklas",
+                    "initial": "N.",
+                    "last": "Fransson"
+                }
+            ],
+            "doi": "10.1121/1.3243297",
+            "firstpage": "3156",
+            "issn": "00014966",
+            "lastpage": "3167",
+            "pmid": "20000929",
+            "pub_year": 2009,
+            "title": "Perceptual and emotional categorization of sound",
+            "volume": "126"
+        },
+        "b0200": {
+            "authors": [
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Woodcock"
+                },
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Trevor J.",
+                    "initial": "T.J.",
+                    "last": "Cox"
+                },
+                {
+                    "first": "Frank",
+                    "initial": "F.",
+                    "last": "Melchior"
+                }
+            ],
+            "doi": "10.17743/jaes.2016.0007",
+            "firstpage": "380",
+            "issn": "15494950",
+            "lastpage": "394",
+            "pub_year": 2016,
+            "title": "Categorization of Broadcast Audio Objects in Complex Auditory Scenes",
+            "volume": "64"
+        },
+        "b0205": null,
+        "b0210": {
+            "authors": [
+                {
+                    "first": "Joe H.",
+                    "initial": "J.H.",
+                    "last": "Ward"
+                }
+            ],
+            "doi": "10.1080/01621459.1963.10500845",
+            "firstpage": "236",
+            "issn": "01621459",
+            "lastpage": "244",
+            "pub_year": 1963,
+            "title": "Hierarchical Grouping to Optimize an Objective Function",
+            "volume": "58"
+        },
+        "b0215": null,
+        "b0220": {
+            "authors": [
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "McAdams"
+                },
+                {
+                    "first": "Suzanne",
+                    "initial": "S.",
+                    "last": "Winsberg"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Donnadieu"
+                },
+                {
+                    "first": "Geert",
+                    "initial": "G.",
+                    "last": "De Soete"
+                },
+                {
+                    "first": "Jochen",
+                    "initial": "J.",
+                    "last": "Krimphoff"
+                }
+            ],
+            "doi": "10.1007/BF00419633",
+            "firstpage": "177",
+            "issn": "03400727",
+            "lastpage": "192",
+            "pmid": "8570786",
+            "pub_year": 1995,
+            "title": "Perceptual scaling of synthesized musical timbres: Common dimensions, specificities, and latent subject classes",
+            "volume": "58"
+        },
+        "b0225": {
+            "authors": [
+                {
+                    "first": "J. B.",
+                    "initial": "J.B.",
+                    "last": "Kruskal"
+                }
+            ],
+            "doi": "10.1007/BF02289565",
+            "firstpage": "1",
+            "issn": "00333123",
+            "lastpage": "27",
+            "pub_year": 1964,
+            "title": "Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis",
+            "volume": "29"
+        },
+        "b0230": {
+            "authors": [
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Frederic L.",
+                    "initial": "F.L.",
+                    "last": "Wightman"
+                },
+                {
+                    "first": "Julie A.",
+                    "initial": "J.A.",
+                    "last": "Brefczynski"
+                },
+                {
+                    "first": "Raymond E.",
+                    "initial": "R.E.",
+                    "last": "Phinney"
+                },
+                {
+                    "first": "Jeffrey R.",
+                    "initial": "J.R.",
+                    "last": "Binder"
+                },
+                {
+                    "first": "Edgar A.",
+                    "initial": "E.A.",
+                    "last": "DeYoe"
+                }
+            ],
+            "doi": "10.1093/cercor/bhh061",
+            "firstpage": "1008",
+            "issn": "10473211",
+            "lastpage": "1021",
+            "pmid": "15166097",
+            "pub_year": 2004,
+            "title": "Human brain regions involved in recognizing environmental sounds",
+            "volume": "14"
+        },
+        "b0235": {
+            "authors": [
+                {
+                    "first": "William M.",
+                    "initial": "W.M.",
+                    "last": "Rand"
+                }
+            ],
+            "doi": "10.1080/01621459.1971.10482356",
+            "firstpage": "846",
+            "issn": "01621459",
+            "lastpage": "850",
+            "pub_year": 1971,
+            "title": "Objective criteria for the evaluation of clustering methods",
+            "volume": "66"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 38395,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The ordering of sounds along Dimension I shows that this dimension clearly separates the 3 top level categories.",
+            "startOffset": 38283,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 36788,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The second of the sub-clusters is related to sounds dominated by noise, and includes sounds such as \u201chum of traffic\u201d and \u201cair conditioning\u201d.",
+            "startOffset": 36648,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 42816,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "This paper has presented an experiment to investigate the cognitive categorisation of sounds within the context of complex urban soundscapes.",
+            "startOffset": 42675,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31083,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The dendrogram shows 3 top level categories, which are indicated by the dashed rectangles.",
+            "startOffset": 30993,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 18536,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 18534,
+                    "startOffset": 18530
+                }
+            },
+            "secId": "s0005",
+            "sentence": "From a neurobiological standpoint, an auditory object is \u201c\u2026the computational result of the auditory system\u2019s capacity to detect, extract, segregate and group spectro-temporal regularities in the acoustic environment [11]\u201d.",
+            "startOffset": 18314,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34715,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Cluster analysis revealed a hierarchical structure with a top layer consisting of three main categories.",
+            "startOffset": 34611,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28090,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The cards were also printed with the time of the first occurrence of the sound and the clip in which the sound occurred.",
+            "startOffset": 27970,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 30034,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This resulted in hierarchical dendrograms that show the clustering of the individual auditory objects.",
+            "startOffset": 29932,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 30992,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The dendrogram in Fig. 2 shows the results of the hierarchical agglomerative clustering analysis described in Section 2.6.",
+            "startOffset": 30870,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 18724,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 18723,
+                    "startOffset": 18719
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A similar definition is offered by Gestalt psychology, whereby auditory events (or auditory streams) are formed due to formal similarities in the properties of the acoustic stimulus [16].",
+            "startOffset": 18537,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39166,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The category of transient sounds are arranged on Dimension II such that the sounds within this category progress from sounds indicating movements and actions (i.e. footsteps) to less salient transient sounds (i.e. rustling paper).",
+            "startOffset": 38936,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 43875,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "The first two dimensions of this space related to temporal extent and intelligibility respectively; however, interpretation of the third dimension was less clear.",
+            "startOffset": 43713,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38154,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The ordering of the top level categories along Dimension II shows a progression from a mixture of speech and transient sounds to continuous sounds.",
+            "startOffset": 38007,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 36883,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 36882,
+                    "startOffset": 36878
+                }
+            },
+            "secId": "s0065",
+            "sentence": "This partitioning into harmonic and non-harmonic sounds was also observed by Gygi et al. [19].",
+            "startOffset": 36789,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 27728,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The programme material was reproduced from 24-bit wav files sampled at 48 kHz via an RME UFX soundcard.",
+            "startOffset": 27625,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 38006,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The ordering of the top level categories along Dimension I show a progression from speech and vocalisations to continuous sounds to transient sounds.",
+            "startOffset": 37857,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 40256,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The spread of continuous sounds along this dimension relates to the sub-clustering of this top level category into harmonic and non-harmonic sounds however this ordering isn\u2019t evident in the ordering of transient sounds along this dimension.",
+            "startOffset": 40015,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 20063,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 20003,
+                    "startOffset": 19999
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In a second experiment focussing on sounds produced by solid objects, Houix et al. [20] found a distinction between discrete and continuous sounds.",
+            "startOffset": 19916,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40553,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "In this work, participants who stated that they had practical experience in audio engineering were classified as expert listeners.",
+            "startOffset": 40423,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 34832,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "These categories related to human vocalisation, background sounds with a long temporal extent, and transient sounds.",
+            "startOffset": 34716,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20275,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These studies provide an insight into how listeners categorise individual sounds, however the results should be interpreted with caution when considering the categorisation of sounds within complex sound scenes.",
+            "startOffset": 20064,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23897,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This means that it is currently not clear if the findings of previous categorisation studies are applicable in real world contexts.",
+            "startOffset": 23766,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30730,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0215": {
+                    "endOffset": 30729,
+                    "startOffset": 30725
+                }
+            },
+            "secId": "s0040",
+            "sentence": "This similarity matrix was subject to non-metric multidimensional scaling [43].",
+            "startOffset": 30651,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 31500,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The unique labels associated with this category are \u201cIntelligible voices\u201d, \u201cHuman voice\u201d, \u201cSounds by humans\u201d, \u201cSpeech by humans\u201d, \u201cBackground sounds - Human undistinguished voices\u201d.",
+            "startOffset": 31319,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 34100,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0225": {
+                    "endOffset": 34099,
+                    "startOffset": 34095
+                }
+            },
+            "secId": "s0055",
+            "sentence": "A three dimensional solution resulted in a non-metric stress of 0.11, which suggests a fair fit with the original data [45].",
+            "startOffset": 33976,
+            "title": "Multidimensional scaling"
+        },
+        {
+            "endOffset": 34333,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The full configurations are available from http://dx.doi.org/10.17866/rd.salford.3497936.",
+            "startOffset": 34244,
+            "title": "Multidimensional scaling"
+        },
+        {
+            "endOffset": 19915,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 19818,
+                    "startOffset": 19814
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Houix et al. [20] found 4 main categories for everyday sounds which included solids, liquids, gases, and machines.",
+            "startOffset": 19801,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32830,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The 10 most frequently used category labels associated with the objects in this cluster are shown in Table 2.",
+            "startOffset": 32721,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 40897,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The Rand Index is a measure of the similarity between two clustering solutions which takes into account false positives, true positive, false negatives, and true negatives.",
+            "startOffset": 40725,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 43275,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "Three top level categories were revealed through hierarchical cluster analysis relating to transient sounds, continuous sounds, and speech and vocalisations.",
+            "startOffset": 43118,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 24606,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Participants were told that they were free to withdraw from the experiment at any time, without needing to give a reason to the researcher.",
+            "startOffset": 24467,
+            "title": "Ethics statement"
+        },
+        {
+            "endOffset": 24213,
+            "parents": [],
+            "refoffsets": {
+                "b0200": {
+                    "endOffset": 24212,
+                    "startOffset": 24208
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The study aims to address the question of how auditory objects are cognitively structured within complex urban soundscapes, and is a further analysis of the data reported in [40].",
+            "startOffset": 24034,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24850,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Eighteen participants took part in the experiment, 8 of whom had formal training in acoustics or practical experience in audio engineering, and 10 of whom had no training in acoustics or practical experience in audio engineering.",
+            "startOffset": 24621,
+            "title": "Participants"
+        },
+        {
+            "endOffset": 37323,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "There is a significant degree of overlap in the category descriptions provided by participants for the objects in these clusters, however the sub-clusters appear to relate to: (1) objects which are salient to the scene, clearly indicating actions and movements, such as footsteps and vehicle sounds and (2) lower level transient events such and rustling and scraping sounds.",
+            "startOffset": 36949,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 25498,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A map of the locations of the recordings is shown in Fig. 1.",
+            "startOffset": 25438,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 30558,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Additionally, for each participant an M \u00d7 M co-occurrence matrix was generated that contained a 1 if a pair of objects were grouped in the same category and a 0 otherwise.",
+            "startOffset": 30387,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 26207,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The objects identified in each of the clips are shown in Table 1.",
+            "startOffset": 26142,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 23212,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It may be expected that by placing listeners in a situation where they are asked to categorise individual sounds that have been isolated from their original context, the listener will be in a musical listening mode according to Gaver\u2019s distinction.",
+            "startOffset": 22964,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35799,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "These findings suggest that many of the categorisation frameworks found in previous studies into the categorisation of isolated everyday sounds may be extended to the categorisation of auditory objects within urban soundscapes.",
+            "startOffset": 35572,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23765,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "At present, there have been no studies investigating the categorisation of everyday sounds within their original context.",
+            "startOffset": 23644,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41948,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The non-expert group categorised the sub-category of vehicle sounds in the top level category of continuous sounds, whereas the expert listener groups categorised these objects in the top level category of transient sounds.",
+            "startOffset": 41725,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 42452,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "As with the clustering solutions, the descriptive labels applied by the expert and non-expert listener groups are similar.",
+            "startOffset": 42330,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 20680,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 20534,
+                    "startOffset": 20527
+                },
+                "b0115": {
+                    "endOffset": 20534,
+                    "startOffset": 20527
+                },
+                "b0120": {
+                    "endOffset": 20534,
+                    "startOffset": 20527
+                },
+                "b0125": {
+                    "endOffset": 20679,
+                    "startOffset": 20672
+                },
+                "b0130": {
+                    "endOffset": 20561,
+                    "startOffset": 20557
+                },
+                "b0135": {
+                    "endOffset": 20619,
+                    "startOffset": 20615
+                },
+                "b0140": {
+                    "endOffset": 20679,
+                    "startOffset": 20672
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Work in this area has focussed on perceptual dimensions of listener experience [22\u201325], emotional dimensions [26], the influence of expectation and contextual factors [27], and ecological validity of artificial reproduction [28,25].",
+            "startOffset": 20448,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17177,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 17160,
+                    "startOffset": 17157
+                },
+                "b0025": {
+                    "endOffset": 17176,
+                    "startOffset": 17173
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A category exists when two or more objects are judged to be similar to a category prototype [4] or exemplar [5].",
+            "startOffset": 17065,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28689,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "\u201cPlease sort the cards into groups such that the sounds in each group serve a similar function or purpose in the composition of the scene.\u201d",
+            "startOffset": 28550,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 27194,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "All material was reproduced via Genelec 8030A loudspeakers [Frequency response: 58 Hz\u201320 kHz (2 dB), 55 Hz\u201321 kHz (\u22123 dB)] arranged in a 5.0 configuration according to ITU-R BS.",
+            "startOffset": 27017,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 44006,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "These results provide an insight into the cognitive categorisation of individual sounds within the context of complex soundscapes.",
+            "startOffset": 43876,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 29710,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0210": {
+                    "endOffset": 29709,
+                    "startOffset": 29705
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Data from the sorting task were subject to agglomerative hierarchical cluster analysis according to the Ward method [42].",
+            "startOffset": 29589,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 18167,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 18166,
+                    "startOffset": 18159
+                },
+                "b0060": {
+                    "endOffset": 18166,
+                    "startOffset": 18159
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recently there has been a growing interest in the perception of complex auditory scenes, particularly in the formation and perception of auditory objects [11,12].",
+            "startOffset": 18005,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36523,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "In the category of continuous sounds there are two clear sub-categories.",
+            "startOffset": 36451,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 19328,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 19206,
+                    "startOffset": 19202
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Vanderveer [17] found that participants grouped sounds that were either caused by the same event or shared similar acoustical properties.",
+            "startOffset": 19191,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27819,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The B-format recordings were decoded to 5.0 using the Soundfield Surround Zone VST plugin.",
+            "startOffset": 27729,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 28282,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "A test interface developed in Pure Data and presented via a laptop computer allowed the participants to freely switch between the nine clips, and to rewind, fast-forward, and pause the clips.",
+            "startOffset": 28091,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 17469,
+            "parents": [],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 17468,
+                    "startOffset": 17465
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This suggests that categorisation is contingent on task, context, and by the individual\u2019s intentions, goals, and past experiences [8].",
+            "startOffset": 17335,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19571,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 19348,
+                    "startOffset": 19344
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Marcell et al. [18] found 27 categories of environmental sounds that described the sound source (i.e. animal, paper, ground transportation), location (e.g. nature, bathroom, household), and other ad-hoc categories such as game and recreation.",
+            "startOffset": 19329,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32282,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The unique labels associated with this category include \u201cNature background noise\u201d, \u201cBackground sounds - Harmonic sounds\u201d, \u201cSounds by alive creatures i.e. animals\u201d, \u201cBackground noise (urban)\u201d, \u201cBackground sound which indicate the scene\u201d, \u201cMusic in vicinity\u201d, \u201cUseful sounds - Music related\u201d, \u201cMusic\u201d, \u201cAmbient music/playback of recorded music\u201d, \u201cMusic (non-artificially added)\u201d, and \u201cKey information\u201d.",
+            "startOffset": 31882,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 35976,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Examining the dendrogram in Fig. 2, there are a number of clear sub-categories within each of the three top level clusters.",
+            "startOffset": 35853,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 43633,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "Similar categorisation strategies were observed between the expert and non-expert listener groups.",
+            "startOffset": 43535,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 24466,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Participants took part in the experiments voluntarily, and written consent was taken prior to the test session.",
+            "startOffset": 24355,
+            "title": "Ethics statement"
+        },
+        {
+            "endOffset": 24899,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "All participants reported having normal hearing.",
+            "startOffset": 24851,
+            "title": "Participants"
+        },
+        {
+            "endOffset": 41122,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The Rand index between the clustering of objects for expert and non-expert listeners was 78%, indicating that there is a high degree of similarity in the clustering solutions obtained for the expert and non-expert listeners.",
+            "startOffset": 40898,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 22122,
+            "parents": [],
+            "refoffsets": {
+                "b0165": {
+                    "endOffset": 22121,
+                    "startOffset": 22114
+                },
+                "b0170": {
+                    "endOffset": 22121,
+                    "startOffset": 22114
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The relationship between environmental sounds and semantic processing mirrors Gaver\u2019s distinction between musical and everyday listening [33,34].",
+            "startOffset": 21977,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25437,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 25436,
+                    "startOffset": 25429
+                },
+                "b0135": {
+                    "endOffset": 25436,
+                    "startOffset": 25429
+                }
+            },
+            "secId": "s0025",
+            "sentence": "The locations were selected to provide a variety of different soundscapes, and many of the locations corresponded with locations used in previous soundscape research [21,27].",
+            "startOffset": 25263,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 40014,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The interpretation of Dimension III is less clear than Dimensions I and II; however, the positioning of sounds along categories of continuous sounds and transient sounds can be seen to be spread along Dimension III.",
+            "startOffset": 39799,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 40724,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0235": {
+                    "endOffset": 40723,
+                    "startOffset": 40719
+                }
+            },
+            "secId": "s0075",
+            "sentence": "To investigate the similarity of the clustering solutions between the expert and non-expert listener groups, the Rand Index was calculated between the two solutions [47].",
+            "startOffset": 40554,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 41308,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The similarity in structure between the clustering solutions for the expert and non-expert listeners can be seen in the supporting figures http://dx.doi.org/10.17866/rd.salford.3497936.",
+            "startOffset": 41123,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 33975,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "To determine an optimum dimensionality of the scaling, solutions were calculated in 2\u20139 dimensions and the non-metric stress was inspected.",
+            "startOffset": 33836,
+            "title": "Multidimensional scaling"
+        },
+        {
+            "endOffset": 42171,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The non-expert group categorised footstep objects in the top level category of transient sounds, whereas the expert listener group categorised these objects in the top level category that included speech and vocalisations.",
+            "startOffset": 41949,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 32392,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The 10 most frequently used category labels associated with the objects in this cluster are shown in Table 2.",
+            "startOffset": 32283,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 20447,
+            "parents": [],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 20371,
+                    "startOffset": 20367
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The perception of complex auditory scenes has been explored within the field of soundscapes [21], which aims for listener-centric assessments of environmental sound scenes.",
+            "startOffset": 20275,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26886,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This suggests that the including a mixture of sound events and other sounds described in terms of acoustical properties could bias participants\u2019 categorisation strategies.",
+            "startOffset": 26715,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 37856,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The 3 top level categories revealed through the hierarchical cluster analysis can be clearly identified in the MDS solution.",
+            "startOffset": 37732,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 29931,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This analysis was conducted on an M \u00d7 N matrix [where M is the number of objects (110) and N is the total number of categories (93)] that contained a 1 when an object was included in a certain category and a 0 otherwise.",
+            "startOffset": 29711,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 36299,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The second of the sub-categories is related to intelligible speech, and includes sounds such as \u201cmale voice\u201d and \u201cfemale voice\u201d.",
+            "startOffset": 36171,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 36062,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "In the category containing speech and vocalisations there are three clear categories.",
+            "startOffset": 35977,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 39347,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The category of speech sounds are ordered along Dimension II such that they progress from intelligible speech (i.e male voice) to unintelligible speech (i.e unintelligible voices).",
+            "startOffset": 39167,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 31610,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The 10 most frequently used category labels associated with the objects in this cluster are shown in Table 2.",
+            "startOffset": 31501,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 36451,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The third of the sub-categories is related to unintelligible speech, and includes sounds such as \u201cunintelligible voices\u201d and \u201cmuffled announcer voice\u201d.",
+            "startOffset": 36300,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 34151,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Figs. 3 and 4 show the three dimensional solution.",
+            "startOffset": 34101,
+            "title": "Multidimensional scaling"
+        },
+        {
+            "endOffset": 22535,
+            "parents": [],
+            "refoffsets": {
+                "b0175": {
+                    "endOffset": 22357,
+                    "startOffset": 22353
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In the perception of soundscapes, Raimbault [35] identified a \u201cdescriptive listening\u201d mode in which listeners identify sources or events and a \u201cholistic hearing\u201d mode in which the listeners processes the soundscape as a whole.",
+            "startOffset": 22309,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36170,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The first of these categories is related to vocalisations, and includes sounds such as \u201claugh\u201d and \u201ccough\u201d.",
+            "startOffset": 36063,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 35102,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 34996,
+                    "startOffset": 34992
+                },
+                "b0100": {
+                    "endOffset": 34905,
+                    "startOffset": 34901
+                }
+            },
+            "secId": "s0060",
+            "sentence": "This top level categorisation supports the findings of Houix et al. [20], who found a clear distinction between continuous and discrete sounds and Gygi et al. [19] who identified categories relating to continuous, discrete, and harmonic sounds as well as vocalisations.",
+            "startOffset": 34833,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25943,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The duration of each of the clips was 75 s. For each of the clips, the first author of the present paper identified all of the auditory objects that were audible.",
+            "startOffset": 25781,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 31758,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The second top level category is related to background sounds with a long temporal extent, and includes traffic, air conditioning sounds, and music.",
+            "startOffset": 31610,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 26486,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be noted that the sounds identified in Table 1 include both sound events and objects where the source hasn\u2019t been identified.",
+            "startOffset": 26354,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 22963,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This suggests that listening mode influences categorisation.",
+            "startOffset": 22903,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27969,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Participants were provided with a set of cards, on each of which was printed the name of a single sound that occurred in one of the clips.",
+            "startOffset": 27831,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 42329,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Tables 4 and 5 show the 10 most frequently used category labels for the three top level categories for the expert and non-expert listener groups respectively.",
+            "startOffset": 42171,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 38935,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The ordering of sounds along Dimension II shows that the 3 top level categories are spread and mixed along this dimension; however, this dimension separates a number of the sub-categories that were identified within the top level categories (see Section 4.1).",
+            "startOffset": 38676,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 39476,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The category of continuous sounds are not spread along this dimension, and occupy a narrow range at one extreme of Dimension II.",
+            "startOffset": 39348,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 21640,
+            "parents": [],
+            "refoffsets": {
+                "b0155": {
+                    "endOffset": 21638,
+                    "startOffset": 21634
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Other perceptual categories that commonly emerge in soundscapes reseach are \u201cNatural\u201d, \u201chuman\u201d, and \u201cmechanical\u201d (see Payne et al. for a review [31]).",
+            "startOffset": 21490,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32452,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The third top level category is related to transient sounds.",
+            "startOffset": 32392,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 30243,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "To aid the interpretation of the clusters of objects, the number of times a descriptive category label associated with a given object occurred in each cluster was calculated (these will be reported in tables).",
+            "startOffset": 30034,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 21489,
+            "parents": [],
+            "refoffsets": {
+                "b0150": {
+                    "endOffset": 21376,
+                    "startOffset": 21372
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In an investigation into the categorisation of complex audio-visual scenes, Rummukainen et al. [30] found a three dimensional perceptual space was found relating to calmness, openness, and the presence of people.",
+            "startOffset": 21277,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17881,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The aim of this study is to investigate the categorisation of everyday sounds within the context of urban soundscapes.",
+            "startOffset": 17763,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41448,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Table 3 shows the percentage of objects common to each of the three top level categories between the expert and non-expert listener groups.",
+            "startOffset": 41309,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 28843,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The participants were told that they could form as many groups as they wished, and that the relative positions of the groups on the table was unimportant.",
+            "startOffset": 28689,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 26714,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 26505,
+                    "startOffset": 26501
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Dubois et al. [14] suggest that sounds are processed primarily as meaningful events, and where source identification fails sounds are processed in a more abstract manner according to physical or low level perceptual parameters.",
+            "startOffset": 26487,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 43117,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "Eighteen participants, comprising expert and non-expert listeners, completed a free sorting task in which they were asked to sort a set of sounds occurring in ambisonic reproductions of complex urban soundscapes into groups of sounds that served a purpose in the overall perception of the soundscape.",
+            "startOffset": 42817,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 20816,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Despite this relatively large body of work, little is known regarding how listeners categorise auditory objects in complex soundscapes.",
+            "startOffset": 20681,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22902,
+            "parents": [],
+            "refoffsets": {
+                "b0185": {
+                    "endOffset": 22843,
+                    "startOffset": 22836
+                },
+                "b0190": {
+                    "endOffset": 22843,
+                    "startOffset": 22836
+                },
+                "b0195": {
+                    "endOffset": 22901,
+                    "startOffset": 22897
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Categorisation systems have been found to differ between \u201cexpert\u201d and \u201cnon-expert\u201d listeners [37,38] and according to the emotional response to the sound [39].",
+            "startOffset": 22743,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23643,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It is therefore possible that listeners\u2019 categorisation of everyday sounds will change when the sounds are presented within their original context, compared to when the sounds are presented in isolation.",
+            "startOffset": 23440,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43712,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "Non-metric multidimensional scaling revealed a 3 dimensional perceptual space.",
+            "startOffset": 43634,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26078,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This list of objects was subsequently verified and amended by 4 additional listeners, all of whom had training in audio and acoustics.",
+            "startOffset": 25944,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 22308,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Musical listening occurs when the listener focusses on low level auditory features, whereas in everyday listening the listener uses sound to interpret information about the environment.",
+            "startOffset": 22123,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42663,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This similarity in language coupled with the high percentages of common objects between the top level categories suggest that the expert and non-expert listener groups adopted similar categorisation strategies.",
+            "startOffset": 42453,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 40422,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Previous work has indicated differences in the categorisation strategies between expert and non-expert listeners.",
+            "startOffset": 40309,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 24354,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The experiments described in this paper were approved by the University of Salford ethics committee.",
+            "startOffset": 24254,
+            "title": "Ethics statement"
+        },
+        {
+            "endOffset": 17763,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A simple example of this would be the in the comparison of different coloured shapes; when comparing a red triangle and a red circle, shape would be a more salient feature than colour, whereas colour would be a more salient feature than shape when comparing a red triangle and a blue triangle.",
+            "startOffset": 17470,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26354,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be seen from this table that the objects included in the test include living and non-living sounds as well as action and non-action sounds.",
+            "startOffset": 26208,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 19800,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 19588,
+                    "startOffset": 19584
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Gygi et al. [19] investigated the similarity and categorisation of a broad range of environmental sounds; three distinct categories of sounds were found relating to harmonic sounds, discrete impact sounds, and continuous sounds.",
+            "startOffset": 19572,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22742,
+            "parents": [],
+            "refoffsets": {
+                "b0180": {
+                    "endOffset": 22567,
+                    "startOffset": 22563
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Similarly, Maffiolo et al. [36] makes the distinction between \u201cevent sequences\u201d where listeners distinguish between individual sounds and \u201camorphous sequences\u201d where individual sounds are not distinguished.",
+            "startOffset": 22536,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36948,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "In the category of transient sounds there are two clear clusters.",
+            "startOffset": 36883,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 31881,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In total, there are 60 category labels associated with the objects in this cluster, 11 of which are unique to the cluster.",
+            "startOffset": 31759,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 25029,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Audio recordings of urban soundscapes were made in eight locations on a single day in the city centre of Manchester, UK.",
+            "startOffset": 24909,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 39799,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Taken together, this ordering of sounds on Dimension II suggest that this perceptual dimension broadly relates to intelligibility or readability, with sounds that contribute to the understanding of the action within the scene occurring at one extreme of the dimension and sounds which don\u2019t occurring at the other extreme.",
+            "startOffset": 39477,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 29578,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Most participants adopted the strategy of starting to forming groups during the first clip they listened to; sounds from subsequent clips were added to these groups as they occurred or new groups were created as needed.",
+            "startOffset": 29359,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 21976,
+            "parents": [],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 21660,
+                    "startOffset": 21656
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Giordano et al. [32] have highlighted the links between the processing of certain categories of environmental sound and language, showing that the evaluation of sounds from living sources is biased towards sound independent semantic information whereas sounds from non-living sources are biased towards physical properties of the sound.",
+            "startOffset": 21640,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43534,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "The top level clusters were found to contain a number of clear sub-clusters relating to harmonic and non-harmonic continuous sounds, clear speech, unintelligible speech, vocalisations, transient sounds that indicate actions, and non-salient transient sounds.",
+            "startOffset": 43276,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27624,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The loudspeakers were adjusted to have equal gains by generating a full scale pink noise signal for each loudspeaker and adjusting the gain of the loudspeaker so that the sound pressure level in the centre of the array was equal (85 dBA) for each loudspeaker.",
+            "startOffset": 27365,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 28550,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Participants were given the following instruction:",
+            "startOffset": 28500,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 30650,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These matrices were averaged across the participant group resulting in a similarity matrix.",
+            "startOffset": 30559,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 29284,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The label for each group was written on an envelope, one envelope per category, which was used to store the cards from each of the groups the participant had formed.",
+            "startOffset": 29119,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 19050,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In the context of this paper, an auditory object is any sound that is perceived as a single perceptual entity and can include both sound events where the source is clearly identifiable (e.g. a car starting) and sounds where the source isn\u2019t identifiable but is still perceived as a coherent object (e.g. low frequency noise).",
+            "startOffset": 18725,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34501,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The aim of the work presented in this paper is to investigate the categorisation of everyday sounds within complex auditory scenes, namely urban soundscapes.",
+            "startOffset": 34344,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29118,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Once the participant had completed their grouping, they were asked to provide a descriptive label for each of the groups they had formed.",
+            "startOffset": 28981,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 34610,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Participants were asked to sort objects within complex soundscapes according to their function in the scene.",
+            "startOffset": 34502,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23439,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Considering the literature reported in this section, it is evident that the strategies used by listeners to form different categories of sound are reliant on context, the scale at which attention is focused, and listening mode.",
+            "startOffset": 23212,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16904,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 16613,
+                    "startOffset": 16610
+                },
+                "b0010": {
+                    "endOffset": 16903,
+                    "startOffset": 16900
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Categorisation is a fundamental cognitive process [1] that plays a central role in everyday behaviour and action, supporting the organisation of knowledge (i.e. through the development of taxonomies) and permitting inductive inference about the world (i.e. through the assumption that members of the same category share similar properties) [2].",
+            "startOffset": 16560,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32573,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In total there are 70 category labels associated with the objects in this cluster, 4 of which are unique to the cluster.",
+            "startOffset": 32453,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 21127,
+            "parents": [],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 20834,
+                    "startOffset": 20830
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Davies et al. [21] found that the language people use when talking about soundscapes could be grouped into three categories: sound sources (identification of the source), sound descriptors (descriptors related to sound sources), and soundscape descriptors (descriptors related to the totality of what is heard).",
+            "startOffset": 20816,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35571,
+            "parents": [],
+            "refoffsets": {
+                "b0180": {
+                    "endOffset": 35418,
+                    "startOffset": 35414
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Similar results have also been found in studies into the categorisation of complex urban soundscapes such as the distinction found by Maffiolo et al. [36] between \u201cevent sequences\u201d where listeners distinguish between individual sounds and \u201camorphous sequences\u201d where individual sounds are not distinguished.",
+            "startOffset": 35264,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19190,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Studies investigating the categorisation of everyday sounds have generally been conducted using sounds isolated from their original context.",
+            "startOffset": 19050,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18004,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 18002,
+                    "startOffset": 17996
+                },
+                "b0050": {
+                    "endOffset": 18002,
+                    "startOffset": 17996
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Research into the perception of complex scenes has traditionally focussed on the visual domain [see, for example, [9,10]].",
+            "startOffset": 17882,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27260,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 27203,
+                    "startOffset": 27199
+                }
+            },
+            "secId": "s0030",
+            "sentence": "775 [41] in a semi-anechoic chamber at the University of Salford.",
+            "startOffset": 27195,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 31196,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "From top to bottom of the figure, the first of the three top level categories is related to human vocalisations.",
+            "startOffset": 31084,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 31318,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In total, there are 48 category labels associated with the objects in this cluster, 5 of which are unique to the cluster.",
+            "startOffset": 31197,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 41511,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Differences in categorisation between the two groups included:",
+            "startOffset": 41449,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 17065,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 17064,
+                    "startOffset": 17061
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The process of categorisation is grounded in perceptual and attentional mechanisms capable of detecting similarities and correspondences in the environment [3].",
+            "startOffset": 16905,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18313,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 18249,
+                    "startOffset": 18245
+                },
+                "b0070": {
+                    "endOffset": 18272,
+                    "startOffset": 18268
+                },
+                "b0075": {
+                    "endOffset": 18301,
+                    "startOffset": 18297
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Enquiry into the perception of auditory objects has incorporated behavioural [13], psycholinguistic [14], and neurophysiological [15] approaches.",
+            "startOffset": 18168,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35263,
+            "parents": [],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 35174,
+                    "startOffset": 35170
+                }
+            },
+            "secId": "s0060",
+            "sentence": "This partitioning is also supported by the work of Giordano et al. [32], which revealed differences in the way the brain processes living and non-living sounds.",
+            "startOffset": 35103,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17334,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 17333,
+                    "startOffset": 17328
+                },
+                "b0035": {
+                    "endOffset": 17333,
+                    "startOffset": 17328
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Contemporary theories of categorisation suggest that attentional mechanisms allow the salience of different features to vary as a function of context [6,7].",
+            "startOffset": 17178,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30387,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Additionally, the category labels that were unique to each cluster were identified (these will be reported in the text of the results section).",
+            "startOffset": 30244,
+            "title": "Analysis"
+        },
+        {
+            "endOffset": 37613,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 37530,
+                    "startOffset": 37526
+                },
+                "b0230": {
+                    "endOffset": 37489,
+                    "startOffset": 37485
+                }
+            },
+            "secId": "s0065",
+            "sentence": "The distinction between salient and non-salient sounds is supported by evidence that action sounds are processed differently by the brain than non-action sounds [46] and by the findings of Houix et al. [20] who found sub-categories relating to the physical actions that produced the sound.",
+            "startOffset": 37324,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 25781,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 25644,
+                    "startOffset": 25640
+                },
+                "b0140": {
+                    "endOffset": 25621,
+                    "startOffset": 25617
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Guastavino et al. [28] and Davies et al. [25] have shown that first order ambisonic reproduction in laboratory conditions elicits a similar listener response to in-situ observations.",
+            "startOffset": 25599,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 38676,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The order of progression of the categories along this dimension suggests that the dimension is related to the temporal extent of the sounds, with speech sounds and continuous sounds concentrated at the lower end of the dimension and transient sounds concentrated at the upper end.",
+            "startOffset": 38396,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 44184,
+            "parents": [],
+            "secId": "s0080",
+            "sentence": "The results suggest that previous studies into the categorisation of isolated everyday sounds may be extended to the categorisation of auditory objects within urban soundscapes.",
+            "startOffset": 44007,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 25262,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The locations were an urban park, a junction on a busy street in the city centre, a market in a busy area and a quiet area, a inside a busy shop, inside a quiet shop, inside a large museum, inside a bar, and inside a busy cafeteria.",
+            "startOffset": 25030,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 36647,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The first of these clusters is related to sounds with harmonic content, and includes sounds such as \u201cbirdsong\u201d and \u201cmusic\u201d.",
+            "startOffset": 36524,
+            "title": "Sub-categories in the clustering top level clusters"
+        },
+        {
+            "endOffset": 24033,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The study reported in this paper investigates the perception and categorisation of environmental sounds within complex auditory scenes.",
+            "startOffset": 23898,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34243,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For readability, a random sample of 1/3 of the auditory objects are shown in these figures.",
+            "startOffset": 34152,
+            "title": "Multidimensional scaling"
+        },
+        {
+            "endOffset": 29358,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In general, it took participants around half an hour to complete the task.",
+            "startOffset": 29284,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 37731,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Fig. 3 shows the first 2 dimensions of the MDS solution described in Section 3.2.",
+            "startOffset": 37650,
+            "title": "Interpretation of perceptual space"
+        },
+        {
+            "endOffset": 41724,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The non-expert group included 3 of the unintelligible voice objects in the category of continuous sounds, whereas these objects are in the category of speech and vocalisations in the expert group\u2019s configuration.",
+            "startOffset": 41512,
+            "title": "Comparison between expert and non-expert listeners"
+        },
+        {
+            "endOffset": 25598,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The recordings were made using a Soundfield microphone to allow first order ambisonic reproduction.",
+            "startOffset": 25499,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 27364,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The radius of the loudspeaker layout was 1.30 m and the listener was seated in the centre of the array.",
+            "startOffset": 27261,
+            "title": "Reproduction"
+        },
+        {
+            "endOffset": 28980,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "They were asked to use all of the cards on the table such that the sorting task was conducted for all of the sounds in all of the clips.",
+            "startOffset": 28844,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 32720,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The unique labels associated with this category include \u201cVehicle sounds\u201d, \u201cMovement speeding up\u201d, \u201cUseful sounds - Traffic Movement slowing down\u201d.",
+            "startOffset": 32574,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 27002,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "However, the results presented in Section 3.1 show no evidence of such a bias in the identified top level clusters.",
+            "startOffset": 26887,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 30870,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The median number of groups formed by participants was 5, with the minimum being 2 and the maximum being 10.",
+            "startOffset": 30762,
+            "title": "Clustering of objects"
+        },
+        {
+            "endOffset": 21276,
+            "parents": [],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 21143,
+                    "startOffset": 21139
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Guastavino [29] identified two main categories of environmental sounds in complex soundscapes relating to the presence or absence of human activity.",
+            "startOffset": 21128,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28500,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In order to hear all of the sounds in the sorting task participants were required to listen to the clips in their entirety at least once, and they were free to listen to each of the clips as many times as they wished.",
+            "startOffset": 28283,
+            "title": "Procedure"
+        },
+        {
+            "endOffset": 26141,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods and materials"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "In total, 110 objects were identified across all of the clips.",
+            "startOffset": 26079,
+            "title": "Stimuli"
+        },
+        {
+            "endOffset": 38283,
+            "parents": [
+                {
+                    "id": "s0060",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Fig. 4 shows Dimension III of the MDS solution; there is no clear separation of the 3 top level categories along this dimension.",
+            "startOffset": 38155,
+            "title": "Interpretation of perceptual space"
+        }
+    ],
+    "docId": "S0003682X17300907",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "j.s.woodcock@salford.ac.uk",
+                "first": "J.",
+                "initial": "J.",
+                "last": "Woodcock"
+            },
+            {
+                "email": null,
+                "first": "W. J.",
+                "initial": "W.J.",
+                "last": "Davies"
+            },
+            {
+                "email": null,
+                "first": "T. J.",
+                "initial": "T.J.",
+                "last": "Cox"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2017.01.027",
+        "firstpage": "56",
+        "issn": "0003682X",
+        "keywords": [
+            "Auditory objects",
+            "Categorisation",
+            "Everyday sounds",
+            "Soundscapes"
+        ],
+        "lastpage": "64",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "A cognitive framework for the categorisation of auditory objects in urban soundscapes"
+    }
+}

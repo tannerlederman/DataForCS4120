@@ -1,0 +1,5257 @@
+{
+    "abstract": "Globally, malaria remains one of the most important vector-borne diseases despite the extensive use of vector control, including indoor residual spraying (IRS) and insecticide-treated nets (ITNs). These control methods target endophagic vectors, whereas some malaria vectors, such as Anopheles arabiensis, preferentially feed outdoors on cattle, making it a complicated vector to control using conventional strategies. Our study evaluated whether treating cattle with a capsule containing the active ingredient (AI) fipronil could reduce vector density and sporozoite rates, and alter blood feeding behavior, when applied in a small-scale field study. A pilot field study was carried out in the Samia District, Western Kenya, from May to July 2015. Four plots, each comprised of 50 huts used for sleeping, were randomly designated to serve as control or treatment. A week before cattle treatment, baseline mosquito collections were performed inside the houses using mechanical aspirators. Animals in the treatment (and buffer) were administered a single oral application of fipronil at \u223c0.5\u00a0mg/kg of body weight. Indoor mosquito collections were performed once a week for four weeks following treatment. Female mosquitoes were first identified morphologically to species complex, followed by PCR-based methods to obtain species identity, sporozoite presence, and the host source of the blood meal. All three species of anophelines found in the study area (An. gambiae s.s., An. arabiensis, An. funestus s.s.) were actively transmitting Plasmodium falciparum during the study period. The indoor resting density of An. arabiensis was significantly reduced in treatment plot one at three weeks post-treatment (T1) (efficacy\u00a0=\u00a089%; T1 density\u00a0=\u00a00.08, 95% credibility intervals [0.05, 0.10]; control plot density\u00a0=\u00a00.78 [0.22, 0.29]) and at four weeks post-treatment (efficacy\u00a0=\u00a064%; T1 density\u00a0=\u00a00.16 [0.08, 0.14]; control plot density\u00a0=\u00a00.48 [0.17, 0.22]). The reduction of An. arabiensis mosquitoes captured in the treatment plot two was higher: zero females were collected after treatment. The indoor resting density of An. gambiae s.s. was not significantly different between the treatment (T1, T2) and their corresponding control plots (C1, C2). An. funestus s.s. showed an increase in density over time. The results of this preliminary study suggest that treating cattle orally with fipronil, to target exophagic and zoophagic malaria vectors, could be a valuable control strategy to supplement existing vector control interventions which target endophilic anthropophilic species.",
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "Haoues",
+                    "initial": "H.",
+                    "last": "Alout"
+                },
+                {
+                    "first": "Benjamin J.",
+                    "initial": "B.J.",
+                    "last": "Krajacich"
+                },
+                {
+                    "first": "Jacob I.",
+                    "initial": "J.I.",
+                    "last": "Meyers"
+                },
+                {
+                    "first": "Nathan D.",
+                    "initial": "N.D.",
+                    "last": "Grubaugh"
+                },
+                {
+                    "first": "Doug E.",
+                    "initial": "D.E.",
+                    "last": "Brackney"
+                },
+                {
+                    "first": "Kevin C.",
+                    "initial": "K.C.",
+                    "last": "Kobylinski"
+                },
+                {
+                    "first": "Joseph W.",
+                    "initial": "J.W.",
+                    "last": "Diclaro"
+                },
+                {
+                    "first": "Fatorma K.",
+                    "initial": "F.K.",
+                    "last": "Bolay"
+                },
+                {
+                    "first": "Lawrence S.",
+                    "initial": "L.S.",
+                    "last": "Fakoli"
+                },
+                {
+                    "first": "Abdoulaye",
+                    "initial": "A.",
+                    "last": "Diabat\u00e9"
+                },
+                {
+                    "first": "Roch K.",
+                    "initial": "R.K.",
+                    "last": "Dabir\u00e9"
+                },
+                {
+                    "first": "Roland W.",
+                    "initial": "R.W.",
+                    "last": "Bougma"
+                },
+                {
+                    "first": "Brian D.",
+                    "initial": "B.D.",
+                    "last": "Foy"
+                }
+            ],
+            "doi": "10.1186/1475-2875-13-417",
+            "issn": "14752875",
+            "pmid": "25363349",
+            "pub_year": 2014,
+            "title": "Evaluation of ivermectin mass drug administration for malaria transmission control across different West African environments",
+            "volume": "13"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "M. Nabie",
+                    "initial": "M.N.",
+                    "last": "Bayoh"
+                },
+                {
+                    "first": "Derrick K.",
+                    "initial": "D.K.",
+                    "last": "Mathias"
+                },
+                {
+                    "first": "Maurice R.",
+                    "initial": "M.R.",
+                    "last": "Odiere"
+                },
+                {
+                    "first": "Francis M.",
+                    "initial": "F.M.",
+                    "last": "Mutuku"
+                },
+                {
+                    "first": "Luna",
+                    "initial": "L.",
+                    "last": "Kamau"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Gimnig"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Vulule"
+                },
+                {
+                    "first": "William A.",
+                    "initial": "W.A.",
+                    "last": "Hawley"
+                },
+                {
+                    "first": "Mary J.",
+                    "initial": "M.J.",
+                    "last": "Hamel"
+                },
+                {
+                    "first": "Edward D.",
+                    "initial": "E.D.",
+                    "last": "Walker"
+                }
+            ],
+            "doi": "10.1186/1475-2875-9-62",
+            "issn": "14752875",
+            "pmid": "20187956",
+            "pub_year": 2010,
+            "title": "Anopheles gambiae: Historical population decline associated with regional distribution of insecticide-treated bed nets in western Nyanza Province, Kenya",
+            "volume": "9"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Giovanni",
+                    "initial": "G.",
+                    "last": "Benelli"
+                },
+                {
+                    "first": "Heinz",
+                    "initial": "H.",
+                    "last": "Mehlhorn"
+                }
+            ],
+            "doi": "10.1007/s00436-016-4971-z",
+            "firstpage": "1747",
+            "issn": "09320113",
+            "lastpage": "1754",
+            "pmid": "26932263",
+            "pub_year": 2016,
+            "title": "Declining malaria, rising of dengue and Zika virus: insights for mosquito vector control",
+            "volume": "115"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Bonneau"
+                },
+                {
+                    "first": "Josephus J.",
+                    "initial": "J.J.",
+                    "last": "Fourier"
+                },
+                {
+                    "first": "Carine",
+                    "initial": "C.",
+                    "last": "Rousseau"
+                },
+                {
+                    "first": "Marie Christine",
+                    "initial": "M.C.",
+                    "last": "Cadiergues"
+                }
+            ],
+            "firstpage": "16",
+            "issn": "15422666",
+            "lastpage": "20",
+            "pub_year": 2008,
+            "title": "Comparative efficacy of two fipronil spot-on formulations against experimental flea infestations (Ctenocephalides felis) in dogs",
+            "volume": "8"
+        },
+        "bib0025": null,
+        "bib0030": null,
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Derbali"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Polyakova"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Bouja\u00e2ma"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Burruss"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Cherni"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Barhoumi"
+                },
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Chelbi"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Zhioua"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2014.03.013",
+            "firstpage": "27",
+            "issn": "0001706X",
+            "lastpage": "32",
+            "pmid": "24681222",
+            "pub_year": 2014,
+            "title": "Laboratory and field evaluation of rodent bait treated with fipronil for feed through and systemic control of Phlebotomus papatasi",
+            "volume": "135"
+        },
+        "bib0040": null,
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Marc C.",
+                    "initial": "M.C.",
+                    "last": "Dolan"
+                },
+                {
+                    "first": "Gary O.",
+                    "initial": "G.O.",
+                    "last": "Maupin"
+                },
+                {
+                    "first": "Bradley S.",
+                    "initial": "B.S.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Christopher",
+                    "initial": "C.",
+                    "last": "Denatale"
+                },
+                {
+                    "first": "Nick",
+                    "initial": "N.",
+                    "last": "Hamon"
+                },
+                {
+                    "first": "Chuck",
+                    "initial": "C.",
+                    "last": "Cole"
+                },
+                {
+                    "first": "Nordin S.",
+                    "initial": "N.S.",
+                    "last": "Zeidner"
+                },
+                {
+                    "first": "Kirby C.",
+                    "initial": "K.C.",
+                    "last": "Stafford"
+                }
+            ],
+            "doi": "10.1603/0022-2585-41.6.1043",
+            "firstpage": "1043",
+            "issn": "00222585",
+            "lastpage": "1054",
+            "pmid": "15605643",
+            "pub_year": 2004,
+            "title": "Control of immature Ixodes scapularis (Acari: Ixodidae) on rodent reservoirs of Borrelia burgdorferi in a residential community of Southeastern Connecticut",
+            "volume": "41"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "M. L.",
+                    "initial": "M.L.",
+                    "last": "Fritz"
+                },
+                {
+                    "first": "P. Y.",
+                    "initial": "P.Y.",
+                    "last": "Siegert"
+                },
+                {
+                    "first": "E. D.",
+                    "initial": "E.D.",
+                    "last": "Walker"
+                },
+                {
+                    "first": "M. N.",
+                    "initial": "M.N.",
+                    "last": "Bayoh"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Vulule"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Miller"
+                }
+            ],
+            "doi": "10.1179/000349809X12459740922138",
+            "firstpage": "539",
+            "issn": "00034983",
+            "lastpage": "547",
+            "pmid": "19695159",
+            "pub_year": 2009,
+            "title": "Toxicity of bloodmeals from ivermectin-treated cattle to Anopheles gambiae s.l.",
+            "volume": "103"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Megan L.",
+                    "initial": "M.L.",
+                    "last": "Fritz"
+                },
+                {
+                    "first": "Edward D.",
+                    "initial": "E.D.",
+                    "last": "Walker"
+                },
+                {
+                    "first": "James R.",
+                    "initial": "J.R.",
+                    "last": "Miller"
+                }
+            ],
+            "doi": "10.1603/ME11098",
+            "firstpage": "326",
+            "issn": "00222585",
+            "lastpage": "331",
+            "pmid": "22493850",
+            "pub_year": 2012,
+            "title": "Lethal and sublethal effects of avermectin/milbemycin parasiticides on the African malaria vector, anopheles arabiensis",
+            "volume": "49"
+        },
+        "bib0060": null,
+        "bib0065": null,
+        "bib0070": null,
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Ingenloff"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Garlapati"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "M. I.",
+                    "initial": "M.I.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "J. L.",
+                    "initial": "J.L.",
+                    "last": "Remmers"
+                },
+                {
+                    "first": "R. M.",
+                    "initial": "R.M.",
+                    "last": "Poch\u00e9"
+                }
+            ],
+            "doi": "10.1111/j.1365-2915.2012.00995.x",
+            "firstpage": "10",
+            "issn": "0269283X",
+            "lastpage": "18",
+            "pmid": "23278322",
+            "pub_year": 2013,
+            "title": "Feed-through insecticides for the control of the sand fly Phlebotomus argentipes",
+            "volume": "27"
+        },
+        "bib0080": null,
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Rebekah J.",
+                    "initial": "R.J.",
+                    "last": "Kent"
+                },
+                {
+                    "first": "Douglas E.",
+                    "initial": "D.E.",
+                    "last": "Norris"
+                }
+            ],
+            "firstpage": "336",
+            "issn": "00029637",
+            "lastpage": "342",
+            "pmid": "16103600",
+            "pub_year": 2005,
+            "title": "Identification of mammalian blood meals in mosquitoes by a multiplexed polymerase chain reaction targeting cytochrome B",
+            "volume": "73"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "L. L.",
+                    "initial": "L.L.",
+                    "last": "Koekemoer"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Kamau"
+                },
+                {
+                    "first": "R. H.",
+                    "initial": "R.H.",
+                    "last": "Hunt"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Coetzee"
+                }
+            ],
+            "doi": "10.4269/ajtmh.2002.66.804",
+            "firstpage": "804",
+            "issn": "00029637",
+            "lastpage": "811",
+            "pmid": "12224596",
+            "pub_year": 2002,
+            "title": "A cocktail polymerase chain reaction assay to identify members of the Anopheles funestus (Diptera: Culicidae) group",
+            "volume": "66"
+        },
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "John K.",
+                    "initial": "J.K.",
+                    "last": "Kruschke"
+                }
+            ],
+            "doi": "10.1037/a0029177",
+            "firstpage": "573",
+            "issn": "00963445",
+            "lastpage": "588",
+            "pub_year": 2013,
+            "title": "Bayesian estimation supersedes the T test",
+            "volume": "142"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Eliningaya J.",
+                    "initial": "E.J.",
+                    "last": "Kweka"
+                },
+                {
+                    "first": "Beda J.",
+                    "initial": "B.J.",
+                    "last": "Mwang'Onde"
+                },
+                {
+                    "first": "Epiphania",
+                    "initial": "E.",
+                    "last": "Kimaro"
+                },
+                {
+                    "first": "Shandala",
+                    "initial": "S.",
+                    "last": "Msangi"
+                },
+                {
+                    "first": "Charles P.",
+                    "initial": "C.P.",
+                    "last": "Massenga"
+                },
+                {
+                    "first": "Aneth M.",
+                    "initial": "A.M.",
+                    "last": "Mahande"
+                }
+            ],
+            "doi": "10.1186/1475-2875-8-82",
+            "issn": "14752875",
+            "pmid": "19393098",
+            "pub_year": 2009,
+            "title": "A resting box for outdoor sampling of adult Anopheles arabiensis in rice irrigation schemes of lower Moshi, northern Tanzania",
+            "volume": "8"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Soo Jeong",
+                    "initial": "S.J.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Prakash",
+                    "initial": "P.",
+                    "last": "Mulay"
+                },
+                {
+                    "first": "Brienne",
+                    "initial": "B.",
+                    "last": "Diebolt-Brown"
+                },
+                {
+                    "first": "Michelle J.",
+                    "initial": "M.J.",
+                    "last": "Lackovic"
+                },
+                {
+                    "first": "Louise N.",
+                    "initial": "L.N.",
+                    "last": "Mehler"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Beckman"
+                },
+                {
+                    "first": "Justin",
+                    "initial": "J.",
+                    "last": "Waltz"
+                },
+                {
+                    "first": "Joanne B.",
+                    "initial": "J.B.",
+                    "last": "Prado"
+                },
+                {
+                    "first": "Yvette A.",
+                    "initial": "Y.A.",
+                    "last": "Mitchell"
+                },
+                {
+                    "first": "Sheila A.",
+                    "initial": "S.A.",
+                    "last": "Higgins"
+                },
+                {
+                    "first": "Abby",
+                    "initial": "A.",
+                    "last": "Schwartz"
+                },
+                {
+                    "first": "Geoffrey M.",
+                    "initial": "G.M.",
+                    "last": "Calvert"
+                }
+            ],
+            "doi": "10.3109/15563650.2010.507548",
+            "firstpage": "737",
+            "issn": "15563650",
+            "lastpage": "744",
+            "pmid": "20849331",
+            "pub_year": 2010,
+            "title": "Acute illnesses associated with exposure to fipronil-surveillance data from 11 states in the United States, 2001-2007",
+            "volume": "48"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "K. A.",
+                    "initial": "K.A.",
+                    "last": "Lindblade"
+                },
+                {
+                    "first": "J. E.",
+                    "initial": "J.E.",
+                    "last": "Gimnig"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Kamau"
+                },
+                {
+                    "first": "W. A.",
+                    "initial": "W.A.",
+                    "last": "Hawley"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Odhiambo"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Olang"
+                },
+                {
+                    "first": "F. O.",
+                    "initial": "F.O.",
+                    "last": "Ter Kuile"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Vulule"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Slutsker"
+                }
+            ],
+            "doi": "10.1603/0022-2585(2006)043[0428:IOSUOI]2.0.CO;2",
+            "firstpage": "428",
+            "issn": "00222585",
+            "lastpage": "432",
+            "pmid": "16619629",
+            "pub_year": 2006,
+            "title": "Impact of sustained use of insecticide-treated bednets on malaria vector species distribution and culicine mosquitoes",
+            "volume": "43"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "Saul",
+                    "initial": "S.",
+                    "last": "Lozano-Fuentes"
+                },
+                {
+                    "first": "Rebekah C.",
+                    "initial": "R.C.",
+                    "last": "Kading"
+                },
+                {
+                    "first": "Daniel A.",
+                    "initial": "D.A.",
+                    "last": "Hartman"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Okoth"
+                },
+                {
+                    "first": "Naftaly",
+                    "initial": "N.",
+                    "last": "Githaka"
+                },
+                {
+                    "first": "Vishvanath",
+                    "initial": "V.",
+                    "last": "Nene"
+                },
+                {
+                    "first": "Richard M.",
+                    "initial": "R.M.",
+                    "last": "Poch\u00e9"
+                }
+            ],
+            "doi": "10.1186/s12936-016-1361-z",
+            "issn": "14752875",
+            "pmid": "27317557",
+            "pub_year": 2016,
+            "title": "Evaluation of a topical formulation of eprinomectin against Anopheles arabiensis when administered to Zebu cattle (Bos indicus) under field conditions",
+            "volume": "15"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Aneth",
+                    "initial": "A.",
+                    "last": "Mahande"
+                },
+                {
+                    "first": "Franklin",
+                    "initial": "F.",
+                    "last": "Mosha"
+                },
+                {
+                    "first": "Johnson",
+                    "initial": "J.",
+                    "last": "Mahande"
+                },
+                {
+                    "first": "Eliningaya",
+                    "initial": "E.",
+                    "last": "Kweka"
+                }
+            ],
+            "doi": "10.1186/1475-2875-6-100",
+            "issn": "14752875",
+            "pmid": "17663787",
+            "pub_year": 2007,
+            "title": "Feeding and resting behaviour of malaria vector, Anopheles arabiensis with reference to zooprophylaxis",
+            "volume": "6"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Robert N.",
+                    "initial": "R.N.",
+                    "last": "Maina"
+                },
+                {
+                    "first": "Douglas",
+                    "initial": "D.",
+                    "last": "Walsh"
+                },
+                {
+                    "first": "Charla",
+                    "initial": "C.",
+                    "last": "Gaddy"
+                },
+                {
+                    "first": "Gordon",
+                    "initial": "G.",
+                    "last": "Hongo"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Waitumbi"
+                },
+                {
+                    "first": "Lucas",
+                    "initial": "L.",
+                    "last": "Otieno"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "Bernhards R.",
+                    "initial": "B.R.",
+                    "last": "Ogutu"
+                }
+            ],
+            "doi": "10.1186/1475-2875-9-S3-S4",
+            "issn": "14752875",
+            "pmid": "21144084",
+            "pub_year": 2010,
+            "title": "Impact of Plasmodium falciparum infection on haematological parameters in children living in Western Kenya",
+            "volume": "9"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Evan M.",
+                    "initial": "E.M.",
+                    "last": "Mathenge"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Gimnig"
+                },
+                {
+                    "first": "Margarette",
+                    "initial": "M.",
+                    "last": "Kolczak"
+                },
+                {
+                    "first": "Maurice",
+                    "initial": "M.",
+                    "last": "Ombok"
+                },
+                {
+                    "first": "Lucy W.",
+                    "initial": "L.W.",
+                    "last": "Irungu"
+                },
+                {
+                    "first": "William A.",
+                    "initial": "W.A.",
+                    "last": "Hawley"
+                }
+            ],
+            "doi": "10.1603/0022-2585-38.4.531",
+            "firstpage": "531",
+            "issn": "00222585",
+            "lastpage": "536",
+            "pmid": "11476333",
+            "pub_year": 2001,
+            "title": "Effect of permethrin-impregnated nets on exiting behavior, blood feeding success, and time of feeding of malaria mosquitoes (Diptera: Culicidae) in western Kenya",
+            "volume": "38"
+        },
+        "bib0135": null,
+        "bib0140": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Medleau"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Clekis"
+                },
+                {
+                    "first": "T. R.",
+                    "initial": "T.R.",
+                    "last": "McArthur"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Alva"
+                },
+                {
+                    "first": "R. A.",
+                    "initial": "R.A.",
+                    "last": "Barrick"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Jeannin"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Irwin"
+                }
+            ],
+            "doi": "10.1111/j.1748-5827.2003.tb00123.x",
+            "firstpage": "71",
+            "issn": "00224510",
+            "lastpage": "75",
+            "pmid": "12622471",
+            "pub_year": 2003,
+            "title": "Evaluation of fipronil spot-on in the treatment of flea allergic dermatitis in dogs",
+            "volume": "44"
+        },
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "Joseph M.",
+                    "initial": "J.M.",
+                    "last": "Mwangangi"
+                },
+                {
+                    "first": "Charles M.",
+                    "initial": "C.M.",
+                    "last": "Mbogo"
+                },
+                {
+                    "first": "Ephantus J.",
+                    "initial": "E.J.",
+                    "last": "Muturi"
+                },
+                {
+                    "first": "Joseph G.",
+                    "initial": "J.G.",
+                    "last": "Nzovu"
+                },
+                {
+                    "first": "John I.",
+                    "initial": "J.I.",
+                    "last": "Githure"
+                },
+                {
+                    "first": "Guiyun",
+                    "initial": "G.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "Noboru",
+                    "initial": "N.",
+                    "last": "Minakawa"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Novak"
+                },
+                {
+                    "first": "John C.",
+                    "initial": "J.C.",
+                    "last": "Beier"
+                }
+            ],
+            "firstpage": "44",
+            "issn": "09729062",
+            "lastpage": "51",
+            "pmid": "17378216",
+            "pub_year": 2007,
+            "title": "Spatial distribution and habitat characterisation of Anopheles larvae along the Kenyan coast",
+            "volume": "44"
+        },
+        "bib0150": {
+            "authors": [
+                {
+                    "first": "Krijn P.",
+                    "initial": "K.P.",
+                    "last": "Paaijmans"
+                },
+                {
+                    "first": "Silvie",
+                    "initial": "S.",
+                    "last": "Huijben"
+                },
+                {
+                    "first": "Andrew K.",
+                    "initial": "A.K.",
+                    "last": "Githeko"
+                },
+                {
+                    "first": "Willem",
+                    "initial": "W.",
+                    "last": "Takken"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2008.07.010",
+            "firstpage": "124",
+            "issn": "0001706X",
+            "lastpage": "130",
+            "pmid": "18760989",
+            "pub_year": 2009,
+            "title": "Competitive interactions between larvae of the malaria mosquitoes Anopheles arabiensis and Anopheles gambiae under semi-field conditions in western Kenya",
+            "volume": "109"
+        },
+        "bib0155": null,
+        "bib0160": null,
+        "bib0165": null,
+        "bib0170": {
+            "authors": [
+                {
+                    "first": "Richard M.",
+                    "initial": "R.M.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "Rajesh",
+                    "initial": "R.",
+                    "last": "Garlapati"
+                },
+                {
+                    "first": "Mutum I.",
+                    "initial": "M.I.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Poch\u00e9"
+                }
+            ],
+            "doi": "10.1603/ME12259",
+            "firstpage": "833",
+            "issn": "00222585",
+            "lastpage": "837",
+            "pmid": "23926782",
+            "pub_year": 2013,
+            "title": "Evaluation of fipronil oral dosing to cattle for control of adult and larval sand flies under controlled conditions",
+            "volume": "50"
+        },
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Richard M.",
+                    "initial": "R.M.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "Dylan",
+                    "initial": "D.",
+                    "last": "Burruss"
+                },
+                {
+                    "first": "Larisa",
+                    "initial": "L.",
+                    "last": "Polyakova"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "Rajesh B.",
+                    "initial": "R.B.",
+                    "last": "Garlapati"
+                }
+            ],
+            "doi": "10.1186/s12936-015-0883-0",
+            "issn": "14752875",
+            "pmid": "26377691",
+            "pub_year": 2015,
+            "title": "Treatment of livestock with systemic insecticides for control of Anopheles arabiensis in western Kenya",
+            "volume": "14"
+        },
+        "bib0180": {
+            "authors": [
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Poch\u00e9"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Hartman"
+                },
+                {
+                    "first": "Larisa",
+                    "initial": "L.",
+                    "last": "Polyakova"
+                },
+                {
+                    "first": "Richard M.",
+                    "initial": "R.M.",
+                    "last": "Poch\u00e9"
+                }
+            ],
+            "doi": "10.1111/jvec.12252",
+            "firstpage": "171",
+            "issn": "10811710",
+            "lastpage": "177",
+            "pmid": "28504448",
+            "pub_year": 2017,
+            "title": "Efficacy of a fipronil bait in reducing the number of fleas (Oropsylla spp.) infesting wild black-tailed prairie dogs",
+            "volume": "42"
+        },
+        "bib0185": null,
+        "bib0190": {
+            "authors": [
+                {
+                    "first": "Val\u00e9rie",
+                    "initial": "V.",
+                    "last": "Raymond-Delpech"
+                },
+                {
+                    "first": "Kazuhiko",
+                    "initial": "K.",
+                    "last": "Matsuda"
+                },
+                {
+                    "first": "Benedict M.",
+                    "initial": "B.M.",
+                    "last": "Sattelle"
+                },
+                {
+                    "first": "James J.",
+                    "initial": "J.J.",
+                    "last": "Rauh"
+                },
+                {
+                    "first": "David B.",
+                    "initial": "D.B.",
+                    "last": "Sattelle"
+                }
+            ],
+            "doi": "10.1007/s10158-005-0004-9",
+            "firstpage": "119",
+            "issn": "13542516",
+            "lastpage": "133",
+            "pmid": "16172884",
+            "pub_year": 2005,
+            "title": "Ion channels: Molecular targets of neuroactive insecticides",
+            "volume": "5"
+        },
+        "bib0195": null,
+        "bib0200": {
+            "authors": [
+                {
+                    "first": "J. A.",
+                    "initial": "J.A.",
+                    "last": "Scott"
+                },
+                {
+                    "first": "W. G.",
+                    "initial": "W.G.",
+                    "last": "Brogdon"
+                },
+                {
+                    "first": "F. H.",
+                    "initial": "F.H.",
+                    "last": "Collins"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1993.49.520",
+            "firstpage": "520",
+            "issn": "00029637",
+            "lastpage": "529",
+            "pmid": "8214283",
+            "pub_year": 1993,
+            "title": "Identification of single specimens of the Anopheles gambiae complex by the polymerase chain reaction",
+            "volume": "49"
+        },
+        "bib0205": null,
+        "bib0210": {
+            "authors": [
+                {
+                    "first": "Georges",
+                    "initial": "G.",
+                    "last": "Snounou"
+                },
+                {
+                    "first": "Suganya",
+                    "initial": "S.",
+                    "last": "Viriyakosol"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Xin Ping Zhu"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Jarra"
+                },
+                {
+                    "first": "Lucilia",
+                    "initial": "L.",
+                    "last": "Pinheiro"
+                },
+                {
+                    "first": "Virgilio E.",
+                    "initial": "V.E.",
+                    "last": "do Rosario"
+                },
+                {
+                    "first": "Sodsri",
+                    "initial": "S.",
+                    "last": "Thaithong"
+                },
+                {
+                    "first": "K. Neil",
+                    "initial": "K.N.",
+                    "last": "Brown"
+                }
+            ],
+            "doi": "10.1016/0166-6851(93)90077-B",
+            "firstpage": "315",
+            "issn": "01666851",
+            "lastpage": "320",
+            "pmid": "8264734",
+            "pub_year": 1993,
+            "title": "High sensitivity of detection of human malaria parasites by the use of nested polymerase chain reaction",
+            "volume": "61"
+        },
+        "bib0215": {
+            "authors": [
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Tirados"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Costantini"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Torr"
+                }
+            ],
+            "doi": "10.1111/j.1365-2915.2006.652.x",
+            "firstpage": "425",
+            "issn": "0269283X",
+            "lastpage": "437",
+            "pmid": "17199754",
+            "pub_year": 2006,
+            "title": "Blood-feeding behaviour of the malarial mosquito Anopheles arabiensis: Implications for vector control",
+            "volume": "20"
+        },
+        "bib0220": null,
+        "bib0225": {
+            "authors": [
+                {
+                    "first": "Gonzalo M.",
+                    "initial": "G.M.",
+                    "last": "Vazquez-Prokopec"
+                },
+                {
+                    "first": "William A.",
+                    "initial": "W.A.",
+                    "last": "Galvin"
+                },
+                {
+                    "first": "Rosmarie",
+                    "initial": "R.",
+                    "last": "Kelly"
+                },
+                {
+                    "first": "Uriel",
+                    "initial": "U.",
+                    "last": "Kitron"
+                }
+            ],
+            "doi": "10.1603/033.046.0602",
+            "firstpage": "1256",
+            "issn": "00222585",
+            "lastpage": "1259",
+            "pmid": "19960668",
+            "pub_year": 2009,
+            "title": "A new, cost-effective, battery-powered aspirator for adult mosquito collections",
+            "volume": "46"
+        },
+        "bib0230": {
+            "authors": [
+                {
+                    "first": "Christine L.",
+                    "initial": "C.L.",
+                    "last": "Wanjala"
+                },
+                {
+                    "first": "Jernard P.",
+                    "initial": "J.P.",
+                    "last": "Mbugi"
+                },
+                {
+                    "first": "Edna",
+                    "initial": "E.",
+                    "last": "Ototo"
+                },
+                {
+                    "first": "Maxwell",
+                    "initial": "M.",
+                    "last": "Gesuge"
+                },
+                {
+                    "first": "Yaw A.",
+                    "initial": "Y.A.",
+                    "last": "Afrane"
+                },
+                {
+                    "first": "Harrysone E.",
+                    "initial": "H.E.",
+                    "last": "Atieli"
+                },
+                {
+                    "first": "Guofa",
+                    "initial": "G.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Andrew K.",
+                    "initial": "A.K.",
+                    "last": "Githeko"
+                },
+                {
+                    "first": "Guiyun",
+                    "initial": "G.",
+                    "last": "Yan"
+                }
+            ],
+            "doi": "10.3201/eid2112.150814",
+            "firstpage": "2178",
+            "issn": "10806040",
+            "lastpage": "2181",
+            "pmid": "26583525",
+            "pub_year": 2015,
+            "title": "Pyrethroid and DDT resistance and organophosphate susceptibility among anopheles spp. Mosquitoes, western Kenya",
+            "volume": "21"
+        },
+        "bib0235": null,
+        "bib0240": null,
+        "bib0245": {
+            "authors": [
+                {
+                    "first": "Guofa",
+                    "initial": "G.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Yaw A.",
+                    "initial": "Y.A.",
+                    "last": "Afrane"
+                },
+                {
+                    "first": "Anne M.",
+                    "initial": "A.M.",
+                    "last": "Vardo-Zalik"
+                },
+                {
+                    "first": "Harrysone",
+                    "initial": "H.",
+                    "last": "Atieli"
+                },
+                {
+                    "first": "Daibin",
+                    "initial": "D.",
+                    "last": "Zhong"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Wamae"
+                },
+                {
+                    "first": "Yousif E.",
+                    "initial": "Y.E.",
+                    "last": "Himeidan"
+                },
+                {
+                    "first": "Noboru",
+                    "initial": "N.",
+                    "last": "Minakawa"
+                },
+                {
+                    "first": "Andrew K.",
+                    "initial": "A.K.",
+                    "last": "Githeko"
+                },
+                {
+                    "first": "Guiyun",
+                    "initial": "G.",
+                    "last": "Yan"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0020318",
+            "issn": "19326203",
+            "pmid": "21629783",
+            "pub_year": 2011,
+            "title": "Changing patterns of malaria epidemiology between 2002 and 2010 in western kenya: The fall and rise of malaria",
+            "volume": "6"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 39525,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "On T1, these changes were significantly different from the baseline at weeks three and four.",
+            "startOffset": 39433,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 39778,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "A similar pattern was observed on Site 2 but the density reductions for at weeks 3 and 4 post-treatment were not significantly different from baseline values.",
+            "startOffset": 39620,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 21151,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In western Kenya, An.",
+            "startOffset": 21130,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18358,
+            "parents": [],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 18356,
+                    "startOffset": 18338
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Malaria is the leading cause of morbidity in children in western Kenya (Maina et al., 2010).",
+            "startOffset": 18266,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35673,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0100",
+            "sentence": "funestus s.s. females were collected during the final 2\u20133 weeks of the study only.",
+            "startOffset": 35591,
+            "title": "Anopheles funestus s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 19715,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "When ITNs were still capable of reducing transmission in this region, the effect was only noticeable against An.",
+            "startOffset": 19603,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22524,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "We took steps to prevent or eliminate the exposure of participants to fipronil.",
+            "startOffset": 22445,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35028,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "funestus s.s. (treatment sporozoite rate = 0.12 [0.04, 0.21]; control sporozoite rate = 0.10 [0.03, 0.20]) but was not significantly different to the other species.",
+            "startOffset": 34864,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 30756,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Overlapping credibility intervals show that the compared parameters are not statistically different given the uncertainty of the estimation.",
+            "startOffset": 30616,
+            "title": "Blood meal proportions"
+        },
+        {
+            "endOffset": 44027,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "This pattern is consistent with the habitat selection of An.",
+            "startOffset": 43967,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43320,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. decreased when An.",
+            "startOffset": 43289,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28144,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 28142,
+                    "startOffset": 28121
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "DNA was extracted separately from mosquito abdomens and head/thoraces (Kent and Norris, 2005).",
+            "startOffset": 28050,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 40739,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis, and An.",
+            "startOffset": 40720,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40848,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 40846,
+                    "startOffset": 40754
+                },
+                "bib0040": {
+                    "endOffset": 40846,
+                    "startOffset": 40754
+                },
+                "bib0115": {
+                    "endOffset": 40846,
+                    "startOffset": 40754
+                },
+                "bib0245": {
+                    "endOffset": 40846,
+                    "startOffset": 40754
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "funestus s.s (CDC, 2015; Division of Malaria Control, 2011; Lozano-Fuentes et al., 2016; Zhou et al., 2011).",
+            "startOffset": 40740,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33765,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "gambiae s.s.",
+            "startOffset": 33753,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 42644,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. compared with An.",
+            "startOffset": 42614,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36656,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "In particular, these statistical differences were observed during the last week in Site 1, and during the first and second weeks post-treatment in Site 2 (Fig. 2).",
+            "startOffset": 36493,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 43218,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "This density reduction could also be the result of changing the local mosquito population dynamics.",
+            "startOffset": 43119,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42736,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 42703,
+                    "startOffset": 42676
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "arabiensis in this study area (Lozano-Fuentes et al., 2016), this result is not surprising.",
+            "startOffset": 42645,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33160,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Cattle less than 251 kg comprised 78% of the treated cattle while heavier cattle were less common.",
+            "startOffset": 33062,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 33471,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Additionally, cattle within the T2 buffer zone were significantly heavier on average than cattle within inner T2.",
+            "startOffset": 33358,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 43667,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "We did not anticipate any effect of cattle dosing on An.",
+            "startOffset": 43611,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42826,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "However, the T1 plot showed a significant difference in the indoor resting density of An.",
+            "startOffset": 42737,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42286,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "This density reduction was expected since An.",
+            "startOffset": 42241,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26084,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "An experienced local veterinarian was present during the dosing to estimate the weight of the animals and remained on call in case of any adverse effects on the cattle.",
+            "startOffset": 25916,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 27885,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 27883,
+                    "startOffset": 27828
+                },
+                "bib0065": {
+                    "endOffset": 27883,
+                    "startOffset": 27828
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Anopheles mosquitoes were first sorted by sex and identified morphologically (Gillies and Coetzee, 1987; Gillies and De Meillon, 1968).",
+            "startOffset": 27750,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 28816,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The nature of the study data made it impossible to conform the required NHST assumptions of normality and equal variances across groups.",
+            "startOffset": 28680,
+            "title": "Bayesian parameter estimation"
+        },
+        {
+            "endOffset": 30973,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We assumed P. falciparum positive/negative mosquitoes (y) followed a binomial distribution (y \u223c Binomial (\u03b8, N)) with an unknown sporozoite rate (\u03b8) from the total number of individuals tested (N).",
+            "startOffset": 30776,
+            "title": "Sporozoite rate"
+        },
+        {
+            "endOffset": 33705,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "funestus s.l. Molecular analysis confirmed 275 An.",
+            "startOffset": 33655,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 41961,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Using this conservative approach, we can conclude that there was a reduction of 89% in the resting density of An.",
+            "startOffset": 41848,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46749,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "This reduction as a result of fipronil dosing was observed not only when compared to the baseline collections but also in comparison to mosquito densities in the control plots.",
+            "startOffset": 46573,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 25498,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Consent forms were translated into KiSwahili and English.",
+            "startOffset": 25441,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 25204,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Written informed consent was obtained from the head of the household for participation in this study.",
+            "startOffset": 25103,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 40101,
+            "parents": [],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 40079,
+                    "startOffset": 40059
+                },
+                "bib0175": {
+                    "endOffset": 40099,
+                    "startOffset": 40081
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "gambiae s.l. has been tested previously in the laboratory and cattle shed experiments (Burruss et al., 2014; Poch\u00e9 et al., 2015).",
+            "startOffset": 39972,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34315,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "arabiensis, 22/26 (\u223c85%) of blood meals came from cattle, 3/26 (\u223c12%) from humans, and 1/26 (\u223c4%) from a pig.",
+            "startOffset": 34206,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 40258,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "To the best of our knowledge, this study is the first to assess the efficacy of fipronil presented orally under field conditions for malaria vector control.",
+            "startOffset": 40102,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19251,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In parts of western Kenya, these control measures have resulted in An.",
+            "startOffset": 19181,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43444,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Therefore, any reduction in An.",
+            "startOffset": 43413,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34205,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "For An.",
+            "startOffset": 34198,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 39934,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis under field conditions in western Kenya.",
+            "startOffset": 39883,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47967,
+            "parents": [],
+            "secId": "sec0150",
+            "sentence": "and ILRI\u2019s Institutional Research Ethics Committee with reference number IREC2015.05.",
+            "startOffset": 47882,
+            "title": "Ethics approval and consent to participate"
+        },
+        {
+            "endOffset": 21417,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Ivermectin and moxidectin administered by injection at doses of <600 \u03bcg/kg body weight (BW) reduced the survivorship and fecundity of An.",
+            "startOffset": 21280,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48156,
+            "parents": [],
+            "secId": "sec0155",
+            "sentence": "Other data will be made available upon request.",
+            "startOffset": 48109,
+            "title": "Availability of data and material"
+        },
+        {
+            "endOffset": 35881,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0100",
+            "sentence": "In Site 1 positive samples were only collected during the final week of the study (T1, 2/11 \u223c 0.22 [0.036, 0.45]; C1, 4/9 \u223c 0.45 [0.17, 0.72]).",
+            "startOffset": 35738,
+            "title": "Anopheles funestus s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 18766,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "arabiensis Patton, and An.",
+            "startOffset": 18740,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30615,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 30427,
+                    "startOffset": 30413
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "The 95% credibility intervals (Kruschke, 2013) are equal to the 5th and 95th quantiles of the posterior distribution and represent the uncertainty of the calculated parameter; this range contains the parameter with a 95% probability.",
+            "startOffset": 30382,
+            "title": "Blood meal proportions"
+        },
+        {
+            "endOffset": 37670,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "However, the indoor resting density of An.",
+            "startOffset": 37628,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 31700,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The Poisson distribution is commonly used to describe randomly distributed objects (mosquitoes) counted through a randomly placed window (a hut).",
+            "startOffset": 31555,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 45962,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 45960,
+                    "startOffset": 45942
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. for seven days following mass drug administration (Alout et al., 2014).",
+            "startOffset": 45878,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19145,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These strategies have led to the reduction of indoor biting (endophagic) and indoor resting (endophilic) vector populations, like An.",
+            "startOffset": 19012,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20888,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Preliminary data support the use of endectocides in cattle as an effective approach for the control of outdoor-biting vectors.",
+            "startOffset": 20762,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25103,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "All cattle from participating families located inside the treatment plots (T1, T2) as well as the surrounding buffer zones were treated.",
+            "startOffset": 24967,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 32538,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Only one household withdrew from the study after originally giving their consent because the family moved out of the village, and was replaced with a nearby hut.",
+            "startOffset": 32377,
+            "title": "Enrollment"
+        },
+        {
+            "endOffset": 19737,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "gambiae s.s., and An.",
+            "startOffset": 19716,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26649,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "This milk buy-and-replace program was carried out every day for 14 days after animal treatment.",
+            "startOffset": 26554,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 20429,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Therefore, many reasons warrant development of novel vector control strategies that target residual malaria transmission driven by outdoor biting vectors.",
+            "startOffset": 20275,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22295,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 22293,
+                    "startOffset": 22277
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Fipronil is approved in many countries to control ectoparasites on domestic animals, and its safety to mammals and people is well established (Lee et al., 2010).",
+            "startOffset": 22134,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32952,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "A veterinarian estimated the weight of the animals before dosing with fipronil.",
+            "startOffset": 32873,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 27636,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 27539,
+                    "startOffset": 27511
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Lozano-Fuentes et al. (2016) attempted outdoor collection of mosquitos using clay pots but found the method to be inadequate.",
+            "startOffset": 27511,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 35350,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "arabiensis mosquitoes were obtained from either control plot (C1, C2).",
+            "startOffset": 35280,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 36746,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "The small samples size caused considerable uncertainty in the sporozoite rate estimations.",
+            "startOffset": 36656,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 37464,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "During the baseline, An.",
+            "startOffset": 37440,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 46419,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Thus measuring mosquito parity and longevity parameters in future field studies is necessary.",
+            "startOffset": 46326,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46906,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "arabiensis that feed primarily on cattle.",
+            "startOffset": 46865,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 22028,
+            "parents": [],
+            "refoffsets": {
+                "bib0195": {
+                    "endOffset": 22026,
+                    "startOffset": 21988
+                },
+                "bib0220": {
+                    "endOffset": 22026,
+                    "startOffset": 21988
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "It is used in granular turf products, topical pet care products, gel baits, liquid termiticides, and agriculture (Roberts and Hutson, 1999; Tomlin, 2009).",
+            "startOffset": 21874,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34325,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "(Fig. 1).",
+            "startOffset": 34316,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 35252,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "arabiensis (4.4%) within T1 during weeks one, three, and four post-treatment, all collected from different huts, were P. falciparum sporozoite-positive.",
+            "startOffset": 35100,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 36310,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "C2 was active in only one of the five weekly collections while the other plots were active in four out of five (Fig. 2).",
+            "startOffset": 36190,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 38089,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "arabiensis was only captured on T2 during the baseline (a single female); after treatment, none of the sampled huts produced any An.",
+            "startOffset": 37957,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 38869,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0120",
+            "sentence": "An.",
+            "startOffset": 38866,
+            "title": "Anopheles funestus s.s. density"
+        },
+        {
+            "endOffset": 45877,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Similarly, ivermectin, when given to people, showed a 33.9% reduction in survivorship of An.",
+            "startOffset": 45785,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48510,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "The data were analyzed and figures generated by SLF.",
+            "startOffset": 48458,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 34791,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "gambiae s.s. = 0.10 [0.07, 0.13], An.",
+            "startOffset": 34754,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 25915,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Treatment occurred one week following baseline mosquito collections.",
+            "startOffset": 25847,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 48558,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "The manuscript was written by SLF, RCK, and RP.",
+            "startOffset": 48511,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 30192,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The unknown parameter estimates (posterior distribution) were obtained using a Markov Chain Monte Carlo (MCMC) sampler with four chains, a burn-in of 10,000 (discarded iterations), 100,000 iterations, and a thinning of 250.",
+            "startOffset": 29969,
+            "title": "Blood meal proportions"
+        },
+        {
+            "endOffset": 34112,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "We considered each blood meal a unique blood-feeding event.",
+            "startOffset": 34053,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 44890,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "However, it is unclear whether or not these observations are related.",
+            "startOffset": 44821,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28430,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0210": {
+                    "endOffset": 28428,
+                    "startOffset": 28408
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Head/thorax DNA extractions were screened for P. falciparum DNA using nested PCR (Snounou et al., 1993).",
+            "startOffset": 28326,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 43765,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 43763,
+                    "startOffset": 43736
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "funestus s.s., since the species only feeds on humans in this area (Lozano-Fuentes et al., 2016).",
+            "startOffset": 43668,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44789,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis was observed concurrently with an increase in the resting density of An.",
+            "startOffset": 44706,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33654,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "gambiae s.l. or An.",
+            "startOffset": 33635,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 39882,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "This study evaluated the use for fipronil, orally administered to village cattle, against An.",
+            "startOffset": 39789,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42031,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis at week-3 post-treatment and 64% at week-4 post-treatment.",
+            "startOffset": 41962,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46572,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "arabiensis was decreased by 89% at 3 weeks post-treatment.",
+            "startOffset": 46514,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 18715,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The three dominant malaria vectors in western Kenya, An.",
+            "startOffset": 18659,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25846,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "In treatment villages (T1-T2) all available healthy Zebu cattle (Bos indicus) (>\u223c6 months) were orally administered one capsule containing \u223c0.5 mg/kg fipronil (CHEBI:5063, Gharda Chemicals Ltd., India).",
+            "startOffset": 25644,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 33281,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "In total, we treated 657 cattle in Site 1 (i.e. T1 and buffer zone), and 630 cattle in Site 2 (i.e. T2 and buffer zone).",
+            "startOffset": 33161,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 29431,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The mosquito collection data are distributed as supplementary material should the reader prefer to use other estimation methodology.",
+            "startOffset": 29299,
+            "title": "Bayesian parameter estimation"
+        },
+        {
+            "endOffset": 24753,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Only houses with thatched roofs were selected to reduce the potential for internal temperature variation of tin roofs to affect the mosquito sampling.",
+            "startOffset": 24603,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 39971,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "The efficacy of fipronil against An.",
+            "startOffset": 39935,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34826,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "arabiensis = 0.022 [0.001, 0.05]).",
+            "startOffset": 34792,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 19011,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 19009,
+                    "startOffset": 18967
+                },
+                "bib0110": {
+                    "endOffset": 19009,
+                    "startOffset": 18967
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "funestus s.s. Giles, have undergone changes in their abundance over the last ten years, most likely in response to the pressures of indoor residual spraying (IRS) and insecticide-treated nets (ITNs) (Bayoh et al., 2010; Lindblade et al., 2006).",
+            "startOffset": 18767,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34753,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "arabiensis = 0.016 [4 \u00d7 10\u22124, 0.05]) and in the control plots (An.",
+            "startOffset": 34687,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 45437,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "If there is a causal relationship between the treatment applied and the observed changes in the relative abundance of non-targeted malaria vectors, an integrated approach will be necessary (such as treating cattle in combination with ITNs, IRS, or human prophylactics) to counteract any increase in exposure by other anophelines.",
+            "startOffset": 45108,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32270,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The same software and procedures were employed as described for the blood meal parameter estimation.",
+            "startOffset": 32170,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 35279,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "No sporozoite-positive An.",
+            "startOffset": 35253,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 38828,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "In C2 the density remained the same after dosing while in T2 we did not find a single female after the treatment.",
+            "startOffset": 38715,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 42240,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Using a less stringent criterion, a significant difference only to the control plot, we could consider the first and the second weeks post-treatment to have significant reductions of 55% and 70% respectively.",
+            "startOffset": 42032,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23645,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 23547,
+                    "startOffset": 23529
+                },
+                "bib0180": {
+                    "endOffset": 23516,
+                    "startOffset": 23498
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Additionally, fipronil kills other blood-feeding ectoparasites including fleas (Poch\u00e9 et al., 2017) and ticks (Dolan et al., 2004) thereby improving animal health and increasing the sustainability of this \u201cone health\u201d approach.",
+            "startOffset": 23418,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26439,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 26331,
+                    "startOffset": 26315
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Even though evidence that accidental exposure to fipronil (in concentrations greater than in this study) presents only mild risks with temporary health effects (Lee et al., 2010), we advised the enrolled households that no treated animals be killed for meat within a week of treatment.",
+            "startOffset": 26154,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 34605,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "arabiensis in the treatment (An.",
+            "startOffset": 34573,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 37303,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "These results show that detecting changes in mosquito sporozoite rates in small time scales require larger sampling efforts, dramatic reductions (or increases) in positive females, or refinements of the estimation model.",
+            "startOffset": 37083,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 40958,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "In the current study, the indoor resting density of these mosquito species was consistently higher on Site 1.",
+            "startOffset": 40849,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47881,
+            "parents": [],
+            "secId": "sec0150",
+            "sentence": "This study was approved by ILRI\u2019s Animal Care and Use Committee with reference number IACUC2015.09.",
+            "startOffset": 47782,
+            "title": "Ethics approval and consent to participate"
+        },
+        {
+            "endOffset": 34863,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "The highest rate was observed in An.",
+            "startOffset": 34827,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 36857,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "gambiae s.s increasing the precision.",
+            "startOffset": 36820,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 38280,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "Within Site 1, T1 was significantly different to its corresponding baseline (i.e. the 95% credibility intervals for T1 did not overlap with the dotted red line; Fig. 3).",
+            "startOffset": 38111,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 27511,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Preserved mosquito samples were later shipped to Genesis Laboratories in Wellington, Colorado.",
+            "startOffset": 27417,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 38514,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "The density on T1 was near to significantly different at 2 weeks post-treatment, and at 3 weeks post-treatment the difference became significant (95% probability) and remained significant for at least 4 weeks post-treatment (Fig. 3).",
+            "startOffset": 38281,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 23417,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "We hypothesized that mosquito density would be significantly reduced after taking a blood meal from fipronil-treated cattle.",
+            "startOffset": 23293,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27209,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0205": {
+                    "endOffset": 26973,
+                    "startOffset": 26930
+                },
+                "bib0225": {
+                    "endOffset": 26973,
+                    "startOffset": 26930
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "To determine the density of each mosquito species (Silver, 2008; Vazquez-Prokopec et al., 2009) collections were performed by aspiration catches (AC) from 6:30 am until 10:30 am Each collector spent five minutes per house using a mechanical aspirator (Prokopack), a chronometer, and a headlamp (1600 lumens) to collect mosquitoes.",
+            "startOffset": 26879,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 44445,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "The results of this study revealed that investigations are necessary to explore the interspecies dynamics that may come into play when one species is virtually eliminated from a habitat.",
+            "startOffset": 44259,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30281,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 30236,
+                    "startOffset": 30223
+                },
+                "bib0185": {
+                    "endOffset": 30279,
+                    "startOffset": 30262
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "We used the JAGS 4.0 library (Plummer, 2003) for the R 3.2 language (R Core Team, 2014).",
+            "startOffset": 30193,
+            "title": "Blood meal proportions"
+        },
+        {
+            "endOffset": 35737,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0100",
+            "sentence": "The overall rate was 0.10 [0.04, 0.16] (9 positive/101 tested).",
+            "startOffset": 35674,
+            "title": "Anopheles funestus s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 33850,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "The collection numbers by plot, species, and date are provided as supplemental data.",
+            "startOffset": 33766,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 41399,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 41181,
+                    "startOffset": 41158
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "Mwangangi et al. (2007) found that swamp habitats, like the ones found along the coast of Lake Victoria, are less productive mosquito breeding habitats than areas with streams, pools and puddles present along the shores of rivers and deltas.",
+            "startOffset": 41158,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44259,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 44257,
+                    "startOffset": 44235
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "funestus s.s. since it prefers small puddles which were not present in the baseline collections, but increased throughout the study period as the rainy season ended and more breeding sites became available (Mwangangi et al., 2007).",
+            "startOffset": 44028,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24889,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Buffer zones of 0.5 km surrounded the treatment plots and were calculated drawing the minimum convex polygon of the participating huts.",
+            "startOffset": 24754,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 33061,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Approximately 35% of the cattle weighed in the 151\u2013250 kg range (36%, 95% credibility intervals [33%, 38%]).",
+            "startOffset": 32953,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 28679,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "We selected Bayesian parameter estimation and credibility interval comparisons in place of Null Hypothesis Significance Testing (NHST) to avoid data transformation.",
+            "startOffset": 28515,
+            "title": "Bayesian parameter estimation"
+        },
+        {
+            "endOffset": 18658,
+            "parents": [],
+            "refoffsets": {
+                "bib0245": {
+                    "endOffset": 18656,
+                    "startOffset": 18639
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Kenya\u2019s nearly 8 million annual malaria cases are due to the most virulent malaria parasite, Plasmodium falciparum (Zhou et al., 2011).",
+            "startOffset": 18523,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40719,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s., An.",
+            "startOffset": 40702,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19166,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "gambiae s.s. and An.",
+            "startOffset": 19146,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21279,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 21277,
+                    "startOffset": 21259
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "gambiae s.l. were successfully controlled after feeding on cattle which had been injected with ivermectin (Fritz et al., 2009).",
+            "startOffset": 21152,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25440,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The participants signed a corresponding consent form for whether their homes were in a treatment area (mosquito collections and cattle treatments), a control area (mosquito collections only) or the buffer area (cattle treatments only).",
+            "startOffset": 25205,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 33634,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "After removing male mosquitoes and other arthropod taxa, 1558 mosquitoes were identified morphologically to  An.",
+            "startOffset": 33522,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 44630,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. over multiple years in western Kenya due to the use of ITNs and a resulting proportional increase of An.",
+            "startOffset": 44513,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19385,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 19383,
+                    "startOffset": 19365
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "gambiae s.s. numbers have dramatically declined (Bayoh et al., 2010).",
+            "startOffset": 19316,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33752,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "funestus s.s., and 613 An.",
+            "startOffset": 33726,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 36492,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "gambiae s.s. sporozoite rates between the treatment and corresponding control plots in at least one of the weekly collections.",
+            "startOffset": 36366,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 26553,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "We purchased all the milk produced by the participants\u2019 cows and replaced it with locally available milk packets.",
+            "startOffset": 26440,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 26878,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Indoor mosquito collections were continued at one-week intervals for four weeks post-treatment.",
+            "startOffset": 26783,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 42915,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. during weeks three and four post-treatment when compared with the baseline.",
+            "startOffset": 42827,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33977,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "No An.",
+            "startOffset": 33971,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 34493,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "Overall, An.",
+            "startOffset": 34481,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 39254,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "After the dosing, there were changes in the mean density of An.",
+            "startOffset": 39191,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 18739,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "gambiae s.s. Giles, An.",
+            "startOffset": 18716,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34185,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "gambiae s.s. and 26 events for An.",
+            "startOffset": 34151,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 41847,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Given the complex population dynamics, we used two ad hoc criteria to determine if the changes in population density within the treatment plots (T1, T2) were significant: a statistically significant difference within the corresponding control plot, and at the same time, a significant difference with the baseline values.",
+            "startOffset": 41526,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35422,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "We were unable to estimate a sporozoite rate for T2 since no female An.",
+            "startOffset": 35351,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 37344,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "Overall, An.",
+            "startOffset": 37332,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 37439,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "gambiae s.s. presented the highest density of all species, with its highest density in Site 1.",
+            "startOffset": 37345,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 46325,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "In this study, we did not follow entomological parameters other than mosquito density, host preference, and sporozoite rate.",
+            "startOffset": 46201,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19180,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "funestus s.s.",
+            "startOffset": 19167,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38714,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 38612,
+                    "startOffset": 38586
+                }
+            },
+            "secId": "sec0115",
+            "sentence": "The observed density reductions, using the Henderson & Tilton formula (Henderson and Tilton, 1955), represent efficacies in the treatment of 89% and 64% at weeks-3 and 4 post-treatment, respectively.",
+            "startOffset": 38515,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 22684,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 22638,
+                    "startOffset": 22618
+                },
+                "bib0075": {
+                    "endOffset": 22662,
+                    "startOffset": 22640
+                },
+                "bib0170": {
+                    "endOffset": 22682,
+                    "startOffset": 22664
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In cattle, fipronil has successfully controlled leishmaniasis vectors for an extended period (Derbali et al., 2014; Ingenloff et al., 2013; Poch\u00e9 et al., 2013).",
+            "startOffset": 22524,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31554,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "To achieve this, we assumed the number of female mosquitoes per hut (y) followed a Poisson distribution (y \u223c Poisson (\u03bb)).",
+            "startOffset": 31432,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 23134,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Therefore, the objective of this study was to evaluate the effect of treating cattle with fipronil on the resting density, blood-feeding behavior, and sporozoite rates of Anopheles vectors of malaria in western Kenya.",
+            "startOffset": 22917,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39619,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "However, the reductions were not significantly different to their corresponding control plot.",
+            "startOffset": 39526,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 46864,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "This is noteworthy because malaria epidemics in Western Kenya, and many African regions, are driven in part by An.",
+            "startOffset": 46750,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 34686,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "gambiae s.s. sporozoite rate = 0.10, 95% credibility intervals [0.07, 0.15]; An.",
+            "startOffset": 34606,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 34150,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "We found a total of 21 events for An.",
+            "startOffset": 34113,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 22444,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Fipronil is approved for beef cattle in some countries as a pour-on application or in cattle dips, however, is not approved for use in dairy cattle.",
+            "startOffset": 22296,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39154,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0120",
+            "sentence": "On Site 1 (Fig. 5) indoor resting density increased significantly between the baseline and the following weeks, whereas in Site 2, indoor resting density was statistically similar in T2 and C2.",
+            "startOffset": 38961,
+            "title": "Anopheles funestus s.s. density"
+        },
+        {
+            "endOffset": 47740,
+            "parents": [],
+            "secId": "sec0145",
+            "sentence": "This project was funded by the Bill and Melinda Gates Foundation, Global Health GrantNumber OPP1032369.",
+            "startOffset": 47637,
+            "title": "Funding"
+        },
+        {
+            "endOffset": 24041,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 24039,
+                    "startOffset": 24025
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "This region of Kenya is classified as a tropical wet-dry climate with average temperatures 19 29 \u00b0C, and average precipitation of 1200 mm per year (Pidwirny, 2011).",
+            "startOffset": 23877,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 32169,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "However, in the following weeks, the estimate from the previous week was used as priors (e.g. the posterior distributions of the baseline serve as prior for the one-week post-treatment estimation).",
+            "startOffset": 31972,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 33357,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The cattle mean body weight was significantly higher in Site 1 than Site 2.",
+            "startOffset": 33282,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 45019,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. when the population of An.",
+            "startOffset": 44980,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26154,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Efforts were also taken to prevent fipronil exposure to participants.",
+            "startOffset": 26085,
+            "title": "Cattle treatment"
+        },
+        {
+            "endOffset": 20762,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, these interventions are not practical in rural settings where much of the malaria transmission in Africa occurs, and they are prohibitively expensive for large scale application.",
+            "startOffset": 20575,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24966,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The absence of cattle in the houses did not exclude huts from participation.",
+            "startOffset": 24890,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 48390,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "The field work was conducted by SLF (Genesis), NG (ILRI), LP, and FVG (EXCELVET).",
+            "startOffset": 48309,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 37956,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "An.",
+            "startOffset": 37953,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 22839,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 22837,
+                    "startOffset": 22819
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "arabiensis for at least 7 days (Poch\u00e9 et al., 2015).",
+            "startOffset": 22787,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28325,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 28323,
+                    "startOffset": 28302
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Multiplex polymerase chain reaction (PCR) was performed on abdomens to detect the presence of single blood meals from humans, cattle, dogs, pigs, and goats (Kent and Norris, 2005).",
+            "startOffset": 28145,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 35099,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "A total of three (of 68) An.",
+            "startOffset": 35071,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 33970,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Forty seven (47) of 423 tested samples contained blood meals that were identifiable.",
+            "startOffset": 33886,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 34053,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "funestus blood meals were PCR-positive despite using only engorged females.",
+            "startOffset": 33978,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 19799,
+            "parents": [],
+            "refoffsets": {
+                "bib0130": {
+                    "endOffset": 19797,
+                    "startOffset": 19776
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "arabiensis (Mathenge et al., 2001).",
+            "startOffset": 19764,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21873,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Fipronil is used to control ants, cockroaches, fleas, ticks, termites, and other insects.",
+            "startOffset": 21784,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34572,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "gambiae s.s. had a significantly higher P. falciparum sporozoite rate than An.",
+            "startOffset": 34494,
+            "title": "Sporozoite rates"
+        },
+        {
+            "endOffset": 45107,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis was temporarily reduced following the treatment of cattle with eprinomectin.",
+            "startOffset": 45020,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31877,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The Poisson distribution can be used to model only non-negative integers, and its shape is controlled by a single parameter (\u03bb) that is equal to both the mean and the variance.",
+            "startOffset": 31701,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 43554,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis as a result of treating cattle with fipronil may have had an indirect effect on the density of An.",
+            "startOffset": 43445,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19821,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In many locations An.",
+            "startOffset": 19800,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28050,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 28048,
+                    "startOffset": 28006
+                },
+                "bib0200": {
+                    "endOffset": 28048,
+                    "startOffset": 28006
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "funestus s.l. were later confirmed molecularly (Koekemoer et al., 2002; Scott et al., 1993).",
+            "startOffset": 27958,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 35590,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0100",
+            "sentence": "An.",
+            "startOffset": 35587,
+            "title": "Anopheles funestus s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 41513,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "During this study, the treatment of cattle with fipronil had a delayed effect on the indoor resting density of An.",
+            "startOffset": 41399,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42613,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Given the higher degree of anthropophily of An.",
+            "startOffset": 42566,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24291,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Site 1 and Site 2 were separated by at least 1 km.",
+            "startOffset": 24241,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 26782,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "A collection of indoor resting mosquitoes was completed one week before cattle dosing to establish a baseline.",
+            "startOffset": 26672,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 31971,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Non-informative priors were used for the baseline estimation (\u03bb \u223c Log-normal (\u03bc = 0, \u03c3 = 100).",
+            "startOffset": 31877,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 48308,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "The Study Director was SLF.",
+            "startOffset": 48281,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 34197,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "arabiensis.",
+            "startOffset": 34186,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 36819,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "However, in C1 we continuously collected a sizeable number of female An.",
+            "startOffset": 36747,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 43011,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "We hypothesize that these reductions in T1 may be due in part to fipronil-treatment because An.",
+            "startOffset": 42916,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21625,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 21623,
+                    "startOffset": 21605
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "gambiae s.s. for up to 24 days post-treatment and complete elimination of egg production was observed for ten days following treatment (Fritz et al., 2012).",
+            "startOffset": 21469,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47411,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "Village-wide treatment of cattle with fipronil has the potential to impact residual outdoor malaria transmission driven by An.",
+            "startOffset": 47285,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 39292,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "gambiae s.s. within both study sites.",
+            "startOffset": 39255,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 27957,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "gambiae s.l. or An.",
+            "startOffset": 27938,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 29298,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 29160,
+                    "startOffset": 29133
+                }
+            },
+            "secId": "sec0040",
+            "sentence": "Bayesian inference is a robust method that takes advantage of the data structure without transformation and deals with unequal variances (Wasserstein and Lazar, 2016), is similar to Likelihood inference and can make use of previous knowledge, expressed mathematically, to adjust the likelihood function.",
+            "startOffset": 28995,
+            "title": "Bayesian parameter estimation"
+        },
+        {
+            "endOffset": 27416,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The collected mosquitoes were then transported from the field to a laboratory located at the International Livestock Research Institute (ILRI) in Busia for sorting and storing in silica-filled 0.6 ml tubes.",
+            "startOffset": 27210,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 40569,
+            "parents": [],
+            "refoffsets": {
+                "bib0170": {
+                    "endOffset": 40567,
+                    "startOffset": 40549
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "Residues of fipronil in cattle blood were reported to remain for up to 35 days (below international allowable limits) (Poch\u00e9 et al., 2013).",
+            "startOffset": 40430,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34460,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "gambiae s.s., 11/21 (52%) blood meals came from humans, 9/21 (43%) from cattle, and 1/21 (5%) from a pig (Fig. 1).",
+            "startOffset": 34346,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 37952,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "arabiensis were observed between the control and the treatment plots within each study site.",
+            "startOffset": 37860,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 36023,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0100",
+            "sentence": "In Site 2 only the three weeks post-treatment collections had positive samples (T2, 2/7 \u223c 0.32 [0.058, 0.61]; C1, 1/19 \u223c 0.08 [0.003, 0.22]).",
+            "startOffset": 35882,
+            "title": "Anopheles funestus s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 30381,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "refoffsets": {
+                "bib0160": {
+                    "endOffset": 30379,
+                    "startOffset": 30359
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Convergence and autocorrelation were assessed using the CODA 0.18 R package (Plummer et al., 2006).",
+            "startOffset": 30282,
+            "title": "Blood meal proportions"
+        },
+        {
+            "endOffset": 44705,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "In the current study, a decrease in the resting density of An.",
+            "startOffset": 44643,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25625,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Homesteads or families, that declined involvement at the moment of consent or at any time during the study, were not included.",
+            "startOffset": 25499,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 48280,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "Principal Investigators were SLF (Genesis), and NG (ILRI).",
+            "startOffset": 48222,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 21783,
+            "parents": [],
+            "refoffsets": {
+                "bib0190": {
+                    "endOffset": 21781,
+                    "startOffset": 21753
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A different systemic drug, fipronil, works by blocking the GABA-gated ion channels in the central nervous system of arthropods (Raymond-Delpech et al., 2005).",
+            "startOffset": 21625,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28994,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The data also contained a large number of zeros placing our parameter estimates close to zero; therefore, using confidence intervals would result in nonsensical negative values.",
+            "startOffset": 28817,
+            "title": "Bayesian parameter estimation"
+        },
+        {
+            "endOffset": 48457,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "LP verified the purity and concentration of the active ingredient.",
+            "startOffset": 48391,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 32722,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "From the enrollment surveys, it was estimated that the treatment plots had 277 sleepers (people actively sleeping in the buildings) while the control plots had 322 sleepers (Table 1).",
+            "startOffset": 32539,
+            "title": "Enrollment"
+        },
+        {
+            "endOffset": 42565,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Anopheles gambiae s.s. did not show the same significant reduction in resting density using our stringent criteria, suggesting that this species is less affected by this mosquito control strategy.",
+            "startOffset": 42369,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31222,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We used the same software and procedures as in the blood meal multinomial parameter estimation.",
+            "startOffset": 31127,
+            "title": "Sporozoite rate"
+        },
+        {
+            "endOffset": 44820,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "funestus s.s. (Figs. 3 and 5).",
+            "startOffset": 44790,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20574,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Targeting outdoor biting vectors is difficult, with the current options in urban areas being insecticidal fogs or ultra-low volume (ULV) sprays.",
+            "startOffset": 20430,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36131,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "We consistently collected P. falciparum sporozoite-positive An.",
+            "startOffset": 36068,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 23292,
+            "parents": [],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 23290,
+                    "startOffset": 23272
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Systemic circulation of fipronil, following treatment, has been shown to reduce mosquito survivorship after acquisition of a blood meal (Poch\u00e9 et al., 2015).",
+            "startOffset": 23135,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43412,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 43410,
+                    "startOffset": 43388
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "arabiensis was also present at the breeding site in Western Kenya (Paaijmans et al., 2009).",
+            "startOffset": 43321,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47551,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "arabiensis and may become a valuable tool to supplement existing vector control interventions which target the more anthropophilic species.",
+            "startOffset": 47412,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 37483,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "arabiensis and An.",
+            "startOffset": 37465,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 44979,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Previously, Lozano et al. (2016) also reported an increase in the resting density of An.",
+            "startOffset": 44891,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46513,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "When cattle were treated with the drug fipronil, the indoor resting density of An.",
+            "startOffset": 46431,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 43118,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 43086,
+                    "startOffset": 43059
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. fed on cattle between 14 and 27% (Lozano-Fuentes et al., 2016) of the time in our study area.",
+            "startOffset": 43012,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41157,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "It is possible that this is the result of Site 1 being closer to the delta of the Nzoia River which may provide a larger number of breeding sites in comparison to the lakeshore habitats near Site 2.",
+            "startOffset": 40959,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46200,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 46198,
+                    "startOffset": 46180
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "While the effect was brief in the case of ivermectin, a significant reduction in mosquito parity rates was observed for more than two weeks following treatment, and sporozoite rates were reduced by 77.5% for 15 days (Alout et al., 2014).",
+            "startOffset": 45963,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27937,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Female mosquitoes morphologically identified as An.",
+            "startOffset": 27886,
+            "title": "Mosquito identification, blood meal source, and sporozoite rates"
+        },
+        {
+            "endOffset": 47115,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "Follow-up studies should assess the effect of a sustained cattle treatment regimen, evaluating the long-term impact on entomological and epidemiological indicators in combination with other control strategies.",
+            "startOffset": 46906,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 47630,
+            "parents": [],
+            "secId": "sec0140",
+            "sentence": "The authors declare that they have no competing interests.",
+            "startOffset": 47572,
+            "title": "Conflict of interests"
+        },
+        {
+            "endOffset": 19315,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "arabiensis becoming the most abundant malaria vector, while An.",
+            "startOffset": 19252,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23876,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The study took place in an area between Busia (34.11101\u00b0 longitude, 0.45822\u00b0 latitude) and Sisenye (33.987551\u00b0 longitude, 0.157814\u00b0 latitude) along the coast of Lake Victoria in southwestern Kenya.",
+            "startOffset": 23679,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 34345,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "In contrast for An.",
+            "startOffset": 34326,
+            "title": "Mosquito blood feeding patterns"
+        },
+        {
+            "endOffset": 36189,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "gambiae s.s in three of the study plots (T1, C1, and T2).",
+            "startOffset": 36132,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 19602,
+            "parents": [],
+            "refoffsets": {
+                "bib0245": {
+                    "endOffset": 19600,
+                    "startOffset": 19583
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Even with ITNs increased coverage in western Kenya, a recent resurgence of malaria transmission suggests that this vector control method may no longer be effective at reducing malaria transmission (Zhou et al., 2011).",
+            "startOffset": 19385,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20274,
+            "parents": [],
+            "refoffsets": {
+                "bib0230": {
+                    "endOffset": 20272,
+                    "startOffset": 20252
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "arabiensis mosquitoes in Western Kenya to pyrethroid compounds used for IRS and impregnated bed nets complicates their efficacy (Wanjala et al., 2015).",
+            "startOffset": 20123,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21468,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "gambiae s.s.; a 90% mortality was achieved for An.",
+            "startOffset": 21418,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44642,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis.",
+            "startOffset": 44631,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19763,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "funestus s.s. and not An.",
+            "startOffset": 19738,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35541,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "arabiensis mosquitoes were collected after treatment and the single female collected during the baseline was negative.",
+            "startOffset": 35423,
+            "title": "Anopheles arabiensis sporozoite rate"
+        },
+        {
+            "endOffset": 38960,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0120",
+            "sentence": "funestus s.s. also showed variation in the mean number of females per hut after treatment.",
+            "startOffset": 38870,
+            "title": "Anopheles funestus s.s. density"
+        },
+        {
+            "endOffset": 43288,
+            "parents": [],
+            "refoffsets": {
+                "bib0150": {
+                    "endOffset": 43242,
+                    "startOffset": 43219
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "Paaijmans et al. (2009) found that the larval development time of An.",
+            "startOffset": 43219,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44512,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 44465,
+                    "startOffset": 44446
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "Bayoh et al. (2010) documented a decrease in the population of An.",
+            "startOffset": 44446,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21129,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 21083,
+                    "startOffset": 21063
+                },
+                "bib0075": {
+                    "endOffset": 21107,
+                    "startOffset": 21085
+                },
+                "bib0170": {
+                    "endOffset": 21127,
+                    "startOffset": 21109
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A cattle-targeted insecticide strategy for control of the vectors of Leishmania spp. (Phlebotomus argentipes and P. papatasi) has already been explored in India and Tunisia (Derbali et al., 2014; Ingenloff et al., 2013; Poch\u00e9 et al., 2013).",
+            "startOffset": 20889,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22133,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "It also has been shown that fipronil can function as a systemic drug when applied to rodents and cattle.",
+            "startOffset": 22029,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36365,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "Both study sites showed significant differences in An.",
+            "startOffset": 36311,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 41525,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "arabiensis.",
+            "startOffset": 41514,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43611,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "gambiae s.s. through the dynamics of larval competition.",
+            "startOffset": 43555,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45597,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Therefore, monitoring the long-term fluctuations in relative abundance among these species, as a result of various malaria control interventions, is paramount.",
+            "startOffset": 45438,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31431,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "We estimated the mean number of indoor resting female Anopheles mosquitoes per hut at five-time points, (baseline, 1, 2, 3 and 4 weeks\u2019 post-treatment) and four plots (T1, T2, C1, and C2).",
+            "startOffset": 31243,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 32356,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 32354,
+                    "startOffset": 32340
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "The estimated means were contrasted using 95% credibility intervals (Kruschke, 2013).",
+            "startOffset": 32271,
+            "title": "Mosquito density"
+        },
+        {
+            "endOffset": 24407,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Within each site, treatment plots (T1 and T2) and control plots (C1 and C2) were separated by approximately 0.5 km.",
+            "startOffset": 24292,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 24494,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Additionally, plots were located at least 0.5 km from a large swamp and lake habitats.",
+            "startOffset": 24408,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 27683,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Consequently, we used indoor collections only.",
+            "startOffset": 27637,
+            "title": "Entomological impact"
+        },
+        {
+            "endOffset": 24602,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "From each of the four plots, we enrolled 50 huts in which people were actively sleeping for a total of 200.",
+            "startOffset": 24495,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 39432,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0125",
+            "sentence": "The density was higher at one and four weeks post-treatment but lower during weeks two and three post-treatment (Fig. 4) from the baseline.",
+            "startOffset": 39293,
+            "title": "Anopheles gambiae s.s. density"
+        },
+        {
+            "endOffset": 24241,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "A randomized block design was used for this experiment consisting of two sites (Site 1 and Site 2), each with one fipronil-treated plot and one untreated control plot (Fig. S1 of Supplementary data).",
+            "startOffset": 24042,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 31126,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Material and methods"
+                },
+                {
+                    "id": "sec0035",
+                    "title": "Data analysis of entomological impact parameters"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The same weight was given to all possible values of the sporozoite rate by selecting a non-informative prior from a Beta distribution (\u03b8 \u223c Beta (1, 1)).",
+            "startOffset": 30974,
+            "title": "Sporozoite rate"
+        },
+        {
+            "endOffset": 40701,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "The area of western Kenya where this study was conducted experiences active hyperendemic transmission of P. falciparum driven by An.",
+            "startOffset": 40569,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47285,
+            "parents": [],
+            "secId": "sec0135",
+            "sentence": "Such studies should also examine the inter-species dynamics between the anophelines in response to vector-control interventions that target one and/or the other species.",
+            "startOffset": 47116,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 48108,
+            "parents": [],
+            "secId": "sec0155",
+            "sentence": "Mosquito collections by species, hut, and date are available at https://figshare.com/s/2b845e7d5155519658ce.",
+            "startOffset": 48000,
+            "title": "Availability of data and material"
+        },
+        {
+            "endOffset": 33725,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "arabiensis, 392 An.",
+            "startOffset": 33706,
+            "title": "Mosquito identification"
+        },
+        {
+            "endOffset": 37746,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "funestus s.s was significantly different in Site 1 but not Site 2 (Fig. 5).",
+            "startOffset": 37671,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 18522,
+            "parents": [],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 18520,
+                    "startOffset": 18461
+                },
+                "bib0240": {
+                    "endOffset": 18520,
+                    "startOffset": 18461
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "However, between 2000 and 2015, malaria incidences and mortality rates fell by 42% and 66% in Africa (Benelli and Mehlhorn, 2016; World Health Organization, 2015).",
+            "startOffset": 18359,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20066,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 19965,
+                    "startOffset": 19903
+                },
+                "bib0120": {
+                    "endOffset": 19965,
+                    "startOffset": 19903
+                },
+                "bib0215": {
+                    "endOffset": 19965,
+                    "startOffset": 19903
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "arabiensis preferentially feeds on cattle and rest outside of human habitations (Kweka et al., 2009; Mahande et al., 2007; Tirados et al., 2006), so they are unlikely to encounter interventions which target endophagic and endophilic mosquitoes.",
+            "startOffset": 19822,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22916,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, field tests of fipronil for mosquito control are currently lacking.",
+            "startOffset": 22840,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42369,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 42367,
+                    "startOffset": 42340
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "arabiensis feeds 81\u201389% on cattle in the study area (Lozano-Fuentes et al., 2016).",
+            "startOffset": 42287,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37627,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                }
+            ],
+            "secId": "sec0110",
+            "sentence": "gambiae s.s. did not show significant differences in density when comparing treatment and control plots within each study site (Figs. 3 and 4).",
+            "startOffset": 37484,
+            "title": "Mosquito resting density"
+        },
+        {
+            "endOffset": 37859,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "One week after dosing, significant differences in the resting densities of An.",
+            "startOffset": 37781,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 22786,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In a laboratory setting, a single 0.5 mg/kg BW application has been shown to be effective against An.",
+            "startOffset": 22685,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32854,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "During enrollment, participants reported 151 cattle in the treatment, 134 in the control, and 1136 for both buffer zones (Table 1).",
+            "startOffset": 32723,
+            "title": "Enrollment"
+        },
+        {
+            "endOffset": 37082,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0090",
+                    "title": "Sporozoite rates"
+                }
+            ],
+            "secId": "sec0105",
+            "sentence": "The estimated upper and lower limits from C1 suggest that the sporozoite rate ranged between 2% and 25% in 1, 2 and 4 weeks post-treatmentwhile the sporozoite rate ranged between <1% and 9% in week-3 post-treatment (Fig. 2).",
+            "startOffset": 36858,
+            "title": "Anopheles gambiae s.s. sporozoite rate"
+        },
+        {
+            "endOffset": 20122,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "gambiae s.s. and An.",
+            "startOffset": 20102,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48221,
+            "parents": [],
+            "secId": "sec0160",
+            "sentence": "The project was conceived and designed by RP.",
+            "startOffset": 48176,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 43966,
+            "parents": [],
+            "secId": "sec0130",
+            "sentence": "Accordingly, the indoor resting density of this species appears not to have been effected by the fipronil dosing of cattle, as indoor resting densities increased significantly in plots T1, C1, and C2.",
+            "startOffset": 43766,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20101,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Furthermore, the resistance of An.",
+            "startOffset": 20067,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45784,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 45782,
+                    "startOffset": 45719
+                },
+                "bib0135": {
+                    "endOffset": 45782,
+                    "startOffset": 45719
+                },
+                "bib0140": {
+                    "endOffset": 45782,
+                    "startOffset": 45719
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "The observed range of fipronil effectiveness has been obtained previously against fleas for up to 90 days post-treatment (Bonneau et al., 2010; McCall et al., 2004; Medleau et al., 2003).",
+            "startOffset": 45597,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38110,
+            "parents": [
+                {
+                    "id": "sec0060",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Entomological impact"
+                },
+                {
+                    "id": "sec0110",
+                    "title": "Mosquito resting density"
+                }
+            ],
+            "secId": "sec0115",
+            "sentence": "arabiensis (Fig. 3).",
+            "startOffset": 38090,
+            "title": "Anopheles arabiensis density"
+        },
+        {
+            "endOffset": 40429,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 40346,
+                    "startOffset": 40326
+                }
+            },
+            "secId": "sec0130",
+            "sentence": "Fipronil has long been used for controlling ectoparasites in pets (Jackson et al., 2009), and its effectiveness as a public health pesticide should be fully investigated.",
+            "startOffset": 40259,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X17302899",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "richard@genesislabs.com",
+                "first": "Richard M.",
+                "initial": "R.M.",
+                "last": "Poch\u00e9"
+            },
+            {
+                "email": "n.githaka@cgiar.org",
+                "first": "Naftaly",
+                "initial": "N.",
+                "last": "Githaka"
+            },
+            {
+                "email": "frans.vangool@excelvet-consultants.com",
+                "first": "Frans",
+                "initial": "F.",
+                "last": "van Gool"
+            },
+            {
+                "email": "rebekah.kading@colostate.edu",
+                "first": "Rebekah C.",
+                "initial": "R.C.",
+                "last": "Kading"
+            },
+            {
+                "email": "daniel@gmail.com",
+                "first": "Daniel",
+                "initial": "D.",
+                "last": "Hartman"
+            },
+            {
+                "email": "larisap@genesislabs.com",
+                "first": "Larisa",
+                "initial": "L.",
+                "last": "Polyakova"
+            },
+            {
+                "email": "e.okoth@cgiar.org",
+                "first": "Edward Okoth",
+                "initial": "E.O.",
+                "last": "Abworo"
+            },
+            {
+                "email": "v.nene@cgiar.org",
+                "first": "Vishvanath",
+                "initial": "V.",
+                "last": "Nene"
+            },
+            {
+                "email": "saul@mosquitoscientists.com",
+                "first": "Saul",
+                "initial": "S.",
+                "last": "Lozano-Fuentes"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2017.07.030",
+        "firstpage": "126",
+        "issn": "0001706X",
+        "keywords": [
+            "Kenya",
+            "Malaria",
+            "One health",
+            "Systemic insecticide",
+            "Vector"
+        ],
+        "lastpage": "133",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Preliminary efficacy investigations of oral fipronil against Anopheles arabiensis when administered to Zebu cattle (Bos indicus) under field conditions"
+    }
+}

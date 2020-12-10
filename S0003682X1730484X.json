@@ -1,0 +1,1185 @@
+{
+    "abstract": "The airflow resistivity is a key parameter to consider when evaluating the acoustic performance of a fibrous material. The airflow resistivity is directly linked to a fibrous materials acoustic properties which allows for the non-invasive measurements of the fibre diameter and material density from acoustical data. There are several models that relate the airflow resistivity to the acoustic behaviour through the material's density and fibre diameter. It is not always obvious how accurately a model represents the true value of the flow resistivity of a nonwoven material with a fibre size variation. Therefore, the scope of this paper is to compare the performance of several theoretical and empirical models applied to a representative range of nonwoven fibrous media composed of blends of different fibre sizes and types. Being able to understand the performance of these models in application to fibre blends will enable users to characterise these types of fibrous media more precisely. From this work, it was concluded that the Miki model (Miki, 1990) is the most accurate model to invert the airflow resistivity from acoustical surface impedance of a wide range of nonwoven blends.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "R. H.",
+                    "initial": "R.H.",
+                    "last": "Nichols"
+                }
+            ],
+            "doi": "10.1121/1.1916632",
+            "firstpage": "866",
+            "issn": "00014966",
+            "lastpage": "871",
+            "pub_year": 1947,
+            "title": "Flow-Resistance Characteristics of Fibrous Acoustical Materials",
+            "volume": "19"
+        },
+        "b0010": null,
+        "b0015": null,
+        "b0020": null,
+        "b0025": {
+            "authors": [
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Bies"
+                },
+                {
+                    "first": "C. H.",
+                    "initial": "C.H.",
+                    "last": "Hansen"
+                }
+            ],
+            "doi": "10.1016/0003-682X(80)90002-X",
+            "firstpage": "357",
+            "issn": "0003682x",
+            "lastpage": "391",
+            "pub_year": 1980,
+            "title": "Flow resistance information for acoustical design",
+            "volume": "13"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Massimo",
+                    "initial": "M.",
+                    "last": "Garai"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Pompoli"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2005.04.008",
+            "firstpage": "1383",
+            "issn": "0003682X",
+            "lastpage": "1398",
+            "pub_year": 2005,
+            "title": "A simple empirical model of polyester fibre materials for acoustical applications",
+            "volume": "66"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Michail T.",
+                    "initial": "M.T.",
+                    "last": "Pelegrinis"
+                },
+                {
+                    "first": "Kirill V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Burnett"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2015.07.019",
+            "firstpage": "1",
+            "issn": "0003682X",
+            "lastpage": "4",
+            "pub_year": 2016,
+            "title": "An application of Kozeny-Carman flow resistivity model to predict the acoustical properties of polyester fibre",
+            "volume": "101"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Miki"
+                }
+            ],
+            "doi": "10.1250/ast.11.19",
+            "firstpage": "19",
+            "issn": "03882861",
+            "lastpage": "24",
+            "pub_year": 1990,
+            "title": "Acoustical properties of porous materials-Modifications of Delany-Bazley models-",
+            "volume": "11"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Kirill V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "Jean Philippe",
+                    "initial": "J.P.",
+                    "last": "Groby"
+                },
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Dazel"
+                }
+            ],
+            "doi": "10.1121/1.4947540",
+            "firstpage": "2463",
+            "issn": "00014966",
+            "lastpage": "2474",
+            "pub_year": 2016,
+            "title": "Asymptotic limits of some models for sound propagation in porous media and the assignment of the pore characteristic lengths",
+            "volume": "139"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "M. E.",
+                    "initial": "M.E.",
+                    "last": "Delany"
+                },
+                {
+                    "first": "E. N.",
+                    "initial": "E.N.",
+                    "last": "Bazley"
+                }
+            ],
+            "doi": "10.1016/0003-682X(70)90031-9",
+            "firstpage": "105",
+            "issn": "0003682X",
+            "lastpage": "116",
+            "pub_year": 1970,
+            "title": "Acoustical properties of fibrous absorbent materials",
+            "volume": "3"
+        },
+        "b0055": null,
+        "b0060": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Leclaire"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Umnova"
+                },
+                {
+                    "first": "K. V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Maillet"
+                }
+            ],
+            "doi": "10.1063/1.1542666",
+            "firstpage": "1366",
+            "issn": "00346748",
+            "lastpage": "1370",
+            "pub_year": 2003,
+            "title": "Porosity measurement by comparison of air volumes",
+            "volume": "74"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Kirill V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "Amir",
+                    "initial": "A.",
+                    "last": "Khan"
+                },
+                {
+                    "first": "Fran\u00e7ois Xavier",
+                    "initial": "F.X.",
+                    "last": "B\u00e9cot"
+                },
+                {
+                    "first": "Luc",
+                    "initial": "L.",
+                    "last": "Jaouen"
+                },
+                {
+                    "first": "Franck",
+                    "initial": "F.",
+                    "last": "Sgard"
+                },
+                {
+                    "first": "Am\u00e9lie",
+                    "initial": "A.",
+                    "last": "Renault"
+                },
+                {
+                    "first": "Nesrine",
+                    "initial": "N.",
+                    "last": "Amirouche"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Pompoli"
+                },
+                {
+                    "first": "Nicola",
+                    "initial": "N.",
+                    "last": "Prodi"
+                },
+                {
+                    "first": "Paolo",
+                    "initial": "P.",
+                    "last": "Bonfiglio"
+                },
+                {
+                    "first": "Giulio",
+                    "initial": "G.",
+                    "last": "Pispola"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Asdrubali"
+                },
+                {
+                    "first": "J\u00f6rn",
+                    "initial": "J.",
+                    "last": "H\u00fcbelt"
+                },
+                {
+                    "first": "Noureddine",
+                    "initial": "N.",
+                    "last": "Atalla"
+                },
+                {
+                    "first": "Celse K.",
+                    "initial": "C.K.",
+                    "last": "Am\u00e9din"
+                },
+                {
+                    "first": "Walter",
+                    "initial": "W.",
+                    "last": "Lauriks"
+                },
+                {
+                    "first": "Laurens",
+                    "initial": "L.",
+                    "last": "Boeckx"
+                }
+            ],
+            "doi": "10.1121/1.2739806",
+            "firstpage": "345",
+            "issn": "00014966",
+            "lastpage": "353",
+            "pmid": "17614494",
+            "pub_year": 2007,
+            "title": "Reproducibility experiments on measuring acoustical properties of rigid-frame porous media (round-robin tests)",
+            "volume": "122"
+        },
+        "b0070": null,
+        "b0075": null,
+        "b0080": null,
+        "b0085": null
+    },
+    "body_text": [
+        {
+            "endOffset": 41337,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 41289,
+                    "startOffset": 41286
+                }
+            },
+            "secId": "s0005",
+            "sentence": "One question this paper addresses is how well a model can invert these parameters from a standard acoustic impedance tube test [4] performed on a nonwoven fibrous blend specimen?",
+            "startOffset": 41159,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45736,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Model introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Theoretically, this means that their model should be accurate for a broad range of the samples presented in this paper, some of which feature differing binder percentages.",
+            "startOffset": 45565,
+            "title": "Garai-Pompoli equation"
+        },
+        {
+            "endOffset": 50964,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Tables 1 and 2 show the composition of these materials and some of their material parameters.",
+            "startOffset": 50871,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 54751,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "In both cases, root mean squared errors were generated from the absolute values of the measured impedance.",
+            "startOffset": 54645,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 57071,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum difference of 88% is observed in the case of the Bies-Hansen equation applied to Sample 8 material data.",
+            "startOffset": 56955,
+            "title": "Results"
+        },
+        {
+            "endOffset": 53025,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Each sample was measured three separate times, and the results averaged to give the porosity value used in the models (see Table 2).",
+            "startOffset": 52893,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 57599,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum difference of \u221275% is between the flow resistivity predicted by the Kozeny-Carman equation and the measured value for Sample 8 material.",
+            "startOffset": 57451,
+            "title": "Results"
+        },
+        {
+            "endOffset": 58472,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum mean error produced by the Miki model occurs during the inversions of Sample 3, with a value of 8.8%.",
+            "startOffset": 58359,
+            "title": "Results"
+        },
+        {
+            "endOffset": 61208,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The proposed parameter inversion is a straightforward process which can be used to understand better the relationship between the material density and fibre diameter distribution and the resultant value of the flow resistivity of a porous medium.",
+            "startOffset": 60962,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58135,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The flow resistivity values inverted with the Miki model is much closer to their measured equivalents.",
+            "startOffset": 58033,
+            "title": "Results"
+        },
+        {
+            "endOffset": 57229,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The Bies-Hansen equation consistently underestimates the airflow resistivity when compared to the results from the Garai-Pompoli and Kozeny-Carman equations.",
+            "startOffset": 57072,
+            "title": "Results"
+        },
+        {
+            "endOffset": 56089,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "In an effort to ensure that the variation of thicknesses between samples did not significantly affect the accuracy of the measured results, each material was tested ten times with a single thickness and ten times with a double thickness.",
+            "startOffset": 55852,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 61912,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "In the instance of the blended fibres studied in this paper the coefficients in the three equations are no longer valid and need to account for the distribution in the fibre diameter.",
+            "startOffset": 61729,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 41158,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 41157,
+                    "startOffset": 41152
+                },
+                "b0015": {
+                    "endOffset": 41157,
+                    "startOffset": 41152
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The realisation that airflow resistivity is directly linked to the acoustic properties of fibrous media allows for the measurement of both fibre diameter and material density rapidly and non-invasively from acoustical data, such as the surface impedance or absorption coefficient [2,3].",
+            "startOffset": 40872,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53348,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Given the accuracy of the porosimeter, any deviations there are likely to be negligible and would have minimal effect on the evaluated values of airflow resistivity.",
+            "startOffset": 53183,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 44543,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Model introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 44542,
+                    "startOffset": 44539
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Upon applying the Bies-Hansen equation to polyester fibre samples Garai and Pompoli found that the airflow resistivity values were grossly underestimated [6].",
+            "startOffset": 44385,
+            "title": "Garai-Pompoli equation"
+        },
+        {
+            "endOffset": 41470,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Another question this paper addresses is how accurate are some models which relate the fibre diameter, density and flow resistivity.",
+            "startOffset": 41338,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55451,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 55450,
+                    "startOffset": 55446
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The AcoustiFlow is able to determine the airflow resistivity of materials with open porosity based on a direct-airflow method, as outlined in the ISO 9053 [17].",
+            "startOffset": 55291,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 58600,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum mean error produced by the Pad\u00e9 approximation model occurs during the inversions of Sample 1, with a value of 9.3%.",
+            "startOffset": 58473,
+            "title": "Results"
+        },
+        {
+            "endOffset": 51152,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Images of the samples used can be found in Appendix A.",
+            "startOffset": 51098,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 59440,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "It could also be said that the Bies-Hansen, Kozeny-Carman and Garai-Pompoli equations have a few significant drawbacks such as the requirement to know several material parameters in advance of the experiment.",
+            "startOffset": 59232,
+            "title": "Results"
+        },
+        {
+            "endOffset": 54231,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Fig. 1 schematically illustrates the two microphone impedance tube set-up that was used in this work.",
+            "startOffset": 54130,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 52575,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The specimen thickness was measured using digital callipers for each individual sample.",
+            "startOffset": 52488,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 55290,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 55289,
+                    "startOffset": 55285
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The airflow resistivity was also measured directly using an AFD AcoustiFlow 300, supplied by Akustik Forschung Dresden, and used alongside their AFD 311 software package [16].",
+            "startOffset": 55115,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 56421,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The mean numerical values of the flow resistivity for each material specimen studied in this work are provided in Appendix B and include the measurement errors.",
+            "startOffset": 56261,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 60735,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The latter error is likely related to the fact that the Miki model requires fewer parameters so that it can be more stable in the parameter inversion process.",
+            "startOffset": 60577,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 44831,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Model introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "They surmised that this was as a result of polyester samples having larger fibre diameters than the fibreglass samples Bies-Hansen originally modelled, and so the constants fitted in the Bies-Hansen model were not sufficiently accurate to predict the actual value of airflow resistivity.",
+            "startOffset": 44544,
+            "title": "Garai-Pompoli equation"
+        },
+        {
+            "endOffset": 41702,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To answer the first question, this paper aims to study the performance of two models used to predict the acoustical properties of fibrous media and compare the inversion results against measured and predicted flow resistivity data.",
+            "startOffset": 41471,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42775,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The paper is organised in the following manner.",
+            "startOffset": 42728,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54129,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 54028,
+                    "startOffset": 54025
+                },
+                "b0070": {
+                    "endOffset": 54128,
+                    "startOffset": 54124
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The surface impedance of these material specimens was measured in accordance with the ISO 10534-2 [4] to measure the surface impedance, using a 100 mm impedance tube manufactured by Materiacustica [14].",
+            "startOffset": 53927,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 61416,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The flow resistivity inversion based on the Miki or Pad\u00e9 approximation model is attractive as it can be run without the prior knowledge of any intrinsic material property other than the material\u2019s thickness.",
+            "startOffset": 61209,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 62076,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "This work suggests that new equations are required to relate the flow resistivity of blended fibrous media to the material density and fibre diameter distribution.",
+            "startOffset": 61913,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 52376,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Calculations of the material characteristics such as bulk density, porosity and thickness were all done in the Jonas Lab at the University of Sheffield.",
+            "startOffset": 52224,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 58208,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Here the maximum difference of 15% is for the case of Sample 4 material.",
+            "startOffset": 58136,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60961,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The pore structure of fibrous media with high porosity is relatively uniform so that the convergence of the Miki model for this type of media is better than that of the pore distribution model based on the Pad\u00e9 approximation.",
+            "startOffset": 60736,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 43701,
+            "parents": [],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 43657,
+                    "startOffset": 43654
+                },
+                "b0045": {
+                    "endOffset": 43700,
+                    "startOffset": 43697
+                }
+            },
+            "secId": "s0010",
+            "sentence": "These models were: (i) the Miki model [8]; and the (ii) Pad\u00e9 approximation model [9].",
+            "startOffset": 43616,
+            "title": "Model introduction"
+        },
+        {
+            "endOffset": 61574,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "Among the three prediction-based equations for flow resistivity, the Garai-Pompoli and Kozeny-Carman models appear more accurate than that by Bies and Hansen.",
+            "startOffset": 61416,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 55115,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The root mean square error between the measured and predicted value of the normalised surface impedance for all material samples was below 9.6%, and had an average of 1.6% for all samples.",
+            "startOffset": 54927,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 54506,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The subroutine was applied in the frequency range of 200\u20131500 Hz.",
+            "startOffset": 54441,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 40871,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 40771,
+                    "startOffset": 40768
+                }
+            },
+            "secId": "s0005",
+            "sentence": "There have been several studies looking into this area since the original work conducted by Nichols [1], which proposed a relation between this parameter and the fibre diameter and density of a material.",
+            "startOffset": 40668,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53926,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The material specimens were run in triplicate, in the form of 100 mm cylinders prepared using a special hole-cutter.",
+            "startOffset": 53810,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 41878,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To answer the second question, this paper studies the performance of three popular models which predict the flow resistivity from the material microstructure and density data.",
+            "startOffset": 41703,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54644,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The lower boundary was chosen to avoid any inaccuracies caused by phase mismatch or structural vibrations in the acoustic impedance tube.",
+            "startOffset": 54507,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 42359,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These media were composed of fibres of variable diameters and varied in density, thickness, porosity, and pore composition.",
+            "startOffset": 42236,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 59705,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Conversely, the Miki and Pad\u00e9 approximation models can be run, and to a good accuracy, without the knowledge of any parameter other than the material\u2019s thickness.",
+            "startOffset": 59543,
+            "title": "Results"
+        },
+        {
+            "endOffset": 57886,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The differences between the inverted and measured values of the flow resistivity are smaller than those between the predicted and measured.",
+            "startOffset": 57747,
+            "title": "Results"
+        },
+        {
+            "endOffset": 58032,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Here the maximum difference of 42% is between the flow resistivity inverted with the Pad\u00e9 approximation (Pad\u00e9NUP) and that measured for Sample 6.",
+            "startOffset": 57887,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42235,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In order to compare these models, a representative range of nonwoven fibrous media was provided by John Cotton Group Ltd.",
+            "startOffset": 42114,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42497,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A thermosetting binder fibre was also added to the blend, which, when heated, partially melts and so fixes the layers of fibres in place.",
+            "startOffset": 42360,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57450,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The Kozeny-Carman equation tends to underpredict the flow resistivity except in the case of Sample 1 material.",
+            "startOffset": 57340,
+            "title": "Results"
+        },
+        {
+            "endOffset": 55799,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Five specimens for each sample were tested and the airflow resistivity value was taken as an average of these five specimens.",
+            "startOffset": 55674,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 56562,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Fig. 3 presents a summary of the measured, inverted and predicted flow resistivity data for all fibrous samples studied in this work.",
+            "startOffset": 56429,
+            "title": "Results"
+        },
+        {
+            "endOffset": 60080,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "Eight material samples with the measured flow resistivities in the range of 2229 and 14,530 Pa s/m2 have been studied.",
+            "startOffset": 59962,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 56260,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The relative standard deviation in the flow resistivity across all twenty tests was 3.60%, and as such it was concluded that thickness does not have a significant effect.",
+            "startOffset": 56090,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 53182,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 53181,
+                    "startOffset": 53177
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The porosimeter has an accuracy of 1%, as assessed via comparisons of calibration samples analysed through alternative methods at various institutions [13].",
+            "startOffset": 53026,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 42114,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The understanding of the accuracy of these models is useful to develop new efficient fibrous products for a broad range of acoustic absorption applications and to appreciate their limitations when used for material parameter inversion.",
+            "startOffset": 41879,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54926,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Fig. 2 presents the measured and predicted (through the minimisation algorithm, Eq. (23)) real and imaginary parts of the surface impedance for a material sample of Sample 1.",
+            "startOffset": 54752,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 55673,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Specimens for the blended fibre samples were inserted into a 100 mm sample holder, and analysed at a temperature of 21.0 \u00b0C \u00b10.5.",
+            "startOffset": 55544,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 59012,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "For this work, the authors consider any result within an error of 10% to be considered accurate for this kind of analysis, as the value of bulk density for a sample can vary by a similar amount due to several uncertainties during measurement due to fibre compression, fibre density, and any inaccuracies or noise present during the acquisition of the acoustical data which may have given slightly erroneous data.",
+            "startOffset": 58600,
+            "title": "Results"
+        },
+        {
+            "endOffset": 53716,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "As an example, if we change the porosity value of Sample 1 to 0.98, from 0.96 (a value much greater than the differences encountered during the measurement, see Table 2), then the value of airflow resistivity, as evaluated by the Pad\u00e9 approximation model, changes from 27242 Pa s/m2 from its original value of 27243 Pa s/m2 which is well below the experimental error.",
+            "startOffset": 53349,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 56954,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "There is generally limited agreement between the flow resistivity predicted by the three equations (Eqs. (1)\u2013(3)) which make use of fibre diameter and material density data.",
+            "startOffset": 56781,
+            "title": "Results"
+        },
+        {
+            "endOffset": 53810,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "A similar change would occur if the Miki model is adopted for the flow resistivity inversion.",
+            "startOffset": 53717,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 61728,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "A suspected reason for a relatively limited performance of the three equations is that these equations are only valid for a uniform fibre diameter media.",
+            "startOffset": 61575,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58358,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "For the other materials, the differences between the value of the flow resistivity inverted with the Miki model and its measured value are much less.",
+            "startOffset": 58209,
+            "title": "Results"
+        },
+        {
+            "endOffset": 43615,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The airflow resistivity values predicted with these equations were then compared to those deduced via two mathematical models, which are able to invert the airflow resistivity of fibrous media from their acoustical properties.",
+            "startOffset": 43389,
+            "title": "Model introduction"
+        },
+        {
+            "endOffset": 43072,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Section 3 presents the experimental methodology which was used to measure acoustical and related non-acoustical characteristics of fibrous media.",
+            "startOffset": 42927,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52892,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 52891,
+                    "startOffset": 52887
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The porosity of the samples was measured using an in-house manufactured porosimeter which works on the Boyles law principle detailed in Ref. [12].",
+            "startOffset": 52746,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 51097,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "In these tables, the nomenclature \u201cPET\u201d refers to polyester, \u201cd\u201d refers to denier, and \u201cbinder\u201d stands for a polyester binder fibre.",
+            "startOffset": 50965,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 43389,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 43313,
+                    "startOffset": 43310
+                },
+                "b0030": {
+                    "endOffset": 43346,
+                    "startOffset": 43343
+                },
+                "b0035": {
+                    "endOffset": 43388,
+                    "startOffset": 43385
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Three equations for the direct estimation of the airflow resistivity were chosen for the experiment reported in this work: (i) the Bies-Hansen equation [5]; (ii) Garai-Pompoli equation [6]; and the (iii) Kozeny-Carman equation [7].",
+            "startOffset": 43158,
+            "title": "Model introduction"
+        },
+        {
+            "endOffset": 55543,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "This method measures the pressure drop at the specimen as a function of the volume airflow.",
+            "startOffset": 55452,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 52487,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Bulk density was calculated from a measure of volume and sample weight, as weighed on a Kern KB10000-1N scale.",
+            "startOffset": 52377,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 60291,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The results suggest that the value of the flow resistivity inverted with either Pad\u00e9 approximation or Miki model is more accurate than that predicted using Bies-Hansen, Garai-Pompoli or Kozeny-Carman equations.",
+            "startOffset": 60081,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 50870,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "All material samples used within this work were provided by John Cotton Group Ltd.",
+            "startOffset": 50788,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 59231,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "From these results, it could be concluded that the Miki model is superior in terms of the flow resistivity inversion when compared to the Pad\u00e9 approximation model, Bies-Hansen, Kozeny-Carman and Garai-Pompoli equations.",
+            "startOffset": 59012,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42926,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Section 2 presents the models which were used to predict the flow resistivity from fibre and density information or to invert it from acoustical data.",
+            "startOffset": 42776,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 56653,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Table 3 presents the average numerical values of the flow resistivities plotted in Fig. 3.",
+            "startOffset": 56563,
+            "title": "Results"
+        },
+        {
+            "endOffset": 52745,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "In each case the thickness values have been rounded to the nearest millimetre to minimise any inaccuracies caused by partial compression of the samples by the callipers.",
+            "startOffset": 52576,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 60576,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The Pad\u00e9 approximation model enables the inversion of flow resistivity with the accuracy of better than 42%.",
+            "startOffset": 60468,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 42728,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Such variations were used to ascertain if there are any models which are more suited to certain types of fibrous media or if there is a model to be found which performs particularly well across all types of nonwoven fibrous media.",
+            "startOffset": 42498,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54440,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 54439,
+                    "startOffset": 54435
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The measured values for surface impedance and other parameters were then substituted into Eq. (7) to solve the minimisation problem, utilising a standard MATLAB minimisation subroutine \u2018fminsearchbnd ()\u2019 [15].",
+            "startOffset": 54231,
+            "title": "Experimental methodology"
+        },
+        {
+            "endOffset": 45564,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Model introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 45563,
+                    "startOffset": 45560
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Garai and Pompoli also reported that from their analysis of four different types of polyester materials the binder fibre percentage did not seem to impact the precision of their equation, and that it was not affected by surface smoothing treatments [6].",
+            "startOffset": 45311,
+            "title": "Garai-Pompoli equation"
+        },
+        {
+            "endOffset": 60467,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "In particular, the Miki model enables the inversion of flow resistivity of this type of fibrous media from measured surface impedance data with an accuracy of better than 15%.",
+            "startOffset": 60292,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 59542,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Some parameters, e.g. fibre diameter and its distribution, can be difficult to measure or to predict.",
+            "startOffset": 59441,
+            "title": "Results"
+        },
+        {
+            "endOffset": 43139,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Sections 4 and 5 are the discussion and conclusions, respectively.",
+            "startOffset": 43073,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57339,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The Garai-Pompoli equation tends to overpredict the flow resistivity except in the case of Sample 8 material.",
+            "startOffset": 57230,
+            "title": "Results"
+        },
+        {
+            "endOffset": 59961,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The scope of this paper was to review the performance of five commonly used and widely accepted equations and models for the prediction or inversion of the flow resistivity of nonwoven fibrous materials consisting of a blend of fibre diameters.",
+            "startOffset": 59717,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 57747,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum difference of 59% is between the flow resistivity predicted by the Garai-Pompoli equation and the measured value for Sample 2 material.",
+            "startOffset": 57600,
+            "title": "Results"
+        },
+        {
+            "endOffset": 40667,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Airflow resistivity is an important parameter when considering the acoustic performance of a material.",
+            "startOffset": 40565,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 56780,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Table 4 presents the percentage differences between a predicted/inverted value of the flow resistivity and the measured value.",
+            "startOffset": 56654,
+            "title": "Results"
+        },
+        {
+            "endOffset": 46757,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Model introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "From the above three equations it can be seen that the airflow resistivity of a sample is inversely dependent upon the fibre diameter squared, but the coefficients in these equations differ.",
+            "startOffset": 46567,
+            "title": "Kozeny-Carman equation"
+        },
+        {
+            "endOffset": 55851,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "No further processing or calculations were applied.",
+            "startOffset": 55800,
+            "title": "Experimental methodology"
+        }
+    ],
+    "docId": "S0003682X1730484X",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "aihurrell1@sheffield.ac.uk",
+                "first": "A. I.",
+                "initial": "A.I.",
+                "last": "Hurrell"
+            },
+            {
+                "email": null,
+                "first": "K. V.",
+                "initial": "K.V.",
+                "last": "Horoshenkov"
+            },
+            {
+                "email": null,
+                "first": "M. T.",
+                "initial": "M.T.",
+                "last": "Pelegrinis"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2017.09.024",
+        "firstpage": "230",
+        "issn": "0003682X",
+        "keywords": [
+            "Airflow",
+            "Fibrous",
+            "Impedance",
+            "Inversion",
+            "Nonwoven",
+            "Resistivity"
+        ],
+        "lastpage": "237",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "The accuracy of some models for the airflow resistivity of nonwoven materials"
+    }
+}

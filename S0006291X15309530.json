@@ -1,0 +1,2725 @@
+{
+    "abstract": "Because therapeutic manipulation of immunity can induce tumor regression, anti-cancer immunotherapy is considered a promising treatment modality. We previously reported that glypican-3 (GPC3), an oncofetal antigen overexpressed in hepatocellular carcinoma (HCC), is a useful target for cytotoxic T lymphocyte (CTL)-mediated cancer immunotherapy, and we have performed clinical trials using the GPC3-derived peptide vaccine. Although vaccine-induced GPC3-peptide-specific CTLs were often tumor reactive in vitro and were correlated with overall survival, no complete response was observed. In the current study, we synthesized liposome-coupled GPC3-derived CTL epitope peptide (pGPC3-lipsome) and investigated its antitumor potential. Vaccination with pGPC3-liposome induced peptide-specific CTLs at a lower dose than conventional vaccine emulsified in incomplete Freund's adjuvant. Coupling of pGPC3 to liposomes was essential for effective priming of GPC3-specific CTLs. In addition, immunization with pGPC3-liposome inhibited GPC3-expressing tumor growth. Thus, vaccination with tumor-associated antigen-derived epitope peptides coupled to the surfaces of liposomes may be a novel therapeutic strategy for cancer.",
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Kathleen M.",
+                    "initial": "K.M.",
+                    "last": "Mahoney"
+                },
+                {
+                    "first": "Paul D.",
+                    "initial": "P.D.",
+                    "last": "Rennert"
+                },
+                {
+                    "first": "Gordon J.",
+                    "initial": "G.J.",
+                    "last": "Freeman"
+                }
+            ],
+            "doi": "10.1038/nrd4591",
+            "firstpage": "561",
+            "issn": "14741776",
+            "lastpage": "584",
+            "pmid": "26228759",
+            "pub_year": 2015,
+            "title": "Combination cancer immunotherapy and new immunomodulatory targets",
+            "volume": "14"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Motomura"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Ikuta"
+                },
+                {
+                    "first": "Toshimitsu",
+                    "initial": "T.",
+                    "last": "Kuronuma"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Komori"
+                },
+                {
+                    "first": "Masaaki",
+                    "initial": "M.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Masami",
+                    "initial": "M.",
+                    "last": "Tsuchihara"
+                },
+                {
+                    "first": "Yoshiyuki",
+                    "initial": "Y.",
+                    "last": "Tsunoda"
+                },
+                {
+                    "first": "Hirofumi",
+                    "initial": "H.",
+                    "last": "Shirakawa"
+                },
+                {
+                    "first": "Hideo",
+                    "initial": "H.",
+                    "last": "Baba"
+                },
+                {
+                    "first": "Yasuharu",
+                    "initial": "Y.",
+                    "last": "Nishimura"
+                },
+                {
+                    "first": "Taira",
+                    "initial": "T.",
+                    "last": "Kinoshita"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                }
+            ],
+            "firstpage": "985",
+            "issn": "10196439",
+            "lastpage": "990",
+            "pmid": "18425324",
+            "pub_year": 2008,
+            "title": "HLA-A2 and -A24-restricted glypican-3-derived peptide vaccine induces specific CTLs: Preclinical study using mice",
+            "volume": "32"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Tatsuaki",
+                    "initial": "T.",
+                    "last": "Iwama"
+                },
+                {
+                    "first": "Kazutaka",
+                    "initial": "K.",
+                    "last": "Horie"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Yoshikawa"
+                },
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Nobuoka"
+                },
+                {
+                    "first": "Manami",
+                    "initial": "M.",
+                    "last": "Shimomura"
+                },
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Sawada"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                }
+            ],
+            "doi": "10.3892/ijo.2013.1793",
+            "firstpage": "831",
+            "issn": "10196439",
+            "lastpage": "838",
+            "pmid": "23354275",
+            "pub_year": 2013,
+            "title": "Identification of an H2-Kb or H2-Db restricted and glypican-3-derived cytotoxic T-lymphocyte epitope peptide",
+            "volume": "42"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Sawada"
+                },
+                {
+                    "first": "Mayuko",
+                    "initial": "M.",
+                    "last": "Sakai"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Yoshikawa"
+                },
+                {
+                    "first": "Kazuya",
+                    "initial": "K.",
+                    "last": "Ofuji"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                }
+            ],
+            "doi": "10.4161/onci.21351",
+            "firstpage": "1448",
+            "issn": "21624011",
+            "lastpage": "1450",
+            "pub_year": 2012,
+            "title": "A glypican-3-derived peptide vaccine against hepatocellular carcinoma",
+            "volume": "1"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Sawada"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Yoshikawa"
+                },
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Nobuoka"
+                },
+                {
+                    "first": "Hirofumi",
+                    "initial": "H.",
+                    "last": "Shirakawa"
+                },
+                {
+                    "first": "Toshimitsu",
+                    "initial": "T.",
+                    "last": "Kuronuma"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Motomura"
+                },
+                {
+                    "first": "Shoichi",
+                    "initial": "S.",
+                    "last": "Mizuno"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Ishii"
+                },
+                {
+                    "first": "Kohei",
+                    "initial": "K.",
+                    "last": "Nakachi"
+                },
+                {
+                    "first": "Masaru",
+                    "initial": "M.",
+                    "last": "Konishi"
+                },
+                {
+                    "first": "Toshio",
+                    "initial": "T.",
+                    "last": "Nakagohri"
+                },
+                {
+                    "first": "Shinichiro",
+                    "initial": "S.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Naoto",
+                    "initial": "N.",
+                    "last": "Gotohda"
+                },
+                {
+                    "first": "Tadatoshi",
+                    "initial": "T.",
+                    "last": "Takayama"
+                },
+                {
+                    "first": "Kenji",
+                    "initial": "K.",
+                    "last": "Yamao"
+                },
+                {
+                    "first": "Katsuhiko",
+                    "initial": "K.",
+                    "last": "Uesaka"
+                },
+                {
+                    "first": "Junji",
+                    "initial": "J.",
+                    "last": "Furuse"
+                },
+                {
+                    "first": "Taira",
+                    "initial": "T.",
+                    "last": "Kinoshita"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                }
+            ],
+            "doi": "10.1158/1078-0432.CCR-11-3044",
+            "firstpage": "3686",
+            "issn": "10780432",
+            "lastpage": "3696",
+            "pmid": "22577059",
+            "pub_year": 2012,
+            "title": "Phase I trial of a glypican-3-derived peptide vaccine for advanced hepatocellular carcinoma: Immunologic evidence and potential for improving overall survival",
+            "volume": "18"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Nobuoka"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Yoshikawa"
+                },
+                {
+                    "first": "Mari",
+                    "initial": "M.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Tatsuaki",
+                    "initial": "T.",
+                    "last": "Iwama"
+                },
+                {
+                    "first": "Kazutaka",
+                    "initial": "K.",
+                    "last": "Horie"
+                },
+                {
+                    "first": "Manami",
+                    "initial": "M.",
+                    "last": "Shimomura"
+                },
+                {
+                    "first": "Shiro",
+                    "initial": "S.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Sakemura"
+                },
+                {
+                    "first": "Munehide",
+                    "initial": "M.",
+                    "last": "Nakatsugawa"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Sadamori"
+                },
+                {
+                    "first": "Takahito",
+                    "initial": "T.",
+                    "last": "Yagi"
+                },
+                {
+                    "first": "Toshiyoshi",
+                    "initial": "T.",
+                    "last": "Fujiwara"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                }
+            ],
+            "doi": "10.1007/s00262-012-1366-6",
+            "firstpage": "639",
+            "issn": "03407004",
+            "lastpage": "652",
+            "pmid": "23143746",
+            "pub_year": 2013,
+            "title": "Intratumoral peptide injection enhances tumor cell antigenicity recognized by cytotoxic T lymphocytes: A potential option for improvement in antigen-specific cancer immunotherapy",
+            "volume": "62"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Yared",
+                    "initial": "Y.",
+                    "last": "Hailemichael"
+                },
+                {
+                    "first": "Zhimin",
+                    "initial": "Z.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Nina",
+                    "initial": "N.",
+                    "last": "Jaffarzad"
+                },
+                {
+                    "first": "Yang",
+                    "initial": "Y.",
+                    "last": "Ye"
+                },
+                {
+                    "first": "Miguel A.",
+                    "initial": "M.A.",
+                    "last": "Medina"
+                },
+                {
+                    "first": "Xue Fei",
+                    "initial": "X.F.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Stephanie M.",
+                    "initial": "S.M.",
+                    "last": "Dorta-Estremera"
+                },
+                {
+                    "first": "Nathaniel R.",
+                    "initial": "N.R.",
+                    "last": "Greeley"
+                },
+                {
+                    "first": "Giovanni",
+                    "initial": "G.",
+                    "last": "Nitti"
+                },
+                {
+                    "first": "Weiyi",
+                    "initial": "W.",
+                    "last": "Peng"
+                },
+                {
+                    "first": "Chengwen",
+                    "initial": "C.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Yanyan",
+                    "initial": "Y.",
+                    "last": "Lou"
+                },
+                {
+                    "first": "Zhiqiang",
+                    "initial": "Z.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Wencai",
+                    "initial": "W.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Rabinovich"
+                },
+                {
+                    "first": "Kimberly S.",
+                    "initial": "K.S.",
+                    "last": "Schluns"
+                },
+                {
+                    "first": "Richard E.",
+                    "initial": "R.E.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Hwu"
+                },
+                {
+                    "first": "Willem W.",
+                    "initial": "W.W.",
+                    "last": "Overwijk"
+                }
+            ],
+            "doi": "10.1038/nm.3105",
+            "firstpage": "465",
+            "issn": "10788956",
+            "lastpage": "472",
+            "pmid": "23455713",
+            "pub_year": 2013,
+            "title": "Persistent antigen at vaccination sites induces tumor-specific CD8+ T cell sequestration, dysfunction and deletion",
+            "volume": "19"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Yuriko",
+                    "initial": "Y.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Maiko",
+                    "initial": "M.",
+                    "last": "Taneichi"
+                },
+                {
+                    "first": "Michiyuki",
+                    "initial": "M.",
+                    "last": "Kasai"
+                },
+                {
+                    "first": "Terutaka",
+                    "initial": "T.",
+                    "last": "Kakiuchi"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Uchida"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0015225",
+            "firstpage": "1",
+            "issn": "19326203",
+            "lastpage": "9",
+            "pmid": "21179411",
+            "pub_year": 2010,
+            "title": "Liposome-Coupled Antigens Are Internalized by Antigen-Presenting Cells via Pinocytosis and Cross- Presented to CD8+ T Cells",
+            "volume": "5"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Masanori",
+                    "initial": "M.",
+                    "last": "Matsui"
+                },
+                {
+                    "first": "Shunsuke",
+                    "initial": "S.",
+                    "last": "Kohyama"
+                },
+                {
+                    "first": "Tatsuya",
+                    "initial": "T.",
+                    "last": "Suda"
+                },
+                {
+                    "first": "Shoichi",
+                    "initial": "S.",
+                    "last": "Yokoyama"
+                },
+                {
+                    "first": "Masahito",
+                    "initial": "M.",
+                    "last": "Mori"
+                },
+                {
+                    "first": "Akiharu",
+                    "initial": "A.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Maiko",
+                    "initial": "M.",
+                    "last": "Taneichi"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Uchida"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2009.12.100",
+            "firstpage": "1494",
+            "issn": "0006291X",
+            "lastpage": "1499",
+            "pmid": "20060099",
+            "pub_year": 2010,
+            "title": "A CTL-based liposomal vaccine capable of inducing protection against heterosubtypic influenza viruses in HLA-A*0201 transgenic mice",
+            "volume": "391"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Maiko",
+                    "initial": "M.",
+                    "last": "Taneichi"
+                },
+                {
+                    "first": "Hideaki",
+                    "initial": "H.",
+                    "last": "Ishida"
+                },
+                {
+                    "first": "Kiichi",
+                    "initial": "K.",
+                    "last": "Kajino"
+                },
+                {
+                    "first": "Kazumasa",
+                    "initial": "K.",
+                    "last": "Ogasawara"
+                },
+                {
+                    "first": "Yuriko",
+                    "initial": "Y.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Michiyuki",
+                    "initial": "M.",
+                    "last": "Kasai"
+                },
+                {
+                    "first": "Masahito",
+                    "initial": "M.",
+                    "last": "Mori"
+                },
+                {
+                    "first": "Mitsuhiro",
+                    "initial": "M.",
+                    "last": "Nishida"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Yamamura"
+                },
+                {
+                    "first": "Junichiro",
+                    "initial": "J.",
+                    "last": "Mizuguchi"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Uchida"
+                }
+            ],
+            "doi": "10.4049/jimmunol.177.4.2324",
+            "firstpage": "2324",
+            "issn": "00221767",
+            "lastpage": "2330",
+            "pmid": "16887993",
+            "pub_year": 2006,
+            "title": "Antigen chemically coupled to the surface of liposomes are cross-presented to CD8+ T cells and induce potent antitumor immunity",
+            "volume": "177"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Steve",
+                    "initial": "S.",
+                    "last": "Pascolo"
+                },
+                {
+                    "first": "Nathalie",
+                    "initial": "N.",
+                    "last": "Bervas"
+                },
+                {
+                    "first": "Jan M.",
+                    "initial": "J.M.",
+                    "last": "Ure"
+                },
+                {
+                    "first": "Austin G.",
+                    "initial": "A.G.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Fran\u00e7ois A.",
+                    "initial": "F.A.",
+                    "last": "Lemonnier"
+                },
+                {
+                    "first": "B\u00e9atrice",
+                    "initial": "B.",
+                    "last": "P\u00e9rarnau"
+                }
+            ],
+            "doi": "10.1084/jem.185.12.2043",
+            "firstpage": "2043",
+            "issn": "00221007",
+            "lastpage": "2051",
+            "pmid": "9182675",
+            "pub_year": 1997,
+            "title": "HLA-A2.1-restricted education and cytolytic activity of CD8+ T lymphocytes from \u03b22 microglobulin (\u03b22m) HLA-A2.1 monochain transgenic H- 2Db \u03b22m double knockout mice",
+            "volume": "185"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Padmanee",
+                    "initial": "P.",
+                    "last": "Sharma"
+                },
+                {
+                    "first": "James P.",
+                    "initial": "J.P.",
+                    "last": "Allison"
+                }
+            ],
+            "doi": "10.1126/science.aaa8172",
+            "firstpage": "56",
+            "issn": "00368075",
+            "lastpage": "61",
+            "pmid": "25838373",
+            "pub_year": 2015,
+            "title": "The future of immune checkpoint therapy",
+            "volume": "348"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "H\u00fcseyin",
+                    "initial": "H.",
+                    "last": "Firat"
+                },
+                {
+                    "first": "Francisco",
+                    "initial": "F.",
+                    "last": "Garcia-Pons"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Tourdot"
+                },
+                {
+                    "first": "Steve",
+                    "initial": "S.",
+                    "last": "Pascolo"
+                },
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Scardino"
+                },
+                {
+                    "first": "Zacarias",
+                    "initial": "Z.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "Marie Louise",
+                    "initial": "M.L.",
+                    "last": "Michel"
+                },
+                {
+                    "first": "Ralph Wiliams",
+                    "initial": "R.W.",
+                    "last": "Jack"
+                },
+                {
+                    "first": "G\u00fcnther",
+                    "initial": "G.",
+                    "last": "Jung"
+                },
+                {
+                    "first": "Konstadinos",
+                    "initial": "K.",
+                    "last": "Kosmatopoulos"
+                },
+                {
+                    "first": "Luis",
+                    "initial": "L.",
+                    "last": "Mateo"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Suhrbier"
+                },
+                {
+                    "first": "Franc\u00e7is A.",
+                    "initial": "F.A.",
+                    "last": "Lemonnier"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Langlade-Demoyen"
+                }
+            ],
+            "doi": "10.1002/(SICI)1521-4141(199910)29:10<3112::AID-IMMU3112>3.0.CO;2-Q",
+            "firstpage": "3112",
+            "issn": "00142980",
+            "lastpage": "3121",
+            "pmid": "10540322",
+            "pub_year": 1999,
+            "title": "H-2 class I knockout, HLA-A2.1-transgenic mice: A versatile animal model for preclinical evaluation of antitumor immunotherapeutic strategies",
+            "volume": "29"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Xianzheng",
+                    "initial": "X.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Rickard",
+                    "initial": "R.",
+                    "last": "Glas"
+                },
+                {
+                    "first": "Frank",
+                    "initial": "F.",
+                    "last": "Momburg"
+                },
+                {
+                    "first": "G\u00fcnter J.",
+                    "initial": "G.J.",
+                    "last": "H\u00e4mmerling"
+                },
+                {
+                    "first": "Mikael",
+                    "initial": "M.",
+                    "last": "Jondal"
+                },
+                {
+                    "first": "Hans\u2010Gustaf \u2010G",
+                    "initial": "H.\u2010.",
+                    "last": "Ljunggren"
+                }
+            ],
+            "doi": "10.1002/eji.1830230810",
+            "firstpage": "1796",
+            "issn": "00142980",
+            "lastpage": "1801",
+            "pmid": "8393798",
+            "pub_year": 1993,
+            "title": "TAP2\u2010defective RMA\u2010S cells present Sendai virus antigen to cytotoxic T lymphocytes",
+            "volume": "23"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Takagi"
+                },
+                {
+                    "first": "Nobuharu",
+                    "initial": "N.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Maiko",
+                    "initial": "M.",
+                    "last": "Taneichi"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Uchida"
+                },
+                {
+                    "first": "Toshitaka",
+                    "initial": "T.",
+                    "last": "Akatsuka"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2012.11.028",
+            "firstpage": "183",
+            "issn": "0006291X",
+            "lastpage": "189",
+            "pmid": "23159619",
+            "pub_year": 2013,
+            "title": "Coupling to the surface of liposomes alters the immunogenicity of hepatitis C virus-derived peptides and confers sterile immunity",
+            "volume": "430"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Bauer"
+                },
+                {
+                    "first": "Carsten J.",
+                    "initial": "C.J.",
+                    "last": "Kirschning"
+                },
+                {
+                    "first": "Hans",
+                    "initial": "H.",
+                    "last": "H\u00e4cker"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Redecke"
+                },
+                {
+                    "first": "Susanne",
+                    "initial": "S.",
+                    "last": "Hausmann"
+                },
+                {
+                    "first": "Shizuo",
+                    "initial": "S.",
+                    "last": "Akira"
+                },
+                {
+                    "first": "Hermann",
+                    "initial": "H.",
+                    "last": "Wagner"
+                },
+                {
+                    "first": "Grayson B.",
+                    "initial": "G.B.",
+                    "last": "Lipford"
+                }
+            ],
+            "doi": "10.1073/pnas.161293498",
+            "firstpage": "9237",
+            "issn": "00278424",
+            "lastpage": "9242",
+            "pmid": "11470918",
+            "pub_year": 2001,
+            "title": "Human TLR9 confers responsiveness to bacterial DNA via species-specific CpG motif recognition",
+            "volume": "98"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Seishiro",
+                    "initial": "S.",
+                    "last": "Naito"
+                },
+                {
+                    "first": "Atsuko",
+                    "initial": "A.",
+                    "last": "Horino"
+                },
+                {
+                    "first": "Miyuki",
+                    "initial": "M.",
+                    "last": "Nakayama"
+                },
+                {
+                    "first": "Yoshiro",
+                    "initial": "Y.",
+                    "last": "Nakano"
+                },
+                {
+                    "first": "Taro",
+                    "initial": "T.",
+                    "last": "Nagai"
+                },
+                {
+                    "first": "Junichiro",
+                    "initial": "J.",
+                    "last": "Mizuguchi"
+                },
+                {
+                    "first": "Katsutoshi",
+                    "initial": "K.",
+                    "last": "Komuro"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Uchida"
+                }
+            ],
+            "doi": "10.1159/000237241",
+            "firstpage": "223",
+            "issn": "10182438",
+            "lastpage": "228",
+            "pmid": "8620090",
+            "pub_year": 1996,
+            "title": "Ovalbumin-liposome conjugate induces IgG but Not IgE antibody production",
+            "volume": "109"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Wai Ming",
+                    "initial": "W.M.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Wieslawa H.",
+                    "initial": "W.H.",
+                    "last": "Dragowska"
+                },
+                {
+                    "first": "Marcel B.",
+                    "initial": "M.B.",
+                    "last": "Bally"
+                },
+                {
+                    "first": "Marie Paule",
+                    "initial": "M.P.",
+                    "last": "Schutze-Redelmeier"
+                }
+            ],
+            "doi": "10.1016/S0264-410X(03)00172-5",
+            "firstpage": "3319",
+            "issn": "0264410X",
+            "lastpage": "3329",
+            "pmid": "12804863",
+            "pub_year": 2003,
+            "title": "Effective induction of CD8+ T-cell response using CpG oligodeoxynucleotides and HER-2/neu-derived peptide co-encapsulated in liposomes",
+            "volume": "21"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Eleni Maria",
+                    "initial": "E.M.",
+                    "last": "Varypataki"
+                },
+                {
+                    "first": "Koen",
+                    "initial": "K.",
+                    "last": "van der Maaden"
+                },
+                {
+                    "first": "Joke",
+                    "initial": "J.",
+                    "last": "Bouwstra"
+                },
+                {
+                    "first": "Ferry",
+                    "initial": "F.",
+                    "last": "Ossendorp"
+                },
+                {
+                    "first": "Wim",
+                    "initial": "W.",
+                    "last": "Jiskoot"
+                }
+            ],
+            "doi": "10.1208/s12248-014-9686-4",
+            "firstpage": "216",
+            "issn": "15507416",
+            "lastpage": "226",
+            "pmid": "25387996",
+            "pub_year": 2015,
+            "title": "Cationic Liposomes Loaded with a Synthetic Long Peptide and Poly(I:C): a Defined Adjuvanted Vaccine for Induction of Antigen-Specific T Cell Cytotoxicity",
+            "volume": "17"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Kazutaka",
+                    "initial": "K.",
+                    "last": "Masuko"
+                },
+                {
+                    "first": "Daiko",
+                    "initial": "D.",
+                    "last": "Wakita"
+                },
+                {
+                    "first": "Yuji",
+                    "initial": "Y.",
+                    "last": "Togashi"
+                },
+                {
+                    "first": "Toshiyuki",
+                    "initial": "T.",
+                    "last": "Kita"
+                },
+                {
+                    "first": "Hidemitsu",
+                    "initial": "H.",
+                    "last": "Kitamura"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Nishimura"
+                }
+            ],
+            "doi": "10.1016/j.imlet.2014.11.016",
+            "firstpage": "102",
+            "issn": "01652478",
+            "lastpage": "112",
+            "pmid": "25479286",
+            "pub_year": 2015,
+            "title": "Artificially synthesized helper/killer-hybrid epitope long peptide (H/K-HELP): Preparation and immunological analysis of vaccine efficacy",
+            "volume": "163"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Ton N.",
+                    "initial": "T.N.",
+                    "last": "Schumacher"
+                },
+                {
+                    "first": "Robert D.",
+                    "initial": "R.D.",
+                    "last": "Schreiber"
+                }
+            ],
+            "doi": "10.1126/science.aaa4971",
+            "firstpage": "69",
+            "issn": "00368075",
+            "lastpage": "74",
+            "pmid": "25838375",
+            "pub_year": 2015,
+            "title": "Neoantigens in cancer immunotherapy",
+            "volume": "348"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Steven A.",
+                    "initial": "S.A.",
+                    "last": "Rosenberg"
+                },
+                {
+                    "first": "Nicholas P.",
+                    "initial": "N.P.",
+                    "last": "Restifo"
+                }
+            ],
+            "doi": "10.1126/science.aaa4967",
+            "firstpage": "62",
+            "issn": "00368075",
+            "lastpage": "68",
+            "pmid": "25838374",
+            "pub_year": 2015,
+            "title": "Adoptive cell transfer as personalized immunotherapy for human cancer",
+            "volume": "348"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Ira",
+                    "initial": "I.",
+                    "last": "Mellman"
+                },
+                {
+                    "first": "George",
+                    "initial": "G.",
+                    "last": "Coukos"
+                },
+                {
+                    "first": "Glenn",
+                    "initial": "G.",
+                    "last": "Dranoff"
+                }
+            ],
+            "doi": "10.1038/nature10673",
+            "firstpage": "480",
+            "issn": "00280836",
+            "lastpage": "489",
+            "pub_year": 2011,
+            "title": "Cancer immunotherapy comes of age",
+            "volume": "480"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                },
+                {
+                    "first": "Toshiro",
+                    "initial": "T.",
+                    "last": "Kageshita"
+                },
+                {
+                    "first": "Shosuke",
+                    "initial": "S.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Kazumasa",
+                    "initial": "K.",
+                    "last": "Wakamatsu"
+                },
+                {
+                    "first": "Mikio",
+                    "initial": "M.",
+                    "last": "Monji"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Ikuta"
+                },
+                {
+                    "first": "Satoru",
+                    "initial": "S.",
+                    "last": "Senju"
+                },
+                {
+                    "first": "Tomomichi",
+                    "initial": "T.",
+                    "last": "Ono"
+                },
+                {
+                    "first": "Yasuharu",
+                    "initial": "Y.",
+                    "last": "Nishimura"
+                }
+            ],
+            "doi": "10.1158/1078-0432.CCR-04-0348",
+            "firstpage": "6612",
+            "issn": "10780432",
+            "lastpage": "6621",
+            "pmid": "15475451",
+            "pub_year": 2004,
+            "title": "Identification of glypican-3 as a novel tumor marker for melanoma",
+            "volume": "10"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yoshitake"
+                },
+                {
+                    "first": "Satoru",
+                    "initial": "S.",
+                    "last": "Senju"
+                },
+                {
+                    "first": "Mikio",
+                    "initial": "M.",
+                    "last": "Monji"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Komori"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Motomura"
+                },
+                {
+                    "first": "Seiji",
+                    "initial": "S.",
+                    "last": "Hosaka"
+                },
+                {
+                    "first": "Toru",
+                    "initial": "T.",
+                    "last": "Beppu"
+                },
+                {
+                    "first": "Takatoshi",
+                    "initial": "T.",
+                    "last": "Ishiko"
+                },
+                {
+                    "first": "Hidenobu",
+                    "initial": "H.",
+                    "last": "Kamohara"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Ashihara"
+                },
+                {
+                    "first": "Toyomasa",
+                    "initial": "T.",
+                    "last": "Katagiri"
+                },
+                {
+                    "first": "Yoichi",
+                    "initial": "Y.",
+                    "last": "Furukawa"
+                },
+                {
+                    "first": "Shigetoshi",
+                    "initial": "S.",
+                    "last": "Fujiyama"
+                },
+                {
+                    "first": "Michio",
+                    "initial": "M.",
+                    "last": "Ogawa"
+                },
+                {
+                    "first": "Yusuke",
+                    "initial": "Y.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Yasuharu",
+                    "initial": "Y.",
+                    "last": "Nishimura"
+                }
+            ],
+            "doi": "10.1016/S0006-291X(03)00908-2",
+            "firstpage": "16",
+            "issn": "0006291X",
+            "lastpage": "25",
+            "pmid": "12788060",
+            "pub_year": 2003,
+            "title": "Glypican-3, overexpressed specifically in human hepatocellular carcinoma, is a novel tumor marker",
+            "volume": "306"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Daichi",
+                    "initial": "D.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Satoshi",
+                    "initial": "S.",
+                    "last": "Ota"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Takazawa"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Aburatani"
+                },
+                {
+                    "first": "Shunsuke",
+                    "initial": "S.",
+                    "last": "Nakagawa"
+                },
+                {
+                    "first": "Tetsu",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "Yuji",
+                    "initial": "Y.",
+                    "last": "Taketani"
+                },
+                {
+                    "first": "Tatsuhiko",
+                    "initial": "T.",
+                    "last": "Kodama"
+                },
+                {
+                    "first": "Masashi",
+                    "initial": "M.",
+                    "last": "Fukayama"
+                }
+            ],
+            "doi": "10.1038/modpathol.2009.40",
+            "firstpage": "824",
+            "issn": "08933952",
+            "lastpage": "832",
+            "pmid": "19329941",
+            "pub_year": 2009,
+            "title": "Glypican-3 expression in clear cell adenocarcinoma of the ovary",
+            "volume": "22"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Komori"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakatsura"
+                },
+                {
+                    "first": "Satoru",
+                    "initial": "S.",
+                    "last": "Senju"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yoshitake"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Motomura"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Ikuta"
+                },
+                {
+                    "first": "Daiki",
+                    "initial": "D.",
+                    "last": "Fukuma"
+                },
+                {
+                    "first": "Kazunori",
+                    "initial": "K.",
+                    "last": "Yokomine"
+                },
+                {
+                    "first": "Michiko",
+                    "initial": "M.",
+                    "last": "Harao"
+                },
+                {
+                    "first": "Toru",
+                    "initial": "T.",
+                    "last": "Beppu"
+                },
+                {
+                    "first": "Masanori",
+                    "initial": "M.",
+                    "last": "Matsui"
+                },
+                {
+                    "first": "Toshihiko",
+                    "initial": "T.",
+                    "last": "Torigoe"
+                },
+                {
+                    "first": "Noriyuki",
+                    "initial": "N.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Hideo",
+                    "initial": "H.",
+                    "last": "Baba"
+                },
+                {
+                    "first": "Yasuharu",
+                    "initial": "Y.",
+                    "last": "Nishimura"
+                }
+            ],
+            "doi": "10.1158/1078-0432.CCR-05-2267",
+            "firstpage": "2689",
+            "issn": "10780432",
+            "lastpage": "2697",
+            "pmid": "16675560",
+            "pub_year": 2006,
+            "title": "Identification of HLA-A2- or HLA-A24-restricted CTL epitopes possibly useful for glypican-3-specific immunotherapy of hepatocellular carcinoma",
+            "volume": "12"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 20003,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The liposomal vaccines pGPC3(A2)-liposome and pGPC3(B6)-liposome were administrated at 1 \u03bcg, 10 \u03bcg, or 50 \u03bcg of peptide per mouse in the presence of CpG ODN 5002 (5 \u03bcg/mouse).",
+            "startOffset": 19828,
+            "title": "Liposomal and IFA-emulsified peptide vaccination"
+        },
+        {
+            "endOffset": 20581,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "In brief, bone marrow cells (2 \u00d7 106) derived from B6 mice were cultured in RPMI 1640 containing FBS (10%), 2-ME (50 \u03bcM), and murine granulocyte-macrophage colony-stimulating factor (mGM-CSF, 20 ng/mL).",
+            "startOffset": 20379,
+            "title": "Generation of bone marrow-derived dendritic cells (BM-DCs)"
+        },
+        {
+            "endOffset": 16354,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 16353,
+                    "startOffset": 16349
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Previously, we reported that peptide-specific CTLs were induced in mice immunized with liposome-coupled viral antigen-derived peptide, protecting the mice from viral infection [17].",
+            "startOffset": 16173,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21402,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "At 14 and 7 days before tumor transfer, the mice were immunized with vaccine.",
+            "startOffset": 21325,
+            "title": "Tumor challenge experiment"
+        },
+        {
+            "endOffset": 23184,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The results showed that vaccination with both pGPC3(B6)-liposome/CpG and IFA-emulsified pGPC3(B6) induced pGPC3(B6)-specific CD8+ CTLs at a low (10 \u03bcg) or high (50 \u03bcg) dose (Fig. 1E, F, G).",
+            "startOffset": 22995,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 21981,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.12",
+            "sentence": "Significant differences were defined as *p < 0.05.",
+            "startOffset": 21931,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 28034,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 28033,
+                    "startOffset": 28026
+                },
+                "bib27": {
+                    "endOffset": 28033,
+                    "startOffset": 28026
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It has been recently reported that a \u201clong\u201d peptide vaccine containing both MHC class I and class II epitopes leads to more effective tumor rejection than a \u201cshort\u201d peptide containing either an MHC class I or an MHC class II-related epitope [26,27].",
+            "startOffset": 27785,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21761,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "The tumor area was calculated according to following formula: (tumor area) = (length of major tumor axis) \u00d7 (length of minor tumor axis).",
+            "startOffset": 21624,
+            "title": "Tumor challenge experiment"
+        },
+        {
+            "endOffset": 15151,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Hence, GPC3 is an ideal target molecule for antigen-specific cancer immunotherapy.",
+            "startOffset": 15069,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25197,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The antitumor effect was evaluated by measuring tumor growth.",
+            "startOffset": 25136,
+            "title": "Liposome-coupled pGPC3 inhibits GPC3-expressing tumor growth in\u00a0vivo"
+        },
+        {
+            "endOffset": 22869,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In contrast, when A2-Tg mice were immunized with IFA-emulsified pGPC3(A2) vaccine containing an equal dose of pGPC3 (1 \u03bcg), no pGPC3(A2)-specific CD8+ CTLs were detected (Fig. 1C).",
+            "startOffset": 22689,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 24541,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Vaccination with both uncoupled and coupled pGPC3(B6) liposome vaccine induced pGPC3(B6)-specific CD8+ CTLs (Fig. 2B).",
+            "startOffset": 24423,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 19216,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "\u201cOleoyl\u201d liposomes, consisting of dioleoyl phosphatidyl choline, dioleoyl phosphatidyl ethanolamine, dioleoyl phosphatidyl glycerol acid, and cholesterol in a 4:3:2:7 M ratio, were used in this study.",
+            "startOffset": 19016,
+            "title": "Liposomes"
+        },
+        {
+            "endOffset": 24240,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In contrast, when the mice were immunized with uncoupled pGPC3(A2) liposome vaccine, pGPC3-specific CD8+ CTLs were not detected (Fig. 2A).",
+            "startOffset": 24102,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 25824,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, new vaccines without IFA are desired.",
+            "startOffset": 25776,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28906,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The other authors have no potential conflicts of interest to declare.",
+            "startOffset": 28837,
+            "title": "Conflicting financial interest"
+        },
+        {
+            "endOffset": 25401,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The tumor area in mice immunized with pGPC3(A2)-liposome/CpG was smaller than in the other groups, and complete regression was observed in one of the mice treated with pGPC3(A2)-liposome/CpG (Fig. 3B,C).",
+            "startOffset": 25198,
+            "title": "Liposome-coupled pGPC3 inhibits GPC3-expressing tumor growth in\u00a0vivo"
+        },
+        {
+            "endOffset": 22688,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Vaccination with pGPC3(A2)-liposome/CpG induced pGPC3(A2)-specific CD8+ CTLs at a low dose (1 \u03bcg) that was 1/50 the amount of peptide used in conventional IFA-emulsified vaccine (Fig. 1B).",
+            "startOffset": 22500,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 27784,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Finally, we demonstrated that liposome-coupled pGPC3 vaccination inhibited GPC3-expressing tumor growth in vivo (Fig. 3).",
+            "startOffset": 27663,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24857,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These results suggested that the coupling of the peptides to liposomes is essential for effective induction of pGPC3-specific CTLs in vivo.",
+            "startOffset": 24718,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 27663,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These observations suggested that coupling of the peptides to liposomes is essential for effective induction of pGPC3-specific CTLs.",
+            "startOffset": 27531,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21474,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "At day 0, A2-Tg mice were injected with RMA-HHD-GPC3 (5.0 \u00d7 105 cells).",
+            "startOffset": 21403,
+            "title": "Tumor challenge experiment"
+        },
+        {
+            "endOffset": 26836,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We showed that pGPC3-specific CTLs were effectively induced in mice immunized with pGPC3-liposome vaccine.",
+            "startOffset": 26730,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26622,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 26621,
+                    "startOffset": 26617
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Furthermore, we showed that liposome-coupled peptides derived from the model antigen OVA inhibited the growth of OVA-expressing tumor [18].",
+            "startOffset": 26483,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16723,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The above findings on the basis of the use of a viral or model antigen indicated that liposome-coupled TAA-derived CTL epitope peptide may be promising for tumor treatment.",
+            "startOffset": 16551,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28469,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, we developed a surface-coupled liposomal pGPC3 vaccine and showed that intradermal administration of this vaccine effectively elicits pGPC3-specific CTLs and exerts antitumor effects against GPC3-expressing tumor in vivo in mice.",
+            "startOffset": 28225,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18391,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "All cells were cultured in RPMI 1640 (Thermo Fisher Scientific Inc., Waltham, MA, USA) supplemented with 10% fetal bovine serum (FBS) (Thermo Fisher Scientific), penicillin-streptomycin solution (Thermo Fisher Scientific), and 2-mercaptoethanol (2-ME, 50 \u03bcM).",
+            "startOffset": 18132,
+            "title": "Cell lines"
+        },
+        {
+            "endOffset": 17620,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The mice were maintained under the institutional guidelines set by the Animal Research Committee of the National Cancer Center Hospital East, Japan.",
+            "startOffset": 17472,
+            "title": "Mice"
+        },
+        {
+            "endOffset": 14621,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14620,
+                    "startOffset": 14615
+                },
+                "bib2": {
+                    "endOffset": 14620,
+                    "startOffset": 14615
+                },
+                "bib3": {
+                    "endOffset": 14620,
+                    "startOffset": 14615
+                },
+                "bib4": {
+                    "endOffset": 14620,
+                    "startOffset": 14615
+                },
+                "bib5": {
+                    "endOffset": 14620,
+                    "startOffset": 14615
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Immunotherapy has become a promising, refined strategy for tumor treatment [1\u20135].",
+            "startOffset": 14540,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15613,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 15612,
+                    "startOffset": 15605
+                },
+                "bib13": {
+                    "endOffset": 15612,
+                    "startOffset": 15605
+                },
+                "bib14": {
+                    "endOffset": 15612,
+                    "startOffset": 15605
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, tumor responses were observed in a limited number of patients [12\u201314].",
+            "startOffset": 15534,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17471,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 17470,
+                    "startOffset": 17463
+                },
+                "bib20": {
+                    "endOffset": 17470,
+                    "startOffset": 17463
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "HLA-A*02:01 transgenic mice (A2-Tg mice)\u2014H-2Db \u03b22m double knockout mice transformed with human \u03b22m-HLA-A2.1 (\u03b11\u03b12)-H-2Db (\u03b13 transmembrane cytoplasmic) monochain construct\u2014were generated in the Department SIDA-Retrovirus, Unit\u00e9 d' Immunit\u00e9 Cellulaire Antivirale, Institut Pasteur, France and kindly provided by Dr. F.A. Lemonnier [19,20].",
+            "startOffset": 17133,
+            "title": "Mice"
+        },
+        {
+            "endOffset": 14857,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Tumor-associated antigens (TAAs) and TAA-derived peptides recognized by cytotoxic T lymphocytes (CTLs) have been discovered.",
+            "startOffset": 14733,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26326,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, we aimed to develop an alternative preparation method for the liposomal peptide vaccine.",
+            "startOffset": 26227,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26970,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Moreover, induction was obtained with a lower dose of peptide than that used in conventional IFA-emulsified peptide vaccine (Fig. 1).",
+            "startOffset": 26837,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18131,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "RMA-HHD-GPC3 is RMA-HHD transfected with the murine GPC3 gene.",
+            "startOffset": 18069,
+            "title": "Cell lines"
+        },
+        {
+            "endOffset": 19527,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "CpG was dissolved in distilled water at a concentration of 4 mg/mL.",
+            "startOffset": 19460,
+            "title": "CpG oligodeoxynucleotide"
+        },
+        {
+            "endOffset": 25135,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To investigate the antitumor effect of the pGPC3-liposome vaccine, A2-tg mice were immunized and subcutaneously injected with RMA-HHD-GPC3 cells (expressing murine GPC3) according to the schedule in Fig. 3A.",
+            "startOffset": 24928,
+            "title": "Liposome-coupled pGPC3 inhibits GPC3-expressing tumor growth in\u00a0vivo"
+        },
+        {
+            "endOffset": 19004,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Synthetic pGPC3(B6) was purchased from Scrum Inc. (Tokyo, Japan) and dissolved in dimethyl sulfoxide (DMSO) (Wako Pure Chemical Industries Ltd., Osaka, Japan) at 10 mg/mL.",
+            "startOffset": 18833,
+            "title": "Peptides"
+        },
+        {
+            "endOffset": 20266,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Mice were immunized with two separate intradermal injections at the base of the tail according to the schedules shown in Figs. 1A, D and 3A.",
+            "startOffset": 20126,
+            "title": "Liposomal and IFA-emulsified peptide vaccination"
+        },
+        {
+            "endOffset": 21295,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "The frequency of IFN-\u03b3-producing cells was detected using an ELISpot assay kit (BD Bioscience, San Jose, CA, USA) according to the manufacturer's protocol.",
+            "startOffset": 21140,
+            "title": "IFN-\u03b3 enzyme-linked immunospot (ELISpot) assay"
+        },
+        {
+            "endOffset": 17752,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The animals were housed in specific pathogen-free (SPF) conditions with a 12-h light cycle and access to food and water ad libitum.",
+            "startOffset": 17621,
+            "title": "Mice"
+        },
+        {
+            "endOffset": 26226,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In a preliminary study, we tried to encapsulate pGPC3 within liposomes; however, no encapsulated pGPC3 could be detected (data not shown), suggesting that the peptide might be too short to be retained within the liposomes.",
+            "startOffset": 26004,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26730,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, the immunological effects of true TAA peptide-coupled liposome have not been investigated to date.",
+            "startOffset": 26623,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18068,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "RMA-S-HHD is RMA-S transfected with the HLA-A*02:01-Db-\u03b22-microglobulin single chain gene.",
+            "startOffset": 17978,
+            "title": "Cell lines"
+        },
+        {
+            "endOffset": 17132,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "C57BL/6 (B6) mice were purchased from Charles River Laboratories Japan (Kanagawa, Japan).",
+            "startOffset": 17043,
+            "title": "Mice"
+        },
+        {
+            "endOffset": 25775,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 25774,
+                    "startOffset": 25770
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Recently, it has been reported that IFA-emulsified peptide vaccination causes CTL hypo-responsiveness in a murine model [15].",
+            "startOffset": 25650,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20656,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "After 7 days of culture, floating cells were collected and used as BM-DCs.",
+            "startOffset": 20582,
+            "title": "Generation of bone marrow-derived dendritic cells (BM-DCs)"
+        },
+        {
+            "endOffset": 15068,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 15067,
+                    "startOffset": 15062
+                },
+                "bib7": {
+                    "endOffset": 15067,
+                    "startOffset": 15062
+                },
+                "bib8": {
+                    "endOffset": 15067,
+                    "startOffset": 15062
+                }
+            },
+            "secId": "sec1",
+            "sentence": "GPC3 is expressed in hepatocellular carcinoma (HCC), melanoma, and ovary cancer, but not in normal tissues except for the placenta and embryonic liver [6\u20138].",
+            "startOffset": 14911,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21536,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "At day 7 after tumor transfer, the mice were immunized again.",
+            "startOffset": 21475,
+            "title": "Tumor challenge experiment"
+        },
+        {
+            "endOffset": 19459,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "CpG oligodeoxynucleotide (CpG ODN) 5002: (5\u2032-TCCATGACGTTCTTGATGTT-3\u2032) was synthesized by Hokkaido System Science Co., Ltd. (Hokkaido, Japan) and was phosphorothioate-protected to avoid nuclease-dependent degradation.",
+            "startOffset": 19243,
+            "title": "CpG oligodeoxynucleotide"
+        },
+        {
+            "endOffset": 20125,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "IFA-emulsified peptide vaccine was administered as an emulsion of peptide solution (100 \u03bcL/mouse) and IFA (100 \u03bcL/mouse).",
+            "startOffset": 20004,
+            "title": "Liposomal and IFA-emulsified peptide vaccination"
+        },
+        {
+            "endOffset": 27174,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 27173,
+                    "startOffset": 27169
+                }
+            },
+            "secId": "sec4",
+            "sentence": "CpG ODN acts as an effective immune adjuvant when co-administered with a CTL epitope peptide by activating antigen-presenting cells, thereby promoting cell-mediated immune responses (Th1 responses) [25].",
+            "startOffset": 26971,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17807,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Six-to ten-week-old mice were used in all experiments.",
+            "startOffset": 17753,
+            "title": "Mice"
+        },
+        {
+            "endOffset": 27347,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Indeed, we observed that pGPC3-liposome vaccination with CpG ODN elicited peptide-specific CTLs in vivo more effectively than that without CpG ODN (data not shown, Fig. 1).",
+            "startOffset": 27175,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21623,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "The lengths of the major and minor axes of the tumor were measured by using a caliper.",
+            "startOffset": 21537,
+            "title": "Tumor challenge experiment"
+        },
+        {
+            "endOffset": 24718,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "However, the frequency of pGPC3(B6)-specific CD8+ CTLs in mice injected with the coupled vaccine was higher than that in mice that had received the uncoupled vaccine (Fig. 2C).",
+            "startOffset": 24542,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 17014,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we chemically coupled GPC3-derived epitope peptide (pGPC3) to liposome surfaces (pGPC3-liposome), and investigated its ability to induce peptide-specific CTLs and its antitumor effect in vivo.",
+            "startOffset": 16807,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15533,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In our clinical trial, the peptide vaccine was prepared by emulsifying GPC3 peptide in incomplete Freund's adjuvant (IFA) and administrated by intradermal injection.",
+            "startOffset": 15368,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23750,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Next, we investigated whether coupling of the peptides to liposomes is required for effective CTL induction.",
+            "startOffset": 23642,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 15367,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 15366,
+                    "startOffset": 15360
+                },
+                "bib11": {
+                    "endOffset": 15366,
+                    "startOffset": 15360
+                },
+                "bib9": {
+                    "endOffset": 15366,
+                    "startOffset": 15360
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We previously identified HLA-A*24:02-restricted GPC3298\u2013306 EYILSLEEL peptide and HLA-A*02:01-restricted GPC3144\u2013152 FVGEFFTDV peptide, and H2-Kb/H2-Db-restricted murine GPC3127\u2013136 AMFKNNYPSL as CTL epitopes [9\u201311].",
+            "startOffset": 15151,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23571,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The results suggested that pGPC3-liposome elicits peptide-specific CTLs in vivo and liposome-coupled peptide vaccine is more effective than IFA-emulsified vaccine for CTL induction.",
+            "startOffset": 23390,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 25649,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Multiple clinical trials have used IFA-emulsified peptide vaccination to induce TAA-specific T cell responses in cancer patients.",
+            "startOffset": 25520,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21930,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.12",
+            "sentence": "Statistical analyses of the ELISpot assays and the antitumor effect of the vaccines were performed using a Mann\u2013Whitney U or Kruskal\u2013Wallis test.",
+            "startOffset": 21785,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 28685,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, liposome-coupled pGPC3 may become a new therapeutic option for HCC as an alternative to IFA-based vaccines and, more generally, surface-coupled TAA peptides may have promising potential in cancer therapy.",
+            "startOffset": 28470,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22199,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 22198,
+                    "startOffset": 22194
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "We previously found that a high dose of pGPC3 (50 \u03bcg) emulsified with IFA can stimulate priming of pGPC3-specific CTLs in vivo [10].",
+            "startOffset": 22067,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 24101,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The coupled pGPC3(A2) liposome vaccine effectively induced pGPC3(A2)-specific CD8+ CTLs in the spleen (Fig. 2A).",
+            "startOffset": 23989,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 15792,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, establishment of a new vaccine strategy is desired.",
+            "startOffset": 15730,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19652,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 19651,
+                    "startOffset": 19647
+                }
+            },
+            "secId": "sec2.6",
+            "sentence": "Peptide-conjugated liposomes were prepared as described previously [22].",
+            "startOffset": 19580,
+            "title": "Coupling of GPC3-derived peptides to the liposomes"
+        },
+        {
+            "endOffset": 15729,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 15728,
+                    "startOffset": 15724
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In addition, it has been recently reported that IFA-based vaccination induces CTL hypo-responsiveness in mice [15].",
+            "startOffset": 15614,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22499,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 22393,
+                    "startOffset": 22389
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "To analyze the immunogenic potential of the pGPC3-liposome vaccine, A2-Tg mice were immunized with pGPC3(A2)-liposome containing CpG ODN, one of the ligands for toll-like receptor 9 (TLR9) [23], (pGPC3(A2)-liposome/CpG), and the frequency of pGPC3-specific CTLs was evaluated by IFN-\u03b3 ELISpot assay.",
+            "startOffset": 22200,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 19777,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Liposomal peptide density was assessed by quantitative amino acid analysis (by Shimadzu Techno-Research Inc., Kyoto, Japan).",
+            "startOffset": 19653,
+            "title": "Coupling of GPC3-derived peptides to the liposomes"
+        },
+        {
+            "endOffset": 25509,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These results suggested that pGPC3-liposome vaccine exerts antitumor effect in GPC3-expressing tumor model.",
+            "startOffset": 25402,
+            "title": "Liposome-coupled pGPC3 inhibits GPC3-expressing tumor growth in\u00a0vivo"
+        },
+        {
+            "endOffset": 24422,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Next, B6 mice were immunized with a mixture of pGPC3 (B6)/liposome/CpG ODN (uncoupled pGPC3(B6) liposome vaccine) or with pGPC3(B6)-liposome/CpG (coupled pGPC3(B6) liposome vaccine).",
+            "startOffset": 24240,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 17977,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 17976,
+                    "startOffset": 17972
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "RMA-S is a transporter-associated antigen processing (TAP)-defective B6 thymoma cell line; this cell cannot present endogenous antigens via MHC class I [21].",
+            "startOffset": 17820,
+            "title": "Cell lines"
+        },
+        {
+            "endOffset": 26482,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 26481,
+                    "startOffset": 26471
+                },
+                "bib22": {
+                    "endOffset": 26481,
+                    "startOffset": 26471
+                },
+                "bib24": {
+                    "endOffset": 26481,
+                    "startOffset": 26471
+                }
+            },
+            "secId": "sec4",
+            "sentence": "We previously reported coupling of antigens and short peptides to the surfaces of liposomes as an alternative technique for vaccine preparation [17,22,24].",
+            "startOffset": 26327,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20378,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 20377,
+                    "startOffset": 20373
+                }
+            },
+            "secId": "sec2.8",
+            "sentence": "BM-DCs were generated as described previously [11].",
+            "startOffset": 20327,
+            "title": "Generation of bone marrow-derived dendritic cells (BM-DCs)"
+        },
+        {
+            "endOffset": 23390,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, the frequency of pGPC3(B6)-specific CD8+ splenocytes in mice immunized with pGPC3(B6)-liposome/CpG tended to be higher than that in mice treated with IFA-emulsified pGPC3(B6) vaccine (Fig. 1E, F).",
+            "startOffset": 23185,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 26003,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Liposomal vaccines have been prepared by entrapment of antigens within the aqueous lumen of liposomes, which, besides their role as antigen carrier, are known to act as adjuvants.",
+            "startOffset": 25824,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14910,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We previously identified glypican-3 (GPC3) as a TAA.",
+            "startOffset": 14858,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16461,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 16460,
+                    "startOffset": 16456
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Furthermore, ovalbumin (OVA)-expressing tumor regressed in mice immunized with liposomal OVA peptide [18].",
+            "startOffset": 16355,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18638,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Amino acid sequences of HLA-A*02:01-restricted GPC3-derived CTL epitope peptide (pGPC3(A2)), and H2-Kb- or H2-Db-restricted murine GPC3-derived CTL epitope peptide (pGPC3(B6)) are as follows: pGPC3(A2), FVGEFFTDV; pGPC3(B6), AMFKNNYPSL.",
+            "startOffset": 18402,
+            "title": "Peptides"
+        },
+        {
+            "endOffset": 16172,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 16171,
+                    "startOffset": 16167
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Antigens chemically coupled to the liposome surface, which consists of unsaturated fatty acids, are efficiently cross-presented via major histocompatibility complex (MHC) class I by antigen-presenting cells (APCs) and effectively stimulate antigen-specific CTLs [16].",
+            "startOffset": 15905,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16807,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "To date, however, the therapeutic potential of such vaccine has not been clarified.",
+            "startOffset": 16724,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28225,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is conceivable that liposome-coupled GPC3-derived long peptide vaccine containing both MHC class I and class II-restricted epitopes has the potential for more effective antitumor effects.",
+            "startOffset": 28035,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20961,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Seven days after the last immunization, splenocytes were collected and CD8+ splenocytes were isolated by positive magnetic cell sorting with anti-CD8 microbeads (Miltenyi Biotec K.K., Tokyo, Japan) according to the manufacturer's protocol.",
+            "startOffset": 20722,
+            "title": "In\u00a0vitro stimulation of splenocytes derived from immunized mice"
+        },
+        {
+            "endOffset": 18832,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Synthetic pGPC3(A2) was purchased from the American Peptide Company Inc. (Sunnyvale, CA, USA) and dissolved in 7% NaHCO3 solution (Otsuka Pharmaceutical Factory Inc., Tokyo, Japan) at 10 mg/mL.",
+            "startOffset": 18639,
+            "title": "Peptides"
+        },
+        {
+            "endOffset": 21090,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "CD8+ splenocytes were cocultured with peptide-pulsed BM-DCs for 7 days and the antigen-specific T cell frequency was determined.",
+            "startOffset": 20962,
+            "title": "In\u00a0vitro stimulation of splenocytes derived from immunized mice"
+        },
+        {
+            "endOffset": 23988,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "A2-Tg mice were immunized with a mixture of pGPC3(A2)/liposome/CpG ODN (uncoupled pGPC3(A2) liposome vaccine) or with pGPC3(A2)-liposome/CpG (coupled pGPC3(A2) liposome vaccine), and the frequencies of pGPC3-specific CTLs were evaluated.",
+            "startOffset": 23751,
+            "title": "Coupling of the peptides to liposomes is important for CTL induction"
+        },
+        {
+            "endOffset": 22994,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Next, B6 mice were immunized with pGPC3(B6)-liposome containing CpG ODN (pGPC3(B6)-liposome/CpG) or IFA-emulsified pGPC3(B6).",
+            "startOffset": 22869,
+            "title": "Liposome-coupled pGPC3 efficiently stimulates peptide-specific CTLs in\u00a0vivo"
+        },
+        {
+            "endOffset": 14732,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Peptide, protein, and DNA vaccines and antibody therapy have been developed as antigen-specific immunotherapy.",
+            "startOffset": 14622,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16550,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In addition, liposomal peptide has the ability to induce long-lived memory CTLs in mice.",
+            "startOffset": 16462,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28836,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Tetsuya Nakatsura is a scientific advisor to Ono Pharmaceutical Co., Ltd., and is supported by funding from this company.",
+            "startOffset": 28715,
+            "title": "Conflicting financial interest"
+        },
+        {
+            "endOffset": 15904,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Antigen-containing liposome has been attracting interest for use as a delivery vehicle in new vaccine adjuvants.",
+            "startOffset": 15792,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27530,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, despite the presence of CpG ODN, the uncoupled pGPC3/liposome/CpG mixture elicited pGPC3-specific CTLs less effectively than the coupled pGPC3-liposome/CpG vaccine (Fig. 2).",
+            "startOffset": 27348,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X15309530",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Tatsuaki",
+                "initial": "T.",
+                "last": "Iwama"
+            },
+            {
+                "email": null,
+                "first": "Tetsuya",
+                "initial": "T.",
+                "last": "Uchida"
+            },
+            {
+                "email": null,
+                "first": "Yu",
+                "initial": "Y.",
+                "last": "Sawada"
+            },
+            {
+                "email": null,
+                "first": "Nobuhiro",
+                "initial": "N.",
+                "last": "Tsuchiya"
+            },
+            {
+                "email": null,
+                "first": "Shiori",
+                "initial": "S.",
+                "last": "Sugai"
+            },
+            {
+                "email": null,
+                "first": "Norihiro",
+                "initial": "N.",
+                "last": "Fujinami"
+            },
+            {
+                "email": null,
+                "first": "Manami",
+                "initial": "M.",
+                "last": "Shimomura"
+            },
+            {
+                "email": null,
+                "first": "Toshiaki",
+                "initial": "T.",
+                "last": "Yoshikawa"
+            },
+            {
+                "email": null,
+                "first": "Rong",
+                "initial": "R.",
+                "last": "Zhang"
+            },
+            {
+                "email": "yuemrua@east.ncc.go.jp",
+                "first": "Yasushi",
+                "initial": "Y.",
+                "last": "Uemura"
+            },
+            {
+                "email": "tnakatsu@east.ncc.go.jp",
+                "first": "Tetsuya",
+                "initial": "T.",
+                "last": "Nakatsura"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.11.084",
+        "firstpage": "138",
+        "issn": "0006291X",
+        "keywords": [
+            "Cancer",
+            "Glypican-3",
+            "Hepatocellular carcinoma",
+            "Immunotherapy",
+            "Liposome",
+            "Peptide vaccine"
+        ],
+        "lastpage": "143",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Vaccination with liposome-coupled glypican-3-derived epitope peptide stimulates cytotoxic T lymphocytes and inhibits GPC3-expressing tumor growth in mice"
+    }
+}

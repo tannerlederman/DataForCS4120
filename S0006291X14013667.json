@@ -1,0 +1,2256 @@
+{
+    "abstract": "Electronic connection between Qo and Qi quinone catalytic sites of dimeric cytochrome bc1 is a central feature of the energy-conserving Q cycle. While both the intra- and inter-monomer electron transfers were shown to connect the sites in the enzyme, mechanistic and physiological significance of the latter remains unclear. Here, using a series of mutated hybrid cytochrome bc1-like complexes, we show that inter-monomer electron transfer robustly sustains the function of the enzyme in vivo, even when the two subunits in a dimer come from different species. This indicates that minimal requirement for bioenergetic efficiency is to provide a chain of cofactors for uncompromised electron flux between the catalytic sites, while the details of protein scaffold are secondary. \u00a9 2014 Elsevier Inc. All rights reserved.",
+    "author_highlights": [
+        {
+            "endOffset": 9697,
+            "sentence": "We used hybrid fusion bc1 complex to test inter-monomer electron transfer in vivo.",
+            "startOffset": 9615
+        },
+        {
+            "endOffset": 9773,
+            "sentence": "Cross-inactivated complexes were able to sustain photoheterotrophic growth.",
+            "startOffset": 9698
+        },
+        {
+            "endOffset": 9839,
+            "sentence": "Inter-monomer electron transfer supports catalytic cycle in vivo.",
+            "startOffset": 9774
+        },
+        {
+            "endOffset": 9924,
+            "sentence": "bc1 dimer is functional even when cytochrome b subunits come from different species.",
+            "startOffset": 9840
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "E. A.",
+                    "initial": "E.A.",
+                    "last": "Berry"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Guergova-Kuras"
+                },
+                {
+                    "first": "L. S.",
+                    "initial": "L.S.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "A. R.",
+                    "initial": "A.R.",
+                    "last": "Crofts"
+                }
+            ],
+            "doi": "10.1146/annurev.biochem.69.1.1005",
+            "firstpage": "1005",
+            "issn": "00664154",
+            "lastpage": "1075",
+            "pmid": "10966481",
+            "pub_year": 2000,
+            "title": "Structure and function of cytochrome bc complexes",
+            "volume": "69"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Mitchell"
+                }
+            ],
+            "doi": "10.1016/0014-5793(75)80359-0",
+            "firstpage": "137",
+            "issn": "00145793",
+            "lastpage": "139",
+            "pmid": "1227927",
+            "pub_year": 1975,
+            "title": "The protonmotive Q cycle: A general formulation",
+            "volume": "59"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Edward A.",
+                    "initial": "E.A.",
+                    "last": "Berry"
+                },
+                {
+                    "first": "Li Shar",
+                    "initial": "L.S.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Lai K.",
+                    "initial": "L.K.",
+                    "last": "Saechao"
+                },
+                {
+                    "first": "Ning G.",
+                    "initial": "N.G.",
+                    "last": "Pon"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Valkova-Valchanova"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1023/B:PRES.0000036888.18223.0e",
+            "firstpage": "251",
+            "issn": "01668595",
+            "lastpage": "275",
+            "pub_year": 2004,
+            "title": "X-ray structure of Rhodobacter capsulatus cytochrome bc 1: Comparison with its mitochondrial and chloroplast counterparts",
+            "volume": "81"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Carola",
+                    "initial": "C.",
+                    "last": "Hunte"
+                },
+                {
+                    "first": "Juergen",
+                    "initial": "J.",
+                    "last": "Koepke"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Lange"
+                },
+                {
+                    "first": "Tanja",
+                    "initial": "T.",
+                    "last": "Ro\u00dfmanith"
+                },
+                {
+                    "first": "Hartmut",
+                    "initial": "H.",
+                    "last": "Michel"
+                }
+            ],
+            "doi": "10.1016/S0969-2126(00)00152-0",
+            "firstpage": "669",
+            "issn": "09692126",
+            "lastpage": "684",
+            "pmid": "10873857",
+            "pub_year": 2000,
+            "title": "Structure at 2.3 \u00c5 resolution of the cytochrome bc1 complex from the yeast Saccharomyces cerevisiae co-crystallized with an antibody Fv fragment",
+            "volume": "8"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Di",
+                    "initial": "D.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Chang An",
+                    "initial": "C.A.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Hoeon",
+                    "initial": "H.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Jia Zhi",
+                    "initial": "J.Z.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Anatoly M.",
+                    "initial": "A.M.",
+                    "last": "Kachurin"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Johann",
+                    "initial": "J.",
+                    "last": "Deisenhofer"
+                }
+            ],
+            "doi": "10.1126/science.277.5322.60",
+            "firstpage": "60",
+            "issn": "00368075",
+            "lastpage": "66",
+            "pmid": "9204897",
+            "pub_year": 1997,
+            "title": "Crystal structure of the cytochrome bc1 complex from bovine heart mitochondria",
+            "volume": "277"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Artur",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                },
+                {
+                    "first": "Christopher C.",
+                    "initial": "C.C.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "Fevzl",
+                    "initial": "F.",
+                    "last": "Daldal"
+                },
+                {
+                    "first": "P. Lesile",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                }
+            ],
+            "doi": "10.1038/nature02242",
+            "firstpage": "607",
+            "issn": "00280836",
+            "lastpage": "612",
+            "pmid": "14961113",
+            "pub_year": 2004,
+            "title": "Reversible redox energy coupling in electron transfer chains",
+            "volume": "427"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Oxana A.",
+                    "initial": "O.A.",
+                    "last": "Gopta"
+                },
+                {
+                    "first": "Boris A.",
+                    "initial": "B.A.",
+                    "last": "Feniouk"
+                },
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Junge"
+                },
+                {
+                    "first": "Armen Y.",
+                    "initial": "A.Y.",
+                    "last": "Mulkidjanian"
+                }
+            ],
+            "doi": "10.1016/S0014-5793(98)00768-6",
+            "firstpage": "291",
+            "issn": "00145793",
+            "lastpage": "296",
+            "pmid": "9708922",
+            "pub_year": 1998,
+            "title": "The cytochrome bc1 complex of Rhodobacter capsulatus: Ubiquinol oxidation in a dimeric Q-cycle?",
+            "volume": "431"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Raul",
+                    "initial": "R.",
+                    "last": "Covian"
+                },
+                {
+                    "first": "Bernard L.",
+                    "initial": "B.L.",
+                    "last": "Trumpower"
+                }
+            ],
+            "doi": "10.1016/j.bbabio.2008.04.022",
+            "firstpage": "1079",
+            "issn": "00052728",
+            "lastpage": "1091",
+            "pmid": "18471987",
+            "pub_year": 2008,
+            "title": "Regulatory interactions in the dimeric cytochrome bc1 complex: The advantages of being a twin",
+            "volume": "1777"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Jason W.",
+                    "initial": "J.W.",
+                    "last": "Cooley"
+                },
+                {
+                    "first": "Dong Woo",
+                    "initial": "D.W.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi802216h",
+            "firstpage": "1888",
+            "issn": "00062960",
+            "lastpage": "1899",
+            "pmid": "19254042",
+            "pub_year": 2009,
+            "title": "Across membrane communication between the Q o and Q 1 active sites of cytochrome bc 1",
+            "volume": "48"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Xing",
+                    "initial": "X.",
+                    "last": "Gong"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Di",
+                    "initial": "D.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Chang An",
+                    "initial": "C.A.",
+                    "last": "Yu"
+                }
+            ],
+            "doi": "10.1074/jbc.M409994200",
+            "firstpage": "9251",
+            "issn": "00219258",
+            "lastpage": "9257",
+            "pmid": "15615714",
+            "pub_year": 2005,
+            "title": "Evidence for electron equilibrium between the two hemes bL in the dimeric cytochrome bc1 complex",
+            "volume": "280"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Vladimir P.",
+                    "initial": "V.P.",
+                    "last": "Shinkarev"
+                },
+                {
+                    "first": "Colin A.",
+                    "initial": "C.A.",
+                    "last": "Wraight"
+                }
+            ],
+            "doi": "10.1016/j.febslet.2007.03.037",
+            "firstpage": "1535",
+            "issn": "00145793",
+            "lastpage": "1541",
+            "pmid": "17399709",
+            "pub_year": 2007,
+            "title": "Intermonomer electron transfer in the bc1 complex dimer is controlled by the energized state and by impaired electron transfer between low and high potential hemes",
+            "volume": "581"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Monika",
+                    "initial": "M.",
+                    "last": "\u015awierczek"
+                },
+                {
+                    "first": "Ewelina",
+                    "initial": "E.",
+                    "last": "Cieluch"
+                },
+                {
+                    "first": "Marcin",
+                    "initial": "M.",
+                    "last": "Sarewicz"
+                },
+                {
+                    "first": "Arkadiusz",
+                    "initial": "A.",
+                    "last": "Borek"
+                },
+                {
+                    "first": "Christopher C.",
+                    "initial": "C.C.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "P. Leslie",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                },
+                {
+                    "first": "Artur",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                }
+            ],
+            "doi": "10.1126/science.1190899",
+            "firstpage": "451",
+            "issn": "00368075",
+            "lastpage": "454",
+            "pmid": "20651150",
+            "pub_year": 2010,
+            "title": "An electronic bus bar lies in the core of cytochrome bc1",
+            "volume": "329"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lanciano"
+                },
+                {
+                    "first": "Dong Woo",
+                    "initial": "D.W.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Honghui",
+                    "initial": "H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Elisabeth",
+                    "initial": "E.",
+                    "last": "Darrouzet"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi101736v",
+            "firstpage": "1651",
+            "issn": "00062960",
+            "lastpage": "1663",
+            "pmid": "21261281",
+            "pub_year": 2011,
+            "title": "Intermonomer electron transfer between the low-potential b hemes of cytochrome bc 1",
+            "volume": "50"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Monika",
+                    "initial": "M.",
+                    "last": "Czapla"
+                },
+                {
+                    "first": "Arkadiusz",
+                    "initial": "A.",
+                    "last": "Borek"
+                },
+                {
+                    "first": "Marcin",
+                    "initial": "M.",
+                    "last": "Sarewicz"
+                },
+                {
+                    "first": "Artur",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                }
+            ],
+            "doi": "10.1021/bi2016316",
+            "firstpage": "829",
+            "issn": "00062960",
+            "lastpage": "835",
+            "pmid": "22233445",
+            "pub_year": 2012,
+            "title": "Enzymatic activities of isolated cytochrome bc 1-like complexes containing fused cytochrome b subunits with asymmetrically inactivated segments of electron transfer chains",
+            "volume": "51"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Monika",
+                    "initial": "M.",
+                    "last": "Czapla"
+                },
+                {
+                    "first": "Ewelina",
+                    "initial": "E.",
+                    "last": "Cieluch"
+                },
+                {
+                    "first": "Arkadiusz",
+                    "initial": "A.",
+                    "last": "Borek"
+                },
+                {
+                    "first": "Marcin",
+                    "initial": "M.",
+                    "last": "Sarewicz"
+                },
+                {
+                    "first": "Artur",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                }
+            ],
+            "doi": "10.1016/j.bbabio.2013.02.007",
+            "firstpage": "751",
+            "issn": "00052728",
+            "lastpage": "760",
+            "pmid": "23428397",
+            "pub_year": 2013,
+            "title": "Catalytically-relevant electron transfer between two hemes bL in the hybrid cytochrome bc1-like complex containing a fusion of Rhodobacter sphaeroides and capsulatus cytochromes b",
+            "volume": "1827"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lanciano"
+                },
+                {
+                    "first": "Bahia",
+                    "initial": "B.",
+                    "last": "Khalfaoui-Hassani"
+                },
+                {
+                    "first": "Nur",
+                    "initial": "N.",
+                    "last": "Selamoglu"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi400561e",
+            "firstpage": "7196",
+            "issn": "00062960",
+            "lastpage": "7206",
+            "pmid": "24028549",
+            "pub_year": 2013,
+            "title": "Intermonomer electron transfer between the b hemes of heterodimeric cytochrome bc 1",
+            "volume": "52"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Sangjin",
+                    "initial": "S.",
+                    "last": "Hong"
+                },
+                {
+                    "first": "Doreen",
+                    "initial": "D.",
+                    "last": "Victoria"
+                },
+                {
+                    "first": "Antony R.",
+                    "initial": "A.R.",
+                    "last": "Crofts"
+                }
+            ],
+            "doi": "10.1016/j.bbabio.2012.03.012",
+            "firstpage": "1053",
+            "issn": "00052728",
+            "lastpage": "1062",
+            "pmid": "22465023",
+            "pub_year": 2012,
+            "title": "Inter-monomer electron transfer is too slow to compete with monomeric turnover in bc1 complex",
+            "volume": "1817"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Bahia",
+                    "initial": "B.",
+                    "last": "Khalfaoui-Hassani"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lanciano"
+                },
+                {
+                    "first": "Dong Woo",
+                    "initial": "D.W.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Elisabeth",
+                    "initial": "E.",
+                    "last": "Darrouzet"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1016/j.febslet.2011.08.032",
+            "firstpage": "617",
+            "issn": "00145793",
+            "lastpage": "621",
+            "pmid": "21878327",
+            "pub_year": 2012,
+            "title": "Recent advances in cytochrome bc 1: Inter monomer electronic communication?",
+            "volume": "586"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Monika",
+                    "initial": "M.",
+                    "last": "Czapla"
+                },
+                {
+                    "first": "Arkadiusz",
+                    "initial": "A.",
+                    "last": "Borek"
+                },
+                {
+                    "first": "Marcin",
+                    "initial": "M.",
+                    "last": "Sarewicz"
+                },
+                {
+                    "first": "Artur",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                }
+            ],
+            "doi": "10.1093/protein/gzr055",
+            "firstpage": "15",
+            "issn": "17410126",
+            "lastpage": "25",
+            "pmid": "22119789",
+            "pub_year": 2012,
+            "title": "Fusing two cytochromes b of Rhodobacter capsulatus cytochrome bc 1 using various linkers defines a set of protein templates for asymmetric mutagenesis",
+            "volume": "25"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Atta-Asafo-Adjei"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1073/pnas.88.2.492",
+            "firstpage": "492",
+            "issn": "00278424",
+            "lastpage": "496",
+            "pmid": "1846443",
+            "pub_year": 1991,
+            "title": "Size of the amino acid side chain at position 158 of cytochrome b is critical for an active cytochrome bc1 complex and for photosynthetic growth of Rhodobacter capsulatus",
+            "volume": "88"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Maria B.",
+                    "initial": "M.B.",
+                    "last": "Valkova-Valchanova"
+                },
+                {
+                    "first": "A. Sami",
+                    "initial": "A.S.",
+                    "last": "Saribas"
+                },
+                {
+                    "first": "Brian R.",
+                    "initial": "B.R.",
+                    "last": "Gibney"
+                },
+                {
+                    "first": "P. Leslie",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi981651z",
+            "firstpage": "16242",
+            "issn": "00062960",
+            "lastpage": "16251",
+            "pmid": "9819216",
+            "pub_year": 1998,
+            "title": "Isolation and characterization of a two-subunit cytochrome b-c1 subcomplex from Rhodobacter capsulatus and reconstitution of its ubihydroquinone oxidation (Q(o)) site with purified Fe-S protein subunit",
+            "volume": "37"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Osyczka"
+                },
+                {
+                    "first": "P. L.",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                },
+                {
+                    "first": "C. C.",
+                    "initial": "C.C.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Darrouzet"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi011630w",
+            "firstpage": "14547",
+            "issn": "00062960",
+            "lastpage": "14556",
+            "pmid": "11724568",
+            "pub_year": 2001,
+            "title": "Controlling the functionality of cytochrome c1 redox potentials in the Rhodobacter capsulatus bc1 complex through disulfide anchoring of a loop and a \u03b2-branched amino acid near the heme-ligating methionine",
+            "volume": "40"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Lothar",
+                    "initial": "L.",
+                    "last": "Esser"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Elberry"
+                },
+                {
+                    "first": "Fei",
+                    "initial": "F.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Chang An",
+                    "initial": "C.A.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Di",
+                    "initial": "D.",
+                    "last": "Xia"
+                }
+            ],
+            "doi": "10.1074/jbc.M708608200",
+            "firstpage": "2846",
+            "issn": "00219258",
+            "lastpage": "2857",
+            "pmid": "18039651",
+            "pub_year": 2008,
+            "title": "Inhibitor-complexed structures of the cytochrome bc1 from the photosynthetic bacterium Rhodobacter sphaeroides",
+            "volume": "283"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Huangen",
+                    "initial": "H.",
+                    "last": "Ding"
+                },
+                {
+                    "first": "Christopher C.",
+                    "initial": "C.C.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "Dan E.",
+                    "initial": "D.E.",
+                    "last": "Robertson"
+                },
+                {
+                    "first": "Mariko K.",
+                    "initial": "M.K.",
+                    "last": "Tokito"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                },
+                {
+                    "first": "P. Leslie",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                }
+            ],
+            "doi": "10.1021/bi00049a012",
+            "firstpage": "15979",
+            "issn": "00062960",
+            "lastpage": "15996",
+            "pmid": "8519754",
+            "pub_year": 1995,
+            "title": "Ubiquinone Pair in the Q0 Site Central to the Primary Energy Conversion Reactions of Cytochrome bc1 Complex",
+            "volume": "34"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Kevin A.",
+                    "initial": "K.A.",
+                    "last": "Gray"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                },
+                {
+                    "first": "P. Leslie",
+                    "initial": "P.L.",
+                    "last": "Dutton"
+                }
+            ],
+            "doi": "10.1021/bi00169a014",
+            "firstpage": "723",
+            "issn": "00062960",
+            "lastpage": "733",
+            "pmid": "8292600",
+            "pub_year": 1994,
+            "title": "Requirement of Histidine 217 for Ubiquinone Reductase Activity (Qi Site) in the Cytochrome bc1 Complex",
+            "volume": "33"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Bahia",
+                    "initial": "B.",
+                    "last": "Khalfaoui-Hassani"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Lanciano"
+                },
+                {
+                    "first": "Fevzi",
+                    "initial": "F.",
+                    "last": "Daldal"
+                }
+            ],
+            "doi": "10.1021/bi400560p",
+            "firstpage": "7184",
+            "issn": "00062960",
+            "lastpage": "7195",
+            "pmid": "24028512",
+            "pub_year": 2013,
+            "title": "A robust genetic system for producing heterodimeric native and mutant cytochrome bc 1",
+            "volume": "52"
+        },
+        "b0135": {
+            "authors": [
+                {
+                    "first": "Gregory C.",
+                    "initial": "G.C.",
+                    "last": "Kujoth"
+                },
+                {
+                    "first": "Patrick C.",
+                    "initial": "P.C.",
+                    "last": "Bradshaw"
+                },
+                {
+                    "first": "Suraiya",
+                    "initial": "S.",
+                    "last": "Haroon"
+                },
+                {
+                    "first": "Tomas A.",
+                    "initial": "T.A.",
+                    "last": "Prolla"
+                }
+            ],
+            "doi": "10.1371/journal.pgen.0030024",
+            "firstpage": "0161",
+            "issn": "15537390",
+            "lastpage": "0173",
+            "pmid": "17319745",
+            "pub_year": 2007,
+            "title": "The role of mitochondrial DNA mutations in mammalian aging",
+            "volume": "3"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Di",
+                    "initial": "D.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Lothar",
+                    "initial": "L.",
+                    "last": "Esser"
+                },
+                {
+                    "first": "Wai Kwan",
+                    "initial": "W.K.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Fei",
+                    "initial": "F.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Yihui",
+                    "initial": "Y.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Chang An",
+                    "initial": "C.A.",
+                    "last": "Yu"
+                }
+            ],
+            "doi": "10.1016/j.bbabio.2012.11.008",
+            "firstpage": "1278",
+            "issn": "00052728",
+            "lastpage": "1294",
+            "pmid": "23201476",
+            "pub_year": 2013,
+            "title": "Structural analysis of cytochrome bc1 complexes: Implications to the mechanism of function",
+            "volume": "1827"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 11962,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The Qo and Qi sites are connected by a chain composed of two hemes (heme bL and heme bH), while a chain composed of FeS and heme c1 connects the Qo site with cytochrome c pool.",
+            "startOffset": 11786,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25355,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 25354,
+                    "startOffset": 25350
+                }
+            },
+            "secId": "s0040",
+            "sentence": "In the H-shaped electron transfer system of the native cytochrome bc1 dimer, the Qo and the Qi sites are connected not only by the cofactor chains of the same monomer (upper and lower branches making connections with the Qo and Qi sites), but also by the chain built of the lower branch of one monomer and the upper branch of the other [12].",
+            "startOffset": 25014,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20899,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The SDS profiles (high intensity of the 100 kDa band comparing to the bands of cytochrome c1 and the FeS subunit) reflect an increased probability of dissociation of subunits not-containing Strep-tag during the purification using the affinity chromatography.",
+            "startOffset": 20641,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27950,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 27949,
+                    "startOffset": 27942
+                },
+                "b0080": {
+                    "endOffset": 27949,
+                    "startOffset": 27942
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Our results are also fully consistent with the in vitro and in vivo results obtained independently with the two-plasmid system developed for the R. capsulatus to probe the inter-monomer electron transfer through the asymmetrically-mutated heterodimers of cytochrome bc1 [13,16].",
+            "startOffset": 27672,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12274,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Each monomer contains all structural elements necessary to perform the catalytic Q cycle: the Qo and Qi sites and cofactors of the upper and lower branches.",
+            "startOffset": 12118,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19681,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This communication is possible due to the presence of the intact heme bL\u2013bL bridge.",
+            "startOffset": 19598,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18896,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The cross-inactivation refers to inactivation of the Qi site (upper branch) in one half of the fusion protein and the Qo site (lower branch) in the other half.",
+            "startOffset": 18737,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22635,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The remaining three mutants are derivatives of R. capsulatus cytochrome bc1 having a native cytochrome b replaced with cytochrome b of R. sphaeroides (BSBS).",
+            "startOffset": 22478,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29048,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "It is clear that both systems (i.e., the system based on fusion protein used in this work and the two-plasmid system) consistently indicate that cytochrome bc1 complexes modified specifically so that the only route connecting the Qo site with the Qi site involves electron transfer between the two hemes bL, are enzymatically active and efficient to sustain the cytochrome bc1-dependent photoheterotrophic growth of the cells.",
+            "startOffset": 28622,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12478,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 12477,
+                    "startOffset": 12474
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This creates a possibility for inter-monomer electron transfer [6].",
+            "startOffset": 12411,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20407,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The derivatives include all three variants of cross-inactivated complex and one symmetrically inactivated WBS\u2013BW.",
+            "startOffset": 20294,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28245,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In this case the cross-inactivation was achieved by compiling F144R or Y147A mutation (inactivating the Qo site) present in one copy of specifically-tagged cytochrome b gene with H217L or H212N mutation (inactivating the Qi site) present in another copy of differently-tagged cytochrome b gene.",
+            "startOffset": 27951,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21595,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "We report a success in obtaining WBS\u2013BW as complex containing the fused cytochrome bSb.",
+            "startOffset": 21508,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17637,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This system, characteristic also for the native cytochrome bc1 dimer, consists of two upper and two lower branches connected together by the two-heme bridge (Fig. 2A).",
+            "startOffset": 17470,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22766,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "NBSBSN and WBSBSW are mutants with H212N and H217W in cytochrome b, respectively, while N/WBSBSN/W is a double mutant H212N/H217W.",
+            "startOffset": 22636,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13035,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 13034,
+                    "startOffset": 13021
+                },
+                "b0070": {
+                    "endOffset": 13034,
+                    "startOffset": 13021
+                },
+                "b0085": {
+                    "endOffset": 13034,
+                    "startOffset": 13021
+                },
+                "b0090": {
+                    "endOffset": 13034,
+                    "startOffset": 13021
+                }
+            },
+            "secId": "s0005",
+            "sentence": "At present, the inter-monomer electron transfer in cytochrome bc1 is a matter of intense debate [11,14,17,18].",
+            "startOffset": 12925,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17815,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "All the remaining patterns shown in Fig. 2 refer to the derivatives of BS\u2013B containing specific mutations that knock out individual branches in various combinations (Fig. 2B\u2013F).",
+            "startOffset": 17638,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29223,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 29221,
+                    "startOffset": 29214
+                },
+                "b0085": {
+                    "endOffset": 29147,
+                    "startOffset": 29143
+                },
+                "b0130": {
+                    "endOffset": 29221,
+                    "startOffset": 29214
+                }
+            },
+            "secId": "s0040",
+            "sentence": "This further rules out the arguments against the existence of inter-monomer electron transfer [17] (detailed discussion dealing with these arguments can be found in [15,26]).",
+            "startOffset": 29049,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12607,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 12606,
+                    "startOffset": 12600
+                },
+                "b0040": {
+                    "endOffset": 12606,
+                    "startOffset": 12600
+                },
+                "b0045": {
+                    "endOffset": 12606,
+                    "startOffset": 12600
+                },
+                "b0050": {
+                    "endOffset": 12606,
+                    "startOffset": 12600
+                },
+                "b0055": {
+                    "endOffset": 12606,
+                    "startOffset": 12600
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The idea of electron exchange between the monomers was adopted in mechanistic concepts describing operation of the dimer [7\u201311].",
+            "startOffset": 12479,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23512,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Photosynthetic incompetence of these strains is correlated with a lack of functional cytochrome bc1; the symmetric inactivation effectively disrupts the electronic connections between all the Qo and the Qi sites (Fig. 2B and C).",
+            "startOffset": 23284,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13884,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The results shown here not only confirm the physiologic competence of inter-monomer electron transfer, but also demonstrate that electronic connections in this system are generally robust over structural alterations and can sustain in vivo the catalysis in the non-native heterogeneous assemblies, when two cytochrome b parts of the dimer core come from different species.",
+            "startOffset": 13512,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13280,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This is because in the case of the fully operational dimer, the inter-monomer electron transfer can in principle be considered as an alternative to the intra-monomer electron transfer.",
+            "startOffset": 13096,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27302,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "These results are fully consistent with the results of our previous kinetic experiments performed in vitro with asymmetrically-mutated variants of the fusion complexes.",
+            "startOffset": 27134,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30767,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 30766,
+                    "startOffset": 30760
+                },
+                "b0140": {
+                    "endOffset": 30766,
+                    "startOffset": 30760
+                }
+            },
+            "secId": "s0040",
+            "sentence": "All known cytochrome bc1 complexes are homodimers characterized by high structural symmetry between the monomers [3,28].",
+            "startOffset": 30647,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30647,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "How this translates into the physiological operation of the enzyme, in particular in the context of its possible regulatory function and the role in reactive oxygen species generation, is currently unknown and requires further study.",
+            "startOffset": 30414,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18068,
+            "parents": [],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 18066,
+                    "startOffset": 18062
+                }
+            },
+            "secId": "s0035",
+            "sentence": "WBS\u2013BW (Fig. 2B) contains mutations knocking out the Qo site in both halves of the fusion protein, thus inactivating the two lower branches of the system (the two subscripts \u201cW\u201d refer to equivalents of mutation G158W in R. capsulatus cytochrome b [24]).",
+            "startOffset": 17815,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14817,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For isolation of proteins from photoheterotrophically grown cultures, 100 \u03bcl of overnight 2 ml liquid aerobic culture was spread on each of 14 MPYE plates which then were incubated in anaerobic jars (GasPak, BD) for 48 h.",
+            "startOffset": 14596,
+            "title": "Bacterial growth, genes and proteins"
+        },
+        {
+            "endOffset": 20640,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "It is clear that in lanes 3\u20137 the predominant band of \u223c100 kDa corresponds to the fusion protein (cytochrome bSb) that replaces the native cytochrome b (lane 2).",
+            "startOffset": 20479,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22362,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "All other strains expressed the homodimeric cytochrome bc1 (containing two cytochrome b subunits).",
+            "startOffset": 22264,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22068,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 22066,
+                    "startOffset": 22062
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Indeed, WBS\u2013BW appears as the first example of the fusion protein with successful inactivation of the two upper branches (so far the symmetric inactivation was only possible with the two lower branches in WBS\u2013BW [15]).",
+            "startOffset": 21850,
+            "title": "Results"
+        },
+        {
+            "endOffset": 11556,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 11441,
+                    "startOffset": 11438
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The enzyme operates according to the Q cycle, in which the net translocation of protons is a result of the joint action of two quinone oxidation/reduction sites (named the Qo and Qi sites) located at two opposite sides of the membrane [2]: the Qo site oxidizes hydroquinone (quinol) and releases protons, the Qi site reduces quinone and uptakes protons.",
+            "startOffset": 11203,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15410,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The obtained pellet was subjected to the same purification steps as above.",
+            "startOffset": 15336,
+            "title": "Membrane proteins isolation and purification"
+        },
+        {
+            "endOffset": 13511,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this context an important question that needs addressing is whether the inter-monomer electron transfer can secure energetic efficiency of the enzyme at level that allows supporting the cytochrome bc1-dependent growth of cells.",
+            "startOffset": 13281,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30174,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In such cases, the advantage of the apparent redundancy of the components of the H-shaped electron transfer system is to allow the function of the partly damaged enzyme.",
+            "startOffset": 30005,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22477,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "BB refers to native cytochrome bc1 of R. capsulatus, WBBW is its derivative \u2013 a mutant with G158W in cytochrome b.",
+            "startOffset": 22363,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30413,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In cases when all parts of the enzyme are operational, the inter-monomer electron transfer, constituting an integral part of the entire electron transfer system, is expected to compete kinetically with the intra-monomer electron transfer.",
+            "startOffset": 30175,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28622,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Furthermore, the mutated strains grew photoheterotrophically indicating that the inter-monomer electron transfer can support the function of cytochrome bc1 in vivo.",
+            "startOffset": 28458,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15104,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 15103,
+                    "startOffset": 15099
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Complexes were isolated by affinity chromatography, Strep-tag purification was performed as described in [19].",
+            "startOffset": 14994,
+            "title": "Membrane proteins isolation and purification"
+        },
+        {
+            "endOffset": 26249,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The loss of the cytochrome bc1-dependent photoheterotrophic growth of the cells was observed in all symmetrically-mutated derivatives of cytochrome bc1 in which either both upper or both lower branches were inactivated (Fig. 3C and D).",
+            "startOffset": 26014,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16229,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 16228,
+                    "startOffset": 16224
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Photoheterotrophic growth of R. capsulatus requires obligatory presence of the functional cytochrome bc1, thus the most straightforward way to verify in vivo functionality of specific mutant derivatives of this complex is to test the capability of the mutant cells to grow under the photoheterotrophic conditions [20].",
+            "startOffset": 15911,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27672,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 27671,
+                    "startOffset": 27667
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Furthermore, the measured activities of isolated complexes confirmed the competence of inter-monomer electron transfer in supporting the multiple enzymatic turnovers [14].",
+            "startOffset": 27501,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28457,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The expression of the mutated heterodimers in the cells grown under semiaerobic conditions was confirmed biochemically and the occurrence of inter-monomer electron transfer was supported by kinetic measurements.",
+            "startOffset": 28246,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29732,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Clearly, the tests conducted so far concerned specific conditions where the inter-monomer electron transfer was imposed to the system by eliminating other possible connections present in the native dimer.",
+            "startOffset": 29528,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29493,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The in vivo demonstration of the enzymatic competence of electron path involving the cross-communication of Qo and Qi sites can be considered as a step forward towards understanding the physiological significance of the inter-monomer electron transfer in cytochrome bc1.",
+            "startOffset": 29223,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26652,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "All three cross-inactivated forms of BS\u2013B (NBS\u2013BW, WBS\u2013BW and N/WBS\u2013BW) effectively supported photoheterotrophic growth of the cells, in spite of the fact that the connection between the Qo and Qi sites at the level of the same monomer was blocked.",
+            "startOffset": 26404,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16404,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "In this work, we used this approach in combination with the asymmetric mutagenesis to assess physiological relevance of the inter-monomer electron transfer in cytochrome bc1.",
+            "startOffset": 16230,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30004,
+            "parents": [],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 30002,
+                    "startOffset": 29998
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Considering living cells, this could correspond to the situation when parts of the enzyme are damaged by mutations (a case specifically relevant to mitochondria, where mutations, involving those in cytochrome b subunit of complex III, appear to accumulate with age [27]).",
+            "startOffset": 29733,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18629,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "WBS\u2013BW and WBS\u2013BW are the two control forms of cytochrome bc1-like complexes containing the fused cytochrome b inactivated in such a way that a complete turnover of the enzyme involving the joint action of the Qo and the Qi sites is not possible.",
+            "startOffset": 18383,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25625,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "This additional link increases a number of available electron paths and allows the quinone catalytic sites to communicate across the dimer.",
+            "startOffset": 25486,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27134,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Our results clearly demonstrate that enzymes relying just on this path perform their bioenergetic function in vivo.",
+            "startOffset": 27019,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14323,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 14322,
+                    "startOffset": 14315
+                },
+                "b0100": {
+                    "endOffset": 14322,
+                    "startOffset": 14315
+                }
+            },
+            "secId": "s0020",
+            "sentence": "R. capsulatus strains were grown under semiaerobic/dark or photoheterotrophic conditions as described in [19,20].",
+            "startOffset": 14210,
+            "title": "Bacterial growth, genes and proteins"
+        },
+        {
+            "endOffset": 11785,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 11784,
+                    "startOffset": 11779
+                },
+                "b0015": {
+                    "endOffset": 11784,
+                    "startOffset": 11779
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The Qo and Qi sites and cofactor chains are embedded within three subunits: cytochrome b (harbors Qo, Qi, heme bH and heme bL), cytochrome c1 (harbors heme c1) and the FeS subunit (harbors 2Fe\u20132S iron\u2013sulfur cluster (FeS)) [1,3].",
+            "startOffset": 11556,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18382,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 18381,
+                    "startOffset": 18377
+                }
+            },
+            "secId": "s0035",
+            "sentence": "WBS\u2013BW (Fig. 2C) contains mutations knocking out the Qi site in both halves of the fusion protein, thus inactivating the two upper branches (the two superscripts \u201cW\u201d refer to equivalents of H217W mutation in R. capsulatus cytochrome b, which has knockout effects similar to those described earlier for H217L [25].",
+            "startOffset": 18069,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21508,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "We also note that the background of cytochrome b would not affect the meaning of the results of photoheterotrophic growth tests of the cross-inactivated forms as any complex containing identical halves of the fusion protein would be inactive, thus not able to support the photoheterotrophic growth of the cells.",
+            "startOffset": 21197,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19444,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "\u201cN/W\u201d combines both ways of inactivating the upper branch in one monomer.",
+            "startOffset": 19371,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24627,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This band was accompanied by the bands corresponding to the two other subunits: cytochrome c1 and FeS.",
+            "startOffset": 24525,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25485,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The latter connection requires electron transfer between the two monomers which occurs through the bridge formed by two hemes bL.",
+            "startOffset": 25356,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 11088,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Cytochrome bc1 (ubihydroquinone:cytochrome c oxidoreductase or mitochondrial complex III) is a multi-subunit enzyme which transfers electrons between quinone molecules and cytochrome c and couples this electron transfer to proton translocation across the membrane.",
+            "startOffset": 10824,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14171,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Details of construction of expression vectors for mutant derivatives of BSBS and BS\u2013B is described in the Supplementary material.",
+            "startOffset": 14042,
+            "title": "Mutant strains"
+        },
+        {
+            "endOffset": 12060,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In Fig. 1A, these two chains are depicted as parts of the upper and lower branches, respectively.",
+            "startOffset": 11963,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21109,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 21108,
+                    "startOffset": 21104
+                }
+            },
+            "secId": "s0035",
+            "sentence": "In these profiles a band corresponding in size to cytochrome b is also detectable, which possibly comes as a result of partial degradation of a fusion protein upon expression and/or isolation of proteins [15].",
+            "startOffset": 20900,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21196,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 21195,
+                    "startOffset": 21191
+                }
+            },
+            "secId": "s0035",
+            "sentence": "We note that this cannot be a result of genetic recombination, as established in [15].",
+            "startOffset": 21110,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25878,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "This engineering principle provides one testable prediction: the disruption of the catalytic Q-cycle and consequent loss of bioenergetic function of the enzyme will not occur unless all possible connections linking the Qo with the Qi sites are blocked.",
+            "startOffset": 25626,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12410,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 12409,
+                    "startOffset": 12404
+                },
+                "b0025": {
+                    "endOffset": 12409,
+                    "startOffset": 12404
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Intriguingly, crystal structures of the dimer revealed short distance between two hemes bL, each coming from a different monomer [4,5].",
+            "startOffset": 12275,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17223,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "In fact, the 10% difference in amino acid composition makes the fusion protein heterogeneous, offering a unique opportunity to test electron transfers in vivo in an enzyme in which the asymmetry does not concern just the point mutations knocking out parts of individual branches of the system (see below), but also several other amino acid positions randomly spread throughout the protein (Fig. 1B).",
+            "startOffset": 16824,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19929,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "In all cases the cells under these growing conditions expressed the complexes with the fusion protein.",
+            "startOffset": 19827,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21849,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 21848,
+                    "startOffset": 21841
+                },
+                "b0095": {
+                    "endOffset": 21848,
+                    "startOffset": 21841
+                }
+            },
+            "secId": "s0035",
+            "sentence": "In view of the results from our earlier experiments, introducing mutations symmetrically to the fusion protein (i.e., the same mutation present in both halves of the protein) does not always guarantee the proper expression of the fusion protein [15,19].",
+            "startOffset": 21596,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13095,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In particular, its physiological significance is not clear.",
+            "startOffset": 13036,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26404,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Such inactivations cut all possible connections linking the Qo with the Qi sites and thus the enzyme was not functional in vivo under the conditions used.",
+            "startOffset": 26250,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19370,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "H212N inactivates the upper branch as H217W, but in a different manner: while H217W blocks just the Qi site allowing electrons to advance as far as to heme bH, H212N eliminates the electron transfer from heme bL to heme bH.",
+            "startOffset": 19147,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15658,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The size and DNA sequence of the fusion genes present in cells grown photoheterotrophically were verified by restriction analyzes and DNA sequencing of plasmids isolated from R. capsulatus and amplified in Escherichia coli HB101.",
+            "startOffset": 15429,
+            "title": "Genetic analyses"
+        },
+        {
+            "endOffset": 22909,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Panels C and D in Fig. 3 show the results of photoheterotrophic growth tests performed with the same mutants as in Fig. 3A and B, respectively.",
+            "startOffset": 22766,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27018,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In fact, the cross-inactivations forced the enzyme to use the path involving the inter-monomer electron transfer if all reactions of the catalytic Q-cycle were to be completed.",
+            "startOffset": 26842,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14595,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "When describing the type of growth, the term \u201caerobic growth\u201d referred to aerobic growth under semiaerobic conditions (at relatively low oxygen concentration), while \u201cphotoheterotrophic growth\u201d referred to growth under anaerobic conditions in light as a source of energy.",
+            "startOffset": 14324,
+            "title": "Bacterial growth, genes and proteins"
+        },
+        {
+            "endOffset": 31359,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "This implies a key principle and minimal requirement to secure bioenergetic efficiency: the chains of cofactors must support catalytically-competent electron transfer between the quinone binding sites located on the opposite sides of the membrane.",
+            "startOffset": 31112,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12925,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 12924,
+                    "startOffset": 12920
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The existence of this connection converts the cofactor chains of a dimer into an H-shaped electron transfer system that connects all four catalytic sites [12].",
+            "startOffset": 12766,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24524,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "At the protein level, the SDS\u2013PAGE profiles of the complexes isolated from the membranes showed a prominent band of \u223c100 kDa corresponding to the fusion protein (Fig. 4C).",
+            "startOffset": 24353,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19597,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "All three cross-inactivated forms preserve the electronic communication between the active Qo site in one half and the active Qi site of the other half.",
+            "startOffset": 19445,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15171,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 15170,
+                    "startOffset": 15166
+                }
+            },
+            "secId": "s0025",
+            "sentence": "SDS\u2013PAGE of purified complexes was performed as described in [22].",
+            "startOffset": 15105,
+            "title": "Membrane proteins isolation and purification"
+        },
+        {
+            "endOffset": 25013,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "To efficiently translocate protons across the bioenergetic membrane, cytochrome bc1 must have functional Qo and Qi sites and those two sites must be electronically connected together.",
+            "startOffset": 24830,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12118,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The scheme also shows that cytochrome bc1 is a homodimer.",
+            "startOffset": 12061,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24353,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "At the DNA level, restriction analysis of isolated expression plasmids amplified in E. coli confirmed the presence of the fused gene of the expected length (Fig. 4B), Moreover, the DNA sequencing confirmed that the mutations originally introduced to the gene (N, W, N/W and W) were retained at original positions during the photoheterotrophic growth.",
+            "startOffset": 24003,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26841,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In those forms, the intact bridge allowed the inter-monomer electron transfer to connect the lower branch and the Qo site of one monomer with the upper branch and the Qi site of the other.",
+            "startOffset": 26653,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17342,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Fig. 2 depicts the cofactor knockout patterns that have been tested using BS\u2013B as the protein template for mutagenesis.",
+            "startOffset": 17223,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23081,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "As expected, the strains expressing BB or BS-B grow photoheterotrophically, while all the strains expressing the symmetrically-inactivated forms of the complexes \u2013 do not.",
+            "startOffset": 22910,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19826,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Fig. 3A shows aerobic growth in dark of the R. capsulatus strains transformed with mutated genes coding for the BS\u2013B derivatives described above.",
+            "startOffset": 19681,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22263,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "MT-RBC1 is devoid of genes coding for cytochrome bc1.",
+            "startOffset": 22210,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20293,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "SDS\u2013PAGE profiles of BS\u2013B and its four derivatives were compared with the profile of wild-type cytochrome bc1 (Fig. 4A).",
+            "startOffset": 20173,
+            "title": "Results"
+        },
+        {
+            "endOffset": 12765,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 12764,
+                    "startOffset": 12757
+                },
+                "b0065": {
+                    "endOffset": 12764,
+                    "startOffset": 12757
+                },
+                "b0070": {
+                    "endOffset": 12764,
+                    "startOffset": 12757
+                },
+                "b0075": {
+                    "endOffset": 12764,
+                    "startOffset": 12757
+                },
+                "b0080": {
+                    "endOffset": 12764,
+                    "startOffset": 12757
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recent experiments have indicated that this reaction is an integral part of ensemble of electron transfer reactions that take place within the dimer [12\u201316].",
+            "startOffset": 12608,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15903,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The double restriction digestion was performed with BstXI (New England Biolabs) and SfuI (Roche Diagnostics) enzymes, yielding shorter DNA fragment (1950 bp) in case of cytochrome b gene or longer DNA fragment (3325 bp) for cytochrome bSb gene.",
+            "startOffset": 15659,
+            "title": "Genetic analyses"
+        },
+        {
+            "endOffset": 16742,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 16741,
+                    "startOffset": 16737
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The asymmetric mutagenesis was accomplished using the system based on expression, in R. capsulatus cells, of cytochrome bc1-like complexes in which two separate cytochrome b subunits of the dimer core were replaced with a hybrid fusion of Rhodobacter sphaeroides and R. capsulatus cytochromes b (this protein complex is named BS\u2013B) [15].",
+            "startOffset": 16405,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24819,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "It is of note, that the results of Fig. 4B and C provide first verification of expression of asymmetrically mutated complexes isolated from cultures grown under photoheterotrophic conditions.",
+            "startOffset": 24628,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29527,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "This still remains an open issue.",
+            "startOffset": 29494,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24002,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "To confirm that expression of the BS\u2013B complexes containing the appropriately mutated fusion protein did take place under photoheterotrophic conditions in these strains, we performed analyzes of both the DNA and the protein complexes isolated from the cells grown photoheterotrophically.",
+            "startOffset": 23715,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31111,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Our results show that functional in vivo complex assembles not only when the symmetry in the cofactor chains is broken, but also when the protein core is heterogeneous.",
+            "startOffset": 30943,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19146,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 19144,
+                    "startOffset": 19141
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The annotations \u201cW\u201d and \u201cW\u201d refer to the same mutations that were described above (for the forms of Fig. 2B and C), while superscript \u201cN\u201d refers to a mutation that knocks out heme bH (\u201cN\u201d is an equivalent of H212N in R. capsulatus cytochrome b [6]).",
+            "startOffset": 18897,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27500,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 27499,
+                    "startOffset": 27492
+                },
+                "b0075": {
+                    "endOffset": 27499,
+                    "startOffset": 27492
+                }
+            },
+            "secId": "s0040",
+            "sentence": "The measurements of flash-induced electron transfer in membranes demonstrated that inter-monomer electron transfer occurs in milliseconds or less and thus is a catalytically-relevant event [12,15].",
+            "startOffset": 27303,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23714,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Remarkably, all three strains expressing the cross-inactivated forms of BS\u2013B (NBS\u2013BW, WBS\u2013BW, N/WBS\u2013BW) can grow photoheterotrophically similarly to the cells expressing native cytochrome bc1 (Fig. 3C).",
+            "startOffset": 23512,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16823,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 16822,
+                    "startOffset": 16816
+                },
+                "b0115": {
+                    "endOffset": 16822,
+                    "startOffset": 16816
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The structures of these two cytochromes b are similar, but not identical [3,23].",
+            "startOffset": 16743,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26014,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Our work confirmed this principle at in vivo level with a series of mutants that exposed various electron paths for functional testing.",
+            "startOffset": 25879,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 11202,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 11201,
+                    "startOffset": 11198
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This way cytochrome bc1 contributes to generation of the protonmotive force used for cellular ATP production [1].",
+            "startOffset": 11089,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14993,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 14992,
+                    "startOffset": 14988
+                },
+                "b0105": {
+                    "endOffset": 14956,
+                    "startOffset": 14952
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Preparations of protein complexes from semiaerobic liquid cultures were as described in [21] with modifications reported in [19].",
+            "startOffset": 14864,
+            "title": "Membrane proteins isolation and purification"
+        },
+        {
+            "endOffset": 18736,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Lower panel of Fig. 2 depicts three variants of the cross-inactivated complex: NBS\u2013BW, WBS\u2013BW and N/WBS\u2013BW.",
+            "startOffset": 18629,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31564,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Once this is achieved, the enzyme appears to be able to use in vivo any of the paths that are available (intra- or inter-monomer electron transfer) in a manner robustly tolerant to structural alterations.",
+            "startOffset": 31360,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17469,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Without any additional mutations, all the cofactors and the catalytic sites of BS\u2013B form an H-shaped electron transfer system.",
+            "startOffset": 17343,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20172,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This was confirmed genetically by verifying the size and the sequence of the plasmids isolated from the respective R. capsulatus strains and also by analyzing the subunit composition of complexes isolated by Strep-tag affinity chromatography.",
+            "startOffset": 19930,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22209,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Fig. 3B shows aerobic growth of other R. capsulatus strains that were used as additional controls in further photoheterotrophic growth tests.",
+            "startOffset": 22068,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20478,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 20477,
+                    "startOffset": 20473
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The profile of WBS\u2013BW is omitted here as it was already shown in [15].",
+            "startOffset": 20408,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15335,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "To prepare the membranes from the photoheterotrophically grown cultures, cells from 14 MPYE plates were scraped to the MPYE medium and centrifuged (6000g, 20 min).",
+            "startOffset": 15172,
+            "title": "Membrane proteins isolation and purification"
+        },
+        {
+            "endOffset": 23283,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This includes two complexes with the fusion protein, i.e., derivatives of BS\u2013B (WBS\u2013BW and WBS\u2013BW), the mutant of cytochrome bc1 (WBBW), as well as derivatives of BSBS (NBSBSN, WBSBSW, and N/WBSBSN/W).",
+            "startOffset": 23082,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30942,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "While the symmetry concerns both the architecture of cofactor chains and the amino-acid composition/structure of proteins, its mechanistic and structural roles are not clear.",
+            "startOffset": 30768,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14041,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 14040,
+                    "startOffset": 14036
+                }
+            },
+            "secId": "s0015",
+            "sentence": "A genetic system for expression of hybrid BS complex and hybrid fusion BS\u2013B complex in Rhodobacter capsulatus was described in [15].",
+            "startOffset": 13909,
+            "title": "Mutant strains"
+        }
+    ],
+    "docId": "S0006291X14013667",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Robert",
+                "initial": "R.",
+                "last": "Ekiert"
+            },
+            {
+                "email": null,
+                "first": "Monika",
+                "initial": "M.",
+                "last": "Czapla"
+            },
+            {
+                "email": null,
+                "first": "Marcin",
+                "initial": "M.",
+                "last": "Sarewicz"
+            },
+            {
+                "email": "artur.osyczka@uj.edu.pl",
+                "first": "Artur",
+                "initial": "A.",
+                "last": "Osyczka"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.07.117",
+        "firstpage": "270",
+        "issn": "0006291X",
+        "keywords": [
+            "Electron transfer",
+            "Energy conversion",
+            "Hybrid fusion protein",
+            "Mitochondrial complex III"
+        ],
+        "lastpage": "275",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Hybrid fusions show that inter-monomer electron transfer robustly supports cytochrome bc1 function in vivo"
+    }
+}

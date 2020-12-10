@@ -1,0 +1,3747 @@
+{
+    "abstract": "The timber building industry is developing building systems for urban buildings with open architecture based on long span floor systems. Span length can be increased with constant cross section by combining stiff floor elements e.g. hollow-box floors with supports that provide high rotational stiffness. Detailed knowledge of the vibroacoustic behavior of such a system is not available and is needed to design buildings that fulfill the requirements in an economic and sustainable way. We set up a prototype and performed experimental investigations to identify the modal properties of such a system and to gain understanding of the sound radiation properties under impact excitation. The measurements were performed in an industrial hall using experimental modal analysis (EMA) and the Integral Transform method (ITM). The results highlight the limitation of standard acoustic laboratories and show the importance of using advance measurement methods to acquire reliable data. The size of the element and the boundary condition clearly affect the radiated sound power at low frequencies. Sound radiation can be efficiently reduced above 50 Hz by using traditional strategies such as gravel in the cavity of the floor elements. Additionally, insights about the ITM are presented, showing that symmetry cannot be exploited and that there is no requirement for a baffle when impact excitation is under investigation.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Homb"
+                },
+                {
+                    "first": "Catherine Guigou",
+                    "initial": "C.G.",
+                    "last": "Carter"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Rabold"
+                }
+            ],
+            "doi": "10.1177/1351010X16682966",
+            "firstpage": "35",
+            "issn": "1351010X",
+            "lastpage": "52",
+            "pub_year": 2017,
+            "title": "Impact sound insulation of cross-laminated timber/massive wood floor constructions: Collection of laboratory measurements and result evaluation",
+            "volume": "24"
+        },
+        "b0010": null,
+        "b0015": null,
+        "b0020": null,
+        "b0025": null,
+        "b0030": null,
+        "b0035": null,
+        "b0040": null,
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Aivars",
+                    "initial": "A.",
+                    "last": "Vilguts"
+                },
+                {
+                    "first": "Kjell Arne",
+                    "initial": "K.A.",
+                    "last": "Malo"
+                },
+                {
+                    "first": "Haris",
+                    "initial": "H.",
+                    "last": "Stamatopoulos"
+                }
+            ],
+            "pub_year": 2018,
+            "title": "Moment resisting frames and connections using threaded rods in beam-to-column timber joints"
+        },
+        "b0050": null,
+        "b0055": null,
+        "b0060": null,
+        "b0065": null,
+        "b0070": null,
+        "b0085": null,
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Brandt"
+                }
+            ],
+            "doi": "10.1002/9780470978160",
+            "pub_year": 2011,
+            "title": "Noise and Vibration Analysis: Signal Analysis and Experimental Procedures"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Cremer"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Heckl"
+                },
+                {
+                    "first": "B. A.T.",
+                    "initial": "B.A.T.",
+                    "last": "Petersson"
+                }
+            ],
+            "doi": "10.1007/b137728",
+            "firstpage": "1",
+            "lastpage": "607",
+            "pub_year": 2005,
+            "title": "Structure-borne sound: Structural vibrations and sound radiation at audio frequencies"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Gideon",
+                    "initial": "G.",
+                    "last": "Maidanik"
+                }
+            ],
+            "doi": "10.1121/1.1918200",
+            "firstpage": "809",
+            "issn": "00014966",
+            "lastpage": "826",
+            "pub_year": 1962,
+            "title": "Response of Ribbed Panels to Reverberant Acoustic Fields",
+            "volume": "34"
+        },
+        "b0105": null,
+        "b0110": null,
+        "b0115": null,
+        "b0120": null,
+        "b0125": {
+            "authors": [
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Hashimoto"
+                }
+            ],
+            "doi": "10.1016/S0003-682X(00)00025-6",
+            "firstpage": "429",
+            "issn": "0003682X",
+            "lastpage": "446",
+            "pub_year": 2001,
+            "title": "Measurement of sound radiation efficiency by the discrete calculation method",
+            "volume": "62"
+        },
+        "b0135": null,
+        "b0140": null,
+        "b0145": null,
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Santoni"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Schoenwald"
+                },
+                {
+                    "first": "Bart",
+                    "initial": "B.",
+                    "last": "Van Damme"
+                },
+                {
+                    "first": "Patrizio",
+                    "initial": "P.",
+                    "last": "Fausti"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2017.04.018",
+            "firstpage": "387",
+            "issn": "0022460X",
+            "lastpage": "401",
+            "pub_year": 2017,
+            "title": "Determination of the elastic and stiffness characteristics of cross-laminated timber plates from flexural wave velocity measurements",
+            "volume": "400"
+        },
+        "b0155": null,
+        "b0160": {
+            "authors": [
+                {
+                    "first": "N. B.",
+                    "initial": "N.B.",
+                    "last": "Roozen"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Labelle"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Rycht\u00e1rikov\u00e1"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Glorieux"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2015.02.029",
+            "firstpage": "81",
+            "issn": "0022460X",
+            "lastpage": "99",
+            "pub_year": 2015,
+            "title": "Determining radiated sound power of building structures by means of laser Doppler vibrometry",
+            "volume": "346"
+        },
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Fredrik",
+                    "initial": "F.",
+                    "last": "Ljunggren"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Simmons"
+                },
+                {
+                    "first": "Rikard",
+                    "initial": "R.",
+                    "last": "\u00d6qvist"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2017.03.014",
+            "firstpage": "143",
+            "issn": "0003682X",
+            "lastpage": "151",
+            "pub_year": 2017,
+            "title": "Correlation between sound insulation and occupants\u2019 perception \u2013 Proposal of alternative single number rating of impact sound, part II",
+            "volume": "123"
+        },
+        "bib166": {
+            "authors": [
+                {
+                    "first": "Kjell Arne",
+                    "initial": "K.A.",
+                    "last": "Malo"
+                },
+                {
+                    "first": "Haris",
+                    "initial": "H.",
+                    "last": "Stamatopoulos"
+                }
+            ],
+            "pub_year": 2016,
+            "title": "Connections with threaded rods in moment resisting frames"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 43719,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "An impact hammer with soft rubber cap was used to excite the structure.",
+            "startOffset": 43648,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 45214,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Moreover, the AutoMAC criterion was used to assess how well the identified modes are decoupled.",
+            "startOffset": 45119,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 52854,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The radiated sound power was calculated individually for each excitation position and then averaged energetically as indicated in the standard.",
+            "startOffset": 52711,
+            "title": "ITM procedure"
+        },
+        {
+            "endOffset": 69012,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "This effect might be negligible in frequency ranges with high modal density, in our case above 160 Hz.",
+            "startOffset": 68910,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 59348,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The shaded area corresponds to \u00b1\u03c3, where \u03c3 is the standard deviation calculated between the measurements at the individual excitation positions.",
+            "startOffset": 59204,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 35118,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This paper is organized as follow: section 2 describes the measurement object, focusing on the boundary conditions (2.1), the floor elements (2.2) and the mounting system (2.3).",
+            "startOffset": 34941,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43509,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "At frequencies up to at least 100 Hz the vibrational behavior of the floor is dominated by the global modes (see section 4.1) and the upper and lower surface of the floor might be considered equivalent.",
+            "startOffset": 43307,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 66504,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The amplitude of torsional modes is dramatically reduced, and the natural frequencies of the longitudinal modes are shifted towards higher frequencies.",
+            "startOffset": 66353,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40618,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This ensures good control of the process and an applied line pressure close the required range.",
+            "startOffset": 40523,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 41310,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The cavity can be filled with gravel or absorbing material according to the acoustic requirements.",
+            "startOffset": 41212,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 62044,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "In this way, the absolute level of the radiated power is not correct at low frequencies but the comparison yields.",
+            "startOffset": 61930,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 63814,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "In the \u201con columns\u201d case, the increased damping and increased impedance of the floor seem to mitigate the forced vibrations generated by the columns.",
+            "startOffset": 63665,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 44359,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The optimal settings for triggering level, pretrigger, block size and windowing of both the force and acceleration signal were defined with help of the Abravibe toolbox graphical user interface.",
+            "startOffset": 44165,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 34643,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 34642,
+                    "startOffset": 34638
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This led to the choice of a tapping machine as excitation source and the selection of excitation positions according to the standard ISO16283 [10].",
+            "startOffset": 34496,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55107,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The measurement resolution was \u0394k = 1.34 rad/m.",
+            "startOffset": 55060,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 60251,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "We start assessing the size effect by looking at the recorded frequency response functions and the position of the identified modes.",
+            "startOffset": 60119,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 36449,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The Woodsol frame is made of massive timber components, i.e. glulam columns.",
+            "startOffset": 36373,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 59203,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Each curve corresponds to the energy-averaged sound power level.",
+            "startOffset": 59139,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 42896,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "On the 9 m floor, a measurement grid with 10 \u00d7 5 points (size 0.56 m \u00d7 0.98 m) and 4 reference accelerometers were used.",
+            "startOffset": 42776,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 57136,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The selection is kept constant among the diagrams.",
+            "startOffset": 57086,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 41045,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 40843,
+                    "startOffset": 40839
+                }
+            },
+            "secId": "s0020",
+            "sentence": "In the work of Bj\u00f8rge and Kristoffersen [12] the effective bending stiffness in longitudinal direction is determined analytically (BL,\u221e = 1.6E8 Nm2, \u03b3 = 1) and by means of deflection measurements on the 9 m element (BL,eff = 1.3E8 Nm2, \u03b3 = 0.75).",
+            "startOffset": 40799,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 42577,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The measurements were performed using the roving hammer technique with several reference accelerometers.",
+            "startOffset": 42473,
+            "title": "EMA measurement principle"
+        },
+        {
+            "endOffset": 41661,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 41660,
+                    "startOffset": 41657
+                }
+            },
+            "secId": "s0025",
+            "sentence": "The WOODSOL connectors are designed aiming for a rotational stiffness in the range 8000 kNm/rad < K\u03b8 < 13500 kNm/rad [9].",
+            "startOffset": 41540,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 41774,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "One metal part is fixed to the column, the other to the floor elements.",
+            "startOffset": 41703,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 42215,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Experimental modal analysis (EMA) is a well-established measurement method.",
+            "startOffset": 42140,
+            "title": "EMA measurement principle"
+        },
+        {
+            "endOffset": 43939,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The time between impacts was approximately 10 s allowing for enough window length to avoid leakage.",
+            "startOffset": 43840,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 56986,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The results are presented for the two configurations a) without additional mass and b) with additional mass (100 kg/m2 gravel).",
+            "startOffset": 56859,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 53566,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In this section, we present the general form of the recorded frequency response functions (FRF) and we establish the correspondence between the peaks in the FRF and the mode shapes.",
+            "startOffset": 53385,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 53960,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The numbers above the peaks of the FRFs identify the corresponding vibrational mode, which are graphically presented in Fig. 11.",
+            "startOffset": 53832,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 57353,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Below we present a few observations based on the results presented in Fig. 13 and Table 4.",
+            "startOffset": 57263,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 59522,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The data presented in Fig. 14 show that the effect on the radiated sound power is limited to narrow frequency bands corresponding to the missing modes in that frequency band.",
+            "startOffset": 59348,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 60432,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Fig. 15 shows a selection of the frequency response functions recorded respectively for the 9 m floor and 4.7 m floor (note that this is a subset of the data presented in Fig. 10).",
+            "startOffset": 60252,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 50892,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "One might argue that symmetry consideration could reduce significantly the measurement time and measurement costs.",
+            "startOffset": 50778,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 62263,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "This seems to relate well with the more even distribution of the vibrational modes in the 4.7 m elements.",
+            "startOffset": 62158,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 53122,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "It includes several different configurations based on the three parameters: floor length, boundary conditions and additional mass.",
+            "startOffset": 52992,
+            "title": "Measurement program"
+        },
+        {
+            "endOffset": 55219,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The wavenumber spectrum was calculated using a zero padding factor zpad = 4, corresponding to \u0394k = 0.33 rad/m .",
+            "startOffset": 55108,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 36497,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The principle is shown in the sketch in Fig. 1.",
+            "startOffset": 36450,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 65512,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "This made it possible to investigate the correct boundary conditions and to show the effect of the size of the element on the measurement results.",
+            "startOffset": 65366,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 52359,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The acceleration was measured on the bottom of the floor element and only in the vertical direction, since this is the direction that dominates the sound radiation.",
+            "startOffset": 52195,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 61776,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "As stated in section 3.2.2.2, symmetry cannot be exploited when using the ITM method.",
+            "startOffset": 61691,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 66112,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Both the effects related to the boundary conditions and those related to the size of the elements are more pronounced in the lower frequency range.",
+            "startOffset": 65965,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40721,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For the 4.7 m element, the pressure was applied by adding masses on top of the components to be glued.",
+            "startOffset": 40619,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 68075,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The findings also show that measurements in standard acoustic laboratories might produce misleading results, when investigating stiff long span structures at low frequencies.",
+            "startOffset": 67901,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 59957,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "This is mainly related to vibrational modes on the undamped columns, which force vibrations on the floor element.",
+            "startOffset": 59844,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 41844,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "bib166": {
+                    "endOffset": 41843,
+                    "startOffset": 41839
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Both are installed by means of threaded rods as shown in Fig. 7 [32].",
+            "startOffset": 41775,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 61124,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "The shorter floor element experiences a slightly higher modal damping.",
+            "startOffset": 61054,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 52195,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Two were kept fixed for phase reference and 10 were moved sequentially to cover all the rows of the measurement grid.",
+            "startOffset": 52078,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 52710,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The analysis was made in post processing.",
+            "startOffset": 52669,
+            "title": "ITM procedure"
+        },
+        {
+            "endOffset": 35851,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Appendix A presents the investigations related to the effect of the airborne excitation of the lower plate of the floor element.",
+            "startOffset": 35723,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 63468,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The results show a reduction of the radiated sound power larger than 10 dB (up to 20 dB) above 50 Hz by adding 100 kg/m2 gravel in the cavity of the floor elements.",
+            "startOffset": 63304,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 53831,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The diagrams in Fig. 10 show the FRFs magnitude measured on the 4.7 m floor element without additional mass mounted with free-free BC (upper diagram) and mounted on columns (lower diagram).",
+            "startOffset": 53642,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 62738,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The diagram shows the measured frequency response functions for selected response/excitation combinations with gravel (solid line) and without gravel (dotted line).",
+            "startOffset": 62574,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 43839,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "At least three impacts at each point of the grid were recorded as time signals using a multichannel acquisition system.",
+            "startOffset": 43720,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 30685,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 30684,
+                    "startOffset": 30679
+                },
+                "b0010": {
+                    "endOffset": 30684,
+                    "startOffset": 30679
+                },
+                "b0015": {
+                    "endOffset": 30684,
+                    "startOffset": 30679
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Development seems to be driven by structural requirements and little literature is available on the acoustic properties [1\u20133].",
+            "startOffset": 30559,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43205,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Both excitation and response acquisition were performed on the top side of the floor for practical reasons (Fig. 9a).",
+            "startOffset": 43088,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 44986,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The Least Squares Frequency Domain (LSFD) method was used to estimate the mode shapes.",
+            "startOffset": 44900,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 52669,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "For each configuration, the measurement procedure was as follows: 1) Excite at position one, 2) Record acceleration at row 1, 3) Move tapping machine to the next four positions, while recording the data at each position, 4) Move the accelerometers to the next row and repeat the steps 1 to 4.",
+            "startOffset": 52377,
+            "title": "ITM procedure"
+        },
+        {
+            "endOffset": 36373,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The Woodsol building system is a frame construction system with the following special features: 1) the frame is moment resisting in one direction, 2) the floor elements are of type hollow box, 3) the stiffness of the floor element is exploited in the frame structure to achieve moment resisting capacity.",
+            "startOffset": 36069,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 54389,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In the lower diagram, the group of peaks at the frequencies between 20 Hz and 40 Hz is marked with the numbers 1/9.",
+            "startOffset": 54274,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 51058,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "We performed our measurements on the 4.7 m elements covering the entire surface of the element.",
+            "startOffset": 50963,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 40522,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "During the gluing process of the 9 m element, the pressure was applied by means of screws.",
+            "startOffset": 40432,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 51619,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 51520,
+                    "startOffset": 51516
+                }
+            },
+            "secId": "s0075",
+            "sentence": "These results also match the observations made by Hashimoto [23] while evaluating the Discrete Calculation Method (DCM), which share the same challenge as the ITM.",
+            "startOffset": 51456,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 39119,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 39118,
+                    "startOffset": 39114
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The outermost stringers are glulam GL30c, while the inner ones are glulam GL28c [11].",
+            "startOffset": 39034,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 36806,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The material used was glulam GL30c from Moelven.",
+            "startOffset": 36758,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 50777,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The strong requirement on the grid size when using the Integral Transform Method to determine the radiated sound power leads to a high number of measurement points and hence to a long measurement time.",
+            "startOffset": 50576,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 57085,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "In each diagram, only a selection of curves is presented, showing the FRFs with highest magnitude.",
+            "startOffset": 56987,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 59738,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "With gravel, the effect is up to 3 dB sound power reduction in the frequency range from 40 Hz to 100 Hz when mounting the element to the columns.",
+            "startOffset": 59593,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 33656,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We investigated the sound radiation focusing on impact sound at low frequencies, expecting here the main challenges due to the long span and lightweight properties of the floor elements.",
+            "startOffset": 33470,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38287,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The air bellows rested either on the floor of the lab or on massive blocks giving enough clearance (80 cm) to work under the floor element.",
+            "startOffset": 38148,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 58208,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The result here fits well with a reduction in length of the floor as high as 60 cm, which is the length of the inserted rods.",
+            "startOffset": 58083,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 67489,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Above 160 Hz the differences decrease significantly.",
+            "startOffset": 67437,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 34253,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Various methods are then available to calculate the impact noise level from the radiated sound power (see section 5).",
+            "startOffset": 34136,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50403,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The weakest direction represents the theoretical limit of the method, in this case 500 Hz.",
+            "startOffset": 50313,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 67298,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The effect of size is mainly related to the distribution of the vibrational modes and reflects clearly in the radiated sound power.",
+            "startOffset": 67167,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 62343,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "In the 9 m element there is indeed a clear gap in the FRFs from 43 Hz to 66 Hz.",
+            "startOffset": 62264,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 40303,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The manufacturing process of the elements has been different for practical reasons and led probably to different composite effects in the three floor elements build.",
+            "startOffset": 40138,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 48657,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The results show that if impact excitation is considered, the airborne excitation does not significantly affect the vibration velocity on the bottom plate and hence the ITM method can be applied.",
+            "startOffset": 48462,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 37975,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In order to understand the effect of the frame system on the modal and acoustical behavior of the floor elements, reference measurements with \u201cfree-free boundary conditions\u201d were also performed.",
+            "startOffset": 37781,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 38922,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "We built prototype elements with lengths 9 m, 4.7 m and 3.7 m. All of them have the same cross section to ease the comparison of the results.",
+            "startOffset": 38781,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 58901,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Modal damping increases up to a factor of 2 on selected modes (2nd torsional mode).",
+            "startOffset": 58818,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 42732,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The measurement procedure was based on 1) data acquisition using a multichannel acquisition system and 2) post-processing of the data (see Section 3.1.3).",
+            "startOffset": 42578,
+            "title": "EMA measurement principle"
+        },
+        {
+            "endOffset": 38147,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "One air bellow was placed at each corner of the floor element.",
+            "startOffset": 38085,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 44164,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The first step here was the impact processing.",
+            "startOffset": 44118,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 55932,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "refoffsets": {
+                "b0150": {
+                    "endOffset": 55893,
+                    "startOffset": 55889
+                }
+            },
+            "secId": "s0105",
+            "sentence": "Following symbols and quantities were used: f frequency, \u03c1 density of the material (here calculated as total volume divided by total weight), h height of the element, B bending stiffness, \u03ba = 0.9554 [28], plate shear modulus G = 6.5 \u00d7 108 Pa.",
+            "startOffset": 55690,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 64287,
+            "parents": [],
+            "secId": "s0125",
+            "sentence": "In typical acoustic laboratories for measuring impact noise level, this relation will hold above approximately 150 Hz.",
+            "startOffset": 64169,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 31838,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This has clear structural and economic advantages, but the acoustic implications were not investigated before.",
+            "startOffset": 31728,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 64772,
+            "parents": [],
+            "secId": "s0125",
+            "sentence": "However, this will affect the absolute levels but not the differences obtained by changing the parameters.",
+            "startOffset": 64666,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 62573,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The results are presented in Fig. 17.",
+            "startOffset": 62536,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 67436,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Surprisingly, the radiated sound power Lw for the shorter element exceeds Lw for the long element by up to 10 dB between 40 Hz and 80 Hz.",
+            "startOffset": 67299,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 59843,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Below 40 Hz we observe a clear increase of radiated sound power when mounting the element on the columns.",
+            "startOffset": 59738,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 63158,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "Each curve corresponds to the energy-averaged sound power level from the five tapping machine positions.",
+            "startOffset": 63054,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 51207,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "An investigation of the effect on the results produced by exploiting the symmetry was lightly verified by using different sets of the acquired data.",
+            "startOffset": 51059,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 53318,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "On each configuration, both an experimental modal analysis with a rowing hammer (EMA) and the measurement of the radiated sound power (ITM) under excitation by the tapping machine were performed.",
+            "startOffset": 53123,
+            "title": "Measurement program"
+        },
+        {
+            "endOffset": 68795,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Finally, the information presented in the appendix provide following important results: 1) the results obtained with this measurement method are not affect by the direct airborne excitation, when impact excitation is used and the hall volume is large enough to avoid excessive sound pressure levels, 2) symmetry cannot be exploited with ITM.",
+            "startOffset": 68454,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 33869,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Due to the size of the elements, the interest in the specific mounting system and the frequency range of interest, we could not perform ordinary laboratory measurements in a standard acoustic floor test facility.",
+            "startOffset": 33657,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37781,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 37626,
+                    "startOffset": 37623
+                }
+            },
+            "secId": "s0015",
+            "sentence": "This could be nearly considered as clamped at the corners, whereas this definition is not rigorous since a) the connection has a finite rotational stiffness [9] and b) the frame is moment resisting only around two axis, while the third one is undefined (i.e. rotation around one axis has no controlled constraints).",
+            "startOffset": 37466,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 57547,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Transversal modes are nearly unaffected by the mounting on the columns (see also Fig. 10) while the amplitude of the torsional modes (e.g. 1st at 40 Hz and 2nd at 70 Hz) is dramatically reduced.",
+            "startOffset": 57353,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 67900,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The findings above show the importance of the recently developed advanced measurement methods to determine the acoustic properties of building components such as the ITM used for the measurements in this paper.",
+            "startOffset": 67690,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 45706,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In recent years, it is gaining popularity thanks to the increasing availability of multichannel acquisition systems and scanning laser-vibrometers.",
+            "startOffset": 45559,
+            "title": "ITM measurement principle"
+        },
+        {
+            "endOffset": 50962,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "It is therefore important to verify if this concept could be applied.",
+            "startOffset": 50893,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 64496,
+            "parents": [],
+            "secId": "s0125",
+            "sentence": "Below the Schroeder frequency, the sound pressure level generated in the receiving room by the radiated sound power has first to be calculated considering the features of the sound field in the measuring room.",
+            "startOffset": 64287,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 61690,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "The reason for this is that the measurements on the 9 m element were performed at an early stage of the project and the vibration velocity was measured only on half the surface.",
+            "startOffset": 61513,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 33278,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The main goals of the campaign were: 1) investigate the modal properties of the floor element, 2) investigate the sound radiation properties of the floor element, 3) identify governing factors and possibility to improve impact sound insulation (e.g. stiffness, additional mass), 4) investigate the vibration transmission between floor elements and columns and 5) determine the influence of the connecting detail between floor elements.",
+            "startOffset": 32843,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41527,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The mass of the elements is given in Table 2.",
+            "startOffset": 41482,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 35722,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Two appendices address two questions related to the ITM method and its application on this specific setup.",
+            "startOffset": 35616,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51756,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In Fig. 9b, we show the excitation and measurement positions used for the ITM measurements.",
+            "startOffset": 51665,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 64548,
+            "parents": [],
+            "secId": "s0125",
+            "sentence": "Only then the impact noise level can be calculated.",
+            "startOffset": 64497,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 58351,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "It seems that the connections shift the supporting point approximately half way in the rods, corresponding to 30 cm on each side of the floor.",
+            "startOffset": 58209,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 32491,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The connectors are mounted at the corner of the floor element, giving, in principle, a clamped fixation of the corners.",
+            "startOffset": 32372,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35554,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In section 5, we briefly present how the observations of the radiated sound power can be interpreted in terms of impact noise level.",
+            "startOffset": 35422,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38588,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The investigated floor elements are of a hollow box type.",
+            "startOffset": 38531,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 54037,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "A detailed analysis and discussion of this data is presented in Section 4.3.",
+            "startOffset": 53961,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 30435,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Hollow core slabs are popular when long span is required and are widely used in urban buildings with the most different purposes, including commercial, office and apartment buildings.",
+            "startOffset": 30252,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 67690,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "This poses again a strong requirement on the element size when measuring the acoustic properties of long span element at low frequencies and highlights a shortcoming of standard acoustic laboratories.",
+            "startOffset": 67490,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 59592,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Without gravel the effect is almost negligible between 40 and 400 Hz.",
+            "startOffset": 59523,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 37238,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The columns were braced on top by means of aluminum profiles (not shown in the picture).",
+            "startOffset": 37150,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 66889,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "This result highlights the need for representative boundary conditions when evaluating building elements in laboratory to achieve good reliability of the data at low frequencies.",
+            "startOffset": 66711,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49876,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 49875,
+                    "startOffset": 49871
+                }
+            },
+            "secId": "s0075",
+            "sentence": "The use of zero padding is required in the numerical implementation to artificially increase the resolution [20].",
+            "startOffset": 49763,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 47905,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "This raised two related questions: 1) can we apply the ITM method, which was originally developed for a baffled plane sound radiator?",
+            "startOffset": 47772,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 31727,
+            "parents": [],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 31625,
+                    "startOffset": 31622
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Malo [8] showed that stiff end restraints can be exploited to achieve longer span with constant cross section.",
+            "startOffset": 31617,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45333,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Finally, the extracted mode shapes were checked visually for plausibility using the animation function of the toolbox.",
+            "startOffset": 45215,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 40137,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 40136,
+                    "startOffset": 40132
+                }
+            },
+            "secId": "s0020",
+            "sentence": "To ensure full composite effect of the joint with the type of glue used, a line pressure between 0.6 N/mm2 and 1.0 N/mm2 is required [14].",
+            "startOffset": 39999,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 65964,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Our overall conclusion is that the measured transfer functions and the standard deviation related to the excitation position lead to identify two frequency ranges: a lower one from 20 Hz to 150 Hz with isolated modes and large variance of the measured radiated sound power depending on the excitation position, and an upper one above 150 Hz where the modal density is higher, and the standard deviation is reduced from more than 5 dB to less than 2 dB.",
+            "startOffset": 65512,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 39033,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The top and bottom plates are laminated veneer lumber (LVL) panels with thickness 43 mm and 61 mm respectively.",
+            "startOffset": 38922,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 54679,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "Even if the connectors present a high rotational stiffness, they exhibit a relatively soft behaviour in the vertical direction.",
+            "startOffset": 54552,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 64665,
+            "parents": [],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 64560,
+                    "startOffset": 64556
+                }
+            },
+            "secId": "s0125",
+            "sentence": "Roozen [30] investigated this topic, focusing on airborne sound insulation and the same approach could be used here.",
+            "startOffset": 64549,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 32083,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 32022,
+                    "startOffset": 32019
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The Norwegian research project WOODSOL aims at developing mid-rise timber buildings (up to 10 stories), based on stiff hollow box floor elements combined with moment resting frames [9] and offers a chance to deepen the knowledge on this subject.",
+            "startOffset": 31838,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44660,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The quality of the calculated FRFs was eventually checked by verifying the reciprocity of the FRFs at the reference points.",
+            "startOffset": 44537,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 60848,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "The frequency of transverse and torsional modes shifts towards higher frequency, by a factor 1.6 (3/4\u03c0).",
+            "startOffset": 60744,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 61512,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Note that these data are based on measurements performed on only half of the bottom surface.",
+            "startOffset": 61420,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 67167,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "This cut-off frequency might vary with varying boundary conditions.",
+            "startOffset": 67100,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31069,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 31068,
+                    "startOffset": 31063
+                },
+                "b0025": {
+                    "endOffset": 31068,
+                    "startOffset": 31063
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Hollow box timber floors can reach long span at competitive floor height and with efficient material consumption compared with for instance massive CLT timber floors [4\u20135].",
+            "startOffset": 30897,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37302,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In the prototype two floor elements shared the central columns.",
+            "startOffset": 37239,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 45558,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 45501,
+                    "startOffset": 45497
+                },
+                "b0100": {
+                    "endOffset": 45557,
+                    "startOffset": 45553
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The integral transform method is based on the principle of a plane radiator as a sum of plane waves [17] and its theoretical formulation has been long used [18].",
+            "startOffset": 45397,
+            "title": "ITM measurement principle"
+        },
+        {
+            "endOffset": 55059,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Data are shown in dB.",
+            "startOffset": 55038,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 65103,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The goal was to gain deeper knowledge of the vibroacoustic behaviour of the system.",
+            "startOffset": 65020,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 42473,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 42472,
+                    "startOffset": 42465
+                },
+                "b0090": {
+                    "endOffset": 42472,
+                    "startOffset": 42465
+                }
+            },
+            "secId": "s0040",
+            "sentence": "However, we will not present any background since this is outside the scope of this paper, although literature is available on the subject [17,16].",
+            "startOffset": 42326,
+            "title": "EMA measurement principle"
+        },
+        {
+            "endOffset": 67099,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "In our specific setup, the boundary conditions did not have a relevant effect on sound radiations above 125 Hz, since the vibration field was less affected by the boundary conditions with increasing frequency.",
+            "startOffset": 66890,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 42325,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In the following we shall document the tools and the experimental setup used and highlight specific features.",
+            "startOffset": 42216,
+            "title": "EMA measurement principle"
+        },
+        {
+            "endOffset": 35998,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Appendix B presents the results showing that symmetry considerations cannot be exploited to reduce the measurement time when using the ITM method.",
+            "startOffset": 35852,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52077,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We used 12 accelerometers simultaneously.",
+            "startOffset": 52036,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 38780,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The cross section has a total height of 0.5 m and was designed for a span length of 9 m to 10 m.",
+            "startOffset": 38684,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 51455,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 51454,
+                    "startOffset": 51450
+                },
+                "b0120": {
+                    "endOffset": 51395,
+                    "startOffset": 51391
+                }
+            },
+            "secId": "s0075",
+            "sentence": "This confirms what suggested by [22] and proves wrong the assumption made by the author in [19].",
+            "startOffset": 51359,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 62855,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The effect of gravel is a strong attenuation of the vibrational modes above 50 Hz and a dramatic increase in damping.",
+            "startOffset": 62738,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 47500,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The use of the Fourier transformation and the finite size of the measurement object pose some limits of validity to the method, which are discussed in section 3.2.2.2 along with the chosen grid size.",
+            "startOffset": 47301,
+            "title": "ITM measurement principle"
+        },
+        {
+            "endOffset": 48461,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "We approached these issues experimentally by comparing the vibration velocity on the bottom plate generated by the tapping machine and by airborne excitation with comparable sound pressure level.",
+            "startOffset": 48266,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 43306,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This must be kept in mind when comparing the results from the EMA measurements with the ITM results.",
+            "startOffset": 43206,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 58818,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Firstly, by exploiting the difference between simply supported and clamped and secondly by reducing the effective length of the floor, hereby increasing the achievable span length with constant cross section or conversely allowing a reduction of the cross section for constant span.",
+            "startOffset": 58536,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 36757,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In the prototype the columns were 5.2 m high and have a cross section with dimension 0.40 m \u00d7 0.45 m.",
+            "startOffset": 36656,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 51358,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The results lead to the conclusion that symmetry cannot be exploited when using the ITM method.",
+            "startOffset": 51263,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 31356,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In order to fulfil acoustic requirements, the hollow volume of these floor elements can be used either to integrate acoustic materials as for example absorbing materials (mineral fibres), additional mass (gravel, concrete) or to install more advanced elements such as mass tuned damper.",
+            "startOffset": 31070,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32740,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This results in unique boundary conditions for the sound radiation of the floor elements, which need to be investigated for understanding the acoustical behaviour of the structure and \u2013 in a second step \u2013 serve as basis for the computational models.",
+            "startOffset": 32491,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45118,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The comparison between the measured FRF and those calculated by means of the extracted modal parameters is the first quality check.",
+            "startOffset": 44987,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 63664,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "A reduction of 5 dB to 10 dB is observed also between 20 Hz and 50 Hz with a minimum at 40 Hz (0 dB with free-free BC), where the 1st torsional mode seems to be unaffected by the additional mass.",
+            "startOffset": 63469,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 47771,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "As is evident from Figs. 2 and 3, there were no partitions separating the volume above the floor element and the volume below.",
+            "startOffset": 47645,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 41897,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The two metal parts are connected by friction bolts.",
+            "startOffset": 41845,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 61207,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Fig. 16 shows the radiated sound power level Lw for the 9 m and the 4.7 m elements.",
+            "startOffset": 61124,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 43018,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "On the 4.7 m floor, a measurement grid with 9 \u00d7 5 points (size 0.55 m \u00d7 0.56 m) and 7 reference accelerometers were used.",
+            "startOffset": 42897,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 56679,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Despite the low resolution in the wavenumber spectrum, it seems appropriate to recognize three different regions: below 200 Hz the element shows a lumped behaviour as suggested by the curve \u201cElement\u201d fitting reasonably the measured wavenumber spectrum; above 500 Hz the wavenumber spectrum seems to be dominated by the LVL properties as suggested by the curve \u201cKerto\u201d fitting with increasing agreement the measured data; in between there is a transition zone that do not follow the expected trend from the thick plate theory.",
+            "startOffset": 56154,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 41481,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The gravel was packed in bags to ease the installation (Fig. 6).",
+            "startOffset": 41417,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 56154,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The curve \u201cKerto\u201d was calculated using the Young\u2019s modulus of Kerto while the other parameters were left unchanged.",
+            "startOffset": 56039,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 56858,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Fig. 13 presents a comparison of the frequency response functions (FRFs) measured with different boundary conditions: \u201cfree-free\u201d and \u201con columns\u201d.",
+            "startOffset": 56711,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 54273,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "They describe the motion of the floor as rigid body on the air bellows.",
+            "startOffset": 54202,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 32843,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To accomplish this purpose, we set up an extensive experimental campaign on a prototype of the system.",
+            "startOffset": 32741,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48064,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "2) How does the airborne excitation from the noise radiated by the upper part of the floor element affect the vibration velocity on the bottom of the element?",
+            "startOffset": 47906,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 52991,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The extensive measurement program shown in Table 3 was carried out to achieve the goals stated in the introduction.",
+            "startOffset": 52876,
+            "title": "Measurement program"
+        },
+        {
+            "endOffset": 68909,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Cancellations effects are not accounted for, leading to excessive radiated energy compared to a full measurement.",
+            "startOffset": 68796,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 37465,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In the following we will refer to the prototype setup as: \u201con columns boundary condition\u201d.",
+            "startOffset": 37375,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 58977,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Finally, above 125 Hz the effect of the boundary conditions is very limited.",
+            "startOffset": 58901,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 43087,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The measurement grid was aligned with the glulam beams and stringer.",
+            "startOffset": 43019,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 57674,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The natural frequency of the 1st longitudinal mode is shifted from 81 Hz (free-free) to 101 Hz (on columns) (see also Fig. 10).",
+            "startOffset": 57547,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 32277,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The floor elements are hollow boxes partly filled with gravel resulting in a strongly inhomogeneous object, featuring a heavily damped plate on the bottom and a lightly damped plate on the top.",
+            "startOffset": 32084,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34941,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The upper frequency limit was chosen considering the requirement of the ITM method (see section 3.2.2.2), its implications in terms of time resources and a reasonable overlap with data available in literature.",
+            "startOffset": 34732,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44899,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Based on the stabilization diagram, the reference positions that gave clearer mode functions were selected for the further steps.",
+            "startOffset": 44770,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 48698,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The details are presented in appendix A.",
+            "startOffset": 48658,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 57263,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "The natural frequencies for the identified modes are listed along with the damping for the two mounting conditions in Table 4.",
+            "startOffset": 57137,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 56038,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The curve \u201cElement\u201d was calculated with the measured effective bending stiffness as given in Section 2.2.",
+            "startOffset": 55933,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 37374,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The floor elements were not connected to each other at any other point.",
+            "startOffset": 37303,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 65365,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "We used two techniques to obtain our results: experimental modal analysis and Integral transform method.",
+            "startOffset": 65261,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35615,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Finally, in section 6, we present a summary of our findings.",
+            "startOffset": 35555,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47644,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The test object was installed in an industrial hall as described in section 2.1.",
+            "startOffset": 47564,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 66265,
+            "parents": [],
+            "refoffsets": {
+                "b0165": {
+                    "endOffset": 66215,
+                    "startOffset": 66211
+                }
+            },
+            "secId": "s0130",
+            "sentence": "Considering that the low frequency range is determining annoyance in wooden lightweight buildings [31], the obtained results are particularly important.",
+            "startOffset": 66113,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40799,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The resulting applied pressure is expected to have been as low as 0.01 N/mm2.",
+            "startOffset": 40722,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 43648,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "With increasing frequency this assumption is not valid any longer, since local modes will behave differently on the top and lower surface.",
+            "startOffset": 43510,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 35421,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In section 4, we present and discuss the measurement results starting from the basic properties and then looking at the effect of specific factors on the sound radiation.",
+            "startOffset": 35251,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36910,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The floor elements were installed to the columns with the bottom flange 2 m above the laboratory floor.",
+            "startOffset": 36807,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 65260,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "We performed several experimental investigations focusing on the modal behaviour of the floor elements and the radiated sound power under impact excitation.",
+            "startOffset": 65104,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 68454,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "For lower frequencies the effect is limited and some modes (e.g. the torsional ones) might not be affected at all by the additional mass.",
+            "startOffset": 68317,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 44118,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 44107,
+                    "startOffset": 44103
+                }
+            },
+            "secId": "s0050",
+            "sentence": "The data were post processed using the Abravibe toolbox [15] in Matlab.",
+            "startOffset": 44047,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 61929,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "To keep the results comparable, the analysis has been performed using only half of the measurement surface for both the 9 m and the 4.7 m floor element.",
+            "startOffset": 61777,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 65019,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "We built a prototype of a building system based on long span hollow-box timber floor elements with moment resisting connectors at the corners.",
+            "startOffset": 64877,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58082,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "A possible explanation of the increased natural frequency is that the threaded rods reduce the effective length of the floor by extending the clamping fixture.",
+            "startOffset": 57923,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 61419,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "The shaded area corresponds to \u00b1 \u03c3, where \u03c3 is the standard deviation, calculated between the measurements at the individual excitation positions.",
+            "startOffset": 61273,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 41956,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The picture in Fig. 8 shows the current prototype version.",
+            "startOffset": 41898,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 54201,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In the upper diagram, we recognize at least two main peaks, grouped under the number 1.",
+            "startOffset": 54114,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 61272,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Each curve corresponds to the energy-averaged sound power level.",
+            "startOffset": 61208,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 52035,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The vibration velocity was measured by integrating the acceleration signal measured by accelerometers.",
+            "startOffset": 51933,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 54551,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "Some of the peaks here correspond to the vibrational modes of the prototype\u2019s columns while others describe the rigid body motion of the floor on the connectors.",
+            "startOffset": 54390,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 62157,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Between 40 Hz and 80 Hz the overall Lw for the 4.7 m element is up to 10 dB higher than that for the 9 m element.",
+            "startOffset": 62044,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 63053,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The diagrams in Fig. 18 show the radiated sound power determined with the ITM method with and without gravel, both for free-free boundary conditions and for the floor element mounted on the columns.",
+            "startOffset": 62855,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 57922,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 57921,
+                    "startOffset": 57917
+                }
+            },
+            "secId": "s0110",
+            "sentence": "This result is surprising since 1) an ideally clamped beam would have the same natural frequency as with free-free boundary conditions and 2) all other support conditions would imply a lower natural frequency compared to free-free or clamped [17].",
+            "startOffset": 57675,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 30897,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "More detailed knowledge is crucial if acoustic requirements shall be fulfilled in an efficient and sustainable way in a building typology that is increasingly important in our ever growing and more dense cities.",
+            "startOffset": 30686,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53642,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The respective natural frequencies and damping values are given in Table 4.",
+            "startOffset": 53567,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 35250,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In section 3, the methods are introduced along with the specific experimental setup and the measurement program is presented (3.3).",
+            "startOffset": 35119,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36656,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In Fig. 2, we show the prototype of the system we built to perform several acoustic investigations, including part of the measurement presented in this paper.",
+            "startOffset": 36498,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 55281,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The data are presented with a frequency resolution \u0394f = 2 Hz.",
+            "startOffset": 55220,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 55444,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The data is presented up to 800 Hz, since no major aliasing effects were observed up to this frequency and the extended frequency range helps assessing the trend.",
+            "startOffset": 55282,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 44025,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Excitation, response acquisition and analysis were limited to the vertical components.",
+            "startOffset": 43939,
+            "title": "EMA excitation and response acquisition"
+        },
+        {
+            "endOffset": 54942,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The diagram in Fig. 12 shows the vibration velocity wavenumber spectrum in the format kx (longitudinal direction) versus frequency at ky = 0, measured on the 4.7 m element on free-free boundary conditions, without additional mass.",
+            "startOffset": 54712,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 42031,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Experimental investigations and improvement of the connection are ongoing.",
+            "startOffset": 41957,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 45903,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 45846,
+                    "startOffset": 45842
+                },
+                "b0110": {
+                    "endOffset": 45902,
+                    "startOffset": 45895
+                },
+                "b0115": {
+                    "endOffset": 45902,
+                    "startOffset": 45895
+                },
+                "b0120": {
+                    "endOffset": 45902,
+                    "startOffset": 45895
+                }
+            },
+            "secId": "s0060",
+            "sentence": "We report here the main equations for ease of reference but otherwise refer to our previous paper for a compact overview of the method [19] or to the literature for more in depth insights [20\u201322].",
+            "startOffset": 45707,
+            "title": "ITM measurement principle"
+        },
+        {
+            "endOffset": 34495,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We wanted to gather measurement data that eventually allow the comparison of the acoustic performance of the floor element (i.e. the impact noise level Ln) with other documented construction available in literature or common in the practice.",
+            "startOffset": 34254,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 66352,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The studied boundary conditions affect the modal behaviour at frequencies below 125 Hz.",
+            "startOffset": 66265,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58535,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "If this result can be confirmed by further investigation, it would imply that a clamped support, as realized in this project, would have two beneficial effects on the achievable span.",
+            "startOffset": 58352,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 41212,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Based on the results presented in section 4.4, we estimated the longitudinal bending stiffness for the 4.7 m element as approximately B4.7m,eff = 6.4E7 Nm2, \u03b3 = 0.19.",
+            "startOffset": 41046,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 33470,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this paper, we focus on the experimental investigation, presenting the adopted measurement methods and the results related to the floor elements sound radiation properties (items 1 and 2).",
+            "startOffset": 33279,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41702,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The connector is made by two metal parts.",
+            "startOffset": 41661,
+            "title": "Connectors"
+        },
+        {
+            "endOffset": 34135,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We therefore used two methods to investigate the vibroacoustic properties of our setup; 1) an experimental modal analysis (EMA) to study the modal behaviour and 2) the measurement method denominated Integral transform method (ITM) to study the radiated sound power.",
+            "startOffset": 33870,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48265,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "We can apply the ITM method without a baffle only if the airborne excitation generates a vibration velocity at least 10 dB below the vibration velocity level generated by the direct impact excitation.",
+            "startOffset": 48065,
+            "title": "Installation of the test object"
+        },
+        {
+            "endOffset": 61054,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Since the transverse dimension was kept constant, this indicates that the structure stiffens in transversal direction by the effect of the end beams getting closer, when reducing the length of the element.",
+            "startOffset": 60849,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 51933,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 51932,
+                    "startOffset": 51928
+                }
+            },
+            "secId": "s0080",
+            "sentence": "The excitation was made by the ISO standard tapping machine positioned at five different locations on top of the floor element according to the requirement of the ISO16283 [10].",
+            "startOffset": 51756,
+            "title": "ITM excitation and response acquisition"
+        },
+        {
+            "endOffset": 60743,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "The results in Fig. 15 and Table 4 give a clear indication of which parameters are mainly affected by the change in the length: longitudinal modes are clearly shifted towards higher frequencies when the length of the element is reduced.",
+            "startOffset": 60507,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 31617,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 31410,
+                    "startOffset": 31407
+                },
+                "b0035": {
+                    "endOffset": 31425,
+                    "startOffset": 31422
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Several large companies (e.g. Lignatur, StoraEnso [6], Mets\u00e4Wood [7], Moelven) designed their own products in this category and carried out the development of these floor systems, but there is a lack of public acoustic knowledge and literature on this subject.",
+            "startOffset": 31357,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38514,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "This was about 4 times lower than the first mode of the floor elements.",
+            "startOffset": 38443,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 54113,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "At this stage, we highlight the features indicated with the numbers 1 and 9.",
+            "startOffset": 54037,
+            "title": "Frequency response functions and mode shapes"
+        },
+        {
+            "endOffset": 55037,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "At each frequency step the amplitude was normalized to the maximum in the same frequency step.",
+            "startOffset": 54943,
+            "title": "Bending waves dispersion curve"
+        },
+        {
+            "endOffset": 38084,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Free-free boundary conditions were achieved by installing the floor elements on air bellows (Figs. 3 and 4).",
+            "startOffset": 37976,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 60507,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0115",
+            "sentence": "Table 4 shows the natural frequencies and damping of the identified modes.",
+            "startOffset": 60433,
+            "title": "Size effect"
+        },
+        {
+            "endOffset": 34731,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For the data presented in this paper, the frequency range was set from 20 Hz to 400 Hz.",
+            "startOffset": 34644,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39166,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The materials properties are given in Table 1.",
+            "startOffset": 39120,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 64865,
+            "parents": [],
+            "secId": "s0125",
+            "sentence": "This means that the observed differences are directly valid also for the impact noise level.",
+            "startOffset": 64773,
+            "title": "Impact noise level"
+        },
+        {
+            "endOffset": 63304,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The shaded area corresponds to \u00b1 \u03c3, where \u03c3 is the standard deviation calculated between the measurements at the individual excitation positions.",
+            "startOffset": 63159,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 32371,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The floor elements are combined with a connection system that aims at being moment resisting.",
+            "startOffset": 32278,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44769,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The poles and the modal participation factors were computed using the polireference time domain method (PTD).",
+            "startOffset": 44660,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 66615,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "The effect on the radiated sound power strongly depends on the modal distribution and on the modal properties.",
+            "startOffset": 66505,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 41416,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "We performed measurements with two configurations: empty element and cavity filled with 100 kg/m2 gravel.",
+            "startOffset": 41311,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 68316,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "Regarding the effect of additional mass by means of gravel, the conclusion is that it has a dramatic effect on the radiated sound power, specially above 50 Hz, where we observed a reduction largely exceeding 10 dB over wide frequency ranges.",
+            "startOffset": 68075,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 37070,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The columns were installed to the floor by means of a pin connection with the free rotational axis perpendicular to the floor element\u2019s longitudinal direction.",
+            "startOffset": 36911,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 50576,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 50575,
+                    "startOffset": 50571
+                }
+            },
+            "secId": "s0075",
+            "sentence": "However, it shall be noted that this theoretical limit might not be as strict depending on the specific radiation properties of the measurement object as discussed in [20].",
+            "startOffset": 50404,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 51262,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0055",
+                    "title": "Integral transform method (ITM)"
+                },
+                {
+                    "id": "s0065",
+                    "title": "ITM measurement setup"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The procedure and results are presented in appendix A.",
+            "startOffset": 51208,
+            "title": "ITM measurement grid"
+        },
+        {
+            "endOffset": 37149,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "This is also the direction where the frame is expected to be moment resisting.",
+            "startOffset": 37071,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 38683,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 38662,
+                    "startOffset": 38658
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The design used here is the optimized cross section, as described in [12] and shown in Fig. 5.",
+            "startOffset": 38589,
+            "title": "Floor elements"
+        },
+        {
+            "endOffset": 59138,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "Fig. 14 shows the corresponding radiated sound power, again for the two configurations a) without additional mass and b) with additional mass (100 kg/m2 gravel).",
+            "startOffset": 58977,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 62535,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0120",
+            "sentence": "The effect of additional mass (gravel) on the vibroacoustic behaviour of the floor element was observed best on the 4.7 m floor mounted with \u201cfree-free\u201d boundary conditions.",
+            "startOffset": 62362,
+            "title": "Effect of gravel"
+        },
+        {
+            "endOffset": 44536,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Measurement methods and experimental setup"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Experimental modal analysis (EMA)"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Then, the frequency response functions (FRF) were built by manually selecting the impacts to be used, based on visual check of the FRF and evaluation of the coherence function.",
+            "startOffset": 44360,
+            "title": "EMA data analysis"
+        },
+        {
+            "endOffset": 66710,
+            "parents": [],
+            "secId": "s0130",
+            "sentence": "We observed a reduction of the radiated sound power up to 3 dB in the measurements on columns.",
+            "startOffset": 66616,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 30558,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The timber building industry is developing hollow box floor systems to offer an alternative to hollow core concrete slabs.",
+            "startOffset": 30436,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38442,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The air bellows (Parker air bellows series 9109, type 6\u201d \u00d7 1) were inflated to 6 bar giving natural frequencies for the rigid body motion at 3 Hz to 5 Hz.",
+            "startOffset": 38288,
+            "title": "The WOODSOL building system (boundary conditions)"
+        },
+        {
+            "endOffset": 60105,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Measurement results"
+                }
+            ],
+            "secId": "s0110",
+            "sentence": "It is to clarify if this effect will be also observed in real buildings, where the columns experience more constraints and possibly higher damping.",
+            "startOffset": 59958,
+            "title": "Effect of boundary conditions"
+        },
+        {
+            "endOffset": 40431,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Measurement object"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The two considered elements were built by two different groups of students in two different facilities, with different methods.",
+            "startOffset": 40304,
+            "title": "Floor elements"
+        }
+    ],
+    "docId": "S0003682X19310369",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "Simone.Conta@ntnu.no",
+                "first": "Simone",
+                "initial": "S.",
+                "last": "Conta"
+            },
+            {
+                "email": null,
+                "first": "Anders",
+                "initial": "A.",
+                "last": "Homb"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.107190",
+        "issn": "0003682X",
+        "keywords": [
+            "Experimental modal analysis",
+            "Impact noise level",
+            "Integral transform method",
+            "Radiated sound power",
+            "Timber hollow-box floor"
+        ],
+        "openaccess": "Full",
+        "pub_year": 2020,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Sound radiation of hollow box timber floors under impact excitation: An experimental parameter study"
+    }
+}

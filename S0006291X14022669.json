@@ -1,0 +1,1767 @@
+{
+    "abstract": "1-4 interaction scaling factors are used in AMBER forcefields to reduce the exaggeration of short-range repulsion caused by the 6-12 Lennard-Jones potential and a nonpolarizable charge model and to obtain better agreements of small-molecule conformational energies with experimental data. However, the effects of these scaling factors on protein secondary structure conformations have not been investigated until now. This article reports the finding that the 1-4 interactions among the protein backbone atoms separated by three consecutive covalent bonds are more repulsive in the \u03b1-helix conformation than in two \u03b2-strand conformations. Therefore, the 1-4 interaction scaling factors of protein backbone torsions \u03c6 and \u03c8 control the conformational equilibrium between \u03b1-helix and \u03b2-strand. Molecular dynamics simulations confirm that reducing the \u03c6 and \u03c8 scaling factors readily converts the \u03b1-helix conformation of AcO-(AAQAA)3-NH2 to a \u03b2-strand conformation, and the reverse occurs when these scaling factors are increased. These results suggest that the \u03c6 and \u03c8 scaling factors can be used to generate the \u03b1-helix or \u03b2-strand conformation in situ and to control the propensities of a forcefield for adopting secondary structure elements.",
+    "author_highlights": [
+        {
+            "endOffset": 9423,
+            "sentence": "1\u20134 interaction scaling factors are used to adjust conformational energy.",
+            "startOffset": 9350
+        },
+        {
+            "endOffset": 9499,
+            "sentence": "This article reports the effects of these factors on protein conformations.",
+            "startOffset": 9424
+        },
+        {
+            "endOffset": 9584,
+            "sentence": "Reducing these factors changes a helix to a strand in molecular dynamics simulation.",
+            "startOffset": 9500
+        },
+        {
+            "endOffset": 9651,
+            "sentence": "Increasing these factors causes the reverse conformational change.",
+            "startOffset": 9585
+        },
+        {
+            "endOffset": 9730,
+            "sentence": "These factors control the conformational equilibrium between helix and strand.",
+            "startOffset": 9652
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Scott J.",
+                    "initial": "S.J.",
+                    "last": "Weiner"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                },
+                {
+                    "first": "U. Chandra",
+                    "initial": "U.C.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Case"
+                },
+                {
+                    "first": "Caterina",
+                    "initial": "C.",
+                    "last": "Ghio"
+                },
+                {
+                    "first": "Giuliano",
+                    "initial": "G.",
+                    "last": "Alagona"
+                },
+                {
+                    "first": "Salvatore",
+                    "initial": "S.",
+                    "last": "Profeta"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Weiner"
+                }
+            ],
+            "doi": "10.1021/ja00315a051",
+            "firstpage": "765",
+            "issn": "00027863",
+            "lastpage": "784",
+            "pub_year": 1984,
+            "title": "A New Force Field for Molecular Mechanical Simulation of Nucleic Acids and Proteins",
+            "volume": "106"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Scott J.",
+                    "initial": "S.J.",
+                    "last": "Weiner"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                },
+                {
+                    "first": "Dzung T.",
+                    "initial": "D.T.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Case"
+                }
+            ],
+            "doi": "10.1002/jcc.540070216",
+            "firstpage": "230",
+            "issn": "01928651",
+            "lastpage": "252",
+            "pub_year": 1986,
+            "title": "An all atom force field for simulations of proteins and nucleic acids",
+            "volume": "7"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Christopher I.",
+                    "initial": "C.I.",
+                    "last": "Bayly"
+                },
+                {
+                    "first": "Kenneth M.",
+                    "initial": "K.M.",
+                    "last": "Merz"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Ferguson"
+                },
+                {
+                    "first": "Wendy D.",
+                    "initial": "W.D.",
+                    "last": "Cornell"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Fox"
+                },
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Caldwell"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                },
+                {
+                    "first": "Piotr",
+                    "initial": "P.",
+                    "last": "Cieplak"
+                },
+                {
+                    "first": "Ian R.",
+                    "initial": "I.R.",
+                    "last": "Gould"
+                },
+                {
+                    "first": "David C.",
+                    "initial": "D.C.",
+                    "last": "Spellmeyer"
+                }
+            ],
+            "doi": "10.1021/ja00124a002",
+            "firstpage": "5179",
+            "issn": "00027863",
+            "lastpage": "5197",
+            "pub_year": 1995,
+            "title": "A Second Generation Force Field for the Simulation of Proteins, Nucleic Acids, and Organic Molecules",
+            "volume": "117"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                }
+            ],
+            "issn": "00014842",
+            "pub_year": 1996,
+            "title": "Advances and Continuing Challenges in Achieving Realistic and Predictive Simulations of the Properties of Organic and Biological Molecules",
+            "volume": "29"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Junmei",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Piotr",
+                    "initial": "P.",
+                    "last": "Cieplak"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                }
+            ],
+            "doi": "10.1002/1096-987X(200009)21:12<1049::AID-JCC3>3.0.CO;2-F",
+            "firstpage": "1049",
+            "issn": "01928651",
+            "lastpage": "1074",
+            "pub_year": 2000,
+            "title": "How Well Does a Restrained Electrostatic Potential (RESP) Model Perform in Calculating Conformational Energies of Organic and Biological Molecules?",
+            "volume": "21"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Yong",
+                    "initial": "Y.",
+                    "last": "Duan"
+                },
+                {
+                    "first": "Chun",
+                    "initial": "C.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Shibasish",
+                    "initial": "S.",
+                    "last": "Chowdhury"
+                },
+                {
+                    "first": "Mathew C.",
+                    "initial": "M.C.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Guoming",
+                    "initial": "G.",
+                    "last": "Xiong"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Rong",
+                    "initial": "R.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Piotr",
+                    "initial": "P.",
+                    "last": "Cieplak"
+                },
+                {
+                    "first": "Ray",
+                    "initial": "R.",
+                    "last": "Luo"
+                },
+                {
+                    "first": "Taisung",
+                    "initial": "T.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Caldwell"
+                },
+                {
+                    "first": "Junmei",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Kollman"
+                }
+            ],
+            "doi": "10.1002/jcc.10349",
+            "firstpage": "1999",
+            "issn": "01928651",
+            "lastpage": "2012",
+            "pmid": "14531054",
+            "pub_year": 2003,
+            "title": "A Point-Charge Force Field for Molecular Mechanics Simulations of Proteins Based on Condensed-Phase Quantum Mechanical Calculations",
+            "volume": "24"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Junmei",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Romain M.",
+                    "initial": "R.M.",
+                    "last": "Wolf"
+                },
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Caldwell"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Case"
+                }
+            ],
+            "doi": "10.1002/jcc.20035",
+            "firstpage": "1157",
+            "issn": "01928651",
+            "lastpage": "1174",
+            "pmid": "15116359",
+            "pub_year": 2004,
+            "title": "Development and testing of a general Amber force field",
+            "volume": "25"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Viktor",
+                    "initial": "V.",
+                    "last": "Hornak"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Abel"
+                },
+                {
+                    "first": "Asim",
+                    "initial": "A.",
+                    "last": "Okur"
+                },
+                {
+                    "first": "Bentley",
+                    "initial": "B.",
+                    "last": "Strockbine"
+                },
+                {
+                    "first": "Adrian",
+                    "initial": "A.",
+                    "last": "Roitberg"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Simmerling"
+                }
+            ],
+            "doi": "10.1002/prot.21123",
+            "firstpage": "712",
+            "issn": "08873585",
+            "lastpage": "725",
+            "pmid": "16981200",
+            "pub_year": 2006,
+            "title": "Comparison of multiple amber force fields and development of improved protein backbone parameters",
+            "volume": "65"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Kresten",
+                    "initial": "K.",
+                    "last": "Lindorff-Larsen"
+                },
+                {
+                    "first": "Stefano",
+                    "initial": "S.",
+                    "last": "Piana"
+                },
+                {
+                    "first": "Kim",
+                    "initial": "K.",
+                    "last": "Palmo"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Maragakis"
+                },
+                {
+                    "first": "John L.",
+                    "initial": "J.L.",
+                    "last": "Klepeis"
+                },
+                {
+                    "first": "Ron O.",
+                    "initial": "R.O.",
+                    "last": "Dror"
+                },
+                {
+                    "first": "David E.",
+                    "initial": "D.E.",
+                    "last": "Shaw"
+                }
+            ],
+            "doi": "10.1002/prot.22711",
+            "firstpage": "1950",
+            "issn": "08873585",
+            "lastpage": "1958",
+            "pmid": "20408171",
+            "pub_year": 2010,
+            "title": "Improved side-chain torsion potentials for the Amber ff99SB protein force field",
+            "volume": "78"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Karl N.",
+                    "initial": "K.N.",
+                    "last": "Kirschner"
+                },
+                {
+                    "first": "Austin B.",
+                    "initial": "A.B.",
+                    "last": "Yongye"
+                },
+                {
+                    "first": "Sarah M.",
+                    "initial": "S.M.",
+                    "last": "Tschampel"
+                },
+                {
+                    "first": "Jorge",
+                    "initial": "J.",
+                    "last": "Gonz\u00e1lez-Outeiri\u00f1o"
+                },
+                {
+                    "first": "Charlisa R.",
+                    "initial": "C.R.",
+                    "last": "Daniels"
+                },
+                {
+                    "first": "B. Lachele",
+                    "initial": "B.L.",
+                    "last": "Foley"
+                },
+                {
+                    "first": "Robert J.",
+                    "initial": "R.J.",
+                    "last": "Woods"
+                }
+            ],
+            "doi": "10.1002/jcc.20820",
+            "firstpage": "622",
+            "issn": "01928651",
+            "lastpage": "655",
+            "pmid": "17849372",
+            "pub_year": 2008,
+            "title": "GLYCAM06: A generalizable biomolecular force field. carbohydrates",
+            "volume": "29"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Shalongo"
+                },
+                {
+                    "first": "Laxmichand",
+                    "initial": "L.",
+                    "last": "Dugad"
+                },
+                {
+                    "first": "Earle",
+                    "initial": "E.",
+                    "last": "Stellwagen"
+                }
+            ],
+            "doi": "10.1021/ja00097a039",
+            "firstpage": "8288",
+            "issn": "00027863",
+            "lastpage": "8293",
+            "pub_year": 1994,
+            "title": "Distribution of Helicity within the Model Peptide Acetyl(AAQAA)3amide",
+            "volume": "116"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2014.08.119",
+            "firstpage": "588",
+            "issn": "0006291X",
+            "lastpage": "592",
+            "pmid": "25181342",
+            "pub_year": 2014,
+            "title": "Low-mass molecular dynamics simulation: A simple and generic technique to enhance configurational sampling",
+            "volume": "452"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "William L.",
+                    "initial": "W.L.",
+                    "last": "Jorgensen"
+                },
+                {
+                    "first": "Jayaraman",
+                    "initial": "J.",
+                    "last": "Chandrasekhar"
+                },
+                {
+                    "first": "Jeffry D.",
+                    "initial": "J.D.",
+                    "last": "Madura"
+                },
+                {
+                    "first": "Roger W.",
+                    "initial": "R.W.",
+                    "last": "Impey"
+                },
+                {
+                    "first": "Michael L.",
+                    "initial": "M.L.",
+                    "last": "Klein"
+                }
+            ],
+            "doi": "10.1063/1.445869",
+            "firstpage": "926",
+            "issn": "00219606",
+            "lastpage": "935",
+            "pub_year": 1983,
+            "title": "Comparison of simple potential functions for simulating liquid water",
+            "volume": "79"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Piotr",
+                    "initial": "P.",
+                    "last": "Cieplak"
+                },
+                {
+                    "first": "Wendy D.",
+                    "initial": "W.D.",
+                    "last": "Cornell"
+                },
+                {
+                    "first": "Christopher",
+                    "initial": "C.",
+                    "last": "Bayly"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                }
+            ],
+            "doi": "10.1002/jcc.540161106",
+            "firstpage": "1357",
+            "issn": "01928651",
+            "lastpage": "1377",
+            "pub_year": 1995,
+            "title": "Application of the multimolecule and multiconformational RESP methodology to biopolymers: Charge derivation for DNA, RNA, and proteins",
+            "volume": "16"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "H. J.C.",
+                    "initial": "H.J.C.",
+                    "last": "Berendsen"
+                },
+                {
+                    "first": "J. P.M.",
+                    "initial": "J.P.M.",
+                    "last": "Postma"
+                },
+                {
+                    "first": "W. F.",
+                    "initial": "W.F.",
+                    "last": "Van Gunsteren"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Dinola"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Haak"
+                }
+            ],
+            "doi": "10.1063/1.448118",
+            "firstpage": "3684",
+            "issn": "00219606",
+            "lastpage": "3690",
+            "pub_year": 1984,
+            "title": "Molecular dynamics with coupling to an external bath",
+            "volume": "81"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Tom",
+                    "initial": "T.",
+                    "last": "Darden"
+                },
+                {
+                    "first": "Darrin",
+                    "initial": "D.",
+                    "last": "York"
+                },
+                {
+                    "first": "Lee",
+                    "initial": "L.",
+                    "last": "Pedersen"
+                }
+            ],
+            "doi": "10.1063/1.464397",
+            "firstpage": "10089",
+            "issn": "00219606",
+            "lastpage": "10092",
+            "pub_year": 1993,
+            "title": "Particle mesh Ewald: An N\u00b7log(N) method for Ewald sums in large systems",
+            "volume": "98"
+        },
+        "b0085": null,
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                },
+                {
+                    "first": "Haiming",
+                    "initial": "H.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Alyson",
+                    "initial": "A.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "X. Wei",
+                    "initial": "X.W.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "Paula A.",
+                    "initial": "P.A.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Scott H.",
+                    "initial": "S.H.",
+                    "last": "Kaufmann"
+                }
+            ],
+            "doi": "10.1038/srep00257",
+            "issn": "20452322",
+            "pub_year": 2012,
+            "title": "Bak conformational changes induced by ligand binding: Insight into BH3 domain binding and bak homo-oligomerization",
+            "volume": "2"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Amy M.",
+                    "initial": "A.M.",
+                    "last": "Sainski"
+                },
+                {
+                    "first": "Haiming",
+                    "initial": "H.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Sekar",
+                    "initial": "S.",
+                    "last": "Natesampillai"
+                },
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                },
+                {
+                    "first": "Gary D.",
+                    "initial": "G.D.",
+                    "last": "Bren"
+                },
+                {
+                    "first": "Nathan W.",
+                    "initial": "N.W.",
+                    "last": "Cummins"
+                },
+                {
+                    "first": "Cristina",
+                    "initial": "C.",
+                    "last": "Correia"
+                },
+                {
+                    "first": "X. Wei",
+                    "initial": "X.W.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "James E.",
+                    "initial": "J.E.",
+                    "last": "Tarara"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Ramirez-Alvarado"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Katzmann"
+                },
+                {
+                    "first": "Christina",
+                    "initial": "C.",
+                    "last": "Ochsenbauer"
+                },
+                {
+                    "first": "John C.",
+                    "initial": "J.C.",
+                    "last": "Kappes"
+                },
+                {
+                    "first": "Scott H.",
+                    "initial": "S.H.",
+                    "last": "Kaufmann"
+                },
+                {
+                    "first": "Andrew D.",
+                    "initial": "A.D.",
+                    "last": "Badley"
+                }
+            ],
+            "doi": "10.1083/jcb.201405051",
+            "firstpage": "867",
+            "issn": "00219525",
+            "lastpage": "876",
+            "pmid": "25246614",
+            "pub_year": 2014,
+            "title": "Casp8p41 generated by HIV protease kills CD4 T cells through direct Bak activation",
+            "volume": "206"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "John R.",
+                    "initial": "J.R.",
+                    "last": "Lamb"
+                },
+                {
+                    "first": "Stuart",
+                    "initial": "S.",
+                    "last": "Tugendreich"
+                },
+                {
+                    "first": "Phil",
+                    "initial": "P.",
+                    "last": "Hieter"
+                }
+            ],
+            "doi": "10.1016/S0968-0004(00)89037-4",
+            "firstpage": "257",
+            "issn": "09680004",
+            "lastpage": "259",
+            "pmid": "7667876",
+            "pub_year": 1995,
+            "title": "Tetratrico peptide repeat interactions: to TPR or not to TPR?",
+            "volume": "20"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Angel E.",
+                    "initial": "A.E.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "Kevin Y.",
+                    "initial": "K.Y.",
+                    "last": "Sanbonmatsu"
+                }
+            ],
+            "doi": "10.1073/pnas.042496899",
+            "firstpage": "2782",
+            "issn": "00278424",
+            "lastpage": "2787",
+            "pmid": "11867710",
+            "pub_year": 2002,
+            "title": "\u03b1-helical stabilization by side chain shielding of backbone hydrogen bonds",
+            "volume": "99"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Asim",
+                    "initial": "A.",
+                    "last": "Okur"
+                },
+                {
+                    "first": "Bentley",
+                    "initial": "B.",
+                    "last": "Strockbine"
+                },
+                {
+                    "first": "Viktor",
+                    "initial": "V.",
+                    "last": "Hornak"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Simmerling"
+                }
+            ],
+            "doi": "10.1002/jcc.10184",
+            "firstpage": "21",
+            "issn": "01928651",
+            "lastpage": "31",
+            "pmid": "12483672",
+            "pub_year": 2003,
+            "title": "Using PC clusters to evaluate the transferability of molecular mechanics force fields for proteins",
+            "volume": "24"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Lu",
+                    "initial": "L.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Yong",
+                    "initial": "Y.",
+                    "last": "Duan"
+                },
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Shortle"
+                },
+                {
+                    "first": "Barbara",
+                    "initial": "B.",
+                    "last": "Imperiali"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "Kollman"
+                }
+            ],
+            "doi": "10.1110/ps.8.6.1292",
+            "firstpage": "1292",
+            "issn": "09618368",
+            "lastpage": "1304",
+            "pmid": "10386879",
+            "pub_year": 1999,
+            "title": "Study of the stability and unfolding mechanism of BBA1 by molecular dynamics simulations at different temperatures",
+            "volume": "8"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Satoshi",
+                    "initial": "S.",
+                    "last": "Ono"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Nakajima"
+                },
+                {
+                    "first": "Junichi",
+                    "initial": "J.",
+                    "last": "Higo"
+                },
+                {
+                    "first": "Haruki",
+                    "initial": "H.",
+                    "last": "Nakamura"
+                }
+            ],
+            "doi": "10.1002/(SICI)1096-987X(20000715)21:9<748::AID-JCC4>3.0.CO;2-2",
+            "firstpage": "748",
+            "issn": "01928651",
+            "lastpage": "762",
+            "pub_year": 2000,
+            "title": "Peptide Free-Energy Profile Is Strongly Dependent on the Force Field: Comparison of C96 and AMBER95",
+            "volume": "21"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Junichi",
+                    "initial": "J.",
+                    "last": "Higo"
+                },
+                {
+                    "first": "Nobutoshi",
+                    "initial": "N.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Masataka",
+                    "initial": "M.",
+                    "last": "Kuroda"
+                },
+                {
+                    "first": "Satoshi",
+                    "initial": "S.",
+                    "last": "Ono"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Nakajima"
+                },
+                {
+                    "first": "Haruki",
+                    "initial": "H.",
+                    "last": "Nakamura"
+                }
+            ],
+            "doi": "10.1110/ps.44901",
+            "firstpage": "1160",
+            "issn": "09618368",
+            "lastpage": "1171",
+            "pmid": "11369854",
+            "pub_year": 2001,
+            "title": "Energy landscape of a peptide consisting of \u03b1-helix, 310-helix, \u03b2-turn, \u03b2-hairpin, and other disordered conformations",
+            "volume": "10"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Narutoshi",
+                    "initial": "N.",
+                    "last": "Kamiya"
+                },
+                {
+                    "first": "Junichi",
+                    "initial": "J.",
+                    "last": "Higo"
+                },
+                {
+                    "first": "Haruki",
+                    "initial": "H.",
+                    "last": "Nakamura"
+                }
+            ],
+            "doi": "10.1110/ps.0213102",
+            "firstpage": "2297",
+            "issn": "09618368",
+            "lastpage": "2307",
+            "pmid": "12237452",
+            "pub_year": 2002,
+            "title": "Conformational transition states of a \u03b2-hairpin peptide between the ordered and disordered conformations in explicit water",
+            "volume": "11"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 25707,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 25533,
+                    "startOffset": 25526
+                },
+                "b0095": {
+                    "endOffset": 25533,
+                    "startOffset": 25526
+                },
+                "b0100": {
+                    "endOffset": 25533,
+                    "startOffset": 25526
+                }
+            },
+            "secId": "s0040",
+            "sentence": "For example, for computational studies of B-cell lymphoma 2 family proteins or proteins with latent tetratrico peptide repeat [18\u201320], there is often a need to perform LMD simulations to intentionally convert a fragment of a protein to the \u03b1-helical conformation in the specific environment of the fragment.",
+            "startOffset": 25400,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 23674,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The two sets of simulations described above were then repeated with a full \u03b1-helix conformation as the initial AAQAA conformation.",
+            "startOffset": 23544,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 12846,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Therefore, the 1\u20134 interaction scaling factors for protein backbone torsions \u03d5 and \u03c8 control the conformational equilibrium between \u03b1-helix and \u03b2-strand in molecular dynamics simulations.",
+            "startOffset": 12659,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23014,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The small standard deviations indicate that these aggregated \u03b1-helix and \u03b2-strand populations are converged at the aggregated timescale of 4 \u03bcs.",
+            "startOffset": 22870,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 25399,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This finding has practical use in peptide or protein simulations.",
+            "startOffset": 25334,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 26927,
+            "parents": [],
+            "secId": "s9000",
+            "sentence": "The author declares no conflict of interest.",
+            "startOffset": 26883,
+            "title": "Conflict of interest"
+        },
+        {
+            "endOffset": 22330,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 22311,
+                    "startOffset": 22307
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Nevertheless, the aggregated \u03b2-strand population is converged, and the aggregated \u03b1-helix population of 61 \u00b1 27% is already higher than the experimental \u03b1-helix population of 20.8 \u00b1 0.4% for AAQAA in water at 300 K according to nuclear magnetic resonance spectroscopic data [11] (see Section 2.2).",
+            "startOffset": 22033,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 16105,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 15494,
+                    "startOffset": 15490
+                },
+                "b0080": {
+                    "endOffset": 15586,
+                    "startOffset": 15582
+                }
+            },
+            "secId": "s0015",
+            "sentence": "All these isothermal\u2013isobaric LMD simulations used (1) a dielectric constant of 1.0, (2) the Berendsen coupling algorithm [15], (3) the Particle Mesh Ewald method to calculate long-range electrostatic interactions [16], (4) a time step of 1.0 fs, (5) SHAKE-bond-length constraints applied to all the bonds involving the H atom, (6) a protocol to save the image closest to the middle of the \u201cprimary box\u201d to the restart and trajectory files, (7) a formatted restart file, (8) atomic masses that are systemically reduced by tenfold, (9) zeroed torsion potentials for \u03d5, \u03c8, \u03d5\u2032, and \u03c8\u2032, (10) 1.0 for SCNBs of \u03d5 and \u03c8 and SCEEs of \u03d5 and \u03c8 or 2.0 for SCNBs of \u03d5 and \u03c8 and SCEEs of \u03d5 and \u03c8, and (11) default values of all other inputs of PMEMD.",
+            "startOffset": 15368,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 21881,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Visual inspection revealed that the initial anti-parallel \u03b2-strand conformation converted to a full \u03b1-helix conformation with hydrogen bonds involving the AcO and NH2 protecting groups in 14 out of the 20 400-ns simulations (Fig. 2).",
+            "startOffset": 21648,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 19499,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The 1\u20134 interactions between 1C and 2C and between 1N and 2N are more repulsive in the \u03b1-helix conformation than in two \u03b2-strand conformations.",
+            "startOffset": 19356,
+            "title": "Repulsions among protein backbone atoms in the \u03b1-helix or \u03b2-strand conformation"
+        },
+        {
+            "endOffset": 21019,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In both sets of simulations, all four backbone torsion potentials (\u03d5, \u03c8, \u03d5\u2032 and \u03c8\u2032) of the FF14SB forcefield were zeroed to remove influences of these torsions on the effects of the SCNBs and SCEEs on the secondary structure conformations.",
+            "startOffset": 20780,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 23349,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Formations of these \u03b2-hairpins require different AAQAA residues to adopt the loop conformation, which explains why the aggregated \u03b2-strand population is lower than the aggregated \u03b1-helix population.",
+            "startOffset": 23151,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 15041,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The solvated AAQAA was then energy-minimized for 100 cycles of steepest-descent minimization followed by 900 cycles of conjugate-gradient minimization to remove close van der Waals contacts using SANDER of AMBER 11 (University of California, San Francisco), heated from 0 to 300 K at a rate of 10 K/ps under constant temperature and volume, and finally simulated in 20 unique and independent LMD simulations using PMEMD of AMBER 11 with a periodic boundary condition at a constant temperature of 300 K and a constant pressure of 1 atm with isotropic molecule-based scaling.",
+            "startOffset": 14468,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 22869,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The aggregated \u03b1-helix and \u03b2-strand populations with standard deviations of the 20 200-ns simulations are 0 \u00b1 0% and 25 \u00b1 3%, respectively (Table 2).",
+            "startOffset": 22720,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 26863,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "A study to identify a set of the SCNBs and the SCEEs that can balance the propensities of FF99 for different secondary structure conformations is underway and will be reported in due course.",
+            "startOffset": 26673,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 15367,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The 20 unique seed numbers for initial velocities of Simulations 1\u201320 are 1804289383, 846930886, 1681692777, 1714636915, 1957747793, 424238335, 719885386, 1649760492, 596516649, 1189641421, 1025202362, 1350490027, 783368690, 1102520059, 2044897763, 1967513926, 1365180540, 1540383426, 304089172, and 1303455736, respectively.",
+            "startOffset": 15042,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 19161,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "With the exception of the 1N\u20132N distance in the anti-parallel \u03b2-strand conformation, the 1C\u20132C and 1N\u20132N distances are shorter than the sums of the corresponding van der Waal\u2019s radii regardless of the secondary structure conformations (Table 1).",
+            "startOffset": 18916,
+            "title": "Repulsions among protein backbone atoms in the \u03b1-helix or \u03b2-strand conformation"
+        },
+        {
+            "endOffset": 25044,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The aggregated \u03b1-helix and \u03b2-strand populations with standard deviations of the 20 simulations are converged to 0 \u00b1 0% and 24 \u00b1 1%, respectively (Table 2), which also confirms that that the modified FF14SB with 1.0 for the SCNBs and the SCEEs has a low propensity for the \u03b1-helix conformation and a high propensity for the \u03b2-strand conformation.",
+            "startOffset": 24699,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 12658,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This article reports the finding that the 1\u20134 interactions among the protein backbone atoms separated by three consecutive covalent bonds are more repulsive in the \u03b1-helix conformation than in two \u03b2-strand conformations.",
+            "startOffset": 12438,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27038,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The Transparency document associated with this article can be found in the online version.",
+            "startOffset": 26948,
+            "title": "Transparency Document"
+        },
+        {
+            "endOffset": 19355,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In addition, the partial atomic charges of the carbonyl carbon atom and the amide nitrogen atom of one residue are identical to those of other residues as defined in additive AMBER forcefields.",
+            "startOffset": 19162,
+            "title": "Repulsions among protein backbone atoms in the \u03b1-helix or \u03b2-strand conformation"
+        },
+        {
+            "endOffset": 20779,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "For comparison, another set of 20 unique, independent, all-atom, isothermal\u2013isobaric, and 200-ns LMD simulations were performed under the same simulation conditions, except that the SCNBs and SCEEs were all reduced to 1.0.",
+            "startOffset": 20557,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 26524,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 26461,
+                    "startOffset": 26454
+                },
+                "b0110": {
+                    "endOffset": 26461,
+                    "startOffset": 26454
+                },
+                "b0115": {
+                    "endOffset": 26523,
+                    "startOffset": 26516
+                },
+                "b0120": {
+                    "endOffset": 26523,
+                    "startOffset": 26516
+                },
+                "b0125": {
+                    "endOffset": 26523,
+                    "startOffset": 26516
+                },
+                "b0130": {
+                    "endOffset": 26523,
+                    "startOffset": 26516
+                }
+            },
+            "secId": "s0040",
+            "sentence": "For example, AMBER forcefields FF94 and FF99 are biased to the \u03b1-helix conformation [21,22], whereas FF96 has a bias to the \u03b2-strand conformation [23\u201326].",
+            "startOffset": 26370,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 24302,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "As indicated by the small standard deviations, both the \u03b1-helix and \u03b2-strand populations are converged at the aggregated timescale of 8 \u03bcs.",
+            "startOffset": 24163,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 13975,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 13783,
+                    "startOffset": 13779
+                }
+            },
+            "secId": "s0015",
+            "sentence": "AAQAA in the \u03b1-helix or anti-parallel \u03b2-strand conformation was solvated with 1028 or 1619 TIP3P water molecules [13], respectively, to keep the closest distance between any atom of AAQAA and the edge of the periodic solvent box at 8.2 \u00c5 using LEAP of AmberTools 1.5 (University of California, San Francisco).",
+            "startOffset": 13666,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 14091,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The anti-parallel \u03b2-strand conformation of was generated by MacPyMOL Version 1.5.0 (Schr\u00f6dinger LLC, Portland, OR).",
+            "startOffset": 13976,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 25333,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The above results show that increasing or decreasing SCNBs of \u03d5 and \u03c8 or SCEEs of \u03d5 and \u03c8 can raise or lower, respectively, the ratio of the \u03b1-helical conformation over the \u03b2-strand conformation in LMD simulations.",
+            "startOffset": 25119,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 26013,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This type of secondary conformation can now be generated in situ by performing LMD simulations of the protein with a set of new atom types for torsions \u03d5 and \u03c8 of the fragment with 2.0 or 1.0 for the SCNBs and the SCEEs depending upon whether the desired conformation is \u03b1-helix or \u03b2-strand, respectively.",
+            "startOffset": 25708,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 13444,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The results suggest that these scaling factors can be used in practical applications to regulate the conformational equilibrium between \u03b1-helix and \u03b2-strand.",
+            "startOffset": 13287,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21230,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "When using 2.0 for the SCNBs and the SCEEs, the initial anti-parallel \u03b2-strand conformation of AAQAA completely converted, within 10 ns, to the \u03b1-helix and other non-\u03b2-strand conformations in all 20 simulations.",
+            "startOffset": 21019,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 22032,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "As indicated by the relatively large standard deviation, the aggregated \u03b1-helix population is not fully converged at the aggregated timescale of 8 \u03bcs.",
+            "startOffset": 21882,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 24162,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The aggregated \u03b1-helix and \u03b2-strand populations with standard deviations of the 20 400-ns simulations are 89 \u00b1 1% and 0 \u00b1 0%, respectively (Table 2).",
+            "startOffset": 24013,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 26672,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Adjusting SCNBs and SCEEs of the backbone torsions might balance the propensities of these AMBER forcefields without implementing \u03d5, \u03c8, \u03d5\u2032, and \u03c8\u2032.",
+            "startOffset": 26525,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 21647,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The aggregated \u03b1-helix population with its standard deviation of the 20 simulations increased to 61 \u00b1 27% at the 400-ns instant, whereas the aggregated \u03b2-strand population remained at zero (Table 2).",
+            "startOffset": 21448,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 13665,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 13664,
+                    "startOffset": 13660
+                }
+            },
+            "secId": "s0015",
+            "sentence": "In this study low-mass molecular dynamics (LMD) simulations with particle masses systemically reduced by tenfold were performed for enhanced configurational sampling [12].",
+            "startOffset": 13494,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 23150,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Visual inspection revealed various \u03b2-hairpin conformations that are in frequent exchange with extended \u03b2-strand conformations (Fig. 2).",
+            "startOffset": 23015,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 21447,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This is evident from the observation that the aggregated \u03b1-helix and \u03b2-strand populations of AAQAA with standard deviations of the 20 simulations at the 10-ns instant are 30 \u00b1 18% and 0 \u00b1 0%, respectively (Table S1).",
+            "startOffset": 21231,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 24012,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "When using 2.0 for the SCNBs and the SCEEs, no conversion from the \u03b1-helix conformation to the \u03b2-conformation was found in any of the 20 400-ns simulations.",
+            "startOffset": 23856,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 22529,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "These results indicate that the modified FF14SB forcefield with 2.0 for the SCNBs and the SCEEs has a high propensity for the \u03b1-helix conformation and a low propensity for the \u03b2-strand conformation.",
+            "startOffset": 22331,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 14467,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 14466,
+                    "startOffset": 14460
+                },
+                "b0070": {
+                    "endOffset": 14466,
+                    "startOffset": 14460
+                }
+            },
+            "secId": "s0015",
+            "sentence": "As provided in Dataset S1, the forcefield parameters for the Ala residue amidated by NH2 (ALN) were generated according to a published procedure using both \u03b1-helix and \u03b2-strand conformations for the RESP charge calculation [3,14].",
+            "startOffset": 14237,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 20556,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "To test this hypothesis, a set of 20 unique, independent, all-atom, isothermal\u2013isobaric, and 400-ns LMD simulations of AAQAA in the anti-parallel conformation were carried out at 300 K and 1 atm using the FF14SB forcefield (AMBER 14 reference manual, 29\u201331) with 2.0 set for SCNBs of \u03d5 and \u03c8 and SCEEs of \u03d5 and \u03c8.",
+            "startOffset": 20243,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 23855,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This conformation was identified from the afore-described simulations using 2.0 for the SCNBs and the SCEEs and the anti-parallel \u03b2-strand conformation as the initial conformation.",
+            "startOffset": 23675,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 13286,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 12957,
+                    "startOffset": 12953
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Using model peptide AcO-(AAQAA)3-NH2, a pentadecapeptide known to adopt the \u03b1-helix conformation in water [11] and abbreviated as AAQAA hereafter, molecular dynamics simulations show (1) that reducing the \u03d5 and \u03c8 scaling factors readily converts the \u03b1-helix conformation of AAQAA to \u03b2-strand conformations, and (2) that increasing these scaling factors converts the anti-parallel \u03b2-strand conformation of AAQAA to the \u03b1-helix conformation.",
+            "startOffset": 12847,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14236,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The \u03b1-helix conformation was obtained from an LMD simulation that converted the anti-parallel \u03b2-strand conformation to the \u03b1-helix conformation.",
+            "startOffset": 14092,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 18915,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Using dialanine as a model peptide (Fig. 1), this author finds that distances 1C\u20132C and 1N\u20132N in the \u03b1-helical conformation are 16\u201323% shorter than those in the anti-parallel and parallel \u03b2-strand conformations of the peptide (Table 1), wherein XC and XN are the carbonyl carbon atom and the amide nitrogen atom of Residue X, respectively.",
+            "startOffset": 18576,
+            "title": "Repulsions among protein backbone atoms in the \u03b1-helix or \u03b2-strand conformation"
+        },
+        {
+            "endOffset": 19704,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Therefore, it is conceivable that the 1\u20134 interactions between 1C and 2C and between 1N and 2N of any amino acid sequence are more repulsive in the \u03b1-helix conformation than in the \u03b2-strand conformations.",
+            "startOffset": 19500,
+            "title": "Repulsions among protein backbone atoms in the \u03b1-helix or \u03b2-strand conformation"
+        },
+        {
+            "endOffset": 24509,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "These results confirm that the modified FF14SB forcefield with 2.0 for the SCNBs and the SCEEs has a high propensity for adopting the \u03b1-helix conformation and a low propensity for the \u03b2-strand conformation.",
+            "startOffset": 24303,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 16199,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Each simulation was performed on a 12-core Apple Mac Pro with Intel Westmere (2.40/2.93 GHz).",
+            "startOffset": 16106,
+            "title": "Low-mass molecular dynamics simulations"
+        },
+        {
+            "endOffset": 22719,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "By contrast, when using 1.0 for the SCNBs and the SCEEs, none of the 20 200-ns simulations showed conversion from the initial anti-parallel \u03b2-strand conformation to the \u03b1-helix conformation.",
+            "startOffset": 22529,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 24698,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "When using 1.0 for the SCNBs and the SCEEs, the initial full \u03b1-helix conformation completely converted, within 10 ns, to \u03b2-strand conformations in all 20 200-ns LMD simulations (Table S1).",
+            "startOffset": 24510,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 20242,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Because protein backbone torsions \u03d5 and \u03c8 govern the 1C\u20132C and 1N\u20132N distances, respectively, the afore-described finding suggests that increasing SCNBs of \u03d5 and \u03c8 and/or SCEEs of \u03d5 and \u03c8 can lessen the repulsions among 1\u20134 backbone atoms more in the \u03b1-helical conformation than in the two \u03b2-strand conformations and can consequently increase the propensity of a forcefield for the \u03b1-helical conformation and decrease the propensity for the two \u03b2-strand conformations.",
+            "startOffset": 19774,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        },
+        {
+            "endOffset": 26369,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 26368,
+                    "startOffset": 26365
+                }
+            },
+            "secId": "s0040",
+            "sentence": "In addition, the present finding also suggests that the imbalanced propensities of a forcefield for different secondary structure elements can be resolved at the root level by adjusting SCNBs of \u03d5 and \u03c8 and/or SCEEs of \u03d5 and \u03c8 without implementing four backbone torsions (\u03d5, \u03c8, \u03d5\u2032, and \u03c8\u2032) as these backbone torsions do not have physical justification [3].",
+            "startOffset": 26013,
+            "title": "SCNB and SCEE as regulators for equilibrium between \u03b1-helix and \u03b2-strand"
+        },
+        {
+            "endOffset": 23544,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "These results show that the modified FF14SB forcefield with 1.0 for the SCNBs and the SCEEs has a low propensity for the \u03b1-helix conformation and a high propensity for the \u03b2-strand conformation.",
+            "startOffset": 23350,
+            "title": "Interconversion between \u03b1-helix and \u03b2-strand conformations of AAQAA"
+        }
+    ],
+    "docId": "S0006291X14022669",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "pang@mayo.edu",
+                "first": "Yuan Ping",
+                "initial": "Y.P.",
+                "last": "Pang"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.12.084",
+        "firstpage": "183",
+        "issn": "0006291X",
+        "keywords": [
+            "1-4 nonbonded interaction scaling factors",
+            "Force field",
+            "Protein backbone torsions",
+            "Secondary structure elements",
+            "\u03b1-Helix",
+            "\u03b2-Strand"
+        ],
+        "lastpage": "186",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Use of 1-4 interaction scaling factors to control the conformational equilibrium between \u03b1-helix and \u03b2-strand"
+    }
+}

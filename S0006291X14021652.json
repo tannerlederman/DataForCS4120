@@ -1,0 +1,2373 @@
+{
+    "abstract": "Cell surface receptors and secreted proteins play important roles in neural recognition processes, but because their site of action can be a long distance from neuron cell bodies, antibodies that label these proteins are valuable to understand their function. The zebrafish embryo is a popular vertebrate model for neurobiology, but suffers from a paucity of validated antibody reagents. Here, we use the entire ectodomain of neural zebrafish cell surface or secreted proteins expressed in mammalian cells to select monoclonal antibodies to ten different antigens. The antibodies were characterised by Western blotting and the sensitivity of their epitopes to formalin fixation was determined. The rearranged antigen binding regions of the antibodies were amplified and cloned which enabled expression in a recombinant form from a single plasmid. All ten antibodies gave specific staining patterns within formalin-treated embryonic zebrafish brains, demonstrating that this generalised approach is particularly efficient to elicit antibodies that stain native antigen in fixed wholemount tissue. Finally, we show that additional tags can be easily added to the recombinant antibodies for convenient multiplex staining. The antibodies and the approaches described here will help to address the lack of well-defined antibody reagents in zebrafish research.",
+    "author_highlights": [
+        {
+            "endOffset": 14668,
+            "sentence": "A panel of ten recombinant monoclonal antibodies to zebrafish neural receptors.",
+            "startOffset": 14589
+        },
+        {
+            "endOffset": 14714,
+            "sentence": "Antibodies tested on fixed wholemount tissue.",
+            "startOffset": 14669
+        },
+        {
+            "endOffset": 14783,
+            "sentence": "Antibodies cloned into single, openly available expression plasmids.",
+            "startOffset": 14715
+        },
+        {
+            "endOffset": 14866,
+            "sentence": "Multiple recombinant antibody tags facilitate simultaneous multi-antigen staining.",
+            "startOffset": 14784
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Jeff W.",
+                    "initial": "J.W.",
+                    "last": "Lichtman"
+                },
+                {
+                    "first": "Winfried",
+                    "initial": "W.",
+                    "last": "Denk"
+                }
+            ],
+            "doi": "10.1126/science.1209168",
+            "firstpage": "618",
+            "issn": "00368075",
+            "lastpage": "623",
+            "pub_year": 2011,
+            "title": "The big and the small: Challenges of imaging the brain's circuits",
+            "volume": "334"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Joshua L.",
+                    "initial": "J.L.",
+                    "last": "Morgan"
+                },
+                {
+                    "first": "Jeff W.",
+                    "initial": "J.W.",
+                    "last": "Lichtman"
+                }
+            ],
+            "doi": "10.1038/nmeth.2480",
+            "firstpage": "494",
+            "issn": "15487091",
+            "lastpage": "500",
+            "pmid": "23722208",
+            "pub_year": 2013,
+            "title": "Why not connectomics?",
+            "volume": "10"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "O'Donnell"
+                },
+                {
+                    "first": "Rebecca K.",
+                    "initial": "R.K.",
+                    "last": "Chance"
+                },
+                {
+                    "first": "Greg J.",
+                    "initial": "G.J.",
+                    "last": "Bashaw"
+                }
+            ],
+            "doi": "10.1146/annurev.neuro.051508.135614",
+            "firstpage": "383",
+            "issn": "0147006X",
+            "lastpage": "412",
+            "pmid": "19400716",
+            "pub_year": 2009,
+            "title": "Axon growth and guidance: Receptor regulation and signal transduction",
+            "volume": "32"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Rainer W.",
+                    "initial": "R.W.",
+                    "last": "Friedrich"
+                },
+                {
+                    "first": "Gilad A.",
+                    "initial": "G.A.",
+                    "last": "Jacobson"
+                },
+                {
+                    "first": "Peixin",
+                    "initial": "P.",
+                    "last": "Zhu"
+                }
+            ],
+            "doi": "10.1016/j.cub.2010.02.039",
+            "firstpage": "R371",
+            "issn": "09609822",
+            "lastpage": "R381",
+            "pmid": "21749961",
+            "pub_year": 2010,
+            "title": "Circuit Neuroscience in Zebrafish",
+            "volume": "20"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Albert Pan"
+                },
+                {
+                    "first": "Tom",
+                    "initial": "T.",
+                    "last": "Freundlich"
+                },
+                {
+                    "first": "Tamily A.",
+                    "initial": "T.A.",
+                    "last": "Weissman"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Schoppik"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Cindy Wang"
+                },
+                {
+                    "first": "Steve",
+                    "initial": "S.",
+                    "last": "Zimmerman"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Ciruna"
+                },
+                {
+                    "first": "Joshua R.",
+                    "initial": "J.R.",
+                    "last": "Sanes"
+                },
+                {
+                    "first": "Jeff W.",
+                    "initial": "J.W.",
+                    "last": "Lichtman"
+                },
+                {
+                    "first": "Alexander F.",
+                    "initial": "A.F.",
+                    "last": "Schier"
+                }
+            ],
+            "doi": "10.1242/dev.094631",
+            "firstpage": "2835",
+            "issn": "09501991",
+            "lastpage": "2846",
+            "pmid": "23757414",
+            "pub_year": 2013,
+            "title": "Zebrabow: Multispectral cell labeling for cell tracing and lineage analysis in zebrafish",
+            "volume": "140"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Bill",
+                    "initial": "B.",
+                    "last": "Trevarrow"
+                },
+                {
+                    "first": "Daniel L.",
+                    "initial": "D.L.",
+                    "last": "Marks"
+                },
+                {
+                    "first": "Charles B.",
+                    "initial": "C.B.",
+                    "last": "Kimmel"
+                }
+            ],
+            "doi": "10.1016/0896-6273(90)90194-K",
+            "firstpage": "669",
+            "issn": "08966273",
+            "lastpage": "679",
+            "pmid": "2344406",
+            "pub_year": 1990,
+            "title": "Organization of hindbrain segments in the zebrafish embryo",
+            "volume": "4"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "C\u00e9cile",
+                    "initial": "C.",
+                    "last": "Crosnier"
+                },
+                {
+                    "first": "Neil",
+                    "initial": "N.",
+                    "last": "Vargesson"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Gschmeissner"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Ariza-McNaughton"
+                },
+                {
+                    "first": "Alastair",
+                    "initial": "A.",
+                    "last": "Morrison"
+                },
+                {
+                    "first": "Julian",
+                    "initial": "J.",
+                    "last": "Lewis"
+                }
+            ],
+            "doi": "10.1242/dev.01644",
+            "firstpage": "1093",
+            "issn": "09501991",
+            "lastpage": "1104",
+            "pmid": "15689380",
+            "pub_year": 2005,
+            "title": "Delta-Notch signalling controls commitment to a secretory fate in the zebrafish intestine",
+            "volume": "132"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Gianluca",
+                    "initial": "G.",
+                    "last": "Deflorian"
+                },
+                {
+                    "first": "Mario",
+                    "initial": "M.",
+                    "last": "Cinquanta"
+                },
+                {
+                    "first": "Carlo",
+                    "initial": "C.",
+                    "last": "Beretta"
+                },
+                {
+                    "first": "Annunziata",
+                    "initial": "A.",
+                    "last": "Venuto"
+                },
+                {
+                    "first": "Cristina",
+                    "initial": "C.",
+                    "last": "Santoriello"
+                },
+                {
+                    "first": "Danila",
+                    "initial": "D.",
+                    "last": "Baldessari"
+                },
+                {
+                    "first": "Federica",
+                    "initial": "F.",
+                    "last": "Pezzimenti"
+                },
+                {
+                    "first": "Marisa",
+                    "initial": "M.",
+                    "last": "Aliprandi"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Mione"
+                },
+                {
+                    "first": "Ario",
+                    "initial": "A.",
+                    "last": "de Marco"
+                }
+            ],
+            "doi": "10.1016/j.jim.2009.04.012",
+            "firstpage": "9",
+            "issn": "00221759",
+            "lastpage": "17",
+            "pmid": "19410577",
+            "pub_year": 2009,
+            "title": "Monoclonal antibodies isolated by large-scale screening are suitable for labeling adult zebrafish (Danio rerio) tissues and cell structures",
+            "volume": "346"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Traver"
+                },
+                {
+                    "first": "Barry H.",
+                    "initial": "B.H.",
+                    "last": "Paw"
+                },
+                {
+                    "first": "Kenneth D.",
+                    "initial": "K.D.",
+                    "last": "Poss"
+                },
+                {
+                    "first": "W. Todd",
+                    "initial": "W.T.",
+                    "last": "Penberthy"
+                },
+                {
+                    "first": "Shuo",
+                    "initial": "S.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Leonard I.",
+                    "initial": "L.I.",
+                    "last": "Zon"
+                }
+            ],
+            "doi": "10.1038/ni1007",
+            "firstpage": "1238",
+            "issn": "15292908",
+            "lastpage": "1246",
+            "pmid": "14608381",
+            "pub_year": 2003,
+            "title": "Transplantation and in vivo imaging of multilineage engraftment in zebrafish bloodless mutants",
+            "volume": "4"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "C\u00e9cile",
+                    "initial": "C.",
+                    "last": "Crosnier"
+                },
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "Staudt"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1186/1741-7007-8-76",
+            "issn": "17417007",
+            "pmid": "20525357",
+            "pub_year": 2010,
+            "title": "A rapid and scalable method for selecting recombinant mouse monoclonal antibodies",
+            "volume": "8"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "Staudt"
+                },
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "M\u00fcller-Sienerth"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2013.12.033",
+            "firstpage": "785",
+            "issn": "0006291X",
+            "lastpage": "790",
+            "pmid": "24472540",
+            "pub_year": 2014,
+            "title": "Development of an antigen microarray for high throughput monoclonal antibody selection",
+            "volume": "445"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "M\u00fcller-Sienerth"
+                },
+                {
+                    "first": "C\u00e9cile",
+                    "initial": "C.",
+                    "last": "Crosnier"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                },
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "Staudt"
+                }
+            ],
+            "doi": "10.1007/978-1-62703-992-5_14",
+            "firstpage": "229",
+            "issn": "10643745",
+            "lastpage": "240",
+            "pmid": "24515469",
+            "pub_year": 2014,
+            "title": "Cloning of recombinant monoclonal antibodies from hybridomas in a single mammalian expression plasmid",
+            "volume": "1131"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "K. Mark",
+                    "initial": "K.M.",
+                    "last": "Bushell"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "S\u00f6llner"
+                },
+                {
+                    "first": "Benjamin",
+                    "initial": "B.",
+                    "last": "Schuster-Boeckler"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Bateman"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1101/gr.7187808",
+            "firstpage": "622",
+            "issn": "10889051",
+            "lastpage": "630",
+            "pmid": "18296487",
+            "pub_year": 2008,
+            "title": "Large-scale screening for novel low-affinity extracellular protein interactions",
+            "volume": "18"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "S\u00f6llner"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1186/gb-2009-10-9-r99",
+            "issn": "14747596",
+            "pmid": "19765300",
+            "pub_year": 2009,
+            "title": "A cell surface interaction network of neural leucine-rich repeat receptors",
+            "volume": "10"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Martin"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "S\u00f6llner"
+                },
+                {
+                    "first": "Varodom",
+                    "initial": "V.",
+                    "last": "Charoensawan"
+                },
+                {
+                    "first": "Boris",
+                    "initial": "B.",
+                    "last": "Adryan"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Thisse"
+                },
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Thisse"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Teichmann"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1074/mcp.M110.004119",
+            "firstpage": "2654",
+            "issn": "15359476",
+            "lastpage": "2665",
+            "pmid": "20802085",
+            "pub_year": 2010,
+            "title": "Construction of a large extracellular protein interaction network and its resolution by spatiotemporal expression profiling",
+            "volume": "9"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Marcus",
+                    "initial": "M.",
+                    "last": "Gallagher-Jones"
+                },
+                {
+                    "first": "Colin",
+                    "initial": "C.",
+                    "last": "Barker"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1016/j.ab.2012.01.034",
+            "firstpage": "45",
+            "issn": "00032697",
+            "lastpage": "53",
+            "pmid": "22342946",
+            "pub_year": 2012,
+            "title": "A benchmarked protein microarray-based platform for the identification of novel low-affinity extracellular protein interactions",
+            "volume": "424"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Jason S.",
+                    "initial": "J.S.",
+                    "last": "Kerr"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.3791/3881",
+            "issn": "1940087X",
+            "pmid": "22414956",
+            "pub_year": 2012,
+            "title": "Avidity-based extracellular interaction screening (AVEXIS) for the scalable detection of low-affinity extracellular receptor-ligand interactions"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "S. Josefin",
+                    "initial": "S.J.",
+                    "last": "Bartholdson"
+                },
+                {
+                    "first": "Leyla Y.",
+                    "initial": "L.Y.",
+                    "last": "Bustamante"
+                },
+                {
+                    "first": "Cecile",
+                    "initial": "C.",
+                    "last": "Crosnier"
+                },
+                {
+                    "first": "Steven",
+                    "initial": "S.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Susan",
+                    "initial": "S.",
+                    "last": "Lea"
+                },
+                {
+                    "first": "Julian C.",
+                    "initial": "J.C.",
+                    "last": "Rayner"
+                },
+                {
+                    "first": "Gavin J.",
+                    "initial": "G.J.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1371/journal.ppat.1003031",
+            "issn": "15537366",
+            "pmid": "23166499",
+            "pub_year": 2012,
+            "title": "Semaphorin-7A Is an Erythrocyte Receptor for P. falciparum Merozoite-Specific TRAP Homolog, MTRAP",
+            "volume": "8"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Melanie",
+                    "initial": "M.",
+                    "last": "Herscovitch"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Perkins"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Baltus"
+                },
+                {
+                    "first": "Melina",
+                    "initial": "M.",
+                    "last": "Fan"
+                }
+            ],
+            "doi": "10.1038/nbt.2177",
+            "firstpage": "316",
+            "issn": "10870156",
+            "lastpage": "317",
+            "pmid": "22491276",
+            "pub_year": 2012,
+            "title": "Addgene provides an open forum for plasmid sharing",
+            "volume": "30"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Takeo",
+                    "initial": "T.",
+                    "last": "Mizuno"
+                },
+                {
+                    "first": "Miwa",
+                    "initial": "M.",
+                    "last": "Kawasaki"
+                },
+                {
+                    "first": "Masakiyo",
+                    "initial": "M.",
+                    "last": "Nakahira"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Kagamiyama"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Kikuchi"
+                },
+                {
+                    "first": "Hitoshi",
+                    "initial": "H.",
+                    "last": "Okamoto"
+                },
+                {
+                    "first": "Kensaku",
+                    "initial": "K.",
+                    "last": "Mori"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yoshihara"
+                }
+            ],
+            "doi": "10.1006/mcne.2001.1007",
+            "firstpage": "119",
+            "issn": "10447431",
+            "lastpage": "130",
+            "pmid": "11461158",
+            "pub_year": 2001,
+            "title": "Molecular diversity in zebrafish NCAM family: Three members with different VASE usage and distinct localization",
+            "volume": "18"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Malene",
+                    "initial": "M.",
+                    "last": "Winther"
+                },
+                {
+                    "first": "Vladimir",
+                    "initial": "V.",
+                    "last": "Berezin"
+                },
+                {
+                    "first": "Peter Schledermann",
+                    "initial": "P.S.",
+                    "last": "Walmod"
+                }
+            ],
+            "doi": "10.1016/j.biocel.2011.11.020",
+            "firstpage": "441",
+            "issn": "13572725",
+            "lastpage": "446",
+            "pub_year": 2012,
+            "title": "NCAM2/OCAM/RNCAM: Cell adhesion molecule with a role in neuronal compartmentalization",
+            "volume": "44"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "C. A.",
+                    "initial": "C.A.",
+                    "last": "Devine"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Key"
+                }
+            ],
+            "doi": "10.1016/j.ydbio.2007.10.040",
+            "firstpage": "371",
+            "issn": "00121606",
+            "lastpage": "383",
+            "pmid": "18061159",
+            "pub_year": 2008,
+            "title": "Robo-Slit interactions regulate longitudinal axon pathfinding in the embryonic vertebrate brain",
+            "volume": "313"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Laurie C.",
+                    "initial": "L.C.",
+                    "last": "Williams-Hogarth"
+                },
+                {
+                    "first": "Adam C.",
+                    "initial": "A.C.",
+                    "last": "Puche"
+                },
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Torrey"
+                },
+                {
+                    "first": "Xiaohe",
+                    "initial": "X.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Insuk",
+                    "initial": "I.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Alex L.",
+                    "initial": "A.L.",
+                    "last": "Kolodkin"
+                },
+                {
+                    "first": "Michael T.",
+                    "initial": "M.T.",
+                    "last": "Shipley"
+                },
+                {
+                    "first": "Gabriele V.",
+                    "initial": "G.V.",
+                    "last": "Ronnett"
+                }
+            ],
+            "doi": "10.1002/1096-9861(20000807)423:4<565::AID-CNE3>3.0.CO;2-F",
+            "firstpage": "565",
+            "issn": "00219967",
+            "lastpage": "578",
+            "pmid": "10880988",
+            "pub_year": 2000,
+            "title": "Expression of semaphorins in developing and regenerating olfactory epithelium",
+            "volume": "423"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Shinobu",
+                    "initial": "S.",
+                    "last": "Inagaki"
+                },
+                {
+                    "first": "Yoshiharu",
+                    "initial": "Y.",
+                    "last": "Ohoka"
+                },
+                {
+                    "first": "Hisako",
+                    "initial": "H.",
+                    "last": "Sugimoto"
+                },
+                {
+                    "first": "Shiho",
+                    "initial": "S.",
+                    "last": "Fujioka"
+                },
+                {
+                    "first": "Mayumi",
+                    "initial": "M.",
+                    "last": "Amazaki"
+                },
+                {
+                    "first": "Hitomi",
+                    "initial": "H.",
+                    "last": "Kurinami"
+                },
+                {
+                    "first": "Nobuo",
+                    "initial": "N.",
+                    "last": "Miyazaki"
+                },
+                {
+                    "first": "Masaya",
+                    "initial": "M.",
+                    "last": "Tohyama"
+                },
+                {
+                    "first": "Tatsuo",
+                    "initial": "T.",
+                    "last": "Furuyama"
+                }
+            ],
+            "doi": "10.1074/jbc.M009051200",
+            "firstpage": "9174",
+            "issn": "00219258",
+            "lastpage": "9181",
+            "pmid": "11134026",
+            "pub_year": 2001,
+            "title": "Sema4C, a Transmembrane Semaphorin, Interacts with a Post-synaptic Density Protein, PSD-95",
+            "volume": "276"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Thisse"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Thisse"
+                }
+            ],
+            "doi": "10.1038/nprot.2007.514",
+            "firstpage": "59",
+            "issn": "17542189",
+            "lastpage": "69",
+            "pmid": "18193022",
+            "pub_year": 2008,
+            "title": "High-resolution in situ hybridization to whole-mount zebrafish embryos",
+            "volume": "3"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 18268,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 18179,
+                    "startOffset": 18174
+                },
+                "b0035": {
+                    "endOffset": 18179,
+                    "startOffset": 18174
+                },
+                "b0040": {
+                    "endOffset": 18179,
+                    "startOffset": 18174
+                }
+            },
+            "secId": "s0005",
+            "sentence": "While monoclonal antibodies for use as tissue or cellular markers can easily be raised using the \u201cshotgun\u201d method [6\u20138], their use is initially limited because the identity of the antigen is at first unknown.",
+            "startOffset": 18060,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26418,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 26178,
+                    "startOffset": 26174
+                }
+            },
+            "secId": "s0055",
+            "sentence": "As expected, the protein, which is implicated in neurite outgrowth [21], was located in these commissures at 2.5 dpf (Fig. 2AI), and other tracts (Fig. 2AII) including the dorso\u2013ventral diencephalic tract (dvdt), the tracts of the posterior (tpc) and postoptic (tpoc) commissures and in the retina (Fig. 2AIII).",
+            "startOffset": 26107,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 19112,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 19111,
+                    "startOffset": 19104
+                },
+                "b0055": {
+                    "endOffset": 19111,
+                    "startOffset": 19104
+                },
+                "b0060": {
+                    "endOffset": 19111,
+                    "startOffset": 19104
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recently, we reported systematic and scalable methods for the selection and cloning of recombinant monoclonal antibodies [10\u201312].",
+            "startOffset": 18983,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31911,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "At the junction of the telencephalon and diencephalon, there was an increase in the Lrrc3b-positive structures at the cellular periphery (arrow in Fig. 4BII).",
+            "startOffset": 31753,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 28950,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "sema4c transcripts were expressed throughout the developing brain, but enriched in basal parts of the fore-, mid- and hindbrain.",
+            "startOffset": 28822,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 35039,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "By using different tags, multiple primary and subsequently secondary antibodies can be simultaneously added to a staining reaction, cutting down the time required for dual labelling experiments significantly.",
+            "startOffset": 34831,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30704,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Finally, anti-Igsf21b stained distinct spots within the developing forebrain (arrow in Fig. 3F).",
+            "startOffset": 30608,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 28571,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Robo1 is localised in a line of cells starting in the dorsal thalamus leading to dorsal parts of the tegmentum (arrow in Fig. 2HI).",
+            "startOffset": 28440,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 18849,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Also, extracellular proteins are usually modified by glycans and disulphide bonds which are not easily mimicked by chemically-synthesized peptides, which are often used as antigens for generating antibodies.",
+            "startOffset": 18642,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24507,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 24447,
+                    "startOffset": 24443
+                },
+                "b0055": {
+                    "endOffset": 24392,
+                    "startOffset": 24388
+                }
+            },
+            "secId": "s0050",
+            "sentence": "We found that plasmids encoding functional antibodies were more easily identified using a transfection and ELISA-based screening approach [11] rather than the sequencing method used previously [10]; antibodies were then expressed recombinantly and purified.",
+            "startOffset": 24250,
+            "title": "Monoclonal antibody selection, cloning and initial validation"
+        },
+        {
+            "endOffset": 33650,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "We have used this method to select a panel of ten monoclonal antibodies against zebrafish cell surface receptors expressed in the developing nervous system.",
+            "startOffset": 33494,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28204,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Dorsal views of the optic tectum showed Lrrc3b in neuropil-rich regions (arrow in Fig. 2GII), often concentrated in punctate structures (asterisk in Fig. 2GIII) and more medially along axons positioned in cell body-dense regions (arrow in Fig. 2GIII).",
+            "startOffset": 27953,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 32186,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Lrrc3b and Sema4c were colocalised at some sites (arrows in Fig. 4DIII).",
+            "startOffset": 32114,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 34147,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "In the three instances where the gene transcripts were localised by in situ hybridisation to identifiable subpopulations of neurons (ncam2, igsf21a and brevican), the corresponding protein gave the expected staining pattern, although typically along the projecting axons rather than the soma of the neuron as might be expected.",
+            "startOffset": 33820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29217,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In the midbrain, Sema4c was located on the surface of cells at the dorsal and posterior edge of the two tectal lobes.",
+            "startOffset": 29100,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 34344,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Many genes encoding neural receptor proteins, however, are expressed throughout the developing brain using standard in situ protocols making hypotheses regarding their functional role challenging.",
+            "startOffset": 34148,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29832,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 29831,
+                    "startOffset": 29827
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Sema4c was detected at the apical site of the olfactory epithelium (arrowhead in Fig. 3A) consistent with its documented role in olfaction [23].",
+            "startOffset": 29688,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 21529,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 21458,
+                    "startOffset": 21454
+                }
+            },
+            "secId": "s0025",
+            "sentence": "ELISAs were performed essentially as described [17] using 100 \u03bcl of purified recombinant antibody diluted in PBS/0.2% BSA.",
+            "startOffset": 21407,
+            "title": "Antibody validation by Western blotting and formalin fixation by ELISA"
+        },
+        {
+            "endOffset": 25761,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "An overall summary of the staining patterns is provided in Supplementary Table 1.",
+            "startOffset": 25680,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 26662,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Similarly, igsf21a is transcribed in the retina and telencephalic nuclei at 2.5 dpf (Fig. 2B); correspondingly, the antibody strongly stained the retina (arrows in Fig. 2BI), and, more weakly, the telencephalon (asterisk in Fig. 2BI) at 3 dpf.",
+            "startOffset": 26419,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 21070,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 21069,
+                    "startOffset": 21065
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The plasmids encoding all recombinant antibodies can be obtained from Addgene [19].",
+            "startOffset": 20987,
+            "title": "Antibody selection, screening and cloning"
+        },
+        {
+            "endOffset": 18398,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The paucity of antibody reagents against defined zebrafish antigens is particularly acute for cell surface and secreted proteins.",
+            "startOffset": 18269,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35780,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Finally, the methods and antibodies described here will help to address the paucity of validated antibodies for zebrafish research.",
+            "startOffset": 35649,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23242,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "To maximise the probability of selecting antibodies that recognise neural receptor proteins in fixed tissue, we reasoned it was important to use antigens containing epitopes found on the native protein.",
+            "startOffset": 23040,
+            "title": "Preparation of neural extracellular protein antigens"
+        },
+        {
+            "endOffset": 31473,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "At the same site in the same embryo, anti-Lrrc3b detected with anti-Bio-HRP (Fig. 4B) and anti-Sema4c detected with an anti-FLAG-AP (Fig. 4C) gave distinct expression patterns when merged (Fig. 4D).",
+            "startOffset": 31275,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 32113,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Finally, Lrrc3b was again detected in subcellular puncta at the cellular periphery (arrow in Fig. 4BIII) whereas Sema4c was detected in a more diffuse pattern around cell bodies (arrows in Fig. 4CIII).",
+            "startOffset": 31912,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 32423,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "These plasmids enable rapid and convenient switching of protein tags on recombinant antibodies by simple subcloning procedures, and permit the simultaneous use of these antibodies in double or even triple antibody labelling experiments.",
+            "startOffset": 32187,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 22387,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Zebrafish embryos were fixed with 4% formalin for 3 h at room temperature or 4 \u00b0C overnight, washed with PBT, and blocked (PBS, 10% goat serum, 0.6% Triton and 1% DMSO) for 1 h at room temperature.",
+            "startOffset": 22190,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 23776,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 23775,
+                    "startOffset": 23771
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The ectodomains were expressed with C-terminal tags that enabled enzymatic biotinylation and a 6-His tag for purification [16].",
+            "startOffset": 23649,
+            "title": "Preparation of neural extracellular protein antigens"
+        },
+        {
+            "endOffset": 26962,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "brevican is strongly transcribed in the ventral longitudinal tract (vlt) and discrete neurons throughout the forebrain (Fig. 2C), consistent with the antibody staining at 5 dpf within the vlt and forebrain tracts, including punctate staining in structures surrounding the tracts (arrow in Fig. 2CI).",
+            "startOffset": 26663,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 30607,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "In the embryonic midbrain, we found the highest concentration of CD276 on the surface of posterior and lateral neurons, often concentrated in spots around a cell body (arrow in Fig. 3E).",
+            "startOffset": 30421,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 31752,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "In the area of the olfactory bulb, anti-Lrrc3b stained clustered puncta (arrow in Fig. 4BI), or in similarly-sized rings (arrowhead in Fig. 4BI) whereas anti-Sema4c stained with a grainy appearance (arrow in Fig. 4CI) with some larger, brighter staining (arrowhead in Fig. 4CI).",
+            "startOffset": 31474,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 25974,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Three genes (ncam2, igsf21a, and brevican) are transcribed in discrete subpopulations of neurons within the developing brain, and the antibodies detected the corresponding protein products in the expected pattern.",
+            "startOffset": 25761,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 27952,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Lrrc3b was strongly expressed on axons within the tract of the posterior commissure, the epiphysis, discrete regions in the telencephalon, hypothalamus and the dorsal midbrain (Fig. 2GI).",
+            "startOffset": 27765,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 19695,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We also extend the functionality of our antibodies by adding additional protein tags to facilitate applications such as convenient multiplex staining.",
+            "startOffset": 19545,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31274,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The regions encoding the anti-Lrrc3b and Sema4C antibodies were subcloned into the Bio-6-His-tagged and FLAG-tagged antibody plasmids respectively, expressed, purified, and used to simultaneously stain the rostral nervous system at 5 dpf (Fig. 4A).",
+            "startOffset": 31026,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 21241,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 21191,
+                    "startOffset": 21187
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Western blotting was performed as described [18] using either non-reducing or reducing conditions.",
+            "startOffset": 21143,
+            "title": "Antibody validation by Western blotting and formalin fixation by ELISA"
+        },
+        {
+            "endOffset": 22977,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Subsequently, the second antigen was labelled with a FLAG-tagged antibody which was detected with an alkaline phosphatase coupled anti-FLAG-antibody and visualized with Fast Red (Invitrogen).",
+            "startOffset": 22786,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 23944,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The purified proteins typically resolved as a single smear by SDS\u2013PAGE centred on their expected mass, presumably due to the presence of multiple glycoforms (Fig. 1A).",
+            "startOffset": 23777,
+            "title": "Preparation of neural extracellular protein antigens"
+        },
+        {
+            "endOffset": 28667,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "At this stage, there was clear labelling in the posterior hypothalamus (arrowhead in Fig. 2HI).",
+            "startOffset": 28572,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 17696,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This is a particular limitation for cell surface and secreted factors whose products typically function at a distance away from the cell body of the neuron, making antibodies that work on fixed neuronal tissue valuable reagents.",
+            "startOffset": 17468,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28821,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Precursor photoreceptor cells are labelled in the epiphysis and axons projecting posteriorly from the epithalamus to the midbrain (asterisk in Fig. 2HI).",
+            "startOffset": 28668,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 18641,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 18640,
+                    "startOffset": 18637
+                }
+            },
+            "secId": "s0005",
+            "sentence": "One explanation is that the glycans generally present on zebrafish extracellular proteins are highly immunogenic in mammals \u2013 which are commonly used for raising antibodies \u2013 so that the elicited antibodies are often not protein-specific [9].",
+            "startOffset": 18399,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29417,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Finally, the Kita receptor is located in neurons within the developing forebrain (arrow in Fig. 2JI), midbrain (arrow in Fig. 2JII) and in axon-rich ventral regions of the rostral brain (Fig. 2JIII).",
+            "startOffset": 29218,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 24249,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 24248,
+                    "startOffset": 24241
+                },
+                "b0060": {
+                    "endOffset": 24248,
+                    "startOffset": 24241
+                }
+            },
+            "secId": "s0050",
+            "sentence": "To efficiently select antibodies to multiple different antigens in parallel, we immunised mice with pools of proteins and, after hybridoma generation and screening, antibodies of interest were cloned into a single expression plasmid [10,12].",
+            "startOffset": 24008,
+            "title": "Monoclonal antibody selection, cloning and initial validation"
+        },
+        {
+            "endOffset": 32623,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The zebrafish is now a well-established model organism for neurobiology research and has proved particularly valuable for studying the very earliest stages of vertebrate neural development.",
+            "startOffset": 32434,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35196,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "It would be a relatively simple procedure to add additional tags to the recombinant antibodies to facilitate different detection methods or other functions.",
+            "startOffset": 35040,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27637,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In the hindbrain, Igsf21b is expressed in a stripy pattern, most likely axons leaving the vlt (Fig. 2DIII).",
+            "startOffset": 27530,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 28439,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 28310,
+                    "startOffset": 28306
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Robo is a guidance receptor and robo1-deficient zebrafish have defasciculated axons in the forebrain [22], consistent with this, anti-Robo1 labelled many forebrain commissures at 2 dpf, and some developing nuclei in the telencephalon.",
+            "startOffset": 28205,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 21733,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "To test antibody epitopes for formalin fixation sensitivity, immobilised protein ectodomains were incubated for up to 120 min in 4% formalin and washed in PBS before the addition of the primary antibody.",
+            "startOffset": 21530,
+            "title": "Antibody validation by Western blotting and formalin fixation by ELISA"
+        },
+        {
+            "endOffset": 30420,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "CD276 was detected within the anterior commissure and was highly enriched on the surface of neurons in the telencephalon and hypothalamus (arrow in Fig. 3D).",
+            "startOffset": 30263,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 30262,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Kita was localised along axon tracts (arrow in Fig. 3B) and also the surface of the cell body (arrows in Fig. 3C); notably, neurons at the telencephalon-hypothalamus border were not stained with anti-Kita (Fig. 3B).",
+            "startOffset": 30047,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 16528,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 16527,
+                    "startOffset": 16524
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The intercellular connectivity of neurons is critical for correct function, but detailed descriptions of neuronal wiring circuits in vertebrates are still lacking, and their functional outputs poorly understood [1].",
+            "startOffset": 16313,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34830,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Here, we have added biochemical tags which enable enzymatic monobiotinylation with an oligo-histidine tag, and also a FLAG tag.",
+            "startOffset": 34703,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20440,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Recombinant antibodies were purified either using Protein G columns, or Ni-NTA Sepharose if 6-His-tagged (Invitrogen).",
+            "startOffset": 20322,
+            "title": "Antigen and antibody expression and purification"
+        },
+        {
+            "endOffset": 20882,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 20881,
+                    "startOffset": 20877
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Amplification of both the rearranged antibody light and heavy chain was performed using total RNA extracted from \u223c106 hybridoma cells and both the amplified rearranged light and heavy antibody variable regions were recombined with an overlapping \u201clinker\u201d fragment by PCR and cloned into a single plasmid [10].",
+            "startOffset": 20573,
+            "title": "Antibody selection, screening and cloning"
+        },
+        {
+            "endOffset": 23458,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Extracellular proteins are posttranslationally modified with glycans and disulphide bonds, and so we expressed the entire ectodomains as soluble recombinant proteins in mammalian cells which add these modifications.",
+            "startOffset": 23243,
+            "title": "Preparation of neural extracellular protein antigens"
+        },
+        {
+            "endOffset": 25468,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "We next used the antibodies to stain zebrafish embryos to determine if our approach led to the selection of antibodies that work on wholemount fixed tissue.",
+            "startOffset": 25312,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 31025,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "To facilitate multiplex staining applications, we constructed two plasmids containing C-terminal tags placed after the antibody heavy chain that contained either a biotinylatable peptide followed by a 6-His tag, or a FLAG tag (Fig. 4A).",
+            "startOffset": 30789,
+            "title": "Convenient dual antibody labelling using interchangeable recombinant antibody tags"
+        },
+        {
+            "endOffset": 22189,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The animal experiments described in this study were performed in accordance with local and national UK Home Office regulations.",
+            "startOffset": 22062,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 26106,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 26105,
+                    "startOffset": 26101
+                }
+            },
+            "secId": "s0055",
+            "sentence": "ncam2 transcripts are expressed by neurons giving rise to the anterior (ac) and postoptic (poc) commissures at 30 h (Fig. 2A) [20].",
+            "startOffset": 25975,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 27764,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Kitb was localised in tracts and cells in the caudal brain region (Fig. 2EI), and CD276 in the developing midbrain (Fig. 2FI).",
+            "startOffset": 27638,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 34702,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Recombinantly cloning antibodies has the advantage that they can be modified with additional functional groups relatively easily.",
+            "startOffset": 34573,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27529,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "For example, Igsf21b is located along the supraoptic tract (arrow in Fig. 2DI) and the prethalamus, tegmentum and the vlt (Fig. 2DII).",
+            "startOffset": 27395,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 20127,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 19997,
+                    "startOffset": 19990
+                },
+                "b0070": {
+                    "endOffset": 19997,
+                    "startOffset": 19990
+                },
+                "b0075": {
+                    "endOffset": 19997,
+                    "startOffset": 19990
+                },
+                "b0080": {
+                    "endOffset": 20126,
+                    "startOffset": 20122
+                }
+            },
+            "secId": "s0015",
+            "sentence": "The extracellular regions of zebrafish cell surface and secreted proteins which were previously used in protein interaction screens [13\u201315] were subcloned into a plasmid with C-terminal rat Cd4 domains 3 + 4, an enzymatically biotinylatable peptide and 6-His tags [16].",
+            "startOffset": 19858,
+            "title": "Antigen and antibody expression and purification"
+        },
+        {
+            "endOffset": 18059,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "One limitation of the zebrafish model, however, is the lack of high-quality antibody reagents that work on wholemount fixed tissue.",
+            "startOffset": 17928,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25679,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 25678,
+                    "startOffset": 25674
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Because a comprehensive expression atlas for each antibody is beyond the remit of this study, we focused on the developing zebrafish brain, and compared it to the corresponding in situ expression patterns [15].",
+            "startOffset": 25469,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 35648,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "While the antibodies described here will be useful for neurobiology research, the general approach of expressing receptor ectodomains in mammalian cells could be similarly applied to receptors expressed in other tissues.",
+            "startOffset": 35428,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24960,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Because these antibodies will be used to detect antigens in fixed tissue, we next quantified the rate at which the immunoreactivity of each antibody for its antigen was lost upon formalin treatment.",
+            "startOffset": 24762,
+            "title": "Monoclonal antibody selection, cloning and initial validation"
+        },
+        {
+            "endOffset": 22785,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "For double labelling, Bio-6-His-tagged antibodies were detected with an anti-Bio-HRP (BioRad) followed by TCA.",
+            "startOffset": 22675,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 20321,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 20236,
+                    "startOffset": 20232
+                },
+                "b0090": {
+                    "endOffset": 20264,
+                    "startOffset": 20260
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Biotinylation was achieved by cotransfecting a plasmid encoding a secreted Escherichia coli BirA enzyme [17], and proteins purified [18] before dialysing into PBS and storage at 4 \u00b0C until use.",
+            "startOffset": 20128,
+            "title": "Antigen and antibody expression and purification"
+        },
+        {
+            "endOffset": 24761,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "We first demonstrated that all antibodies except one (anti-CD276) recognised their respective unreduced antigen whereas antibodies to Sema4c, Bcan and Lrrc3b did not recognise reduced antigen suggesting they recognise a conformational epitope (Fig. 1B).",
+            "startOffset": 24508,
+            "title": "Monoclonal antibody selection, cloning and initial validation"
+        },
+        {
+            "endOffset": 22496,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Purified recombinant antibody was diluted 1:1 in 1% goat serum, 0.6% Triton and incubated overnight at 4 \u00b0C.",
+            "startOffset": 22388,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 33132,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Here, we have shown that using the entire ectodomains of receptors expressed in mammalian cells \u2013 and therefore contain structurally-critical posttranslational modifications such as glycans and disulphide bonds \u2013 can elicit antibodies that stain native antigen within fixed embryos; indeed, all ten antibodies that we selected to different antigens worked in this application.",
+            "startOffset": 32756,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33819,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 33818,
+                    "startOffset": 33814
+                }
+            },
+            "secId": "s0075",
+            "sentence": "Because of its experimental convenience, in situ hybridisation has been the major tool to determine where genes are transcribed during early zebrafish development [25].",
+            "startOffset": 33651,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20572,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 20571,
+                    "startOffset": 20567
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Monoclonal antibodies were raised and screened by microarray printing as described [11].",
+            "startOffset": 20484,
+            "title": "Antibody selection, screening and cloning"
+        },
+        {
+            "endOffset": 16747,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 16746,
+                    "startOffset": 16743
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Mapping neuronal networks is a challenging task because vast numbers of neurons are densely packed within the central nervous system, and their many processes often connect to neurons at anatomically distant sites [2].",
+            "startOffset": 16529,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16970,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 16969,
+                    "startOffset": 16966
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Mechanistically, the development of neuronal networks is regulated by a series of attractive and repulsive cues mediated by factors that are secreted by, and displayed on the surface of cells within the nervous system [3].",
+            "startOffset": 16748,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17178,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The expression of these guidance molecules is highly regulated and identifying when and where they are expressed is important to obtain a molecular understanding of neuronal network development and function.",
+            "startOffset": 16971,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33494,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Our results suggest that the additional resource required to express proteins in mammalian cells is recouped by a greater probability of the antibody working on fixed tissue.",
+            "startOffset": 33320,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33319,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Antigens that lack these modifications such as peptides are less likely to contain native epitopes that consequently result in antibodies that are unable to recognise the native protein.",
+            "startOffset": 33133,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34573,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "In the seven remaining examples where transcripts were not localised, the antibody staining revealed the protein product was localised to specific brain regions, and in some examples, also had a defined subcellular localisation.",
+            "startOffset": 34345,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22674,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Antibodies were detected with a TSA signal amplification kit (Invitrogen).",
+            "startOffset": 22600,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 21406,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Proteins were blotted onto PVDF membranes (Amersham), blocked in 2% BSA and probed with \u223c10 \u03bcg/ml primary antibody for 1 h at room temperature or at 4 \u00b0C overnight.",
+            "startOffset": 21242,
+            "title": "Antibody validation by Western blotting and formalin fixation by ELISA"
+        },
+        {
+            "endOffset": 25202,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Eight out of the ten antibodies were insensitive to fixation, but the antibodies recognising Robo1 and IgSF21b proteins did show some sensitivity, informing us that these antibodies may lose immunoreactivity upon well-fixed tissue (Fig. 1C).",
+            "startOffset": 24961,
+            "title": "Monoclonal antibody selection, cloning and initial validation"
+        },
+        {
+            "endOffset": 32755,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Despite a diverse genetic toolkit, zebrafish research is hampered by the lack of good quality antibodies that work in fixed tissue.",
+            "startOffset": 32624,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29687,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Neural cell surface receptor proteins are sometimes concentrated within specific subcellular localisations such as synapses or even internal vesicles, providing clues to their functional role.",
+            "startOffset": 29495,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 18983,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Together, these factors make raising antibodies against zebrafish extracellular proteins a difficult process with uncertain outcomes.",
+            "startOffset": 18850,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17927,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 17926,
+                    "startOffset": 17923
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The ex-utero development of optically-translucent embryos, and a range of genetic tools provide a broad technical platform for neurobiology research [5].",
+            "startOffset": 17774,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27394,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 27329,
+                    "startOffset": 27325
+                }
+            },
+            "secId": "s0060",
+            "sentence": "We have previously shown that the remaining genes have diffuse in situ staining pattern within the developing nervous system (Fig. 2D\u2013J) [15]; however, the antibodies all labelled discrete brain structures.",
+            "startOffset": 27188,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 27074,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "These results suggested that our antibodies could specifically stain their antigens in fixed wholemount tissue.",
+            "startOffset": 26963,
+            "title": "Antibody staining patterns are consistent with localised transcript distribution in wholemount fixed tissue"
+        },
+        {
+            "endOffset": 19857,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 19856,
+                    "startOffset": 19852
+                }
+            },
+            "secId": "s0015",
+            "sentence": "All proteins were expressed in mammalian cells as recombinant proteins as described [11].",
+            "startOffset": 19768,
+            "title": "Antigen and antibody expression and purification"
+        },
+        {
+            "endOffset": 19320,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Using a pooled immunisation approach, we demonstrated that up to five monoclonal antibodies could be selected in parallel and cloned into a single, convenient expression plasmid for distribution and storage.",
+            "startOffset": 19113,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29099,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The Sema4c protein was detected in the anterior and postoptic commissures as well as in telencephalic nuclei and the olfactory epithelium (Fig. 2I).",
+            "startOffset": 28951,
+            "title": "Neural receptor genes transcribed throughput the developing brain have defined patterns of protein localisation"
+        },
+        {
+            "endOffset": 23648,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 23535,
+                    "startOffset": 23528
+                },
+                "b0070": {
+                    "endOffset": 23535,
+                    "startOffset": 23528
+                },
+                "b0075": {
+                    "endOffset": 23647,
+                    "startOffset": 23643
+                }
+            },
+            "secId": "s0045",
+            "sentence": "We selected ten zebrafish receptors from an existing protein library [13\u201315] which were expressed within the developing zebrafish nervous system as determined by in situ hybridisation [15].",
+            "startOffset": 23459,
+            "title": "Preparation of neural extracellular protein antigens"
+        },
+        {
+            "endOffset": 22599,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Embryos were washed in PBST and incubated with a secondary anti-mouse-HRP for 2 h at room temperature.",
+            "startOffset": 22497,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 22039,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 21968,
+                    "startOffset": 21964
+                }
+            },
+            "secId": "s0030",
+            "sentence": "Sequences were added to the C-terminus of the IgG1 heavy chain to permit enzymatic monobiotinylation and a 6-His-tag (Bio-6-His) to facilitate purification by IMAC [16], or a FLAG tag were added using standard molecular biology procedures.",
+            "startOffset": 21800,
+            "title": "Addition of alternative detection tags to recombinant antibodies"
+        },
+        {
+            "endOffset": 30046,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 30045,
+                    "startOffset": 30041
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Within the neuroepithelium (arrow in Fig. 3A) and olfactory bulb (asterisk in Fig. 3A), Sema4c was detected within small puncta, consistent with the distribution of the murine orthologue in synaptic vesicles [24].",
+            "startOffset": 29833,
+            "title": "Neural receptor proteins are detected in discrete subcellular localisations"
+        },
+        {
+            "endOffset": 17773,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 17772,
+                    "startOffset": 17769
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The zebrafish is an important model vertebrate organism for neurobiology [4].",
+            "startOffset": 17696,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35427,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "In conclusion, we have demonstrated across a panel of ten zebrafish neural receptors an effective method that frequently leads to the selection of monoclonal antibodies that can be used to detect the native protein in fixed tissue.",
+            "startOffset": 35196,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20986,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 20985,
+                    "startOffset": 20978
+                },
+                "b0055": {
+                    "endOffset": 20985,
+                    "startOffset": 20978
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Plasmids encoding functional antibodies were identified by colony PCR and expression selection [10,11].",
+            "startOffset": 20883,
+            "title": "Antibody selection, screening and cloning"
+        },
+        {
+            "endOffset": 19544,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "By using the entire ectodomains of zebrafish cell surface proteins expressed in mammalian cells as antigens, we show this approach is suitable for raising antibodies to neural receptors that work in wholemount fixed tissue.",
+            "startOffset": 19321,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17467,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "While important progress has been made on the large scale documentation of gene expression patterns within the nervous system, the technique usually used \u2013 in situ hybridisation \u2013 often only identifies the soma of the neuron expressing the gene, and not their functional protein products.",
+            "startOffset": 17179,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0006291X14021652",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Nicole",
+                "initial": "N.",
+                "last": "Staudt"
+            },
+            {
+                "email": null,
+                "first": "Nicole",
+                "initial": "N.",
+                "last": "M\u00fcller-Sienerth"
+            },
+            {
+                "email": null,
+                "first": "Alla",
+                "initial": "A.",
+                "last": "Fane-Dremucheva"
+            },
+            {
+                "email": null,
+                "first": "Shahnaz P.",
+                "initial": "S.P.",
+                "last": "Yusaf"
+            },
+            {
+                "email": null,
+                "first": "David",
+                "initial": "D.",
+                "last": "Millrine"
+            },
+            {
+                "email": "gw2@sanger.ac.uk",
+                "first": "Gavin J.",
+                "initial": "G.J.",
+                "last": "Wright"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.11.123",
+        "firstpage": "527",
+        "issn": "0006291X",
+        "keywords": [
+            "Immunohistochemistry",
+            "Monoclonal antibodies",
+            "Neuron",
+            "Receptor",
+            "Zebrafish"
+        ],
+        "lastpage": "533",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "A panel of recombinant monoclonal antibodies against zebrafish neural receptors and secreted proteins suitable for wholemount immunostaining"
+    }
+}

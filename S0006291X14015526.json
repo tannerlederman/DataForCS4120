@@ -1,0 +1,2143 @@
+{
+    "abstract": "CLN025 is one of the smallest fast-folding proteins. Until now it has not been reported that CLN025 can autonomously fold to its native conformation in a classical, all-atom, and isothermal-isobaric molecular dynamics (MD) simulation. This article reports the autonomous and repeated folding of CLN025 from a fully extended backbone conformation to its native conformation in explicit solvent in multiple 500-ns MD simulations at 277 K and 1 atm with the first folding event occurring as early as 66.1 ns. These simulations were accomplished by using AMBER forcefield derivatives with atomic masses reduced by 10-fold on Apple Mac Pros. By contrast, no folding event was observed when the simulations were repeated using the original AMBER forcefields of FF12SB and FF14SB. The results demonstrate that low-mass MD simulation is a simple and generic technique to enhance configurational sampling. This technique may propel autonomous folding of a wide range of miniature proteins in classical, all-atom, and isothermal-isobaric MD simulations performed on commodity computers - an important step forward in quantitative biology.",
+    "author_highlights": [
+        {
+            "endOffset": 10143,
+            "sentence": "Reducing atomic masses by 10-fold vastly improves sampling in MD simulations.",
+            "startOffset": 10066
+        },
+        {
+            "endOffset": 10229,
+            "sentence": "CLN025 folded in 4 of 10 \u00d7 0.5-\u03bcs MD simulations when masses were reduced by 10-fold.",
+            "startOffset": 10144
+        },
+        {
+            "endOffset": 10312,
+            "sentence": "CLN025 folded as early as 96.2 ns in 1 of the 4 simulations that captured folding.",
+            "startOffset": 10230
+        },
+        {
+            "endOffset": 10394,
+            "sentence": "CLN025 did not fold in 10 \u00d7 0.5-\u03bcs MD simulations when standard masses were used.",
+            "startOffset": 10313
+        },
+        {
+            "endOffset": 10473,
+            "sentence": "Low-mass MD simulation is a simple and generic sampling enhancement technique.",
+            "startOffset": 10395
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Shinya",
+                    "initial": "S.",
+                    "last": "Honda"
+                },
+                {
+                    "first": "Toshihiko",
+                    "initial": "T.",
+                    "last": "Akiba"
+                },
+                {
+                    "first": "Yusuke S.",
+                    "initial": "Y.S.",
+                    "last": "Kato"
+                },
+                {
+                    "first": "Yoshito",
+                    "initial": "Y.",
+                    "last": "Sawada"
+                },
+                {
+                    "first": "Masakazu",
+                    "initial": "M.",
+                    "last": "Sekijima"
+                },
+                {
+                    "first": "Miyuki",
+                    "initial": "M.",
+                    "last": "Ishimura"
+                },
+                {
+                    "first": "Ayako",
+                    "initial": "A.",
+                    "last": "Ooishi"
+                },
+                {
+                    "first": "Hideki",
+                    "initial": "H.",
+                    "last": "Watanabe"
+                },
+                {
+                    "first": "Takayuki",
+                    "initial": "T.",
+                    "last": "Odahara"
+                },
+                {
+                    "first": "Kazuaki",
+                    "initial": "K.",
+                    "last": "Harata"
+                }
+            ],
+            "doi": "10.1021/ja8030533",
+            "firstpage": "15327",
+            "issn": "00027863",
+            "lastpage": "15331",
+            "pmid": "18950166",
+            "pub_year": 2008,
+            "title": "Crystal structure of a ten-amino acid protein",
+            "volume": "130"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Kresten",
+                    "initial": "K.",
+                    "last": "Lindorff-Larsen"
+                },
+                {
+                    "first": "Stefano",
+                    "initial": "S.",
+                    "last": "Piana"
+                },
+                {
+                    "first": "Ron O.",
+                    "initial": "R.O.",
+                    "last": "Dror"
+                },
+                {
+                    "first": "David E.",
+                    "initial": "D.E.",
+                    "last": "Shaw"
+                }
+            ],
+            "doi": "10.1126/science.1208351",
+            "firstpage": "517",
+            "issn": "00368075",
+            "lastpage": "520",
+            "pub_year": 2011,
+            "title": "How fast-folding proteins fold",
+            "volume": "334"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "William L.",
+                    "initial": "W.L.",
+                    "last": "Jorgensen"
+                },
+                {
+                    "first": "Jayaraman",
+                    "initial": "J.",
+                    "last": "Chandrasekhar"
+                },
+                {
+                    "first": "Jeffry D.",
+                    "initial": "J.D.",
+                    "last": "Madura"
+                },
+                {
+                    "first": "Roger W.",
+                    "initial": "R.W.",
+                    "last": "Impey"
+                },
+                {
+                    "first": "Michael L.",
+                    "initial": "M.L.",
+                    "last": "Klein"
+                }
+            ],
+            "doi": "10.1063/1.445869",
+            "firstpage": "926",
+            "issn": "00219606",
+            "lastpage": "935",
+            "pub_year": 1983,
+            "title": "Comparison of simple potential functions for simulating liquid water",
+            "volume": "79"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "H. J.C.",
+                    "initial": "H.J.C.",
+                    "last": "Berendsen"
+                },
+                {
+                    "first": "J. P.M.",
+                    "initial": "J.P.M.",
+                    "last": "Postma"
+                },
+                {
+                    "first": "W. F.",
+                    "initial": "W.F.",
+                    "last": "Van Gunsteren"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Dinola"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Haak"
+                }
+            ],
+            "doi": "10.1063/1.448118",
+            "firstpage": "3684",
+            "issn": "00219606",
+            "lastpage": "3690",
+            "pub_year": 1984,
+            "title": "Molecular dynamics with coupling to an external bath",
+            "volume": "81"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Tom",
+                    "initial": "T.",
+                    "last": "Darden"
+                },
+                {
+                    "first": "Darrin",
+                    "initial": "D.",
+                    "last": "York"
+                },
+                {
+                    "first": "Lee",
+                    "initial": "L.",
+                    "last": "Pedersen"
+                }
+            ],
+            "doi": "10.1063/1.464397",
+            "firstpage": "10089",
+            "issn": "00219606",
+            "lastpage": "10092",
+            "pub_year": 1993,
+            "title": "Particle mesh Ewald: An N\u00b7log(N) method for Ewald sums in large systems",
+            "volume": "98"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Jianyin",
+                    "initial": "J.",
+                    "last": "Shao"
+                },
+                {
+                    "first": "Stephen W.",
+                    "initial": "S.W.",
+                    "last": "Tanner"
+                },
+                {
+                    "first": "Nephi",
+                    "initial": "N.",
+                    "last": "Thompson"
+                },
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Cheatham"
+                }
+            ],
+            "doi": "10.1021/ct700119m",
+            "firstpage": "2312",
+            "issn": "15499618",
+            "lastpage": "2334",
+            "pub_year": 2007,
+            "title": "Clustering molecular dynamics trajectories: 1. Characterizing the performance of different clustering algorithms",
+            "volume": "3"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Michael P.",
+                    "initial": "M.P.",
+                    "last": "Allen"
+                },
+                {
+                    "first": "Dominic J.",
+                    "initial": "D.J.",
+                    "last": "Tildesley"
+                }
+            ],
+            "doi": "10.1093/oso/9780198803195.001.0001",
+            "firstpage": "1",
+            "lastpage": "626",
+            "pub_year": 2017,
+            "title": "Computer simulation of liquids: Second edition"
+        },
+        "b0040": null,
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                },
+                {
+                    "first": "Kun",
+                    "initial": "K.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Jamal El",
+                    "initial": "J.E.",
+                    "last": "Yazal"
+                },
+                {
+                    "first": "Franklyn G.",
+                    "initial": "F.G.",
+                    "last": "Prendergast"
+                }
+            ],
+            "firstpage": "1857",
+            "issn": "09618368",
+            "lastpage": "1865",
+            "pmid": "11106157",
+            "pub_year": 2000,
+            "title": "Successful molecular dynamics simulation of the zinc-bound farnesyltransferase using the cationic dummy atom approach",
+            "volume": "9"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1002/prot.1138",
+            "firstpage": "183",
+            "issn": "08873585",
+            "lastpage": "189",
+            "pmid": "11599021",
+            "pub_year": 2001,
+            "title": "Successful molecular dynamics simulation of two zinc complexes bridged by a hydroxide in phosphotriesterase using the cationic dummy atom method",
+            "volume": "45"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Hong",
+                    "initial": "H.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Jamal",
+                    "initial": "J.",
+                    "last": "El Yazal"
+                },
+                {
+                    "first": "Oksana",
+                    "initial": "O.",
+                    "last": "Lockridge"
+                },
+                {
+                    "first": "Lawrence M.",
+                    "initial": "L.M.",
+                    "last": "Schopfer"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Brimijoin"
+                },
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1074/jbc.M006676200",
+            "firstpage": "9330",
+            "issn": "00219258",
+            "lastpage": "9336",
+            "pmid": "11104759",
+            "pub_year": 2001,
+            "title": "Predicted Michaelis-Menten complexes of cocaine-butyrylcholinesterase: Engineering effective butyrylcholinesterase mutants for cocaine detoxication",
+            "volume": "276"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1002/prot.20249",
+            "firstpage": "747",
+            "issn": "08873585",
+            "lastpage": "757",
+            "pmid": "15690493",
+            "pub_year": 2004,
+            "title": "Three-dimensional model of a substrate-bound SARS chymotrypsin-like cysteine proteinase predicted by multiple molecular dynamics simulations: Catalytic efficiency regulated by substrate binding",
+            "volume": "57"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Jewn Giew",
+                    "initial": "J.G.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Peter C.",
+                    "initial": "P.C.",
+                    "last": "Sill"
+                },
+                {
+                    "first": "Edward F.",
+                    "initial": "E.F.",
+                    "last": "Makiyi"
+                },
+                {
+                    "first": "Alfonso T.",
+                    "initial": "A.T.",
+                    "last": "Garcia-Sosa"
+                },
+                {
+                    "first": "Charles B.",
+                    "initial": "C.B.",
+                    "last": "Millard"
+                },
+                {
+                    "first": "James J.",
+                    "initial": "J.J.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1016/j.bmc.2005.08.018",
+            "firstpage": "395",
+            "issn": "09680896",
+            "lastpage": "408",
+            "pmid": "16203152",
+            "pub_year": 2006,
+            "title": "Serotype-selective, small-molecule inhibitors of the zinc endopeptidase of botulinum neurotoxin serotype A",
+            "volume": "14"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0000058",
+            "issn": "19326203",
+            "pmid": "17183688",
+            "pub_year": 2006,
+            "title": "Novel acetylcholinesterase target site for malaria mosquito control",
+            "volume": "1"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1016/j.bmcl.2006.09.073",
+            "firstpage": "197",
+            "issn": "0960894X",
+            "lastpage": "199",
+            "pmid": "17046256",
+            "pub_year": 2007,
+            "title": "Species marker for developing novel and safe pesticides",
+            "volume": "17"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Benjamin J.",
+                    "initial": "B.J.",
+                    "last": "Killian"
+                },
+                {
+                    "first": "Joslyn Yudenfreund",
+                    "initial": "J.Y.",
+                    "last": "Kravitz"
+                },
+                {
+                    "first": "Sandeep",
+                    "initial": "S.",
+                    "last": "Somani"
+                },
+                {
+                    "first": "Paramita",
+                    "initial": "P.",
+                    "last": "Dasgupta"
+                },
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                },
+                {
+                    "first": "Michael K.",
+                    "initial": "M.K.",
+                    "last": "Gilson"
+                }
+            ],
+            "doi": "10.1016/j.jmb.2009.04.003",
+            "firstpage": "315",
+            "issn": "00222836",
+            "lastpage": "335",
+            "pmid": "19362095",
+            "pub_year": 2009,
+            "title": "Configurational Entropy in Protein-Peptide Binding:. Computational Study of Tsg101 Ubiquitin E2 Variant Domain with an HIV-Derived PTAP Nonapeptide",
+            "volume": "389"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Fredrik",
+                    "initial": "F.",
+                    "last": "Ekstr\u00f6m"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "H\u00f6rnberg"
+                },
+                {
+                    "first": "Elisabet",
+                    "initial": "E.",
+                    "last": "Artursson"
+                },
+                {
+                    "first": "Lars Gunnar",
+                    "initial": "L.G.",
+                    "last": "Hammarstr\u00f6m"
+                },
+                {
+                    "first": "Gunter",
+                    "initial": "G.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0005957",
+            "issn": "19326203",
+            "pmid": "19536291",
+            "pub_year": 2009,
+            "title": "Structure of HI-6-sarin-acetylcholinesterase determined by x-ray crystallography and molecular dynamics simulation: Reactivator mechanism and design",
+            "volume": "4"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Thorsten",
+                    "initial": "T.",
+                    "last": "Althoff"
+                },
+                {
+                    "first": "Deryck J.",
+                    "initial": "D.J.",
+                    "last": "Mills"
+                },
+                {
+                    "first": "Jean Luc",
+                    "initial": "J.L.",
+                    "last": "Popot"
+                },
+                {
+                    "first": "Werner",
+                    "initial": "W.",
+                    "last": "K\u00fchlbrandt"
+                }
+            ],
+            "doi": "10.1038/emboj.2011.324",
+            "firstpage": "4652",
+            "issn": "02614189",
+            "lastpage": "4664",
+            "pmid": "21909073",
+            "pub_year": 2011,
+            "title": "Arrangement of electron transport chain components in bovine mitochondrial supercomplex I 1 III 2 IV 1",
+            "volume": "30"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Yuan Ping",
+                    "initial": "Y.P.",
+                    "last": "Pang"
+                },
+                {
+                    "first": "Haiming",
+                    "initial": "H.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Alyson",
+                    "initial": "A.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "X. Wei",
+                    "initial": "X.W.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "Paula A.",
+                    "initial": "P.A.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Scott H.",
+                    "initial": "S.H.",
+                    "last": "Kaufmann"
+                }
+            ],
+            "doi": "10.1038/srep00257",
+            "issn": "20452322",
+            "pub_year": 2012,
+            "title": "Bak conformational changes induced by ligand binding: Insight into BH3 domain binding and bak homo-oligomerization",
+            "volume": "2"
+        },
+        "b0100": null,
+        "b0105": null,
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Andrea G.",
+                    "initial": "A.G.",
+                    "last": "Cochran"
+                },
+                {
+                    "first": "Nicholas J.",
+                    "initial": "N.J.",
+                    "last": "Skelton"
+                },
+                {
+                    "first": "Melissa A.",
+                    "initial": "M.A.",
+                    "last": "Starovasnik"
+                }
+            ],
+            "doi": "10.1073/pnas.091100898",
+            "firstpage": "5578",
+            "issn": "00278424",
+            "lastpage": "5583",
+            "pmid": "11331745",
+            "pub_year": 2001,
+            "title": "Tryptophan zippers: Stable, monomeric \u03b2-hairpins",
+            "volume": "98"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Bipasha",
+                    "initial": "B.",
+                    "last": "Barua"
+                },
+                {
+                    "first": "Jasper C.",
+                    "initial": "J.C.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Victoria D.",
+                    "initial": "V.D.",
+                    "last": "Williams"
+                },
+                {
+                    "first": "Phillip",
+                    "initial": "P.",
+                    "last": "Kummler"
+                },
+                {
+                    "first": "Jonathan W.",
+                    "initial": "J.W.",
+                    "last": "Neidigh"
+                },
+                {
+                    "first": "Niels H.",
+                    "initial": "N.H.",
+                    "last": "Andersen"
+                }
+            ],
+            "doi": "10.1093/protein/gzm082",
+            "firstpage": "171",
+            "issn": "17410126",
+            "lastpage": "185",
+            "pmid": "18203802",
+            "pub_year": 2008,
+            "title": "The Trp-cage: Optimizing the stability of a globular miniprotein",
+            "volume": "21"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "C. J.",
+                    "initial": "C.J.",
+                    "last": "McKnight"
+                },
+                {
+                    "first": "P. T.",
+                    "initial": "P.T.",
+                    "last": "Matsudaira"
+                },
+                {
+                    "first": "P. S.",
+                    "initial": "P.S.",
+                    "last": "Kim"
+                }
+            ],
+            "doi": "10.1038/nsb0397-180",
+            "firstpage": "180",
+            "issn": "10728368",
+            "lastpage": "184",
+            "pmid": "9164455",
+            "pub_year": 1997,
+            "title": "NMR structure of the 35-residue villin headpiece subdomain",
+            "volume": "4"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Catherine A.",
+                    "initial": "C.A.",
+                    "last": "Sarisky"
+                },
+                {
+                    "first": "Stephen L.",
+                    "initial": "S.L.",
+                    "last": "Mayo"
+                }
+            ],
+            "doi": "10.1006/jmbi.2000.4345",
+            "firstpage": "1411",
+            "issn": "00222836",
+            "lastpage": "1418",
+            "pmid": "11292351",
+            "pub_year": 2001,
+            "title": "The \u03b2\u03b2\u03b1 fold: Explorations in sequence space",
+            "volume": "307"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 14465,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The ten unique seed numbers for initial velocities of Simulations 1\u201310 are 1804289383, 846930886, 1681692777, 1714636915, 1957747793, 424238335, 719885386, 1649760492, 596516649, and 1189641421, respectively.",
+            "startOffset": 14257,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 16797,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "If the native-state population of a simulation is \u2a7d1.5%, the conformations with C\u03b1\u03b2RMSDs of \u2a7d1.96 \u00c5 are considered to be too transient to constitute a folding event.",
+            "startOffset": 16632,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 15881,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The C\u03b1\u03b2RMSD between the NMR and crystal structures is 1.95 \u00c5.",
+            "startOffset": 15820,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 22827,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The most populated sub-cluster has 5140 conformations accounting for 56.2% of all conformation in the most populated cluster.",
+            "startOffset": 22702,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 21816,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The shortest folding time of the three simulations shown in Fig. 2 is 66.1 ns.",
+            "startOffset": 21738,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 18666,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Cluster analysis of 13,200 trajectories saved at 100-ps intervals during the 61\u2013500 ns period of Simulations 2, 5, and 9 using FF12SBlm was first done using epsilon of 2.0 \u00c5 and root mean square coordinate deviation on C\u03b1 of residues 1\u201310.",
+            "startOffset": 18427,
+            "title": "Cluster analysis and coordinate deviation calculations"
+        },
+        {
+            "endOffset": 24708,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Following the procedure described above, the first-step clustering identified 181 clusters.",
+            "startOffset": 24617,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 29879,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The contents of this article are the sole responsibility of the author and do not necessarily represent the official views of the funders.",
+            "startOffset": 29741,
+            "title": "Disclaimer"
+        },
+        {
+            "endOffset": 19296,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "C\u03b1\u03b2RMSDs, C\u03b1 root mean square deviations, and all carbon atom root mean square deviations (CRMSDs) were calculated automatically using PTRAJ of AmberTools 1.5 or manually using ProFit V2.6 (http://www.bioinf.org.uk/software/profit/).",
+            "startOffset": 19063,
+            "title": "Cluster analysis and coordinate deviation calculations"
+        },
+        {
+            "endOffset": 22701,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Using mean square coordinate deviation of all carbon atoms of residues 1, 2, 9, and 10 between two CNL025 trajectories, a cluster analysis of all conformations of the most populated cluster identified ten sub-clusters with populations of >1.0%.",
+            "startOffset": 22457,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 21347,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 21134,
+                    "startOffset": 21130
+                },
+                "b0105": {
+                    "endOffset": 21150,
+                    "startOffset": 21146
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The substantial enhancement of configurational sampling of LMD simulation is demonstrated below by the inability to autonomously fold CLN025 in MD simulations using current AMBER forcefields FF12SB [20] and FF14SB [21] and the ability to autonomously fold CLN025 in MD simulations using FF12SBlm and FF14SBlm that are revised from FF12SB and FF14SB, respectively, by reducing atomic masses by an order of magnitude.",
+            "startOffset": 20932,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 22456,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "All other clusters have populations of \u2a7d1.7%.",
+            "startOffset": 22411,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 27524,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "To avoid system instability caused by long time steps or by high temperatures, the time step and temperature used in an LMD simulation must be \u2a7d1.0 fs and \u2a7d340 K.",
+            "startOffset": 27362,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 26628,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "By contrast, FF12SBlm and FF14SBlm folded CLN025 in three and four out of ten 500-ns MD simulations at 277 K and 1 atm with overall native-state populations of 13% and 16%, respectively.",
+            "startOffset": 26442,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 15051,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Each simulation was performed on a 12-core Apple Mac Pro with Intel Westmere (2.40/2.93 GHz).",
+            "startOffset": 14958,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 27145,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The results also show that FF14SB is an improved forcefield for autonomous folding of CLN025 over FF12SB.",
+            "startOffset": 27040,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 13613,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 13472,
+                    "startOffset": 13469
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Although the ionic strength used for the NMR study was 20 mM Na3PO4 [1], in this study \u223c143 mM NaCl was used to minimize the intermolecular interaction of CLN025 with its periodic image during the MD simulations.",
+            "startOffset": 13401,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 23793,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These results show that FF12SBlm is able to autonomously fold CLN025 in water to conformations that resemble more the solution NMR structure than the solid crystal structure.",
+            "startOffset": 23619,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 22246,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "According to this analysis, there are a total of 149 clusters.",
+            "startOffset": 22184,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 25183,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The conformations in the two most-populated sub-clusters represent the native \u03b2-hairpins, while the conformations in the least populated sub-cluster represent one of the native-like \u03b2-hairpins.",
+            "startOffset": 24990,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 16917,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In other words, if a simulation captures a folding event, the native-state population of this simulation must be >1.5%.",
+            "startOffset": 16798,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 16472,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The smoothed curves were generated by the PRISM program from GraphPad Software (La Jolla, California) using 32 neighbors on each size and 6th order of the smoothing polynomial.",
+            "startOffset": 16296,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 25529,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Relative to the crystal structure, the corresponding CRMSDs change to 2.76 \u00c5 and 2.96 \u00c5, 2.09 \u00c5 and 2.27 \u00c5, and 4.52 \u00c5 and 4.67 \u00c5, respectively.",
+            "startOffset": 25385,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 12766,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12765,
+                    "startOffset": 12762
+                },
+                "b0015": {
+                    "endOffset": 12636,
+                    "startOffset": 12633
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This article reports the use of low atomic masses to speed up configurational sampling in MD simulations and its successful application to autonomous folding of CLN025 in classical, all-atom, isothermal\u2013isobaric, and 500-ns MD simulations with TIP3P water [3] at the same temperature and pressure conditions (277 K and 1 atm) as those used for the experimental folding study of CLN025 [1].",
+            "startOffset": 12377,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16631,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The native-state population of a simulation is the number of conformations with C\u03b1\u03b2RMSDs of \u2a7d1.96 \u00c5 divided by all conformations obtained from the simulation.",
+            "startOffset": 16473,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 19762,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In an MD simulation, the product of the particle mass and the particle acceleration is calculated as the derivative of the potential energy of the particle with respect to its position (miai = \u2212\u03b4Ei/\u03b4ri).",
+            "startOffset": 19559,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 27740,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The kinetics obtained from LMD simulations cannot be compared directly to the kinetics determined experimentally, although the relative kinetics of two systems can be compared to the corresponding experimental data.",
+            "startOffset": 27525,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 14957,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 14561,
+                    "startOffset": 14558
+                },
+                "b0025": {
+                    "endOffset": 14652,
+                    "startOffset": 14649
+                }
+            },
+            "secId": "s0015",
+            "sentence": "All simulations used (1) a dielectric constant of 1.0, (2) the Berendsen coupling algorithm [4], (3) the Particle Mesh Ewald method to calculate long-range electrostatic interactions [5], (4) a time step of 1.0 fs, (5) SHAKE-bond-length constraints applied to all the bonds involving the H atom, (6) a protocol to save the image closest to the middle of the \u201cprimary box\u201d to the restart and trajectory files, (7) a formatted restart file, and (8) default values of all other inputs of PMEMD.",
+            "startOffset": 14466,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 25709,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These results show that FF14SBlm is also able to autonomously fold CLN025 in water to conformations that resemble more the solution NMR structure than the solid crystal structure.",
+            "startOffset": 25530,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 28284,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Nevertheless, temperatures of biological systems rarely exceed 340 K, and in theory the improvement of configurational sampling in LMD simulations is approximately 10 fold.",
+            "startOffset": 28112,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 20065,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This reasoning inspired the use of low atomic masses to speed up configurational sampling in MD simulations.",
+            "startOffset": 19957,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 26085,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These contractions are different from the contractions observed in the simulations using FF12SBlm and suggest that the side chains of residues 1, 9, and 10 are as mobile as that of residue 2 at the folded state.",
+            "startOffset": 25874,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 17339,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A folding time\u2014defined as the time to fold a protein from a fully extended backbone conformation to its native conformation\u2014is obtained from the first time when C\u03b1\u03b2RMSD reaches \u2a7d1.96 \u00c5 in a simulation that must have its native-state population of >1.5%.",
+            "startOffset": 17086,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 27039,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In addition, the results of the LMD simulations indicate that CLN025 will likely fold in an MD simulation using FF12SB or FF14SB, if the duration of the simulation is extended by 10-fold.",
+            "startOffset": 26852,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 19062,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A total of 16,164 trajectories saved at 100-ps intervals during the 96\u2013500 ns period of Simulations 2, 3, 7, and 9 using FF14SBlm were clustered using the same protocol as the one for the FF12SBlm trajectories.",
+            "startOffset": 18852,
+            "title": "Cluster analysis and coordinate deviation calculations"
+        },
+        {
+            "endOffset": 26441,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Under the same simulation conditions, none of the simulations using FF12SB or FF14SB captured a folding event.",
+            "startOffset": 26331,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 12376,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 12375,
+                    "startOffset": 12372
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Autonomous and repeated folding of CLN025 has been observed in a classical, all-atom, canonical, and 106-\u03bcs molecular dynamics (MD) simulation performed on a one-of-a-kind, proprietary, special-purpose computer [2].",
+            "startOffset": 12161,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17467,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "If a simulation does not capture a folding event, the folding time is considered to be greater than the entire simulation time.",
+            "startOffset": 17340,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 25384,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Relative to the NMR structure, the time-averaged and representative conformations of Sub-clusters 25, 7, and 1 have CRMSDs of 1.76 \u00c5 and 2.16 \u00c5, 1.78 \u00c5 and 1.95 \u00c5, and 4.95 \u00c5 and 4.96 \u00c5, respectively.",
+            "startOffset": 25184,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 17996,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "By definition, the overall native-state population is less stochastic than the average folding time.",
+            "startOffset": 17896,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 24989,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Sub-clusters 25, 7, and 1 have 3879 (33.8%), 2490 (21.7%), and 2446 (21.3%) conformations, respectively.",
+            "startOffset": 24885,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 12160,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12159,
+                    "startOffset": 12156
+                }
+            },
+            "secId": "s0005",
+            "sentence": "CLN025 is one of the smallest fast-folding proteins that folds into a \u03b2-hairpin with a sequence of YYDPETGTWY according to both its X-ray crystal and nuclear magnetic resonance (NMR) structures (Fig. 1A and B) [1].",
+            "startOffset": 11946,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18172,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Therefore, the overall native-state population is a better descriptor of protein folding in multiple MD simulations than the C\u03b1\u03b2RMSD-vs-time curve or the average folding time.",
+            "startOffset": 17997,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 13295,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 13236,
+                    "startOffset": 13233
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Because pH 5.7 was used for the NMR structure determination for CLN025 [1], two sodium ions were added for neutrality of the protein.",
+            "startOffset": 13162,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 23233,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As shown in Fig. 1E, the side chains of Tyr1, Trp9, and Try10 are highly contracted in the time-averaged conformation, suggesting that the side chains of residues 1, 9, and 10 are more mobile than that of residue 2 at the folded state.",
+            "startOffset": 22998,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 24616,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The shortest folding time of the four simulations shown in Fig. 2 is 96.2 ns.",
+            "startOffset": 24539,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 20592,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "There is an intricate balance between the desire to decrease atomic masses and the desire to increase time step.",
+            "startOffset": 20480,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 24538,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Under the same simulation conditions, FF14SBlm folded CLN025 in four out of ten MD simulations with an overall native-state population of 16% and an average folding time of >391.3 ns (Fig. 2, Table 1, and Video S2).",
+            "startOffset": 24323,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 29731,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "As a simple and generic configurational sampling enhancement technique, LMD simulations may propel autonomous folding of a wide range of miniature proteins in classical, all-atom, and isothermal\u2013isobaric MD simulations performed on commodity computers\u2014an important step forward in quantitative biology.",
+            "startOffset": 29429,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 27290,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Because LMD simulation uses 0.1008 Da for hydrogen, there are disadvantages with this technique.",
+            "startOffset": 27194,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 13400,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Four sodium chloride molecules were also added to keep the ionic strength of the system at \u223c143 mM NaCl.",
+            "startOffset": 13296,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 23350,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The representative conformation of this sub-cluster has a C\u03b1\u03b2RMSD of 1.59 \u00c5 relative to the NMR structure (Fig. 1F).",
+            "startOffset": 23234,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 23479,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The time-averaged and representative conformations have CRMSDs of 1.80 \u00c5 and 2.11 \u00c5 relative to the NMR structure, respectively.",
+            "startOffset": 23351,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 28112,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Preliminary studies using PMEMD_CUDA of AMBER 12 suggest that the system be equilibrated first on a central processing unit and then simulated on a graphics-processing unit.",
+            "startOffset": 27939,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 18426,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 18425,
+                    "startOffset": 18422
+                }
+            },
+            "secId": "s0025",
+            "sentence": "A two-step cluster analysis of the CLN025 trajectories obtained from MD simulations that captured a folding event was performed using PTRAJ of AmberTools 1.5 with the average-linkage algorithm [6].",
+            "startOffset": 18229,
+            "title": "Cluster analysis and coordinate deviation calculations"
+        },
+        {
+            "endOffset": 22997,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The time-averaged conformation of the most populated sub-cluster has a C\u03b1\u03b2RMSD of 1.38 \u00c5 relative to the NMR structure.",
+            "startOffset": 22878,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 22183,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "To confirm the folding events and to obtain time-averaged structures for insight into side-chain mobility of CLN025 in the folded state, a cluster analysis of all the trajectories of CLN025 saved at 100-ps intervals during the 61\u2013500 ns period of Simulations 2, 5, and 9 was performed using root mean square coordinate deviation of C\u03b1 between two CNL025 trajectories.",
+            "startOffset": 21816,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 24884,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The second-step clustering identified three sub-clusters with populations of >8.5%.",
+            "startOffset": 24801,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 29112,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Pang\u2019s unpublished work).",
+            "startOffset": 29087,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 19558,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 19557,
+                    "startOffset": 19554
+                }
+            },
+            "secId": "s0035",
+            "sentence": "An MD simulation is designed to computationally simulate the time-dependent behavior of a system of particles by solving Newton\u2019s equations of motion for all the particles as a function of time [7].",
+            "startOffset": 19360,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 20387,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Because of this limitation, masses of heavy atoms cannot be set too low, otherwise a time step of <1.0 fs has to be used to avoid system instability.",
+            "startOffset": 20238,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 17661,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The average folding time and the overall native-state population of a set of simulations are provided to complement the smoothed C\u03b1\u03b2RMSD-vs-time curve that does not display short folding events.",
+            "startOffset": 17467,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 19956,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "When all particle masses of the system are purposefully reduced, accelerations of all the particles increase, and consequently the transition time from one configuration to the other decreases.",
+            "startOffset": 19763,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 20237,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Bonds, except for those involving hydrogen, cannot be constrained in MD simulations when using MD simulation programs with high parallel-computing efficiency such as PMEMD.",
+            "startOffset": 20065,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 14256,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Using FF12SB or its derivatives as described in Section 3, the solvated and slightly brined CLN025 was then energy-minimized for 100 cycles of steepest-descent minimization followed by 900 cycles of conjugate-gradient minimization to remove close van der Waals contacts using SANDER of AMBER 11 (University of California, San Francisco), heated from 0 to 277 K at a rate of 10 K/ps under constant temperature and volume, and finally simulated in ten independent MD simulations using PMEMD of AMBER 11 with a periodic boundary condition at a constant temperature of 277 K and a constant pressure of 1 atm with isotropic molecule-based scaling.",
+            "startOffset": 13614,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 24800,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "All other clusters have populations of \u2a7d2.1%.",
+            "startOffset": 24755,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 29086,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 28873,
+                    "startOffset": 28869
+                },
+                "b0115": {
+                    "endOffset": 28897,
+                    "startOffset": 28893
+                },
+                "b0120": {
+                    "endOffset": 28932,
+                    "startOffset": 28928
+                },
+                "b0125": {
+                    "endOffset": 28963,
+                    "startOffset": 28959
+                }
+            },
+            "secId": "s0050",
+            "sentence": "For example, when LMD simulation is combined with techniques that lower potential energy barriers by shortening CH bonds and zeroing protein backbone torsion potentials to accelerate sampling, autonomous folding of a tryptophan zipper [22], a tryptophan cage [23], a villin headpiece subdomain [24], and a zinc finger analog [25] can be simulated in classical, all-atom, isothermal\u2013isobaric, and 300-ns MD simulations performed on Apple Mac Pros (Y.-P.",
+            "startOffset": 28634,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 16077,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Therefore, to distinguish the native \u03b2-hairpins from the native-like ones, conformations with C\u03b1\u03b2RMSDs of \u2a7d1.96 \u00c5 relative to the NMR structure are considered to be at the native or folded state.",
+            "startOffset": 15882,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 16295,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A folding event of CLN025 in an MD simulation is delineated by (1) a smoothed curve of C\u03b1\u03b2RMSD over simulation time (Fig. 2), (2) an average folding time (Table 1), and (3) an overall native-state population (Table 1).",
+            "startOffset": 16077,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 29428,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In addition, the LMD simulation technique is not restricted to protein folding; it can be applied to homology protein structure refinement, simulations of ligand\u2013receptor complexation and allosteric modulation, drug free energy binding calculations, and simulations of polynucleotides and non-biological substances.",
+            "startOffset": 29113,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 22878,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "All other sub-clusters have populations of \u2a7d10.0%.",
+            "startOffset": 22828,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 24754,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "One cluster has 11,486 conformations (71.1%).",
+            "startOffset": 24709,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 20932,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0045": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0050": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0055": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0060": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0065": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0070": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0075": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0080": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0085": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0090": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                },
+                "b0095": {
+                    "endOffset": 20703,
+                    "startOffset": 20697
+                }
+            },
+            "secId": "s0035",
+            "sentence": "After years of performing low-mass MD (LMD) simulations with various proteins including metalloproteins [8\u201319], this author finds that reducing atomic masses by 10-fold offers substantial enhancement of configurational sampling in MD simulations with a time step of 1.0 fs and a temperature of \u2a7d340 K without compromising system stability.",
+            "startOffset": 20593,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 22410,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Of these clusters, only one cluster is highly populated and has 9142 conformations that account for 69.3% of all 13,200 conformations used in the cluster analysis.",
+            "startOffset": 22247,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 28633,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The LMD simulation technique is not restricted to the AMBER forcefield, and it can be used in conjunction with other sampling enhancement techniques to achieve even a higher efficiency of configurational sampling.",
+            "startOffset": 28420,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 26753,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The average folding times observed in the simulations using FF12SBlm and FF14SBlm are >407.4 ns and >391.3 ns, respectively.",
+            "startOffset": 26629,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 20479,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The speed of an MD simulation is inversely related to the time step used in the simulation.",
+            "startOffset": 20388,
+            "title": "Low-mass molecular dynamics simulation"
+        },
+        {
+            "endOffset": 21737,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As shown in Fig. 2 and Table 1, FF12SBlm was able to fold CLN025 from a fully extended backbone conformation to its NMR structure in three out of ten classical, all-atom, isothermal\u2013isobaric, and 500-ns MD simulations at 277 K and 1 atm with an overall native-state population of 13% and an average folding time of >407.4 ns (Table 1).",
+            "startOffset": 21402,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 26292,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The difference with regard to the mobility of Tyr2 between the simulations using FF12SBlm and FF14SBlm reveals the sensitivity of sub-microsecond LMD simulations to side-chain torsion forcefield parameters.",
+            "startOffset": 26086,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 15819,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The lowest C\u03b1 and C\u03b2 root mean square deviation (C\u03b1\u03b2RMSD) between one of the native-like \u03b2-hairpins and the NMR structure is 2.08 \u00c5, whereas the corresponding C\u03b1 root mean square deviation is 1.33 \u00c5.",
+            "startOffset": 15620,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 24107,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 24076,
+                    "startOffset": 24073
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Using 2000 conformations saved at 100-ps intervals during the 200-ns period of Simulation 2, a video was made to unequivocally demonstrate the ability of FF12SBlm to autonomously fold CLN025 in a classical, all-atom, isothermal\u2013isobaric, and 500-ns MD simulation with TIP3P water [3] at 277 K and 1 atm (Video S1).",
+            "startOffset": 23793,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 13161,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "A fully extended backbone conformation of CLN025 was generated by MacPyMOL Version 1.5.0 (Schr\u00f6dinger LLC, Portland, OR) and solvated with 1532 TIP3P water molecules to keep the closest distance between any atom of CLN025 and the edge of the periodic solvent box at 8.2 \u00c5 using LEAP of AmberTools 1.5 (University of California, San Francisco).",
+            "startOffset": 12818,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 17895,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Although the smoothed C\u03b1\u03b2RMSD-vs-time curve is informative with regard to unfolding and refolding events in a simulation, its limitation is that display of C\u03b1\u03b2RMSD-vs-time curves for a set of simulations requires too much page space.",
+            "startOffset": 17662,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 27938,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "To perform an LMD simulation on a graphics-processing unit, there is the inconvenience of re-compiling PMEMD_CUDA of AMBER 12 (University of California, San Francisco) using 0.1008 Da for hydrogen.",
+            "startOffset": 27741,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 15115,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Trajectories were saved at 100-ps intervals in all simulations.",
+            "startOffset": 15052,
+            "title": "Folding simulation protocol"
+        },
+        {
+            "endOffset": 17085,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The overall native-state population is the number of conformations with C\u03b1\u03b2RMSDs of \u2a7d1.96 \u00c5 obtained from a set of simulations divided by all conformations of the set.",
+            "startOffset": 16918,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 25873,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Interestingly, the time-averaged conformation of the most populated sub-cluster (Fig. 1G) shows substantial contractions of all four aromatic side chains of CLN025.",
+            "startOffset": 25709,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 18851,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "All the trajectories in the most populated cluster were then clustered using epsilon of 2.0 \u00c5 and root mean square coordinate deviation on all carbon atoms of residues 1, 2, 9, and 10.",
+            "startOffset": 18667,
+            "title": "Cluster analysis and coordinate deviation calculations"
+        },
+        {
+            "endOffset": 26851,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "These results demonstrate substantial enhancement of configurational sampling in LMD simulations.",
+            "startOffset": 26754,
+            "title": "Configurational sampling enhancement"
+        },
+        {
+            "endOffset": 15619,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Interestingly, analysis of the trajectories obtained from MD simulations showed that CLN025 could fold to native-like \u03b2-hairpins with Tyr1, Trp9, and Tyr10 on one side of the \u03b2-sheet and Tyr2 on the other side (Fig. 1C) or with Tyr1 and Trp9 on one side and Tyr2 and Tyr10 on the other side (Fig. 1D).",
+            "startOffset": 15318,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 24323,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Consistent with the observed contractions of three aromatic side chains of the time-averaged conformation shown in Fig. 1E, Video S1 shows spinning of the two terminal phenolic rings and rotation of the indole ring.",
+            "startOffset": 24108,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 15317,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 15300,
+                    "startOffset": 15297
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The native conformations of CLN025 in the NMR and crystal structures have Tyr2 and Trp9 on one side of the \u03b2-sheet and Tyr1 and Tyr10 on the other side [1] (Fig. 1A and B).",
+            "startOffset": 15145,
+            "title": "Folding simulation analysis"
+        },
+        {
+            "endOffset": 27361,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "All bonds involving hydrogen must be constrained in an LMD simulation.",
+            "startOffset": 27291,
+            "title": "Advantages and disadvantages of LMD simulation"
+        },
+        {
+            "endOffset": 23618,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 23547,
+                    "startOffset": 23544
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Interestingly, when compared to the crystal structure of CLN025 [1], the corresponding CRMSDs increase to 2.80 \u00c5 and 2.90 \u00c5, respectively.",
+            "startOffset": 23480,
+            "title": "Autonomous folding of CLN025 by FF12SBlm or FF14SBlm"
+        },
+        {
+            "endOffset": 28419,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 28340,
+                    "startOffset": 28336
+                }
+            },
+            "secId": "s0050",
+            "sentence": "To perform LMD simulations using the AMBER package [21], all that is required is an frcmod file with atomic masses reduced by 10-fold.",
+            "startOffset": 28285,
+            "title": "Advantages and disadvantages of LMD simulation"
+        }
+    ],
+    "docId": "S0006291X14015526",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "pang@mayo.edu",
+                "first": "Yuan Ping",
+                "initial": "Y.P.",
+                "last": "Pang"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.08.119",
+        "firstpage": "588",
+        "issn": "0006291X",
+        "keywords": [
+            "Chignolin analogue",
+            "Configurational sampling enhancement",
+            "Fast-folding miniature protein",
+            "Isothermal-isobaric ensemble",
+            "Protein folding",
+            "\u03b2-Hairpin"
+        ],
+        "lastpage": "592",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Low-mass molecular dynamics simulation: A simple and generic technique to enhance configurational sampling"
+    }
+}

@@ -1,0 +1,3007 @@
+{
+    "abstract": "Background and objective As a member of the epidermal growth factor family, amphiregulin contributes to the regulation of cell proliferation. Amphiregulin was reported to be upregulated in damaged lung tissues in patients with chronic obstructive pulmonary disease and asthma and in lung epithelial cells in a ventilator-associated lung injury model. In this study, we investigated the effect of amphiregulin on lipopolysaccharide (LPS)-induced acute lung injury in mice. Methods Acute lung injury was induced by intranasal instillation of LPS in female C57BL/6 mice, and the mice were given intraperitoneal injections of recombinant amphiregulin or phosphate-buffered saline 6 and 0.5 h before and 3 h after LPS instillation. The effect of amphiregulin on apoptosis and apoptotic pathways in a murine lung alveolar type II epithelial cell line (LA-4 cells) were examined using flow cytometry and western blotting, respectively. Results Recombinant amphiregulin suppressed epithelial cell apoptosis in LPS-induced lung injury in mice. Western blotting revealed that amphiregulin suppressed epithelial cell apoptosis by inhibiting caspase-8 activity. Conclusion Amphiregulin signaling may be a therapeutic target for LPS-induced lung injury treatment through its prevention of epithelial cell apoptosis.",
+    "author_highlights": [
+        {
+            "endOffset": 11958,
+            "sentence": "Amphiregulin suppresses epithelial cell apoptosis in LPS-induced lung injury in mice.",
+            "startOffset": 11873
+        },
+        {
+            "endOffset": 12013,
+            "sentence": "The mechanism relies on inhibiting caspase-8 activity.",
+            "startOffset": 11959
+        },
+        {
+            "endOffset": 12093,
+            "sentence": "Amphiregulin signaling may be a therapeutic target for LPS-induced lung injury.",
+            "startOffset": 12014
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "G. R.",
+                    "initial": "G.R.",
+                    "last": "Bernard"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Artigas"
+                },
+                {
+                    "first": "K. L.",
+                    "initial": "K.L.",
+                    "last": "Brigham"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Carlet"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Falke"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Hudson"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Lamy"
+                },
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Legall"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Morris"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Spragg"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Cochin"
+                },
+                {
+                    "first": "P. N.",
+                    "initial": "P.N.",
+                    "last": "Lanken"
+                },
+                {
+                    "first": "K. V.",
+                    "initial": "K.V.",
+                    "last": "Leeper"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Marini"
+                },
+                {
+                    "first": "J. F.",
+                    "initial": "J.F.",
+                    "last": "Murray"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Oppenheimer"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Pesenti"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Reid"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Rinaldo"
+                }
+            ],
+            "doi": "10.1164/ajrccm.149.3.7509706",
+            "firstpage": "818",
+            "issn": "1073449X",
+            "lastpage": "824",
+            "pmid": "7509706",
+            "pub_year": 1994,
+            "title": "The American-European Consensus Conference on ARDS: Definitions, mechanisms, relevant outcomes, and clinical trial coordination",
+            "volume": "149"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Donald",
+                    "initial": "D.",
+                    "last": "Guinee"
+                },
+                {
+                    "first": "Marian",
+                    "initial": "M.",
+                    "last": "Fleming"
+                },
+                {
+                    "first": "Tomayoshi",
+                    "initial": "T.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Madeline",
+                    "initial": "M.",
+                    "last": "Woodward"
+                },
+                {
+                    "first": "Jun",
+                    "initial": "J.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Judy",
+                    "initial": "J.",
+                    "last": "Walls"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Koss"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Ferrans"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Travis"
+                }
+            ],
+            "firstpage": "531",
+            "issn": "00029440",
+            "lastpage": "538",
+            "pmid": "8701992",
+            "pub_year": 1996,
+            "title": "Association of p53 and WAF1 expression with apoptosis in diffuse alveolar damage",
+            "volume": "149"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Kawasaki"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Kuwano"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Hagimoto"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Matsuba"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Kunitake"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Maeyama"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Hara"
+                }
+            ],
+            "doi": "10.1016/S0002-9440(10)64570-1",
+            "firstpage": "597",
+            "issn": "00029440",
+            "lastpage": "603",
+            "pmid": "10934162",
+            "pub_year": 2000,
+            "title": "Protection from lethal apoptosis in lipopolysaccharide-induced acute lung injury in mice by a caspase inhibitor",
+            "volume": "157"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Mohammed",
+                    "initial": "M.",
+                    "last": "Shoyab"
+                },
+                {
+                    "first": "Gregory D.",
+                    "initial": "G.D.",
+                    "last": "Plowman"
+                },
+                {
+                    "first": "Vicki L.",
+                    "initial": "V.L.",
+                    "last": "McDonald"
+                },
+                {
+                    "first": "J. Garrett",
+                    "initial": "J.G.",
+                    "last": "Bradley"
+                },
+                {
+                    "first": "George J.",
+                    "initial": "G.J.",
+                    "last": "Todaro"
+                }
+            ],
+            "doi": "10.1126/science.2466334",
+            "firstpage": "1074",
+            "issn": "00368075",
+            "lastpage": "1076",
+            "pmid": "2466334",
+            "pub_year": 1989,
+            "title": "Structure and function of human amphiregulin: A member of the epidermal growth factor family",
+            "volume": "243"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Tam\u00e1s",
+                    "initial": "T.",
+                    "last": "Dolinay"
+                },
+                {
+                    "first": "Naftali",
+                    "initial": "N.",
+                    "last": "Kaminski"
+                },
+                {
+                    "first": "Martina",
+                    "initial": "M.",
+                    "last": "Felgendreher"
+                },
+                {
+                    "first": "Hong P.",
+                    "initial": "H.P.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Reynolds"
+                },
+                {
+                    "first": "Simon C.",
+                    "initial": "S.C.",
+                    "last": "Watkins"
+                },
+                {
+                    "first": "D\u00f6rte",
+                    "initial": "D.",
+                    "last": "Karp"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Uhlig"
+                },
+                {
+                    "first": "Augustine M.K.",
+                    "initial": "A.M.K.",
+                    "last": "Choi"
+                }
+            ],
+            "doi": "10.1152/physiolgenomics.00110.2005",
+            "firstpage": "68",
+            "issn": "10948341",
+            "lastpage": "75",
+            "pmid": "16569776",
+            "pub_year": 2006,
+            "title": "Gene expression profiling of target genes in ventilator-induced lung injury",
+            "volume": "26"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Nobuaki",
+                    "initial": "N.",
+                    "last": "Hirota"
+                },
+                {
+                    "first": "Paul Andre",
+                    "initial": "P.A.",
+                    "last": "Risse"
+                },
+                {
+                    "first": "Mauro",
+                    "initial": "M.",
+                    "last": "Novali"
+                },
+                {
+                    "first": "Toby",
+                    "initial": "T.",
+                    "last": "McGovern"
+                },
+                {
+                    "first": "Laila",
+                    "initial": "L.",
+                    "last": "Al-Alwan"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "McCuaig"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Proud"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Hayden"
+                },
+                {
+                    "first": "Qutayba",
+                    "initial": "Q.",
+                    "last": "Hamid"
+                },
+                {
+                    "first": "James G.",
+                    "initial": "J.G.",
+                    "last": "Martin"
+                }
+            ],
+            "doi": "10.1096/fj.11-197061",
+            "firstpage": "1704",
+            "issn": "08926638",
+            "lastpage": "1716",
+            "pmid": "22247333",
+            "pub_year": 2012,
+            "title": "Histamine may induce airway remodeling through release of epidermal growth factor receptor ligands from bronchial epithelial cells",
+            "volume": "26"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Yukinori",
+                    "initial": "Y.",
+                    "last": "Enomoto"
+                },
+                {
+                    "first": "Kanami",
+                    "initial": "K.",
+                    "last": "Orihara"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Takamasu"
+                },
+                {
+                    "first": "Akio",
+                    "initial": "A.",
+                    "last": "Matsuda"
+                },
+                {
+                    "first": "Yasuhiro",
+                    "initial": "Y.",
+                    "last": "Gon"
+                },
+                {
+                    "first": "Hirohisa",
+                    "initial": "H.",
+                    "last": "Saito"
+                },
+                {
+                    "first": "Chisei",
+                    "initial": "C.",
+                    "last": "Ra"
+                },
+                {
+                    "first": "Yoshimichi",
+                    "initial": "Y.",
+                    "last": "Okayama"
+                }
+            ],
+            "doi": "10.1016/j.jaci.2009.08.044",
+            "firstpage": "913",
+            "issn": "00916749",
+            "lastpage": "e7",
+            "pmid": "19895983",
+            "pub_year": 2009,
+            "title": "Tissue remodeling induced by hypersecreted epidermal growth factor and amphiregulin in the airway after an acute asthma attack",
+            "volume": "124"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Willem I.",
+                    "initial": "W.I.",
+                    "last": "De Boer"
+                },
+                {
+                    "first": "Chi M.",
+                    "initial": "C.M.",
+                    "last": "Hau"
+                },
+                {
+                    "first": "Annemarie",
+                    "initial": "A.",
+                    "last": "Van Schadewijk"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Stolk"
+                },
+                {
+                    "first": "J. Han J.M.",
+                    "initial": "J.H.J.M.",
+                    "last": "Van Krieken"
+                },
+                {
+                    "first": "Pieter S.",
+                    "initial": "P.S.",
+                    "last": "Hiemstra"
+                }
+            ],
+            "doi": "10.1309/W1AXKGT7UA37X257",
+            "firstpage": "184",
+            "issn": "00029173",
+            "lastpage": "192",
+            "pmid": "16393673",
+            "pub_year": 2006,
+            "title": "Expression of epidermal growth factors and their receptors in the bronchial epithelium off subjects with chronic obstructive pulmonary disease",
+            "volume": "125"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Younian",
+                    "initial": "Y.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Chen",
+                    "initial": "C.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "Guilin",
+                    "initial": "G.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Dong",
+                    "initial": "D.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Lisha",
+                    "initial": "L.",
+                    "last": "Fu"
+                },
+                {
+                    "first": "Min",
+                    "initial": "M.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Zhao",
+                    "initial": "Z.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Huimin",
+                    "initial": "H.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Shanglong",
+                    "initial": "S.",
+                    "last": "Yao"
+                },
+                {
+                    "first": "Shihai",
+                    "initial": "S.",
+                    "last": "Zhang"
+                }
+            ],
+            "doi": "10.1097/ALN.0000000000001026",
+            "firstpage": "1086",
+            "issn": "00033022",
+            "lastpage": "1099",
+            "pmid": "26808632",
+            "pub_year": 2016,
+            "title": "Classically activated macrophages protect against lipopolysaccharide-induced acute lung injury by expressing amphiregulin in mice",
+            "volume": "124"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Jutaro",
+                    "initial": "J.",
+                    "last": "Fukumoto"
+                },
+                {
+                    "first": "Chika",
+                    "initial": "C.",
+                    "last": "Harada"
+                },
+                {
+                    "first": "Tomonobu",
+                    "initial": "T.",
+                    "last": "Kawaguchi"
+                },
+                {
+                    "first": "Saiko",
+                    "initial": "S.",
+                    "last": "Suetsugu"
+                },
+                {
+                    "first": "Takashige",
+                    "initial": "T.",
+                    "last": "Maeyama"
+                },
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Inoshima"
+                },
+                {
+                    "first": "Naoki",
+                    "initial": "N.",
+                    "last": "Hamada"
+                },
+                {
+                    "first": "Kazuyoshi",
+                    "initial": "K.",
+                    "last": "Kuwano"
+                },
+                {
+                    "first": "Yoichi",
+                    "initial": "Y.",
+                    "last": "Nakanishi"
+                }
+            ],
+            "doi": "10.1152/ajplung.90576.2008",
+            "firstpage": "L131",
+            "issn": "10400605",
+            "lastpage": "L138",
+            "pmid": "19915156",
+            "pub_year": 2010,
+            "title": "Amphiregulin attenuates bleomycin-induced pneumopathy in mice",
+            "volume": "298"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Carmen",
+                    "initial": "C.",
+                    "last": "Berasain"
+                },
+                {
+                    "first": "Elena E.",
+                    "initial": "E.E.",
+                    "last": "Garc\u00eda-Trevijano"
+                },
+                {
+                    "first": "Josefa",
+                    "initial": "J.",
+                    "last": "Castillo"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Erroba"
+                },
+                {
+                    "first": "Monica",
+                    "initial": "M.",
+                    "last": "Santamar\u00eda"
+                },
+                {
+                    "first": "David C.",
+                    "initial": "D.C.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Jesus",
+                    "initial": "J.",
+                    "last": "Prieto"
+                },
+                {
+                    "first": "Mat\u00edas A.",
+                    "initial": "M.A.",
+                    "last": "Avila"
+                }
+            ],
+            "doi": "10.1074/jbc.M413344200",
+            "firstpage": "19012",
+            "issn": "00219258",
+            "lastpage": "19020",
+            "pmid": "15753092",
+            "pub_year": 2005,
+            "title": "Novel role for amphiregulin in protection from liver injury",
+            "volume": "280"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Lorraine B.",
+                    "initial": "L.B.",
+                    "last": "Ware"
+                },
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Matthay"
+                }
+            ],
+            "doi": "10.1056/NEJM200005043421806",
+            "firstpage": "1334",
+            "issn": "00284793",
+            "lastpage": "1349",
+            "pmid": "10793167",
+            "pub_year": 2000,
+            "title": "The acute respiratory distress syndrome",
+            "volume": "342"
+        },
+        "bib20": null,
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Kazuyoshi",
+                    "initial": "K.",
+                    "last": "Kuwano"
+                },
+                {
+                    "first": "Naoki",
+                    "initial": "N.",
+                    "last": "Hagimoto"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Kawasaki"
+                },
+                {
+                    "first": "Takehiro",
+                    "initial": "T.",
+                    "last": "Yatomi"
+                },
+                {
+                    "first": "Norio",
+                    "initial": "N.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Shigekazu",
+                    "initial": "S.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Suda"
+                },
+                {
+                    "first": "Ritsuko",
+                    "initial": "R.",
+                    "last": "Kunitake"
+                },
+                {
+                    "first": "Takashige",
+                    "initial": "T.",
+                    "last": "Maeyama"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Miyazaki"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Hara"
+                }
+            ],
+            "doi": "10.1172/JCI5628",
+            "firstpage": "13",
+            "issn": "00219738",
+            "lastpage": "19",
+            "pmid": "10393694",
+            "pub_year": 1999,
+            "title": "Essential roles of the Fas-Fas ligand pathway in the development of pulmonary fibrosis",
+            "volume": "104"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Ion V.",
+                    "initial": "I.V.",
+                    "last": "Deaciuc"
+                },
+                {
+                    "first": "Nympha B.",
+                    "initial": "N.B.",
+                    "last": "D'Souza"
+                },
+                {
+                    "first": "Ravshan",
+                    "initial": "R.",
+                    "last": "Burikhanov"
+                },
+                {
+                    "first": "Eun Y.",
+                    "initial": "E.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Corneliu N.",
+                    "initial": "C.N.",
+                    "last": "Tarba"
+                },
+                {
+                    "first": "Craig J.",
+                    "initial": "C.J.",
+                    "last": "McClain"
+                },
+                {
+                    "first": "Willem J.S.",
+                    "initial": "W.J.S.",
+                    "last": "De Villiers"
+                }
+            ],
+            "doi": "10.1097/00000374-200206000-00017",
+            "firstpage": "864",
+            "issn": "01456008",
+            "lastpage": "874",
+            "pmid": "12068256",
+            "pub_year": 2002,
+            "title": "Epidermal growth factor protects the liver against alcohol-induced injury and sensitization to bacterial lipopolysaccharide",
+            "volume": "26"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Herbert",
+                    "initial": "H.",
+                    "last": "Bosshart"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Heinzelmann"
+                }
+            ],
+            "doi": "10.1196/annals.1397.064",
+            "firstpage": "1",
+            "issn": "00778923",
+            "lastpage": "17",
+            "pmid": "17405910",
+            "pub_year": 2007,
+            "title": "Targeting bacterial endotoxin: Two sides of a coin",
+            "volume": "1096"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Jonathan L.",
+                    "initial": "J.L.",
+                    "last": "Koff"
+                },
+                {
+                    "first": "Matt X.G.",
+                    "initial": "M.X.G.",
+                    "last": "Shao"
+                },
+                {
+                    "first": "Iris F.",
+                    "initial": "I.F.",
+                    "last": "Ueki"
+                },
+                {
+                    "first": "Jay A.",
+                    "initial": "J.A.",
+                    "last": "Nadel"
+                }
+            ],
+            "doi": "10.1152/ajplung.00025.2008",
+            "firstpage": "L1068",
+            "issn": "10400605",
+            "lastpage": "L1075",
+            "pmid": "18375743",
+            "pub_year": 2008,
+            "title": "Multiple TLRs activate EGFR via a signaling cascade to produce innate immune responses in airway epithelium",
+            "volume": "294"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Hye Jin",
+                    "initial": "H.J.",
+                    "last": "Choi"
+                },
+                {
+                    "first": "Chan Hee",
+                    "initial": "C.H.",
+                    "last": "Seo"
+                },
+                {
+                    "first": "Seong Hwan",
+                    "initial": "S.H.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Hyun",
+                    "initial": "H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Kee Hun",
+                    "initial": "K.H.",
+                    "last": "Do"
+                },
+                {
+                    "first": "Juil",
+                    "initial": "J.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Hyung Kab",
+                    "initial": "H.K.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Duk Hwa",
+                    "initial": "D.H.",
+                    "last": "Chung"
+                },
+                {
+                    "first": "Jung Hoon",
+                    "initial": "J.H.",
+                    "last": "Ahn"
+                },
+                {
+                    "first": "Yuseok",
+                    "initial": "Y.",
+                    "last": "Moon"
+                }
+            ],
+            "doi": "10.1128/IAI.01232-10",
+            "firstpage": "1998",
+            "issn": "00199567",
+            "lastpage": "2005",
+            "pmid": "21343351",
+            "pub_year": 2011,
+            "title": "Involvement of epidermal growth factor receptor-linked signaling responses in Pseudomonas fluorescens-infected alveolar epithelial cells",
+            "volume": "79"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Yang",
+                    "initial": "Y.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Jae Young",
+                    "initial": "J.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Chang Min",
+                    "initial": "C.M.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Won Kyung",
+                    "initial": "W.K.",
+                    "last": "Cho"
+                },
+                {
+                    "first": "Min Jong",
+                    "initial": "M.J.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Jonathan L.",
+                    "initial": "J.L.",
+                    "last": "Koff"
+                },
+                {
+                    "first": "Pyeong Oh",
+                    "initial": "P.O.",
+                    "last": "Yoon"
+                },
+                {
+                    "first": "Jeiwook",
+                    "initial": "J.",
+                    "last": "Chae"
+                },
+                {
+                    "first": "Han Oh",
+                    "initial": "H.O.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Jack A.",
+                    "initial": "J.A.",
+                    "last": "Elias"
+                },
+                {
+                    "first": "Chun Geun",
+                    "initial": "C.G.",
+                    "last": "Lee"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.356824",
+            "firstpage": "41991",
+            "issn": "00219258",
+            "lastpage": "42000",
+            "pmid": "23086930",
+            "pub_year": 2012,
+            "title": "Amphiregulin, an epidermal growth factor receptor ligand, plays an essential role in the pathogenesis of transforming growth factor-\u03b2-induced pulmonary fibrosis",
+            "volume": "287"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Joilson O.",
+                    "initial": "J.O.",
+                    "last": "Martins"
+                },
+                {
+                    "first": "Fernando L.",
+                    "initial": "F.L.",
+                    "last": "Zanoni"
+                },
+                {
+                    "first": "Daniel O.",
+                    "initial": "D.O.",
+                    "last": "Martins"
+                },
+                {
+                    "first": "Raul",
+                    "initial": "R.",
+                    "last": "Coimbra"
+                },
+                {
+                    "first": "Jose E.",
+                    "initial": "J.E.",
+                    "last": "Krieger"
+                },
+                {
+                    "first": "Sonia",
+                    "initial": "S.",
+                    "last": "Jancar"
+                },
+                {
+                    "first": "Paulina",
+                    "initial": "P.",
+                    "last": "Sannomiya"
+                }
+            ],
+            "doi": "10.1097/SHK.0b013e318186275e",
+            "firstpage": "404",
+            "issn": "10732322",
+            "lastpage": "409",
+            "pmid": "18791499",
+            "pub_year": 2009,
+            "title": "Insulin regulates cytokines and intercellular adhesion molecule-1 gene expression through nuclear factor-\u03baB activation in LPS-induced acute lung injury in rats",
+            "volume": "31"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Ognjen",
+                    "initial": "O.",
+                    "last": "Gajic"
+                },
+                {
+                    "first": "Ousama",
+                    "initial": "O.",
+                    "last": "Dabbagh"
+                },
+                {
+                    "first": "Pauline K.",
+                    "initial": "P.K.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Adebola",
+                    "initial": "A.",
+                    "last": "Adesanya"
+                },
+                {
+                    "first": "Steven Y.",
+                    "initial": "S.Y.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Hou"
+                },
+                {
+                    "first": "Harry",
+                    "initial": "H.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "J. Jason",
+                    "initial": "J.J.",
+                    "last": "Hoth"
+                },
+                {
+                    "first": "Mark E.",
+                    "initial": "M.E.",
+                    "last": "Mikkelsen"
+                },
+                {
+                    "first": "Nina T.",
+                    "initial": "N.T.",
+                    "last": "Gentile"
+                },
+                {
+                    "first": "Michelle N.",
+                    "initial": "M.N.",
+                    "last": "Gong"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Talmor"
+                },
+                {
+                    "first": "Ednan",
+                    "initial": "E.",
+                    "last": "Bajwa"
+                },
+                {
+                    "first": "Timothy R.",
+                    "initial": "T.R.",
+                    "last": "Watkins"
+                },
+                {
+                    "first": "Emir",
+                    "initial": "E.",
+                    "last": "Festic"
+                },
+                {
+                    "first": "Murat",
+                    "initial": "M.",
+                    "last": "Yilmaz"
+                },
+                {
+                    "first": "Remzi",
+                    "initial": "R.",
+                    "last": "Iscimen"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Kaufman"
+                },
+                {
+                    "first": "Annette M.",
+                    "initial": "A.M.",
+                    "last": "Esper"
+                },
+                {
+                    "first": "Ruxana",
+                    "initial": "R.",
+                    "last": "Sadikot"
+                },
+                {
+                    "first": "Ivor",
+                    "initial": "I.",
+                    "last": "Douglas"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Sevransky"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Malinchoc"
+                }
+            ],
+            "doi": "10.1164/rccm.201004-0549OC",
+            "firstpage": "462",
+            "issn": "1073449X",
+            "lastpage": "470",
+            "pmid": "20802164",
+            "pub_year": 2011,
+            "title": "Early identification of patients at risk of acute lung injury: Evaluation of lung injury prediction score in a multicenter cohort study",
+            "volume": "183"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Istv\u00e1n",
+                    "initial": "I.",
+                    "last": "Vad\u00e1sz"
+                },
+                {
+                    "first": "Jacob I.",
+                    "initial": "J.I.",
+                    "last": "Sznajder"
+                }
+            ],
+            "doi": "10.1164/rccm.201102-0327UP",
+            "firstpage": "1147",
+            "issn": "1073449X",
+            "lastpage": "1152",
+            "pmid": "21531954",
+            "pub_year": 2011,
+            "title": "Update in acute lung injury and critical care 2010",
+            "volume": "183"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Xinhua",
+                    "initial": "X.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "Daomiao",
+                    "initial": "D.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Yuhang",
+                    "initial": "Y.",
+                    "last": "Ai"
+                },
+                {
+                    "first": "Guangfeng",
+                    "initial": "G.",
+                    "last": "Ming"
+                },
+                {
+                    "first": "Shuangping",
+                    "initial": "S.",
+                    "last": "Zhao"
+                }
+            ],
+            "doi": "10.1007/s11033-009-9876-9",
+            "firstpage": "3051",
+            "issn": "03014851",
+            "lastpage": "3056",
+            "pmid": "19823951",
+            "pub_year": 2010,
+            "title": "Fas inhibition attenuates lipopolysaccharide-induced apoptosis and cytokine release of rat type II alveolar epithelial cells",
+            "volume": "37"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Dhaliwal"
+                },
+                {
+                    "first": "Emma",
+                    "initial": "E.",
+                    "last": "Scholefield"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Ferenbach"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Gibbons"
+                },
+                {
+                    "first": "Rodger",
+                    "initial": "R.",
+                    "last": "Duffin"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Dorward"
+                },
+                {
+                    "first": "Andrew Conway",
+                    "initial": "A.C.",
+                    "last": "Morris"
+                },
+                {
+                    "first": "Duncan",
+                    "initial": "D.",
+                    "last": "Humphries"
+                },
+                {
+                    "first": "Alison",
+                    "initial": "A.",
+                    "last": "MacKinnon"
+                },
+                {
+                    "first": "Tom S.",
+                    "initial": "T.S.",
+                    "last": "Wilkinson"
+                },
+                {
+                    "first": "William A.H.",
+                    "initial": "W.A.H.",
+                    "last": "Wallace"
+                },
+                {
+                    "first": "Nico",
+                    "initial": "N.",
+                    "last": "Van Rooijen"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Mack"
+                },
+                {
+                    "first": "Adriano G.",
+                    "initial": "A.G.",
+                    "last": "Rossi"
+                },
+                {
+                    "first": "Donald J.",
+                    "initial": "D.J.",
+                    "last": "Davidson"
+                },
+                {
+                    "first": "Nik",
+                    "initial": "N.",
+                    "last": "Hirani"
+                },
+                {
+                    "first": "Jeremy",
+                    "initial": "J.",
+                    "last": "Hughes"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Haslett"
+                },
+                {
+                    "first": "A. John",
+                    "initial": "A.J.",
+                    "last": "Simpson"
+                }
+            ],
+            "doi": "10.1164/rccm.201112-2132OC",
+            "firstpage": "514",
+            "issn": "1073449X",
+            "lastpage": "524",
+            "pmid": "22822022",
+            "pub_year": 2012,
+            "title": "Monocytes control second-phase neutrophil emigration in established lipopolysaccharide-induced murine lung injury",
+            "volume": "186"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Kitamura"
+                },
+                {
+                    "first": "Satoru",
+                    "initial": "S.",
+                    "last": "Hashimoto"
+                },
+                {
+                    "first": "Naruhiko",
+                    "initial": "N.",
+                    "last": "Mizuta"
+                },
+                {
+                    "first": "Atsuko",
+                    "initial": "A.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Kunihiko",
+                    "initial": "K.",
+                    "last": "Kooguchi"
+                },
+                {
+                    "first": "Ikuya",
+                    "initial": "I.",
+                    "last": "Fujiwara"
+                },
+                {
+                    "first": "Hiroo",
+                    "initial": "H.",
+                    "last": "Nakajima"
+                }
+            ],
+            "doi": "10.1164/ajrccm.163.3.2003065",
+            "firstpage": "762",
+            "issn": "1073449X",
+            "lastpage": "769",
+            "pmid": "11254536",
+            "pub_year": 2001,
+            "title": "Fas/FasL-dependent apoptosis of alveolar cells after lipopolysaccharide-induced lung injury in mice",
+            "volume": "163"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Lefort"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Motreff"
+                },
+                {
+                    "first": "B. B.",
+                    "initial": "B.B.",
+                    "last": "Vargaftig"
+                }
+            ],
+            "doi": "10.1165/ajrcmb.24.3.4289",
+            "firstpage": "345",
+            "issn": "10441549",
+            "lastpage": "351",
+            "pmid": "11245635",
+            "pub_year": 2001,
+            "title": "Airway administration of Escherichia coli endotoxin to mice induces glucocorticosteroid-resistant bronchoconstriction and vasopermeation",
+            "volume": "24"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Fujita"
+                },
+                {
+                    "first": "Kazuyoshi",
+                    "initial": "K.",
+                    "last": "Kuwano"
+                },
+                {
+                    "first": "Ritsuko",
+                    "initial": "R.",
+                    "last": "Kunitake"
+                },
+                {
+                    "first": "Naoki",
+                    "initial": "N.",
+                    "last": "Hagimoto"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Miyazaki"
+                },
+                {
+                    "first": "Yumi",
+                    "initial": "Y.",
+                    "last": "Kaneko"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Kawasaki"
+                },
+                {
+                    "first": "Takashige",
+                    "initial": "T.",
+                    "last": "Maeyama"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Hara"
+                }
+            ],
+            "doi": "10.1159/000024011",
+            "firstpage": "202",
+            "issn": "10182438",
+            "lastpage": "208",
+            "pmid": "9831808",
+            "pub_year": 1998,
+            "title": "Endothelial cell apoptosis in lipopolysaccharide-induced lung injury in mice",
+            "volume": "117"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 21954,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "This elevation in protein concentration was suppressed by amphiregulin treatment (Fig. 1D).",
+            "startOffset": 21863,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 23598,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Next, the apoptotic pathways in the LA-4 cells were analyzed.",
+            "startOffset": 23537,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 23708,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At 24 h after LPS treatment, caspase-11 and activation fragments of caspase-8 and caspase-3 were upregulated.",
+            "startOffset": 23599,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 16953,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The sections were then incubated with biotinylated secondary antibody for 30 min.",
+            "startOffset": 16872,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 12559,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 12558,
+                    "startOffset": 12555
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Common causes of clinical disorders associated with the development of ARDS are pneumonia, gastric content aspiration, sepsis, and severe trauma [2].",
+            "startOffset": 12410,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15333,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The mice were sacrificed with an overdose of anesthesia 6 or 24 h after LPS instillation.",
+            "startOffset": 15244,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 16871,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Sections were immunostained with rabbit polyclonal anti-epidermal growth factor receptor (EGFR) antibody (1:100; Santa Cruz Biotechnology, Santa Cruz, CA, USA) and rabbit polyclonal anti-phospho-EGFR antibody (1:50; Cell Signaling, Beverly, MA, USA) at 4 \u00b0C overnight.",
+            "startOffset": 16603,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 24709,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 24708,
+                    "startOffset": 24704
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A pro-apoptotic response via EGFR has also been reported [25].",
+            "startOffset": 24647,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12672,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 12671,
+                    "startOffset": 12666
+                },
+                "bib4": {
+                    "endOffset": 12671,
+                    "startOffset": 12666
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although many studies have investigated the mechanisms and risks of ARDS, the mortality rate remains high [3,4].",
+            "startOffset": 12560,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19121,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Cells were washed in PBS and re-suspended in an incubation buffer [10 mM HEPES/NaOH (pH 7.4), 140 mM NaCl, 5 mM CaCl2] with Annexin V\u2013fluorescein isothiocyanate (FITC) and propidium iodide.",
+            "startOffset": 18932,
+            "title": "Apoptotic analysis by flow cytometry"
+        },
+        {
+            "endOffset": 19744,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The following primary antibodies were used: anti-caspase 11 (Santa Cruz Biotechnology), anti-cleaved caspse-8 (Cell Signaling), anti-cleaved caspase-3 (Cell Signaling), and anti-\u03b2-tubulin (Millipore).",
+            "startOffset": 19544,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 19854,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Signals were measured using ImageJ public-domain software (imagej.nih.gov/ij/) and standardized to \u03b2-tubulin.",
+            "startOffset": 19745,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 19461,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Cells were lysed in a sample buffer [50 mM Tris-HCl (pH 6.8), 2% sodium dodecyl sulfate, 10% glycerol, 0.6% mercaptoethanol], and boiled for 2 min.",
+            "startOffset": 19314,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 26624,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, amphiregulin treatment ameliorates LPS-induced lung injury in the acute phase by controlling apoptosis.",
+            "startOffset": 26506,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16503,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Immunohistochemistry was performed using a Histofine SAB-PO kit (Nichirei Corporation, Tokyo, Japan).",
+            "startOffset": 16402,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 20520,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "IL-1\u03b2, IL-6, CXCL1, and CCL2 in the supernatant of LPS-stimulated LA-4 cells were measured using the Bio-Plex Pro assay kit on the basis of xMAP suspension array technology (Bio-Rad Laboratories Inc., Hercules, CA, USA).",
+            "startOffset": 20300,
+            "title": "Enzyme-linked immunosorbent assay"
+        },
+        {
+            "endOffset": 24406,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 24405,
+                    "startOffset": 24401
+                }
+            },
+            "secId": "sec4",
+            "sentence": "EGF is also reported to protect against sensitization to bacterial LPS [22].",
+            "startOffset": 24330,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18719,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The cells were then incubated with 0 or 50 \u03bcg/mL LPS for 24 h to induce apoptosis and then harvested to prepare for flow cytometry or western blot analysis.",
+            "startOffset": 18563,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 19543,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 19542,
+                    "startOffset": 19538
+                }
+            },
+            "secId": "sec2.8",
+            "sentence": "The samples were subjected to western blot analysis as previously described [13].",
+            "startOffset": 19462,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 26459,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We showed that amphiregulin suppressed ICAM-1 expression and neutrophil accumulation in vivo; however, the mechanism for this is unknown.",
+            "startOffset": 26322,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17964,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 17963,
+                    "startOffset": 17959
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "Terminal deoxynucleotidyl transferase -mediated dUTP nick end label (TUNEL) staining was performed using a DeadEnd Colorimetric Apoptosis Detection System (Promega, Madison, WI, USA) as previously described [18].",
+            "startOffset": 17752,
+            "title": "DNA damage and apoptosis in lung tissue"
+        },
+        {
+            "endOffset": 22741,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Amphiregulin treatment decreased the ICAM-1 level at 24 h after LPS administration (Fig. 2).",
+            "startOffset": 22649,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 21674,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Amphiregulin treatment significantly decreased the numbers of total cells and neutrophils at 24 h (Fig. 1C).",
+            "startOffset": 21566,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 13972,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the molecular mechanisms have not been well documented.",
+            "startOffset": 13908,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17458,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The cells present in the lavage fluid were counted using a hemocytometer.",
+            "startOffset": 17385,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 24329,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Moreover, amphiregulin plays an important role in protection against liver injury and bleomycin-induced lung injury.",
+            "startOffset": 24213,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17585,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Differential counts of BAL cells were performed on 200 cells stained with Diff-Quick (Baxter Diagnostics, Dearfield, IL, USA).",
+            "startOffset": 17459,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 23987,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These results indicate that amphiregulin suppressed epithelial cell apoptosis via the caspase-8 pathway (Fig. 4D).",
+            "startOffset": 23873,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 22648,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "At 6 and 24 h after injection, the ICAM-1 level was significantly increased in the LPS-administered mice compared with the control mice.",
+            "startOffset": 22512,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 25371,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 25370,
+                    "startOffset": 25366
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In fact, Zhou et al. showed that amphiregulin contributed to pulmonary fibrosis in transforming growth factor-\u03b2-induced pulmonary fibrosis [26].",
+            "startOffset": 25227,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17296,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Briefly, After insertion of a tracheal tube, the trachea was lavaged twice with 1 mL sterile saline at room temperature.",
+            "startOffset": 17176,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 13454,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 13453,
+                    "startOffset": 13449
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We previously reported that intravenous LPS induced apoptosis of endothelial and alveolar epithelial cells, and that a broad-spectrum caspase inhibitor prevented apoptosis and lung injury in mice [11].",
+            "startOffset": 13253,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23537,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Pre-treatment with 100 nM amphiregulin significantly suppressed this effect (8.56 \u00b1 0.81%) (Fig. 4A).",
+            "startOffset": 23436,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 17175,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 17174,
+                    "startOffset": 17170
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Bronchoalveolar lavage (BAL) and analysis were performed as previously described [20].",
+            "startOffset": 17089,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 26012,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, our results showed that extrinsic amphiregulin did not suppress inflammatory cytokines (IL-1\u03b2, IL-6, and TNF\u03b1) or chemokines (CXCL1 and CCL2) in vivo.",
+            "startOffset": 25853,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24861,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Amphiregulin decreased apoptosis in lung epithelial cells.",
+            "startOffset": 24803,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18783,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The supernatants were used for cytokine/chemokine measurements.",
+            "startOffset": 18720,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 21200,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Lung tissue from mice that were administered saline as a control demonstrated normal lung parenchyma.",
+            "startOffset": 21099,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 22378,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Inflammatory cytokines (IL-1\u03b2, IL-6, TNF-\u03b1) and chemokines (CXCL1, CCL2) were significantly increased after LPS administration (Fig. 2).",
+            "startOffset": 22242,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 16602,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Nonspecific protein staining was blocked with rabbit or goat serum for 30 min at room temperature.",
+            "startOffset": 16504,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 20966,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Statistical analysis was performed with JMP version 8 (SAS Institute, Cary, NC, USA).",
+            "startOffset": 20881,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 22939,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "TUNEL staining was performed to detect apoptotic cells, as their presence reflects the degree of lung injury.",
+            "startOffset": 22830,
+            "title": "Extrinsic amphiregulin suppresses epithelial cell apoptosis in LPS-induced lung injury"
+        },
+        {
+            "endOffset": 20833,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Student's t-test was used to compare the number of BALF cells, BALF protein concentrations, BALF cytokine levels, number of TUNEL-positive cells, apoptosis rate of LA-4 cells, and relative intensity of western blot products.",
+            "startOffset": 20609,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25226,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This suggests that amphiregulin has a central but not absolute role in inhibiting LPS-induced epithelial cell apoptosis.",
+            "startOffset": 25106,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21344,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In contrast, mice administered LPS displayed inflammatory cell infiltration, parenchymal edema, and slight alveolar hemorrhage in lung tissues.",
+            "startOffset": 21201,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 18931,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "LA-4 cell apoptosis was analyzed using a Annexin V-FLUOS staining kit (Roche Diagnostics, Penzberg, Germany).",
+            "startOffset": 18822,
+            "title": "Apoptotic analysis by flow cytometry"
+        },
+        {
+            "endOffset": 20300,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Chemokine (C-X-C motif) ligand 1 (CXCL1) levels were measured using an ELISA kit (R&D Systems, Minneapolis, MN, USA) according to the manufacturer's instructions.",
+            "startOffset": 20138,
+            "title": "Enzyme-linked immunosorbent assay"
+        },
+        {
+            "endOffset": 21565,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The numbers of total cells and neutrophils in the BALF of the LPS-injected mice were significantly higher than those in the BALF of the control mice.",
+            "startOffset": 21416,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 22511,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Amphiregulin treatment tended to decrease IL-6 and CCL2 levels, however, this difference was not statistically significant (Fig. 2).",
+            "startOffset": 22379,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 15435,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 15434,
+                    "startOffset": 15430
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Preparation of lung tissue was performed as previously described [20].",
+            "startOffset": 15365,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 25852,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 25851,
+                    "startOffset": 25847
+                }
+            },
+            "secId": "sec4",
+            "sentence": "According to a previous report, extrinsic amphiregulin suppressed inflammatory cytokines in BALF in LPS-induced lung injury [17].",
+            "startOffset": 25723,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13252,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 13251,
+                    "startOffset": 13247
+                },
+                "bib9": {
+                    "endOffset": 13122,
+                    "startOffset": 13119
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Intravenous LPS induced disseminated endothelial apoptosis [9] as well as non-endothelial tissue damage in the lung, and epithelial cell apoptosis was detected in diffuse alveolar damage [10].",
+            "startOffset": 13060,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15940,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 15939,
+                    "startOffset": 15932
+                },
+                "bib21": {
+                    "endOffset": 15939,
+                    "startOffset": 15932
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The pathological grade was scored on a scale of 0\u20133 as previously described [20,21].",
+            "startOffset": 15856,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 17710,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Total protein concentrations in BAL fluid (BALF) were measured using the Bio-Rad Protein Assay (Bio-Rad, Hercules, CA, USA).",
+            "startOffset": 17586,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 12409,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 12408,
+                    "startOffset": 12405
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Acute lung injury is characterized by neutrophil inflammation and epithelial apoptosis [2].",
+            "startOffset": 12318,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18389,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The cells were cultured in F12K medium with 10% fetal bovine serum and 1% penicillin\u2013streptomycin.",
+            "startOffset": 18291,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 20137,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Interleukin (IL)-1\u03b2, IL-6, chemokine (C-C motif) ligand 2 (CCL2), tumor necrosis factor (TNF)-\u03b1, and intercellular adhesion molecule (ICAM)-1 were measured using enzyme-linked immunosorbent assay (ELISA) kits obtained from Thermo Scientific (USA).",
+            "startOffset": 19890,
+            "title": "Enzyme-linked immunosorbent assay"
+        },
+        {
+            "endOffset": 14504,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "This study was conducted in accordance with the Animal Care and Use Committee of Kyushu University guidelines, approved by the Ethics Committee of Kyushu University Faculty of Medicine (No. A26-130-0), and performed according to the guidelines of the American Physiological Society.",
+            "startOffset": 14222,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 23435,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Treatment with LPS for 24 h induced apoptosis in 12.39 \u00b1 0.58% of LA-4 cells.",
+            "startOffset": 23358,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 12934,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 12933,
+                    "startOffset": 12928
+                },
+                "bib7": {
+                    "endOffset": 12933,
+                    "startOffset": 12928
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Intratracheal LPS instillation induced acute lung injury with neutrophil emigration in mice [6,7].",
+            "startOffset": 12836,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25643,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Amphiregulin orchestrates tissue repair and homeostasis, but a prolonged, excessive amphiregulin effect may contribute to lung fibrosis.",
+            "startOffset": 25507,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15691,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The lung sections were stained with hematoxylin and eosin.",
+            "startOffset": 15633,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 25506,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This contradictory report may reflect the differing nature of injury between the different experimental settings, and the time course.",
+            "startOffset": 25372,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23201,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These results indicate that amphiregulin suppressed LPS-induced epithelial cell apoptosis.",
+            "startOffset": 23111,
+            "title": "Extrinsic amphiregulin suppresses epithelial cell apoptosis in LPS-induced lung injury"
+        },
+        {
+            "endOffset": 23357,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To explore the underlying mechanisms, we used mouse epithelial cell line LA-4.",
+            "startOffset": 23279,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        },
+        {
+            "endOffset": 14181,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Given that lung epithelial cell damage plays an important role in the pathogenesis of acute lung injury, this study was to determine the effect of amphiregulin on the apoptosis in the LPS-induced lung injury.",
+            "startOffset": 13973,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14842,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The mice were anesthetized with an intraperitoneal injection of pentobarbital sodium (Schering-Plough, Kenilworth, NJ, USA) and intranasally administered 0.5 mg/kg LPS from Escherichia coli 0111:B4 (Sigma, St. Louis, MO, USA).",
+            "startOffset": 14616,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 26853,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The authors have no conflicts of interest to disclose.",
+            "startOffset": 26799,
+            "title": "Disclosure statement"
+        },
+        {
+            "endOffset": 13641,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 13640,
+                    "startOffset": 13636
+                }
+            },
+            "secId": "sec1",
+            "sentence": "It was reported to be upregulated in a ventilator-associated acute lung injury model [13].",
+            "startOffset": 13551,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12746,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Lipopolysaccharide (LPS) is strongly associated with lung injury and ARDS.",
+            "startOffset": 12672,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16147,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Briefly, the grade criteria were as follows: 0, no lung abnormality; 1, presence of lung injury involving <25% of the lung; 2, lesions involving 25\u201350% of the lung; or 3, lesions involving >50% of the lung.",
+            "startOffset": 15941,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 19245,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "After incubating for 20 min on ice, fluorescence was measured using a Coulter EPICS XL flow cytometer (Coulter, Miami, FL).",
+            "startOffset": 19122,
+            "title": "Apoptotic analysis by flow cytometry"
+        },
+        {
+            "endOffset": 24212,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 24211,
+                    "startOffset": 24207
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It is reported to have a less potent growth stimulatory effect through EGFRs, except in murine keratinocytes [12].",
+            "startOffset": 24098,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25105,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, caspase-11, which regulates both inflammatory response and apoptosis, was not inhibited by amphiregulin.",
+            "startOffset": 24992,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20880,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "P values of <0.05 were considered significant.",
+            "startOffset": 20834,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25722,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "ARDS is characterized by neutrophil inflammation and epithelial cell apoptosis.",
+            "startOffset": 25643,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18122,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The number of TUNEL-positive cells was counted (the whole field of 10 randomly selected fields) in each section under a microscope using 200 \u00d7 magnification.",
+            "startOffset": 17965,
+            "title": "DNA damage and apoptosis in lung tissue"
+        },
+        {
+            "endOffset": 26779,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Though amphiregulin is a double-edged sword in terms of lung injury and fibrosis, the amphiregulin pathway may be a therapeutic target for ARDS treatment.",
+            "startOffset": 26625,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18470,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The cultures were incubated at 37 \u00b0C in a humidified, 95% air/5% CO2 atmosphere.",
+            "startOffset": 18390,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 26506,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Further work is needed to explore this effect.",
+            "startOffset": 26460,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17049,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The slides were incubated with streptavidin\u2013biotin\u2013peroxidase complexes for 30 min and mounted.",
+            "startOffset": 16954,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 21862,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "At 24 h after injection, the total protein concentration in the BALF (which reflects alveolar permeability) was significantly higher in the LPS-administered mice than in the control mice.",
+            "startOffset": 21675,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 20608,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Pathological grades were compared using the Mann\u2013Whitney U test.",
+            "startOffset": 20544,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 19290,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Three samples from each group were analyzed.",
+            "startOffset": 19246,
+            "title": "Apoptotic analysis by flow cytometry"
+        },
+        {
+            "endOffset": 24495,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 24494,
+                    "startOffset": 24490
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The cellular response to LPS is mediated by Toll-like receptor 4 (TLR4) activation [23].",
+            "startOffset": 24407,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17384,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The recovered fluids were filtered through a single layer of gauze to remove the mucus.",
+            "startOffset": 17297,
+            "title": "Bronchoalveolar lavage fluid analysis"
+        },
+        {
+            "endOffset": 23002,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "LPS administration caused epithelial cell apoptosis (Fig. 3A).",
+            "startOffset": 22940,
+            "title": "Extrinsic amphiregulin suppresses epithelial cell apoptosis in LPS-induced lung injury"
+        },
+        {
+            "endOffset": 18562,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The cells were treated with 0, 10, or 100 nM amphiregulin for 3 h and then washed with PBS.",
+            "startOffset": 18471,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 15139,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 15138,
+                    "startOffset": 15134
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "The mice were intraperitoneally injected with 7.5 \u03bcg/body weight of recombinant human amphiregulin (Sigma) or phosphate buffered saline (PBS) 6 and 0.5 h before and 3 h after LPS instillation, as previously reported [18].",
+            "startOffset": 14918,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 26130,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This may be due to the better efficiency of LPS intranasal administration compared with intratracheal administration.",
+            "startOffset": 26013,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14615,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Seven-week-old female C57BL/6 mice were purchased from SLC, Inc., Shizuoka, Japan and used in all experiments.",
+            "startOffset": 14505,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 24646,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 24645,
+                    "startOffset": 24641
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Many studies have demonstrated an association between TLR and EGFR; for example, TLRs induced IL-8 and VEGF via the EGFR phosphorylation pathway [24].",
+            "startOffset": 24496,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15855,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The pathological grades of lung injury in the whole area of the mid-sagittal sections were evaluated under 40 \u00d7 magnification by two observers in a blinded manner.",
+            "startOffset": 15692,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 12835,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 12834,
+                    "startOffset": 12831
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In type II alveolar epithelial cells, LPS induced apoptosis and cytokine production [5].",
+            "startOffset": 12747,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21014,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Error bars denote \u00b1 standard error of the mean.",
+            "startOffset": 20967,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26321,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 26320,
+                    "startOffset": 26316
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Martins et al. reported that lung ICAM-1 mRNA levels were elevated via the nuclear factor kappa B (NF-\u03baB) signaling pathway in LPS-induced lung injury, resulting in neutrophil migration [27].",
+            "startOffset": 26130,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16269,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Paraffin sections (3 \u03bcm thick) were adhered to slides pretreated with poly-l-lysine.",
+            "startOffset": 16185,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 22242,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, phosphorylated EGFR was weakly detected in the lung epithelial cells of the LPS-administered mice, and this was significantly upregulated by amphiregulin treatment (Supplementaly Fig. 1).",
+            "startOffset": 22046,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 14917,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Control mice were administered sterile saline instead of the LPS solution.",
+            "startOffset": 14843,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 15632,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Briefly, 10% formalin was infused into the airways at a pressure of 20 cm H2O, as recommended for lung histology assessment in animal experiments, and fixed lung samples were embedded in paraffin.",
+            "startOffset": 15436,
+            "title": "Histopathology of lung tissue"
+        },
+        {
+            "endOffset": 23110,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "However, extrinsic amphiregulin treatment markedly decreased the number of apoptotic cells (Fig. 3A and B).",
+            "startOffset": 23003,
+            "title": "Extrinsic amphiregulin suppresses epithelial cell apoptosis in LPS-induced lung injury"
+        },
+        {
+            "endOffset": 13907,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 13782,
+                    "startOffset": 13775
+                },
+                "bib15": {
+                    "endOffset": 13782,
+                    "startOffset": 13775
+                },
+                "bib16": {
+                    "endOffset": 13782,
+                    "startOffset": 13775
+                },
+                "bib17": {
+                    "endOffset": 13906,
+                    "startOffset": 13902
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Amphiregulin expression was also increased in damaged lung tissues in patients with chronic obstructive pulmonary disease and asthma [14\u201316] recently, amphiregulin has been reported to protect against lipopolysaccharide (LPS)\u2013induced acute lung injury in mice [17].",
+            "startOffset": 13642,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15243,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 15242,
+                    "startOffset": 15235
+                },
+                "bib19": {
+                    "endOffset": 15242,
+                    "startOffset": 15235
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "The treatment schedule and doses of amphiregulin were determined according to previous studies [18,19].",
+            "startOffset": 15140,
+            "title": "Animal treatment"
+        },
+        {
+            "endOffset": 13059,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 13058,
+                    "startOffset": 13055
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Neutrophil accumulation and cytokine production were reported to be caused by intranasal and aerosol LPS administration [8].",
+            "startOffset": 12935,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12317,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 12316,
+                    "startOffset": 12313
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Acute respiratory distress syndrome (ARDS) was first proposed by Ashbaugh et al., in 1967 and was defined by the American-European Consensus Conference in 1994 [1].",
+            "startOffset": 12153,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13550,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 13549,
+                    "startOffset": 13545
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Amphiregulin was first described as a member of the epidermal growth factor family in 1989 [12].",
+            "startOffset": 13454,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24802,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We demonstrated that amphiregulin had a protective effect on LPS-induced lung injury in mice.",
+            "startOffset": 24709,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24097,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Amphiregulin is a member of the EGF family and contributes to the regulation of cell proliferation.",
+            "startOffset": 23998,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16401,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Following deparaffinization, the sections were treated with 0.3% methanol for 30 min to inhibit any endogenous peroxidase activity.",
+            "startOffset": 16270,
+            "title": "Immunohistochemistry of lung tissue"
+        },
+        {
+            "endOffset": 18290,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The mouse lung epithelial cell line, LA-4, derived from lung adenoma, was purchased from ATCC (Manassas, VA, USA).",
+            "startOffset": 18176,
+            "title": "Effects of LPS on a mouse lung epithelial cell line"
+        },
+        {
+            "endOffset": 22045,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In immunohistochemical analysis, phosphorylated EGFR was not detected in the control mice.",
+            "startOffset": 21955,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 24991,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In vitro results showed that amphiregulin suppressed LPS-induced epithelial cell apoptosis through inhibiting caspase-8 activity.",
+            "startOffset": 24862,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21416,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These changes were decreased by amphiregulin treatment (Fig. 1A and B).",
+            "startOffset": 21345,
+            "title": "Extrinsic amphiregulin partially ameliorates LPS-induced acute lung injury"
+        },
+        {
+            "endOffset": 23873,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Although amphiregulin pre-treatment did not change the caspase-11 level, it significantly suppressed cleaved caspase-8 and cleaved caspase-3 levels (Fig. 4B and C).",
+            "startOffset": 23709,
+            "title": "Amphiregulin suppresses epithelial cell apoptosis via the caspase-8 pathway"
+        }
+    ],
+    "docId": "S0006291X17302012",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Saiko",
+                "initial": "S.",
+                "last": "Ogata-Suetsugu"
+            },
+            {
+                "email": "yanagiha@kokyu.med.kyushu-u.ac.jp",
+                "first": "Toyoshi",
+                "initial": "T.",
+                "last": "Yanagihara"
+            },
+            {
+                "email": null,
+                "first": "Naoki",
+                "initial": "N.",
+                "last": "Hamada"
+            },
+            {
+                "email": null,
+                "first": "Chika",
+                "initial": "C.",
+                "last": "Ikeda-Harada"
+            },
+            {
+                "email": null,
+                "first": "Tetsuya",
+                "initial": "T.",
+                "last": "Yokoyama"
+            },
+            {
+                "email": null,
+                "first": "Kunihiro",
+                "initial": "K.",
+                "last": "Suzuki"
+            },
+            {
+                "email": null,
+                "first": "Tomonobu",
+                "initial": "T.",
+                "last": "Kawaguchi"
+            },
+            {
+                "email": null,
+                "first": "Takashige",
+                "initial": "T.",
+                "last": "Maeyama"
+            },
+            {
+                "email": null,
+                "first": "Yoichi",
+                "initial": "Y.",
+                "last": "Nakanishi"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.01.142",
+        "firstpage": "422",
+        "issn": "0006291X",
+        "keywords": [
+            "Amphiregulin",
+            "Apoptosis",
+            "Lipopolysaccharide"
+        ],
+        "lastpage": "428",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Amphiregulin suppresses epithelial cell apoptosis in lipopolysaccharide-induced lung injury in mice"
+    }
+}

@@ -1,0 +1,2370 @@
+{
+    "abstract": "The precise roles that the major proteolytic pathways play in the regulation of skeletal muscle mass remain incompletely understood, in part due to technical limitations associated with current techniques used to quantify muscle protein breakdown (MPB). We aimed to develop a method to assess MPB in cells, based on loss of puromycin labelling of translated polypeptide chains. Following an initial 24 h incubation period with puromycin (1 \u03bcM), loss of puromycin labelling from murine C2C12 myotubes was assessed over 48 h, both in the presence or absence of protein synthesis inhibitor cycloheximide (CHX). To validate the method, loss of puromycin labelling was determined from cells treated with selected compounds known to influence MPB (e.g. serum starvation, Dexamethasone (Dex), tumour necrosis factor alpha (TNF-\u03b1) and MG-132)). Reported established (static) markers of MPB were measured following each treatment. Loss of puromycin labelling from cells pre-incubated with puromycin was evident over a 48 h period, both with and without CHX. Treatment with Dex (\u221214 \u00b1 2% vs. Ctl; P < 0.01), TNF-\u03b1 (\u221220 \u00b1 4% vs. Ctl; P < 0.001) and serum starvation (\u221214 \u00b1 4% vs. Ctl; P < 0.01) caused a greater loss of puromycin labelling than untreated controls, while the proteasome inhibitor MG-132 caused a relatively lower loss of puromycin labelling (+15 \u00b1 8% vs. Ctl; P < 0.05). Thus, we have developed a novel decorporation method for measuring global changes in MPB, validated in vitro using an established muscle cell line. It is anticipated this non isotopic-tracer alternative to measuring MPB will facilitate insight into the mechanisms that regulate muscle mass/MPB both in vitro, and perhaps, in vivo.",
+    "author_highlights": [
+        {
+            "endOffset": 12556,
+            "sentence": "Limitations exist in the techniques used to quantify muscle protein breakdown (MPB).",
+            "startOffset": 12472
+        },
+        {
+            "endOffset": 12642,
+            "sentence": "We developed a method for assessing MPB through loss of puromycin labelling in cells.",
+            "startOffset": 12557
+        },
+        {
+            "endOffset": 12726,
+            "sentence": "We validated the method using selected compounds known to dynamically modulate MPB.",
+            "startOffset": 12643
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Paolo",
+                    "initial": "P.",
+                    "last": "Bonaldo"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Sandri"
+                }
+            ],
+            "doi": "10.1242/dmm.010389",
+            "firstpage": "25",
+            "issn": "17548403",
+            "lastpage": "39",
+            "pmid": "23268536",
+            "pub_year": 2013,
+            "title": "Cellular and molecular mechanisms of muscle atrophy",
+            "volume": "6"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "R. A.",
+                    "initial": "R.A.",
+                    "last": "Fielding"
+                },
+                {
+                    "first": "C. N.",
+                    "initial": "C.N.",
+                    "last": "Meredith"
+                },
+                {
+                    "first": "K. P.",
+                    "initial": "K.P.",
+                    "last": "O'Reilly"
+                },
+                {
+                    "first": "W. R.",
+                    "initial": "W.R.",
+                    "last": "Frontera"
+                },
+                {
+                    "first": "J. G.",
+                    "initial": "J.G.",
+                    "last": "Cannon"
+                },
+                {
+                    "first": "W. J.",
+                    "initial": "W.J.",
+                    "last": "Evans"
+                }
+            ],
+            "doi": "10.1152/jappl.1991.71.2.674",
+            "firstpage": "674",
+            "issn": "01617567",
+            "lastpage": "679",
+            "pmid": "1938741",
+            "pub_year": 1991,
+            "title": "Enhanced protein breakdown after eccentric exercise in young and older men",
+            "volume": "71"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Elia"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Carter"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Bacon"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Smith"
+                }
+            ],
+            "doi": "10.1042/cs0590509",
+            "firstpage": "509",
+            "issn": "01435221",
+            "lastpage": "511",
+            "pmid": "7438717",
+            "pub_year": 1980,
+            "title": "The effect of 3-methylhistidine in food on its urinary excretion in man",
+            "volume": "59"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Millward"
+                },
+                {
+                    "first": "P. C.",
+                    "initial": "P.C.",
+                    "last": "Bates"
+                }
+            ],
+            "doi": "10.1042/bj2140607",
+            "firstpage": "607",
+            "issn": "02646021",
+            "lastpage": "615",
+            "pmid": "6615483",
+            "pub_year": 1983,
+            "title": "3-Methylhistidine turnover in the whole body, and the contribution of skeletal muscle and intestine to urinary 3-methylhistidine excretion in the adult rat",
+            "volume": "214"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "R. M.",
+                    "initial": "R.M.",
+                    "last": "Fulks"
+                },
+                {
+                    "first": "J. B.",
+                    "initial": "J.B.",
+                    "last": "Li"
+                },
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Goldberg"
+                }
+            ],
+            "firstpage": "290",
+            "issn": "00219258",
+            "lastpage": "298",
+            "pmid": "1141208",
+            "pub_year": 1975,
+            "title": "Effects of insulin, glucose, and amino acids on protein turnover in rat diaphragm",
+            "volume": "250"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Enrico K.",
+                    "initial": "E.K.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Giovanna",
+                    "initial": "G.",
+                    "last": "Clavarino"
+                },
+                {
+                    "first": "Maurizio",
+                    "initial": "M.",
+                    "last": "Ceppi"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Pierre"
+                }
+            ],
+            "doi": "10.1038/nmeth.1314",
+            "firstpage": "275",
+            "issn": "15487091",
+            "lastpage": "277",
+            "pmid": "19305406",
+            "pub_year": 2009,
+            "title": "SUnSET, a nonradioactive method to monitor protein synthesis",
+            "volume": "6"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Craig A.",
+                    "initial": "C.A.",
+                    "last": "Goodman"
+                },
+                {
+                    "first": "Danielle M.",
+                    "initial": "D.M.",
+                    "last": "Mabrey"
+                },
+                {
+                    "first": "John W.",
+                    "initial": "J.W.",
+                    "last": "Frey"
+                },
+                {
+                    "first": "Man Hing",
+                    "initial": "M.H.",
+                    "last": "Miu"
+                },
+                {
+                    "first": "Enrico K.",
+                    "initial": "E.K.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Pierre"
+                },
+                {
+                    "first": "Troy A.",
+                    "initial": "T.A.",
+                    "last": "Hornberger"
+                }
+            ],
+            "doi": "10.1096/fj.10-168799",
+            "firstpage": "1028",
+            "issn": "08926638",
+            "lastpage": "1039",
+            "pmid": "21148113",
+            "pub_year": 2011,
+            "title": "Novel insights into the regulation of skeletal muscle protein synthesis as revealed by a new nonradioactive in vivo technique",
+            "volume": "25"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Craig A.",
+                    "initial": "C.A.",
+                    "last": "Goodman"
+                },
+                {
+                    "first": "Troy A.",
+                    "initial": "T.A.",
+                    "last": "Hornberger"
+                }
+            ],
+            "doi": "10.1097/JES.0b013e3182798a95",
+            "firstpage": "107",
+            "issn": "00916331",
+            "lastpage": "115",
+            "pmid": "23089927",
+            "pub_year": 2013,
+            "title": "Measuring protein synthesis with SUnSET: A valid alternative to traditional techniques?",
+            "volume": "41"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Chun Ling",
+                    "initial": "C.L.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Jianhua",
+                    "initial": "J.",
+                    "last": "Shi"
+                },
+                {
+                    "first": "Yanxing",
+                    "initial": "Y.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Khalid",
+                    "initial": "K.",
+                    "last": "Iqbal"
+                },
+                {
+                    "first": "Fei",
+                    "initial": "F.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Cheng Xin",
+                    "initial": "C.X.",
+                    "last": "Gong"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.445148",
+            "firstpage": "23875",
+            "issn": "00219258",
+            "lastpage": "23883",
+            "pmid": "23843462",
+            "pub_year": 2013,
+            "title": "Inhibition of protein synthesis alters protein degradation through activation of protein kinase B (AKT)",
+            "volume": "288"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Marine Maud",
+                    "initial": "M.M.",
+                    "last": "Desgeorges"
+                },
+                {
+                    "first": "Damien",
+                    "initial": "D.",
+                    "last": "Freyssenet"
+                },
+                {
+                    "first": "St\u00e9phanie",
+                    "initial": "S.",
+                    "last": "Chanon"
+                },
+                {
+                    "first": "Josiane",
+                    "initial": "J.",
+                    "last": "Castells"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Pugni\u00e8re"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "B\u00e9chet"
+                },
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Peinnequin"
+                },
+                {
+                    "first": "Xavier",
+                    "initial": "X.",
+                    "last": "Devillard"
+                },
+                {
+                    "first": "Aur\u00e9lia",
+                    "initial": "A.",
+                    "last": "Defour"
+                }
+            ],
+            "doi": "10.1016/j.biocel.2014.07.008",
+            "firstpage": "208",
+            "issn": "13572725",
+            "lastpage": "216",
+            "pmid": "25043686",
+            "pub_year": 2014,
+            "title": "Post-transcriptional regulation of autophagy in C2C12 myotubes following starvation and nutrient restoration",
+            "volume": "54"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Yi Ping",
+                    "initial": "Y.P.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Robert J.",
+                    "initial": "R.J.",
+                    "last": "Schwartz"
+                },
+                {
+                    "first": "Ian D.",
+                    "initial": "I.D.",
+                    "last": "Waddell"
+                },
+                {
+                    "first": "Brian R.",
+                    "initial": "B.R.",
+                    "last": "Holloway"
+                },
+                {
+                    "first": "Michael B.",
+                    "initial": "M.B.",
+                    "last": "Reid"
+                }
+            ],
+            "firstpage": "871",
+            "issn": "08926638",
+            "lastpage": "880",
+            "pmid": "9657527",
+            "pub_year": 1998,
+            "title": "Skeletal muscle myocytes undergo protein loss and reactive oxygen- mediated NF-\u03baB activation in response to tumor necrosis factor \u03b1",
+            "volume": "12"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Didier",
+                    "initial": "D.",
+                    "last": "Attaix"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Ventadour"
+                },
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Codran"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "B\u00e9chet"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Taillandier"
+                },
+                {
+                    "first": "Lydie",
+                    "initial": "L.",
+                    "last": "Combaret"
+                }
+            ],
+            "firstpage": "173",
+            "issn": "00711365",
+            "lastpage": "186",
+            "pmid": "16250905",
+            "pub_year": 2005,
+            "title": "The ubiquitin-proteasome system and skeletal muscle wasting",
+            "volume": "41"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Menconi"
+                },
+                {
+                    "first": "Patricia",
+                    "initial": "P.",
+                    "last": "Gonnella"
+                },
+                {
+                    "first": "Victoria",
+                    "initial": "V.",
+                    "last": "Petkova"
+                },
+                {
+                    "first": "Stewart",
+                    "initial": "S.",
+                    "last": "Lecker"
+                },
+                {
+                    "first": "Per Olof",
+                    "initial": "P.O.",
+                    "last": "Hasselgren"
+                }
+            ],
+            "doi": "10.1002/jcb.21833",
+            "firstpage": "353",
+            "issn": "07302312",
+            "lastpage": "364",
+            "pmid": "18615595",
+            "pub_year": 2008,
+            "title": "Dexamethasone and corticosterone induce similar, but not identical, muscle wasting responses in cultured L6 and C2C12 myotubes",
+            "volume": "105"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "S. C.",
+                    "initial": "S.C.",
+                    "last": "Bodine"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Latres"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Baumhueter"
+                },
+                {
+                    "first": "V. K.M.",
+                    "initial": "V.K.M.",
+                    "last": "Lai"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Nunez"
+                },
+                {
+                    "first": "B. A.",
+                    "initial": "B.A.",
+                    "last": "Clarke"
+                },
+                {
+                    "first": "W. T.",
+                    "initial": "W.T.",
+                    "last": "Poueymirou"
+                },
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Panaro"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": "Erqian Na"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Dharmarajan"
+                },
+                {
+                    "first": "Z. Q.",
+                    "initial": "Z.Q.",
+                    "last": "Pan"
+                },
+                {
+                    "first": "D. M.",
+                    "initial": "D.M.",
+                    "last": "Valenzuela"
+                },
+                {
+                    "first": "T. M.",
+                    "initial": "T.M.",
+                    "last": "Dechiara"
+                },
+                {
+                    "first": "T. N.",
+                    "initial": "T.N.",
+                    "last": "Stitt"
+                },
+                {
+                    "first": "G. D.",
+                    "initial": "G.D.",
+                    "last": "Yancopoulos"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Glass"
+                }
+            ],
+            "doi": "10.1126/science.1065874",
+            "firstpage": "1704",
+            "issn": "00368075",
+            "lastpage": "1708",
+            "pmid": "11679633",
+            "pub_year": 2001,
+            "title": "Identification of ubiquitin ligases required for skeletal Muscle Atrophy",
+            "volume": "294"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Yi Ping",
+                    "initial": "Y.P.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Yuling",
+                    "initial": "Y.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "John"
+                },
+                {
+                    "first": "Jennifer",
+                    "initial": "J.",
+                    "last": "Moylan"
+                },
+                {
+                    "first": "Bingwen",
+                    "initial": "B.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "Douglas L.",
+                    "initial": "D.L.",
+                    "last": "Mann"
+                },
+                {
+                    "first": "Michael B.",
+                    "initial": "M.B.",
+                    "last": "Reid"
+                }
+            ],
+            "doi": "10.1096/fj.04-2364com",
+            "firstpage": "362",
+            "issn": "08926638",
+            "lastpage": "370",
+            "pmid": "15746179",
+            "pub_year": 2005,
+            "title": "TNF-\u03b1 acts via p38 MAPK to stimulate expression of the ubiquitin ligase atrogin1/MAFbx in skeletal muscle",
+            "volume": "19"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Ghita",
+                    "initial": "G.",
+                    "last": "Ghislat"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Patrons"
+                },
+                {
+                    "first": "Rosario",
+                    "initial": "R.",
+                    "last": "Rizzutos"
+                },
+                {
+                    "first": "Erwin",
+                    "initial": "E.",
+                    "last": "Knecht"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.365767",
+            "firstpage": "38625",
+            "issn": "00219258",
+            "lastpage": "38636",
+            "pmid": "23027865",
+            "pub_year": 2012,
+            "title": "Withdrawal of essential amino acids increases autophagy by a pathway involving Ca2+/calmodulin-dependent kinase kinase-\u03b2 (CaMKK-\u03b2)",
+            "volume": "287"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Daniel F.",
+                    "initial": "D.F.",
+                    "last": "Egan"
+                },
+                {
+                    "first": "David B.",
+                    "initial": "D.B.",
+                    "last": "Shackelford"
+                },
+                {
+                    "first": "Maria M.",
+                    "initial": "M.M.",
+                    "last": "Mihaylova"
+                },
+                {
+                    "first": "Sara",
+                    "initial": "S.",
+                    "last": "Gelino"
+                },
+                {
+                    "first": "Rebecca A.",
+                    "initial": "R.A.",
+                    "last": "Kohnz"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Mair"
+                },
+                {
+                    "first": "Debbie S.",
+                    "initial": "D.S.",
+                    "last": "Vasquez"
+                },
+                {
+                    "first": "Aashish",
+                    "initial": "A.",
+                    "last": "Joshi"
+                },
+                {
+                    "first": "Dana M.",
+                    "initial": "D.M.",
+                    "last": "Gwinn"
+                },
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Asara"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Fitzpatrick"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Dillin"
+                },
+                {
+                    "first": "Benoit",
+                    "initial": "B.",
+                    "last": "Viollet"
+                },
+                {
+                    "first": "Mondira",
+                    "initial": "M.",
+                    "last": "Kundu"
+                },
+                {
+                    "first": "Malene",
+                    "initial": "M.",
+                    "last": "Hansen"
+                },
+                {
+                    "first": "Reuben J.",
+                    "initial": "R.J.",
+                    "last": "Shaw"
+                }
+            ],
+            "doi": "10.1126/science.1196371",
+            "firstpage": "456",
+            "issn": "00368075",
+            "lastpage": "461",
+            "pmid": "21205641",
+            "pub_year": 2011,
+            "title": "Phosphorylation of ULK1 (hATG1) by AMP-activated protein kinase connects energy sensing to mitophagy",
+            "volume": "331"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Elaine A.",
+                    "initial": "E.A.",
+                    "last": "Dunlop"
+                },
+                {
+                    "first": "David K.",
+                    "initial": "D.K.",
+                    "last": "Hunt"
+                },
+                {
+                    "first": "Hugo A.",
+                    "initial": "H.A.",
+                    "last": "Acosta-Jaquez"
+                },
+                {
+                    "first": "Diane C.",
+                    "initial": "D.C.",
+                    "last": "Fingar"
+                },
+                {
+                    "first": "Andrew R.",
+                    "initial": "A.R.",
+                    "last": "Tee"
+                }
+            ],
+            "doi": "10.4161/auto.7.7.15491",
+            "firstpage": "737",
+            "issn": "15548627",
+            "lastpage": "747",
+            "pub_year": 2011,
+            "title": "ULK1 inhibits mTORC1 signaling, promotes multisite Raptor phosphorylation and hinders substrate binding",
+            "volume": "7"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "P. L.",
+                    "initial": "P.L.",
+                    "last": "Greenhaff"
+                },
+                {
+                    "first": "L. G.",
+                    "initial": "L.G.",
+                    "last": "Karagounis"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Peirce"
+                },
+                {
+                    "first": "E. J.",
+                    "initial": "E.J.",
+                    "last": "Simpson"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Hazell"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Layfield"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wackerhage"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Atherton"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Selby"
+                },
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Rennie"
+                }
+            ],
+            "doi": "10.1152/ajpendo.90411.2008",
+            "firstpage": "E595",
+            "issn": "01931849",
+            "lastpage": "E604",
+            "pmid": "18577697",
+            "pub_year": 2008,
+            "title": "Disassociation between the effects of amino acids and insulin on signaling, ubiquitin ligases, and protein turnover in human muscle",
+            "volume": "295"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Philip J.",
+                    "initial": "P.J.",
+                    "last": "Atherton"
+                },
+                {
+                    "first": "Timothy",
+                    "initial": "T.",
+                    "last": "Etheridge"
+                },
+                {
+                    "first": "Peter W.",
+                    "initial": "P.W.",
+                    "last": "Watt"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Wilkinson"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Selby"
+                },
+                {
+                    "first": "Debbie",
+                    "initial": "D.",
+                    "last": "Rankin"
+                },
+                {
+                    "first": "Ken",
+                    "initial": "K.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Rennie"
+                }
+            ],
+            "doi": "10.3945/ajcn.2010.29819",
+            "firstpage": "1080",
+            "issn": "00029165",
+            "lastpage": "1088",
+            "pmid": "20844073",
+            "pub_year": 2010,
+            "title": "Muscle full effect after oral protein: Time-dependent concordance and discordance between human muscle protein synthesis and mTORC1 signaling",
+            "volume": "92"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Bartoli"
+                },
+                {
+                    "first": "Isabelle",
+                    "initial": "I.",
+                    "last": "Richard"
+                }
+            ],
+            "doi": "10.1016/j.biocel.2004.12.012",
+            "firstpage": "2115",
+            "issn": "13572725",
+            "lastpage": "2133",
+            "pmid": "16125114",
+            "pub_year": 2005,
+            "title": "Calpains in muscle wasting",
+            "volume": "37"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Paola",
+                    "initial": "P.",
+                    "last": "Costelli"
+                },
+                {
+                    "first": "Patrizia",
+                    "initial": "P.",
+                    "last": "Reffo"
+                },
+                {
+                    "first": "Fabio",
+                    "initial": "F.",
+                    "last": "Penna"
+                },
+                {
+                    "first": "Riccardo",
+                    "initial": "R.",
+                    "last": "Autelli"
+                },
+                {
+                    "first": "Gabriella",
+                    "initial": "G.",
+                    "last": "Bonelli"
+                },
+                {
+                    "first": "Francesco M.",
+                    "initial": "F.M.",
+                    "last": "Baccino"
+                }
+            ],
+            "doi": "10.1016/j.biocel.2005.03.010",
+            "firstpage": "2134",
+            "issn": "13572725",
+            "lastpage": "2146",
+            "pmid": "15893952",
+            "pub_year": 2005,
+            "title": "Ca2+-dependent proteolysis in muscle wasting",
+            "volume": "37"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Jie",
+                    "initial": "J.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Xiaonan",
+                    "initial": "X.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Christiane",
+                    "initial": "C.",
+                    "last": "Miereles"
+                },
+                {
+                    "first": "James L.",
+                    "initial": "J.L.",
+                    "last": "Bailey"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Debigare"
+                },
+                {
+                    "first": "Bin",
+                    "initial": "B.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "S. Russ",
+                    "initial": "S.R.",
+                    "last": "Price"
+                },
+                {
+                    "first": "William E.",
+                    "initial": "W.E.",
+                    "last": "Mitch"
+                }
+            ],
+            "doi": "10.1172/JCI18330",
+            "firstpage": "115",
+            "issn": "00219738",
+            "lastpage": "123",
+            "pmid": "14702115",
+            "pub_year": 2004,
+            "title": "Activation of caspase-3 is an initial step triggering accelerated muscle proteolysis in catabolic conditions",
+            "volume": "113"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Hu"
+                },
+                {
+                    "first": "W. E.",
+                    "initial": "W.E.",
+                    "last": "Mitch"
+                }
+            ],
+            "doi": "10.1111/j.1365-2362.2005.01473.x",
+            "firstpage": "157",
+            "issn": "00142972",
+            "lastpage": "163",
+            "pmid": "15733069",
+            "pub_year": 2005,
+            "title": "Molecular mechanisms activating muscle protein degradation in chronic kidney disease and other catabolic conditions",
+            "volume": "35"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Sandri"
+                }
+            ],
+            "doi": "10.1016/j.biocel.2013.04.023",
+            "firstpage": "2121",
+            "issn": "13572725",
+            "lastpage": "2129",
+            "pmid": "23665154",
+            "pub_year": 2013,
+            "title": "Protein breakdown in muscle wasting: Role of autophagy-lysosome and ubiquitin-proteasome",
+            "volume": "45"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "V. R.",
+                    "initial": "V.R.",
+                    "last": "Young"
+                },
+                {
+                    "first": "H. N.",
+                    "initial": "H.N.",
+                    "last": "Munro"
+                }
+            ],
+            "firstpage": "2291",
+            "issn": "00149446",
+            "lastpage": "2300",
+            "pmid": "350635",
+            "pub_year": 1978,
+            "title": "N (\u03c4)-Methylhistidine (3-methylhistidine) and muscle protein turnover: an overview",
+            "volume": "37"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "C. L.",
+                    "initial": "C.L.",
+                    "last": "Long"
+                },
+                {
+                    "first": "L. N.",
+                    "initial": "L.N.",
+                    "last": "Haverberg"
+                },
+                {
+                    "first": "V. R.",
+                    "initial": "V.R.",
+                    "last": "Young"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Kinney"
+                },
+                {
+                    "first": "H. N.",
+                    "initial": "H.N.",
+                    "last": "Munro"
+                },
+                {
+                    "first": "J. W.",
+                    "initial": "J.W.",
+                    "last": "Geiger"
+                }
+            ],
+            "doi": "10.1016/0026-0495(75)90084-0",
+            "firstpage": "929",
+            "issn": "00260495",
+            "lastpage": "935",
+            "pmid": "1143090",
+            "pub_year": 1975,
+            "title": "Metabolism of 3-methylhistidine in man",
+            "volume": "24"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 19429,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Cell lysates were prepared by passing samples repeatedly through gel-loading pipette tips.",
+            "startOffset": 19339,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 22686,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Selected treatments known to influence muscle protein breakdown (serum starvation, Dex, TNF-\u03b1 and MG-132) were used to validate the method.",
+            "startOffset": 22547,
+            "title": "Effects of selected treatments on loss of puromycin labelling in C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 28933,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our results showed that 24 h treatments of either serum starvation, Dex or TNF-\u03b1 each caused a greater loss in puromycin labelling than untreated cells; similar changes were observed when CHX was included, indicating the effects were solely due to changes in MPB.",
+            "startOffset": 28670,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27469,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We also assessed loss of puromycin labelling in C2C12 cells in the presence of CHX (added at the point of puromycin removal) to eliminate the possibility that the observed changes were influenced by changes in MPS (i.e. reincorporation).",
+            "startOffset": 27232,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27717,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It should be noted that the dose of CHX that we used did not completely inhibit MPS (Fig. 1); however higher doses caused cell viability issues after 24 h (cells in suspension), which would clearly compromise the true experimental readouts of MPB.",
+            "startOffset": 27470,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31633,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In summary, we present a novel proof-of-concept \u2018puromycin decorporation\u2019 method for assessing MPB via immunoblotting, validated using muscle cells in vitro \u2013 as an extension of the puromyocin incorporation method.",
+            "startOffset": 31419,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16820,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We developed this method in vitro using murine C2C12 myotubes, and validated the approach using selected compounds known to dynamically modulate MPB.",
+            "startOffset": 16671,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31419,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In addition, these results also emphasize the importance of measuring such static protein markers at multiple time points, since MAFbx protein had returned to control levels by 24 h with Dex, TNF-\u03b1 and MG-132.",
+            "startOffset": 31210,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29809,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Unexpectedly, MG-132 also resulted in upregulation of MAFbx and MuRF1, however the finding that ubiquitinated protein levels were increased by MG-132 confirmed that proteasome-mediated MPB was inhibited.",
+            "startOffset": 29606,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18934,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "At this point, cells were subjected to the following treatments: serum starvation, dexamethasone (Dex; 1 \u03bcM; Sigma-Aldrich, UK), tumour necrosis factor alpha (TNF-\u03b1; 10 ng/ml; Sigma-Aldrich, UK) or MG-132 (20 \u03bcM; Sigma-Aldrich, UK).",
+            "startOffset": 18702,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 13958,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 13814,
+                    "startOffset": 13805
+                },
+                "bib3": {
+                    "endOffset": 13814,
+                    "startOffset": 13805
+                },
+                "bib6": {
+                    "endOffset": 13814,
+                    "startOffset": 13805
+                },
+                "bib7": {
+                    "endOffset": 13814,
+                    "startOffset": 13805
+                }
+            },
+            "secId": "sec1",
+            "sentence": "While activation of the above proteolytic pathways has been reported in muscle during various catabolic conditions, including sepsis, fasting, sarcopenia and cachexia [2,3,6,7], methodological difficulties have limited (versus muscle protein synthesis (MPS)) understanding of the role that MPB plays in these conditions.",
+            "startOffset": 13638,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20743,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "All data are presented as means \u00b1 SEM and analyzed using GraphPad Prism version 6 (La Jolla, USA).",
+            "startOffset": 20645,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 20984,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "For the time course data, two-way ANOVA with Tukey's multiple comparison test was used to assess differences between time points and CHX treatment.",
+            "startOffset": 20837,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 29987,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 29986,
+                    "startOffset": 29982
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The observed decrease in MAFbx with serum starvation was also unexpected, although activation of autophagy with serum starvation may underlie the observed increases in MPB [18].",
+            "startOffset": 29810,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30522,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 30386,
+                    "startOffset": 30382
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The three other conditions evaluated (Dex, TNF-\u03b1 and MG-132) also showed increased ULK1 phosphorylation, with raptor phosphorylation, which is important for autophagy regulation via mTOR [25], also showing an increase with TNF-\u03b1 and MG-132 treatment, indicating that these conditions may have also modulated autophagy pathways.",
+            "startOffset": 30195,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18335,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "To determine the rate of puromycin loss from cells, myotubes were incubated for 24 h with puromycin, then cells were washed twice with Hanks' Balanced Salt Solution (HBSS), and replaced with media lacking puromycin (with or without CHX).",
+            "startOffset": 18098,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 17513,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "For experimentation, myoblasts (between passage 6 and 8) were seeded onto six-well dishes (Nunclon\u2122 Delta; Thermo Fisher Scientific) and at \u223c90% confluency, differentiation was initiated by changing the medium to DMEM supplemented with 2% (v/v) horse serum, 1% (v/v) antibiotic-antimycotic solution and 4 mM l-glutamine (Sigma-Aldrich, UK).",
+            "startOffset": 17173,
+            "title": "C2C12 cell culture"
+        },
+        {
+            "endOffset": 18701,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Myotubes were incubated for 24 h with puromycin, after which cells were washed with HBSS and fresh media (without puromycin, and with or without CHX) replaced.",
+            "startOffset": 18542,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 21251,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "C2C12 cells were harvested at various time points after addition of puromycin to determine incorporation over a 24 h period.",
+            "startOffset": 21127,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 26593,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "During the initial 4\u20136 h period after puromycin removal, no loss of labelling was observed.",
+            "startOffset": 26502,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13638,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 13637,
+                    "startOffset": 13632
+                },
+                "bib7": {
+                    "endOffset": 13637,
+                    "startOffset": 13632
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The autophagy-lysosome system also represents a major mechanism for protein degradation, responsible for breakdown of organelles as well as bulk cytoplasmic and long-lived proteins [1,7].",
+            "startOffset": 13451,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21036,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "P < 0.05 was taken to be statistically significant.",
+            "startOffset": 20985,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 14004,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "That being said a number of techniques exist.",
+            "startOffset": 13959,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21814,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "24 h was selected as the initial incubation period for assessing MPB.",
+            "startOffset": 21745,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 22790,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Puromycin was removed from the media after 24 h incorporation, at which point each treatment was added.",
+            "startOffset": 22687,
+            "title": "Effects of selected treatments on loss of puromycin labelling in C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 26949,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is also feasible that during this period there was still some incorporation of remaining intracellular puromycin.",
+            "startOffset": 26833,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18986,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Samples were harvested after 4 h or 24 h treatment.",
+            "startOffset": 18935,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 19743,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Samples were centrifuged (13,000 g for 10 min, 4 \u00b0C) and lysates (10 \u03bcg total protein) were electrophoresed using Criterion XT 12% Bis-Tris gels (Bio-Rad, UK) at 200 V for 1 h. Samples were transferred to PVDF membranes at 100 V for 45 min, and membranes were blocked in 5% (w/v) milk for 1 h at room temperature.",
+            "startOffset": 19430,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 31982,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A major advantage of this method is that validation is relatively easily achievable and it does not require expensive or specialized techniques or equipment.",
+            "startOffset": 31825,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23175,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "With MG-132 treatment, there was a relatively lower loss of puromycin labelling compared to untreated controls (+15 \u00b1 8%; P < 0.05 vs. Ctl; Fig. 3A, C).",
+            "startOffset": 23023,
+            "title": "Effects of selected treatments on loss of puromycin labelling in C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 27231,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "From these findings, 24 h was selected for validating this method, but we suggest that for future studies, the end user should optimise conditions to suit cell type and individual experimental conditions.",
+            "startOffset": 27027,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17643,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Experiments were performed on day 4\u20135 post induction of differentiation.",
+            "startOffset": 17571,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 16024,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Since incorporation of puromycin into a nascent peptide chains results in the termination of peptide elongation, the rate at which puromycin-labelled polypeptides are formed (anti-puromycin antibodies serve to detect puromycin-conjugated peptides) acts as an effective measure of global rates of protein synthesis.",
+            "startOffset": 15710,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20534,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Membranes were again washed in TBS-Tween and bands were detected using Chemiluminescent HRP Substrate (Millipore EMD) on a Chemidoc XRS imaging system (Bio-Rad, UK).",
+            "startOffset": 20369,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 28070,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, the addition of CHX had minimal influences on puromycin decorporation such that puromycin decorporation were primarily attributable to changes in total MPB.",
+            "startOffset": 27903,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27902,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Moreover, the addition of CHX did not prevent the decline in puromycin labelling across 48 h (although by 48 h there was a smaller decrease in labelling compared to cells without CHX).",
+            "startOffset": 27718,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24202,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Protein expression of MuRF1 was unaffected by serum starvation (Fig. 4B) but was increased at 4 h and 24 h with Dex (+74 \u00b1 8%; P < 0.05 vs. Ctl at 4 h, +38 \u00b1 24%; P < 0.01 vs. Ctl at 24 h), TNF-\u03b1 (+117 \u00b1 9%; P < 0.01 vs. Ctl at 4 h, +80 \u00b1 55%; P < 0.05 vs. Ctl at 24 h) and MG-132 (+98 \u00b1 26%; P < 0.01 vs. Ctl at 4 h, +63 \u00b1 23%; P < 0.01 vs. Ctl at 24 h).",
+            "startOffset": 23847,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 24783,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Phosphorylation of ULK1 (Ser555; Fig. 4E) was significantly increased at 4 h by serum starvation (+61 \u00b1 11%; P < 0.05 vs. Ctl), Dex (+57 \u00b1 10%; P < 0.05 vs. Ctl), TNF-\u03b1 (+147 \u00b1 17%; P < 0.001 vs. Ctl) and MG-132 (+148 \u00b1 11%; P < 0.001 vs. Ctl).",
+            "startOffset": 24539,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 26142,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "During initial testing of our hypothesis, we determined the optimal initial incubation period for puromycin incorporation in our chosen model.",
+            "startOffset": 26000,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26501,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "For this reason, we chose an initial incubation period of 24 h. Subsequent loss of cellular puromycin-conjugated polypeptides was monitored over a 48 h time course.",
+            "startOffset": 26337,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24882,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At 24 h, ULK1 Ser555 was increased relative to controls with MG-132 (+57 \u00b1 14%; P < 0.05 vs. Ctl).",
+            "startOffset": 24784,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 17895,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Initial experiments assessed the time course of puromycin incorporation into cellular protein, and its disappearance from cells upon removal from the culture media, both in the presence and absence of cycloheximide (CHX; final concentration 25 ng/ml).",
+            "startOffset": 17644,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 17548,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The media was replaced every 48 h.",
+            "startOffset": 17514,
+            "title": "C2C12 cell culture"
+        },
+        {
+            "endOffset": 16404,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "A method for assessing MPB using similar non-tracer techniques would undoubtedly be advantageous for research into muscle protein metabolism.",
+            "startOffset": 16263,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14950,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 14911,
+                    "startOffset": 14907
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Infusion or incubation with a radiolabelled or stable isotope of an amino acid that is neither made nor catabolized by muscle (e.g. tyrosine), and its subsequent release from tissue/cells under conditions where reincorporation is inhibited, can be used to estimate MPB [13]; often requiring specialist equipment.",
+            "startOffset": 14638,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19250,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "All cells were harvested by removing the media, washing twice with ice-cold PBS, and collecting in homogenisation buffer (50 mM Tris-HCl, pH7.5, 1 mM EDTA, 1 mM EGTA, 10 mM \u03b2-glycerophosphate, 50 mM NaF and complete protease inhibitor cocktail tablet (Roche, UK).",
+            "startOffset": 18987,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 18541,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For validation of the method, cells were incubated with selected treatments known to influence muscle protein breakdown.",
+            "startOffset": 18421,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 25872,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, we aimed to determine whether following an initial incubation, loss of puromycin labelling from cells could be used to measure changes in protein breakdown.",
+            "startOffset": 25694,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20836,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Unpaired t tests were used to compare differences between treatments and untreated controls.",
+            "startOffset": 20744,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 14141,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 14047,
+                    "startOffset": 14044
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For instance, 3-methylhistidine (3-MH) [8] is a post-translational methylation of histidine resulting from actin and myosin degradation.",
+            "startOffset": 14005,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20097,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Membranes were incubated overnight at 4 \u00b0C in the presence of the following primary antibodies: puromycin (1:20,000; Millipore), ubiquitin (1:2000; Cell Signaling Technology), MAFbx (1:500), MuRF1 (1:2000; ECM Biosciences), Calpain 1 (1:2000; Abcam), ULK1 Ser555 (1:2000; Cell Signaling Technology) and Raptor Ser792 (1:2000; Cell Signaling Technology).",
+            "startOffset": 19744,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 24432,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Total ubiquitinated protein was unaffected by each treatment except for with MG-132, where there was a significant increase at both time points (+60 \u00b1 10%; P < 0.01 vs. Ctl at 4 h, +174 \u00b1 25%; P < 0.001 vs. Ctl at 24 h; Fig. 4C).",
+            "startOffset": 24203,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 21745,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "With CHX, puromycin incorporation was significantly lower than in cells without CHX at all time points, although there was a significant increase in labelling by 4 h (+196 \u00b1 39%; P < 0.001 vs. 1 h; Fig. 1B and C) and by 24 h was a 466 \u00b1 23% increase in puromycin incorporation (P < 0.001 vs. 1 h).",
+            "startOffset": 21448,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 29163,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We also tested the method with an inhibitor of protein breakdown, i.e. the proteasome inhibitor MG-132, and observed that there was a relatively lower loss of puromycin labelling with MG-132, consistent with an inhibition of MPB.",
+            "startOffset": 28934,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30194,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 30166,
+                    "startOffset": 30159
+                },
+                "bib24": {
+                    "endOffset": 30166,
+                    "startOffset": 30159
+                }
+            },
+            "secId": "sec4",
+            "sentence": "This was somewhat supported by the upregulation of ULK1 Ser555 phosphorylation at 4 h with serum starvation, which has previously been linked with activation of autophagy [23,24] under conditions of stress.",
+            "startOffset": 29988,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28470,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The validity of this method was determined using treatments known to modulate MPB i.e. where a relative decrease in puromycin would indicate activation of MPB, and vice-versa.",
+            "startOffset": 28295,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13221,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 13220,
+                    "startOffset": 13215
+                },
+                "bib2": {
+                    "endOffset": 13220,
+                    "startOffset": 13215
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The ubiquitin-proteasome pathway (UPP) plays a major role in regulating muscle protein breakdown (MPB), where proteins targeted for degradation by the UPP are initially polyubiquitinated by covalent attachment of a chain of ubiquitin molecules, which are then recognised by the 26S proteasome for degradation [1,2].",
+            "startOffset": 12906,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23022,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Following 24 h serum starvation, Dex and TNF-\u03b1, there was a greater loss of cellular puromycin than in untreated cells (\u221214 \u00b1 4%; P < 0.01 vs. Ctl; \u221214 \u00b1 2%; P < 0.01 vs. Ctl; \u221220 \u00b1 4%; P < 0.001 vs. Ctl, respectively, Fig. 3A, C).",
+            "startOffset": 22791,
+            "title": "Effects of selected treatments on loss of puromycin labelling in C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 23846,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "After 24 h, MAFbx protein was no different from controls for all treatments except for serum starvation, where it was decreased relative to control (\u221297 \u00b1 0%; P < 0.001 vs. Ctl; Fig. 4A).",
+            "startOffset": 23659,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 14280,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 14279,
+                    "startOffset": 14273
+                },
+                "bib8": {
+                    "endOffset": 14279,
+                    "startOffset": 14273
+                },
+                "bib9": {
+                    "endOffset": 14279,
+                    "startOffset": 14273
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Since 3-MH cannot be further metabolized or reincorporated, it has been used as a marker of myofibrillar proteolysis, and thus MPB [8\u201310].",
+            "startOffset": 14142,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29324,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These findings provide further substantiation that our method could accurately detect biologically driven changes in MPB in response to known catabolic factors.",
+            "startOffset": 29164,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31824,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This technique has potential for use in other cell types as well as in vivo studies, although new studies may require further optimisation in terms of puromycin doses and incubation periods.",
+            "startOffset": 31634,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21447,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In the absence of CHX, puromycin incorporation increased significantly over 24 h (+1425 \u00b1 42%; P < 0.001 vs. 1 h at 24 h; Fig. 1A, C), with a linear rate of incorporation during 2 h-6h (Fig. 1D).",
+            "startOffset": 21252,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 25144,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Raptor phosphorylation (Ser792; Fig. 4F) was increased following 4 h TNF-\u03b1 (+260 \u00b1 9%; P < 0.001 vs. Ctl) and MG-132 (+155 \u00b1 23%; P < 0.001 vs. Ctl) treatments, while after 24 h, Raptor phosphorylation was no different from control for all treatments (Fig. 4F).",
+            "startOffset": 24883,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 19320,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "n = 4\u20136 technical well replicates were used for each treatment group.",
+            "startOffset": 19251,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 21940,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Cells were treated for 24 h with puromycin, washed, and fresh media replaced to assess loss of puromycin labelling over time.",
+            "startOffset": 21815,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 31209,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 31208,
+                    "startOffset": 31201
+                },
+                "bib27": {
+                    "endOffset": 31208,
+                    "startOffset": 31201
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Moreover, these findings on \u201cstatic MPB markers\u201d highlight the issues surrounding the use of MPB markers as a proxy for actual changes in MPB i.e. we observed MAFbx upregulation with MG-132, a treatment where proteasome-mediated degradation was inhibited, thus caution should be taken when using protein markers to assess MPB; similar to what has been shown with mRNA translation pathways poorly correlating to MPS [26,27].",
+            "startOffset": 30786,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17172,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Mouse C2C12 myoblasts (ECACC, Salisbury, UK) were cultured in Dulbecco's Modified Eagle Medium (DMEM; Thermo Fisher Scientific) supplemented with 10% (v/v) fetal bovine serum (FBS), 1% (v/v) antibiotic-antimycotic solution and 4 mM l-glutamine (all from Sigma-Aldrich, UK) and maintained at 37 \u00b0C with 5% CO2.",
+            "startOffset": 16863,
+            "title": "C2C12 cell culture"
+        },
+        {
+            "endOffset": 26832,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This could feasibly be due to a lack of breakdown during this period, potentially through the addition of fresh media to cells inhibiting protein breakdown (i.e. \u2018feed\u2019), but may also have been due to \u2018saturation\u2019 of the puromycin signal.",
+            "startOffset": 26594,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26336,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In doing so, we observed that during the first 6 h puromycin incorporation was linear, and by 24 h, incorporation rates appeared to be declining i.e. potentially reaching a level of saturation.",
+            "startOffset": 26143,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24538,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Calpain 1 protein was not significantly altered at either time point with any of the treatments (Fig. 4D).",
+            "startOffset": 24432,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 26000,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We developed this method in vitro using C2C12 myotubes, with selected treatments known to influence MPB to validate the method.",
+            "startOffset": 25873,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13450,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 13449,
+                    "startOffset": 13444
+                },
+                "bib4": {
+                    "endOffset": 13449,
+                    "startOffset": 13444
+                },
+                "bib5": {
+                    "endOffset": 13449,
+                    "startOffset": 13444
+                },
+                "bib6": {
+                    "endOffset": 13449,
+                    "startOffset": 13444
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Caspases and calcium-activated calpains also contribute to protein breakdown in muscle, where it has been proposed that they may cleave myofibrillar proteins in order to make them more accessible to degradation by the UPP [3\u20136].",
+            "startOffset": 13222,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25467,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although much insight has been acquired into the molecules and mechanisms involved in maintaining protein homeostasis in skeletal muscle during health and during catabolic conditions such as sarcopenia, cachexia, and disuse, ubiquitous methodological difficulties in measuring MPB have somewhat limited progress.",
+            "startOffset": 25155,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15166,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Moreover, issues can arise when labelled amino acids released during proteolysis are recycled for MPS, giving rise to an underestimation of MPB rates, and these methods require specialized equipment for measurement.",
+            "startOffset": 14951,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22468,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Inclusion of CHX at the point of puromycin removal did not prevent the loss of puromycin from cells, although there was a delayed decline in labelling, with significant decreases in puromycin labelling from 24 h onwards (\u221266 \u00b1 3%; at 48 h; P < 0.001 vs. 1 h; Fig. 2B and C).",
+            "startOffset": 22194,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 29605,
+            "parents": [],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 29604,
+                    "startOffset": 29597
+                },
+                "bib22": {
+                    "endOffset": 29604,
+                    "startOffset": 29597
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Both Dex and TNF-\u03b1 caused upregulation of MAFbx and MuRF1 protein, consistent with previously reported effects of these compounds on activation of UPP-mediated protein breakdown [21,22].",
+            "startOffset": 29419,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25693,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 25493,
+                    "startOffset": 25489
+                },
+                "bib16": {
+                    "endOffset": 25692,
+                    "startOffset": 25688
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The SunSET technique [14], based on the measurement of the rate of formation of puromycin labelled peptides, has been established as a valid and accurate approach for assessing protein synthesis in multiple tissue types [16].",
+            "startOffset": 25468,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29418,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Reported protein markers of MPB were measured to further verify the effects of each treatment.",
+            "startOffset": 29324,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23302,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "A similar pattern of changes was observed with each treatment when CHX was included at the onset of treatment (Fig. 3B and C).",
+            "startOffset": 23176,
+            "title": "Effects of selected treatments on loss of puromycin labelling in C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 18097,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For puromycin incorporation, cells were incubated for 1\u201324 h with puromycin (final concentration 1  \u03bcM), after which cells were harvested in homogenisation buffer for Western blot analysis (see below).",
+            "startOffset": 17896,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 30636,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, measurement of known markers of MPB largely confirmed that our treatments were effectively influencing MPB.",
+            "startOffset": 30523,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16670,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we hypothesised that a puromyocin decorporation approach could be used for measuring global changes in MPB i.e. following incubation periods with puromycin, a subsequent decrease in puromycin labelling in cells would be indicative of a change in MPB.",
+            "startOffset": 16405,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18421,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Cells were harvested at various times points up until 48 h post removal of puromycin.",
+            "startOffset": 18336,
+            "title": "Puromycin MPB method"
+        },
+        {
+            "endOffset": 28295,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 28205,
+                    "startOffset": 28201
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A limitation also exists to using CHX in that it has been shown to inhibit MPB, albeit to a lesser extent than its effects on MPS [17]; therefore we suggest that use of CHX is neither required nor indicated, for this method.",
+            "startOffset": 28071,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32152,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We anticipate that this technique will allow for further insight into the role of MPB in skeletal muscle protein metabolism with health and conditions of muscle atrophy.",
+            "startOffset": 31983,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14637,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Measurement of the rate of release of labelled amino acid(s) from tissue/cells is another method that has been used to assess MPB.",
+            "startOffset": 14507,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20368,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The following day, membranes were washed for 3 \u00d7 5 min with TBS-Tween then incubated in HRP-conjugated secondary antibody (anti-mouse 1:10,000 for puromycin; anti-mouse 1:2000 for Calpain 1; anti-rabbit 1:2000 for ubiquitin, MAFbx and MuRF1) for 1 h at room temperature.",
+            "startOffset": 20098,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 23658,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "MAFbx protein expression was increased following 4 h Dex (+207 \u00b1 34%; P < 0.001 vs. Ctl), TNF-\u03b1 (+154 \u00b1 47%; P < 0.01 vs. Ctl) and MG-132 (+138 \u00b1 44%; P < 0.01 vs. Ctl) treatment (Fig. 4A), while serum starvation caused a reduction in MAFbx protein (\u221276 \u00b1 5%; P < 0.001 vs. Ctl).",
+            "startOffset": 23379,
+            "title": "Markers of MPB following incubation with treatments known to influence MPB"
+        },
+        {
+            "endOffset": 28669,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 28579,
+                    "startOffset": 28575
+                },
+                "bib19": {
+                    "endOffset": 28668,
+                    "startOffset": 28661
+                },
+                "bib20": {
+                    "endOffset": 28668,
+                    "startOffset": 28661
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Serum starvation has been reported to activate MPB in muscle, primarily through activation of autophagy [18], while Dex and TNF-\u03b1 have also been linked with activation of MPB in C2C12 cells [19,20].",
+            "startOffset": 28471,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14506,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 14505,
+                    "startOffset": 14498
+                },
+                "bib12": {
+                    "endOffset": 14505,
+                    "startOffset": 14498
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, limitations exist with this method, since 3-MH can also be produced by other tissue types as well as from dietary meat protein metabolism, while low concentrations make the quantification of 3-MH challenging [11,12].",
+            "startOffset": 14281,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30785,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A clear advantage with the present method was that the same sample can be used to measure additional Western blot targets, including markers of MPB.",
+            "startOffset": 30637,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15709,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 15708,
+                    "startOffset": 15704
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Rather than using tracers to measure incorporation of a labelled amino acid into protein, this technique involves incubation with puromycin, an antibiotic that is a structural analogue of tyrosyl-tRNA, which can be incorporated into a translating polypeptide chain [14].",
+            "startOffset": 15439,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16262,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Crucially, as previously alluded to, a key advantage of the SUnSET method is that it does not require expensive/specialized equipment and techniques; instead only common laboratory methodologies, i.e. Western blot or immunohistochemistry.",
+            "startOffset": 16024,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20622,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Bands were normalized against total protein loading by Coomassie staining the membrane.",
+            "startOffset": 20535,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 22193,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "During the initial 4 h after puromycin removal, no loss of labelling was observed (Fig. 2A, C), but from 6 h until 48 h there was a gradual decrease in puromycin-labelled polypeptides within the cells (\u221274 \u00b1 2%; at 48 h; P < 0.001 vs. 1 h; Fig. 2A, C).",
+            "startOffset": 21941,
+            "title": "Time course of puromycin incorporation into, and disappearance from, C2C12\u00a0cells"
+        },
+        {
+            "endOffset": 12905,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Several proteolytic pathways exist in skeletal muscle to regulate protein breakdown and maintain protein homeostasis.",
+            "startOffset": 12788,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15438,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 15250,
+                    "startOffset": 15243
+                },
+                "bib15": {
+                    "endOffset": 15250,
+                    "startOffset": 15243
+                }
+            },
+            "secId": "sec1",
+            "sentence": "A number of years ago, the surface sensing of translation (SUnSET) technique [14,15] was developed to study cellular global protein synthesis both in cultured cells in vitro and in vivo animal models as an alternative to classical radiolabelling or stable isotope methods.",
+            "startOffset": 15166,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27027,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "From 6 to 48 h however, there was a continual decline in puromycin labelling.",
+            "startOffset": 26950,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X17320636",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Hannah",
+                "initial": "H.",
+                "last": "Crossland"
+            },
+            {
+                "email": null,
+                "first": "Kenneth",
+                "initial": "K.",
+                "last": "Smith"
+            },
+            {
+                "email": null,
+                "first": "Philip J.",
+                "initial": "P.J.",
+                "last": "Atherton"
+            },
+            {
+                "email": "D.Wilkinson@nottingham.ac.uk",
+                "first": "Daniel J.",
+                "initial": "D.J.",
+                "last": "Wilkinson"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.10.085",
+        "firstpage": "608",
+        "issn": "0006291X",
+        "keywords": [
+            "Protein breakdown",
+            "Puromycin",
+            "Skeletal muscle"
+        ],
+        "lastpage": "614",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "A novel puromycin decorporation method to quantify skeletal muscle protein breakdown: A proof-of-concept study"
+    }
+}

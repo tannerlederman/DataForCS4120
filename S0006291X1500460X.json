@@ -1,0 +1,2487 @@
+{
+    "abstract": "Lysosomes are sites for the degradation of diverse cellular components. We recently discovered novel lysosomal systems we termed RNautophagy and DNautophagy. In these systems, RNA and DNA, respectively, are directly imported into lysosomes and degraded. A lysosomal membrane protein, LAMP2C was identified as a receptor for these pathways. The short C-terminal cytosolic tail of LAMP2C binds directly to both RNA and DNA. In this study, we examined the mechanisms underlying recognition of nucleic acids by the cytosolic sequence of LAMP2C. We found that the sequence possesses features of the arginine-rich motif, an RNA-recognition motif found in a wide range of RNA-binding proteins. Substitution of arginine residues in the LAMP2C cytosolic sequence completely abolished its binding capacity for nucleic acids. A scrambled form of the sequence showed affinity to RNA and DNA equivalent to that of the wild-type sequence, as is the case for other arginine-rich motifs. We also found that cytosolic sequences of other LAMP family proteins, LAMP1 and CD68/LAMP4, also possess arginine residues, and show affinity for nucleic acids. Our results provide further insight into the mechanisms underlying RNautophagy and DNautophagy, and may contribute to a better understanding of lysosome function.",
+    "author_highlights": [
+        {
+            "endOffset": 11892,
+            "sentence": "Cytosolic sequence of LAMP2C possesses an arginine-rich motif.",
+            "startOffset": 11830
+        },
+        {
+            "endOffset": 11978,
+            "sentence": "Substitution of arginine in the LAMP2C arginine-rich motif abolished RNA/DNA binding.",
+            "startOffset": 11893
+        },
+        {
+            "endOffset": 12058,
+            "sentence": "Scrambling the LAMP2C cytosolic sequence did not alter its affinity to RNA/DNA.",
+            "startOffset": 11979
+        },
+        {
+            "endOffset": 12136,
+            "sentence": "Cytosolic sequences of LAMPs other than LAMP2 also possess arginine residues.",
+            "startOffset": 12059
+        },
+        {
+            "endOffset": 12210,
+            "sentence": "Cytosolic sequences of LAMP1 and CD68/LAMP4 possess affinity for RNA/DNA.",
+            "startOffset": 12137
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "DE DUVE"
+                },
+                {
+                    "first": "B. C.",
+                    "initial": "B.C.",
+                    "last": "PRESSMAN"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "GIANETTO"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "WATTIAUX"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "APPELMANS"
+                }
+            ],
+            "doi": "10.1042/bj0600604",
+            "firstpage": "604",
+            "issn": "02646021",
+            "lastpage": "617",
+            "pmid": "13249955",
+            "pub_year": 1955,
+            "title": "Tissue fractionation studies. 6. Intracellular distribution patterns of enzymes in rat-liver tissue.",
+            "volume": "60"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Voronova"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Baltimore"
+                }
+            ],
+            "doi": "10.1073/pnas.87.12.4722",
+            "firstpage": "4722",
+            "issn": "00278424",
+            "lastpage": "4726",
+            "pmid": "2112746",
+            "pub_year": 1990,
+            "title": "Mutations that disrupt DNA binding and dimer formation in the E47 helix-loop-helix protein map to distinct domains",
+            "volume": "87"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Aukerman"
+                },
+                {
+                    "first": "R. J.",
+                    "initial": "R.J.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Burr"
+                },
+                {
+                    "first": "F. A.",
+                    "initial": "F.A.",
+                    "last": "Burr"
+                }
+            ],
+            "doi": "10.1101/gad.5.2.310",
+            "firstpage": "310",
+            "issn": "08909369",
+            "lastpage": "320",
+            "pmid": "1899843",
+            "pub_year": 1991,
+            "title": "An arginine to lysine substitution in the bZIP domain of an opaque-2 mutant in maize abolishes specific DNA binding",
+            "volume": "5"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Ruoying",
+                    "initial": "R.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1073/pnas.95.8.4247",
+            "firstpage": "4247",
+            "issn": "00278424",
+            "lastpage": "4252",
+            "pmid": "9539722",
+            "pub_year": 1998,
+            "title": "A novel glutamine-RNA interaction identified by screening libraries in mammalian cells",
+            "volume": "95"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "B. J.",
+                    "initial": "B.J.",
+                    "last": "Calnan"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Biancalana"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Hudson"
+                },
+                {
+                    "first": "A. D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1101/gad.5.2.201",
+            "firstpage": "201",
+            "issn": "08909369",
+            "lastpage": "210",
+            "pmid": "1899841",
+            "pub_year": 1991,
+            "title": "Analysis of arginine-rich peptides from the HIV Tat protein reveals unusual features of RNA-protein recognition",
+            "volume": "5"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "P. Arno",
+                    "initial": "P.A.",
+                    "last": "Venter"
+                },
+                {
+                    "first": "Dawn",
+                    "initial": "D.",
+                    "last": "Marshall"
+                },
+                {
+                    "first": "Anette",
+                    "initial": "A.",
+                    "last": "Schneemann"
+                }
+            ],
+            "doi": "10.1128/JVI.01780-08",
+            "firstpage": "2872",
+            "issn": "0022538X",
+            "lastpage": "2882",
+            "pmid": "19158251",
+            "pub_year": 2009,
+            "title": "Dual roles for an arginine-rich motif in specific genome recognition and localization of viral coat protein to rna replication sites in flock house virus-infected cells",
+            "volume": "83"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Jack",
+                    "initial": "J.",
+                    "last": "Rohrer"
+                },
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "Schweizer"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Russell"
+                },
+                {
+                    "first": "Stuart",
+                    "initial": "S.",
+                    "last": "Kornfeld"
+                }
+            ],
+            "doi": "10.1083/jcb.132.4.565",
+            "firstpage": "565",
+            "issn": "00219525",
+            "lastpage": "576",
+            "pmid": "8647888",
+            "pub_year": 1996,
+            "title": "The targeting of lamp1 to lysosomes is dependent on the spacing of its cytoplasmic tail tyrosine sorting motif relative to the membrane",
+            "volume": "132"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "De Saint-Vis"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Vincent"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Vandenabeele"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Vanbervliet"
+                },
+                {
+                    "first": "J. J.",
+                    "initial": "J.J.",
+                    "last": "Pin"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "A\u00eft-Yahia"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Patel"
+                },
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Mattei"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Banchereau"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Zurawski"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Davoust"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Caux"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Lebecque"
+                }
+            ],
+            "doi": "10.1016/S1074-7613(00)80615-9",
+            "firstpage": "325",
+            "issn": "10747613",
+            "lastpage": "336",
+            "pmid": "9768752",
+            "pub_year": 1998,
+            "title": "A novel lysosome-associated membrane glycoprotein, DC-LAMP, induced upon DC maturation, is transiently expressed in MHC class II compartment",
+            "volume": "9"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "C. L.",
+                    "initial": "C.L.",
+                    "last": "Holness"
+                },
+                {
+                    "first": "R. P.",
+                    "initial": "R.P.",
+                    "last": "Da Silva"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Fawcett"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Gordon"
+                },
+                {
+                    "first": "D. L.",
+                    "initial": "D.L.",
+                    "last": "Simmons"
+                }
+            ],
+            "firstpage": "9661",
+            "issn": "00219258",
+            "lastpage": "9666",
+            "pmid": "8486654",
+            "pub_year": 1993,
+            "title": "Macrosialin, a mouse macrophage-restricted glycoprotein, is a member of the lamp/lgp family",
+            "volume": "268"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Alexandre",
+                    "initial": "A.",
+                    "last": "David"
+                },
+                {
+                    "first": "Marie Catherine",
+                    "initial": "M.C.",
+                    "last": "Tiveron"
+                },
+                {
+                    "first": "Axel",
+                    "initial": "A.",
+                    "last": "Defays"
+                },
+                {
+                    "first": "Christophe",
+                    "initial": "C.",
+                    "last": "Beclin"
+                },
+                {
+                    "first": "Voahirana",
+                    "initial": "V.",
+                    "last": "Camosseto"
+                },
+                {
+                    "first": "Evelina",
+                    "initial": "E.",
+                    "last": "Gatti"
+                },
+                {
+                    "first": "Harold",
+                    "initial": "H.",
+                    "last": "Cremer"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Pierre"
+                }
+            ],
+            "doi": "10.1242/jcs.03316",
+            "firstpage": "353",
+            "issn": "00219533",
+            "lastpage": "365",
+            "pmid": "17215451",
+            "pub_year": 2007,
+            "title": "BAD-LAMP defines a subset of early endocytic organelles in subpopulations of cortical projection neurons",
+            "volume": "120"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Dinshaw J.",
+                    "initial": "D.J.",
+                    "last": "Patel"
+                }
+            ],
+            "doi": "10.1016/S0959-440X(99)80010-4",
+            "firstpage": "74",
+            "issn": "0959440X",
+            "lastpage": "87",
+            "pmid": "10047585",
+            "pub_year": 1999,
+            "title": "Adaptive recognition in RNA complexes with peptides and protein modules",
+            "volume": "9"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "BEAUFAY"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "DE DUVE"
+                },
+                {
+                    "first": "A. B.",
+                    "initial": "A.B.",
+                    "last": "NOVIKOFF"
+                }
+            ],
+            "firstpage": "179",
+            "issn": "00959901",
+            "lastpage": "184",
+            "pmid": "13357540",
+            "pub_year": 1956,
+            "title": "Electron microscopy of lysosomerich fractions from rat liver.",
+            "volume": "2"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Xiaomei",
+                    "initial": "X.",
+                    "last": "Ye"
+                },
+                {
+                    "first": "Andrey",
+                    "initial": "A.",
+                    "last": "Gorin"
+                },
+                {
+                    "first": "Ronnie",
+                    "initial": "R.",
+                    "last": "Frederick"
+                },
+                {
+                    "first": "Weidong",
+                    "initial": "W.",
+                    "last": "Hu"
+                },
+                {
+                    "first": "Ananya",
+                    "initial": "A.",
+                    "last": "Majumdar"
+                },
+                {
+                    "first": "Weijun",
+                    "initial": "W.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "George",
+                    "initial": "G.",
+                    "last": "McLendon"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Ellington"
+                },
+                {
+                    "first": "Dinshaw J.",
+                    "initial": "D.J.",
+                    "last": "Patel"
+                }
+            ],
+            "doi": "10.1016/S1074-5521(99)80117-3",
+            "firstpage": "657",
+            "issn": "10745521",
+            "lastpage": "669",
+            "pub_year": 1999,
+            "title": "RNA architecture dictates the conformations of a bound peptide",
+            "volume": "6"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Cynthia",
+                    "initial": "C.",
+                    "last": "Wolberger"
+                },
+                {
+                    "first": "Andrew K.",
+                    "initial": "A.K.",
+                    "last": "Vershon"
+                },
+                {
+                    "first": "Beishan",
+                    "initial": "B.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Alexander D.",
+                    "initial": "A.D.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Carl O.",
+                    "initial": "C.O.",
+                    "last": "Pabo"
+                }
+            ],
+            "doi": "10.1016/0092-8674(91)90526-5",
+            "firstpage": "517",
+            "issn": "00928674",
+            "lastpage": "528",
+            "pmid": "1682054",
+            "pub_year": 1991,
+            "title": "Crystal structure of a MAT\u03b12 homeodomain-operator complex suggests a general model for homeodomain-DNA interactions",
+            "volume": "67"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Ellenberger"
+                },
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Brandl"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Struhl"
+                },
+                {
+                    "first": "Stephen C.",
+                    "initial": "S.C.",
+                    "last": "Harrison"
+                }
+            ],
+            "doi": "10.1016/S0092-8674(05)80070-4",
+            "firstpage": "1223",
+            "issn": "00928674",
+            "lastpage": "1237",
+            "pmid": "1473154",
+            "pub_year": 1992,
+            "title": "The GCN4 basic region leucine zipper binds DNA as a dimer of uninterrupted \u03b1 Helices: Crystal structure of the protein-DNA complex",
+            "volume": "71"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Ana Maria",
+                    "initial": "A.M.",
+                    "last": "Cuervo"
+                },
+                {
+                    "first": "J. Fred",
+                    "initial": "J.F.",
+                    "last": "Dice"
+                }
+            ],
+            "doi": "10.1126/science.273.5274.501",
+            "firstpage": "501",
+            "issn": "00368075",
+            "lastpage": "503",
+            "pmid": "8662539",
+            "pub_year": 1996,
+            "title": "A receptor for the selective uptake and degradation of proteins by lysosomes",
+            "volume": "273"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "A. M.",
+                    "initial": "A.M.",
+                    "last": "Cuervo"
+                },
+                {
+                    "first": "J. F.",
+                    "initial": "J.F.",
+                    "last": "Dice"
+                }
+            ],
+            "firstpage": "4441",
+            "issn": "00219533",
+            "lastpage": "4450",
+            "pmid": "11082038",
+            "pub_year": 2000,
+            "title": "Unique properties of lamp2a compared to other lamp2 isoforms",
+            "volume": "113"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Kazuo",
+                    "initial": "K.",
+                    "last": "Harada"
+                },
+                {
+                    "first": "Shelley S.",
+                    "initial": "S.S.",
+                    "last": "Martin"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1038/380175a0",
+            "firstpage": "175",
+            "issn": "00280836",
+            "lastpage": "179",
+            "pmid": "8600395",
+            "pub_year": 1996,
+            "title": "Selection of RNA-binding peptides in vivo",
+            "volume": "380"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Baode",
+                    "initial": "B.",
+                    "last": "Xie"
+                },
+                {
+                    "first": "Valerie",
+                    "initial": "V.",
+                    "last": "Calabro"
+                },
+                {
+                    "first": "Mark A.",
+                    "initial": "M.A.",
+                    "last": "Wainberg"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Franke"
+                }
+            ],
+            "doi": "10.1128/JVI.78.3.1456-1463.2004",
+            "firstpage": "1456",
+            "issn": "0022538X",
+            "lastpage": "1463",
+            "pmid": "14722301",
+            "pub_year": 2004,
+            "title": "Selection of TAR RNA-Binding Chameleon Peptides by Using a Retroviral Replication System",
+            "volume": "78"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Juan S.",
+                    "initial": "J.S.",
+                    "last": "Bonifacino"
+                },
+                {
+                    "first": "Linton M.",
+                    "initial": "L.M.",
+                    "last": "Traub"
+                }
+            ],
+            "doi": "10.1146/annurev.biochem.72.121801.161800",
+            "firstpage": "395",
+            "issn": "00664154",
+            "lastpage": "447",
+            "pmid": "12651740",
+            "pub_year": 2003,
+            "title": "Signals for sorting of transmembrane proteins to endosomes and lysosomes",
+            "volume": "72"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Edwige",
+                    "initial": "E.",
+                    "last": "Hiriart"
+                },
+                {
+                    "first": "Lucie",
+                    "initial": "L.",
+                    "last": "Bardouillet"
+                },
+                {
+                    "first": "Evelyne",
+                    "initial": "E.",
+                    "last": "Manet"
+                },
+                {
+                    "first": "Henri",
+                    "initial": "H.",
+                    "last": "Gruffat"
+                },
+                {
+                    "first": "Fran\u00e7ois",
+                    "initial": "F.",
+                    "last": "Penin"
+                },
+                {
+                    "first": "Roland",
+                    "initial": "R.",
+                    "last": "Montserret"
+                },
+                {
+                    "first": "G\u00e9raldine",
+                    "initial": "G.",
+                    "last": "Farjot"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Sergeant"
+                }
+            ],
+            "doi": "10.1074/jbc.M305925200",
+            "firstpage": "37790",
+            "issn": "00219258",
+            "lastpage": "37798",
+            "pmid": "12857728",
+            "pub_year": 2003,
+            "title": "A region of the Epstein-Barr virus (EBV) mRNA export factor EB2 containing an arginine-rich motif mediates direct binding to RNA",
+            "volume": "278"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Barbara J.",
+                    "initial": "B.J.",
+                    "last": "Calnan"
+                },
+                {
+                    "first": "Bruce",
+                    "initial": "B.",
+                    "last": "Tidor"
+                },
+                {
+                    "first": "Sara",
+                    "initial": "S.",
+                    "last": "Biancalana"
+                },
+                {
+                    "first": "Derek",
+                    "initial": "D.",
+                    "last": "Hudson"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1126/science.252.5009.1167",
+            "firstpage": "1167",
+            "issn": "00368075",
+            "lastpage": "1171",
+            "pmid": "1709522",
+            "pub_year": 1991,
+            "title": "Arginine-mediated RNA recognition: The arginine fork",
+            "volume": "252"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Noboru",
+                    "initial": "N.",
+                    "last": "Mizushima"
+                },
+                {
+                    "first": "Masaaki",
+                    "initial": "M.",
+                    "last": "Komatsu"
+                }
+            ],
+            "doi": "10.1016/j.cell.2011.10.026",
+            "firstpage": "728",
+            "issn": "00928674",
+            "lastpage": "741",
+            "pmid": "22078875",
+            "pub_year": 2011,
+            "title": "Autophagy: Renovation of cells and tissues",
+            "volume": "147"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Thomas J.",
+                    "initial": "T.J.",
+                    "last": "Daly"
+                },
+                {
+                    "first": "James R.",
+                    "initial": "J.R.",
+                    "last": "Rusche"
+                },
+                {
+                    "first": "Theodore E.",
+                    "initial": "T.E.",
+                    "last": "Maione"
+                },
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1021/bi00494a005",
+            "firstpage": "9791",
+            "issn": "00062960",
+            "lastpage": "9795",
+            "pmid": "2125482",
+            "pub_year": 1990,
+            "title": "Circular Dichroism Studies of the HIV-1 Rev Protein and Its Specific RNA Binding Site",
+            "volume": "29"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "David E.",
+                    "initial": "D.E.",
+                    "last": "Fisher"
+                },
+                {
+                    "first": "Lana A.",
+                    "initial": "L.A.",
+                    "last": "Parent"
+                },
+                {
+                    "first": "Phillip A.",
+                    "initial": "P.A.",
+                    "last": "Sharp"
+                }
+            ],
+            "doi": "10.1016/0092-8674(93)90122-7",
+            "firstpage": "467",
+            "issn": "00928674",
+            "lastpage": "476",
+            "pmid": "8431949",
+            "pub_year": 1993,
+            "title": "High affinity DNA-binding Myc analogs: Recognition by an \u03b1 helix",
+            "volume": "72"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Yuuki",
+                    "initial": "Y.",
+                    "last": "Fujiwara"
+                },
+                {
+                    "first": "Akiko",
+                    "initial": "A.",
+                    "last": "Furuta"
+                },
+                {
+                    "first": "Hisae",
+                    "initial": "H.",
+                    "last": "Kikuchi"
+                },
+                {
+                    "first": "Shu",
+                    "initial": "S.",
+                    "last": "Aizawa"
+                },
+                {
+                    "first": "Yusuke",
+                    "initial": "Y.",
+                    "last": "Hatanaka"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Konya"
+                },
+                {
+                    "first": "Kenko",
+                    "initial": "K.",
+                    "last": "Uchida"
+                },
+                {
+                    "first": "Aya",
+                    "initial": "A.",
+                    "last": "Yoshimura"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Tamai"
+                },
+                {
+                    "first": "Keiji",
+                    "initial": "K.",
+                    "last": "Wada"
+                },
+                {
+                    "first": "Tomohiro",
+                    "initial": "T.",
+                    "last": "Kabuta"
+                }
+            ],
+            "doi": "10.4161/auto.23002",
+            "firstpage": "403",
+            "issn": "15548627",
+            "lastpage": "409",
+            "pub_year": 2013,
+            "title": "Discovery of a novel type of autophagy targeting RNA",
+            "volume": "9"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Yuuki",
+                    "initial": "Y.",
+                    "last": "Fujiwara"
+                },
+                {
+                    "first": "Hisae",
+                    "initial": "H.",
+                    "last": "Kikuchi"
+                },
+                {
+                    "first": "Shu",
+                    "initial": "S.",
+                    "last": "Aizawa"
+                },
+                {
+                    "first": "Akiko",
+                    "initial": "A.",
+                    "last": "Furuta"
+                },
+                {
+                    "first": "Yusuke",
+                    "initial": "Y.",
+                    "last": "Hatanaka"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Konya"
+                },
+                {
+                    "first": "Kenko",
+                    "initial": "K.",
+                    "last": "Uchida"
+                },
+                {
+                    "first": "Keiji",
+                    "initial": "K.",
+                    "last": "Wada"
+                },
+                {
+                    "first": "Tomohiro",
+                    "initial": "T.",
+                    "last": "Kabuta"
+                }
+            ],
+            "doi": "10.4161/auto.24880",
+            "firstpage": "1167",
+            "issn": "15548627",
+            "lastpage": "1171",
+            "pmid": "23839276",
+            "pub_year": 2013,
+            "title": "Direct uptake and degradation of DNA by lysosomes",
+            "volume": "9"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Eeva Liisa",
+                    "initial": "E.L.",
+                    "last": "Eskelinen"
+                },
+                {
+                    "first": "Ana Maria",
+                    "initial": "A.M.",
+                    "last": "Cuervo"
+                },
+                {
+                    "first": "Matthew R.G.",
+                    "initial": "M.R.G.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Ichizo",
+                    "initial": "I.",
+                    "last": "Nishino"
+                },
+                {
+                    "first": "Janice S.",
+                    "initial": "J.S.",
+                    "last": "Blum"
+                },
+                {
+                    "first": "J. Fred",
+                    "initial": "J.F.",
+                    "last": "Dice"
+                },
+                {
+                    "first": "Ignacio V.",
+                    "initial": "I.V.",
+                    "last": "Sandoval"
+                },
+                {
+                    "first": "Jennifer",
+                    "initial": "J.",
+                    "last": "Lippincott-Schwartz"
+                },
+                {
+                    "first": "J. Thomas",
+                    "initial": "J.T.",
+                    "last": "August"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Saftig"
+                }
+            ],
+            "doi": "10.1111/j.1600-0854.2005.00337.x",
+            "firstpage": "1058",
+            "issn": "13989219",
+            "lastpage": "1061",
+            "pmid": "16190986",
+            "pub_year": 2005,
+            "title": "Unifying nomenclature for the isoforms of the lysosomal membrane protein LAMP-2",
+            "volume": "6"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Narendra",
+                    "initial": "N.",
+                    "last": "Narayana"
+                }
+            ],
+            "doi": "10.1002/(SICI)1097-0282(1998)48:2<167::AID-BIP6>3.0.CO;2-8",
+            "firstpage": "167",
+            "issn": "00063525",
+            "lastpage": "180",
+            "pmid": "10333744",
+            "pub_year": 1998,
+            "title": "RNA recognition by arginine-rich peptide motifs",
+            "volume": "48"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Alan D.",
+                    "initial": "A.D.",
+                    "last": "Frankel"
+                }
+            ],
+            "doi": "10.1016/S0959-440X(00)00092-0",
+            "firstpage": "332",
+            "issn": "0959440X",
+            "lastpage": "340",
+            "pmid": "10851193",
+            "pub_year": 2000,
+            "title": "Fitting peptides into the RNA world",
+            "volume": "10"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "George",
+                    "initial": "G.",
+                    "last": "Prendergast"
+                },
+                {
+                    "first": "Edward B.",
+                    "initial": "E.B.",
+                    "last": "Ziff"
+                }
+            ],
+            "doi": "10.1038/341392a0",
+            "firstpage": "392",
+            "issn": "00280836",
+            "pmid": "2507924",
+            "pub_year": 1989,
+            "title": "DNA-binding motif [11]",
+            "volume": "341"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 19559,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Mutation of the glutamine residue at position 10 did not affect the RNA-binding capacity of the cytosolic sequence of LAMP2C in this assay (Fig. 1C).",
+            "startOffset": 19410,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19303,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The affinity of the cytosolic sequence of LAMP2C for RNA was completely abolished only by mutations to the arginine repeat at positions 2 and 3 (Fig. 1C).",
+            "startOffset": 19149,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29294,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 29293,
+                    "startOffset": 29288
+                },
+                "bib8": {
+                    "endOffset": 29293,
+                    "startOffset": 29288
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In particular, HIV-1 Rev and HTLV-I Rex proteins, which possess ARMs, function in transporting viral mRNA to the cytoplasm [7,8].",
+            "startOffset": 29165,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23190,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "To examine this idea, we prepared a peptide construct corresponding to the cytosolic sequence of the C. elegans LAMP ortholog, in which all arginine residues were substituted to serines (Fig. 4B).",
+            "startOffset": 22994,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27239,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Whether the cytosolic tail of LAMP2C has any specificity in its binding to RNA/DNA remains to be addressed.",
+            "startOffset": 27132,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14117,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 14116,
+                    "startOffset": 14111
+                },
+                "bib5": {
+                    "endOffset": 14116,
+                    "startOffset": 14111
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We reported that the cytosolic sequence of LAMP2C binds directly to both RNA and DNA [4,5].",
+            "startOffset": 14026,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30483,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Structural change in the cytosolic tail of LAMP2C or other receptors may also occur in the process of RDA, for instance to pass substrate nucleic acids to other as yet unknown factors involved in RDA, such as transporters or ATPases.",
+            "startOffset": 30250,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12891,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In macroautophagy, cytosolic components are first sequestered by double-membrane structures called autophagosomes and then delivered to lysosomes through membrane fusion.",
+            "startOffset": 12721,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30249,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 30248,
+                    "startOffset": 30244
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Structural change in the DNA-binding basic region of the transcription factor TFEB (LAKERQKKDNHNLIERRRR) upon binding to DNA has also been reported [31].",
+            "startOffset": 30096,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29456,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is possible that RNautophagy may block such processes by capturing viral RNAs via the RNA-recognition mechanism of the cytosolic tails of lysosomal receptors.",
+            "startOffset": 29295,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29164,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 29163,
+                    "startOffset": 29158
+                },
+                "bib8": {
+                    "endOffset": 29163,
+                    "startOffset": 29158
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Although ARMs are present in wide range of species across diverse phyla, they are commonly found in viral proteins and often play essential roles in viral replication processes [7,8].",
+            "startOffset": 28981,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27580,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is noteworthy that LAMP2C possesses an additional arginine residue in its cytosolic tail, where a tyrosine residue is located in LAMP2B (Fig. 1A).",
+            "startOffset": 27431,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24247,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 4F and G, the cytosolic sequence of LAMP1 and CD68 exhibited direct binding to RNA and DNA, although their affinity to DNA was much lower than that of the LAMP2C peptide.",
+            "startOffset": 24060,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27131,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 27111,
+                    "startOffset": 27108
+                }
+            },
+            "secId": "sec4",
+            "sentence": "As we have previously reported [4], and as shown in Fig. 1C, the cytosolic sequence of LAMP2C can bind to almost all total RNA; however, RNA of low molecular weight appears to have lower or no affinity to the sequence [4] (see also Fig. 1C).",
+            "startOffset": 26890,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17983,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Intriguingly, three of the four candidates, R401, R402 and K403 are basic residues.",
+            "startOffset": 17900,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23262,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We then compared its RNA/DNA-binding capacity to the wild-type peptide.",
+            "startOffset": 23191,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15358,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 15330,
+                    "startOffset": 15325
+                },
+                "bib5": {
+                    "endOffset": 15330,
+                    "startOffset": 15325
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Pull-down assays were performed as described previously [4,5], with slight modifications.",
+            "startOffset": 15269,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 17175,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 17174,
+                    "startOffset": 17171
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We also reported that the cytosolic sequence of LAMP2B did not show affinity for DNA [5].",
+            "startOffset": 17086,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19148,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Hereafter, we refer to the position of each amino acid residue in the peptides as positions 1\u201312, as shown in Fig. 1B. Employing the wild-type and three mutant forms of the LAMP2C peptide, we first performed pull-down assays using purified total mouse RNA.",
+            "startOffset": 18892,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24559,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we showed that the cytosolic tail of LAMP2C possesses a distinctive arginine-rich motif and that the arginine residues in the sequence play a pivotal role in the recognition of both RNA and DNA.",
+            "startOffset": 24350,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28981,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although the affinity of these sequences for DNA is weaker than that of LAMP2C, LAMP family proteins other than LAMP2 are attractive candidates as novel RDA-related genes.",
+            "startOffset": 28810,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16893,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 16892,
+                    "startOffset": 16887
+                },
+                "bib5": {
+                    "endOffset": 16892,
+                    "startOffset": 16887
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Using biotin-conjugated peptide constructs corresponding to the cytosolic sequence of each LAMP2 variant (LAMP2 peptides), we have previously reported that the cytosolic sequence of LAMP2C binds directly to nucleic acids while that of LAMP2A does not show any affinity for either RNA or DNA, [4,5].",
+            "startOffset": 16595,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22730,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 4A, the cytosolic sequences of both D. melanogaster and C. elegans LAMP orthologs are also rich in arginine residues.",
+            "startOffset": 22596,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23804,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Notably, the short cytosolic tails of all the proteins possess at least two arginine residues.",
+            "startOffset": 23710,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22466,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Furthermore, the cytosolic sequences of D. melanogaster and C. elegans LAMP orthologs show the highest level of identity to that of LAMP2C among the three human LAMP2 variants.",
+            "startOffset": 22290,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20753,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 20752,
+                    "startOffset": 20749
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We have previously reported that a variety of RNA-binding proteins interact indirectly with the cytosolic sequence of LAMP2C and that this interaction is mediated by RNA [4].",
+            "startOffset": 20579,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25713,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 25693,
+                    "startOffset": 25688
+                },
+                "bib5": {
+                    "endOffset": 25693,
+                    "startOffset": 25688
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It is noteworthy that arginine residues are not present in the cytosolic sequence of LAMP2A (Fig. 1A), which does not show any affinity for nucleic acids [4,5] (see also Fig. S1).",
+            "startOffset": 25534,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17085,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 17084,
+                    "startOffset": 17081
+                }
+            },
+            "secId": "sec3",
+            "sentence": "The cytosolic sequence of LAMP2B, which is more similar to that of LAMP2C compared to LAMP2A (Fig. 1A), also showed affinity for purified RNA, although this was lower than that of LAMP2C [4].",
+            "startOffset": 16894,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15009,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Total RNA was purified from 10- to 12-week-old mouse brains using TRIzol Reagent (Invitrogen) according to the manufacturer's instructions.",
+            "startOffset": 14870,
+            "title": "Purification of total RNA"
+        },
+        {
+            "endOffset": 28345,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 28344,
+                    "startOffset": 28339
+                },
+                "bib5": {
+                    "endOffset": 28344,
+                    "startOffset": 28339
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In previous studies, we showed that RNA and DNA are directly imported into lysosomes in an ATP-dependent manner and degraded [4,5].",
+            "startOffset": 28214,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16308,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The extracted RNA and DNA were analyzed by electrophoresis in agarose gels containing ethidium bromide.",
+            "startOffset": 16205,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 19641,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The affinity of each peptide to DNA was also examined using purified plasmid DNA.",
+            "startOffset": 19560,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22289,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 22288,
+                    "startOffset": 22285
+                }
+            },
+            "secId": "sec3",
+            "sentence": "The cytosolic sequence of LAMP2C is completely conserved among humans, mice and chickens [6].",
+            "startOffset": 22196,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18891,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Residues that correspond to R401 and R402, K403 or Q409 in human LAMP2C were substituted to serine residues (Fig. 1B).",
+            "startOffset": 18773,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29622,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The precise mechanisms of RNA/DNA transport in RDA are still largely unknown.",
+            "startOffset": 29545,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17634,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In human LAMP2C, there are five such residues, namely R401, R402, K403, S404 and Q409 (Fig. 1A).",
+            "startOffset": 17538,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29802,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 29801,
+                    "startOffset": 29794
+                },
+                "bib30": {
+                    "endOffset": 29801,
+                    "startOffset": 29794
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It is interesting that ARMs of HIV-1 Rev protein and Tat protein (RQARRNRRRRWRERQR and YGRKKRRQRRRP, respectively) induce conformational change in the RNAs that they bind [13,30].",
+            "startOffset": 29623,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17772,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, S404 in human LAMP2C is not conserved in murine LAMP2B (Fig. 1A), suggesting that S404 may not be necessary for RNA/DNA binding.",
+            "startOffset": 17635,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21322,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These data correlate well with the affinity of each peptide to RNA in the cell lysate, while silver staining of overall protein interactions with each peptide was consistent with the above observations (Fig. 2C).",
+            "startOffset": 21110,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27848,
+            "parents": [],
+            "refoffsets": {
+                "bib29": {
+                    "endOffset": 27847,
+                    "startOffset": 27841
+                },
+                "bib8": {
+                    "endOffset": 27847,
+                    "startOffset": 27841
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In the ARM of HIV-1 Tat protein, a single arginine residue is sufficient for RNA binding, and surrounding basic amino acids such as additional arginines and lysines enhance the affinity of the motif for RNA and the kinetic stability of the protein\u2013RNA complex [8,29].",
+            "startOffset": 27581,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22595,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 22594,
+                    "startOffset": 22589
+                },
+                "bib5": {
+                    "endOffset": 22594,
+                    "startOffset": 22589
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Synthetic peptides corresponding to these sequences also exhibit affinity to RNA/DNA that is comparable to that of LAMP2C [4,5].",
+            "startOffset": 22467,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17333,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, in this study, we detected weak binding of LAMP2B to purified DNA in a pull-down assay using a modified method (Fig. S1, see Materials and Methods).",
+            "startOffset": 17176,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21579,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 21578,
+                    "startOffset": 21574
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Synthetic peptides corresponding to the ARM of HIV Tat, an ARM-containing protein that has been extensively studied, show the same RNA-binding ability as the wild-type peptide, even when the amino acid sequence of the peptide was reversed or scrambled [13].",
+            "startOffset": 21322,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26245,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 26244,
+                    "startOffset": 26234
+                },
+                "bib25": {
+                    "endOffset": 26244,
+                    "startOffset": 26234
+                },
+                "bib26": {
+                    "endOffset": 26244,
+                    "startOffset": 26234
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Arginine-rich sequences containing combinations of 12 hydrophilic or charged amino acids can provide a variety of biologically functional RNA-binding peptides [12,25,26].",
+            "startOffset": 26075,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13875,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "LAMP2 has a large and highly glycosylated luminal region, a single transmembrane region and a short C-terminal cytosolic tail consisting of 11\u201312 amino acid residues.",
+            "startOffset": 13709,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27430,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 27410,
+                    "startOffset": 27405
+                },
+                "bib5": {
+                    "endOffset": 27410,
+                    "startOffset": 27405
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Although cytosolic sequences of both LAMP2B and LAMP2C bind to RNA/DNA, the affinity of the LAMP2C peptide to nucleic acids is higher than that of the LAMP2B peptide [4,5] (see also Fig. S1).",
+            "startOffset": 27239,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28214,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The additional arginine residue in the cytosolic sequence of LAMP2C may be responsible for the higher affinity of the sequence for nucleic acids.",
+            "startOffset": 28069,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19926,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Mutation of the glutamine residue at position 10 attenuated the DNA-binding capacity (Fig. 1D).",
+            "startOffset": 19831,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18253,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 18252,
+                    "startOffset": 18247
+                },
+                "bib8": {
+                    "endOffset": 18252,
+                    "startOffset": 18247
+                }
+            },
+            "secId": "sec3",
+            "sentence": "ARM is a short RNA-binding domain (usually <20 amino acids) with highly basic residues, generally rich in arginines, found in a variety of RNA-binding proteins [7,8].",
+            "startOffset": 18087,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17537,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Taken together, these observations indicate that the amino acid residue(s) necessary for RNA and DNA binding are those that are shared between the cytosolic sequences of LAMP2C and LAMP2B but not LAMP2A.",
+            "startOffset": 17334,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13260,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Chaperone-mediated autophagy is a process in which cytosolic proteins containing specific motifs are recognized by the chaperone complex and directly imported into lysosomes via binding to the lysosomal membrane receptor, LAMP2A.",
+            "startOffset": 13031,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18086,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 18085,
+                    "startOffset": 18080
+                },
+                "bib8": {
+                    "endOffset": 18085,
+                    "startOffset": 18080
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Arginine is the main component of a common RNA recognition motif, the arginine-rich motif (ARM) [7,8].",
+            "startOffset": 17984,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14565,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Biotin-conjugated peptides were synthesized by Invitrogen or GenScript custom services.",
+            "startOffset": 14478,
+            "title": "Peptides"
+        },
+        {
+            "endOffset": 23508,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Both RNA- and DNA-binding capacities were completely abolished (Fig. 4C and D), suggesting that the ARM-mediated recognition of nucleic acids by LAMP family proteins is a mechanism that is evolutionarily conserved across a wide range of metazoa.",
+            "startOffset": 23263,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13621,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 13620,
+                    "startOffset": 13615
+                },
+                "bib5": {
+                    "endOffset": 13620,
+                    "startOffset": 13615
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We have also identified that a lysosomal membrane protein, LAMP2C, functions, at least in part, as a receptor for both RNA and DNA in these systems [4,5].",
+            "startOffset": 13467,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14445,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we investigated the amino acid residues in the LAMP2C cytosolic sequence that are essential for RNA/DNA interactions using peptide constructs corresponding to wild-type and mutant forms.",
+            "startOffset": 14244,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29545,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Physiological roles of RDA mediated by ARMs are an intriguing issue for future research.",
+            "startOffset": 29457,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14243,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the mechanism underlying RNA/DNA-recognition by LAMP2C through this very short cytosolic tail remained undetermined.",
+            "startOffset": 14118,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12478,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 12477,
+                    "startOffset": 12472
+                },
+                "bib2": {
+                    "endOffset": 12477,
+                    "startOffset": 12472
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Lysosomes are the sites for degradation of various macromolecules, such as nucleic acids, proteins, lipids and carbohydrates [1,2].",
+            "startOffset": 12347,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20093,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 20092,
+                    "startOffset": 20089
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We next performed pull-down assays using these peptides with HeLa cell lysate, the RNA of which is expected to form complexes with endogenous RNA-binding proteins [4].",
+            "startOffset": 19926,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18574,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 18573,
+                    "startOffset": 18569
+                }
+            },
+            "secId": "sec3",
+            "sentence": "In addition, glutamine residues are reported to enhance RNA-binding affinity of ARMs when incorporated into the sequence [12].",
+            "startOffset": 18448,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26889,
+            "parents": [],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 26888,
+                    "startOffset": 26884
+                },
+                "bib8": {
+                    "endOffset": 26789,
+                    "startOffset": 26786
+                }
+            },
+            "secId": "sec4",
+            "sentence": "ARMs generally show relatively high specificity in their RNA binding [8], although binding of ARMs to RNA without apparent sequence specificity has also been reported [28].",
+            "startOffset": 26717,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18447,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 18446,
+                    "startOffset": 18440
+                },
+                "bib11": {
+                    "endOffset": 18446,
+                    "startOffset": 18440
+                },
+                "bib9": {
+                    "endOffset": 18446,
+                    "startOffset": 18440
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Basic regions containing highly conserved arginine residues are also shared among a wide range of DNA-binding proteins and specific arginine residues play essential roles in DNA binding [9\u201311].",
+            "startOffset": 18254,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25533,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 25532,
+                    "startOffset": 25525
+                },
+                "bib20": {
+                    "endOffset": 25532,
+                    "startOffset": 25525
+                },
+                "bib21": {
+                    "endOffset": 25532,
+                    "startOffset": 25525
+                },
+                "bib22": {
+                    "endOffset": 25532,
+                    "startOffset": 25525
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A unique feature of arginine relative to other basic amino acids is that it contains a guanidinium group in its side chain that can form a hydrogen bond network with the major groove edge of guanine and the backbone phosphate of RNA and DNA [19\u201322].",
+            "startOffset": 25284,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28703,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 28629,
+                    "startOffset": 28624
+                },
+                "bib5": {
+                    "endOffset": 28629,
+                    "startOffset": 28624
+                }
+            },
+            "secId": "sec4",
+            "sentence": "However, lysosomes isolated from Lamp2 knockout mice showed only partly attenuated levels of RNautophagy/DNautophagy (hereafter abbreviated as RDA) [4,5], indicating the existence of LAMP2-independent pathways in these systems.",
+            "startOffset": 28476,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13030,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In microautophagy, cytosolic components are engulfed into lysosomes or late endosomes by invagination of the lysosomal/endosomal membrane.",
+            "startOffset": 12892,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28068,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The fact that a scrambled form of the LAMP2C peptide binds RNA/DNA with equally affinity to the wild-type peptide suggests that it is not the arrangement but the components of the sequence that is important for binding.",
+            "startOffset": 27849,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21109,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In the present study, we observed that the interactions of RNA-binding proteins in the cell lysate to the cytosolic sequence of LAMP2C were completely abolished by mutations of the arginine repeat at positions 2 and 3 and of the lysine residue at position 4, and the interactions were reduced by mutation of the glutamine residue at position 10 (Fig. 2B).",
+            "startOffset": 20754,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19830,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The DNA-binding capacity of the cytosolic sequence of LAMP2C was completely abolished by mutation of the arginine repeat at positions 2 and 3 or the lysine residue at position 4 (Fig. 1D).",
+            "startOffset": 19642,
+            "title": "Results"
+        },
+        {
+            "endOffset": 12720,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 12719,
+                    "startOffset": 12716
+                }
+            },
+            "secId": "sec1",
+            "sentence": "To date, at least three types of autophagy have been identified: macroautophagy, microautophagy and chaperone-mediated autophagy [3].",
+            "startOffset": 12587,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22993,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These features strongly suggest that D. melanogaster and C. elegans LAMPs also bind to RNA/DNA via ARMs, in an analogous manner to LAMP2C.",
+            "startOffset": 22855,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19409,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The affinity to RNA was also partly attenuated by mutation of the lysine residue at position 4 (Fig. 1C).",
+            "startOffset": 19304,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26075,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 26017,
+                    "startOffset": 26013
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Binding of the substrate proteins to LAMP2A has been reported to require a KHHH sequence in the cytosolic tail of LAMP2A [24], which is also positively charged but devoid of arginine.",
+            "startOffset": 25892,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25284,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The substitution of glutamine also resulted in reduced affinity of the sequence for RNA in cell lysate (Fig. 2A), although no alteration in affinity of the peptide for purified RNA was detected (Fig. 1C).",
+            "startOffset": 25080,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26567,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 26566,
+                    "startOffset": 26562
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The other two residues are a conserved tyrosine residue necessary for the YXX\u0424 lysosomal targeting signal and a valine residue, also necessary for the YXX\u0424 motif as a hydrophobic residue [27].",
+            "startOffset": 26375,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22854,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In addition, the cytosolic sequence of the C. elegans LAMP ortholog contain one lysine and one glutamine residue (Fig. 4A).",
+            "startOffset": 22731,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24878,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These results are consistent with previous reports describing ARMs in other proteins.",
+            "startOffset": 24793,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24792,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A lysine residue is also important for RNA/DNA-recognition because the affinity of LAMP2C peptides to nucleic acids was dramatically attenuated or abolished by substitution of the lysine residue in all three experiments (Figs. 1\u20133).",
+            "startOffset": 24560,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23709,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 23708,
+                    "startOffset": 23699
+                },
+                "bib16": {
+                    "endOffset": 23708,
+                    "startOffset": 23699
+                },
+                "bib17": {
+                    "endOffset": 23708,
+                    "startOffset": 23699
+                },
+                "bib18": {
+                    "endOffset": 23708,
+                    "startOffset": 23699
+                },
+                "bib6": {
+                    "endOffset": 23708,
+                    "startOffset": 23699
+                }
+            },
+            "secId": "sec3",
+            "sentence": "All LAMPs, except for BAD-LAMP, are reported to localize to lysosomes [6,15\u201318].",
+            "startOffset": 23629,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25891,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 25890,
+                    "startOffset": 25886
+                }
+            },
+            "secId": "sec4",
+            "sentence": "LAMP2A is known to function as a receptor for substrate proteins in chaperone-mediated autophagy, a pathway in which specific proteins are directly imported into lysosomes [23].",
+            "startOffset": 25714,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20501,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Affinity of the peptide for RNA was almost completely attenuated by mutation of the lysine residue at position 4, and mutation of the glutamine residue at position 10 also reduced the affinity of the peptide for RNA (Fig. 2A).",
+            "startOffset": 20275,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20274,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Consistent with the assay using purified RNA (Fig. 1C), mutations in the arginine repeat at positions 2 and 3 completely abolished the affinity of LAMP2C peptide for RNA (Fig. 2A).",
+            "startOffset": 20094,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25079,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A glutamine residue appeared to facilitate the affinity of the sequence, at least for DNA, as substitution of the glutamine residue resulted in reduced binding of the peptide to purified DNA (Fig. 1D).",
+            "startOffset": 24878,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21819,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We performed pull-down assays using this peptide with purified RNA and DNA.",
+            "startOffset": 21744,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26717,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 26716,
+                    "startOffset": 26713
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The fact that the cytosolic sequence of LAMP2C alone as a synthetic peptide can bind RNA is also a common feature shared among a variety of ARMs [8].",
+            "startOffset": 26568,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30583,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The authors declare no potential conflicts of interest.",
+            "startOffset": 30528,
+            "title": "Disclosure of potential conflicts of interest"
+        },
+        {
+            "endOffset": 20579,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These data are very similar to the results of the assays using DNA (Fig. 1D).",
+            "startOffset": 20502,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28809,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, we found that cytosolic sequences of LAMP1 and CD68 also directly bind RNA and DNA.",
+            "startOffset": 28704,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30095,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 30094,
+                    "startOffset": 30090
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In addition, the Tat ARM is unstructured in the unbound state, and becomes partially or fully structured when bound to RNA [13].",
+            "startOffset": 29967,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13708,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 13707,
+                    "startOffset": 13704
+                }
+            },
+            "secId": "sec1",
+            "sentence": "LAMP2C and LAMP2A are splice variants of a major lysosomal membrane protein, LAMP2 [6].",
+            "startOffset": 13621,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17899,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "From these observations, we considered R401, R402, K403 and Q409 as candidates for RNA/DNA recognition by LAMP2C (and LAMP2B).",
+            "startOffset": 17773,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16031,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "RNA pulled down with the beads was extracted using TRIzol Reagent (Invitrogen) according to the manufacturer's instructions.",
+            "startOffset": 15907,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 21743,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "To assess whether the cytosolic sequence of LAMP2C possesses a similar feature, we prepared a biotin-conjugated LAMP2C peptide with a scrambled sequence (Fig. 3A).",
+            "startOffset": 21580,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22196,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 22195,
+                    "startOffset": 22188
+                },
+                "bib14": {
+                    "endOffset": 22195,
+                    "startOffset": 22188
+                }
+            },
+            "secId": "sec3",
+            "sentence": "These results suggest that the arrangement of each amino acid residue in the LAMP2C sequence is not important for RNA/DNA binding and that other factors, such as overall positive charge, are important, as has been documented for other ARMs [13,14].",
+            "startOffset": 21948,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21947,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Of note, the scrambled peptide showed affinity to both RNA and DNA, equivalent to the wild-type LAMP2C peptide (Fig. 3B and C).",
+            "startOffset": 21820,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13359,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 13358,
+                    "startOffset": 13353
+                },
+                "bib5": {
+                    "endOffset": 13358,
+                    "startOffset": 13353
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We recently discovered novel types of autophagy, which we termed RNautophagy and DNautophagy [4,5].",
+            "startOffset": 13260,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15906,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After incubation for 90 min at 4 \u00b0C for assays using purified RNA and plasmid DNA, or for 60 min at 4 \u00b0C in assays using cell lysate, beads were washed three times with PBS containing 0.05% Triton X-100.",
+            "startOffset": 15703,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 28475,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We identified LAMP2C as at least one of the receptors for nucleic acid substrates in these pathways, RNautophagy and DNautophagy.",
+            "startOffset": 28346,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13466,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In these systems, nucleic acids are directly imported into the lysosomal lumen in an ATP-dependent manner.",
+            "startOffset": 13360,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12586,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Processes in which intracellular components are delivered into lysosomes and degraded are called autophagy.",
+            "startOffset": 12479,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18772,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "To elucidate the mechanism by which LAMP2C recognizes nucleic acids, we generated mutant forms of the LAMP2C peptide.",
+            "startOffset": 18655,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29966,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Likewise, conformational change of substrate nucleic acids by the cytosolic tail of LAMP2C (or other receptors) may take place in the translocation process of RDA.",
+            "startOffset": 29803,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14025,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 14024,
+                    "startOffset": 14021
+                }
+            },
+            "secId": "sec1",
+            "sentence": "While the luminal region of the three splice variants, LAMP2A, B and C are identical, the cytosolic tail of each variant has a distinct sequence [6].",
+            "startOffset": 13876,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18655,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "From these observations, we speculated that LAMP2C binds RNA and DNA via an ARM.",
+            "startOffset": 18575,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24059,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "To assess whether cytosolic tails of other LAMP family proteins have affinity to nucleic acids, we generated biotin-conjugated peptides corresponding to the cytosolic sequences of LAMP1, DC-LAMP and CD68 (Fig. 4E), and examined their affinity to RNA/DNA.",
+            "startOffset": 23805,
+            "title": "Results"
+        },
+        {
+            "endOffset": 14842,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The following primary antibodies were used: rabbit polyclonal anti-RPL8 (LS-C31782, Lifespan), rabbit monoclonal anti-RPS6 (2217, Cell Signaling), mouse monoclonal anti-hnRNP A1 (sc-365486, Santa Cruz) and mouse monoclonal anti-nucleophosmin (32-5200, Invitrogen).",
+            "startOffset": 14578,
+            "title": "Antibodies"
+        },
+        {
+            "endOffset": 24339,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The cytosolic sequence of DC-LAMP scarcely showed affinity for RNA and DNA (Fig. 4F and G).",
+            "startOffset": 24248,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15250,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "All animal experiments were performed in strict accordance with the guidelines of the National Institute of Neuroscience, National Center of Neurology and Psychiatry, and were approved by the Animal Investigation Committee of the Institute.",
+            "startOffset": 15010,
+            "title": "Purification of total RNA"
+        },
+        {
+            "endOffset": 23628,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In mammals, LAMP2 is one of five known LAMP family proteins, LAMP1, LAMP2, DC-LAMP/LAMP3, CD68/LAMP4 and BAD-LAMP/LAMP5.",
+            "startOffset": 23508,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16587,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "For detection of RNA-binding proteins, samples pulled-down from cell lysate were eluted with SDS-PAGE sample buffer (10 mM Tris, pH 7.8, 3% SDS, 5% glycerol, 0.02% bromophenol blue and 2% 2-mercaptoethanol) and analyzed by SDS-PAGE followed by immunoblotting or silver staining.",
+            "startOffset": 16309,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 15702,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 15584,
+                    "startOffset": 15581
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Streptavidin\u2013Sepharose beads (GE Healthcare) were blocked with 3% bovine serum albumin for 15 h. Ten micrograms of purified total RNA or plasmid DNA (pCI-neo, Promega), or HeLa cell lysate prepared as described previously [4], was incubated with 8 nmol of biotin-conjugated peptides and 40 \u03bcL of the beads in PBS containing 0.05% Triton X-100.",
+            "startOffset": 15359,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 16204,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "For assays using DNA, the beads were incubated with 100 \u03bcL 1% SDS containing 0.1 \u03bcg/mL proteinase K for 90 min at 37 \u00b0C, and then DNA was extracted using phenol\u2013chloroform.",
+            "startOffset": 16032,
+            "title": "Pull-down assays"
+        },
+        {
+            "endOffset": 26374,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Of note, 10 out of 12 amino acid residues in the cytosolic tail of LAMP2C are among these 12 hydrophilic or charged amino acids.",
+            "startOffset": 26246,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X1500460X",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Yuuki",
+                "initial": "Y.",
+                "last": "Fujiwara"
+            },
+            {
+                "email": null,
+                "first": "Katsunori",
+                "initial": "K.",
+                "last": "Hase"
+            },
+            {
+                "email": null,
+                "first": "Keiji",
+                "initial": "K.",
+                "last": "Wada"
+            },
+            {
+                "email": "kabuta@ncnp.go.jp",
+                "first": "Tomohiro",
+                "initial": "T.",
+                "last": "Kabuta"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.03.025",
+        "firstpage": "281",
+        "issn": "0006291X",
+        "keywords": [
+            "Arginine-rich motif",
+            "DNautophagy",
+            "LAMP2C",
+            "Lysosome",
+            "RNautophagy"
+        ],
+        "lastpage": "286",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "An RNautophagy/DNautophagy receptor, LAMP2C, possesses an arginine-rich motif that mediates RNA/DNA-binding"
+    }
+}

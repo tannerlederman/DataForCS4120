@@ -1,0 +1,2026 @@
+{
+    "abstract": "An approach is described to apply spatial filtering with microphone arrays to localize acoustic sources in an Intensive Care Unit (ICU). This is done to obtain more detailed information about disturbing noise sources in the ICU with the ultimate goal of facilitating the reduction of the overall background noise level, which could potentially improve the patients\u2019 experience and reduce the time needed for recovery. This paper gives a practical description of the system, including the audio hardware setup as well as the design choices for the microphone arrays. Additionally, the necessary signal processing steps required to produce meaningful data are explained, focusing on a novel clustering approach that enables an automatic evaluation of the spatial filtering results. This approach allows the data to be presented to the nursing staff in a way that enables them to act on the results produced by the system.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Biren B.",
+                    "initial": "B.B.",
+                    "last": "Kamdar"
+                },
+                {
+                    "first": "Dale M.",
+                    "initial": "D.M.",
+                    "last": "Needham"
+                },
+                {
+                    "first": "Nancy A.",
+                    "initial": "N.A.",
+                    "last": "Collop"
+                }
+            ],
+            "doi": "10.1177/0885066610394322",
+            "firstpage": "97",
+            "issn": "08850666",
+            "lastpage": "111",
+            "pmid": "21220271",
+            "pub_year": 2012,
+            "title": "Sleep deprivation in critical illness: Its role in physical and psychological recovery",
+            "volume": "27"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Joshua N.",
+                    "initial": "J.N.",
+                    "last": "Aaron"
+                },
+                {
+                    "first": "Carol C.",
+                    "initial": "C.C.",
+                    "last": "Carlisle"
+                },
+                {
+                    "first": "Mary A.",
+                    "initial": "M.A.",
+                    "last": "Carskadon"
+                },
+                {
+                    "first": "Thomas J.",
+                    "initial": "T.J.",
+                    "last": "Meyer"
+                },
+                {
+                    "first": "Nicholas S.",
+                    "initial": "N.S.",
+                    "last": "Hill"
+                },
+                {
+                    "first": "Richard P.",
+                    "initial": "R.P.",
+                    "last": "Millman"
+                }
+            ],
+            "doi": "10.1093/sleep/19.9.707",
+            "firstpage": "707",
+            "issn": "01618105",
+            "lastpage": "710",
+            "pmid": "9122557",
+            "pub_year": 1996,
+            "title": "Environmental noise as a cause of sleep disruption in an intermediate respiratory care unit",
+            "volume": "19"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Neil S.",
+                    "initial": "N.S.",
+                    "last": "Freedman"
+                },
+                {
+                    "first": "Joost",
+                    "initial": "J.",
+                    "last": "Gazendam"
+                },
+                {
+                    "first": "Lachelle",
+                    "initial": "L.",
+                    "last": "Levan"
+                },
+                {
+                    "first": "Allan I.",
+                    "initial": "A.I.",
+                    "last": "Pack"
+                },
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Schwab"
+                }
+            ],
+            "doi": "10.1164/ajrccm.163.2.9912128",
+            "firstpage": "451",
+            "issn": "1073449X",
+            "lastpage": "457",
+            "pmid": "11179121",
+            "pub_year": 2001,
+            "title": "Abnormal sleep/wake cycles and the effect of environmental noise on sleep disruption in the intensive care unit",
+            "volume": "163"
+        },
+        "b0020": null,
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Julie L.",
+                    "initial": "J.L.",
+                    "last": "Darbyshire"
+                },
+                {
+                    "first": "J. Duncan",
+                    "initial": "J.D.",
+                    "last": "Young"
+                }
+            ],
+            "doi": "10.1186/cc12870",
+            "issn": "13648535",
+            "pmid": "24005004",
+            "pub_year": 2013,
+            "title": "An investigation of sound levels on intensive care units with reference to the WHO guidelines",
+            "volume": "17"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Erica E.",
+                    "initial": "E.E.",
+                    "last": "Ryherd"
+                },
+                {
+                    "first": "Kerstin Persson",
+                    "initial": "K.P.",
+                    "last": "Waye"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Ljungkvist"
+                }
+            ],
+            "doi": "10.1121/1.2822661",
+            "firstpage": "747",
+            "issn": "00014966",
+            "lastpage": "756",
+            "pmid": "18247879",
+            "pub_year": 2008,
+            "title": "Characterizing noise and perceived work environment in a neurological intensive care unit",
+            "volume": "123"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Berens"
+                },
+                {
+                    "first": "Carl G.M.",
+                    "initial": "C.G.M.",
+                    "last": "Weigle"
+                }
+            ],
+            "firstpage": "199",
+            "issn": "07438346",
+            "lastpage": "201",
+            "pmid": "8817430",
+            "pub_year": 1996,
+            "title": "Cost Analysis of Ceiling Tile Replacement for Noise Abatement",
+            "volume": "16"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "T. S.",
+                    "initial": "T.S.",
+                    "last": "Hargest"
+                }
+            ],
+            "firstpage": "38",
+            "issn": "0149290X",
+            "lastpage": "40",
+            "pmid": "10241603",
+            "pub_year": 1979,
+            "title": "Clinical engineering practices: noise--the new hospital contaminate.",
+            "volume": "7"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Annette",
+                    "initial": "A.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Micheala",
+                    "initial": "M.",
+                    "last": "Allsop"
+                },
+                {
+                    "first": "Elaine",
+                    "initial": "E.",
+                    "last": "Coghill"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Turnock"
+                }
+            ],
+            "doi": "10.1111/j.1478-5153.2007.00243.x",
+            "firstpage": "278",
+            "issn": "14785153",
+            "lastpage": "286",
+            "pmid": "17983362",
+            "pub_year": 2007,
+            "title": "Earplugs and eye masks: do they improve critical care patients' sleep?",
+            "volume": "12"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Gary H.",
+                    "initial": "G.H.",
+                    "last": "Mills"
+                },
+                {
+                    "first": "Richard S.",
+                    "initial": "R.S.",
+                    "last": "Bourne"
+                }
+            ],
+            "doi": "10.1186/cc11397",
+            "issn": "13648535",
+            "pmid": "22805535",
+            "pub_year": 2012,
+            "title": "Do earplugs stop noise from driving critical care patients into delirium?",
+            "volume": "16"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Marcia M.",
+                    "initial": "M.M.",
+                    "last": "Moore"
+                },
+                {
+                    "first": "Diem",
+                    "initial": "D.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Stanton P.",
+                    "initial": "S.P.",
+                    "last": "Nolan"
+                },
+                {
+                    "first": "Samuel P.",
+                    "initial": "S.P.",
+                    "last": "Robinson"
+                },
+                {
+                    "first": "Brenda",
+                    "initial": "B.",
+                    "last": "Ryals"
+                },
+                {
+                    "first": "John Z.",
+                    "initial": "J.Z.",
+                    "last": "Imbrie"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Spotnitz"
+                }
+            ],
+            "firstpage": "894",
+            "issn": "00031348",
+            "lastpage": "899",
+            "pmid": "9731822",
+            "pub_year": 1998,
+            "title": "Interventions to reduce decibel levels on patient care units",
+            "volume": "64"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Avinash",
+                    "initial": "A.",
+                    "last": "Konkani"
+                },
+                {
+                    "first": "Barbara",
+                    "initial": "B.",
+                    "last": "Oakley"
+                },
+                {
+                    "first": "Thomas J.",
+                    "initial": "T.J.",
+                    "last": "Bauld"
+                }
+            ],
+            "doi": "10.2345/0899-8205-46.6.478",
+            "firstpage": "478",
+            "issn": "08998205",
+            "lastpage": "487",
+            "pmid": "23171194",
+            "pub_year": 2012,
+            "title": "Reducing hospital noise: A review of medical device alarm management",
+            "volume": "46"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Litton"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Carnegie"
+                },
+                {
+                    "first": "Rosalind",
+                    "initial": "R.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "Steve A.R.",
+                    "initial": "S.A.R.",
+                    "last": "Webb"
+                }
+            ],
+            "doi": "10.1097/CCM.0000000000001557",
+            "firstpage": "992",
+            "issn": "00903493",
+            "lastpage": "999",
+            "pmid": "26741578",
+            "pub_year": 2016,
+            "title": "The efficacy of earplugs as a sleep hygiene strategy for reducing delirium in the ICU: A systematic review and meta-analysis",
+            "volume": "44"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Rosalind M.",
+                    "initial": "R.M.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "Sharon M.",
+                    "initial": "S.M.",
+                    "last": "Mckinley"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Eager"
+                }
+            ],
+            "doi": "10.4103/1463-1741.59997",
+            "firstpage": "26",
+            "issn": "14631741",
+            "lastpage": "36",
+            "pmid": "20160388",
+            "pub_year": 2010,
+            "title": "A pilot study of sound levels in an Australian adult general intensive care unit",
+            "volume": "12"
+        },
+        "b0075": null,
+        "b0080": null,
+        "b0085": null,
+        "b0090": null,
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Jos\u00e9 A.",
+                    "initial": "J.A.",
+                    "last": "Ballesteros"
+                },
+                {
+                    "first": "Ennes",
+                    "initial": "E.",
+                    "last": "Sarradj"
+                },
+                {
+                    "first": "Marcos D.",
+                    "initial": "M.D.",
+                    "last": "Fern\u00e1ndez"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Geyer"
+                },
+                {
+                    "first": "Ma Jes\u00fas",
+                    "initial": "M.J.",
+                    "last": "Ballesteros"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2015.01.019",
+            "firstpage": "106",
+            "issn": "0003682X",
+            "lastpage": "119",
+            "pub_year": 2015,
+            "title": "Noise source identification with Beamforming in the pass-by of a car",
+            "volume": "93"
+        },
+        "b0100": null,
+        "b0105": null,
+        "b0110": null,
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "M\u00fcller-Trapet"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Dietrich"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Vorl\u00e4nder"
+                }
+            ],
+            "doi": "10.3397/1.3560903",
+            "firstpage": "302",
+            "issn": "07362501",
+            "lastpage": "310",
+            "pub_year": 2011,
+            "title": "Influence of various uncertainty factors on the result of beamforming measurements",
+            "volume": "59"
+        },
+        "b0120": null,
+        "b0125": null,
+        "b0130": null,
+        "b0135": null,
+        "b0140": null,
+        "b0145": null,
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Ennes",
+                    "initial": "E.",
+                    "last": "Sarradj"
+                }
+            ],
+            "doi": "10.1155/2012/292695",
+            "issn": "16876261",
+            "pub_year": 2012,
+            "title": "Three-dimensional acoustic source mapping with different beamforming steering vector formulations"
+        },
+        "b0155": {
+            "authors": [
+                {
+                    "first": "Jont B.",
+                    "initial": "J.B.",
+                    "last": "Allen"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Berkley"
+                }
+            ],
+            "doi": "10.1121/1.382599",
+            "firstpage": "943",
+            "issn": "00014966",
+            "lastpage": "950",
+            "pub_year": 1979,
+            "title": "Image method for efficiently simulating small-room acoustics",
+            "volume": "65"
+        },
+        "b0160": null,
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Thomas F.",
+                    "initial": "T.F.",
+                    "last": "Brooks"
+                },
+                {
+                    "first": "William M.",
+                    "initial": "W.M.",
+                    "last": "Humphreys"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2005.12.046",
+            "firstpage": "856",
+            "issn": "0022460X",
+            "lastpage": "879",
+            "pub_year": 2006,
+            "title": "A deconvolution approach for the mapping of acoustic sources (DAMAS) determined from phased microphone arrays",
+            "volume": "294"
+        },
+        "b0170": {
+            "authors": [
+                {
+                    "first": "Irina F.",
+                    "initial": "I.F.",
+                    "last": "Gorodnitsky"
+                },
+                {
+                    "first": "Bhaskar D.",
+                    "initial": "B.D.",
+                    "last": "Rao"
+                }
+            ],
+            "doi": "10.1109/78.558475",
+            "firstpage": "600",
+            "issn": "1053587X",
+            "lastpage": "616",
+            "pub_year": 1997,
+            "title": "Sparse signal reconstruction from limited data using FOCUSS: A re-weighted minimum norm algorithm",
+            "volume": "45"
+        },
+        "b0175": null,
+        "b0180": {
+            "authors": [
+                {
+                    "first": "Pieter",
+                    "initial": "P.",
+                    "last": "Sijtsma"
+                }
+            ],
+            "pub_year": 2007,
+            "title": "CLEAN based on spatial source coherence"
+        },
+        "b0185": {
+            "authors": [
+                {
+                    "first": "Stuart P.",
+                    "initial": "S.P.",
+                    "last": "Lloyd"
+                }
+            ],
+            "doi": "10.1109/TIT.1982.1056489",
+            "firstpage": "129",
+            "issn": "00189448",
+            "lastpage": "137",
+            "pub_year": 1982,
+            "title": "Least Squares Quantization in PCM",
+            "volume": "28"
+        },
+        "b0190": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Arthur"
+                },
+                {
+                    "first": "Sergei",
+                    "initial": "S.",
+                    "last": "Vassilvitskii"
+                }
+            ],
+            "firstpage": "1027",
+            "lastpage": "1035",
+            "pub_year": 2007,
+            "title": "K-means++: The advantages of careful seeding",
+            "volume": "07-09-"
+        },
+        "b0195": {
+            "authors": [
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Rousseeuw"
+                }
+            ],
+            "doi": "10.1016/0377-0427(87)90125-7",
+            "firstpage": "53",
+            "issn": "03770427",
+            "lastpage": "65",
+            "pub_year": 1987,
+            "title": "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+            "volume": "20"
+        },
+        "b0200": null
+    },
+    "body_text": [
+        {
+            "endOffset": 46767,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In terms of input data for the clustering, two approaches were implemented and tested:",
+            "startOffset": 46681,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 51310,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "It seems that the relevant sources were correctly localized by Variant 2 of the clustering approach.",
+            "startOffset": 51210,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 27645,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In most of these cases, a manual evaluation of the results in terms of source maps per third-octave band is usually necessary, hence requiring an expert to make sense of the data.",
+            "startOffset": 27466,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28387,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A deconvolution algorithm usually employed for aeroacoustic measurements is applied here in the context of the ICU environment, leading to increased spatial selectivity.",
+            "startOffset": 28218,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49067,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Clearly, the relevant sources have been identified and outliers have been successfully suppressed.",
+            "startOffset": 48969,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 36758,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Thus the logarithmic spiral array was chosen as the final layout.",
+            "startOffset": 36693,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 48968,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The result of Variant 2 for the simulated data in Fig. 8 is presented in Fig. 9.",
+            "startOffset": 48888,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 48535,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Continue with step 3 in Variant 1 above",
+            "startOffset": 48496,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 49487,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The array system described above was installed in the adult ward of the ICU at the John Radcliffe Hospital in Oxford at the end of October 2016.",
+            "startOffset": 49343,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 46506,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The goal of this project, however, is an automatic and autonomous localization of dominant sources, which could be used by a non-expert user, such as a member of the nursing staff.",
+            "startOffset": 46326,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 35437,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Among the three selected designs, the array in Fig. 4b offers the best spatial resolution, due to the higher number of sensors with a larger radius.",
+            "startOffset": 35289,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 31630,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 31536,
+                    "startOffset": 31532
+                }
+            },
+            "secId": "s0010",
+            "sentence": "To process the microphone signals and provide phantom power, a total of nine Focusrite OctoPre MKII [25] were used, each converting the input voltage of eight microphones into a digital ADAT stream.",
+            "startOffset": 31432,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 46181,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The broadband result of the deconvolution \u2014 while relatively sparse \u2014 may not be directly useful to determine source locations automatically.",
+            "startOffset": 46040,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 45689,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In Fig. 8 an example of the output from the CLEAN algorithm is shown for the simulated data in Fig. 7a.",
+            "startOffset": 45586,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 50609,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In comparison to the simulated data in Section 4.2 (Fig. 8), the measured data shows more spurious peaks, which may be due to additional sources, or may be caused by array imperfections.",
+            "startOffset": 50423,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 52070,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The positions of the detected sources are also exported continuously, so that a statistical evaluation over time is possible.",
+            "startOffset": 51945,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 28217,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A modified formulation of the standard Delay-and-Sum beamforming algorithm is presented to increase the computational performance.",
+            "startOffset": 28087,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51512,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "However, it should be stressed here that the measurements were performed in a working ICU environment, which could not be controlled, so the precise number and location of active sources was not known.",
+            "startOffset": 51311,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 53945,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "At the moment, the possibility of classifying individual sources by combining the spatial filtering presented here with machine learning is being investigated.",
+            "startOffset": 53786,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26359,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 26358,
+                    "startOffset": 26354
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Currently, studies use individual sound level meters at discrete positions in the ICU to record the level variation over time [14].",
+            "startOffset": 26228,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42836,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "In Fig. 7a the broadband SPL is plotted at a chosen time instant with three active sources.",
+            "startOffset": 42745,
+            "title": "Delay-and-sum beamforming"
+        },
+        {
+            "endOffset": 28577,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For an automatic evaluation of the beamforming result, a novel clustering approach is described in detail, enabling a display of the results that is easy to understand for non-acousticians.",
+            "startOffset": 28388,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29643,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "To provide insight into the practical setup, a general plan of the ICU environment and the location of the hardware is shown by a schematic diagram in Fig. 1.",
+            "startOffset": 29485,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 44911,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "For the application in the ICU, it has been found that contrary to expectations the inclusion of source coherence does not yield a significant improvement and hence the CLEAN algorithm with the fast Delay-and-Sum beamformer (Eq. (4)) is used.",
+            "startOffset": 44669,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 43908,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "refoffsets": {
+                "b0165": {
+                    "endOffset": 43827,
+                    "startOffset": 43823
+                },
+                "b0170": {
+                    "endOffset": 43907,
+                    "startOffset": 43903
+                }
+            },
+            "secId": "s0030",
+            "sentence": "The DAMAS algorithm is a direct deconvolution approach, which can be calculated with the Gauss-Seidel algorithm [33], or by enforcing sparseness in the result, e. g. with the FOCUSS algorithm [34].",
+            "startOffset": 43711,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 53011,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "With the help of clustering, the influence of spurious peaks in the source map can be effectively suppressed.",
+            "startOffset": 52902,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 53628,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The system described here is currently used in the John Radcliffe Hospital in Oxford to obtain a better impression of the acoustic source distribution in the ICU.",
+            "startOffset": 53466,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 29341,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The descriptions in this paper will be useful for replicating the presented array system, and the clustering approach helps to automatically evaluate the result of beamforming calculations and make it presentable to non-technical personnel.",
+            "startOffset": 29101,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44235,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The iterative algorithms are faster than the direct approaches by two orders of magnitude, taking only approximately 25% more time than the Delay-and-Sum beamformer.",
+            "startOffset": 44070,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 45586,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Nevertheless, the number of relevant sources is usually far less than the number of scan positions.",
+            "startOffset": 45487,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 29044,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In Section 5 selected results of measurements made with the system installed in the adult ICU of the John Radcliffe Hospital in Oxford are shown.",
+            "startOffset": 28899,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43710,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The deconvolution problem can be solved in several ways.",
+            "startOffset": 43654,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 52542,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "An alternative beamforming formulation resulting in faster computation has been developed and a clustering approach has been introduced to enable an automatic localization of the most dominant acoustic sources.",
+            "startOffset": 52332,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 54136,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "This additional information would enable the nursing staff to, for example, distinguish between medical equipment and speech, making it easier to implement changes to reduce the noise level.",
+            "startOffset": 53946,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38498,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "For the processing steps and the results presented in the rest of this paper, this configuration was chosen.",
+            "startOffset": 38390,
+            "title": "Beamforming"
+        },
+        {
+            "endOffset": 53785,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "This information will be used to devise measures to provide an overall reduction in background noise levels, hopefully leading to improved patient recovery.",
+            "startOffset": 53629,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26039,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 26038,
+                    "startOffset": 26034
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A recent review of noise-reducing measures comes to the conclusion that when patients experience lower noise levels through the use of earplugs, the risk of delirium can be reduced [13].",
+            "startOffset": 25853,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50278,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "As already observed for the simulated data in Section 4.1, it becomes clear that this result cannot be directly used for source localization.",
+            "startOffset": 50137,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 27029,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 27028,
+                    "startOffset": 27024
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A solution to the problem of using local sound level meters lies in the application of spatial filtering methods such as beamforming to discriminate acoustic sources in space from a remote location [15].",
+            "startOffset": 26826,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52237,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "In this paper a microphone array system has been presented that is used to remotely localize and quantify acoustic noise sources in an Intensive Care Unit.",
+            "startOffset": 52082,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31875,
+            "parents": [],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 31874,
+                    "startOffset": 31870
+                }
+            },
+            "secId": "s0010",
+            "sentence": "For an additional eight microphones distributed in the ICU, a second MADI stream was provided by the Ferrofish A16-MKII [27].",
+            "startOffset": 31750,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 54330,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Before the system described in this paper can be deployed in additional ICUs or similar healthcare environments, its effectiveness and influence on staff and patients will have to be determined.",
+            "startOffset": 54136,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 28898,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The beamforming strategies including the data clustering approach are described in detail in Section 4 together with simulated example data.",
+            "startOffset": 28758,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48253,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Variant 2: If information about the non-zero indices can be obtained for each frequency of interest, an additional pre-selection of the data can be performed in the following way:",
+            "startOffset": 48074,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 49324,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This is different in most real situations, as will be shown in the next section.",
+            "startOffset": 49244,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 50038,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "It should be noted that the source locations identified from the recordings in the ICU (Figs. 10\u201314) are not expected to match the scenarios from the simulated examples (Figs. 7\u20139), as the simulations used purely hypothetical source locations.",
+            "startOffset": 49795,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 44668,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "An important advantage of CLEAN is that the array response can be pre-computed and thus processing time can be further reduced.",
+            "startOffset": 44541,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 35972,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For the three designs chosen according to their broadband performance, the improvement achieved by using frequency-dependent shading weights for the individual circles of microphones in each array was analyzed.",
+            "startOffset": 35762,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 44069,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "refoffsets": {
+                "b0175": {
+                    "endOffset": 44022,
+                    "startOffset": 44018
+                },
+                "b0180": {
+                    "endOffset": 44049,
+                    "startOffset": 44045
+                }
+            },
+            "secId": "s0030",
+            "sentence": "However, both approaches are very computationally demanding, and so an iterative solution, such as the CLEAN [35] or CLEAN-SC algorithm [36] is usually favored.",
+            "startOffset": 43909,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 51210,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "This indicates the benefit of using the additional information across frequency, as is done in Variant 2.",
+            "startOffset": 51105,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 51671,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Further studies under controlled conditions will have to be carried out to establish the robustness of the presented approach and the ideal set of parameters.",
+            "startOffset": 51513,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 38389,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "However, the best results were achieved when all 64 microphones were used simultaneously as a single large array.",
+            "startOffset": 38276,
+            "title": "Beamforming"
+        },
+        {
+            "endOffset": 44540,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Hence, a trade-off between accuracy and computational demand can be made by the choice of the algorithm.",
+            "startOffset": 44436,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 43246,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It becomes clear that this beamforming result cannot be used directly for an automatic, accurate source localization.",
+            "startOffset": 43129,
+            "title": "Delay-and-sum beamforming"
+        },
+        {
+            "endOffset": 26542,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "While this offers insight into the periods over which the overall noise activity is higher, it cannot provide information about the distribution of specific sources in time or space.",
+            "startOffset": 26360,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37281,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This ensures an optimum performance in the operating frequency range under the given constraints.",
+            "startOffset": 37184,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 27899,
+            "parents": [],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 27742,
+                    "startOffset": 27735
+                },
+                "b0110": {
+                    "endOffset": 27742,
+                    "startOffset": 27735
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Automatic source localization is a problem often encountered in speech signal processing [21,22], but the approaches are not always generally applicable because of underlying assumptions about the array geometry or the number and type of source signals.",
+            "startOffset": 27646,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31431,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "To avoid spending time developing bespoke hardware, off-the-shelf audio equipment was chosen to provide the microphone pre-amplifiers and digital conversion.",
+            "startOffset": 31274,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 51104,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In comparison, the result of Variant 2 of the clustering algorithm is shown in Fig. 13 and from this results it can be seen that by only taking into account the level information, more sources are detected than are actually present.",
+            "startOffset": 50872,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 26826,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This often leads to spurious unrealistically high peak levels when staff come into contact with the audio equipment or the supporting structure.",
+            "startOffset": 26682,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48738,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The threshold of 80% was selected here as it yielded good results in terms of a reliable estimate of the number of active sources, but it is a parameter that can be adapted to the individual application.",
+            "startOffset": 48535,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 38075,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "With the calibrated audio data available from the array microphones, beamforming was used to determine the location of the most prominent acoustic sources.",
+            "startOffset": 37920,
+            "title": "Beamforming"
+        },
+        {
+            "endOffset": 46611,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "refoffsets": {
+                "b0185": {
+                    "endOffset": 46610,
+                    "startOffset": 46606
+                }
+            },
+            "secId": "s0035",
+            "sentence": "To achieve this goal, the deconvolution results are combined using the k-means clustering algorithm [37].",
+            "startOffset": 46506,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 48315,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Find all non-zero indices in the frequency range of interest",
+            "startOffset": 48255,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 50871,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The deconvolution output is processed with Variant 1 of the clustering algorithm (Section 4.3) and the result is shown in Fig. 12.",
+            "startOffset": 50741,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 50136,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "The beamforming map of the Delay-and-Sum algorithm at one chosen time instant is shown in Fig. 10.",
+            "startOffset": 50038,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 48415,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Sort the data according to the relative number of occurrences of each index across all frequencies",
+            "startOffset": 48317,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 46680,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "refoffsets": {
+                "b0190": {
+                    "endOffset": 46679,
+                    "startOffset": 46675
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The initialization is carried out with the k-means++ algorithm [38].",
+            "startOffset": 46612,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 50741,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "It is precisely this behavior that makes it necessary to further process the data before an automatic localization can be achieved.",
+            "startOffset": 50610,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 53138,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The successful application of the presented approach has been demonstrated through real measured data from the running system.",
+            "startOffset": 53012,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 45486,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "When the spectral information is summed up to yield the broadband (A-weighted) level or other derived quantities, the map becomes slightly less sparse as the location of the sources in the scanning grid may not be absolutely stable across frequency.",
+            "startOffset": 45237,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 52661,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "It has been shown that the raw result of beamforming calculations is not directly useful for unsupervised localization.",
+            "startOffset": 52542,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 54493,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "This will require a long-term study, which will then hopefully establish whether the array-based system can assist medical staff in reducing the ICU noise levels.",
+            "startOffset": 54331,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26227,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To better identify the contributing noise sources and explore ways of reducing them, a more detailed understanding of the distribution of acoustic sources over time and space is necessary.",
+            "startOffset": 26039,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46022,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In the next subsection, a data clustering approach is described to overcome this problem.",
+            "startOffset": 45933,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 34466,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "These two array geometries yield a spatial selectivity that does not vary too much with the azimuthal steering angle and are relatively easy to build.",
+            "startOffset": 34316,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 43326,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The necessary post-processing steps are described in the following subsections.",
+            "startOffset": 43247,
+            "title": "Delay-and-sum beamforming"
+        },
+        {
+            "endOffset": 29101,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The paper finishes with concluding remarks in Section 6.",
+            "startOffset": 29045,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50422,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In Fig. 11 the deconvolution result of the CLEAN algorithm is presented, yielding a much sparser map that shows the areas with dominant sources.",
+            "startOffset": 50278,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 36938,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The resulting performance parameters are shown as a function of frequency in Fig. 5.",
+            "startOffset": 36854,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 48494,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Select the indices that make up 80% of the data (based on the cumulative sum)",
+            "startOffset": 48417,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 51944,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In addition to the source locations, the average sound pressure level recorded by the microphones is shown in a bar graph on the right side of the display.",
+            "startOffset": 51789,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 52331,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The hardware and array design for the system under the given constraints have been described.",
+            "startOffset": 52238,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 36504,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "It was found that the exponential distribution of the array radii of the first logarithmic spiral array (Fig. 4a) is beneficial for frequency-dependent control of the beampattern.",
+            "startOffset": 36325,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 36692,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Also, since the logarithmic spiral array has one more circle of microphones compared to the circular array, this offers an additional degree of freedom for deriving the frequency-weights.",
+            "startOffset": 36505,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 45932,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, some spurious locations also appear, probably from data in the low frequency range where the directivity of the arrays is not high, as demonstrated in Fig. 5.",
+            "startOffset": 45765,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 49670,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "Recordings were made during a typical shift with all beds in the ICU occupied.",
+            "startOffset": 49592,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 45051,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "From this point on, only the CLEAN algorithm will be mentioned, but all processing is of course equally applicable to the CLEAN-SC version.",
+            "startOffset": 44912,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 51788,
+            "parents": [],
+            "refoffsets": {
+                "b0200": {
+                    "endOffset": 51762,
+                    "startOffset": 51758
+                }
+            },
+            "secId": "s0040",
+            "sentence": "The final display for the nursing staff, implemented in the Julia programming language [40], is presented in Fig. 14.",
+            "startOffset": 51671,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 26681,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "An additional problem is that in order to obtain representative data, sound level meters have to be installed close to the patients\u2019 beds.",
+            "startOffset": 26543,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28695,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The outline of the paper is as follows: in Section 2 the setup of the audio hardware of the array system is described.",
+            "startOffset": 28577,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53335,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Further studies will be necessary to confirm the validity and robustness of the automatic localization approach, as the data gathered so far was not obtained under controlled laboratory conditions.",
+            "startOffset": 53138,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 34315,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Of the many possible planar array geometries \u2013 such as the regular grid, cross grid, logarithmic spiral array, circular array and random array \u2013 the circular array and logarithmic spiral array were regarded as relevant in this project.",
+            "startOffset": 34080,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 53466,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The optimum number of clusters and its dependence on the environment and the number of array sensors will have to be investigated.",
+            "startOffset": 53336,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35762,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The logarithmic spiral in Fig. 4a and the circular array in Fig. 4c perform similarly, although the logarithmic spiral has the best MSL at high frequencies, whereas the circular array has a narrower beamwidth.",
+            "startOffset": 35553,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 34642,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Several combinations of array radii and distribution of sensors were tested for each of these two array types and rated according to the aforementioned performance parameters.",
+            "startOffset": 34467,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 25614,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A number of strategies have been attempted to reduce sound levels in ICUs.",
+            "startOffset": 25540,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48074,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "A better approach is described in the following paragraph.",
+            "startOffset": 48016,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 36324,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "By choosing cut-on and cut-off frequencies for each of the circles of microphones, the effective outer diameter and number of sensors could be controlled and hence an optimal trade-off between the beamwidth and height of the sidelobes of the beampattern could be achieved.",
+            "startOffset": 36052,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 36853,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The design parameters for the ring radii as well as the shading weights are listed in Table 1.",
+            "startOffset": 36759,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 48015,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Hence, if outliers with large levels appear in the beamforming map they will shift the cluster centroids and thus distort the result.",
+            "startOffset": 47882,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 49795,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "After applying the broadband calibration filters to the recorded data, the processing as described in Section 4 was applied.",
+            "startOffset": 49671,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 52824,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "While the deconvolution approach to beamforming results in a much sparser source map, spurious peaks can still influence and degrade the localization performance.",
+            "startOffset": 52662,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40822,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Source localization is achieved by performing calculations on the scanning grid in three consecutive steps, which are described in the following subsections.",
+            "startOffset": 40665,
+            "title": "Beamforming"
+        },
+        {
+            "endOffset": 44435,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "While the original CLEAN algorithm performs a straight-forward deconvolution based only on the array response, CLEAN-SC takes source correlation into account by working with the cross-spectral matrix.",
+            "startOffset": 44235,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 47881,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The disadvantage of Variant 1 is that the only way to reject outliers, such as spurious peaks, is by level.",
+            "startOffset": 47774,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 25852,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 25650,
+                    "startOffset": 25645
+                },
+                "b0040": {
+                    "endOffset": 25650,
+                    "startOffset": 25645
+                },
+                "b0045": {
+                    "endOffset": 25725,
+                    "startOffset": 25719
+                },
+                "b0050": {
+                    "endOffset": 25725,
+                    "startOffset": 25719
+                },
+                "b0055": {
+                    "endOffset": 25750,
+                    "startOffset": 25746
+                },
+                "b0060": {
+                    "endOffset": 25851,
+                    "startOffset": 25847
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Building design and materials [7,8], reducing patients\u2019 perception of noise with earplugs or headphones [9,10] and staff education [11], have all shown variable effectiveness, as has the manipulation of alarm thresholds and volumes [12].",
+            "startOffset": 25615,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43054,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Please note that the location of these sources has been chosen as a hypothetical example to illustrate the processing steps and the source positions are not consistent with those in the following experimental results.",
+            "startOffset": 42837,
+            "title": "Delay-and-sum beamforming"
+        },
+        {
+            "endOffset": 49243,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "However, it should be said that in this example, the CLEAN result (Fig. 8) does not show too many spurious peaks, so in this case Variant 1 gives the same result as Variant 2.",
+            "startOffset": 49068,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 29707,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This includes the location of the beds, microphones and cables.",
+            "startOffset": 29644,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 28757,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The design of the microphone array is presented in Section 3.",
+            "startOffset": 28696,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52901,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The automatic clustering algorithm has been implemented in the array system.",
+            "startOffset": 52825,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27465,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 27464,
+                    "startOffset": 27457
+                },
+                "b0085": {
+                    "endOffset": 27464,
+                    "startOffset": 27457
+                },
+                "b0090": {
+                    "endOffset": 27464,
+                    "startOffset": 27457
+                },
+                "b0095": {
+                    "endOffset": 27464,
+                    "startOffset": 27457
+                },
+                "b0100": {
+                    "endOffset": 27464,
+                    "startOffset": 27457
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Typical scenarios where beamforming is used include industrial and environmental noise source identification as well as automotive and aeroacoustic applications [16\u201320].",
+            "startOffset": 27296,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46325,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This is a typical problem with beamforming results, which are usually interpreted by inspection of color maps per frequency, or frequency band.",
+            "startOffset": 46182,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 45764,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It can be seen that the main regions of source activity can be identified.",
+            "startOffset": 45690,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 49591,
+            "parents": [],
+            "secId": "s0040",
+            "sentence": "In this section, representative results are presented to give an idea of the actual system performance.",
+            "startOffset": 49488,
+            "title": "Results in the ICU"
+        },
+        {
+            "endOffset": 27187,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The use of array signal processing methods allows the ICU environment to be scanned for sources with an (almost) arbitrary resolution in a non-intrusive way.",
+            "startOffset": 27030,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31749,
+            "parents": [],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 31748,
+                    "startOffset": 31744
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The eight ADAT streams for the 64 array microphones were then combined into one MADI stream with the RME ADI-648 [26].",
+            "startOffset": 31631,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 31985,
+            "parents": [],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 31936,
+                    "startOffset": 31932
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Both MADI inputs were fed to the RME MADI FX sound card [28] to provide digital audio for further processing.",
+            "startOffset": 31876,
+            "title": "Hardware setup"
+        },
+        {
+            "endOffset": 28086,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this paper, a microphone array system designed for the task of automatic source localization is presented and described in detail, with a specific focus on the array signal processing.",
+            "startOffset": 27899,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29470,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Practical considerations for the array system as well as the restrictions imposed by the environment are addressed specifically.",
+            "startOffset": 29342,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43128,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 7b shows the broadband output level of the Delay-and-Sum beamformer.",
+            "startOffset": 43055,
+            "title": "Delay-and-sum beamforming"
+        },
+        {
+            "endOffset": 35552,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "However, at the same time this also leads to the worst Maximum Sidelobe Level (MSL) among the three tested arrays.",
+            "startOffset": 35438,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 36051,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The operating range of the array (400\u201310,000 Hz) was chosen for this analysis.",
+            "startOffset": 35973,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 37183,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "It can be seen that the shading weights provide an almost constant MSL (solid line in Fig. 5) and DI (dashed line) and a smooth increase in resolution towards higher frequencies, as can be seen from the decreasing HPBW values (dash-dotted line).",
+            "startOffset": 36938,
+            "title": "Array design"
+        },
+        {
+            "endOffset": 45236,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Regardless of the choice of CLEAN or CLEAN-SC, the result of this step of processing is a sparse beamforming map with few (typically less than 10) active sources for each frequency bin.",
+            "startOffset": 45051,
+            "title": "Deconvolution (CLEAN/CLEAN-SC)"
+        },
+        {
+            "endOffset": 48887,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Beamforming"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "By incorporating the number of occurrences across frequency, the data can be sorted according to importance and thus it is easier to reject outliers.",
+            "startOffset": 48738,
+            "title": "Data clustering"
+        },
+        {
+            "endOffset": 27295,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Microphone arrays in combination with spatial filtering methods have found widespread usage in recent years.",
+            "startOffset": 27187,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38275,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Different approaches to combining the microphone signals of the four array clusters were tested, such as independent beamforming using each cluster and the subsequent combination of the four outputs.",
+            "startOffset": 38076,
+            "title": "Beamforming"
+        }
+    ],
+    "docId": "S0003682X17309969",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "markus.mueller-trapet@nrc.ca",
+                "first": "Markus",
+                "initial": "M.",
+                "last": "M\u00fcller-Trapet"
+            },
+            {
+                "email": null,
+                "first": "Jordan",
+                "initial": "J.",
+                "last": "Cheer"
+            },
+            {
+                "email": null,
+                "first": "Filippo Maria",
+                "initial": "F.M.",
+                "last": "Fazi"
+            },
+            {
+                "email": null,
+                "first": "Julie",
+                "initial": "J.",
+                "last": "Darbyshire"
+            },
+            {
+                "email": null,
+                "first": "J. Duncan",
+                "initial": "J.D.",
+                "last": "Young"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2018.04.019",
+        "firstpage": "93",
+        "issn": "0003682X",
+        "keywords": [
+            "Intensive Care Unit",
+            "Microphone arrays",
+            "Noise source localization"
+        ],
+        "lastpage": "100",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Acoustic source localization with microphone arrays for remote noise monitoring in an Intensive Care Unit"
+    }
+}

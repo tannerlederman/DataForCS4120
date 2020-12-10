@@ -1,0 +1,2133 @@
+{
+    "abstract": "The problem of scattering of airborne sound by a dynamically rough surface of a turbulent, open channel flow is poorly understood. In this work, a laser-induced fluorescence (LIF) technique is used to capture accurately a representative number of the instantaneous elevations of the dynamically rough surface of 6 turbulent, subcritical flows in a rectangular flume with Reynolds numbers of 10,800\u2264Re\u226447,300 and Froude numbers of 0.36\u2264Fr\u22640.69. The surface elevation data were then used in a finite difference time domain (FDTD) model to predict the directivity pattern of the airborne sound pressure scattered by the dynamically rough flow surface. The predictions obtained with the FDTD model were compared against the sound pressure data measured in the flume and against that obtained with the Kirchhoff approximation. It is shown that the FDTD model agrees with the measured data within 22.3%. The agreement between the FDTD model and stationary phase approximation based on Kirchhoff integral is within 3%. The novelty of this work is in the direct use of the LIF data and FDTD model to predict the directivity pattern of the airborne sound pressure scattered by the flow surface. This work is aimed to inform the design of acoustic instrumentation for non-invasive measurements of hydraulic processes in rivers and in partially filled pipes.",
+    "bib_entries": {
+        "b0005": null,
+        "b0010": {
+            "authors": [
+                {
+                    "first": "K. D.",
+                    "initial": "K.D.",
+                    "last": "Jensen"
+                }
+            ],
+            "doi": "10.1590/S1678-58782004000400006",
+            "firstpage": "400",
+            "issn": "16785878",
+            "lastpage": "419",
+            "pub_year": 2004,
+            "title": "Flow measurements",
+            "volume": "26"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Chris E.",
+                    "initial": "C.E.",
+                    "last": "Blenkinsopp"
+                },
+                {
+                    "first": "Ian L.",
+                    "initial": "I.L.",
+                    "last": "Turner"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Allis"
+                },
+                {
+                    "first": "William L.",
+                    "initial": "W.L.",
+                    "last": "Peirson"
+                },
+                {
+                    "first": "Luke E.",
+                    "initial": "L.E.",
+                    "last": "Garden"
+                }
+            ],
+            "doi": "10.1016/j.coastaleng.2012.04.006",
+            "firstpage": "1",
+            "issn": "03783839",
+            "lastpage": "5",
+            "pub_year": 2012,
+            "title": "Application of LiDAR technology for measurement of time-varying free-surface profiles in a laboratory wave flume",
+            "volume": "68"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Jennifer L.",
+                    "initial": "J.L.",
+                    "last": "Irish"
+                },
+                {
+                    "first": "Jennifer M.",
+                    "initial": "J.M.",
+                    "last": "Wozencraft"
+                },
+                {
+                    "first": "A. Grant",
+                    "initial": "A.G.",
+                    "last": "Cunningham"
+                },
+                {
+                    "first": "Claudine",
+                    "initial": "C.",
+                    "last": "Giroud"
+                }
+            ],
+            "doi": "10.1175/JTECH1936.1",
+            "firstpage": "1559",
+            "issn": "07390572",
+            "lastpage": "1572",
+            "pub_year": 2006,
+            "title": "Nonintrusive measurement of ocean waves: Lidar wave gauge",
+            "volume": "23"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "K. V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Nichols"
+                },
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Tait"
+                },
+                {
+                    "first": "G. A.",
+                    "initial": "G.A.",
+                    "last": "Maximov"
+                }
+            ],
+            "doi": "10.1002/jgrf.20117",
+            "firstpage": "1864",
+            "issn": "21699011",
+            "lastpage": "1876",
+            "pub_year": 2013,
+            "title": "The pattern of surface waves in a shallow free surface flow",
+            "volume": "118"
+        },
+        "b0030": null,
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Werner",
+                    "initial": "W.",
+                    "last": "Alpers"
+                }
+            ],
+            "doi": "10.1038/314245a0",
+            "firstpage": "245",
+            "issn": "00280836",
+            "lastpage": "247",
+            "pub_year": 1985,
+            "title": "Theory of radar imaging of internal waves",
+            "volume": "314"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Eric I.",
+                    "initial": "E.I.",
+                    "last": "Thorsos"
+                }
+            ],
+            "doi": "10.1121/1.396188",
+            "firstpage": "78",
+            "issn": "00014966",
+            "lastpage": "92",
+            "pub_year": 1988,
+            "title": "The validity of the Kirchhoff approximation for rough surface scattering using a Gaussian roughness spectrum",
+            "volume": "83"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "N. B.",
+                    "initial": "N.B.",
+                    "last": "Melcher"
+                },
+                {
+                    "first": "J. E.",
+                    "initial": "J.E.",
+                    "last": "Costa"
+                },
+                {
+                    "first": "F. P.",
+                    "initial": "F.P.",
+                    "last": "Haeni"
+                },
+                {
+                    "first": "R. T.",
+                    "initial": "R.T.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "E. M.",
+                    "initial": "E.M.",
+                    "last": "Thurman"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Buursink"
+                },
+                {
+                    "first": "K. R.",
+                    "initial": "K.R.",
+                    "last": "Spicer"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Hayes"
+                },
+                {
+                    "first": "W. J.",
+                    "initial": "W.J.",
+                    "last": "Plant"
+                },
+                {
+                    "first": "W. C.",
+                    "initial": "W.C.",
+                    "last": "Keller"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Hayes"
+                }
+            ],
+            "doi": "10.1029/2002gl015525",
+            "firstpage": "41",
+            "issn": "00948276",
+            "lastpage": "41-4",
+            "pub_year": 2002,
+            "title": "River discharge measurements by using helicopter-mounted radar",
+            "volume": "29"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Timothy",
+                    "initial": "T.",
+                    "last": "Van Renterghem"
+                }
+            ],
+            "doi": "10.1260/1475-472X.13.5-6.385",
+            "firstpage": "385",
+            "issn": "1475472X",
+            "lastpage": "404",
+            "pub_year": 2014,
+            "title": "Efficient outdoor sound propagation modeling with the finite-difference time-domain (FDTD) method: A review",
+            "volume": "13"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Dietrich",
+                    "initial": "D.",
+                    "last": "Heimann"
+                },
+                {
+                    "first": "Regina",
+                    "initial": "R.",
+                    "last": "Karle"
+                }
+            ],
+            "doi": "10.1121/1.2200139",
+            "firstpage": "3813",
+            "issn": "00014966",
+            "lastpage": "3821",
+            "pub_year": 2006,
+            "title": "A linearized Euler finite-difference time-domain sound propagation model with terrain-following coordinates",
+            "volume": "119"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Didier",
+                    "initial": "D.",
+                    "last": "Dragna"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Blanc-Benon"
+                },
+                {
+                    "first": "Franck",
+                    "initial": "F.",
+                    "last": "Poisson"
+                }
+            ],
+            "doi": "10.1121/1.4803863",
+            "firstpage": "3751",
+            "issn": "00014966",
+            "lastpage": "3763",
+            "pub_year": 2013,
+            "title": "Time-domain solver in curvilinear coordinates for outdoor sound propagation over complex terrain",
+            "volume": "133"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Botteldoorena"
+                }
+            ],
+            "doi": "10.1121/1.413817",
+            "firstpage": "3302",
+            "issn": "00014966",
+            "lastpage": "3308",
+            "pub_year": 1995,
+            "title": "Finite-difference time-domain simulation of low-frequency room acoustic problems",
+            "volume": "98"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Jean Pierre",
+                    "initial": "J.P.",
+                    "last": "Berenger"
+                }
+            ],
+            "doi": "10.1006/jcph.1994.1159",
+            "firstpage": "185",
+            "issn": "00219991",
+            "lastpage": "200",
+            "pub_year": 1994,
+            "title": "A perfectly matched layer for the absorption of electromagnetic waves",
+            "volume": "114"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Krynkin"
+                },
+                {
+                    "first": "K. V.",
+                    "initial": "K.V.",
+                    "last": "Horoshenkov"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Nichols"
+                },
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Tait"
+                }
+            ],
+            "doi": "10.1063/1.4901932",
+            "issn": "00346748",
+            "pub_year": 2014,
+            "title": "A non-invasive acoustical method to measure the mean roughness height of the free surface of a turbulent shallow water flow",
+            "volume": "85"
+        },
+        "b0080": null
+    },
+    "body_text": [
+        {
+            "endOffset": 54665,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A National Instruments LabView virtual instrument program was written to record the acoustic signal at 1 MHz sampling rate.",
+            "startOffset": 54542,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 57938,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "A highly directional ultrasound source was used in the experiment.",
+            "startOffset": 57872,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 44302,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this respect, the development of non-invasive instrumentation for the characterisation of open channel flows is impeded by the lack of understanding of the roughness patterns which develop on the surface of these types of flows and ability to model the wave scattering by these surface roughness patterns.",
+            "startOffset": 43994,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57872,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 57743,
+                    "startOffset": 57739
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Perfectly matched layers (PML) [14] were used as absorbing boundary conditions at the right, left, and upper part of the simulation domain as illustrated in Fig. 6.",
+            "startOffset": 57708,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 52979,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Four calibrated Br\u00fcel & Kj\u00e6r (B&K) 1/4\u201d type 4930 microphones were placed on the opposite side of the support arch, also at a distance of 0.4 m from the arch centre-point point as shown in Fig. 5.",
+            "startOffset": 52783,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 46511,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The flow rate, Q, was measured via a calibrated orifice plate, and varied from 5 l/s to 27 l/s.",
+            "startOffset": 46416,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 43747,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 43745,
+                    "startOffset": 43742
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Doppler radar methods were used to estimate the velocity of rivers (e.g. [9]).",
+            "startOffset": 43669,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50837,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The result of this procedure is shown on the original image to illustrate the effectiveness of the technique (Fig. 4(d)).",
+            "startOffset": 50716,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 43064,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 42890,
+                    "startOffset": 42887
+                }
+            },
+            "secId": "s0005",
+            "sentence": "More specifically, the work by Horoshenkov et al. [5] showed that the mean roughness height, characteristic spatial period and correlation length are related to the mean flow depth, velocity and hydraulic roughness coefficient.",
+            "startOffset": 42837,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51723,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For each condition this resulted in a time series of surface profile, allowing the examination of surface behaviour over time and space with a high spatial and temporal resolution.",
+            "startOffset": 51543,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 44761,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Section 2 presents the experimental facility which was used to measure the acoustic scattering patterns for a range of hydraulic flow conditions.",
+            "startOffset": 44616,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 73090,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The ability to relate the surface roughness and the sound pressure scattered by this roughness is significant therefore, because it can enable a non-invasive means of remote flow monitoring.",
+            "startOffset": 72900,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 70668,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The results of FDTD modelling of the scattering of a harmonic acoustic signal by a dynamically rough flow surface suggest that the model is able to predict the directivity of the relative sound pressure fluctuation with the maximum mean error of 22.3%.",
+            "startOffset": 70416,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49080,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The images from the LIF camera were used to determine the position of the free surface from each image by detecting the threshold between the illuminated flow and non-illuminated air for each column of pixels.",
+            "startOffset": 48871,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 54744,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The data acquisition was carried out in 1 ms packets to avoid memory overflow.",
+            "startOffset": 54666,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 57707,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The water surface itself was modelled as rigid.",
+            "startOffset": 57660,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 71688,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The directivity of the scattered acoustic pressure predicted by the FDTD model was compared against that predicted with the stationary phase approximation method.",
+            "startOffset": 71526,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58118,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This was simulated by placing a 0.033 m long array consisting of 49 point sources between two perfectly reflecting planes representing an acoustic baffle as illustrated in Fig. 6.",
+            "startOffset": 57939,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 51395,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This process was then applied to each of the 500 images acquired for each of the 6 flow conditions examined.",
+            "startOffset": 51287,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 60920,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 7 presents examples of the time\u2013space dependent surface elevation for conditions 2, 4 and 6 which were used in the FDTD simulation.",
+            "startOffset": 60784,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 56989,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Numerical tests considering the mean absolute pressure over 200 realisations (in case of flow regime 4) showed that a spatial discretisation step of 0.5 mm gave a relative error of 3.7% compared to halving the cell size (to 0.25 mm).",
+            "startOffset": 56756,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 52373,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A 70 mm diameter ultrasonic transducer (Pro-Wave ceramic type 043SR750) was driven at the frequency of 43 kHz.",
+            "startOffset": 52263,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 45817,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The uniform flow depth relative to the bed was measured with point gauges that were accurate to the nearest 0.5 mm (between 0.6% and 1.2% of the flow depths used).",
+            "startOffset": 45654,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 51542,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "These images were randomly selected from the 8070 images acquired through the LIF experiment for each of the flow conditions studied in this work.",
+            "startOffset": 51396,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 55560,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 6 presents schematically the setup used in the simulation.",
+            "startOffset": 55497,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 44568,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Therefore, the purpose of this paper is to study the application of the FDTD technique to predict the time-dependent acoustic wave scattering patterns, and their directivity, which are observed above the dynamically rough surface of a turbulent, shallow water flow.",
+            "startOffset": 44303,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55131,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The mean time-dependent signal amplitude was then calculated for each packet, and the time series of signal amplitude was averaged over time.",
+            "startOffset": 54990,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 53078,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The operating frequency range of these microphones is 4\u2013100,000 Hz, with a sensitivity of 4 mV/Pa.",
+            "startOffset": 52980,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 46239,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "This meant that the flow was not spatially changing, i.e. no net acceleration or deceleration across the measurement frame, so that the statistical properties of the free surface roughness were uniform across the measurement area.",
+            "startOffset": 46009,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 40710,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Turbulent, depth-limited flows such as those in natural rivers and urban drainage systems always have patterns of waves on the air/water boundary which carry information about the mean flow velocity, depth, turbulent mixing and energy losses within that flow.",
+            "startOffset": 40451,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55269,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This resulted in a time averaged directivity pattern recorded around an arc on the side of the supporting arch opposite the sound source.",
+            "startOffset": 55132,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 43261,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 43088,
+                    "startOffset": 43085
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The work by Nichols [6] showed that the characteristic spatial period of the dynamic surface roughness is related to the scale of the turbulence structures which cause the surface to appear rough.",
+            "startOffset": 43065,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 72721,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "In this respect, the novelty of the presented work is in the use of the real LIF data and FDTD method to predict the directivity of the sound pressure scattered by a dynamically rough flow surface.",
+            "startOffset": 72524,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 73217,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "This can facilitate better control and management of processes occurring in natural river flows and in urban drainage systems.",
+            "startOffset": 73091,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49804,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Thirdly, a 5 \u00d7 5 two-dimensional median filter was applied to remove spurious points of brightness within the air phase or points of darkness in the water phase (Fig. 4(c)).",
+            "startOffset": 49631,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 48719,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This enabled the position of the air\u2013water interface to be detected for each of the 1600 columns of pixels in the recorded images.",
+            "startOffset": 48589,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 44864,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The results and discussion are presented in Section 4.",
+            "startOffset": 44810,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40932,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Monitoring of these flows is vital to predict accurately the timing and extend of floods, manage natural water resources, operate efficiently and safely waste water processing plants and manage underground sewer networks.",
+            "startOffset": 40711,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47180,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A laser induced fluorescence (LIF) technique was employed to measure the free-surface position in a vertical plane along the centreline of the flume at the test section.",
+            "startOffset": 47011,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 52172,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The arch was supported at each corner by a screw thread, allowing the height to be accurately adjusted.",
+            "startOffset": 52069,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 60117,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In order to avoid jumps at the interface of two repeated surface profiles, the surface elevation data were reversed each time a new data set was added.",
+            "startOffset": 59966,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 50249,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Fourthly, a 31-pixel wide median filter was applied to remove small fluctuations associated with noise generated by random variation in light levels at the free surface.",
+            "startOffset": 50080,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 54152,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Hence, a data acquisition system was selected which was capable of recording analogue voltage signals between \u00b110 V.",
+            "startOffset": 54036,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 53507,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The ultrasonic transducer was excited at its resonant frequency in order to produce a continuous sine wave.",
+            "startOffset": 53400,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 45653,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The depth of the flow was controlled with an adjustable gate at the downstream end of the flume to ensure uniform flow conditions throughout the measurement section.",
+            "startOffset": 45488,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 54424,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "For easy connection of the devices, an NI BNC-2110 input board was used.",
+            "startOffset": 54352,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 71308,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The possible sources of error here are the difference between the actual and assumed directivity of the source, accuracy in the source positioning and the neglect of 3-dimensional scattering effects in the model which can be attributed to the complex dispersion of 3-dimensional patterns of turbulence-generated gravity-capillary waves.",
+            "startOffset": 70972,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 58340,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Identical Gaussian pulses were injected simultaneously at each source in the array.",
+            "startOffset": 58257,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 47266,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A diagram of the LIF arrangement for the flow surface measurement is shown in Fig. 3.",
+            "startOffset": 47181,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 58256,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The source arrangement adopted in the FDTD simulation enabled us to reproduce the directivity of the real source with the accuracy of 5%.",
+            "startOffset": 58119,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 51286,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This variation can potentially reflect remaining oscillations in the water body, nevertheless the maximum error is defined as \u00b175 \u03bcm.",
+            "startOffset": 51153,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 51916,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The acoustic system was installed at the centre of the flume and at 8.4 m from its upstream end, coinciding in position with the flow visualisation section (see Fig. 1).",
+            "startOffset": 51747,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 41544,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The submerged instrumentation is often unable to operate continuously over a long period of time because it is prone to damage by flowing debris and its battery life is limited.",
+            "startOffset": 41367,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46975,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "A photograph of an example of the flow surface roughness observed in flow condition 1 is shown in Fig. 2.",
+            "startOffset": 46870,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 47451,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A sheet of laser light was projected vertically through the flow surface, and a high-resolution camera was used to image the intersection between the laser sheet and the water surface.",
+            "startOffset": 47267,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 48871,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For each flow condition, images were recorded for 5 min, generating a time series of 8070 images.",
+            "startOffset": 48774,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 52068,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A semi-circular arch-shaped acoustic rig was constructed in order to precisely control the positioning of each of the acoustic components (see Fig. 5).",
+            "startOffset": 51917,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 53399,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The acoustic equipment was designed such that the LIF laser was not obstructed, and nor was the field of view of the flow visualisation camera, allowing the acoustic, and LIF measurements to be recorded simultaneously.",
+            "startOffset": 53181,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 42041,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These characteristics are essential to calibrate accurately the existing and new computational fluid dynamics models, implement efficient real time control algorithms, forecast flooding and to estimate the potential impact of climate change on water infrastructure and the environment.",
+            "startOffset": 41756,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 70844,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The maximum difference between the measured and predicted directivity patterns are for condition 1 which corresponds to the 40 mm deep flow with the mean velocity of 0.23 m/s.",
+            "startOffset": 70669,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 56577,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "A spatial discretisation step of 0.5 mm was chosen, which was a compromise between sufficiently capturing surface variations and limiting computational cost, as a large set of surface realisations was required to determine scattering statistics.",
+            "startOffset": 56332,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 48773,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Images were captured at a fixed frequency of 26.9 Hz.",
+            "startOffset": 48720,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 54542,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Simple, reliable BNC cables could then be connected between the wave monitor and Nexus units and the DAQ input board.",
+            "startOffset": 54425,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 57101,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This choice was justified in view of the reduction in computing time by a factor 8 when using the coarser grid.",
+            "startOffset": 56990,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 72899,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Alternatively, a measured directivity pattern could therefore be used to infer the surface pattern characteristics remotely, which in turn can be related to the flow conditions.",
+            "startOffset": 72722,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 56332,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Based on these snapshots, scattering characteristics of the sound field can be calculated.",
+            "startOffset": 56242,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 53181,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Acoustic readings were taken at 40 different angular positions from 16.4\u00b0 to 73.6\u00b0 in 1.4\u00b0 increments.",
+            "startOffset": 53079,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 47654,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "An optical system was used to form and focus the laser light sheet, which illuminated a volume approximately 250 mm long in the streamwise direction and approximately 3 mm thick in the lateral direction.",
+            "startOffset": 47451,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 55678,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The positions of the source and receivers were selected to reproduce the experimental setup described in Section 2.3.",
+            "startOffset": 55561,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 41138,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Given the importance of these types of flows, it is surprising that there are no reliable methods or instruments to measure the shallow water flow characteristics in the laboratory or in the field remotely.",
+            "startOffset": 40932,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48588,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This enabled a direct linear transform to be calculated so that the true position of each image pixel could be determined.",
+            "startOffset": 48466,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 47752,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In order to define the free-surface clearly in the images, Rhodamine B dye was added to the flow.",
+            "startOffset": 47655,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 52499,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It was positioned at an angle of 45\u00b0 to the mean water surface elevation, at a distance of 0.4 m from the point of incidence.",
+            "startOffset": 52374,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 46776,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The Froude number for these flows ranged from 0.36 to 0.69, such that all flows were subcritical, and Reynolds number ranged from 10,800 to 47,300 so that all flows can be considered turbulent.",
+            "startOffset": 46583,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 56241,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 56058,
+                    "startOffset": 56054
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The efficient pressure\u2013velocity (p\u2013v) staggered-in-space (SIP) staggered-in-time (SIT) numerical discretisation approach [10] was used to explicitly simulate scattering of the sound wave by a set of 500 surface profile realisations which were measured with the LIF technique which is detailed in Section 2.2.",
+            "startOffset": 55933,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 72523,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 72253,
+                    "startOffset": 72248
+                },
+                "b0030": {
+                    "endOffset": 72253,
+                    "startOffset": 72248
+                }
+            },
+            "secId": "s0050",
+            "sentence": "Previous works [5,6] have shown that the pattern of the dynamically rough surface in an open channel flow can be related to key flow characteristics such as the flow velocity and depth, and to the underlying hydraulic process, such as hydraulic roughness and turbulence scale and intensity.",
+            "startOffset": 72233,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49903,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This replaced each value with the median value of the 5 \u00d7 5 grid of logical values surrounding it.",
+            "startOffset": 49805,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 59650,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The LIF scanned part of the water surface was about 0.2 m long (see Section 2.2) and it was centered at the specular reflection point.",
+            "startOffset": 59516,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 57659,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 57558,
+                    "startOffset": 57554
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The water surface insonification angle adopted in the experimental setup matched the diagonal of the square cells in the numerical model, which lead to zero phase errors [13] for this particular sound propagation path, as well as for the specular reflection propagation path.",
+            "startOffset": 57384,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 48465,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The camera was calibrated by capturing images of a grid of dots placed in the same plane as the laser.",
+            "startOffset": 48363,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 53902,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The output sensitivity of the Nexus amplifier was set to 100 mV/Pa, such that the output level was close to the data acquisition limit of \u00b110 V, without saturating, in order to make use of the maximum resolution possible.",
+            "startOffset": 53681,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 52262,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The base of the arch was thereby fixed at a distance of 10 mm above the mean water level.",
+            "startOffset": 52173,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 55496,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The sound propagation problem from a directional source and in the presence of a rough water surface was solved numerically.",
+            "startOffset": 55372,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 50715,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 50714,
+                    "startOffset": 50711
+                }
+            },
+            "secId": "s0020",
+            "sentence": "This length is also much smaller than the typical length scales of the surface roughness pattern and of typical coherent flow structures in depth-limited flows [5].",
+            "startOffset": 50551,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 59251,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Although a time domain technique has the potential to simulate surface profile changes during sound wave interaction, a \u201cfrozen surface\u201d approach was followed given the limitations in the image capturing frequency of 26.9 Hz.",
+            "startOffset": 59026,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 60425,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Secondly, a possible offset in water height during the LIF-scanned period was removed by enforcing a zero-mean water height at each point.",
+            "startOffset": 60287,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 47854,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "When illuminated with 532 nm laser light, the Rhodamine is excited, and emits light at around 595 nm.",
+            "startOffset": 47753,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 54989,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The resulting raw data were saved into text files so that analysis could be performed using Matlab.",
+            "startOffset": 54890,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 52783,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This type of transducer was used in order to achieve a relatively directional acoustic beam (\u00b16\u00b0 for 6 dB drop-off) to avoid reflection from the nearby flume walls and other objects, and also due to the low noise at ultrasonic frequencies (the signal to noise ratio here was 113 dB).",
+            "startOffset": 52500,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 49630,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The quality of the output data was found sensitive to this threshold and so it was determined manually for each flow condition to ensure that the binarized images closely matched the raw images.",
+            "startOffset": 49436,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 50983,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Finally, the calibration was used to convert pixels to millimetres, giving a horizontal and vertical resolution of 0.15 mm as shown in Fig. 4(e).",
+            "startOffset": 50838,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 54351,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A National Instruments (NI) PXIe 1062Q chassis was installed with an NI PXIe-6356 data acquisition (DAQ) card capable of simultaneous measurement on up to 8 channels at up to 1.25 MHz sampling rate.",
+            "startOffset": 54153,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 46582,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The resulting mean flow velocity, U, varied from 0.28 m/s to 0.65 m/s.",
+            "startOffset": 46512,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 60198,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In addition, the following operations were performed on the LIF scanned surfaces.",
+            "startOffset": 60117,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 42836,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 42628,
+                    "startOffset": 42623
+                },
+                "b0030": {
+                    "endOffset": 42628,
+                    "startOffset": 42623
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recent work [5,6] suggests that there is a clear link between the statistical and spectral characteristics of the dynamic pattern of the free flow surface and characteristics of the underlying hydraulic processes in the flow.",
+            "startOffset": 42611,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54889,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "These packets of data were recorded synchronously on all four microphones, and the acquisition of each packet was triggered at a rate of 100 Hz.",
+            "startOffset": 54745,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 56755,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 56618,
+                    "startOffset": 56614
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The p\u2013v SIP\u2013SIT FDTD implementation [10] used in this study is based on square cells, and each water surface snapshot was thus represented by the best fitted staircase approach.",
+            "startOffset": 56578,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 44615,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The paper is organised in the following manner.",
+            "startOffset": 44568,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51152,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The accuracy of this method was assessed via measurement of a still water surface allowed to settle for 2 h, which showed a maximum fluctuation of \u00b10.5 pixels or 75 \u03bcm.",
+            "startOffset": 50984,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 57383,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 57382,
+                    "startOffset": 57378
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The Courant number was set to 1, resulting in a temporal discretisation step of 1.03 \u03bcs, ensuring optimal computing times and maximum phase accuracy while preserving numerical stability [13].",
+            "startOffset": 57192,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 58887,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The use of short acoustic pulses was chosen as this source function strongly reduces the computing time compared to emitting a continuous sine wave, for which averaging over a sufficiently long time is needed to get rid of transition effects.",
+            "startOffset": 58645,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 42610,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this sense, accurate data on the flow surface pattern characteristics are important.",
+            "startOffset": 42523,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53680,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The signal was provided by a Tektronix AFG 3021B function generator, while the microphone signal was received by a B&K Nexus four-channel microphone conditioning amplifier.",
+            "startOffset": 53508,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 71800,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "There was a close agreement between the two methods with the maximum error of 3.03% in the case of condition 8.",
+            "startOffset": 71689,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 48048,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A high-pass filter lens with a cut-off wavelength of 545 nm was used to discard the ambient green (532 nm) light, but allow through the red (595 nm) light emitted by the rhodamine in the water.",
+            "startOffset": 47855,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 60783,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Thirdly, each surface undulation profile was divided by the standard deviation at each position to make temporal water depth variations uniform all along the surface, and consequently multiplied by the mean of the standard deviations along the scanned surface to retain the overall water depth variation over time corresponding to a specific flow condition.",
+            "startOffset": 60426,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 46869,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Table 1 presents a summary of the hydraulic conditions realised in the reported experiments.",
+            "startOffset": 46777,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 70971,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The most accurate prediction was obtained for condition 5, which corresponds to 80 mm deep flow with the velocity of 0.57 m/s.",
+            "startOffset": 70845,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 70275,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "In this work the instantaneous elevation of the dynamically rough surface of a turbulent, open channel flow in a rectangular flume was captured with the method of laser induced fluorescence (LIF).",
+            "startOffset": 70079,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 48362,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This setup allowed for a clear line-of-sight between the surface profile and the camera, with no opportunity for higher water surface features in front of the laser plane to obstruct the view.",
+            "startOffset": 48170,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 42295,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Equally, there are no reliable and inexpensive laboratory methods to measure a flow over a representatively large area of a flume or partially filled pipe so that spatial and temporal flow characteristics predicted by a model can be carefully validated.",
+            "startOffset": 42042,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41755,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Currently, it is impossible to measure remotely and in-situ the flow mixing ability, turbulence kinetic energy, Reynolds stress, sediment erosion rates and the volume fraction of suspended/transported sediment.",
+            "startOffset": 41545,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43476,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this sense the use of airborne acoustic waves to interrogate the flow surface to determine some of the key characteristics of the dynamic surface roughness is attractive to measure the in-flow processes remotely.",
+            "startOffset": 43261,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46008,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "This was conducted at 4 positions, situated 4.4\u201310.4 m from the upstream flume end in 2 m increments, with uniform flow being confirmed when the values agreed to within 0.5 mm of each other.",
+            "startOffset": 45818,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 72064,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "This error is likely to be attributed to the fact that the FDTD model is able to predict more accurately the complexity in the directivity of the scattered sound pressure than the stationary phase approximation for a given set of instantaneous surface elevations.",
+            "startOffset": 71801,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49180,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Fig. 4 shows the following analysis steps applied to one instantaneous image from flow condition 4.",
+            "startOffset": 49081,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 50357,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This operated in the same manner as the previously described median filter, but with a grid size of 31 \u00d7 1.",
+            "startOffset": 50250,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 57192,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 57136,
+                    "startOffset": 57132
+                },
+                "b0060": {
+                    "endOffset": 57167,
+                    "startOffset": 57163
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Surface-following coordinates [11] or curvilinear FDTD grids [12] could be an alternative.",
+            "startOffset": 57102,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 44809,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Section 3 presents the modelling methodologies.",
+            "startOffset": 44762,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46415,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The uniform flow depth, D, was varied from 40 mm to 90 mm by adjusting the flow rate using a control valve in the supply pipe, and a downstream gate was to ensure uniform flow.",
+            "startOffset": 46239,
+            "title": "Flow conditions"
+        },
+        {
+            "endOffset": 58644,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The complex pressure at the transducer frequency (43 kHz) was calculated through the Fourier transform of the time histories predicted with the FDTD method at the 121 receiver positions covering the 15\u201375\u00b0 range of angles along the arch to reproduce the experimental conditions described in Section 2.3.",
+            "startOffset": 58341,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 49225,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Firstly, a raw image was loaded (Fig. 4(a)).",
+            "startOffset": 49181,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 50079,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Each pixel column was then analysed to determine the pixel location at which the air\u2013water interface was located, i.e. when the logical pixel value changed from zero to unity.",
+            "startOffset": 49904,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 60286,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Firstly, the linear trend in the LIF data resulting from the channel slope was removed.",
+            "startOffset": 60199,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 48169,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The camera was installed at an elevated position, looking down towards the water surface at an angle of 15\u00b0 (see Fig. 3).",
+            "startOffset": 48048,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 59965,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Since the FDTD simulation area extended beyond the zone scanned with the LIF technique, the remaining parts of the surface required for the FDTD simulation were reconstructed by repeating the scanned profile until the space between the perfectly matching layers was completely filled up with the data (see Fig. 6).",
+            "startOffset": 59651,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 72233,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "These results suggest that it is possible to determine accurately and non-invasively the mean roughness height of the dynamically rough surface of an open channel flow.",
+            "startOffset": 72065,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 54035,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The Nexus amplifier provided an analogue voltage output which was proportional to the instantaneous sound pressure at the microphone.",
+            "startOffset": 53902,
+            "title": "Acoustic measurements"
+        },
+        {
+            "endOffset": 49435,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Secondly, the image pixels were binarized by setting a threshold illumination value above which a pixel was defined as fluorescing water, and below which a pixel was defined as non-fluorescing air (Fig. 4(b)).",
+            "startOffset": 49226,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 42523,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 42342,
+                    "startOffset": 42339
+                },
+                "b0015": {
+                    "endOffset": 42502,
+                    "startOffset": 42499
+                },
+                "b0020": {
+                    "endOffset": 42522,
+                    "startOffset": 42519
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The widely used particle image velocimetry [2] or LiDAR methods are notoriously expensive and difficult to set up, calibrate and make work to cover a representative area of flow either in the laboratory [3] or in the field [4].",
+            "startOffset": 42296,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 71526,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "Also, it was not possible to reproduce exactly the actual surface roughness pattern over the whole length of the flow surface used in the model because of the spatial limitation in the adopted LIF fluorescence method.",
+            "startOffset": 71309,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 70415,
+            "parents": [],
+            "secId": "s0050",
+            "sentence": "The ability of this surface to scatter a harmonic acoustic wave was studied experimentally and predicted with a two-dimensional FDTD model.",
+            "startOffset": 70276,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 43993,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, these methods have not been used widely to measure the roughness in rivers and other open channel flows, which is surprising given the importance of a good understanding of the behaviour of these types of natural hydraulic environments.",
+            "startOffset": 43748,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41366,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 41365,
+                    "startOffset": 41362
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The majority of existing instrumentation for flow measurements needs to be submerged under water and provides only local and often inaccurate information on the true flow characteristics such as the flow velocity and depth [1].",
+            "startOffset": 41139,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 59516,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In this work, sound reflection from 500 successive surface realisations obtained with the LIF experimental technique (see Section 2.2) was simulated, meaning that the averaged response over a time period of 18.58 s was calculated for each of the 6 flow conditions.",
+            "startOffset": 59252,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 43668,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 43492,
+                    "startOffset": 43489
+                },
+                "b0040": {
+                    "endOffset": 43533,
+                    "startOffset": 43530
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Radio (e.g. [7]) and underwater acoustic waves (e.g. [8]) have been used extensively since the last century to measure the statistical and spectral characteristics of the sea and ocean waves.",
+            "startOffset": 43477,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55932,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The full-wave finite differences time domain modelling (FDTD) technique was used to numerically solve the two-dimensional sound propagation equations in a still, lossless and homogeneous medium (air) which filled the space above the rough water surface.",
+            "startOffset": 55679,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 59026,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Using 3000 time steps allowed the wave front to pass all receiver positions, meaning 3.09 ms propagation time at a sound speed of 340 m/s.",
+            "startOffset": 58888,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        },
+        {
+            "endOffset": 50550,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Experimental method and data pre-processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The width of 31 pixels represents a physical length less than 4 mm, and was the smallest window that produced a smooth profile that visually matched the raw images with no spurious deviations.",
+            "startOffset": 50358,
+            "title": "Free-surface position measurement"
+        },
+        {
+            "endOffset": 61059,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Modelling methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This figure also presents the sound pressure as a function of time and receiver angle which corresponds to each of these three conditions.",
+            "startOffset": 60921,
+            "title": "Finite differences time domain modelling of the acoustic scattering phenomenon"
+        }
+    ],
+    "docId": "S0003682X16300421",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Kirill V.",
+                "initial": "K.V.",
+                "last": "Horoshenkov"
+            },
+            {
+                "email": null,
+                "first": "Timothy",
+                "initial": "T.",
+                "last": "Van Renterghem"
+            },
+            {
+                "email": null,
+                "first": "Andrew",
+                "initial": "A.",
+                "last": "Nichols"
+            },
+            {
+                "email": null,
+                "first": "Anton",
+                "initial": "A.",
+                "last": "Krynkin"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2016.03.009",
+        "firstpage": "13",
+        "issn": "0003682X",
+        "keywords": [
+            "Acoustic modelling",
+            "Rough surface",
+            "Sound scattering",
+            "Turbulent flow"
+        ],
+        "lastpage": "22",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Finite difference time domain modelling of sound scattering by the dynamically rough surface of a turbulent open channel flow"
+    }
+}

@@ -1,0 +1,1940 @@
+{
+    "abstract": "Despite more than 100 years since it was firstly described Chagas disease, only two drugs are available to treat Chagas disease: Nifurtimox launched by Bayer in 1965 and benznidazole launched by Roche in 1971. Drug discovery initiatives have been looking for new compounds as an alternative to these old drugs. Although new platforms have been used with the latest technologies, a critical step on that process still relies on the in vivo model. Unfortunately, to date, available animal models have limited predictive value and there is no standardization. With the aim to better understand the role of benznidazole, the current standard of care of Chagas disease, we performed this review. We intend to analyze the influence of the experimental design of the most used animal model, the murine model, in the assessment of the efficacy endpoint.",
+    "bib_entries": {
+        "bib0001": {
+            "authors": [
+                {
+                    "first": "Jaime",
+                    "initial": "J.",
+                    "last": "Altcheh"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Moscatelli"
+                },
+                {
+                    "first": "Guido",
+                    "initial": "G.",
+                    "last": "Mastrantonio"
+                },
+                {
+                    "first": "Samanta",
+                    "initial": "S.",
+                    "last": "Moroni"
+                },
+                {
+                    "first": "Norberto",
+                    "initial": "N.",
+                    "last": "Giglio"
+                },
+                {
+                    "first": "Maria Elena",
+                    "initial": "M.E.",
+                    "last": "Marson"
+                },
+                {
+                    "first": "Griselda",
+                    "initial": "G.",
+                    "last": "Ballering"
+                },
+                {
+                    "first": "Margarita",
+                    "initial": "M.",
+                    "last": "Bisio"
+                },
+                {
+                    "first": "Gideon",
+                    "initial": "G.",
+                    "last": "Koren"
+                },
+                {
+                    "first": "Facundo",
+                    "initial": "F.",
+                    "last": "Garc\u00eda-Bournissen"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002907",
+            "issn": "19352727",
+            "pmid": "24853169",
+            "pub_year": 2014,
+            "title": "Population Pharmacokinetic Study of Benznidazole in Pediatric Chagas Disease Suggests Efficacy despite Lower Plasma Concentrations than in Adults",
+            "volume": "8"
+        },
+        "bib0002": {
+            "authors": [
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "\u00e1lvarez"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Vigliano"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Lococo"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Petti"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Bertocchi"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Viotti"
+                }
+            ],
+            "doi": "10.1016/j.trstmh.2012.07.010",
+            "firstpage": "636",
+            "issn": "00359203",
+            "lastpage": "638",
+            "pmid": "22898619",
+            "pub_year": 2012,
+            "title": "Seronegative conversion after incomplete benznidazole treatment in chronic Chagas disease",
+            "volume": "106"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Caryn",
+                    "initial": "C.",
+                    "last": "Bern"
+                }
+            ],
+            "doi": "10.1056/NEJMct1014204",
+            "firstpage": "2527",
+            "issn": "00284793",
+            "lastpage": "2534",
+            "pub_year": 2011,
+            "title": "Antitrypanosomal therapy for chronic chagas' disease",
+            "volume": "364"
+        },
+        "bib0016": {
+            "authors": [
+                {
+                    "first": "J. Romeu",
+                    "initial": "J.R.",
+                    "last": "Can\u00e7ado"
+                }
+            ],
+            "doi": "10.1590/S0036-46652002000100006",
+            "firstpage": "29",
+            "issn": "00364665",
+            "lastpage": "37",
+            "pmid": "11896410",
+            "pub_year": 2002,
+            "title": "Long term evaluation of etiological treatment of Chagas disease with benznidazole",
+            "volume": "44"
+        },
+        "bib0019": null,
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Chatelain"
+                }
+            ],
+            "doi": "10.1177/1087057114550585",
+            "firstpage": "22",
+            "issn": "10870571",
+            "lastpage": "35",
+            "pmid": "25245987",
+            "pub_year": 2015,
+            "title": "Chagas disease drug discovery: Toward a new era",
+            "volume": "20"
+        },
+        "bib0022": null,
+        "bib0031": {
+            "authors": [
+                {
+                    "first": "Amanda Fortes",
+                    "initial": "A.F.",
+                    "last": "Francisco"
+                },
+                {
+                    "first": "Shiromani",
+                    "initial": "S.",
+                    "last": "Jayawardhana"
+                },
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Karen L.",
+                    "initial": "K.L.",
+                    "last": "White"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Shackleford"
+                },
+                {
+                    "first": "Gong",
+                    "initial": "G.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Jessica",
+                    "initial": "J.",
+                    "last": "Saunders"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Osuna-Cabello"
+                },
+                {
+                    "first": "Kevin D.",
+                    "initial": "K.D.",
+                    "last": "Read"
+                },
+                {
+                    "first": "Susan A.",
+                    "initial": "S.A.",
+                    "last": "Charman"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Chatelain"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Kelly"
+                }
+            ],
+            "doi": "10.1038/srep35351",
+            "issn": "20452322",
+            "pmid": "27748443",
+            "pub_year": 2016,
+            "title": "Nitroheterocyclic drugs cure experimental Trypanosoma cruzi infections more effectively in the chronic stage than in the acute stage",
+            "volume": "6"
+        },
+        "bib0034": {
+            "authors": [
+                {
+                    "first": "Belinda S.",
+                    "initial": "B.S.",
+                    "last": "Hall"
+                },
+                {
+                    "first": "Shane R.",
+                    "initial": "S.R.",
+                    "last": "Wilkinson"
+                }
+            ],
+            "doi": "10.1128/AAC.05135-11",
+            "firstpage": "115",
+            "issn": "00664804",
+            "lastpage": "123",
+            "pmid": "22037852",
+            "pub_year": 2012,
+            "title": "Activation of benznidazole by trypanosomal type I nitroreductases results in glyoxal formation",
+            "volume": "56"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "Julian P.T.",
+                    "initial": "J.P.T.",
+                    "last": "Higgins"
+                },
+                {
+                    "first": "Simon G.",
+                    "initial": "S.G.",
+                    "last": "Thompson"
+                }
+            ],
+            "doi": "10.1002/sim.1186",
+            "firstpage": "1539",
+            "issn": "02776715",
+            "lastpage": "1558",
+            "pmid": "12111919",
+            "pub_year": 2002,
+            "title": "Quantifying heterogeneity in a meta-analysis",
+            "volume": "21"
+        },
+        "bib0038": null,
+        "bib0039": {
+            "authors": [
+                {
+                    "first": "Israel",
+                    "initial": "I.",
+                    "last": "Molina"
+                },
+                {
+                    "first": "Jordi",
+                    "initial": "J.",
+                    "last": "Go\u1e3fez I Prat"
+                },
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Salvador"
+                },
+                {
+                    "first": "Bego\u00f1a",
+                    "initial": "B.",
+                    "last": "Trevi\u00f1o"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Sulleiro"
+                },
+                {
+                    "first": "N\u00faria",
+                    "initial": "N.",
+                    "last": "Serre"
+                },
+                {
+                    "first": "Diana",
+                    "initial": "D.",
+                    "last": "Pou"
+                },
+                {
+                    "first": "S\u00edlvia",
+                    "initial": "S.",
+                    "last": "Roure"
+                },
+                {
+                    "first": "Juan",
+                    "initial": "J.",
+                    "last": "Cabezos"
+                },
+                {
+                    "first": "Llu\u00eds",
+                    "initial": "L.",
+                    "last": "Valerio"
+                },
+                {
+                    "first": "Albert",
+                    "initial": "A.",
+                    "last": "Blanco-Grau"
+                },
+                {
+                    "first": "Adri\u00e1n",
+                    "initial": "A.",
+                    "last": "S\u00e1nchez-Montalv\u0301a"
+                },
+                {
+                    "first": "Xavier",
+                    "initial": "X.",
+                    "last": "Vidal"
+                },
+                {
+                    "first": "Albert",
+                    "initial": "A.",
+                    "last": "Pahissa"
+                }
+            ],
+            "doi": "10.1056/NEJMoa1313122",
+            "firstpage": "1899",
+            "issn": "00284793",
+            "lastpage": "1908",
+            "pmid": "24827034",
+            "pub_year": 2014,
+            "title": "Randomized trial of posaconazole and benznidazole for chronic Chagas' disease",
+            "volume": "370"
+        },
+        "bib0041": {
+            "authors": [
+                {
+                    "first": "Carolina B.",
+                    "initial": "C.B.",
+                    "last": "Moraes"
+                },
+                {
+                    "first": "Miriam A.",
+                    "initial": "M.A.",
+                    "last": "Giardini"
+                },
+                {
+                    "first": "Hwayoung",
+                    "initial": "H.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Caio H.",
+                    "initial": "C.H.",
+                    "last": "Franco"
+                },
+                {
+                    "first": "Adalberto M.",
+                    "initial": "A.M.",
+                    "last": "Araujo-Junior"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Schenkman"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Chatelain"
+                },
+                {
+                    "first": "Lucio H.",
+                    "initial": "L.H.",
+                    "last": "Freitas-Junior"
+                }
+            ],
+            "doi": "10.1038/srep04703",
+            "firstpage": "1",
+            "issn": "20452322",
+            "lastpage": "11",
+            "pmid": "24736467",
+            "pub_year": 2014,
+            "title": "Nitroheterocyclic compounds are more efficacious than CYP51 inhibitors against Trypanosoma cruzi: Implications for Chagas disease drug discovery and development",
+            "volume": "4"
+        },
+        "bib0042": null,
+        "bib0048": {
+            "authors": [
+                {
+                    "first": "Leonardo G.",
+                    "initial": "L.G.",
+                    "last": "Panunzi"
+                },
+                {
+                    "first": "Fern\u00e1n",
+                    "initial": "F.",
+                    "last": "Ag\u00fcero"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0002839",
+            "issn": "19352727",
+            "pmid": "24784238",
+            "pub_year": 2014,
+            "title": "A Genome-Wide Analysis of Genetic Diversity in Trypanosoma cruzi Intergenic Regions",
+            "volume": "8"
+        },
+        "bib0049": {
+            "authors": [
+                {
+                    "first": "Jos\u00e9 A.",
+                    "initial": "J.A.",
+                    "last": "P\u00e9rez-Molina"
+                },
+                {
+                    "first": "Israel",
+                    "initial": "I.",
+                    "last": "Molina"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(17)31612-4",
+            "firstpage": "82",
+            "issn": "01406736",
+            "lastpage": "94",
+            "pmid": "28673423",
+            "pub_year": 2018,
+            "title": "Chagas disease",
+            "volume": "391"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Mar\u00eda Je\u015bus",
+                    "initial": "M.J.",
+                    "last": "Pinazo"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Guerrero"
+                },
+                {
+                    "first": "Elizabeth",
+                    "initial": "E.",
+                    "last": "Posada"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Rodr\u00edguez"
+                },
+                {
+                    "first": "Dolors",
+                    "initial": "D.",
+                    "last": "Soy"
+                },
+                {
+                    "first": "Joaquim",
+                    "initial": "J.",
+                    "last": "Gascon"
+                }
+            ],
+            "doi": "10.1128/AAC.01401-12",
+            "firstpage": "390",
+            "issn": "00664804",
+            "lastpage": "395",
+            "pmid": "23114763",
+            "pub_year": 2013,
+            "title": "Benznidazole-related adverse drug reactions and their relationship to serum drug concentrations in patients with chronic chagas disease",
+            "volume": "57"
+        },
+        "bib0052": {
+            "authors": [
+                {
+                    "first": "Jos\u00e9 Rodrigues",
+                    "initial": "J.R.",
+                    "last": "Coura"
+                },
+                {
+                    "first": "Solange L.",
+                    "initial": "S.L.",
+                    "last": "De Castro"
+                }
+            ],
+            "doi": "10.1590/S0074-02762002000100001",
+            "firstpage": "3",
+            "issn": "00740276",
+            "lastpage": "24",
+            "pmid": "11992141",
+            "pub_year": 2002,
+            "title": "A critical review on chagas disease chemotherapy",
+            "volume": "97"
+        },
+        "bib0054": {
+            "authors": [
+                {
+                    "first": "Alvaro Jos\u00e9",
+                    "initial": "A.J.",
+                    "last": "Romanha"
+                },
+                {
+                    "first": "Solange Lisboa",
+                    "initial": "S.L.",
+                    "last": "de Castro"
+                },
+                {
+                    "first": "Maria de Nazar\u00e9 Correia",
+                    "initial": "M.d.N.C.",
+                    "last": "Soeiro"
+                },
+                {
+                    "first": "Joseli",
+                    "initial": "J.",
+                    "last": "Lannes-Vieira"
+                },
+                {
+                    "first": "Isabela",
+                    "initial": "I.",
+                    "last": "Ribeiro"
+                },
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Talvani"
+                },
+                {
+                    "first": "Bernadette",
+                    "initial": "B.",
+                    "last": "Bourdin"
+                },
+                {
+                    "first": "Bethania",
+                    "initial": "B.",
+                    "last": "Blum"
+                },
+                {
+                    "first": "Bianca",
+                    "initial": "B.",
+                    "last": "Olivieri"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Zani"
+                },
+                {
+                    "first": "Carmenza",
+                    "initial": "C.",
+                    "last": "Spadafora"
+                },
+                {
+                    "first": "Egler",
+                    "initial": "E.",
+                    "last": "Chiari"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Chatelain"
+                },
+                {
+                    "first": "Gabriela",
+                    "initial": "G.",
+                    "last": "Chaves"
+                },
+                {
+                    "first": "Jos\u00e9 Eduardo",
+                    "initial": "J.E.",
+                    "last": "Calzada"
+                },
+                {
+                    "first": "Juan Manuel",
+                    "initial": "J.M.",
+                    "last": "Bustamante"
+                },
+                {
+                    "first": "Lucio H.",
+                    "initial": "L.H.",
+                    "last": "Freitas-Junior"
+                },
+                {
+                    "first": "Luz I.",
+                    "initial": "L.I.",
+                    "last": "Romero"
+                },
+                {
+                    "first": "Maria Terezinha",
+                    "initial": "M.T.",
+                    "last": "Bahia"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Lotrowska"
+                },
+                {
+                    "first": "Milena",
+                    "initial": "M.",
+                    "last": "Soares"
+                },
+                {
+                    "first": "Sonia Gumes",
+                    "initial": "S.G.",
+                    "last": "Andrade"
+                },
+                {
+                    "first": "Tanya",
+                    "initial": "T.",
+                    "last": "Armstrong"
+                },
+                {
+                    "first": "Wim",
+                    "initial": "W.",
+                    "last": "Degrave"
+                },
+                {
+                    "first": "Zilton de Ara\u00fajo",
+                    "initial": "Z.d.A.",
+                    "last": "Andrade"
+                }
+            ],
+            "doi": "10.1590/S0074-02762010000200022",
+            "firstpage": "233",
+            "issn": "00740276",
+            "lastpage": "238",
+            "pub_year": 2010,
+            "title": "In vitro and in vivo experimental models for drug screening and development for Chagas disease",
+            "volume": "105"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Salvador"
+                },
+                {
+                    "first": "Adri\u00e1n",
+                    "initial": "A.",
+                    "last": "S\u00e1nchez-Montalv\u00e1"
+                },
+                {
+                    "first": "M\u00f3nica",
+                    "initial": "M.",
+                    "last": "Mart\u00ednez-Gallo"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Sala-Cunill"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Vi\u00f1as"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Garc\u00eda-Prat"
+                },
+                {
+                    "first": "Gloria",
+                    "initial": "G.",
+                    "last": "Aparicio"
+                },
+                {
+                    "first": "Augusto",
+                    "initial": "A.",
+                    "last": "Sao Avil\u00e9s"
+                },
+                {
+                    "first": "M. \u00c1ngeles",
+                    "initial": "M.\u00c1.",
+                    "last": "Artaza"
+                },
+                {
+                    "first": "Berta",
+                    "initial": "B.",
+                    "last": "Ferrer"
+                },
+                {
+                    "first": "Israel",
+                    "initial": "I.",
+                    "last": "Molina"
+                }
+            ],
+            "doi": "10.1093/cid/civ690",
+            "firstpage": "1688",
+            "issn": "10584838",
+            "lastpage": "1694",
+            "pmid": "26265500",
+            "pub_year": 2015,
+            "title": "Evaluation of cytokine profile and HLA association in benznidazole related cutaneous reactions in patients with chagas disease",
+            "volume": "61"
+        },
+        "bib0059": {
+            "authors": [
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Soy"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Aldasoro"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Guerrero"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Posada"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Serret"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Mej\u00eda"
+                },
+                {
+                    "first": "J. A.",
+                    "initial": "J.A.",
+                    "last": "Urbina"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Gasc\u00f3n"
+                }
+            ],
+            "doi": "10.1128/AAC.05018-14",
+            "firstpage": "3342",
+            "issn": "00664804",
+            "lastpage": "3349",
+            "pmid": "25824212",
+            "pub_year": 2015,
+            "title": "Population pharmacokinetics of benznidazole in adult patients with Chagas disease",
+            "volume": "59"
+        },
+        "bib0061": null,
+        "bib0062": {
+            "authors": [
+                {
+                    "first": "Julio A.",
+                    "initial": "J.A.",
+                    "last": "Urbina"
+                },
+                {
+                    "first": "James H.",
+                    "initial": "J.H.",
+                    "last": "McKerrow"
+                }
+            ],
+            "doi": "10.1128/AAC.01714-15",
+            "firstpage": "7923",
+            "issn": "00664804",
+            "lastpage": "7924",
+            "pmid": "26578701",
+            "pub_year": 2015,
+            "title": "Drug susceptibility of genetically engineered Trypanosoma cruzi strains and sterile cure in animal models as a criterion for potential clinical efficacy of anti-T. cruzi drugs",
+            "volume": "59"
+        },
+        "bib0063": {
+            "authors": [
+                {
+                    "first": "Mar\u00eda Gabriela",
+                    "initial": "M.G.",
+                    "last": "\u00c1lvarez"
+                },
+                {
+                    "first": "Yolanda",
+                    "initial": "Y.",
+                    "last": "Hern\u00e1ndez"
+                },
+                {
+                    "first": "Graciela",
+                    "initial": "G.",
+                    "last": "Bertocchi"
+                },
+                {
+                    "first": "Marisa",
+                    "initial": "M.",
+                    "last": "Fern\u00e1ndez"
+                },
+                {
+                    "first": "Bruno",
+                    "initial": "B.",
+                    "last": "Lococo"
+                },
+                {
+                    "first": "Juan Carlos",
+                    "initial": "J.C.",
+                    "last": "Ram\u00edrez"
+                },
+                {
+                    "first": "Carolina",
+                    "initial": "C.",
+                    "last": "Cura"
+                },
+                {
+                    "first": "Constanza Lopez",
+                    "initial": "C.L.",
+                    "last": "Albizu"
+                },
+                {
+                    "first": "Alejandro",
+                    "initial": "A.",
+                    "last": "Schijman"
+                },
+                {
+                    "first": "Marcelo",
+                    "initial": "M.",
+                    "last": "Abril"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Sosa-Estani"
+                },
+                {
+                    "first": "Rodolfo",
+                    "initial": "R.",
+                    "last": "Viotti"
+                }
+            ],
+            "doi": "10.1128/AAC.00745-15",
+            "firstpage": "833",
+            "issn": "00664804",
+            "lastpage": "837",
+            "pmid": "26596935",
+            "pub_year": 2016,
+            "title": "New scheme of intermittent benznidazole administration in patients chronically infected with Trypanosoma cruzi: A pilot short-term follow-up study with adult patients",
+            "volume": "60"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 26397,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "For categorical variables, general characteristics of the sample were assessed by percentages (chi-square test).",
+            "startOffset": 26285,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 28483,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "Regarding to the recommendations about the methodology to be used in the drug discovery process published in 2010, were followed in 13 out 36 articles with an acute model design and in 4 out 12 articles with a chronic model design, published beyond 2011.",
+            "startOffset": 28229,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23461,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "It is mandatory to elucidate data from animal model and mainly to be aware of its inherent limitations.",
+            "startOffset": 23358,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32333,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 32308,
+                    "startOffset": 32289
+                },
+                "bib0055": {
+                    "endOffset": 32331,
+                    "startOffset": 32310
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "To date, has not been able to be demonstrated the relationship between adverse reactions and drug blood concentration (Pinazo et al., 2013; Salvador et al., 2015).",
+            "startOffset": 32170,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21314,
+            "parents": [],
+            "refoffsets": {
+                "bib0049": {
+                    "endOffset": 21312,
+                    "startOffset": 21283
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "An estimated 7 million people are infected with T. cruzi worldwide and it causes more than 7000 deaths per year as well as life-long morbidity and disability without early and successful antiparasitic treatment (P\u00e9rez-Molina and Molina, 2018).",
+            "startOffset": 21071,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24942,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "After eliminating those duplicated, data were extracted.",
+            "startOffset": 24886,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 22330,
+            "parents": [],
+            "refoffsets": {
+                "bib0039": {
+                    "endOffset": 22313,
+                    "startOffset": 22294
+                },
+                "bib0061": {
+                    "endOffset": 22328,
+                    "startOffset": 22315
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "Unfortunately, none of the compounds tested in clinical trials so far has overcome in efficacy to benznidazole (Molina et al., 2014; Torrico, 2013).",
+            "startOffset": 22182,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34128,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Eighty-one adult patients with Chagas disease were followed after receiving treatment with benznidazole incompletely for a median of 10 days.",
+            "startOffset": 33987,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36799,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "One of the inherent limitations of quantitative integration studies is the heterogeneity of data.",
+            "startOffset": 36702,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23199,
+            "parents": [],
+            "refoffsets": {
+                "bib0054": {
+                    "endOffset": 23188,
+                    "startOffset": 23168
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "In order to harmonize the assessment of any compound as a potential hit against Chagas disease, in 2010, a consensus document was created and coordinated by the Fiocruz Program for Research and Technological Development on Chagas disease and the Drugs for Neglected Diseases Initiative (Romanha et al., 2010) (Fig. 1).",
+            "startOffset": 22881,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27179,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "Forty-one fulfilled the inclusion criteria (Fig. 2).",
+            "startOffset": 27127,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30284,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Moreover, and according to the pipeline and preliminary results of experimental drugs, there is not going to be any new drug at a commercial level in the forthcoming years.",
+            "startOffset": 30112,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34721,
+            "parents": [],
+            "refoffsets": {
+                "bib0063": {
+                    "endOffset": 34719,
+                    "startOffset": 34699
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Although the efficacy endpoint should be analyzed carefully because of the low follow up period, the adverse effects ratio was similar than previously reported in literature (50%) but with a lower discontinuation rate (in only one case was treatment suspended) (\u00c1lvarez et al., 2016).",
+            "startOffset": 34437,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37724,
+            "parents": [],
+            "secId": "sec0006",
+            "sentence": "In future clinical trials, new regimens with higher dose schemes (daily dose or accumulate dose) could be considered.",
+            "startOffset": 37607,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 36441,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "From a clinical point of view, to cure the chronic stage of the disease is one of the priorities or at least where the current standard of cure fails.",
+            "startOffset": 36291,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37826,
+            "parents": [],
+            "secId": "sec0006",
+            "sentence": "Chronic murine model for assessing the efficacy of new anti trypanocidal drugs should be reconsidered.",
+            "startOffset": 37724,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 36986,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Trying to minimize this heterogeneity, a model has been constructed composed of homogenous groups in terms of dose administered, strain, level of cure and model used as shown in Table 2.",
+            "startOffset": 36800,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32697,
+            "parents": [],
+            "refoffsets": {
+                "bib0016": {
+                    "endOffset": 32695,
+                    "startOffset": 32682
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The only side effect classically related with drug exposure is polyneuritis; it is possible to observe its appearance when the accumulative dose exceeds 18g, therefore it could be easily prevented (Cancado, 2002).",
+            "startOffset": 32484,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23358,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "Notwithstanding, according to the experiments published afterwards, we can affirm that it does not exists a homogenization in the design of the animal assays.",
+            "startOffset": 23200,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33219,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Both studies reach to the conclusion that benznidazole treatment regimen against Chagas disease in adults might be overdosed.",
+            "startOffset": 33094,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34199,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Twenty percent of these patients (16/81) were considered to be healed.",
+            "startOffset": 34129,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24885,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "Articles quest was performed by triplicate.",
+            "startOffset": 24842,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 29575,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "More data on Table 2.",
+            "startOffset": 29554,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22770,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 22768,
+                    "startOffset": 22753
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "However, between the in vitro process and the clinical proof of concept, a critical step relies on the in vivo model (Chatelain, 2015).",
+            "startOffset": 22635,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24331,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "A systematic review through MEDLINE (1985\u20132017), EMBASE (1985\u20132017), BIREME (1985\u20132017), LILACS (1985\u20132004), SCIELO (1985\u20132004) was conducted, using the following terms and keywords (with no language restriction): benznidazole, treatment, animal model, murine model, Trypanosoma cruzi.",
+            "startOffset": 24046,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 35546,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "That fact added to the easy-performing, the rapidity in obtaining results and lower cost, has lead a greater prominence of the utilization of acute model during the drug discovery process, to the detriment of the chronic one.",
+            "startOffset": 35321,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22181,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "According to the results obtained in the in vitro or the in vivo models, drugs evaluated had to have shown a good therapeutic response in patients with Chagas disease.",
+            "startOffset": 22014,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24377,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "The last research was conducted on June 2017.",
+            "startOffset": 24332,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 29776,
+            "parents": [],
+            "refoffsets": {
+                "bib0019": {
+                    "endOffset": 29754,
+                    "startOffset": 29740
+                },
+                "bib0022": {
+                    "endOffset": 29774,
+                    "startOffset": 29756
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The current therapeutic regimen of benznidazole was empirically introduced at the end of the decade of seventies based on clinical observational studies (Cerisola, 1977; Coura et al., 1978).",
+            "startOffset": 29586,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30968,
+            "parents": [],
+            "refoffsets": {
+                "bib0054": {
+                    "endOffset": 30966,
+                    "startOffset": 30946
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "One of the main constraints we had to face in our revision, were the important heterogeneity between the experiment design, where less than 50% followed the recommendations published in 2010 (Romanha et al., 2010).",
+            "startOffset": 30754,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29068,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "In the acute murine model, an increase of ten mg in the daily dose or in the accumulated dose of benznidazole increases in 1.28 points (CI 1.06\u20131.54) or 1 point (CI 1.00\u20131.01) respectively, the probability of cure (Table 2 and Fig. 3).",
+            "startOffset": 28833,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22013,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "New compounds have been evaluated to seek an alternative to these old nitroheterocyclic compounds.",
+            "startOffset": 21915,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29920,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Because of fewer adverse events and equal parasite suppression, the lower dose tested (5\u20137.5 mg/kg/day) has been chosen and used till nowadays.",
+            "startOffset": 29777,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35014,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Thus, new clinical trial will be needed in order to confirm the dose and drug exposure effect of benznidazole over the efficacy.",
+            "startOffset": 34886,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30530,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In this new scenario, where benznidazole dosage is being rethought, the focus should be shifted towards basic research and especially animal models.",
+            "startOffset": 30382,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35811,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Apart from the obvious biases our study has (inherent to the heterogeneity of the experiment designs, as the strain used, inoculums, etc\u2026) probably the scarce number of chronic model assays included in the analyses, could have limited the weight of the comparison.",
+            "startOffset": 35547,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31236,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "That is to say: the greater the dose or the drug exposure, the greater the probability of cure.",
+            "startOffset": 31141,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33093,
+            "parents": [],
+            "refoffsets": {
+                "bib0001": {
+                    "endOffset": 33091,
+                    "startOffset": 33071
+                },
+                "bib0059": {
+                    "endOffset": 33069,
+                    "startOffset": 33053
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The idea to reduce the daily dose came from two population pharmacokinetics studies (Soy et al., 2015; Altcheh et al., 2014).",
+            "startOffset": 32968,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24841,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "Assays using exclusively T. cruzi clones or strains isolated from patients were excluded for the analysis.",
+            "startOffset": 24735,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 33986,
+            "parents": [],
+            "refoffsets": {
+                "bib0002": {
+                    "endOffset": 33984,
+                    "startOffset": 33964
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Viotti et al. analyzed the efficacy (seroconversion) of patients which had to withdraw treatment because of side effects (Alvarez et al., 2012).",
+            "startOffset": 33842,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36290,
+            "parents": [],
+            "refoffsets": {
+                "bib0031": {
+                    "endOffset": 36098,
+                    "startOffset": 36076
+                },
+                "bib0062": {
+                    "endOffset": 36288,
+                    "startOffset": 36263
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Nevertheless could be reasonable to understand that in the chronic model has lower parasite load and more localized infection compared with the acute stages of the diseases, leading to a theoretically better response, as has been demonstrated by Francisco et al. (Francisco et al., 2016) (although some authors have pointed out the possibility of a higher susceptibility to benznidazole in those genetically engineered luminescent CL Brener strains) (Urbina and McKerrow, 2015).",
+            "startOffset": 35812,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21525,
+            "parents": [],
+            "refoffsets": {
+                "bib0048": {
+                    "endOffset": 21523,
+                    "startOffset": 21499
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "One of the main obstacles the scientific community has to face is the complexity of the parasite (Panunzi and Ag\u00fcero, 2014).",
+            "startOffset": 21401,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28032,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "Note that the inoculums also depend on the strain (see Table 1).",
+            "startOffset": 27968,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28229,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "For chronic model experiments, in 5 out of 12.",
+            "startOffset": 28183,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25221,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "The primary outcome was the cure ratio.",
+            "startOffset": 25182,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 27126,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "A total of 126 articles were identified.",
+            "startOffset": 27086,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33738,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In clinical practice, shorter regimens are being currently evaluated ClinicalTrials.gov Identifier: NCT03191162 and NCT03378661 in the framework of clinical trials, being at that time results pending to be published.",
+            "startOffset": 33522,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33281,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Concerning the drug exposure, there is also contrary evidence.",
+            "startOffset": 33219,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33841,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Previously two experiences have been reported with schemes using a lower overall dose of benznidazole.",
+            "startOffset": 33739,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26666,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "We used a logistic regression model using robust estimate of variance, in order to relax the assumption of independence between the observations, defining each experiment as a cluster.",
+            "startOffset": 26482,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27744,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "By far, the most utilized T. cruzi strain was Y strain, followed by CL Brener (which is actually a clone derived from the original CL strain), Colombiana and marginally VL10, Brazil and Tulahuen.",
+            "startOffset": 27549,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21400,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "At the present, much is known about Chagas disease, but much more remains to be known.",
+            "startOffset": 21314,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21684,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "That fact not only elicits an insufficient understanding of the pathogenesis and immunology of T. cruzi infection, but also hampers the drug discovery process.",
+            "startOffset": 21525,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26925,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 26923,
+                    "startOffset": 26897
+                }
+            },
+            "secId": "sec0003",
+            "sentence": "It describes the percentage of variation across studies that is due to heterogeneity rather than chance I\u00b2 = 100% x (Q-df)/Q. where Q is the chi-squared statistic and df is its degrees of freedom (Higgins and Thompson, 2002).",
+            "startOffset": 26700,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 24045,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "A quantitative integration study of primary data from different individual studies was performed.",
+            "startOffset": 23948,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 33522,
+            "parents": [],
+            "refoffsets": {
+                "bib0031": {
+                    "endOffset": 33520,
+                    "startOffset": 33498
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Recent studies that explore new regimes in mouse model showed that fewer days of treatment (5 days, 25% of the established standard) in the chronic model, achieved the same cure rates than standard treatment period (Francisco et al., 2016).",
+            "startOffset": 33282,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30619,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "For several (mainly practical) reasons, the most widely used animal model is the murine.",
+            "startOffset": 30531,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34436,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The same group conducted a study assessing a new scheme of benznidazole with intermittent doses of benznidazole at 5 mg/kg/day in two daily doses every 5 days for a total of 60 days among 20 patients in the chronic phase of the disease.",
+            "startOffset": 34200,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26482,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "Results were considered statistically significant if the 2-tailed P value was <0.05.",
+            "startOffset": 26398,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27078,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "Analyses were conducted with Stata software, version 13 (STATA Corp).",
+            "startOffset": 27009,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 30111,
+            "parents": [],
+            "refoffsets": {
+                "bib0039": {
+                    "endOffset": 30079,
+                    "startOffset": 30060
+                },
+                "bib0042": {
+                    "endOffset": 30109,
+                    "startOffset": 30096
+                },
+                "bib0061": {
+                    "endOffset": 30094,
+                    "startOffset": 30081
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Despite the relevant advances and drug discovery efforts, new formulations have failed to demonstrate superiority compared to benznidazole (Molina et al., 2014; Torrico, 2013; Morillo, 2019).",
+            "startOffset": 29920,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27008,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "I\u00b2 is an intuitive and simple expression of the inconsistency of studies\u2019 results.",
+            "startOffset": 26926,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 34885,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "It would therefore appear that exist contradictory data to argue both opposite hypotheses, although the level of evidence seems not enough to rule out none of them.",
+            "startOffset": 34721,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22505,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "And according to the current pipeline, it seems that in the coming years the therapeutic arsenal that we can offer to our patients will be basically the same as 40 years ago.",
+            "startOffset": 22331,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32849,
+            "parents": [],
+            "refoffsets": {
+                "bib0042": {
+                    "endOffset": 32847,
+                    "startOffset": 32834
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Furthermore, previous experiences with higher daily doses have been recorded (400 mg/day) without an increased ratio of adverse events (Morillo, 2019).",
+            "startOffset": 32698,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23628,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "The performance of experimental models is essential as the first step before reaching clinical trials in humans but, should be interpreted and evaluated with caution.",
+            "startOffset": 23462,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26284,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "Inter-group differences for continuous parameters were assessed by Student's t-test if they presented a normal distribution or ANOVA with Bonferroni correction for multiple comparisons, and Mann-Whitney U test if they did not present a normal distribution.",
+            "startOffset": 26028,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 31315,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "That hypothesis could be plausible taking into account its mechanism of action.",
+            "startOffset": 31236,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26699,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "The I\u00b2 statistic was calculated.",
+            "startOffset": 26667,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25685,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "According to the heterogeneity of criteria used, we defined three levels of cure accuracy: minimum accuracy, where the cure was assessed by parasitemia detection through (FBE) plus serology or blood/tissue culture; medium accuracy, where besides the above, molecular biology techniques were used; maximum accuracy, where besides the above, a immunosuppression course with cyclophosphamide was administered previous the performance of molecular biology techniques.",
+            "startOffset": 25222,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 22880,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "Unfortunately, to date, available animal models have limited predictive value and there is no standardization.",
+            "startOffset": 22770,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30753,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Albeit that the murine model concentrates most results related to the treatment with benznidazole, it has some controversial aspects.",
+            "startOffset": 30620,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27967,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "The trypomastigote inoculums varied significantly according to type of model; in the acute model the inoculum was 5000 parasite forms (IQR 10000-1000) and 1000 parasite forms (IQR 1000-30) in the chronic model (p < 0.001).",
+            "startOffset": 27745,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27325,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "In 29 of them, the design of the experimental assay was based in the acute model exclusively and in 5 out of them was based in the chronic model.",
+            "startOffset": 27180,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30382,
+            "parents": [],
+            "refoffsets": {
+                "bib0038": {
+                    "endOffset": 30380,
+                    "startOffset": 30374
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Therefore, all the current efforts are focused on evaluating dose-optimization regimens (Molina).",
+            "startOffset": 30285,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24734,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "For eligibility, studies were required to meet the following criteria: (a) Those which used murine model (mice), (b) at least one of the groups were treated with benznidazole (regardless the dose or duration), (c) efficacy was assed at least with parasitemia detection through Fresh Blood Examination (FBE), (d) all data regarding methodology are reported.",
+            "startOffset": 24378,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 29553,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "In the multivariate analyses, apart from the susceptible T. cruzi strains (sensible strain: OR 14.86 and partially resistant OR: 4.99), only the daily dose of benznidazole showed a significant relationship with cure (OR: 1.34, CI 1.12\u20131.6).",
+            "startOffset": 29313,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31861,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These assays are designed in order to determine the pharmacodynamics compound concentration versus the total time of exposure needed to achieve efficacy.",
+            "startOffset": 31708,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32483,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 32481,
+                    "startOffset": 32460
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "By the contrary, it seems that could exist a genetic background which determine the occurrence of hypersensitivity phenomena (Salvador et al., 2015).",
+            "startOffset": 32334,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35320,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 35318,
+                    "startOffset": 35308
+                },
+                "bib0052": {
+                    "endOffset": 35306,
+                    "startOffset": 35271
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "It is widely accepted that when testing antitrypanocidal drugs, mainly nitroheterocyclic derivates, the acute murine model is superior to the chronic one (Rodriques Coura and de Castro, 2002; Bern, 2011).",
+            "startOffset": 35116,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37502,
+            "parents": [],
+            "secId": "sec0006",
+            "sentence": "An extra effort in order to standardize a predictive Chagas disease in vivo model need to be done and validated in order to improve its predictability and to ease its comparison and reproducibility.",
+            "startOffset": 37304,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27548,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "The most commonly mouse used was the Swiss Webster Outbred mice, followed by the BALB/c and the C57BL/6.",
+            "startOffset": 27444,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29171,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "That positive effect is higher when the Y strain is utilized or the level of cure requirement is high.",
+            "startOffset": 29069,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29313,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "In the chronic model although the effect of the daily dose is still positive (OR: 1.02, CI 0.90\u20131.16), is less evident than in the acute one.",
+            "startOffset": 29172,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37292,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Parameter I2 indicates the proportion of the variation among studies regarding of the total variation, that is to say the proportion of the total variation that is attributable to the heterogeneity, in our study we obtained moderate to high results that is why we decided to use the robust logistic model.",
+            "startOffset": 36987,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23772,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "Therefore, with the aim to better understand the role of benznidazole, the current standard of care of Chagas disease, we performed this review.",
+            "startOffset": 23628,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32169,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "On the other hand, it could be said that increasing the dose could be risky since the toxicity of the drug could also be increased.",
+            "startOffset": 32038,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32967,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These results might seem controversial, since future clinical trials are based on lower dose regimens of benznidazole.",
+            "startOffset": 32849,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28832,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "Analyzing the overall effect of the dose on the efficacy outcome (defined according the criteria of each experiment), it exists a direct effect between either the daily dose (mg/kg) of benznidazole or the accumulated dose (calculated through the daily dose for the days of treatment) with the probability of cure regardless the T. cruzi strain used.",
+            "startOffset": 28483,
+            "title": "Results"
+        },
+        {
+            "endOffset": 36702,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Therefore, taking into account the current poor therapeutic scenario and the urgent need in having more efficient drugs for chronic patients, to rule out any candidate based only on acute model assays not appears to be the most optimal drug discovery strategy.",
+            "startOffset": 36442,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25182,
+            "parents": [],
+            "secId": "sec0002",
+            "sentence": "The following data was retrieved for each study: type of infection (acute or chronic), type of mice, T. cruzi strain used, inoculums, dose of benznidazole and days of treatment, days post infection when treatment was started, cure criteria.",
+            "startOffset": 24942,
+            "title": "Material and methods"
+        },
+        {
+            "endOffset": 27444,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "In seven articles, the experiment was designed taking into account both, acute and chronic model (see Tables 3 and 4).",
+            "startOffset": 27326,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35115,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Interestingly, the type of animal model has not shown any significant effect in the efficacy outcome.",
+            "startOffset": 35014,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28182,
+            "parents": [],
+            "secId": "sec0004",
+            "sentence": "From the 90s, molecular biology techniques were incorporated as a method to assess cure in 24 out 35 studies with an acute model experiment published.",
+            "startOffset": 28032,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31603,
+            "parents": [],
+            "refoffsets": {
+                "bib0034": {
+                    "endOffset": 31601,
+                    "startOffset": 31577
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Although it remains unclear, it seems that the nitrogenized free radicals produced by the action of trypanosomatid nitroreductases and not detoxified by the parasite's redox enzymatic system may cause direct damage over key structures of host and the parasite (Hall and Wilkinson, 2012).",
+            "startOffset": 31316,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26027,
+            "parents": [],
+            "secId": "sec0003",
+            "sentence": "Categorical data are presented as absolute numbers and proportions, and continuous variables are expressed as medians and interquartile range (IQR) or means and standard deviation (SD) if normal distribution was demonstrated (normal distribution of continuous variables was evaluated through the Kolmogorov-Smirnov test).",
+            "startOffset": 25706,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 31140,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "It is important to note that among all variables analyzed, the dose, either diary dose or accumulative dose, was the one who had the major effect over the efficacy outcome.",
+            "startOffset": 30968,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21915,
+            "parents": [],
+            "refoffsets": {
+                "bib0052": {
+                    "endOffset": 21914,
+                    "startOffset": 21879
+                }
+            },
+            "secId": "sec0001",
+            "sentence": "Despite more than 100 years since it was firstly described, only two drugs are available to treat Chagas disease: Nifurtimox launched by Bayer in 1965 and benznidazole launched by Roche in 1971 (Rodriques Coura and de Castro, 2002)",
+            "startOffset": 21684,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22634,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "Drug discovery process has been enriched with new technologies which brings an optimistic future into the quest of new compounds.",
+            "startOffset": 22505,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37607,
+            "parents": [],
+            "secId": "sec0006",
+            "sentence": "Dose of benznidazole (diary dose and accumulative dose) is strongly associated with the efficacy outcome.",
+            "startOffset": 37502,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 23927,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "We intend to analyze the influence of the experimental design of the most used animal model, the murine model, in the assessment of the efficacy endpoint.",
+            "startOffset": 23773,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21071,
+            "parents": [],
+            "secId": "sec0001",
+            "sentence": "Chagas disease remains one of the biggest public-health problems in Latin America and a challenge for clinical practitioners and basic researchers.",
+            "startOffset": 20924,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32038,
+            "parents": [],
+            "refoffsets": {
+                "bib0041": {
+                    "endOffset": 32036,
+                    "startOffset": 32017
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "These assays have revealed that nitroheterocyclic compounds are concentration-dependent trypanocidal drugs and therefore more efficacious at higher doses (Moraes et al., 2014).",
+            "startOffset": 31862,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31707,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In parallel, novel time-to-kill assays have highlighted the effect of drug concentration among efficacy.",
+            "startOffset": 31603,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X19303833",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "imolina@vhebron.net",
+                "first": "Israel",
+                "initial": "I.",
+                "last": "Molina"
+            },
+            {
+                "email": null,
+                "first": "Luisa",
+                "initial": "L.",
+                "last": "Perin"
+            },
+            {
+                "email": null,
+                "first": "Augusto Sao",
+                "initial": "A.S.",
+                "last": "Aviles"
+            },
+            {
+                "email": null,
+                "first": "Paula Melo",
+                "initial": "P.M.",
+                "last": "de Abreu Vieira"
+            },
+            {
+                "email": null,
+                "first": "Katia",
+                "initial": "K.",
+                "last": "da Silva Fonseca"
+            },
+            {
+                "email": null,
+                "first": "Lucas Maciel",
+                "initial": "L.M.",
+                "last": "Cunha"
+            },
+            {
+                "email": null,
+                "first": "Claudia M.",
+                "initial": "C.M.",
+                "last": "Carneiro"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2019.105218",
+        "issn": "0001706X",
+        "keywords": [
+            "Animal model",
+            "Benznidazole",
+            "Chagas disease",
+            "Clinical trial",
+            "Trypanosoma cruzi"
+        ],
+        "openaccess": "Full",
+        "pub_year": 2020,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "The effect of benznidazole dose among the efficacy outcome in the murine animal model. A quantitative integration of the literature"
+    }
+}

@@ -1,0 +1,2204 @@
+{
+    "abstract": "Oxysterols are oxidised forms of cholesterol that are intermediates in the synthesis of bile acids and steroid hormones. They are also ligands to nuclear and G protein-coupled receptors. Analysis of oxysterols in biological systems is challenging due to their low abundance coupled with their lack of a strong chromophore and poor ionisation characteristics in mass spectrometry (MS). We have previously used enzyme-assisted derivatisation for sterol analysis (EADSA) to identify and quantitate oxysterols in biological samples. This technique relies on tagging sterols with the Girard P reagent to introduce a charged quaternary ammonium group. Here, we have compared several modified Girard-like reagents and show that the permanent charge is vital for efficient MS n fragmentation. However, we find that the reagent can be extended to include sites for potential stable isotope labels without a loss of performance. \u00a9 2014 The Authors. Published by Elsevier Inc.",
+    "author_highlights": [
+        {
+            "endOffset": 8990,
+            "sentence": "New derivatisation reagents for LC\u2013MS analysis of oxysterols.",
+            "startOffset": 8929
+        },
+        {
+            "endOffset": 9076,
+            "sentence": "New reagents based on Girard P give high ion-currents and informative LC\u2013MSn spectra.",
+            "startOffset": 8991
+        },
+        {
+            "endOffset": 9135,
+            "sentence": "Permanent charge is vital for efficient MSn fragmentation.",
+            "startOffset": 9077
+        },
+        {
+            "endOffset": 9205,
+            "sentence": "New reagents offer greater scope for incorporation of isotope labels.",
+            "startOffset": 9136
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "David W.",
+                    "initial": "D.W.",
+                    "last": "Russell"
+                }
+            ],
+            "doi": "10.1146/annurev.biochem.72.121801.161712",
+            "firstpage": "137",
+            "issn": "00664154",
+            "lastpage": "174",
+            "pmid": "12543708",
+            "pub_year": 2003,
+            "title": "The enzymes, regulation, and genetics of bile acid synthesis",
+            "volume": "72"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Bethany A.",
+                    "initial": "B.A.",
+                    "last": "Janowski"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Grogan"
+                },
+                {
+                    "first": "Stagey A.",
+                    "initial": "S.A.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "G. Bruce",
+                    "initial": "G.B.",
+                    "last": "Wisely"
+                },
+                {
+                    "first": "Steven A.",
+                    "initial": "S.A.",
+                    "last": "Kliewer"
+                },
+                {
+                    "first": "Elias J.",
+                    "initial": "E.J.",
+                    "last": "Corey"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Mangelsdorf"
+                }
+            ],
+            "doi": "10.1073/pnas.96.1.266",
+            "firstpage": "266",
+            "issn": "00278424",
+            "lastpage": "271",
+            "pmid": "9874807",
+            "pub_year": 1999,
+            "title": "Structural requirements of ligands for the oxysterol liver X receptors LXRa and LXR\u03b2",
+            "volume": "96"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "J\u00fcrgen M.",
+                    "initial": "J.M.",
+                    "last": "Lehmann"
+                },
+                {
+                    "first": "Steven A.",
+                    "initial": "S.A.",
+                    "last": "Kliewer"
+                },
+                {
+                    "first": "Linda B.",
+                    "initial": "L.B.",
+                    "last": "Moore"
+                },
+                {
+                    "first": "Tracey A.",
+                    "initial": "T.A.",
+                    "last": "Smith-Oliver"
+                },
+                {
+                    "first": "Beverly B.",
+                    "initial": "B.B.",
+                    "last": "Oliver"
+                },
+                {
+                    "first": "Jui Lan",
+                    "initial": "J.L.",
+                    "last": "Su"
+                },
+                {
+                    "first": "Scott S.",
+                    "initial": "S.S.",
+                    "last": "Sundseth"
+                },
+                {
+                    "first": "Deborah A.",
+                    "initial": "D.A.",
+                    "last": "Winegar"
+                },
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Blanchard"
+                },
+                {
+                    "first": "Thomas A.",
+                    "initial": "T.A.",
+                    "last": "Spencer"
+                },
+                {
+                    "first": "Timothy M.",
+                    "initial": "T.M.",
+                    "last": "Willson"
+                }
+            ],
+            "doi": "10.1074/jbc.272.6.3137",
+            "firstpage": "3137",
+            "issn": "00219258",
+            "lastpage": "3140",
+            "pmid": "9013544",
+            "pub_year": 1997,
+            "title": "Activation of the nuclear receptor LXR by oxysterols defines a new hormone response pathway",
+            "volume": "272"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Yongjun",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Naresh",
+                    "initial": "N.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Crumbley"
+                },
+                {
+                    "first": "Patrick R.",
+                    "initial": "P.R.",
+                    "last": "Griffin"
+                },
+                {
+                    "first": "Thomas P.",
+                    "initial": "T.P.",
+                    "last": "Burris"
+                }
+            ],
+            "doi": "10.1016/j.bbalip.2010.02.012",
+            "firstpage": "917",
+            "issn": "13881981",
+            "lastpage": "923",
+            "pmid": "20211758",
+            "pub_year": 2010,
+            "title": "A second class of nuclear receptors for oxysterols: Regulation of ROR\u03b1 and ROR\u03b3 activity by 24S-hydroxycholesterol (cerebrosterol)",
+            "volume": "1801"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "S\u00e9bastien",
+                    "initial": "S.",
+                    "last": "Hannedouche"
+                },
+                {
+                    "first": "Juan",
+                    "initial": "J.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Tangsheng",
+                    "initial": "T.",
+                    "last": "Yi"
+                },
+                {
+                    "first": "Weijun",
+                    "initial": "W.",
+                    "last": "Shen"
+                },
+                {
+                    "first": "Deborah",
+                    "initial": "D.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "Jo\u00e3o P.",
+                    "initial": "J.P.",
+                    "last": "Pereira"
+                },
+                {
+                    "first": "Danilo",
+                    "initial": "D.",
+                    "last": "Guerini"
+                },
+                {
+                    "first": "Birgit U.",
+                    "initial": "B.U.",
+                    "last": "Baumgarten"
+                },
+                {
+                    "first": "Silvio",
+                    "initial": "S.",
+                    "last": "Roggo"
+                },
+                {
+                    "first": "Ben",
+                    "initial": "B.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Knochenmuss"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "No\u00ebl"
+                },
+                {
+                    "first": "Francois",
+                    "initial": "F.",
+                    "last": "Gessier"
+                },
+                {
+                    "first": "Lisa M.",
+                    "initial": "L.M.",
+                    "last": "Kelly"
+                },
+                {
+                    "first": "Mirka",
+                    "initial": "M.",
+                    "last": "Vanek"
+                },
+                {
+                    "first": "Stephane",
+                    "initial": "S.",
+                    "last": "Laurent"
+                },
+                {
+                    "first": "Inga",
+                    "initial": "I.",
+                    "last": "Preuss"
+                },
+                {
+                    "first": "Charlotte",
+                    "initial": "C.",
+                    "last": "Miault"
+                },
+                {
+                    "first": "Isabelle",
+                    "initial": "I.",
+                    "last": "Christen"
+                },
+                {
+                    "first": "Ratna",
+                    "initial": "R.",
+                    "last": "Karuna"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Dong In",
+                    "initial": "D.I.",
+                    "last": "Koo"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Suply"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Schmedt"
+                },
+                {
+                    "first": "Eric C.",
+                    "initial": "E.C.",
+                    "last": "Peters"
+                },
+                {
+                    "first": "Rocco",
+                    "initial": "R.",
+                    "last": "Falchetto"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Katopodis"
+                },
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Spanka"
+                },
+                {
+                    "first": "Marie Odile",
+                    "initial": "M.O.",
+                    "last": "Roy"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Detheux"
+                },
+                {
+                    "first": "Yu Alice",
+                    "initial": "Y.A.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Peter G.",
+                    "initial": "P.G.",
+                    "last": "Schultz"
+                },
+                {
+                    "first": "Charles Y.",
+                    "initial": "C.Y.",
+                    "last": "Cho"
+                },
+                {
+                    "first": "Klaus",
+                    "initial": "K.",
+                    "last": "Seuwen"
+                },
+                {
+                    "first": "Jason G.",
+                    "initial": "J.G.",
+                    "last": "Cyster"
+                },
+                {
+                    "first": "Andreas W.",
+                    "initial": "A.W.",
+                    "last": "Sailer"
+                }
+            ],
+            "doi": "10.1038/nature10280",
+            "firstpage": "524",
+            "issn": "00280836",
+            "lastpage": "527",
+            "pmid": "21796212",
+            "pub_year": 2011,
+            "title": "Oxysterols direct immune cell migration via EBI2",
+            "volume": "475"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Changlu",
+                    "initial": "C.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Xia V.",
+                    "initial": "X.V.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Jiejun",
+                    "initial": "J.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Chester",
+                    "initial": "C.",
+                    "last": "Kuei"
+                },
+                {
+                    "first": "Neelakandha S.",
+                    "initial": "N.S.",
+                    "last": "Mani"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Jingxue",
+                    "initial": "J.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Steven W.",
+                    "initial": "S.W.",
+                    "last": "Sutton"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Qin"
+                },
+                {
+                    "first": "Homayon",
+                    "initial": "H.",
+                    "last": "Banie"
+                },
+                {
+                    "first": "Lars",
+                    "initial": "L.",
+                    "last": "Karlsson"
+                },
+                {
+                    "first": "Siquan",
+                    "initial": "S.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Timothy W.",
+                    "initial": "T.W.",
+                    "last": "Lovenberg"
+                }
+            ],
+            "doi": "10.1038/nature10226",
+            "firstpage": "519",
+            "issn": "00280836",
+            "lastpage": "523",
+            "pmid": "21796211",
+            "pub_year": 2011,
+            "title": "Oxysterols direct B-cell migration through EBI2",
+            "volume": "475"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Erik R.",
+                    "initial": "E.R.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Suzanne E.",
+                    "initial": "S.E.",
+                    "last": "Wardell"
+                },
+                {
+                    "first": "Jeff S.",
+                    "initial": "J.S.",
+                    "last": "Jasper"
+                },
+                {
+                    "first": "Sunghee",
+                    "initial": "S.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Sunil",
+                    "initial": "S.",
+                    "last": "Suchindran"
+                },
+                {
+                    "first": "Matthew K.",
+                    "initial": "M.K.",
+                    "last": "Howe"
+                },
+                {
+                    "first": "Nicole J.",
+                    "initial": "N.J.",
+                    "last": "Carver"
+                },
+                {
+                    "first": "Ruchita V.",
+                    "initial": "R.V.",
+                    "last": "Pillai"
+                },
+                {
+                    "first": "Patrick M.",
+                    "initial": "P.M.",
+                    "last": "Sullivan"
+                },
+                {
+                    "first": "Varun",
+                    "initial": "V.",
+                    "last": "Sondhi"
+                },
+                {
+                    "first": "Michihisa",
+                    "initial": "M.",
+                    "last": "Umetani"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Geradts"
+                },
+                {
+                    "first": "Donald P.",
+                    "initial": "D.P.",
+                    "last": "McDonnell"
+                }
+            ],
+            "doi": "10.1126/science.1241908",
+            "firstpage": "1094",
+            "issn": "00368075",
+            "lastpage": "1098",
+            "pmid": "24288332",
+            "pub_year": 2013,
+            "title": "27-Hydroxycholesterol links hypercholesterolemia and breast cancer pathophysiology",
+            "volume": "342"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Qian",
+                    "initial": "Q.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Tomonori",
+                    "initial": "T.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Rosa",
+                    "initial": "R.",
+                    "last": "Sirianni"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Jeffrey G.",
+                    "initial": "J.G.",
+                    "last": "McDonald"
+                },
+                {
+                    "first": "Ivan S.",
+                    "initial": "I.S.",
+                    "last": "Yuhanna"
+                },
+                {
+                    "first": "Bonne",
+                    "initial": "B.",
+                    "last": "Thompson"
+                },
+                {
+                    "first": "Luc",
+                    "initial": "L.",
+                    "last": "Girard"
+                },
+                {
+                    "first": "Chieko",
+                    "initial": "C.",
+                    "last": "Mineo"
+                },
+                {
+                    "first": "Rolf A.",
+                    "initial": "R.A.",
+                    "last": "Brekken"
+                },
+                {
+                    "first": "Michihisa",
+                    "initial": "M.",
+                    "last": "Umetani"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Euhus"
+                },
+                {
+                    "first": "Yang",
+                    "initial": "Y.",
+                    "last": "Xie"
+                },
+                {
+                    "first": "Philip W.",
+                    "initial": "P.W.",
+                    "last": "Shaul"
+                }
+            ],
+            "doi": "10.1016/j.celrep.2013.10.006",
+            "firstpage": "637",
+            "issn": "22111247",
+            "lastpage": "645",
+            "pmid": "24210818",
+            "pub_year": 2013,
+            "title": "27-Hydroxycholesterol promotes cell-autonomous, ER-positive breast cancer growth",
+            "volume": "5"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Griffiths"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Crick"
+                },
+                {
+                    "first": "Yuqin",
+                    "initial": "Y.",
+                    "last": "Wang"
+                }
+            ],
+            "doi": "10.1016/j.bcp.2013.01.027",
+            "firstpage": "3",
+            "issn": "00062952",
+            "lastpage": "14",
+            "pmid": "23395696",
+            "pub_year": 2013,
+            "title": "Methods for oxysterol analysis: Past, present and future",
+            "volume": "86"
+        },
+        "b0050": null,
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Michael D.",
+                    "initial": "M.D.",
+                    "last": "Best"
+                }
+            ],
+            "doi": "10.1021/bi9007726",
+            "firstpage": "6571",
+            "issn": "00062960",
+            "lastpage": "6584",
+            "pmid": "19485420",
+            "pub_year": 2009,
+            "title": "Click chemistry and bioorthogonal reactions: Unprecedented selectivity in the labeling of biological molecules",
+            "volume": "48"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Griffiths"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Crick"
+                },
+                {
+                    "first": "Yuchen",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Ogundare"
+                },
+                {
+                    "first": "Karin",
+                    "initial": "K.",
+                    "last": "Tuschl"
+                },
+                {
+                    "first": "Andrew A.",
+                    "initial": "A.A.",
+                    "last": "Morris"
+                },
+                {
+                    "first": "Brian W.",
+                    "initial": "B.W.",
+                    "last": "Bigger"
+                },
+                {
+                    "first": "Peter T.",
+                    "initial": "P.T.",
+                    "last": "Clayton"
+                },
+                {
+                    "first": "Yuqin",
+                    "initial": "Y.",
+                    "last": "Wang"
+                }
+            ],
+            "doi": "10.1016/j.freeradbiomed.2012.07.027",
+            "firstpage": "69",
+            "issn": "08915849",
+            "lastpage": "84",
+            "pmid": "22846477",
+            "pub_year": 2013,
+            "title": "Analytical strategies for characterization of oxysterol lipidomes: Liver X receptor ligands in plasma",
+            "volume": "59"
+        },
+        "b0065": null,
+        "b0070": null,
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Girard"
+                },
+                {
+                    "first": "Georges",
+                    "initial": "G.",
+                    "last": "Sandulesco"
+                }
+            ],
+            "doi": "10.1002/hlca.193601901148",
+            "firstpage": "1095",
+            "issn": "0018019X",
+            "lastpage": "1107",
+            "pub_year": 1936,
+            "title": "Sur une nouvelle s\u00e9rie de r\u00e9actifs du groupe carbonyle, leur utilisation \u00e0 l'extraction des substances c\u00e9toniques et \u00e0 la caract\u00e9risation microchimique des ald\u00e9hydes et c\u00e9tones",
+            "volume": "19"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Thompson"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "Sch\u00e4fer"
+                },
+                {
+                    "first": "Karsten",
+                    "initial": "K.",
+                    "last": "Kuhn"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Kienle"
+                },
+                {
+                    "first": "Josef",
+                    "initial": "J.",
+                    "last": "Schwarz"
+                },
+                {
+                    "first": "G\u00fcnter",
+                    "initial": "G.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Neumann"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Hamon"
+                }
+            ],
+            "doi": "10.1021/ac0262560",
+            "firstpage": "1895",
+            "issn": "00032700",
+            "lastpage": "1904",
+            "pmid": "12713048",
+            "pub_year": 2003,
+            "title": "Tandem mass tags: A novel quantification strategy for comparative analysis of complex protein mixtures by MS/MS",
+            "volume": "75"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 17090,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The column was washed with 70% methanol (1 mL) followed by 35% methanol (1 mL).",
+            "startOffset": 17011,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 23054,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 23053,
+                    "startOffset": 23049
+                }
+            },
+            "secId": "s0055",
+            "sentence": "For example, the TMT and iTRAQ reagents used in proteomics experiments allow the simultaneous quantification of up to 6 samples in a single analytical run [16].",
+            "startOffset": 22894,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 20203,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "3\u03b2-HCA is one of the most abundant oxysterols present in healthy human serum at a level of approximately 80 ng/mL and gives a high-intensity peak when derivatised with the GP reagent (Fig. 2A, top panel).",
+            "startOffset": 19999,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 25717,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Incorporation of an amine at the 4 position of the heterocycle (i.e. using 4-DMAP or 4-pyrollopyridine) lowers the efficiency of the MS3 fragmentation by a factor of five.",
+            "startOffset": 25546,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 13508,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 13407,
+                    "startOffset": 13400
+                },
+                "b0070": {
+                    "endOffset": 13407,
+                    "startOffset": 13400
+                }
+            },
+            "secId": "s0005",
+            "sentence": "As part of a project to incorporate isotope labels into the GP reagent (Crick et al., manuscript in preparation [13,14]) we have synthesised and tested a range of charge tags incorporating a variety of functional groups.",
+            "startOffset": 13288,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14825,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The mixture was slowly cooled to 0 \u00b0C and hydrazine hydrate (788 \u03bcL of 78\u201380% solution in H2O, \u223c12.6 mmol) was added dropwise.",
+            "startOffset": 14699,
+            "title": "Synthesis of derivatisation reagents"
+        },
+        {
+            "endOffset": 21225,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "A key feature of EADSA is a characteristic and predictable loss of pyridine (79 Da) from the GP tag in MS2.",
+            "startOffset": 21118,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 22462,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Again, the intensity is considerably higher (thirty fold) for 3\u03b2-HCA derivatised with the GP reagent (Fig. 2E) compared with derivatisation using piperidine reagent 2 (Fig. 2F).",
+            "startOffset": 22285,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 25843,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, structurally informative fragments are still observed allowing confident identification of the analytes of interest.",
+            "startOffset": 25718,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 19998,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Fig. 2A shows reconstructed ion chromatograms (RICs) plotted on the same y-axis for 3\u03b2-HCA derivatised with reagents 1\u20133.",
+            "startOffset": 19877,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 22893,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Derivatisation reagents may be isotopically labelled to be used in relative and absolute quantification experiments.",
+            "startOffset": 22777,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 20816,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Similar results were obtained for other analytes from the same serum sample.",
+            "startOffset": 20740,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 15971,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The fraction containing oxysterols (SPE-1-Fr-1) was dried under reduced pressure using a vacuum concentrator.",
+            "startOffset": 15862,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 21117,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "This makes MS2 experiments on underivatised molecules difficult as, in a typical experiment, the fragmentation spectrum is dominated by the non-specific loss of a molecule of water.",
+            "startOffset": 20936,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 18855,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The collision energy was 30 units for the MS2 step and 35 units for the MS3 step.",
+            "startOffset": 18774,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 14698,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A solution of heterocycle (4-dimethylaminopyridine, 4-pyrollopyridine, isoquinoline or 4-phenylpyridine, 12.6 mmol) and ethyl bromoacetate (1.4 mL, 12.6 mmol) in absolute ethanol (10 mL) was heated at reflux for 4 h.",
+            "startOffset": 14482,
+            "title": "Synthesis of derivatisation reagents"
+        },
+        {
+            "endOffset": 18338,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "After a further 5 min the gradient returned to 20% mobile phase B over 6 s before re-equilibration for 3 min 54 s to give a total run time of 17 min.",
+            "startOffset": 18189,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 21317,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Importantly, loss of 79 Da is not a commonly observed neutral loss from other biomolecules.",
+            "startOffset": 21226,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 17857,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Separation of oxysterols was performed on an UltiMate 3000 HPLC system (Dionex) using a Phenomonex Kinetex C18 column (50 \u00d7 2.1 mm, 1.7 \u03bcm particles).",
+            "startOffset": 17707,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 18188,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The gradient started at 20% mobile phase B for 1 min before rising to 80% mobile phase B over the next 7 min.",
+            "startOffset": 18079,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 11214,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 11010,
+                    "startOffset": 11007
+                },
+                "b0010": {
+                    "endOffset": 11080,
+                    "startOffset": 11075
+                },
+                "b0015": {
+                    "endOffset": 11080,
+                    "startOffset": 11075
+                },
+                "b0020": {
+                    "endOffset": 11131,
+                    "startOffset": 11128
+                },
+                "b0025": {
+                    "endOffset": 11213,
+                    "startOffset": 11208
+                },
+                "b0030": {
+                    "endOffset": 11213,
+                    "startOffset": 11208
+                }
+            },
+            "secId": "s0005",
+            "sentence": "As well as acting as key components of the bile acid biosynthesis pathways [1], oxysterols have been shown to bind to liver X receptors (LXRs) [2,3], retinoic acid related orphan receptors (RORs) [4] and the G protein-coupled receptor Epstein\u2013Barr virus induced gene 2 (EBI2) [5,6].",
+            "startOffset": 10932,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17164,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Water (4 mL) was added to the combined eluent to give \u223c9 mL 35% methanol.",
+            "startOffset": 17091,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 24561,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "As above, we compared the intensities of the peaks corresponding to 3\u03b2-HCA.",
+            "startOffset": 24486,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 12982,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Sterols are enzymatically oxidised using bacterial cholesterol oxidase before \u2018charge-tagging\u2019 with the Girard P (GP) reagent (Fig. 1A).",
+            "startOffset": 12846,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14190,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Certified Sep-Pak tC18 200 mg and Oasis HLB 60 mg cartridges were from Waters (Elstree, UK).",
+            "startOffset": 14098,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 17953,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Mobile phase A consisted of 33.3% methanol, 16.7% acetonitrile, 50% water and 0.1% formic acid.",
+            "startOffset": 17858,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 13288,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This incorporates a permanently charged quaternary ammonium group which increases solubility in reversed-phase solvents, improves ionisation by several orders of magnitude, and directs fragmentation of the sterol backbone to provide structurally informative MSn (MS with multistage fragmentation) spectra.",
+            "startOffset": 12983,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19231,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 19230,
+                    "startOffset": 19226
+                }
+            },
+            "secId": "s0050",
+            "sentence": "Derivatisation with a reagent possessing an amine moiety is a common technique to enhance the ionisation of analytes of interest in ESI\u2013MS [10].",
+            "startOffset": 19087,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 15626,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The flow-through was collected and combined with a wash of 5.5 mL of 70% ethanol to give SPE-1-Fr-1 containing oxysterols.",
+            "startOffset": 15504,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 22054,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, fragmentation of 3\u03b2-HCA derivatised with piperidine reagent 2 gives no significant peak in the equivalent chromatogram (Fig. 2B, lower panel) although a similar (but weak) fragmentation spectrum can be identified at 6.55 min (Fig. 2D).",
+            "startOffset": 21810,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 24820,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The four new reagents give a similar MS response to that of the GP reagent suggesting that the dominant factor in determining ionisation efficiency is the presence of a quaternary ammonium ion (Fig. 3A, note the chromatograms are plotted on the same y-axis).",
+            "startOffset": 24562,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 16516,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The mixture was vortexed until all of the solid was dissolved then incubated at room temperature overnight in the dark.",
+            "startOffset": 16397,
+            "title": "Enzyme-assisted derivatisation"
+        },
+        {
+            "endOffset": 24334,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The reagents are obtained as white solids that can be used immediately without the need for time consuming purification steps.",
+            "startOffset": 24208,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 19876,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "To assess the importance of the permanent charge we derivatised a commercially available pooled serum sample with reagent 2 (incorporating a piperidine) and reagent 3 (incorporating a phenyl ring) in parallel with the GP reagent (Fig. 1B).",
+            "startOffset": 19637,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 16650,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "To remove excess reagent while retaining all of the compounds of interest, a recycling procedure was used.",
+            "startOffset": 16544,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 21688,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Fragmentation of GP-derivatised 3\u03b2-HCA results in a major transition of m/z 548 \u2192 469 corresponding to the loss of pyridine (Fig. 2B, top panel and C).",
+            "startOffset": 21537,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 25545,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In the case of 3\u03b2-HCA, neutral loss of the heterocyclic portion of the charge tag gives the same fragment at m/z 469 which can again be fragmented further to give an MS3 spectrum similar to that obtained from the GP reagent (Fig. 3B\u2013E).",
+            "startOffset": 25309,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 20388,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "We found that derivatisation with piperidine (reagent 2) gave a peak corresponding to the protonated adduct with an intensity similar to that of the GP reagent (Fig. 2A, middle panel).",
+            "startOffset": 20204,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 25308,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Oxysterols derivatised with reagents 4\u20137 fragment in a similar way to those tagged with the GP reagent.",
+            "startOffset": 25205,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 10931,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Oxysterols are neutral lipids formed by oxidation of cholesterol either by enzymatic oxidation (especially by enzymes of the cytochrome P450 family) or by autoxidation.",
+            "startOffset": 10763,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 12845,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 12844,
+                    "startOffset": 12840
+                }
+            },
+            "secId": "s0005",
+            "sentence": "We have developed an LC\u2013electrospray ionisation (ESI)\u2013MS method including enzyme-assisted derivatisation for sterol (or steroid) analysis (EADSA) [12].",
+            "startOffset": 12694,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17674,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Aliquots of SPE-2-Fr-1 and Fr-2 were combined and diluted to 60% methanol for analysis by LC\u2013MS.",
+            "startOffset": 17578,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 18985,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In addition, a full mass spectrum was recorded in the Orbitrap over the m/z range 400\u2013610 at 30,000 resolution (FWHM definition).",
+            "startOffset": 18856,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 18475,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The eluent was directed to the atmospheric pressure ionisation (API) source of an LTQ-Orbitrap Velos (Thermo Fisher, San Jose, CA, USA).",
+            "startOffset": 18339,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 17286,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This solution was applied to the same cartridge and the flow-through collected, along with a wash of 17% methanol (1 mL).",
+            "startOffset": 17165,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 19637,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Primary, secondary and tertiary amines are all readily charged in positive mode ESI to give either protonated or sodiated adducts, while quaternary ammonium species carry a permanent positive charge to typically give a strong response in positive mode ESI\u2013MS. We have previously used the GP reagent 1 to introduce a quaternary ammonium moiety to sterols to enhance detection by LC\u2013ESI\u2013MS (EADSA, Fig. 1A).",
+            "startOffset": 19232,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 20739,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, we were unable to identify a peak corresponding to 3\u03b2-HCA derivatised with phenyl reagent 3 as either the protonated or sodiated adduct (Fig. 2A, bottom panel).",
+            "startOffset": 20570,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 24207,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "All of the syntheses are straightforward and high yielding (typically 80\u201395%) and can be carried out on large scales (\u223c10 g).",
+            "startOffset": 24082,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 15780,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The cartridge was washed with a further 4 mL of 70% ethanol to give SPE-1-Fr-2, before cholesterol was eluted with 2 mL of absolute ethanol (SPE-1-Fr-3).",
+            "startOffset": 15627,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 17352,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Water (9 mL) was added to the eluent to give \u223c19 mL 17% methanol.",
+            "startOffset": 17287,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 16195,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The dried fractions were reconstituted in 100 \u03bcL propan-2-ol and 1 mL potassium phosphate buffer (50 mM, pH 7) containing 3 \u03bcL of cholesterol oxidase (2 mg/mL H2O, 44 U/mg protein) was added.",
+            "startOffset": 16004,
+            "title": "Enzyme-assisted derivatisation"
+        },
+        {
+            "endOffset": 17435,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This solution was applied to the column followed by a wash of 10% methanol (6 mL).",
+            "startOffset": 17353,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 26368,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, replacing pyridine with other heterocycles in the GP reagent does not significantly affect the performance of the reagent, giving the potential for future synthesis of multiplexed series of isotopically labelled tags.",
+            "startOffset": 26142,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 21536,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In addition, this pathway results in transfer of the positive charge from the derivatising group to the sterol backbone, which can then be fragmented further to afford structurally informative fragments in MS3 spectra.",
+            "startOffset": 21318,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 20462,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The sodiated adduct was present at a level of less than 10% of this peak.",
+            "startOffset": 20389,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 24081,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In a similar fashion, incorporation of 4-pyrollopyridine, isoquinoline, or 4-phenylpyridine gives reagents 5\u20137, again with additional sites for potential isotope labelling (Fig. 1B).",
+            "startOffset": 23899,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 18773,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "35 \u03bcL of the mixture to be analysed was injected onto the column and a targeted multiple reaction monitoring (MRM)-like method was used to fragment ions of interest in the linear ion trap (LIT), e.g. m/z 548 \u2192 469\u2192 for 3\u03b2-hydroxycholest-5-en-(25R)-26-oic acid (3\u03b2-HCA) derivatised with GP reagent.",
+            "startOffset": 18476,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 15211,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Serum (100 \u03bcL) was added dropwise to a solution of 24(R/S)-[25,26,26,26,27,27,27-2H7] hydroxycholesterol (20 ng) in absolute ethanol (1.05 mL total volume) in an ultrasound bath.",
+            "startOffset": 15033,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 11620,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Sterols are typically under-represented in global lipidomics studies which are dominated by charged species (e.g. phospholipids) or those readily ionised due to the presence of a functional group such as an amine (e.g. sphingosine, sphingomyelin).",
+            "startOffset": 11373,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14097,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Phenylacetic hydrazide and cholesterol oxidase from Streptomyces sp. were from Sigma\u2013Aldrich (Dorset, UK).",
+            "startOffset": 13991,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 22284,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Further activation of the fragment at m/z 469 gives an MS3 spectrum with peaks corresponding to fragmentation of the sterol A/B-rings (m/z 151, 163), the residual derivatising group and carboxylate group (m/z 408, 423, 441, 451).",
+            "startOffset": 22055,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 23742,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For example, 4-dimethylaminopyridine (4-DMAP) can be used to obtain reagent 4 (Fig. 1B) which possesses an additional dimethylamino group.",
+            "startOffset": 23604,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 24485,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "To compare the performance of reagents 4\u20137 a commercially available pooled serum sample was derivatised with each charge tag along with the GP reagent.",
+            "startOffset": 24334,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 15861,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Finally, the column was washed with 2 mL of absolute ethanol to give SPE-1-Fr-4.",
+            "startOffset": 15781,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 25937,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In conclusion we have shown that the GP reagent can be modified without a loss of performance.",
+            "startOffset": 25843,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 14995,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The resulting white precipitate was recovered by filtration and dried under reduced pressure to afford the desired derivatisation reagent (4, 5, 6 or 7) in 80\u201395% yield.",
+            "startOffset": 14826,
+            "title": "Synthesis of derivatisation reagents"
+        },
+        {
+            "endOffset": 13601,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Here we evaluate the performance of these reagents and discuss their merits and limitations.",
+            "startOffset": 13509,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16903,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "An Oasis HLB cartridge was pre-conditioned with methanol (6 mL), 10% methanol (6 mL) and finally 70% methanol (4 mL).",
+            "startOffset": 16786,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 22714,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The weak fragmentation of sterols derivatised with reagent 2 would be of particular importance to techniques that rely exclusively on MS2 for identification and quantitation, for example SRM or MRM carried out on a triple-quadrupole mass spectrometer.",
+            "startOffset": 22463,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 23323,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, the relatively small size of the GP reagent limits the number of isotope labels that can be included.",
+            "startOffset": 23213,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 14247,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Pooled serum from male AB plasma was from Sigma\u2013Aldrich.",
+            "startOffset": 14191,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 16300,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The mixture was incubated at 37 \u00b0C for 1 h when the reaction was stopped by addition of methanol (2 mL).",
+            "startOffset": 16196,
+            "title": "Enzyme-assisted derivatisation"
+        },
+        {
+            "endOffset": 14481,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 14480,
+                    "startOffset": 14476
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Charge tags were synthesised using a modification of the procedure reported by Girard and Sandulesco [15].",
+            "startOffset": 14375,
+            "title": "Synthesis of derivatisation reagents"
+        },
+        {
+            "endOffset": 20569,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Therefore, in MS mode, a tertiary amine results in a similar gain in sensitivity as a quaternary ammonium.",
+            "startOffset": 20463,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 13990,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "GP reagent (1-(carboxymethyl)pyridinium chloride hydrazide) was from TCI Europe (Oxford, UK) and 2-(1-piperidinyl)acetohydrazide was from Fluorochem (Hadfield, UK).",
+            "startOffset": 13826,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 17577,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Finally, the oxysterols were eluted from the cartridge using methanol (3 \u00d7 1 mL) then ethanol (1 mL) to give SPE-2-Fr-1, Fr-2, Fr-3 and Fr-4.",
+            "startOffset": 17436,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 12341,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 12340,
+                    "startOffset": 12336
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Chemical derivatisation is commonly used in LC\u2013MS methods to improve the ionisation characteristics of the biological molecules of interest [10].",
+            "startOffset": 12196,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25082,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Modifications to the reagent can be used to \u2018tune\u2019 the retention time of analytes of interest; for example an additional ring at the 4 position increases the retention time by around 1 min (Fig. 3A, compare top left panel with bottom left and bottom right one).",
+            "startOffset": 24821,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 12694,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 12483,
+                    "startOffset": 12479
+                }
+            },
+            "secId": "s0005",
+            "sentence": "An effective derivatisation reagent should: (1) react in near-quantitative yield with the analyte of interest (e.g. by \u2018click\u2019 chemistry [11]); (2) incorporate a permanently charged or readily ionised functional group (e.g. an amine); and preferably (3) be amenable to stable-isotope labelling for use in relative and absolute quantitation experiments.",
+            "startOffset": 12342,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20935,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The sterol backbone is made up almost exclusively of carbon\u2013carbon and carbon\u2013hydrogen bonds plus a carbon\u2013oxygen bond.",
+            "startOffset": 20816,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        },
+        {
+            "endOffset": 11373,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 11372,
+                    "startOffset": 11367
+                },
+                "b0040": {
+                    "endOffset": 11372,
+                    "startOffset": 11367
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Very recently (25R)26-hydroxycholesterol has been shown to promote proliferation of breast cancer cell lines by binding to the estrogen receptor (ER) \u03b1 [7,8].",
+            "startOffset": 11215,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13825,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "HPLC grade solvents were from Fisher Scientific (Loughborough, UK).",
+            "startOffset": 13758,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 15333,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "After 5 min, water (350 \u03bcL) was added, ultrasonicated for a further 5 min then centrifuged at 14,000g for 30 min at 4 \u00b0C.",
+            "startOffset": 15212,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 11765,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The sterolome itself is dominated by cholesterol which is present at a level three orders of magnitude higher than the most abundant oxysterols.",
+            "startOffset": 11621,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17010,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The reaction mixture (in \u223c3 mL 70% methanol) was loaded onto the cartridge and the flow-through collected.",
+            "startOffset": 16904,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 23212,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In a similar manner, incorporating stable-isotope labels in the GP reagent will allow the analysis of multiple serum samples in a single LC\u2013ESI\u2013MS injection.",
+            "startOffset": 23055,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 15503,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "A Waters Sep-Pak tC18 cartridge was rinsed with 4 mL of absolute ethanol followed by 6 mL of 70% ethanol and the serum in 70% ethanol (1.5 mL) was applied to the column.",
+            "startOffset": 15334,
+            "title": "Extraction of oxysterols from serum"
+        },
+        {
+            "endOffset": 12196,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 12194,
+                    "startOffset": 12191
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Gas chromatography (GC)\u2013MS with prior derivatisation to trimethylsilyl ethers is considered the \u2018gold standard\u2019 for oxysterol analysis but a number of liquid chromatography (LC)\u2013MS approaches have also been reported (for a recent review see Ref. [9]).",
+            "startOffset": 11945,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23899,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "This gives the potential for the introduction of two isotopically coded methyl groups (e.g. CD3 in place of CH3) thus increasing the scope for multiplexing.",
+            "startOffset": 23743,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 14336,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Chemicals used for the synthesis of derivatisation reagents 4\u20137 were from Sigma\u2013Aldrich.",
+            "startOffset": 14248,
+            "title": "Solvents and reagents"
+        },
+        {
+            "endOffset": 16786,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 16708,
+                    "startOffset": 16704
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The procedure is similar to that previously reported [12] but a Waters Oasis HLB 60 mg cartridge was used in place of the Sep-Pak tC18.",
+            "startOffset": 16651,
+            "title": "Removal of excess reagent"
+        },
+        {
+            "endOffset": 26141,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Replacing the quaternary ammonium moiety with a tertiary amine does not affect ionisation in the ESI\u2013MS mode but greatly reduces the efficiency of MS2 fragmentation, thus removing a key benefit of EADSA.",
+            "startOffset": 25938,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 23496,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "If the size of the reagent could be extended without a loss of performance, isotope labels could be incorporated at more positions to increase the utility of this strategy.",
+            "startOffset": 23324,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 16396,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Acetic acid (150 \u03bcL) was added followed by 0.8 mmol of the derivatisation reagent to be tested.",
+            "startOffset": 16301,
+            "title": "Enzyme-assisted derivatisation"
+        },
+        {
+            "endOffset": 18078,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The flow rate was 200 \u03bcL/min.",
+            "startOffset": 18049,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 18048,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Mobile phase B consisted of 63.3% methanol, 31.7% acetonitrile, 5% water and 0.1% formic acid.",
+            "startOffset": 17954,
+            "title": "LC\u2013ESI\u2013MSn on the LTQ-Orbitrap"
+        },
+        {
+            "endOffset": 11944,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In addition, the lack of a strong chromophore and poor ionisation characteristics in mass spectrometry (MS) make the analysis and accurate quantitation of oxysterols challenging.",
+            "startOffset": 11766,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25205,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Such modifications could be useful for the analysis of polar molecules that are poorly retained on reversed-phase columns.",
+            "startOffset": 25083,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 23603,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "We have synthesised a library of modified Girard reagents incorporating heterocycles larger than pyridine.",
+            "startOffset": 23497,
+            "title": "The GP reagent can be modified without a loss in performance"
+        },
+        {
+            "endOffset": 13734,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 13733,
+                    "startOffset": 13729
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A list of the sources of reagents and equipment along with a detailed protocol for EADSA is given in Ref. [12].",
+            "startOffset": 13623,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 21809,
+            "parents": [
+                {
+                    "id": "s0045",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "A less intense peak is also observed at m/z 441 assigned to a loss of pyridine along with a molecule of carbon monoxide.",
+            "startOffset": 21689,
+            "title": "Derivatisation with the GP reagent enhances oxysterol analysis by MS and MSn"
+        }
+    ],
+    "docId": "S0006291X14002162",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "p.j.crick@swansea.ac.uk",
+                "first": "Peter J.",
+                "initial": "P.J.",
+                "last": "Crick"
+            },
+            {
+                "email": null,
+                "first": "Jennifer",
+                "initial": "J.",
+                "last": "Aponte"
+            },
+            {
+                "email": null,
+                "first": "T. William",
+                "initial": "T.W.",
+                "last": "Bentley"
+            },
+            {
+                "email": null,
+                "first": "Ian",
+                "initial": "I.",
+                "last": "Matthews"
+            },
+            {
+                "email": null,
+                "first": "Yuqin",
+                "initial": "Y.",
+                "last": "Wang"
+            },
+            {
+                "email": "w.j.griffiths@swansea.ac.uk",
+                "first": "William J.",
+                "initial": "W.J.",
+                "last": "Griffiths"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.01.173",
+        "firstpage": "756",
+        "issn": "0006291X",
+        "keywords": [
+            "Derivatisation",
+            "Girard P reagent",
+            "Liquid chromatography",
+            "Mass spectrometry",
+            "Sterols"
+        ],
+        "lastpage": "761",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Evaluation of novel derivatisation reagents for the analysis of oxysterols"
+    }
+}

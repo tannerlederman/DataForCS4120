@@ -1,0 +1,2375 @@
+{
+    "abstract": "CD55 is a glycosylphosphatidylinositol-anchored protein, which inhibits complement activation by acting on the complement C3 convertases. CD55 is widely localized in the cholesterol rich regions of the cell plasma membrane termed membrane rafts. CD55 is attached to these specialized regions via a GPI link on the outer leaflet of the plasma membrane. Membrane rafts anchor many important signaling proteins, which control several cellular functions within the cell. For example, we recently demonstrated that the membrane raft protein and complement inhibitor CD59 also controls insulin secretion by an intracellular mechanism. Therefore, we have in this study aimed at addressing the expression and function of CD55 in pancreatic beta cells. To this end, we observe that CD55 is highly expressed in INS1 832/13 beta cells as well as human pancreatic islets. Diabetic human islets show a tendency for increased expression of CD55 when compared to the healthy controls. Importantly, silencing of CD55 in INS1 832/13 cells does not affect their insulin secretory capacity. On the other hand, silencing of CD55 diminished the intensity of membrane rafts as determined by Atto-SM staining. We hence conclude that CD55 expression is affected by glycemic status in human islets and plays a critical role in maintaining the conserved structure of rafts in pancreatic islets, which is similar to that of the related complement inhibitor CD59. However CD55 does not interfere with insulin secretion in beta cells, which is in sharp contrast to the action of the complement inhibitor CD59.",
+    "author_highlights": [
+        {
+            "endOffset": 14049,
+            "sentence": "The complement inhibitor CD55 is expressed in pancreatic islets and beta cells.",
+            "startOffset": 13970
+        },
+        {
+            "endOffset": 14109,
+            "sentence": "CD55 does not interfere with the insulin secretion process.",
+            "startOffset": 14050
+        },
+        {
+            "endOffset": 14175,
+            "sentence": "The structural integrity of membrane rafts is controlled by CD55.",
+            "startOffset": 14110
+        },
+        {
+            "endOffset": 14285,
+            "sentence": "The actions of CD55 exhibit marked differences to that of the structurally related complement inhibitor CD59.",
+            "startOffset": 14176
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Marc Y.",
+                    "initial": "M.Y.",
+                    "last": "Donath"
+                },
+                {
+                    "first": "Steven E.",
+                    "initial": "S.E.",
+                    "last": "Shoelson"
+                }
+            ],
+            "doi": "10.1038/nri2925",
+            "firstpage": "98",
+            "issn": "14741733",
+            "lastpage": "107",
+            "pmid": "21233852",
+            "pub_year": 2011,
+            "title": "Type 2 diabetes as an inflammatory disease",
+            "volume": "11"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Ulrika",
+                    "initial": "U.",
+                    "last": "Krus"
+                },
+                {
+                    "first": "Ben C.",
+                    "initial": "B.C.",
+                    "last": "King"
+                },
+                {
+                    "first": "Vini",
+                    "initial": "V.",
+                    "last": "Nagaraj"
+                },
+                {
+                    "first": "Nikhil R.",
+                    "initial": "N.R.",
+                    "last": "Gandasi"
+                },
+                {
+                    "first": "Jonatan",
+                    "initial": "J.",
+                    "last": "Sj\u00f6lander"
+                },
+                {
+                    "first": "Pawel",
+                    "initial": "P.",
+                    "last": "Buda"
+                },
+                {
+                    "first": "Eliana",
+                    "initial": "E.",
+                    "last": "Garcia-Vaz"
+                },
+                {
+                    "first": "Maria F.",
+                    "initial": "M.F.",
+                    "last": "Gomez"
+                },
+                {
+                    "first": "Emilia",
+                    "initial": "E.",
+                    "last": "Ottosson-Laakso"
+                },
+                {
+                    "first": "Petter",
+                    "initial": "P.",
+                    "last": "Storm"
+                },
+                {
+                    "first": "Malin",
+                    "initial": "M.",
+                    "last": "Fex"
+                },
+                {
+                    "first": "Petter",
+                    "initial": "P.",
+                    "last": "Vikman"
+                },
+                {
+                    "first": "Enming",
+                    "initial": "E.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Sebastian",
+                    "initial": "S.",
+                    "last": "Barg"
+                },
+                {
+                    "first": "Anna M.",
+                    "initial": "A.M.",
+                    "last": "Blom"
+                },
+                {
+                    "first": "Erik",
+                    "initial": "E.",
+                    "last": "Renstr\u00f6m"
+                }
+            ],
+            "doi": "10.1016/j.cmet.2014.03.001",
+            "firstpage": "883",
+            "issn": "15504131",
+            "lastpage": "890",
+            "pmid": "24726385",
+            "pub_year": 2014,
+            "title": "The complement inhibitor CD59 regulates insulin secretion by modulating exocytotic events",
+            "volume": "19"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Manu",
+                    "initial": "M.",
+                    "last": "Banadakoppa"
+                },
+                {
+                    "first": "Pawel",
+                    "initial": "P.",
+                    "last": "Goluszko"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Liebenthal"
+                },
+                {
+                    "first": "Chandra",
+                    "initial": "C.",
+                    "last": "Yallampalli"
+                }
+            ],
+            "doi": "10.1042/CBI20110586",
+            "firstpage": "901",
+            "issn": "10656995",
+            "lastpage": "907",
+            "pmid": "22574734",
+            "pub_year": 2012,
+            "title": "Nitric oxide induces segregation of decay accelerating factor (DAF or CD55) from the membrane lipid-rafts and its internalization in human endometrial cells",
+            "volume": "36"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Dobin"
+                },
+                {
+                    "first": "Carrie A.",
+                    "initial": "C.A.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Felix",
+                    "initial": "F.",
+                    "last": "Schlesinger"
+                },
+                {
+                    "first": "Jorg",
+                    "initial": "J.",
+                    "last": "Drenkow"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Zaleski"
+                },
+                {
+                    "first": "Sonali",
+                    "initial": "S.",
+                    "last": "Jha"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Batut"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Chaisson"
+                },
+                {
+                    "first": "Thomas R.",
+                    "initial": "T.R.",
+                    "last": "Gingeras"
+                }
+            ],
+            "doi": "10.1093/bioinformatics/bts635",
+            "firstpage": "15",
+            "issn": "13674803",
+            "lastpage": "21",
+            "pmid": "23104886",
+            "pub_year": 2013,
+            "title": "STAR: Ultrafast universal RNA-seq aligner",
+            "volume": "29"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Bo",
+                    "initial": "B.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Colin N.",
+                    "initial": "C.N.",
+                    "last": "Dewey"
+                }
+            ],
+            "doi": "10.1186/1471-2105-12-323",
+            "issn": "14712105",
+            "pmid": "21816040",
+            "pub_year": 2011,
+            "title": "RSEM: Accurate transcript quantification from RNA-Seq data with or without a reference genome",
+            "volume": "12"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Legembre"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Daburon"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Moreau"
+                },
+                {
+                    "first": "Jean Fran\u00e7ois",
+                    "initial": "J.F.",
+                    "last": "Moreau"
+                },
+                {
+                    "first": "Jean Luc",
+                    "initial": "J.L.",
+                    "last": "Taupin"
+                }
+            ],
+            "doi": "10.4049/jimmunol.176.2.716",
+            "firstpage": "716",
+            "issn": "00221767",
+            "lastpage": "720",
+            "pmid": "16393952",
+            "pub_year": 2006,
+            "title": "Cutting edge: Modulation of Fas-mediated apoptosis by lipid rafts in T lymphocytes",
+            "volume": "176"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Sansanee",
+                    "initial": "S.",
+                    "last": "Noisakran"
+                },
+                {
+                    "first": "Thanyaporn",
+                    "initial": "T.",
+                    "last": "Dechtawewat"
+                },
+                {
+                    "first": "Panisadee",
+                    "initial": "P.",
+                    "last": "Avirutnan"
+                },
+                {
+                    "first": "Taroh",
+                    "initial": "T.",
+                    "last": "Kinoshita"
+                },
+                {
+                    "first": "Uamporn",
+                    "initial": "U.",
+                    "last": "Siripanyaphinyo"
+                },
+                {
+                    "first": "Chunya",
+                    "initial": "C.",
+                    "last": "Puttikhunt"
+                },
+                {
+                    "first": "Watchara",
+                    "initial": "W.",
+                    "last": "Kasinrerk"
+                },
+                {
+                    "first": "Prida",
+                    "initial": "P.",
+                    "last": "Malasit"
+                },
+                {
+                    "first": "Nopporn",
+                    "initial": "N.",
+                    "last": "Sittisombut"
+                }
+            ],
+            "doi": "10.1099/vir.0.83620-0",
+            "firstpage": "2492",
+            "issn": "00221317",
+            "lastpage": "2500",
+            "pmid": "18796718",
+            "pub_year": 2008,
+            "title": "Association of dengue virus NS1 protein with lipid rafts",
+            "volume": "89"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Eggeling"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Ringemann"
+                },
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Medda"
+                },
+                {
+                    "first": "G\u00fcnter",
+                    "initial": "G.",
+                    "last": "Schwarzmann"
+                },
+                {
+                    "first": "Konrad",
+                    "initial": "K.",
+                    "last": "Sandhoff"
+                },
+                {
+                    "first": "Svetlana",
+                    "initial": "S.",
+                    "last": "Polyakova"
+                },
+                {
+                    "first": "Vladimir N.",
+                    "initial": "V.N.",
+                    "last": "Belov"
+                },
+                {
+                    "first": "Birka",
+                    "initial": "B.",
+                    "last": "Hein"
+                },
+                {
+                    "first": "Claas",
+                    "initial": "C.",
+                    "last": "Von Middendorff"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Sch\u00f6nle"
+                },
+                {
+                    "first": "Stefan W.",
+                    "initial": "S.W.",
+                    "last": "Hell"
+                }
+            ],
+            "doi": "10.1038/nature07596",
+            "firstpage": "1159",
+            "issn": "00280836",
+            "lastpage": "1162",
+            "pmid": "19098897",
+            "pub_year": 2009,
+            "title": "Direct observation of the nanoscale dynamics of membrane lipids in a living cell",
+            "volume": "457"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Ruliang",
+                    "initial": "R.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Tong",
+                    "initial": "T.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Fukuoka",
+                    "initial": "F.",
+                    "last": "Yoshihiro"
+                },
+                {
+                    "first": "Magdalena",
+                    "initial": "M.",
+                    "last": "Tary-Lehmann"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Obrenovich"
+                },
+                {
+                    "first": "Haydar",
+                    "initial": "H.",
+                    "last": "Kuekrek"
+                },
+                {
+                    "first": "Shin Chung",
+                    "initial": "S.C.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Tao",
+                    "initial": "T.",
+                    "last": "Pan"
+                },
+                {
+                    "first": "Boon Seng",
+                    "initial": "B.S.",
+                    "last": "Wong"
+                },
+                {
+                    "first": "M. Edward",
+                    "initial": "M.E.",
+                    "last": "Medof"
+                },
+                {
+                    "first": "Man Sun",
+                    "initial": "M.S.",
+                    "last": "Sy"
+                }
+            ],
+            "doi": "10.1016/S0006-291X(03)00354-1",
+            "firstpage": "446",
+            "issn": "0006291X",
+            "lastpage": "451",
+            "pmid": "12659837",
+            "pub_year": 2003,
+            "title": "On the same cell type GPI-anchored normal cellular prion and DAF protein exhibit different biological properties",
+            "volume": "303"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Jason R.",
+                    "initial": "J.R.",
+                    "last": "Dunkelberger"
+                },
+                {
+                    "first": "Wen Chao",
+                    "initial": "W.C.",
+                    "last": "Song"
+                }
+            ],
+            "doi": "10.1038/cr.2009.139",
+            "firstpage": "34",
+            "issn": "10010602",
+            "lastpage": "50",
+            "pmid": "20010915",
+            "pub_year": 2010,
+            "title": "Complement and its role in innate and adaptive immune responses",
+            "volume": "20"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Justin I.",
+                    "initial": "J.I.",
+                    "last": "Odegaard"
+                },
+                {
+                    "first": "Ajay",
+                    "initial": "A.",
+                    "last": "Chawla"
+                }
+            ],
+            "doi": "10.1101/cshperspect.a007724",
+            "issn": "21571422",
+            "pmid": "22393536",
+            "pub_year": 2012,
+            "title": "Connecting type 1 and type 2 diabetes through innate immunity",
+            "volume": "2"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Pickup"
+                },
+                {
+                    "first": "M. B.",
+                    "initial": "M.B.",
+                    "last": "Mattock"
+                },
+                {
+                    "first": "G. D.",
+                    "initial": "G.D.",
+                    "last": "Chusney"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Burt"
+                }
+            ],
+            "doi": "10.1007/s001250050822",
+            "firstpage": "1286",
+            "issn": "0012186X",
+            "lastpage": "1292",
+            "pmid": "9389420",
+            "pub_year": 1997,
+            "title": "NIDDM as a disease of the innate immune system: association of acute-phase reactants and interleukin-6 with metabolic syndrome X",
+            "volume": "40"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Pickup"
+                },
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Crook"
+                }
+            ],
+            "doi": "10.1007/s001250051058",
+            "firstpage": "1241",
+            "issn": "0012186X",
+            "lastpage": "1248",
+            "pmid": "9794114",
+            "pub_year": 1998,
+            "title": "Is type II diabetes mellitus a disease of the innate immune system?",
+            "volume": "41"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "D. M.",
+                    "initial": "D.M.",
+                    "last": "Lublin"
+                },
+                {
+                    "first": "J. P.",
+                    "initial": "J.P.",
+                    "last": "Atkinson"
+                }
+            ],
+            "doi": "10.1146/annurev.iy.07.040189.000343",
+            "firstpage": "35",
+            "issn": "03013782",
+            "lastpage": "58",
+            "pmid": "2469439",
+            "pub_year": 1989,
+            "title": "Decay-accelerating factor: Biochemistry, molecular biology, and function",
+            "volume": "7"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Wen Chao",
+                    "initial": "W.C.",
+                    "last": "Song"
+                }
+            ],
+            "doi": "10.1080/08916930600739647",
+            "firstpage": "403",
+            "issn": "08916934",
+            "lastpage": "410",
+            "pmid": "16923540",
+            "pub_year": 2006,
+            "title": "Complement regulatory proteins and autoimmunity",
+            "volume": "39"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Accardo-Palumbo"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Triolo"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Colonna-Romano"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Potestio"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Carbone"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Ferrante"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Giardina"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Caimi"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Triolo"
+                }
+            ],
+            "doi": "10.1007/s001250051487",
+            "firstpage": "1039",
+            "issn": "0012186X",
+            "lastpage": "1047",
+            "pmid": "10990082",
+            "pub_year": 2000,
+            "title": "Glucose-induced loss of glycosyl-phosphatidylinositol-anchored membrane regulators of complement activation (CD59, CD55) by in vitro cultured human umbilical vein endothelial cells",
+            "volume": "43"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Fuzhen",
+                    "initial": "F.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Xiaodong",
+                    "initial": "X.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Edwin",
+                    "initial": "E.",
+                    "last": "Kwan"
+                },
+                {
+                    "first": "Patrick P.L.",
+                    "initial": "P.P.L.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "Lillian",
+                    "initial": "L.",
+                    "last": "Chan"
+                },
+                {
+                    "first": "Keiyan",
+                    "initial": "K.",
+                    "last": "Sy"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Sheu"
+                },
+                {
+                    "first": "Michael B.",
+                    "initial": "M.B.",
+                    "last": "Wheeler"
+                },
+                {
+                    "first": "Herbert Y.",
+                    "initial": "H.Y.",
+                    "last": "Gaisano"
+                },
+                {
+                    "first": "Robert G.",
+                    "initial": "R.G.",
+                    "last": "Tsushima"
+                }
+            ],
+            "doi": "10.1074/jbc.M314314200",
+            "firstpage": "24685",
+            "issn": "00219258",
+            "lastpage": "24691",
+            "pmid": "15073181",
+            "pub_year": 2004,
+            "title": "Disruption of pancreatic \u03b2-cell lipid rafts modifies Kv2.1 channel gating and insulin exocytosis",
+            "volume": "279"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 15384,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The underlying cause of this autoinflammation remains only partially elucidated, but it results in elevated levels of chemokines and cytokines.",
+            "startOffset": 15241,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18158,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Libraries were sequenced on an Illumina HiSeq 2000 using paired-end chemistry and 100-bp cycles to an average depth of 32 M read pairs/sample.",
+            "startOffset": 18016,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 18581,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Human islets were dispersed to single cell suspension using Accutase (Life Technology).",
+            "startOffset": 18494,
+            "title": "Flow cytometry of human islet cells"
+        },
+        {
+            "endOffset": 29698,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "One important aim of this study was to decipher the role of CD55 in insulin secretion.",
+            "startOffset": 29612,
+            "title": "CD55 is not functionally associated with the exocytotic machinery"
+        },
+        {
+            "endOffset": 15240,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In T2D it is the innate immune system that exhibits increased chronic activity.",
+            "startOffset": 15161,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31218,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 31217,
+                    "startOffset": 31213
+                }
+            },
+            "secId": "sec4.3",
+            "sentence": "A similar GPI-linked complement inhibitor CD59 is also proved to be important for raft stability [10].",
+            "startOffset": 31116,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 27772,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These cells also exhibited decreased raft staining intensity after CD55 silencing compared to the corresponding controls (n = 3, p < 0.01; Fig. 4D).",
+            "startOffset": 27624,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 21902,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The blocking solution containing 5% normal donkey serum in PBS was incubated with the cells for 15 min.",
+            "startOffset": 21799,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 20515,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "After 72 h of transfection with siRNA, INS1 832/13 cells were harvested by trypsinization and incubated with saturating amounts of anti-rat CD55 (Hycult), or isotype control antibodies in FACS binding buffer (150 mM NaCl, 10 mM HEPES pH 7.4, 5 mM KCl, 2 mM CaCl2, 0.5% BSA, 30 mM NaN3) for 30 min at 4 \u00b0C.",
+            "startOffset": 20210,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 21094,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "When assayed, the cells were washed in Krebs\u2013Ringer bicarbonate buffer, pH 7.4, supplemented with 10 mM HEPES, 0.1% BSA and preincubated in 2.8 mM glucose buffer for 120 min at 37 \u00b0C.",
+            "startOffset": 20911,
+            "title": "Insulin secretion"
+        },
+        {
+            "endOffset": 22786,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 22785,
+                    "startOffset": 22781
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "A recent publication has shown that CD55 is expressed in pancreatic human islets and also in Wistar and diabetic GK rat islets [10].",
+            "startOffset": 22654,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 28145,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The main finding of our study is that CD55 is a highly expressed gene in \u03b2 cells, which contributes to maintaining the structural architecture of the membrane rafts.",
+            "startOffset": 27980,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20910,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "INS1 832/13 cells were cultured in 24-well dishes and transfected with siRNA for 72 h before assay.",
+            "startOffset": 20811,
+            "title": "Insulin secretion"
+        },
+        {
+            "endOffset": 27157,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 27069,
+                    "startOffset": 27065
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Given our previous observation to the effect that CD59 is important for membrane raft stability in endocrine cells [10], we next investigated whether CD55 also has similar effects on membrane raft integrity.",
+            "startOffset": 26950,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 22044,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Primary antibodies against CD55 (Hycult Biotech) and Insulin (Europroxima) were diluted in blocking solution and incubated overnight at 4 \u00b0C.",
+            "startOffset": 21903,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 25242,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We next analysed insulin secretion in INS1 832/13 cells in response to 2.8 and 16.7 mM glucose after 72 h of CD55 knockdown (Fig. 3C).",
+            "startOffset": 25108,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 24956,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "QPCR showed that CD55 was efficiently down regulated on the mRNA level (Fig. 3A).",
+            "startOffset": 24875,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 23232,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The diabetic human islets (HbA1c > 6.0, n = 45) expressed higher levels of CD55 compared to the healthy control islets (HbA1c < 6.0, n = 86) (p < 0.05; Fig. 1B).",
+            "startOffset": 23071,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 22193,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Immunoreactivity was performed using fluorescently labeled secondary antibodies (1:400) and visualized by confocal microscopy (Carl Zeiss, Germany).",
+            "startOffset": 22045,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 27288,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 27236,
+                    "startOffset": 27232
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "To address this, we stained the raft component sphingomyelin with Atto-SM [16] in CD55 down regulated INS1 832/13 cells (Fig. 4A).",
+            "startOffset": 27158,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 24015,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "CD55 expression was upregulated in diabetic donors (nominal p-value: 0.0062; Fig. 2B) and was also positively correlated with HbA1c (p = 0.025; Fig. 2C).",
+            "startOffset": 23862,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 15661,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15660,
+                    "startOffset": 15653
+                },
+                "bib4": {
+                    "endOffset": 15660,
+                    "startOffset": 15653
+                },
+                "bib5": {
+                    "endOffset": 15660,
+                    "startOffset": 15653
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Activation of the innate immune system coupled with adipose tissue inflammation, as well as increased IL-1\u03b2 signaling in islets; both contribute to the pathogenesis of T2D [1,4,5].",
+            "startOffset": 15481,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23351,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Finally, human islets showed increased expression of CD55 response to glucose incubation (24 h, 18.9 mM glc; Fig. 1C).",
+            "startOffset": 23233,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 15480,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 15479,
+                    "startOffset": 15476
+                }
+            },
+            "secId": "sec1",
+            "sentence": "As a consequence, insulin signaling is impaired, which leads to overall insulin resistance [3].",
+            "startOffset": 15385,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26743,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 26742,
+                    "startOffset": 26738
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Pancreatic \u03b2 cells, as well as INS1 832/13 cells, express cholesterol and sphingolipid rich membrane rafts in the plasma membrane [10].",
+            "startOffset": 26608,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 29138,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "This discrepancy may either be explained by species differences, or if other pancreatic cells such as \u03b1 or \u03b4 cells are the main sources of increased CD55 expression in intact human islets.",
+            "startOffset": 28950,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 31591,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 31515,
+                    "startOffset": 31512
+                }
+            },
+            "secId": "sec4.4",
+            "sentence": "It has been shown that disruption of native integrity of membrane rafts influences the exocytotic capacity of insulin secreting \u03b2 cell ([9], manuscript in preparation) by regulating the embedded exocytotic proteins.",
+            "startOffset": 31376,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 31861,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "Silencing of CD59 on the other hand, which is also a complement inhibitor was found to decrease insulin secretion and was also found to compromise the membrane raft integrity.",
+            "startOffset": 31686,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 17355,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17354,
+                    "startOffset": 17350
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Furthermore, a recent study has deciphered the role of another GPI anchored complement inhibitor CD59 in regulation of membrane raft integrity and for insulin exocytosis [10].",
+            "startOffset": 17180,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31115,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "This clearly shows us that deregulation of one GPI protein in these highly conserved regions can cause deleterious effects to its native state of configuration.",
+            "startOffset": 30955,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 28527,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "The presence of CD55 in pancreatic islets and cells suggests that it plays an important role in protecting the cells from autologous complement attack.",
+            "startOffset": 28376,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 32180,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "However, the most likely explanation to the discrepancy in terms of effects on insulin secretion is the affinity of CD59 to the exocytotic SNARE proteins.",
+            "startOffset": 32026,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 24186,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Enseml (GrCh38, accession id ENSG00000196352) reports 9 transcripts/splice variants for CD55, 5 of which are robustly expressed (10 > FPKM) in pancreatic islets (Fig. 2D).",
+            "startOffset": 24015,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 15160,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 15159,
+                    "startOffset": 15156
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The immune system is classified into the adaptive and innate immune systems, which remain in tight cooperation [2].",
+            "startOffset": 15045,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22653,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "CD55 was the second most highly expressed gene (Fig. 1A).",
+            "startOffset": 22596,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 17728,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "RNA isolation from human islets was performed using the AllPrep DNA/RNA Mini kit (QIAGEN).",
+            "startOffset": 17638,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 16320,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Three important membrane bound inhibitors, CD46, CD55 and CD59 aid in regulating this complex pathway.",
+            "startOffset": 16218,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20193,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Primers of CD55 and housekeeping gene HPRT1 (Applied Biosystems, USA) tagged with FAM dyes were used for amplification detection.",
+            "startOffset": 20064,
+            "title": "Gene expression analysis"
+        },
+        {
+            "endOffset": 32704,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "Our results in Fig. S3, indicate that CD55 is not localized in the close proximity of the insulin granules and the exocytotic proteins, which argues against it being a regulator of insulin secretion, unlike CD59 which is co-localized with exocytotic proteins within the rafts.",
+            "startOffset": 32428,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 25107,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "CD55 was also down regulated by 50% at the protein level, as quantified by staining with specific antibodies and analysis by flow cytometry (Fig. 3B).",
+            "startOffset": 24957,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 27623,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Further, to check if this effect of CD55 knockdown on rafts holds true for other cell types, we performed the same experiment in epithelial A549 cells (Fig. 4C).",
+            "startOffset": 27462,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 32427,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 32426,
+                    "startOffset": 32422
+                }
+            },
+            "secId": "sec4.4",
+            "sentence": "The GPI anchor composition and also the localization of GPI linked proteins within the rafts in an important factor that decides their functional consequences [17].",
+            "startOffset": 32263,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 30830,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "Here we showed that silencing of CD55 significantly compromises the integrity of the membrane rafts.",
+            "startOffset": 30730,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 32935,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The authors declare no conflict of interest.",
+            "startOffset": 32891,
+            "title": "Conflict of interest"
+        },
+        {
+            "endOffset": 18673,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The dispersed islet cells were fixed and permeabilized before the flow cytometric analysis.",
+            "startOffset": 18582,
+            "title": "Flow cytometry of human islet cells"
+        },
+        {
+            "endOffset": 30653,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "These structures hold many GPI anchored proteins and also proteins necessary for insulin exocytotic events like SNAP-25 and syntaxin.",
+            "startOffset": 30520,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 18015,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Total RNA was extracted from 131 islet cadaver donors and RNA-seq libraries were generated using standard Illumina protocols (TruSeq RNA sample preparation kit).",
+            "startOffset": 17854,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 22595,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Among the 18 genes assayed, 16 genes were expressed above the background level.",
+            "startOffset": 22516,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 26949,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 26948,
+                    "startOffset": 26941
+                },
+                "bib15": {
+                    "endOffset": 26948,
+                    "startOffset": 26941
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "It is known that the GPI-linked CD55 protein is co-purified with membrane raft proteins in a variety of cells [14,15].",
+            "startOffset": 26831,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 29325,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "To determine the cellular origin of human islets CD55, the expression of CD55 was correlated with the proportion of \u03b1 and \u03b2 cells in 30 human islet samples as measured by flow cytometry.",
+            "startOffset": 29139,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 24738,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The primary physiological function of pancreatic \u03b2 cells is insulin secretion.",
+            "startOffset": 24660,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 21390,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Insulin from INS1 832/13 cells was measured by the Coat-a-Count RIA (Siemens Healthcare Diagnostics, Deerfield, IL).",
+            "startOffset": 21274,
+            "title": "Insulin secretion"
+        },
+        {
+            "endOffset": 17854,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The microarrays were performed following the Affymetrix standard protocol for Human Gene 1.0 ST whole transcript based assay.",
+            "startOffset": 17729,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 24605,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "One transcript (ENST00000367067) was shown to increase in relative transcript abundance in the total CD55 transcript pool in diabetic donors (Fig. 2E) as well as under high glucose condition (Fig. 2F), indicating an alternative-splicing event.",
+            "startOffset": 24362,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 26335,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "However, in human islets we observed a weak negative correlation between CD55 expression and glucose-stimulated insulin secretion (expressed as stimulation index; SI or fold change; Fig. 3D).",
+            "startOffset": 26144,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 16791,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 16790,
+                    "startOffset": 16787
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Many studies have shown that activation of complement may occur in diabetic patients and that cells treated with high glucose may trigger complement activation [8].",
+            "startOffset": 16627,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21273,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Insulin secretion was then induced by static incubation of the cells for 1 h in 1 ml buffer containing 2.8 or 16.7 mM glucose combined with 10 mM \u03b1-KIC or 35 mM K+, respectively.",
+            "startOffset": 21095,
+            "title": "Insulin secretion"
+        },
+        {
+            "endOffset": 19821,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "RNA was extracted using the RNeasy Kit (QIAGEN).",
+            "startOffset": 19773,
+            "title": "Gene expression analysis"
+        },
+        {
+            "endOffset": 21798,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Cells were first washed twice and fixed with 3% PFA in PBS for 5 min and 10 min respectively, followed by permeabilization with 0.1% Triton-X 100 for 30 min or not (Non-pearmeabilization).",
+            "startOffset": 21610,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 32262,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "Membrane rafts anchor many GPI linked proteins a well as the exocytotic proteins.",
+            "startOffset": 32181,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 17576,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 17448,
+                    "startOffset": 17444
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Interestingly, CD55 is also localized to the membrane rafts areas in a variety of cells [11] and therefore we here studied whether CD55 may play analogous roles in membrane rafts formation and pancreatic islet functions.",
+            "startOffset": 17356,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27879,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Collectively, these results show that CD55 is an important contributor to the integrity of membrane rafts.",
+            "startOffset": 27773,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 29857,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "This was of particular interest considering that GPI-linked CD59 was recently shown to interact with SNARE proteins and to be necessary for insulin secretion.",
+            "startOffset": 29699,
+            "title": "CD55 is not functionally associated with the exocytotic machinery"
+        },
+        {
+            "endOffset": 16457,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "CD55, also known as decay accelerating factor, is attached to the outer plasma membrane via a glycosylphosphatidylinositol (GPI) anchor.",
+            "startOffset": 16321,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18456,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 18454,
+                    "startOffset": 18450
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Isoform abundances were calculated using RSEM (version 1.2.18, [13]).",
+            "startOffset": 18387,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 27979,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study we have investigated the expression and role of CD55 in pancreatic \u03b2 cells.",
+            "startOffset": 27890,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29544,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "However, CD55 had a weak, negative correlation with both insulin and glucagon (\u22120.17 and \u22120.15 respectively, both p > 0.3; Fig. S2), indicating that CD55 is probably not specific to neither the \u03b1 cells nor the \u03b2 cells.",
+            "startOffset": 29326,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 26830,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 26829,
+                    "startOffset": 26826
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Many signaling and exocytotic proteins are localized to these specialized regions [9].",
+            "startOffset": 26744,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 30519,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "Membrane rafts are highly dynamic cholesterol and sphingolipid rich structures found in the plasma membrane of living cells.",
+            "startOffset": 30395,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 22329,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "During the analysis, all the images were captured using the same settings and exposure times to allow a comparison between the samples.",
+            "startOffset": 22194,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 22965,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Further, in the same study it was observed that expression of CD55 had a tendency for increase in the diabetic (GK) rat islets as compared to the healthy control (Wistar) islets.",
+            "startOffset": 22787,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 20791,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Cells were then washed once in FACS binding buffer and then resuspended in FACS binding buffer with 1:200 FITC-labeled goat anti-mouse Fab\u2019 fragments (DAKO) for 30 min at 4 \u00b0C, before washing again in FACS binding buffer and assessing fluorescence by flow cytometry (Partec).",
+            "startOffset": 20516,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 28327,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We also found that CD55 plays no major role in regulating the insulin exocytosis process in the \u03b2 cells, which is in sharp contrast to CD59, another GPI linked complement inhibitor.",
+            "startOffset": 28146,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18386,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Statistical inference for RNA-seq data was performed using the R-package \u2018limma\u2019.",
+            "startOffset": 18305,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 14796,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Insulin resistance develops as a result of excess caloric intake, sedentary life style or as a consequence of ageing, but normoglycemia is maintained as long as the \u03b2 cells are capable of secreting higher amounts of insulin in a biphasic manner.",
+            "startOffset": 14551,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14936,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14935,
+                    "startOffset": 14932
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This imposes an extra stress on the \u03b2 cells and individuals with an inherited reduced maximal capacity for insulin release develop T2D [1].",
+            "startOffset": 14797,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16217,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Complement provides efficient defence but it can also cause significant damage to the self-tissue, hence under physiological conditions it is a tightly controlled process.",
+            "startOffset": 16046,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25500,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We next explored whether CD55 down-regulation has any effect at other stages of the stimulus secretion-coupling pathway.",
+            "startOffset": 25380,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 19085,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Flow cytometry data were acquired on a CyAN ADP (Beckman Coulter) and analysed using FlowJo software (TreeStar, Ashland, OR, USA).",
+            "startOffset": 18955,
+            "title": "Flow cytometry of human islet cells"
+        },
+        {
+            "endOffset": 20063,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Reaction mixture (10 \u03bcl) with 50 ng cDNA, 5 \u03bcl TaqMan mastermix and 900 nM TaqMan gene expression assay were run on a 7900HT Fast Real-Time System (Applied Biosystem).",
+            "startOffset": 19896,
+            "title": "Gene expression analysis"
+        },
+        {
+            "endOffset": 25811,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To this end, we complemented the incubations in high glucose that assess the entire \u03b2 cell stimulus-secretion coupling (i.e. glucose transport, glycolysis, mitochondrial oxidation, initiation of electrical activity and finally, exocytosis) with incubations using the mitochondrial substrate \u03b1-KIC and 35 mM K+.",
+            "startOffset": 25501,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 32871,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "In conclusion, this study highlights the specific functions of CD59 and CD55 in the beta cell; pointing out that GPI linked proteins possess specific functionalities.",
+            "startOffset": 32705,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 26534,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 26499,
+                    "startOffset": 26495
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Taken together, these results fail to support a role for CD55 in the control of insulin secretion and point out an interesting dichotomy between CD55 and CD59 [10] as to their roles in this respect.",
+            "startOffset": 26336,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 28750,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "Pancreatic islets from diabetic human donors exhibited increased levels of CD55 mRNA, in comparison to the healthy control islets and incubation of human islets in high glucose resulted in increase of CD55 mRNA expression.",
+            "startOffset": 28528,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 23530,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These results clearly show that CD55 is expressed in the insulin secreting cells and islets, and indicate that the CD55 expression level may be changed under diabetic conditions.",
+            "startOffset": 23352,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 19609,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Human lung carcinoma epithelial A549 cells were cultured in DMEM containing 25 mM d-glucose supplemented with 10% FCS, 100 U/ml penicillin, 100 \u03bcg/ml streptomycin at 37 \u00b0C in a humidified atmosphere containing 95% air and 5% CO2.",
+            "startOffset": 19380,
+            "title": "Cell culture and siRNA transfection"
+        },
+        {
+            "endOffset": 19895,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "RNA (1 \u03bcg) was used for cDNA synthesis with SuperScript III (Invitrogen).",
+            "startOffset": 19822,
+            "title": "Gene expression analysis"
+        },
+        {
+            "endOffset": 26143,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "For all conditions tested, CD55 silencing exerted a modest, but insignificant, inhibition of insulin secretion.",
+            "startOffset": 26032,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 23070,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Interestingly, our microarray analysis showed a similar increase in pancreatic islets from human donors.",
+            "startOffset": 22966,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 15044,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Inflammatory processes are increasingly recognized as an important part of the pathogenesis of the disease.",
+            "startOffset": 14937,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24361,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "All five transcripts encode proteins that differ in length between 326 and 550 amino acids, differing primarily in expression of exon 5 and exon 10 and the length of the UTR.",
+            "startOffset": 24187,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 31685,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "On the contrary, we here show that CD55 knockdown does not influence the exocytotic capacity.",
+            "startOffset": 31592,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 25379,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Down-regulation of CD55 had no effect on either the basal or stimulated conditions as compared to inactive siRNA as control (siControl).",
+            "startOffset": 25243,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 27461,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Interestingly, we observed that the cells with CD55 knockdown exhibited decreased fluorescent intensity of Atto-SM when compared to the controls (n = 3, p < 0.05; Fig. 4B).",
+            "startOffset": 27289,
+            "title": "CD55 plays an important role in maintaining the membrane raft integrity"
+        },
+        {
+            "endOffset": 30729,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 30728,
+                    "startOffset": 30721
+                },
+                "bib15": {
+                    "endOffset": 30728,
+                    "startOffset": 30721
+                }
+            },
+            "secId": "sec4.3",
+            "sentence": "Earlier reports indicated that CD55 is localized to membrane rafts [14,15].",
+            "startOffset": 30654,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 17179,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 17178,
+                    "startOffset": 17175
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Membrane rafts are highly dynamic structures with a high degree of lateral mobility in the loosely ordered membrane glycerophospholipids and are enriched in signaling proteins, as well as exocytotic signaling protein such as SNARE protein [9].",
+            "startOffset": 16936,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14550,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Type 2 diabetes (T2D) is caused by interplay between increased insulin resistance in target tissues and failure of compensatory up-regulation of insulin secretion in the pancreatic islets.",
+            "startOffset": 14362,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24874,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To scrutinize if CD55 may play a role in insulin secretion, we down regulated CD55 expression in INS1 832/13 cells by RNA interference.",
+            "startOffset": 24739,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 21593,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "INS1 832/13 and A549 cells seeded on 35 mm glass-bottom dishes cultured were stained with Atto-SM (ATTO 647N- Sphingomyelin, 10 \u03bcM in HDMEM; ATTO-tec, Germany) for 20 min on ice.",
+            "startOffset": 21415,
+            "title": "Membrane raft staining"
+        },
+        {
+            "endOffset": 30352,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "This hypothesis is further supported by our immunostaining experiment, which shows that CD55 and insulin do not co-localize (Fig. S3).",
+            "startOffset": 30218,
+            "title": "CD55 is not functionally associated with the exocytotic machinery"
+        },
+        {
+            "endOffset": 15865,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The innate immune system comprising of cells such as macrophages, as well as soluble components such as the proteins of the complement system, acts as the first line of defence against invading pathogens.",
+            "startOffset": 15661,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16626,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 16625,
+                    "startOffset": 16620
+                },
+                "bib7": {
+                    "endOffset": 16625,
+                    "startOffset": 16620
+                }
+            },
+            "secId": "sec1",
+            "sentence": "CD55 inhibits complement activation accelerating decay of pre-formed C3 and C5 convertases, enzymatic complexes crucial for propagation of the complement cascade [6,7].",
+            "startOffset": 16458,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18954,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Levels of intracellular insulin and glucagon were measured using anti-insulin and anti-glucagon antibodies (R&D Systems), which were conjugated with R-phycoerythrin and allophycocyanin respectively by the Lightening- Link technology (Innova Bioscience, Cambridge, United Kingdom).",
+            "startOffset": 18674,
+            "title": "Flow cytometry of human islet cells"
+        },
+        {
+            "endOffset": 19746,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "CD55 siRNA (30 nM) was transiently transfected using Dharmafect (Dharmacon) according to the manufacturer's protocol in both cell types.",
+            "startOffset": 19610,
+            "title": "Cell culture and siRNA transfection"
+        },
+        {
+            "endOffset": 23746,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The mRNA expression profile (RNA sequencing) of CD55 was interrogated in a set of 131 human pancreatic islets sequenced as part of the Nordic Islet Transplantation Program/ExoDiab.",
+            "startOffset": 23566,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 30032,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "In contrast, CD55, despite being the second most highly expressed complement gene in INS1 821/13 cells, does not seem to be involved in the secretory function of these cells.",
+            "startOffset": 29858,
+            "title": "CD55 is not functionally associated with the exocytotic machinery"
+        },
+        {
+            "endOffset": 32025,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "The functional differences observed between these two proteins could be explained simply by the 10-fold lower expression of CD55 in \u03b2 cells, as compared with CD59.",
+            "startOffset": 31862,
+            "title": "Comparison of CD59 and CD55 actions in the \u03b2 cell"
+        },
+        {
+            "endOffset": 16045,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 16044,
+                    "startOffset": 16041
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Complement includes 30 membrane associated and plasma serum proteins, which together contribute to the removal of pathogens and damaged tissue via a complex cascade of events [2].",
+            "startOffset": 15866,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30217,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "This clearly indicates that the effect of CD59 is highly specific, a fact perhaps explained by the co-localization of CD59 with the exocytotic proteins, which may be lacking with CD55.",
+            "startOffset": 30033,
+            "title": "CD55 is not functionally associated with the exocytotic machinery"
+        },
+        {
+            "endOffset": 23861,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "CD55 was found to be highly expressed in human islets (higher expression than 90.4% of all RefSeq genes; Fig. 2A).",
+            "startOffset": 23747,
+            "title": "Gene expression profiling of CD55"
+        },
+        {
+            "endOffset": 22515,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The expression of the complement genes in insulin secreting rat INS1 832/13 cells was studied by qPCR.",
+            "startOffset": 22413,
+            "title": "Expression of complement genes in INS1 832/13 cells, human and rat islets"
+        },
+        {
+            "endOffset": 28949,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "On the converse, we observe that the expression of CD55 in insulin secreting INS1 832/13 cells remained unchanged or showed a slight tendency for an increase after culture in high glucose (Fig. S1).",
+            "startOffset": 28751,
+            "title": "CD55 expression in relation to glycemic status"
+        },
+        {
+            "endOffset": 19379,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "INS1 832/13 cells were cultured in RPMI 1640 containing 11.1 mM d-glucose supplemented with 10% fetal bovine serum, 100 U/ml penicillin, 100 \u03bcg/ml streptomycin, and 25 \u03bcM 2-mercaptoethanol, at 37 \u00b0C in a humidified atmosphere containing 95% air and 5% CO2.",
+            "startOffset": 19123,
+            "title": "Cell culture and siRNA transfection"
+        },
+        {
+            "endOffset": 26031,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "\u03b1-KIC enters the Krebs cycle directly, whereas K+ bypasses glucose metabolism completely and depolarizes the plasma membrane directly, resulting in activation of voltage gated Ca2+ channels that trigger insulin release.",
+            "startOffset": 25812,
+            "title": "Insulin secretion is unaffected by silencing of CD55"
+        },
+        {
+            "endOffset": 30954,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "This effect is not limited only to the pancreatic \u03b2 cells, as a similar observation is also made for A549 epithelial cells.",
+            "startOffset": 30831,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 18304,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 18215,
+                    "startOffset": 18211
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Reads were aligned to hg19 using STAR (version 2.4, [12]) and read count calculated by HTSeq-count and normalized using trimmed mean of M-values.",
+            "startOffset": 18159,
+            "title": "Microarray in human pancreatic islets"
+        },
+        {
+            "endOffset": 31324,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "Hence, we could conclude that both CD55 and CD59 are important for maintaining raft structural integrity.",
+            "startOffset": 31219,
+            "title": "CD55 controls membrane raft organization"
+        },
+        {
+            "endOffset": 16935,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Many signaling GPI anchored proteins are localized to cholesterol and sphingolipid rich patches of the plasma membrane known as membrane rafts.",
+            "startOffset": 16792,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0006291X15005082",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Vini",
+                "initial": "V.",
+                "last": "Nagaraj"
+            },
+            {
+                "email": null,
+                "first": "Ben",
+                "initial": "B.",
+                "last": "King"
+            },
+            {
+                "email": null,
+                "first": "Petter",
+                "initial": "P.",
+                "last": "Storm"
+            },
+            {
+                "email": null,
+                "first": "Petter",
+                "initial": "P.",
+                "last": "Vikman"
+            },
+            {
+                "email": null,
+                "first": "Emilia",
+                "initial": "E.",
+                "last": "Ottosson-Laakso"
+            },
+            {
+                "email": null,
+                "first": "Anna M.",
+                "initial": "A.M.",
+                "last": "Blom"
+            },
+            {
+                "email": "erik.renstrom@med.lu.se",
+                "first": "Erik",
+                "initial": "E.",
+                "last": "Renstr\u00f6m"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.03.062",
+        "firstpage": "518",
+        "issn": "0006291X",
+        "keywords": [
+            "CD55",
+            "Complement inhibitors",
+            "Insulin secretion",
+            "Membrane rafts"
+        ],
+        "lastpage": "524",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Complement inhibitor CD55 governs the integrity of membrane rafts in pancreatic beta cells, but plays no role in insulin secretion"
+    }
+}

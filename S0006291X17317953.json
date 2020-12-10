@@ -1,0 +1,2471 @@
+{
+    "abstract": "In a previous study, we generated transmitochondrial P29mtSAMP1 cybrids, which had nuclear DNA from the C57BL6 (referred to as B6) mouse strain-derived P29 tumor cells and mitochondrial DNA (mtDNA) exogenously-transferred from the allogeneic strain SAMP1. Because P29mtSAMP1 cybrids did not form tumors in syngeneic B6 mice, we proposed that allogeneic SAMP1 mtDNA suppressed tumor formation of P29mtSAMP1 cybrids. To test this hypothesis, current study generated P29mt(sp)B6 cybrids carrying all genomes (nuclear DNA and mtDNA) from syngeneic B6 mice by eliminating SAMP1 mtDNA from P29mtSAMP1 cybrids and reintroducing B6 mtDNA. However, the P29mt(sp)B6 cybrids did not form tumors in B6 mice, even though they had no SAMP1 mtDNA, suggesting that SAMP1 mtDNA is not involved in tumor suppression. Then, we examined another possibility of whether SAMP1 mtDNA fragments potentially integrated into the nuclear DNA of P29mtSAMP1 cybrids are responsible for tumor suppression. We generated P29H(sp)B6 cybrids by eliminating nuclear DNA from P29mt(sp)B6 cybrids and reintroducing nuclear DNA with no integrated SAMP1 mtDNA fragment from mtDNA-less P29 cells resistant to hygromycin in selection medium containing hygromycin. However, the P29H(sp)B6 cybrids did not form tumors in B6 mice, even though they carried neither SAMP1 mtDNA nor nuclear DNA with integrated SAMP1 mtDNA fragments. Moreover, overproduction of reactive oxygen species (ROS) and bacterial infection were not involved in tumor suppression. These observations suggest that tumor suppression was caused not by mtDNA with polymorphic mutations or infection of cytozoic bacteria but by hypothetical heritable cytoplasmic elements other than mtDNA from SAMP1 mice.",
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Nils G\u00f6ran",
+                    "initial": "N.G.",
+                    "last": "Larsson"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Clayton"
+                }
+            ],
+            "doi": "10.1146/annurev.ge.29.120195.001055",
+            "firstpage": "151",
+            "issn": "00664197",
+            "lastpage": "178",
+            "pmid": "8825472",
+            "pub_year": 1995,
+            "title": "Molecular genetic aspects of human mitochondrial disorders",
+            "volume": "29"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "J. I.",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Ohta"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Kagawa"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Kondo"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Kaneda"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Yonekawa"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Takai"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Miyabayashi"
+                }
+            ],
+            "firstpage": "6878",
+            "issn": "00219258",
+            "lastpage": "6883",
+            "pmid": "8120050",
+            "pub_year": 1994,
+            "title": "Nuclear but not mitochondrial genome involvement in human age-related mitochondrial dysfunction. Functional integrity of mitochondrial DNA from aged subjects",
+            "volume": "269"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Kotoyo",
+                    "initial": "K.",
+                    "last": "Isobe"
+                },
+                {
+                    "first": "Sayaka",
+                    "initial": "S.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Hideka",
+                    "initial": "H.",
+                    "last": "Hosaka"
+                },
+                {
+                    "first": "Yukio",
+                    "initial": "Y.",
+                    "last": "Iwamura"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Kondo"
+                },
+                {
+                    "first": "Yasuo",
+                    "initial": "Y.",
+                    "last": "Kagawa"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1074/jbc.273.8.4601",
+            "firstpage": "4601",
+            "issn": "00219258",
+            "lastpage": "4606",
+            "pmid": "9468517",
+            "pub_year": 1998,
+            "title": "Nuclear-recessive mutations of factors involved in mitochondrial translation are responsible for age-related respiration deficiency of human skin fibroblasts",
+            "volume": "273"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Osamu",
+                    "initial": "O.",
+                    "last": "Hashizume"
+                },
+                {
+                    "first": "Sakiko",
+                    "initial": "S.",
+                    "last": "Ohnishi"
+                },
+                {
+                    "first": "Takayuki",
+                    "initial": "T.",
+                    "last": "Mito"
+                },
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Shimizu"
+                },
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Iashikawa"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Manabu",
+                    "initial": "M.",
+                    "last": "Soda"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Mano"
+                },
+                {
+                    "first": "Sumie",
+                    "initial": "S.",
+                    "last": "Togayachi"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Miyoshi"
+                },
+                {
+                    "first": "Keisuke",
+                    "initial": "K.",
+                    "last": "Okita"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1038/srep10434",
+            "issn": "20452322",
+            "pmid": "26000717",
+            "pub_year": 2015,
+            "title": "Epigenetic regulation of the nuclear-coded GCAT and SHMT2 genes confers human age-associated mitochondrial respiration defects",
+            "volume": "5"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Osamu",
+                    "initial": "O.",
+                    "last": "Hashizume"
+                },
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Shimizu"
+                }
+            ],
+            "doi": "10.1016/j.gde.2016.03.004",
+            "firstpage": "63",
+            "issn": "0959437X",
+            "lastpage": "67",
+            "pmid": "27078865",
+            "pub_year": 2016,
+            "title": "Mutations in mitochondrial DNA regulate mitochondrial diseases and metastasis but do not regulate aging",
+            "volume": "38"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Akimoto"
+                },
+                {
+                    "first": "Nobuko",
+                    "initial": "N.",
+                    "last": "Koshikawa"
+                },
+                {
+                    "first": "Aya",
+                    "initial": "A.",
+                    "last": "Yamaguchi"
+                },
+                {
+                    "first": "Hirotake",
+                    "initial": "H.",
+                    "last": "Imanishi"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Yoshio",
+                    "initial": "Y.",
+                    "last": "Honma"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1126/science.1156906",
+            "firstpage": "661",
+            "issn": "00368075",
+            "lastpage": "664",
+            "pmid": "18388260",
+            "pub_year": 2008,
+            "title": "ROS-generating mitochondrial DNA mutations can regulate tumor cell metastasis",
+            "volume": "320"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Osamu",
+                    "initial": "O.",
+                    "last": "Hashizume"
+                },
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Shimizu"
+                },
+                {
+                    "first": "Mutsumi",
+                    "initial": "M.",
+                    "last": "Yokota"
+                },
+                {
+                    "first": "Atsuko",
+                    "initial": "A.",
+                    "last": "Sugiyama"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Miyoshi"
+                },
+                {
+                    "first": "Makiko",
+                    "initial": "M.",
+                    "last": "Itami"
+                },
+                {
+                    "first": "Miki",
+                    "initial": "M.",
+                    "last": "Ohira"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Nagase"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1073/pnas.1202367109",
+            "firstpage": "10528",
+            "issn": "00278424",
+            "lastpage": "10533",
+            "pmid": "22689997",
+            "pub_year": 2012,
+            "title": "Specific mitochondrial DNA mutation in mice regulates diabetes and lymphoma development",
+            "volume": "109"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Raquel",
+                    "initial": "R.",
+                    "last": "Moreno-Loshuertos"
+                },
+                {
+                    "first": "Rebeca",
+                    "initial": "R.",
+                    "last": "Ac\u00edn-P\u00e9rez"
+                },
+                {
+                    "first": "Patricio",
+                    "initial": "P.",
+                    "last": "Fern\u00e1ndez-Silva"
+                },
+                {
+                    "first": "Nieves",
+                    "initial": "N.",
+                    "last": "Movilla"
+                },
+                {
+                    "first": "Acisclo",
+                    "initial": "A.",
+                    "last": "P\u00e9rez-Martos"
+                },
+                {
+                    "first": "Santiago Rodriguez",
+                    "initial": "S.R.",
+                    "last": "De Cordoba"
+                },
+                {
+                    "first": "M. Esther",
+                    "initial": "M.E.",
+                    "last": "Gallardo"
+                },
+                {
+                    "first": "Jos\u00e9 Antonio",
+                    "initial": "J.A.",
+                    "last": "Enr\u00edquez"
+                }
+            ],
+            "doi": "10.1038/ng1897",
+            "firstpage": "1261",
+            "issn": "10614036",
+            "lastpage": "1268",
+            "pmid": "17013393",
+            "pub_year": 2006,
+            "title": "Differences in reactive oxygen species production explain the phenotypes associated with common mouse mitochondrial DNA variants",
+            "volume": "38"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Bruce",
+                    "initial": "B.",
+                    "last": "Loveland"
+                },
+                {
+                    "first": "Chyung Ru",
+                    "initial": "C.R.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Hiromichi",
+                    "initial": "H.",
+                    "last": "Yonekawa"
+                },
+                {
+                    "first": "Evan",
+                    "initial": "E.",
+                    "last": "Hermel"
+                },
+                {
+                    "first": "Kirsten Fischer",
+                    "initial": "K.F.",
+                    "last": "Lindahl"
+                }
+            ],
+            "doi": "10.1016/0092-8674(90)90345-F",
+            "firstpage": "971",
+            "issn": "00928674",
+            "lastpage": "980",
+            "pmid": "2317868",
+            "pub_year": 1990,
+            "title": "Maternally transmitted histocompatibility antigen of mice: A hydrophobic peptide of a mitochondrially encoded protein",
+            "volume": "60"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Toyama-Sorimachi"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Mami",
+                    "initial": "M.",
+                    "last": "Morimoto"
+                },
+                {
+                    "first": "Hirotake",
+                    "initial": "H.",
+                    "last": "Imanishi"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Yoshizaki"
+                },
+                {
+                    "first": "Shigemi",
+                    "initial": "S.",
+                    "last": "Sasawatari"
+                },
+                {
+                    "first": "Mamoru",
+                    "initial": "M.",
+                    "last": "Niikura"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Hiromichi",
+                    "initial": "H.",
+                    "last": "Yonekawa"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1084/jem.20092296",
+            "firstpage": "2297",
+            "issn": "00221007",
+            "lastpage": "2305",
+            "pmid": "20937705",
+            "pub_year": 2010,
+            "title": "The innate immune system in host mice targets cells with allogenic mitochondrial DNA",
+            "volume": "207"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Gaku",
+                    "initial": "G.",
+                    "last": "Takibuchi"
+                },
+                {
+                    "first": "Hirotake",
+                    "initial": "H.",
+                    "last": "Imanishi"
+                },
+                {
+                    "first": "Mami",
+                    "initial": "M.",
+                    "last": "Morimoto"
+                },
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Toyama-Sorimachi"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Kikkawa"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1016/j.mito.2013.07.117",
+            "firstpage": "881",
+            "issn": "15677249",
+            "lastpage": "887",
+            "pmid": "23932994",
+            "pub_year": 2013,
+            "title": "Polymorphic mutations in mouse mitochondrial DNA regulate a tumor phenotype",
+            "volume": "13"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Douglas C.",
+                    "initial": "D.C.",
+                    "last": "Wallace"
+                }
+            ],
+            "doi": "10.1126/science.283.5407.1482",
+            "firstpage": "1482",
+            "issn": "00368075",
+            "lastpage": "1488",
+            "pmid": "10066162",
+            "pub_year": 1999,
+            "title": "Mitochondrial diseases in man and mouse",
+            "volume": "283"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Hirotake",
+                    "initial": "H.",
+                    "last": "Imanishi"
+                },
+                {
+                    "first": "Gaku",
+                    "initial": "G.",
+                    "last": "Takibuchi"
+                },
+                {
+                    "first": "Toshihiko",
+                    "initial": "T.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Mori"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Kikkawa"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Toyama-Sorimachi"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0075981",
+            "issn": "19326203",
+            "pmid": "24098752",
+            "pub_year": 2013,
+            "title": "Specific mtDNA Mutations in Mouse Carcinoma Cells Suppress Their Tumor Formation via Activation of the Host Innate Immune System",
+            "volume": "8"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Yohko",
+                    "initial": "Y.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Shigeru",
+                    "initial": "S.",
+                    "last": "Sakiyama"
+                }
+            ],
+            "doi": "10.1038/sj.onc.1200820",
+            "firstpage": "331",
+            "issn": "09509232",
+            "lastpage": "337",
+            "pmid": "9018119",
+            "pub_year": 1997,
+            "title": "Expression of antisense RNA to S100A4 gene encoding an S100-related calcium-binding protein suppresses metastatic potential of high-metastatic Lewis lung carcinoma cells",
+            "volume": "14"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Kimiko",
+                    "initial": "K.",
+                    "last": "Inoue"
+                },
+                {
+                    "first": "Sayaka",
+                    "initial": "S.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Daisaku",
+                    "initial": "D.",
+                    "last": "Takai"
+                },
+                {
+                    "first": "Aki",
+                    "initial": "A.",
+                    "last": "Soejima"
+                },
+                {
+                    "first": "Hayase",
+                    "initial": "H.",
+                    "last": "Shisa"
+                },
+                {
+                    "first": "Jean Bernard",
+                    "initial": "J.B.",
+                    "last": "LePecq"
+                },
+                {
+                    "first": "Evelyne",
+                    "initial": "E.",
+                    "last": "Segal-Bendirdjian"
+                },
+                {
+                    "first": "Yasuo",
+                    "initial": "Y.",
+                    "last": "Kagawa"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1074/jbc.272.24.15510",
+            "firstpage": "15510",
+            "issn": "00219258",
+            "lastpage": "15515",
+            "pmid": "9182585",
+            "pub_year": 1997,
+            "title": "Isolation of mitochondrial DNA-less mouse cell lines and their application for trapping mouse synaptosomal mitochondrial DNA with deletion mutations",
+            "volume": "272"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Einat",
+                    "initial": "E.",
+                    "last": "Hazkani-Covo"
+                },
+                {
+                    "first": "Raymond M.",
+                    "initial": "R.M.",
+                    "last": "Zeller"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Martin"
+                }
+            ],
+            "doi": "10.1371/journal.pgen.1000834",
+            "issn": "15537390",
+            "pmid": "20168995",
+            "pub_year": 2010,
+            "title": "Molecular poltergeists: Mitochondrial DNA copies (numts) in sequenced nuclear genomes",
+            "volume": "6"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Junko",
+                    "initial": "J.",
+                    "last": "Tsuji"
+                },
+                {
+                    "first": "Martin C.",
+                    "initial": "M.C.",
+                    "last": "Frith"
+                },
+                {
+                    "first": "Kentaro",
+                    "initial": "K.",
+                    "last": "Tomii"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Horton"
+                }
+            ],
+            "doi": "10.1093/nar/gks424",
+            "firstpage": "9073",
+            "issn": "03051048",
+            "lastpage": "9088",
+            "pmid": "22761406",
+            "pub_year": 2012,
+            "title": "Mammalian NUMT insertion is non-random",
+            "volume": "40"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Simran S.",
+                    "initial": "S.S.",
+                    "last": "Sabharwal"
+                },
+                {
+                    "first": "Paul T.",
+                    "initial": "P.T.",
+                    "last": "Schumacker"
+                }
+            ],
+            "doi": "10.1038/nrc3803",
+            "firstpage": "709",
+            "issn": "1474175X",
+            "lastpage": "721",
+            "pmid": "25342630",
+            "pub_year": 2014,
+            "title": "Mitochondrial ROS in cancer: Initiators, amplifiers or an Achilles' heel?",
+            "volume": "14"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Christine A.",
+                    "initial": "C.A.",
+                    "last": "Kozak"
+                }
+            ],
+            "doi": "10.3390/v7010001",
+            "firstpage": "1",
+            "issn": "19994915",
+            "lastpage": "26",
+            "pmid": "25549291",
+            "pub_year": 2015,
+            "title": "Origins of the endogenous and infectious laboratory mouse gammaretroviruses",
+            "volume": "7"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Robert W.",
+                    "initial": "R.W.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Doug M.",
+                    "initial": "D.M.",
+                    "last": "Turnbull"
+                }
+            ],
+            "doi": "10.1038/nrg1606",
+            "firstpage": "389",
+            "issn": "14710056",
+            "lastpage": "402",
+            "pmid": "15861210",
+            "pub_year": 2005,
+            "title": "Mitochondrial DNA mutations in human disease",
+            "volume": "6"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Shigeo",
+                    "initial": "S.",
+                    "last": "Ohta"
+                },
+                {
+                    "first": "Aiko",
+                    "initial": "A.",
+                    "last": "Kikuchi"
+                },
+                {
+                    "first": "Masakazu",
+                    "initial": "M.",
+                    "last": "Takemitsu"
+                },
+                {
+                    "first": "Yu Ichi",
+                    "initial": "Y.I.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Ikuya",
+                    "initial": "I.",
+                    "last": "Nonaka"
+                }
+            ],
+            "doi": "10.1073/pnas.88.23.10614",
+            "firstpage": "10614",
+            "issn": "00278424",
+            "lastpage": "10618",
+            "pmid": "1720544",
+            "pub_year": 1991,
+            "title": "Introduction of disease-related mitochondrial DNA deletions into HeLa cells lacking mitochondrial DNA results in mitochondrial dysfunction",
+            "volume": "88"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Kimiko",
+                    "initial": "K.",
+                    "last": "Inoue"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Atsuo",
+                    "initial": "A.",
+                    "last": "Ogura"
+                },
+                {
+                    "first": "Kotoyo",
+                    "initial": "K.",
+                    "last": "Isobe"
+                },
+                {
+                    "first": "Yu Ichi",
+                    "initial": "Y.I.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Ikuya",
+                    "initial": "I.",
+                    "last": "Nonaka"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1038/82826",
+            "firstpage": "176",
+            "issn": "10614036",
+            "lastpage": "181",
+            "pmid": "11017072",
+            "pub_year": 2000,
+            "title": "Generation of mice with mitochondrial dysfunction by introducing mouse mtDNA carrying a deletion into zygotes",
+            "volume": "26"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Akinori",
+                    "initial": "A.",
+                    "last": "Shimizu"
+                },
+                {
+                    "first": "Takayuki",
+                    "initial": "T.",
+                    "last": "Mito"
+                },
+                {
+                    "first": "Chisato",
+                    "initial": "C.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Emi",
+                    "initial": "E.",
+                    "last": "Ogasawara"
+                },
+                {
+                    "first": "Ryusuke",
+                    "initial": "R.",
+                    "last": "Koba"
+                },
+                {
+                    "first": "Issei",
+                    "initial": "I.",
+                    "last": "Negishi"
+                },
+                {
+                    "first": "Keizo",
+                    "initial": "K.",
+                    "last": "Takenaga"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Nakada"
+                },
+                {
+                    "first": "Jun Ichi",
+                    "initial": "J.I.",
+                    "last": "Hayashi"
+                }
+            ],
+            "doi": "10.1073/pnas.1318109111",
+            "firstpage": "3104",
+            "issn": "00278424",
+            "lastpage": "3109",
+            "pmid": "24510903",
+            "pub_year": 2014,
+            "title": "Transmitochondrial mice as models for primary prevention of diseases caused by mutation in the tRNALys gene",
+            "volume": "111"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Howard T.",
+                    "initial": "H.T.",
+                    "last": "Jacobs"
+                }
+            ],
+            "doi": "10.1046/j.1474-9728.2003.00032.x",
+            "firstpage": "11",
+            "issn": "14749718",
+            "lastpage": "17",
+            "pmid": "12882330",
+            "pub_year": 2003,
+            "title": "The mitochondrial theory of aging: dead or alive?",
+            "volume": "2"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Konstantin",
+                    "initial": "K.",
+                    "last": "Khrapko"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Vijg"
+                }
+            ],
+            "doi": "10.1016/j.tig.2008.11.007",
+            "firstpage": "91",
+            "issn": "01689525",
+            "lastpage": "98",
+            "pmid": "19110336",
+            "pub_year": 2009,
+            "title": "Mitochondrial DNA mutations and aging: devils in the details?",
+            "volume": "25"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Willem H.",
+                    "initial": "W.H.",
+                    "last": "Koppenol"
+                },
+                {
+                    "first": "Patricia L.",
+                    "initial": "P.L.",
+                    "last": "Bounds"
+                },
+                {
+                    "first": "Chi V.",
+                    "initial": "C.V.",
+                    "last": "Dang"
+                }
+            ],
+            "doi": "10.1038/nrc3038",
+            "firstpage": "325",
+            "issn": "1474175X",
+            "lastpage": "337",
+            "pmid": "21508971",
+            "pub_year": 2011,
+            "title": "Otto Warburg's contributions to current concepts of cancer metabolism",
+            "volume": "11"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 18666,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 18500,
+                    "startOffset": 18496
+                },
+                "bib22": {
+                    "endOffset": 18600,
+                    "startOffset": 18596
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "To obtain \u03c10 P29mt(b6) cells and \u03c10 P29mt(sp) cells, P29mtB6 and P29mtSAMP1cybrids [20], respectively, were treated with 1.5 mg/ml ditercalinium, an antitumor bis-intercalating agent [22], for 1 week, and mtDNA elimination was confirmed by PCR analysis.",
+            "startOffset": 18413,
+            "title": "Isolation of \u03c10 P29mt(b6) cells, \u03c10 P29mt(sp) cells, and \u03c10 P29H cells"
+        },
+        {
+            "endOffset": 30433,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We also excluded involvement of cytozoic bacteria derived from SAMP1 mice as heritable cytoplasmic elements other than mtDNA in tumor suppression (Table 3).",
+            "startOffset": 30277,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20873,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Briefly, cells were mildly trypsinized and suspended in PBS (1 \u00d7 105 cells/ml).",
+            "startOffset": 20794,
+            "title": "Measurement of mitochondrial ROS"
+        },
+        {
+            "endOffset": 27003,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "P29Hmt(sp)B6 cybrids did not form tumors, whereas P29Hmt(b6)B6 cybrids developed into tumors (Fig. 2C), even though both cybrids harbored B6-derived nuclear DNA and B6-derived mtDNA (Fig. S1B).",
+            "startOffset": 26810,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 20237,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "SAMP1 mtDNA has an EagI restriction site (EagI cleavage produces 115-bp and 79-bp fragments), whereas B6 mtDNA has no EagI site and generates a 194-bp fragment.",
+            "startOffset": 20077,
+            "title": "Genotyping of B6 mtDNA and Hyg-R nuclear DNA in the cybrids"
+        },
+        {
+            "endOffset": 20076,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Briefly, a 194-bp fragment containing the 11181 site was amplified by PCR with the primers AAC AAT ACT AAT AAT CGC ACA TGG (nucleotide positions: 11,102\u201311,125) and CTA TTA GAT TGA TTG AAG GGG GTA (11,295\u201311,272).",
+            "startOffset": 19863,
+            "title": "Genotyping of B6 mtDNA and Hyg-R nuclear DNA in the cybrids"
+        },
+        {
+            "endOffset": 25505,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We examined this possibility by replacing the nuclear DNA of P29mt(sp)B6 cybrids with nuclear DNA that does not contain SAMP1 mtDNA\u2013derived NUMTs (Table 2, Fig. S1B).",
+            "startOffset": 25339,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 22139,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Total genomic DNA was extracted from each cybrid line with a Gentra Puregene Cell Kit (Qiagen, Hilden, Germany) and used in PCR with Takara Ex Taq (Takara Bio, Shiga, Japan) and a primer pair designed to amplify 16S rRNA gene fragments from diverse bacterial phyla.",
+            "startOffset": 21874,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 21399,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 21398,
+                    "startOffset": 21394
+                }
+            },
+            "secId": "sec2.7",
+            "sentence": "The growth of tumors was monitored assuming their spherical shape [20].",
+            "startOffset": 21328,
+            "title": "Assays of tumor formation"
+        },
+        {
+            "endOffset": 28727,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we replaced SAMP1 mtDNA in P29mtSAMP1 cybrids with B6 mtDNA (Fig. S1A), and showed that the resultant P29mt(sp)B6 cybrids did not regain tumor formation in B6 mice (Fig. S2).",
+            "startOffset": 28538,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21527,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "When a tumor mass was visually detectable, its maximum (a) and minimum (b) diameters and height (h) were recorded every 5 days.",
+            "startOffset": 21400,
+            "title": "Assays of tumor formation"
+        },
+        {
+            "endOffset": 17722,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All animal experiments were performed in accordance with protocols approved by the Institutional Animal Care and Use Committee of University of Tsukuba, Japan (Permit Number: 15314).",
+            "startOffset": 17540,
+            "title": "Ethics statement"
+        },
+        {
+            "endOffset": 27164,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Because nuclear donors (\u03c10 P29H cells) had nuclear DNA without NUMTs derived from SAMP1 mtDNA, we concluded that tumor suppression was not caused by such NUMTs.",
+            "startOffset": 27004,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 30569,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, some cytozoic bacteria that could not be detected by our procedure might be present and responsible for the tumor suppression.",
+            "startOffset": 30434,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28527,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Overall, the results of our current study suggest that heritable cytoplasmic elements other than mtDNA and bacteria from SAMP1 mice are responsible for tumor suppression in B6 mice (Fig. S2).",
+            "startOffset": 28336,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 31213,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although mammalian cells are known to possess no heritable cytoplasmic elements other than mtDNA, our current study warrants further examination of whether some cytozoic bacteria or endogenous retroviruses derived from SAMP1 mice function as such elements.",
+            "startOffset": 30957,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21327,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Tumor formation was examined by subcutaneous inoculation of 5 \u00d7 106 cells in 100 \u03bcl PBS into the back of 6-week\u2013old male B6 mice, which were obtained from CLEA (Tokyo, Japan).",
+            "startOffset": 21152,
+            "title": "Assays of tumor formation"
+        },
+        {
+            "endOffset": 30956,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 30955,
+                    "startOffset": 30951
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In fact, mouse strains contain various endogenous retroviruses in their nuclear DNA, and some of them are infectious [26].",
+            "startOffset": 30834,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26169,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "A colony that grew in the selection medium was clonally isolated and named P29Hmt(sp)B6 cybrids (Table 2, Fig. S1B).",
+            "startOffset": 26053,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 31421,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Wrote the paper: J-IH.",
+            "startOffset": 31399,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 23973,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To introduce B6 mtDNA, we fused \u03c10 P29mt(sp) cells with platelets from B6 mice and isolated new transmitochondrial P29mt(sp)B6 cybrids (Table 1).",
+            "startOffset": 23828,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 31288,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Conceived and designed the experiments: AS, HT GT J-IH.",
+            "startOffset": 31233,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 21680,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The recipient mice were euthanized by cervical dislocation when the tumor volume reached 500 mm3.",
+            "startOffset": 21583,
+            "title": "Assays of tumor formation"
+        },
+        {
+            "endOffset": 27373,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 27372,
+                    "startOffset": 27368
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Previously we found a slight increase in the amounts of ROS (superoxide) in P29mtSAMP1 cybrids compared to P29mtB6 cybrids [20].",
+            "startOffset": 27245,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 28260,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "BLAST searches showed that all seven sequenced PCR products were derived from the mouse nuclear genome, not from bacterial genomes (Table 3).",
+            "startOffset": 28119,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 17968,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 17914,
+                    "startOffset": 17911
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Transmitochondrial cybrids (P29mtB6 and P29mtSAMP1) were established in our previous study [20; Fig. S1A] by isolation of mtDNA-less (\u03c10) P29 cells.",
+            "startOffset": 17820,
+            "title": "Cell lines and cell culture"
+        },
+        {
+            "endOffset": 27598,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In this study, we found no statistically significant difference in the amounts of ROS between P29Hmt(b6)B6 and P29Hmt(sp)B6 cybrids (Fig. 3), even though tumor formation only by P29Hmt(sp)B6 cybrids was suppressed (Fig. 2C).",
+            "startOffset": 27374,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 31398,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Helped with the design and coordination of the study: TH KN KT.",
+            "startOffset": 31335,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 31334,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Performed the experiments: AS HT GT KI RS TI.",
+            "startOffset": 31289,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 29826,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, current study showed that tumor suppression was still observed in P29mt(sp)B6 cybrids even in the absence of SAMP1 mtDNA (Fig. 1B).",
+            "startOffset": 29686,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22740,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The purified DNA fragments were cloned into the pGEM vector using the TA cloning reaction in a LigaFas Rapid DNA Ligation System (Promega, Fitchburg, WI, USA).",
+            "startOffset": 22581,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 29077,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Then, we replaced nuclear DNA in P29mt(sp)B6 cybrids with that from \u03c10 P29H cells, which did not contain NUMTs derived from SAMP1 mtDNA (Fig. S1B), and showed that the resultant P29Hmt(sp)B6 cybrids still did not regain tumor formation in B6 mice (Fig. S2).",
+            "startOffset": 28820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25176,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 25004,
+                    "startOffset": 24997
+                },
+                "bib24": {
+                    "endOffset": 25004,
+                    "startOffset": 24997
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Another possibility is that nuclear DNA in P29mtSAMP1 cybrids acquired integrated SAMP1 mtDNA fragments (nuclear mtDNA sequences, NUMTs) [23,24] during cultivation, and that the products of NUMTs are translocated onto the cell surface, where they are recognized by B6 innate immune cells to suppress tumor formation.",
+            "startOffset": 24860,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 21053,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The cells were then incubated with 5 \u03bcM MitoSOX-Red for 15 min at 37 \u00b0C in PBS, washed twice with PBS, and analyzed with a FACS calibur (Becton Dickinson, Mountain View, CA, USA).",
+            "startOffset": 20874,
+            "title": "Measurement of mitochondrial ROS"
+        },
+        {
+            "endOffset": 23157,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "All experiments were conducted at least three times.",
+            "startOffset": 23105,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25339,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In this case, SAMP1 mtDNA\u2013derived NUMTs could be transferred via \u03c10 P29mt(sp) cells into P29mt(sp)B6 cybrids (Fig. S1A), resulting in tumor suppression (Fig. 1B).",
+            "startOffset": 25177,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 26052,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Then, we fused \u03c10 P29H cells with enucleated P29mt(sp)B6 cybrids and used selection medium with hygromycin and without uridine and pyruvate to eliminate unenucleated P29mt(sp)B6 cybrids and unfused \u03c10 P29H cells, respectively.",
+            "startOffset": 25826,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 16898,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 16897,
+                    "startOffset": 16890
+                },
+                "bib20": {
+                    "endOffset": 16897,
+                    "startOffset": 16890
+                }
+            },
+            "secId": "sec1",
+            "sentence": "On the basis of these observations, we have proposed that the innate immune system recognizes polymorphic mutations in mtDNA from NZB and SAMP1 mice but not from C3H mice [18,20].",
+            "startOffset": 16719,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25638,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 25637,
+                    "startOffset": 25633
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "As nuclear donors without SAMP1 mtDNA\u2013derived NUMTs, we used mtDNA-less P29 cells (\u03c10 P29 cells), which we isolated previously [11].",
+            "startOffset": 25506,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 21873,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "To examine whether transmitochondrial cybrids might be infected with bacteria, we used PCR to detect bacterial 16S rRNA genes.",
+            "startOffset": 21747,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 26809,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To examine tumor formation by P29Hmt(b6)B6 and P29Hmt(sp)B6 cybrids, we inoculated them under the skin of B6 mice.",
+            "startOffset": 26695,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 18924,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 18753,
+                    "startOffset": 18749
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "To obtain hygromycin-resistant (Hyg-R) \u03c10 P29 cells (\u03c10 P29H cells), \u03c10 P29 cells [20] were transfected with a Hyg-R plasmid (pTK-Hyg Vector; Clontech Laboratories, Mountain View CA, USA) and cultivated in the presence of hygromycin (200 \u03bcg/ml) for 2 weeks.",
+            "startOffset": 18667,
+            "title": "Isolation of \u03c10 P29mt(b6) cells, \u03c10 P29mt(sp) cells, and \u03c10 P29H cells"
+        },
+        {
+            "endOffset": 15723,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 15722,
+                    "startOffset": 15715
+                },
+                "bib15": {
+                    "endOffset": 15722,
+                    "startOffset": 15715
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This concept has been supported by our previous findings that mouse mtDNA with a pathogenic mutation that simultaneously induces respiration defects and ROS overproduction functions as a tumor enhancer [14,15].",
+            "startOffset": 15513,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31458,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "All authors reviewed the manuscript.",
+            "startOffset": 31422,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 29685,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 29549,
+                    "startOffset": 29545
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In contrast, our recent study [20] indicated possible involvement of ROS overproduction caused by SAMP1 mtDNA in the suppression of tumor formation of P29mtSAMP1 cybrids.",
+            "startOffset": 29515,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18340,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "All cells were grown in DMEM (Sigma, St. Louis, MO, USA) containing 10% fetal calf serum (Sanko Junyaku, Tokyo, Japan), 50 mg/ml uridine (Sigma, St. Louis, MO, USA), and 0.1 mg/ml sodium pyruvate (Wako Pure Chemical Industries, Osaka, Japan).",
+            "startOffset": 18098,
+            "title": "Cell lines and cell culture"
+        },
+        {
+            "endOffset": 20793,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 20792,
+                    "startOffset": 20788
+                }
+            },
+            "secId": "sec2.6",
+            "sentence": "Generation of mitochondrial ROS (superoxide) was quantified by using the mitochondrial superoxide indicator MitoSOX-Red (Invitrogen, Carlsbad, CA, USA) as reported previously [14].",
+            "startOffset": 20613,
+            "title": "Measurement of mitochondrial ROS"
+        },
+        {
+            "endOffset": 22999,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "White E. coli colonies were selected, and their DNA was sequenced on an Applied Biosystems 3130 Genetic Analyzer (Applied Biosystems, Foster City, CA, USA).",
+            "startOffset": 22843,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 26277,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "As a control, we also fused enucleated P29mt(b6)B6 cybrids with \u03c10 P29H cells in the same selection medium.",
+            "startOffset": 26170,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 29514,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 29320,
+                    "startOffset": 29316
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Our previous study [14] supported this idea by showing that P29mtA11 cybrids with mtDNA from highly metastatic lung carcinoma A11 cells had a high metastatic potential because of A11 mtDNA\u2013mediated ROS overproduction.",
+            "startOffset": 29297,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23575,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 23574,
+                    "startOffset": 23570
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Previously we proposed that polypeptides encoded by SAMP1 mtDNA in P29mtSAMP1 cybrids are responsible for the suppression of the ability of these cybrids to form tumors in B6 mice [20].",
+            "startOffset": 23390,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 24393,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Genotyping showed that P29mt(sp)B6 and P29mt(b6)B6 cybrids had B6 mtDNA but not SAMP1 mtDNA (Fig. 1A).",
+            "startOffset": 24291,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 22378,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The sequences of the primers were based on the highly conserved 16S rRNA gene sequence of Rickettsia prowazekii (GenBank accession no. AJ235272): forward AGAGTTTGATCCTGGCTCAG (nucleotides 17\u201336) and reverse TAAGGAGGTGATCCAGCC (1507\u20131490).",
+            "startOffset": 22140,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 15004,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                },
+                "bib2": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                },
+                "bib3": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                },
+                "bib4": {
+                    "endOffset": 14918,
+                    "startOffset": 14913
+                },
+                "bib5": {
+                    "endOffset": 14918,
+                    "startOffset": 14913
+                },
+                "bib6": {
+                    "endOffset": 14918,
+                    "startOffset": 14913
+                },
+                "bib7": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                },
+                "bib8": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                },
+                "bib9": {
+                    "endOffset": 15003,
+                    "startOffset": 14994
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Mammalian mtDNA with pathogenic mutations, which induce mitochondrial respiration defects, could be responsible not only for mitochondrial diseases [1\u20136], but also for aging and age-associated disorders including tumor formation [1\u20133,7\u20139].",
+            "startOffset": 14765,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28118,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We also examined a possible involvement of cytozoic bacteria that might be transferred from SAMP1 mice to P29Hmt(sp)B6 cybrids; to detect such bacteria, we cloned and sequenced PCR products potentially corresponding to the bacterial 16S rRNA gene.",
+            "startOffset": 27871,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 16304,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 16303,
+                    "startOffset": 16299
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For example, mtDNA from allogeneic mouse strains has many polymorphic mutations, and transmitochondrial P29mtNZB cybrids (generated by replacing mtDNA in P29 tumor cells derived from the C57BL6 mouse strain [hereafter referred to as B6] with mtDNA from the allogeneic strain NZB) are unable to form tumors in B6 mice because of the recognition of these cybrids by B6 innate immune cells [18].",
+            "startOffset": 15912,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21124,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Data were analyzed with FlowJo software (Tree Star, Ashland, OR, USA).",
+            "startOffset": 21054,
+            "title": "Measurement of mitochondrial ROS"
+        },
+        {
+            "endOffset": 18097,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Both P29mtB6 and P29mtSAMP1cybrids had nuclear DNA from \u03c10P29 cells and mtDNA from B6 mice (P29mtB6) or SAMP1 mice (P29mtSAMP1).",
+            "startOffset": 17969,
+            "title": "Cell lines and cell culture"
+        },
+        {
+            "endOffset": 24768,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These observations suggest that the suppression of tumor formation by P29mt(sp)B6 cybrids in B6 mice was not caused by SAMP1 mtDNA.",
+            "startOffset": 24637,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 15512,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 15511,
+                    "startOffset": 15508
+                }
+            },
+            "secId": "sec1",
+            "sentence": "With respect to the tumor formation, mtDNA with pathogenic mutations has been proposed to function as a tumor enhancer because of its induction of the respiration defects and the resultant enhanced glycolysis under normoxic conditions (the Warburg effect) [9].",
+            "startOffset": 15252,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29224,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, neither SAMP1 mtDNA nor SAMP1 mtDNA\u2013derived fragments in nuclear DNA suppresses tumor formation by P29mt(sp)B6 or P29Hmt(sp)B6 cybrids.",
+            "startOffset": 29078,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30007,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Moreover, P29Hmt(b6)B6 but not P29Hmt(sp)B6 cybrids developed into tumors (Fig. 2C), even though no substantial difference in the amounts of ROS was observed between them (Fig. 3).",
+            "startOffset": 29827,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28819,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, SAMP1 mtDNA does not suppress tumor formation by P29mt(sp)B6 cybrids in B6 mice.",
+            "startOffset": 28728,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20578,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "To detect the Hyg-R plasmid in \u03c10 P29H cells, P29Hmt(b6)B6 cybrids, and P29Hmt(sp)B6 cybrids, we used primers GAT GTA GGA GGG CGT GGA TA (nucleotide positions 118\u2013137 in the coding sequence of the hygromycin B phosphotransferase gene) and ATA GGT CAG GCT CTC GCT GA (267\u2013248).",
+            "startOffset": 20302,
+            "title": "Genotyping of B6 mtDNA and Hyg-R nuclear DNA in the cybrids"
+        },
+        {
+            "endOffset": 23227,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Differences between groups of values were assessed by Dunnett's test.",
+            "startOffset": 23158,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25825,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "For selection and identification of the cells carrying nuclear DNA from \u03c10 P29 cells, we generated Hyg-R \u03c10 P29 cells (\u03c10 P29H cells) by transfecting \u03c10 P29 cells with the Hyg-R plasmid.",
+            "startOffset": 25639,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 21582,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The volume of each tumor was calculated as V = \u03c0abh/6.",
+            "startOffset": 21528,
+            "title": "Assays of tumor formation"
+        },
+        {
+            "endOffset": 22842,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The resultant plasmids were transformed into E. coli, and we performed screening on IPTG/Xgal plates.",
+            "startOffset": 22741,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 19862,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 19861,
+                    "startOffset": 19857
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "To distinguish between B6 mtDNA and SAMP1 mtDNA, we used a polymorphic mutation (A11181G) in the ND4 gene (encoding NADH dehydrogenase subunit 4) of SAMP1 mtDNA [19].",
+            "startOffset": 19696,
+            "title": "Genotyping of B6 mtDNA and Hyg-R nuclear DNA in the cybrids"
+        },
+        {
+            "endOffset": 20302,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 20301,
+                    "startOffset": 20297
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "The size of the fragments was analysed in a 3% agarose gel [19].",
+            "startOffset": 20238,
+            "title": "Genotyping of B6 mtDNA and Hyg-R nuclear DNA in the cybrids"
+        },
+        {
+            "endOffset": 23827,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "First, we completely excluded SAMP1 mtDNA from P29mtSAMP1 cybrids and obtained mtDNA-less P29mtSAMP1 cybrids, named \u03c10 P29mt(sp) cells.",
+            "startOffset": 23692,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 27871,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These observations, together with the finding that replacement of SAMP1 mtDNA in P29mtSAMP1 cybrids with B6 mtDNA did not restore tumor formation in B6 mice (Fig. 1), suggest that ROS overproduction induced by SAMP1 mtDNA is not involved in suppression of tumor formation.",
+            "startOffset": 27599,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 19338,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "To obtain P29mt(b6)B6 and P29mt(sp)B6 cybrids, nuclear donors (\u03c10 P29mt(b6) or \u03c10 P29mt(sp) cells) and mtDNA donors (platelets from B6 mice) were fused the presence of polyethylene glycol (polyethylene glycol 1500; Roche, Basel, Switzerland); unfused nuclear donor cells were eliminated in selection medium without uridine and sodium pyruvate (UP-)(Table 1, Fig. S1A).",
+            "startOffset": 18970,
+            "title": "Isolation of new transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 16718,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 16562,
+                    "startOffset": 16558
+                },
+                "bib20": {
+                    "endOffset": 16717,
+                    "startOffset": 16713
+                }
+            },
+            "secId": "sec1",
+            "sentence": "P29mtC3H cybrids formed tumors in B6 mice [19], whereas the ability of P29mtSAMP1 cybrids to form tumors in B6 mice was completely suppressed because of their recognition by B6 innate immune cells [20].",
+            "startOffset": 16516,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19634,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "To obtain P29Hmt(b6)B6 and P29Hmt(sp)B6 cybrids, nuclear donors (\u03c10 P29H cells) and mtDNA donors (enucleated P29mt(b6)B6 or P29mt(sp)B6 cybrids) were fused; unfused nuclear donor cells and unenucleated mtDNA donor cells were eliminated in UP- selection medium with hygromycin (Table 2, Fig. S1B).",
+            "startOffset": 19338,
+            "title": "Isolation of new transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 23691,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To test this hypothesis, in the current study we replaced the mtDNA of P29mtSAMP1 cybrids with B6 mtDNA (Fig. S1A).",
+            "startOffset": 23576,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 29296,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 29295,
+                    "startOffset": 29291
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It has been proposed that ROS overproduction promotes tumor growth [25].",
+            "startOffset": 29224,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30833,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Moreover, endogenous retroviruses might also function as such heritable cytoplasmic factors and be responsible for the recognition of P29mtSAMP1, P29mt(sp)B6, and P29Hmt(sp)B6 cybrids by innate immune cells, resulting in suppression of tumor formation in B6 mice.",
+            "startOffset": 30570,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15911,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 15910,
+                    "startOffset": 15903
+                },
+                "bib17": {
+                    "endOffset": 15910,
+                    "startOffset": 15903
+                },
+                "bib18": {
+                    "endOffset": 15910,
+                    "startOffset": 15903
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In contrast, mouse mtDNA with some of polymorphic mutations, which do not induce respiration defects, has been shown to function as a tumor suppressor rather than a tumor enhancer [16\u201318].",
+            "startOffset": 15723,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24290,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We reintroduced B6 mtDNA from platelets of B6 mice into \u03c10 P29mt(b6) cells, and obtained new transmitochondrial P29mt(b6)B6 cybrids (Table 1).",
+            "startOffset": 24148,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 23082,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Each obtained sequence was subjected to BLASTN search to identify the PCR product.",
+            "startOffset": 23000,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 15252,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 15180,
+                    "startOffset": 15173
+                },
+                "bib11": {
+                    "endOffset": 15180,
+                    "startOffset": 15173
+                },
+                "bib12": {
+                    "endOffset": 15251,
+                    "startOffset": 15244
+                },
+                "bib13": {
+                    "endOffset": 15251,
+                    "startOffset": 15244
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, we have shown that age-associated respiration defects in human fibroblasts occur not because of pathogenic mtDNA mutations or the resultant ROS overproduction [10,11], but because of reversible epigenetic changes of nuclear genes [12,13].",
+            "startOffset": 15005,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26360,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "A colony was clonally isolated and named P29Hmt(b6)B6 cybrids (Table 2, Fig. S1B).",
+            "startOffset": 26278,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 17819,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 17818,
+                    "startOffset": 17814
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The P29 cells are B6 mouse\u2013derived Lewis lung carcinoma cells [21].",
+            "startOffset": 17752,
+            "title": "Cell lines and cell culture"
+        },
+        {
+            "endOffset": 26582,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Genotyping of mtDNA and nuclear DNA showed that both P29Hmt(sp)B6 and P29Hmt(b6)B6 cybrids had B6 mtDNA (Fig. 2A) and the Hyg-R plasmid (Fig. 2B), whereas P29mt(b6)B6 and P29mt(sp)B6 cybrids had no Hyg-R plasmid (Fig. 2B).",
+            "startOffset": 26360,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 24636,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Even though both cybrids had nuclear DNA and mtDNA from the B6 strain (Fig. S1A), P29mt(b6)B6 but not P29mt(sp)B6 cybrids formed tumors (Fig. 1B).",
+            "startOffset": 24490,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 22580,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The PCR products were separated by 1% agarose gel electrophoresis, and DNA bands of the expected length (\u223c1500 bp) were extracted with a FastGene Gel/PCR Extraction Kit (Nippon Genetics, Tokyo, Japan).",
+            "startOffset": 22379,
+            "title": "Examination of bacterial infection in transmitochondrial cybrids"
+        },
+        {
+            "endOffset": 24489,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Then, we examined tumor formation in B6 mice inoculated with P29mt(sp)B6 or P29mt(b6)B6 cybrids.",
+            "startOffset": 24393,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 30277,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, ROS overproduction induced by SAMP1 mtDNA is not responsible for tumor suppression, and some heritable cytoplasmic elements other than mtDNA derived from SAMP1 mice might be present in P29Hmt(sp)B6 cybrids and suppress their ability to form tumors (Fig. S2).",
+            "startOffset": 30008,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23320,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "All values are means \u00b1 S.D. P values < 0.05 were considered to be statistically significant.",
+            "startOffset": 23228,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 28336,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These data indicate that tumor suppression is not due to cytozoic bacteria.",
+            "startOffset": 28261,
+            "title": "ROS overproduction or bacterial infection is not involved in tumor suppression"
+        },
+        {
+            "endOffset": 17221,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "It is also possible that some nuclear-encoded polypeptides denatured by SAMP1 mtDNA\u2013induced ROS are recognized by innate immune cells.",
+            "startOffset": 17087,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24147,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "As controls, we used P29mtB6 cybrids harboring both nuclear DNA and mtDNA from the B6 strain, and isolated corresponding mtDNA-less P29mtB6 cybrids, named \u03c10 P29mt(b6) cells.",
+            "startOffset": 23973,
+            "title": "SAMP1 mtDNA is not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 17086,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, it remains unclear which polypeptides encoded by mtDNA are recognized by the innate immune cells of B6 mice, if mtDNA from allogeneic strains is responsible for tumor suppression.",
+            "startOffset": 16898,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26695,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, the nuclear DNA of P29Hmt(sp)B6 and P29Hmt(b6)B6 cybrids had no NUMTs derived from SAMP1 mtDNA (Fig. S1B).",
+            "startOffset": 26583,
+            "title": "Nuclear-integrated SAMP1 mtDNA fragments are not involved in tumor suppression in B6 mice"
+        },
+        {
+            "endOffset": 17499,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "To address these issues, we replaced allogeneic SAMP1 mtDNA in P29mtSAMP1 cybrids with syngeneic B6 mtDNA, and showed that neither SAMP1 mtDNA\u2013encoded polypeptides nor SAMP1 mtDNA\u2013induced ROS overproduction is responsible for tumor suppression of P29mtSAMP1 cybrids in B6 mice.",
+            "startOffset": 17222,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16515,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 16411,
+                    "startOffset": 16407
+                },
+                "bib20": {
+                    "endOffset": 16439,
+                    "startOffset": 16435
+                }
+            },
+            "secId": "sec1",
+            "sentence": "To generalize this idea, our subsequent studies [19,20] generated transmitochondrial P29mtC3H cybrids [19] and P29mtSAMP1 cybrids [20] with mtDNA derived from the allogeneic strains C3H and SAMP1, respectively.",
+            "startOffset": 16305,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0006291X17317953",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Akinori",
+                "initial": "A.",
+                "last": "Shimizu"
+            },
+            {
+                "email": null,
+                "first": "Haruna",
+                "initial": "H.",
+                "last": "Tani"
+            },
+            {
+                "email": null,
+                "first": "Gaku",
+                "initial": "G.",
+                "last": "Takibuchi"
+            },
+            {
+                "email": null,
+                "first": "Kaori",
+                "initial": "K.",
+                "last": "Ishikawa"
+            },
+            {
+                "email": null,
+                "first": "Ryota",
+                "initial": "R.",
+                "last": "Sakurazawa"
+            },
+            {
+                "email": null,
+                "first": "Takafumi",
+                "initial": "T.",
+                "last": "Inoue"
+            },
+            {
+                "email": null,
+                "first": "Tetsuo",
+                "initial": "T.",
+                "last": "Hashimoto"
+            },
+            {
+                "email": null,
+                "first": "Kazuto",
+                "initial": "K.",
+                "last": "Nakada"
+            },
+            {
+                "email": null,
+                "first": "Keizo",
+                "initial": "K.",
+                "last": "Takenaga"
+            },
+            {
+                "email": "jih45@biol.tsukuba.ac.jp",
+                "first": "Jun Ichi",
+                "initial": "J.I.",
+                "last": "Hayashi"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.09.035",
+        "firstpage": "252",
+        "issn": "0006291X",
+        "keywords": [
+            "Allogenic SAMP1 mice",
+            "Cytoplasmic transfer",
+            "Mitochondrial DNA",
+            "Tumor suppression"
+        ],
+        "lastpage": "257",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Cytoplasmic transfer of heritable elements other than mtDNA from SAMP1 mice into mouse tumor cells suppresses their ability to form tumors in C57BL6 mice"
+    }
+}

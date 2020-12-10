@@ -1,0 +1,2984 @@
+{
+    "abstract": "Unintended effects of drugs can be caused by various mechanisms. Conventional analysis of unintended effects has focused on the target proteins of drugs. However, an interaction with off-target tissues of a drug might be one of the unintended effect-related mechanisms. We propose two processes to predict a drug's unintended effects by off-target tissue effects: 1) identification of a drug's off-target tissue and; 2) tissue protein - symptom relation identification (tissue protein - symptom matrix). Using this method, we predicted that 1,177 (10.7%) side-effects were related to off-target tissue effects in 11,041 known side-effects. Off-target tissues and unintended effects of successful repositioning drugs were also predicted. The effectiveness of relations of the proposed tissue protein - symptom matrix were evaluated by using the literature mining method. We predicted unintended effects of drugs as well as those effect-related off-target tissues. By using our prediction, we are able to reduce drug side-effects on off-target tissues and provide a chance to identify new indications of drugs of interest.",
+    "author_highlights": [
+        {
+            "endOffset": 15104,
+            "sentence": "Tissue protein \u2013 symptom matrix(T-SM) was proposed to predict off-target tissue effects.",
+            "startOffset": 15016
+        },
+        {
+            "endOffset": 15203,
+            "sentence": "1,177 (10.7%) side-effects were related to off-target tissue effects in 11,041 known side-effects.",
+            "startOffset": 15105
+        },
+        {
+            "endOffset": 15293,
+            "sentence": "The effectiveness of relations of the T-SM were evaluated by using the literature mining.",
+            "startOffset": 15204
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Seth I.",
+                    "initial": "S.I.",
+                    "last": "Berger"
+                },
+                {
+                    "first": "Ravi",
+                    "initial": "R.",
+                    "last": "Iyengar"
+                }
+            ],
+            "doi": "10.1002/wsbm.114",
+            "firstpage": "129",
+            "issn": "19395094",
+            "lastpage": "135",
+            "pmid": "20803507",
+            "pub_year": 2011,
+            "title": "Role of systems pharmacology in understanding drug adverse events",
+            "volume": "3"
+        },
+        "bib10": null,
+        "bib11": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Hern\u00e1ndez-Fern\u00e1ndez"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Pardal-Fern\u00e1ndez"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Garc\u00eda-Mart\u00ednez"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Segura"
+                }
+            ],
+            "doi": "10.1016/j.farma.2010.06.001",
+            "firstpage": "97",
+            "issn": "11306343",
+            "lastpage": "99",
+            "pmid": "21106426",
+            "pub_year": 2011,
+            "title": "Respiratory myoclonus, a side effect of galantamine",
+            "volume": "35"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Zhichao",
+                    "initial": "Z.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Hong",
+                    "initial": "H.",
+                    "last": "Fang"
+                },
+                {
+                    "first": "Kelly",
+                    "initial": "K.",
+                    "last": "Reagan"
+                },
+                {
+                    "first": "Xiaowei",
+                    "initial": "X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Donna L.",
+                    "initial": "D.L.",
+                    "last": "Mendrick"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Slikker"
+                },
+                {
+                    "first": "Weida",
+                    "initial": "W.",
+                    "last": "Tong"
+                }
+            ],
+            "doi": "10.1016/j.drudis.2012.08.005",
+            "firstpage": "110",
+            "issn": "13596446",
+            "lastpage": "115",
+            "pmid": "22935104",
+            "pub_year": 2013,
+            "title": "In silico drug repositioning-what we need to know",
+            "volume": "18"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Suely",
+                    "initial": "S.",
+                    "last": "Roizenblatt"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Guilleminault"
+                },
+                {
+                    "first": "Dalva",
+                    "initial": "D.",
+                    "last": "Poyares"
+                },
+                {
+                    "first": "F\u00e1tima",
+                    "initial": "F.",
+                    "last": "Cintra"
+                },
+                {
+                    "first": "Adriana",
+                    "initial": "A.",
+                    "last": "Kauati"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Tufik"
+                }
+            ],
+            "doi": "10.1001/archinte.166.16.1763",
+            "firstpage": "1763",
+            "issn": "00039926",
+            "lastpage": "1767",
+            "pmid": "16983056",
+            "pub_year": 2006,
+            "title": "A double-blind, placebo-controlled, crossover study of sildenafil in obstructive sleep apnea",
+            "volume": "166"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Christiane",
+                    "initial": "C.",
+                    "last": "Neves"
+                },
+                {
+                    "first": "S\u00e9rgio",
+                    "initial": "S.",
+                    "last": "Tufik"
+                },
+                {
+                    "first": "Felipe",
+                    "initial": "F.",
+                    "last": "Chediek"
+                },
+                {
+                    "first": "Dalva",
+                    "initial": "D.",
+                    "last": "Poyares"
+                },
+                {
+                    "first": "F\u00e1tima",
+                    "initial": "F.",
+                    "last": "Cintra"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Roizenblatt"
+                },
+                {
+                    "first": "Fabiano",
+                    "initial": "F.",
+                    "last": "Abrantes"
+                },
+                {
+                    "first": "Marina Ariza",
+                    "initial": "M.A.",
+                    "last": "Monteiro"
+                },
+                {
+                    "first": "Suely",
+                    "initial": "S.",
+                    "last": "Roizenblatt"
+                }
+            ],
+            "doi": "10.1590/S1807-59322010000400008",
+            "firstpage": "393",
+            "issn": "18075932",
+            "lastpage": "400",
+            "pmid": "20454497",
+            "pub_year": 2010,
+            "title": "Effects of sildenafil on autonomic nervous function during sleep in obstructive sleep apnea",
+            "volume": "65"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Chu"
+                },
+                {
+                    "first": "Dwight F.",
+                    "initial": "D.F.",
+                    "last": "Matthias"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Belanoff"
+                },
+                {
+                    "first": "Alan",
+                    "initial": "A.",
+                    "last": "Schatzberg"
+                },
+                {
+                    "first": "Andrew R.",
+                    "initial": "A.R.",
+                    "last": "Hoffman"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Feldman"
+                }
+            ],
+            "doi": "10.1210/jc.86.8.3568",
+            "firstpage": "3568",
+            "issn": "0021972X",
+            "lastpage": "3573",
+            "pmid": "11502780",
+            "pub_year": 2001,
+            "title": "Successful long-term treatment of refractory Cushing's disease with high-dose mifepristone (RU 486)",
+            "volume": "86"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Tova",
+                    "initial": "T.",
+                    "last": "Chajek"
+                },
+                {
+                    "first": "Henry",
+                    "initial": "H.",
+                    "last": "Romanoff"
+                }
+            ],
+            "doi": "10.1001/archinte.1976.03630040043009",
+            "firstpage": "441",
+            "issn": "00039926",
+            "lastpage": "443",
+            "pmid": "1267552",
+            "pub_year": 1976,
+            "title": "Cushing Syndrome with Cyclical Edema and Periodic Secretion of Corticosteroids",
+            "volume": "136"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Stock"
+                }
+            ],
+            "firstpage": "S25",
+            "issn": "03070565",
+            "lastpage": "S29",
+            "pmid": "9130038",
+            "pub_year": 1997,
+            "title": "Sibutramine: A review of the pharmacology of a novel anti-obesity agent",
+            "volume": "21"
+        },
+        "bib18": null,
+        "bib19": null,
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Mathias",
+                    "initial": "M.",
+                    "last": "Uhlen"
+                },
+                {
+                    "first": "Per",
+                    "initial": "P.",
+                    "last": "Oksvold"
+                },
+                {
+                    "first": "Linn",
+                    "initial": "L.",
+                    "last": "Fagerberg"
+                },
+                {
+                    "first": "Emma",
+                    "initial": "E.",
+                    "last": "Lundberg"
+                },
+                {
+                    "first": "Kalle",
+                    "initial": "K.",
+                    "last": "Jonasson"
+                },
+                {
+                    "first": "Mattias",
+                    "initial": "M.",
+                    "last": "Forsberg"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Zwahlen"
+                },
+                {
+                    "first": "Caroline",
+                    "initial": "C.",
+                    "last": "Kampf"
+                },
+                {
+                    "first": "Kenneth",
+                    "initial": "K.",
+                    "last": "Wester"
+                },
+                {
+                    "first": "Sophia",
+                    "initial": "S.",
+                    "last": "Hober"
+                },
+                {
+                    "first": "Henrik",
+                    "initial": "H.",
+                    "last": "Wernerus"
+                },
+                {
+                    "first": "Lisa",
+                    "initial": "L.",
+                    "last": "Bj\u00f6rling"
+                },
+                {
+                    "first": "Fredrik",
+                    "initial": "F.",
+                    "last": "Ponten"
+                }
+            ],
+            "doi": "10.1038/nbt1210-1248",
+            "firstpage": "1248",
+            "issn": "10870156",
+            "lastpage": "1250",
+            "pmid": "21139605",
+            "pub_year": 2010,
+            "title": "Towards a knowledge-based Human Protein Atlas",
+            "volume": "28"
+        },
+        "bib20": null,
+        "bib21": {
+            "authors": [
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Jackson"
+                },
+                {
+                    "first": "K. M.",
+                    "initial": "K.M.",
+                    "last": "Somers"
+                },
+                {
+                    "first": "H. H.",
+                    "initial": "H.H.",
+                    "last": "Harvey"
+                }
+            ],
+            "doi": "10.1086/284927",
+            "firstpage": "436",
+            "issn": "00030147",
+            "lastpage": "453",
+            "pub_year": 1989,
+            "title": "Similarity coefficients: measures of co-occurrence and association or simply measures of occurrence?",
+            "volume": "133"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Van Steekelenburg"
+                },
+                {
+                    "first": "P. A.R.",
+                    "initial": "P.A.R.",
+                    "last": "Clement"
+                },
+                {
+                    "first": "M. H.L.",
+                    "initial": "M.H.L.",
+                    "last": "Beel"
+                }
+            ],
+            "doi": "10.1034/j.1398-9995.2002.1s3426.x",
+            "firstpage": "346",
+            "issn": "01054538",
+            "lastpage": "350",
+            "pmid": "11906367",
+            "pub_year": 2002,
+            "title": "Comparison of five new antihistamines (H1-receptor antagonists) in patients with allergic rhinitis using nasal provocation studies and skin tests",
+            "volume": "57"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Manabu",
+                    "initial": "M.",
+                    "last": "Tashiro"
+                },
+                {
+                    "first": "Yumiko",
+                    "initial": "Y.",
+                    "last": "Sakurada"
+                },
+                {
+                    "first": "Kentaro",
+                    "initial": "K.",
+                    "last": "Iwabuchi"
+                },
+                {
+                    "first": "Hideki",
+                    "initial": "H.",
+                    "last": "Mochizuki"
+                },
+                {
+                    "first": "Motohisa",
+                    "initial": "M.",
+                    "last": "Kato"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Aoki"
+                },
+                {
+                    "first": "Yoshihito",
+                    "initial": "Y.",
+                    "last": "Funaki"
+                },
+                {
+                    "first": "Masatoshi",
+                    "initial": "M.",
+                    "last": "Itoh"
+                },
+                {
+                    "first": "Ren",
+                    "initial": "R.",
+                    "last": "Iwata"
+                },
+                {
+                    "first": "Dean F.",
+                    "initial": "D.F.",
+                    "last": "Wong"
+                },
+                {
+                    "first": "Kazuhiko",
+                    "initial": "K.",
+                    "last": "Yanai"
+                }
+            ],
+            "doi": "10.1177/0091270004267590",
+            "firstpage": "890",
+            "issn": "00912700",
+            "lastpage": "900",
+            "pmid": "15286093",
+            "pub_year": 2004,
+            "title": "Central effects of fexofenadine and cetirizine: Measurement of psychomotor performance, subjective sleepiness, and brain histamine H1-receptor occupancy using 11C-doxepin positron emission tomography",
+            "volume": "44"
+        },
+        "bib5": null,
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Vivian",
+                    "initial": "V.",
+                    "last": "Law"
+                },
+                {
+                    "first": "Craig",
+                    "initial": "C.",
+                    "last": "Knox"
+                },
+                {
+                    "first": "Yannick",
+                    "initial": "Y.",
+                    "last": "Djoumbou"
+                },
+                {
+                    "first": "Tim",
+                    "initial": "T.",
+                    "last": "Jewison"
+                },
+                {
+                    "first": "An Chi",
+                    "initial": "A.C.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Yifeng",
+                    "initial": "Y.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Adam",
+                    "initial": "A.",
+                    "last": "MacIejewski"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Arndt"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Neveu"
+                },
+                {
+                    "first": "Alexandra",
+                    "initial": "A.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Geraldine",
+                    "initial": "G.",
+                    "last": "Gabriel"
+                },
+                {
+                    "first": "Carol",
+                    "initial": "C.",
+                    "last": "Ly"
+                },
+                {
+                    "first": "Sakina",
+                    "initial": "S.",
+                    "last": "Adamjee"
+                },
+                {
+                    "first": "Zerihun T.",
+                    "initial": "Z.T.",
+                    "last": "Dame"
+                },
+                {
+                    "first": "Beomsoo",
+                    "initial": "B.",
+                    "last": "Han"
+                },
+                {
+                    "first": "You",
+                    "initial": "Y.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "David S.",
+                    "initial": "D.S.",
+                    "last": "Wishart"
+                }
+            ],
+            "doi": "10.1093/nar/gkt1068",
+            "firstpage": "D1091",
+            "issn": "03051048",
+            "lastpage": "D1097",
+            "pmid": "24203711",
+            "pub_year": 2014,
+            "title": "DrugBank 4.0: Shedding new light on drug metabolism",
+            "volume": "42"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Caroline F.",
+                    "initial": "C.F.",
+                    "last": "Thorn"
+                },
+                {
+                    "first": "Teri E.",
+                    "initial": "T.E.",
+                    "last": "Klein"
+                },
+                {
+                    "first": "Russ B.",
+                    "initial": "R.B.",
+                    "last": "Altman"
+                }
+            ],
+            "doi": "10.1007/978-1-62703-435-7_20",
+            "firstpage": "311",
+            "issn": "10643745",
+            "lastpage": "320",
+            "pmid": "23824865",
+            "pub_year": 2013,
+            "title": "PharmGKB: The pharmacogenomics knowledge base",
+            "volume": "1015"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Kuhn"
+                },
+                {
+                    "first": "Monica",
+                    "initial": "M.",
+                    "last": "Campillos"
+                },
+                {
+                    "first": "Ivica",
+                    "initial": "I.",
+                    "last": "Letunic"
+                },
+                {
+                    "first": "Lars Juhl",
+                    "initial": "L.J.",
+                    "last": "Jensen"
+                },
+                {
+                    "first": "Peer",
+                    "initial": "P.",
+                    "last": "Bork"
+                }
+            ],
+            "doi": "10.1038/msb.2009.98",
+            "issn": "17444292",
+            "pmid": "20087340",
+            "pub_year": 2010,
+            "title": "A side effect resource to capture phenotypic effects of drugs",
+            "volume": "6"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "L. Y.",
+                    "initial": "L.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Q.",
+                    "initial": "Q.",
+                    "last": "Gu"
+                }
+            ],
+            "doi": "10.1007/978-3-540-79842-2_5",
+            "firstpage": "77",
+            "issn": "01712004",
+            "lastpage": "98",
+            "pmid": "18825337",
+            "pub_year": 2009,
+            "title": "Cough sensors. IV. Nicotinic membrane receptors on cough sensors",
+            "volume": "187"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 21481,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The tissue protein is different from tissue-specific protein.",
+            "startOffset": 21420,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 18281,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The next generation of antihistamines could reduce drowsiness as a side-effect by interrupting drug delivery to brain tissues, and this concept is related to the off-target tissue effect.",
+            "startOffset": 18094,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31393,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Firstly, we compared our results to random sets to assess probable relations in T-SM.",
+            "startOffset": 31308,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 21029,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Our prediction is to assess unintended effects by off-target tissue.",
+            "startOffset": 20961,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 31644,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The count of significant tissue-symptom relations in T-SM is 1.66 times larger than the averaged count of the relations of 10 random sets.",
+            "startOffset": 31506,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 34917,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, our strategy for predicting these kinds of unintended effects was to find off-target tissues of drugs of interest and to identify relations between target proteins in off-target tissues and symptoms.",
+            "startOffset": 34707,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 17947,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 17946,
+                    "startOffset": 17943
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The most well-known side-effect of this drug is sleepiness, and cerebral tissues, such as the cerebellum, cerebral cortex, and hippocampus, are known to be involved in sleepiness [4].",
+            "startOffset": 17764,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27292,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, nicotine could be bonded to these cough receptors.",
+            "startOffset": 27236,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 29341,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Several tissues that are related with this symptom are brain tissues including the cerebral cortex, lateral ventricle, and hippocampus and respiratory system-related tissue including the bronchus and nasopharynx.",
+            "startOffset": 29129,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 30008,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 30007,
+                    "startOffset": 30003
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Interestingly, edema, which is related to the drug on T-SM, is the main symptom of Cushing syndrome [16].",
+            "startOffset": 29903,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 32080,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 32079,
+                    "startOffset": 32075
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "The value of the Jaccard index means the co-occurrence possibility of two entities in one sentence [21].",
+            "startOffset": 31976,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 20157,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The input data of our prediction method are target proteins of a drug of interest and the first level of the ATC code of the drug.",
+            "startOffset": 20027,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 26918,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Nicotine is a nicotinic acetylcholine receptor (nAChR) agonist.",
+            "startOffset": 26855,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 29415,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 29408,
+                    "startOffset": 29404
+                },
+                "bib14": {
+                    "endOffset": 29414,
+                    "startOffset": 29410
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Other research groups showed that sildenafil aggravates apnea [13], [14].",
+            "startOffset": 29342,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 32533,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On tissue-symptom relations, the index of our result was 1.69 times higher than that of the random set.",
+            "startOffset": 32430,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 24074,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In conclusion, the score range is assigned from 0 to 1.",
+            "startOffset": 24019,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 26343,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The extracted predictable drugs mean that the target proteins of the drugs existed in T-SM.",
+            "startOffset": 26252,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 26782,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "According to our prediction results, there is a 10.7% (N = 1,177) rate of side-effects as unintended effects by the off-target tissue effect among analyzed known side-effects (N = 11,041).",
+            "startOffset": 26594,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 24193,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The tissue protein-symptom matrix had 5,338 relations.",
+            "startOffset": 24139,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 35484,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, if we filter out filtered candidates by using target proteins of the drug of interest, we can obtain off-target tissue that can be affected by the drug of interest.",
+            "startOffset": 35309,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 25518,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Thus, in the case of a drug that has 1 target protein, the relation has a score of 1.0.",
+            "startOffset": 25431,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 24275,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Those tissue proteins were combined from 83 tissues and 242 drug target proteins.",
+            "startOffset": 24194,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 26855,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "For instance, we briefly investigated top-scored three drugs as follows.",
+            "startOffset": 26783,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 24575,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "As explained in section 2.2, drug information was included into three of the total five relations to create a relation of T-SM.",
+            "startOffset": 24448,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 30528,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 30521,
+                    "startOffset": 30517
+                },
+                "bib18": {
+                    "endOffset": 30527,
+                    "startOffset": 30523
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "The target protein of this drug is SLC6A3, which is related to emotion such as depression since SLC6A3 plays the role of a dopamine transporter [17], [18].",
+            "startOffset": 30373,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 27797,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 27796,
+                    "startOffset": 27792
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "The researchers report that the side-effect of galantamine is respiratory myoclonus [11].",
+            "startOffset": 27708,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 31120,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We utilized 107,307,095 sentences from abstracts in PubMed published from 1950 to 2013.",
+            "startOffset": 31033,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 18630,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We built the matrix by using the target protein involved with tissue information and symptoms from drugs' indications.",
+            "startOffset": 18512,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23907,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The relations of T-SM were scored by CTx in final step.",
+            "startOffset": 23852,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 36343,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In drug development, if off-target tissue effects are predicted, this prediction can reduce side-effects.",
+            "startOffset": 36238,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 27601,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Galantamine is a ligand that acts as a nicotinic acetylcholine receptor (nAChR) binder.",
+            "startOffset": 27514,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 16375,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 16269,
+                    "startOffset": 16266
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, in the Human Protein Atlas (HPA) project [2], the researchers released their research results about relations between tissues and proteins on the web.",
+            "startOffset": 16216,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28618,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In examining Liu's study, we investigated 11 drugs of 89 that were filtered by analyzing off-target tissues and filtering drugs in DrugBank.",
+            "startOffset": 28478,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 18511,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Thus, we built a matrix that includes symptoms and target proteins and confirms the phenomenon on currently marketed drugs.",
+            "startOffset": 18388,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33291,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The high-scored groups were a minimum of 2 times and a maximum of 10 times larger than the low-scored groups on all tissue-symptom relations and protein-symptom relations.",
+            "startOffset": 33120,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 18738,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We can suggest novel drug-induced effects by non-target tissue through the tissue protein \u2013 symptom matrix.",
+            "startOffset": 18631,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20568,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "This target protein exists in Tissue1 and Tissue2 according to the HPA database.",
+            "startOffset": 20488,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 20454,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "There is drug Dr1, and the first level of the ATC code of Dr1 is ATC\u200b1.",
+            "startOffset": 20383,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 33007,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We counted the significant relations with a p-value that was less than 0.05.",
+            "startOffset": 32931,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 24447,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Drug information had key roles in identifying the relations of the matrix.",
+            "startOffset": 24373,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 31739,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the case of protein-symptom relation, our result was 3.6 times larger than the random sets.",
+            "startOffset": 31645,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 34187,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "As a result, the top group's Jaccard index was 22 times larger than that of bottom group.",
+            "startOffset": 34098,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 34706,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The off-target tissue effect occurs when a drug affects multiple tissues that are not the drug's target tissues, and these are called off-target tissues.",
+            "startOffset": 34553,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 19019,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Our proposed prediction method largely consists of two parts.",
+            "startOffset": 18958,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 35783,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this research, we have established a Tissue protein \u2013 Symptom Matrix (T-SM) having relations between tissue proteins and symptoms.",
+            "startOffset": 35650,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 19891,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Our T-SM has relations between tissue proteins and symptoms.",
+            "startOffset": 19831,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 31506,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We generated 10 random sets to secure statistical significance and utilized average values from the random sets.",
+            "startOffset": 31394,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 25430,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "This score represented the relevance between target proteins and drug-related symptoms.",
+            "startOffset": 25343,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 16977,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Because of this, after drug administration, we expect to see the medication having an effect on proteins in multiple tissues.",
+            "startOffset": 16852,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30084,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We confirmed that our prediction result corresponds with previous research.",
+            "startOffset": 30009,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 16060,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15649,
+                    "startOffset": 15646
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In this paper [1], the mechanism of unintended effects were categorized into four kinds: 1) interactions between drugs and main target proteins in primary (target) tissues, 2) interactions between drug and target proteins in different (off-target) tissues, 3) interactions between drugs and off-target proteins in primary or different tissues, and 4) complex interactions between drug main or off-target proteins within tissues.",
+            "startOffset": 15632,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17049,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this case, a drug can have unintended effects on off-target tissues.",
+            "startOffset": 16978,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36617,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "This work was supported by the Bio-Synergy Research Project (NRF-2012M3A9C4048758) of the Ministry of Science, ICT, and Future Planning through the National Research Foundation.",
+            "startOffset": 36440,
+            "title": "Funding"
+        },
+        {
+            "endOffset": 25251,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Eventually, heart ADRB1 -- angina pectoris relation means that ADRB1 in the heart may affect angina pectoris.",
+            "startOffset": 25142,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 21559,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The tissue-specific protein is a protein that only exists in specific tissue.",
+            "startOffset": 21482,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 30372,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In our T-SM, brain tissue including soft tissue in peripheral nerves, cerebral cortex, and cerebellum was related to psychophysiological disorders.",
+            "startOffset": 30225,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 15631,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, the mechanisms of drugs' unintended effects were intensively studied.",
+            "startOffset": 15551,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31852,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 31851,
+                    "startOffset": 31847
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Fig.3a) shows the number of significant relations (p < 0.05), which is calculated by a hypergeometric test [20].",
+            "startOffset": 31740,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 19189,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "We utilized the ATC code and target proteins of the drugs to identify the off-target tissue.",
+            "startOffset": 19097,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 28021,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We expect cramping of airway muscles caused coughing from galantamine.",
+            "startOffset": 27951,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 33442,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the second analysis, we assessed our score effectiveness by comparing the Jaccard index after classifying our relation's top group and bottom group.",
+            "startOffset": 33291,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 28185,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The binding of the drug to nAChR in CNS causes an original therapeutic effect, whereas binding to nAChR in the respiratory system causes off-target tissue effects.",
+            "startOffset": 28022,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 28477,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 28476,
+                    "startOffset": 28472
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "We obtained a list of 89 successfully repositioned drugs from a study done by Liu and coworkers [12].",
+            "startOffset": 28376,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 36048,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These relations of the matrix were statistically evaluated by 100 million sentences from abstracts of previous studies.",
+            "startOffset": 35929,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 28375,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We checked for the existence of off-target tissue effects related to drug repositioning on successful drug repositioning.",
+            "startOffset": 28254,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 18930,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Finally, we show our prediction results and discuss our results sequentially.",
+            "startOffset": 18853,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19331,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The first code of ATC was related to the target tissue of the drug.",
+            "startOffset": 19264,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 16618,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, those all proteins are not uniformly expressed in all of the tissues of our body.",
+            "startOffset": 16528,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32855,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Next, we compared the number of significant relations and the average of the Jaccard index between high- and low-scored groups to assess our score.",
+            "startOffset": 32708,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 24018,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For instance, if a drug was exclusively engaged to one target protein, the highest score was assigned to T-SM.",
+            "startOffset": 23908,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 20677,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The target tissue of Dr1 is Tissue1 included in the biological system indicated by the ATC code information.",
+            "startOffset": 20569,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 26130,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In this investigation, we confirmed that there were many cases related to off-target tissue effects in known side-effects.",
+            "startOffset": 26008,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 34362,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we proposed a prediction method for unintended effects of the drug by off-target tissue effect.",
+            "startOffset": 34252,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 15550,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Unintended effects of drugs are related to drug side-effects or repositioning.",
+            "startOffset": 15472,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17668,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 17667,
+                    "startOffset": 17664
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Tissues expressing this protein are known to include nasopharynx, adrenal gland, bronchus, colon, kidney, lung, parathyroid gland, stomach, testis, smooth muscle, cerebellum, cerebral cortex, hippocampus, and so on [2].",
+            "startOffset": 17449,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25018,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "And esmolol has an indication for treating angina pectoris as a symptom.",
+            "startOffset": 24946,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 34241,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In conclusion, we confirmed T-SM score effectiveness.",
+            "startOffset": 34188,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 29026,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "After drug repositioning, this drug was prescribed for erectile dysfunction.",
+            "startOffset": 28950,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 16527,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the case of humans, approximately 20,000 proteins were produced.",
+            "startOffset": 16460,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18387,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we predicted the unintended effects of the drug by examining the off-target tissue effects.",
+            "startOffset": 18281,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27150,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 27030,
+                    "startOffset": 27027
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "According to [9], nicotine in various compounds in cigarette smoke is a frequent cause of coughing by humans and animals in experiments.",
+            "startOffset": 27014,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 34500,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In most cases, a drug's target proteins were not produced in only one tissue; thus, target proteins could be located in multiple tissues.",
+            "startOffset": 34363,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 30803,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "A tissue protein \u2013 symptom relation on T-SM contains two pieces of linkage information.",
+            "startOffset": 30716,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 35263,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Those candidates are filtered out by protein information in the tissue.",
+            "startOffset": 35192,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 29806,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We predicted edema as an unintended effect with several tissues such as skin and lung on T-SM.",
+            "startOffset": 29712,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 17176,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Our interest is in the effect of the drug on the target proteins located in other tissues than the originally targeted tissues.",
+            "startOffset": 17049,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31308,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We performed this analysis by using Hadoop, which is a distributed processing system-based framework, to count the co-occurrences of keywords of interest in approx. 100 million sentences.",
+            "startOffset": 31121,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 33641,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Fig. 3e, f) shows the result of the Jaccard index comparison between top group, which was classified by a T-SM score 1, and the bottom group, which had the same number of relations as the top group.",
+            "startOffset": 33443,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 36433,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This prediction also provides a chance to identify new indications of a drug of interest.",
+            "startOffset": 36344,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 25141,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The target tissue that was obtained from the ATC code of this drug is the heart.",
+            "startOffset": 25061,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 17763,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 17762,
+                    "startOffset": 17759
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This medicine affects nasopharynx tissue according to the drug's original intended design [3].",
+            "startOffset": 17669,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21215,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "If we know the off-target tissue of the drug and the related symptom of the off-target tissue, we can predict the unintended effect of drug that occurs due to off-target tissue effects.",
+            "startOffset": 21030,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 35308,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "All proteins are not located in all tissues.",
+            "startOffset": 35264,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 33119,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Fig. 3c, d) shows the count of significant relations in the high-scored 3\u201330% group and low-scored 3\u201330% group.",
+            "startOffset": 33008,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 25685,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Therefore, the matrix's score represented multiple proteins of one drug.",
+            "startOffset": 25613,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 35928,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This matrix was calculated from drug - target protein, drug - target system, drug \u2013 indication (symptom), tissue - protein, and tissue - system.",
+            "startOffset": 35784,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 26593,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "As explained in a previous section, our prediction method needs target protein information and ATC code on the first level of drugs of interest, which were obtained from DrugBank.",
+            "startOffset": 26414,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 20920,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Our prediction is that Symptom1 and Symptom2 were related with Tissue2 by Dr1's off-target tissue effect.",
+            "startOffset": 20815,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 21684,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In conclusion, this relation of T-SM represents a symptom caused by a target protein on tissue with tissue protein (Fig. 2).",
+            "startOffset": 21560,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 32326,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "If a relation has a higher index than others, then the relation is a biologically meaningful one.",
+            "startOffset": 32229,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 20487,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The target protein of Dr1 is P1.",
+            "startOffset": 20455,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 33895,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The Jaccard index of the top group was 5.081 \u00d7 10\u22124.",
+            "startOffset": 33843,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 26007,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We investigated known drug side-effects.",
+            "startOffset": 25967,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 24945,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To create this relation, we should check the relation between beta-1 adrenergic receptor (ADRB1) and brain tissue on the HPA database.",
+            "startOffset": 24811,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 31032,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 31031,
+                    "startOffset": 31027
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "We confirmed a conventional co-occurrence of two entities from each relation in one sentence in the abstracts of published papers [19].",
+            "startOffset": 30897,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 17448,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This drug has been usually prescribed to allergic rhinitis with hypersecretion of nasal discharge.",
+            "startOffset": 17350,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29530,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 29430,
+                    "startOffset": 29426
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "One study [14] reported that the mechanism of aggravation is to affect the autonomic nervous system by sildenafil.",
+            "startOffset": 29416,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 19462,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "We defined the off-target tissues as a set of all other tissues, which produce the target proteins, except for the target tissues.",
+            "startOffset": 19332,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 19649,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Tissue protein is defined as the protein produced in particular tissues.",
+            "startOffset": 19577,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 34097,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The bottom group also had 30 relations.",
+            "startOffset": 34058,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 20340,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The output symptoms are interpreted as the off-target tissue effects of the drug of interest.",
+            "startOffset": 20247,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 27013,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The nAChR is located in the central nervous system (CNS) and peripheral nervous systems (PNS).",
+            "startOffset": 26919,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 27235,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Pulmonary irritant receptors as cough receptor were produced in the lung and airway.",
+            "startOffset": 27151,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 21288,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The proposed matrix was built from various information of marketed drugs.",
+            "startOffset": 21215,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 30224,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The original indication of this drug is obesity, and the repositioning indication of this drug is depression.",
+            "startOffset": 30115,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 24684,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We show an example of the relation of our matrix.",
+            "startOffset": 24635,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 29902,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 29901,
+                    "startOffset": 29897
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "The drug's repositioning in Liu's list and the treatment of this drug is Cushing syndrome [15].",
+            "startOffset": 29807,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 18093,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In summary, the initial generation of antihistamines was prescribed for treating allergic rhinitis, while this drug's side-effect was drowsiness.",
+            "startOffset": 17948,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27950,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In this process, galantamine is the cause of respiratory myoclonus.",
+            "startOffset": 27883,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 33842,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The number of relations in the bottom group was the same as that of the top group.",
+            "startOffset": 33760,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 19263,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Firstly, we obtain all tissue information including proteins of interest.",
+            "startOffset": 19190,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 33970,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "This index was approximately 4 times higher than that of the bottom group.",
+            "startOffset": 33896,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 16215,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "To investigate the second item, which is the off-target tissue effect, has been difficult due to a lack of information between human tissues and proteins.",
+            "startOffset": 16061,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18852,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Next, we explain the tissue protein \u2013 symptom matrix (T-SM).",
+            "startOffset": 18792,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19830,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The second part is to find relations in the tissue protein \u2013 symptom matrix.",
+            "startOffset": 19754,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 26187,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 26186,
+                    "startOffset": 26183
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "We obtained drug side-effect information from SIDER [8].",
+            "startOffset": 26131,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 19754,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "This tissue protein information is utilized to find integrations in the tissue protein \u2013 symptom matrix.",
+            "startOffset": 19650,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 25342,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "When the relations were established, we assigned a lower score if a drug had many proteins.",
+            "startOffset": 25251,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 28797,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Analyzing those drugs' off-target tissues confirmed difference between tissues related with the original drug indications and tissues related with drug repositioning indications.",
+            "startOffset": 28619,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 28884,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The first drug is sildenafil, which is one of the most famous drug repositioning cases.",
+            "startOffset": 28797,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 33759,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the case of tissue-symptom relations, the number of relations in the top group, which had a T-SM score 1, was 126.",
+            "startOffset": 33642,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 21357,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "This matrix contains relations between tissue proteins and symptoms.",
+            "startOffset": 21289,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 16460,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We utilized HPA DB to investigate the second mechanism of drugs' unintended effects.",
+            "startOffset": 16376,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35063,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This information represents the drug of interest's target system.",
+            "startOffset": 34998,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 24810,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In the matrix, one relation was made between heart beta-1 adrenergic receptor (tissue protein) and angina pectoris (symptom).",
+            "startOffset": 24685,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 16851,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Of course, overlapped proteins in human tissues existed.",
+            "startOffset": 16795,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19096,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The first part is to identify the off-target tissue of the drug of interest.",
+            "startOffset": 19020,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 27435,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 27434,
+                    "startOffset": 27430
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "The bindings eventually cause a cough by transmitted signaling in a cough center on the medulla through the branches of the vagus nerves [10].",
+            "startOffset": 27293,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 16794,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the Human Protein Atlas (HPA) project, they investigated which proteins are synthesized in each tissue/organ of the human body for 90% of proteins that are currently known.",
+            "startOffset": 16619,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27882,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In their study, galantamine causes muscular hyper contractibility and muscle cramps.",
+            "startOffset": 27798,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 19576,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Tissue protein information related with the drug are built by combining the off-target tissue and target protein.",
+            "startOffset": 19463,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 21419,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The tissue protein means that the proteins existed in tissue.",
+            "startOffset": 21358,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 35650,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this process, we produce tissue proteins of the drug of interest.",
+            "startOffset": 35582,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 34552,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It means that the drug can affect multiple tissues.",
+            "startOffset": 34501,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 27707,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This compound is indicated to treat memory impairment through Alzheimer's disease, which affects the CNS.",
+            "startOffset": 27602,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 31975,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Fig. 3b) shows a comparison of the average values of the Jaccard index from all relations of our result and 10 random sets.",
+            "startOffset": 31852,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 25060,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The target protein of this drug is ADRB1.",
+            "startOffset": 25019,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 29128,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In the result of an analysis by using our proposed T-SM, this drug was related with apnea as symptom.",
+            "startOffset": 29027,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 20814,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Thus, the off-target tissue effects are Symptom1 and Symptom2.",
+            "startOffset": 20752,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 30896,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "One of the linkages is tissue-symptom relation, and the other is protein \u2013 symptom relation.",
+            "startOffset": 30804,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 20027,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "We can predict the unintended effects of a drug of interest by the off-target tissue effect from confirming the tissue protein on T-SM.",
+            "startOffset": 19892,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 32619,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On protein-symptom relations, our result was 2.04 times higher than for a random set.",
+            "startOffset": 32534,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 27514,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In conclusion, coughs caused by nicotine could be an off-target tissue effect.",
+            "startOffset": 27436,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 32429,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We performed difference analysis between the relations of a random set and the relations of our matrix.",
+            "startOffset": 32326,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 36780,
+            "parents": [],
+            "secId": "sec6",
+            "sentence": "All authors declare that they have no conflict of interest to the publication of this article, and approved the manuscript and this submission.",
+            "startOffset": 36637,
+            "title": "Conflict of interest"
+        },
+        {
+            "endOffset": 29598,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Therefore, we confirmed that apnea could be affected by sildenafil.",
+            "startOffset": 29531,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 32930,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The first analysis was a comparison of the count of significant relations.",
+            "startOffset": 32856,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 35191,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, all tissues in other systems except the target system can be candidates of the off-target tissue of the drug of interest.",
+            "startOffset": 35064,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 30114,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The third drug is sibutramine.",
+            "startOffset": 30084,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 30715,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We evaluated the tissue protein \u2013 symptom relations of T-SM by confirming the relations through literature mining.",
+            "startOffset": 30601,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 35581,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Tissue protein information can be produced from off-target tissue and the drug's target protein.",
+            "startOffset": 35485,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 25774,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The correctness of the matrix can slightly be improved by changing the scoring function.",
+            "startOffset": 25686,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 20246,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The output data of the prediction method are tissue proteins, symptoms, and T-SM scores.",
+            "startOffset": 20158,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 18791,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This paper firstly introduce our prediction methods.",
+            "startOffset": 18739,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25612,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, in the case of a drug that has 3 target proteins, the score of the relation is 0.33.",
+            "startOffset": 25519,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 25966,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We predicted unintended effects by off-target tissue effects of drugs of interest by using the Tissue protein \u2013 Symptom Matrix (T-SM).",
+            "startOffset": 25832,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 29711,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The second drug is mifepristone, which was generally prescribed for terminating pregnancy as original indication.",
+            "startOffset": 29598,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 24372,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Symptoms, as the other dimension, totaled 58, including headache, apnea, diarrhea, and seizures.",
+            "startOffset": 24276,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 17349,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "As an example of this phenomenon, in the case of Fexofenadine (DB00950), which is an anti-histamine drug class, the target protein of the drug is the Histamine receptor H1.",
+            "startOffset": 17177,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26251,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We extracted predictable drugs on T-SM from all drugs in SIDER.",
+            "startOffset": 26188,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 36160,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 36159,
+                    "startOffset": 36155
+                },
+                "bib8": {
+                    "endOffset": 36103,
+                    "startOffset": 36100
+                }
+            },
+            "secId": "sec4",
+            "sentence": "By using T-SM, we analyzed side-effects from SIDER [8] and successful drug repositioning from Liu's study [12].",
+            "startOffset": 36049,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 32228,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "So, we counted the occurrences of each single entity in our relation from 100 million sentences and the co-occurrence of two entities in sentences.",
+            "startOffset": 32081,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 32708,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "From the result of this analysis, we confirmed that our result had meaningful relations.",
+            "startOffset": 32620,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 34057,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the case of protein-symptom relations, the number of relations in top group was 30.",
+            "startOffset": 33971,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM) assessment by literature mining"
+        },
+        {
+            "endOffset": 28949,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The originally designed indication of this drug is hypertension.",
+            "startOffset": 28885,
+            "title": "Drug repositioning (comparison with successful drug repositioning)"
+        },
+        {
+            "endOffset": 26413,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "As a result, we analyzed 449 drugs from SIDER (Supplementary data 4).",
+            "startOffset": 26344,
+            "title": "Side-effect prediction (comparison with SIDER database)"
+        },
+        {
+            "endOffset": 34997,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We used ATC code's first level to find off-target tissues of a drug of interest.",
+            "startOffset": 34917,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 36237,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we predicted unintended effects by off-target tissue effects.",
+            "startOffset": 36161,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 20382,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Fig. 1 shows an example of our prediction.",
+            "startOffset": 20340,
+            "title": "Prediction method"
+        },
+        {
+            "endOffset": 24635,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussions"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The drug information was collected from 210 marketed drugs.",
+            "startOffset": 24576,
+            "title": "Tissue protein \u2013 symptom matrix (T-SM)"
+        },
+        {
+            "endOffset": 20751,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Dr1 can affect Tissue2 through the target protein P1 enriched in Tissue2.",
+            "startOffset": 20678,
+            "title": "Prediction method"
+        }
+    ],
+    "docId": "S0006291X15309645",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Docyong",
+                "initial": "D.",
+                "last": "Kim"
+            },
+            {
+                "email": null,
+                "first": "Jaehyun",
+                "initial": "J.",
+                "last": "Lee"
+            },
+            {
+                "email": null,
+                "first": "Sunjae",
+                "initial": "S.",
+                "last": "Lee"
+            },
+            {
+                "email": null,
+                "first": "Junseok",
+                "initial": "J.",
+                "last": "Park"
+            },
+            {
+                "email": "dhlee@kaist.ac.kr",
+                "first": "Doheon",
+                "initial": "D.",
+                "last": "Lee"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.11.095",
+        "firstpage": "399",
+        "issn": "0006291X",
+        "keywords": [
+            "Drug repositioning",
+            "Off-target tissue effect",
+            "Side-effect prediction",
+            "Tissue protein-symptom matrix",
+            "Unintended effect"
+        ],
+        "lastpage": "404",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Predicting unintended effects of drugs based on off-target tissue effects"
+    }
+}

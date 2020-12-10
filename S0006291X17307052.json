@@ -1,0 +1,2500 @@
+{
+    "abstract": "RNA polymerase II (Pol II) is a 12-subunit protein complex that conducts the transcription of mRNA and some small RNAs. In this work, the crystal structure of Pol II from the methylotropic yeast Komagataella pastoris (Pichia pastoris) was determined. While the structure is highly homologous to that of Pol II from the budding yeast Saccharomyces cerevisiae, the stalk and clamp modules of the K.\u00a0pastoris Pol II displayed large inward rotations, closing the central cleft to a greater extent than in the known S.\u00a0cerevisiae Pol II structures. The conformational differences reflect the inherent flexibilities of the stalk and the clamp, as additional low-resolution structures of K.\u00a0pastoris Pol II in different crystal forms revealed diverse stalk and clamp orientations. Comparisons with other eukaryotic/archaeal RNA polymerase structures in the Protein Data Bank revealed the distributions of the stalk and clamp orientations. The conformational plasticity should be essential for transcriptional functions and binding various regulatory factors.",
+    "author_highlights": [
+        {
+            "endOffset": 14105,
+            "sentence": "K. pastoris Pol II was crystallized in three different crystal forms.",
+            "startOffset": 14036
+        },
+        {
+            "endOffset": 14191,
+            "sentence": "One of the structures showed a highly-closed conformation of the stalk and the clamp.",
+            "startOffset": 14106
+        },
+        {
+            "endOffset": 14278,
+            "sentence": "Structural comparisons revealed the ranges of the stalk and clamp movements of Pol II.",
+            "startOffset": 14192
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Cramer"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Bushnell"
+                },
+                {
+                    "first": "R. D.",
+                    "initial": "R.D.",
+                    "last": "Kornberg"
+                }
+            ],
+            "doi": "10.1126/science.1059493",
+            "firstpage": "1863",
+            "issn": "00368075",
+            "lastpage": "1876",
+            "pmid": "11313498",
+            "pub_year": 2001,
+            "title": "Structural basis of transcription: RNA polymerase II at 2.8 \u00e5ngstrom resolution",
+            "volume": "292"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Wentao",
+                    "initial": "W.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Cristina",
+                    "initial": "C.",
+                    "last": "Giles"
+                },
+                {
+                    "first": "Shisheng",
+                    "initial": "S.",
+                    "last": "Li"
+                }
+            ],
+            "doi": "10.1093/nar/gku333",
+            "firstpage": "7069",
+            "issn": "03051048",
+            "lastpage": "7083",
+            "pmid": "24813444",
+            "pub_year": 2014,
+            "title": "Insights into how Spt5 functions in transcription elongation and repressing transcription coupled DNA repair",
+            "volume": "42"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Higo"
+                },
+                {
+                    "first": "Noriyuki",
+                    "initial": "N.",
+                    "last": "Suka"
+                },
+                {
+                    "first": "Haruhiko",
+                    "initial": "H.",
+                    "last": "Ehara"
+                },
+                {
+                    "first": "Masatoshi",
+                    "initial": "M.",
+                    "last": "Wakamori"
+                },
+                {
+                    "first": "Shin",
+                    "initial": "S.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Hideaki",
+                    "initial": "H.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Shun ichi",
+                    "initial": "S.i.",
+                    "last": "Sekine"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Umehara"
+                },
+                {
+                    "first": "Shigeyuki",
+                    "initial": "S.",
+                    "last": "Yokoyama"
+                }
+            ],
+            "doi": "10.1007/s10969-014-9190-1",
+            "firstpage": "191",
+            "issn": "1345711X",
+            "lastpage": "199",
+            "pmid": "25398586",
+            "pub_year": 2014,
+            "title": "Development of a hexahistidine-3\u00d7 FLAG-tandem affinity purification method for endogenous protein complexes in Pichia pastoris",
+            "volume": "15"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Zbyszek",
+                    "initial": "Z.",
+                    "last": "Otwinowski"
+                },
+                {
+                    "first": "Wladek",
+                    "initial": "W.",
+                    "last": "Minor"
+                }
+            ],
+            "doi": "10.1016/S0076-6879(97)76066-X",
+            "firstpage": "307",
+            "issn": "00766879",
+            "lastpage": "326",
+            "pmid": "27754618",
+            "pub_year": 1997,
+            "title": "Processing of X-ray diffraction data collected in oscillation mode",
+            "volume": "276"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Kabsch"
+                }
+            ],
+            "doi": "10.1107/S0907444909047337",
+            "firstpage": "125",
+            "issn": "09074449",
+            "lastpage": "132",
+            "pmid": "20124692",
+            "pub_year": 2010,
+            "title": "XDS",
+            "volume": "66"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "G\u00e1bor",
+                    "initial": "G.",
+                    "last": "Bunk\u00f3czi"
+                },
+                {
+                    "first": "Randy J.",
+                    "initial": "R.J.",
+                    "last": "Read"
+                }
+            ],
+            "doi": "10.1107/S0907444910051218",
+            "firstpage": "303",
+            "issn": "09074449",
+            "lastpage": "312",
+            "pmid": "21460448",
+            "pub_year": 2011,
+            "title": "Improvement of molecular-replacement models with Sculptor",
+            "volume": "67"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Paul D.",
+                    "initial": "P.D.",
+                    "last": "Adams"
+                },
+                {
+                    "first": "Pavel V.",
+                    "initial": "P.V.",
+                    "last": "Afonine"
+                },
+                {
+                    "first": "G\u00e1bor",
+                    "initial": "G.",
+                    "last": "Bunk\u00f3czi"
+                },
+                {
+                    "first": "Vincent B.",
+                    "initial": "V.B.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Ian W.",
+                    "initial": "I.W.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Nathaniel",
+                    "initial": "N.",
+                    "last": "Echols"
+                },
+                {
+                    "first": "Jeffrey J.",
+                    "initial": "J.J.",
+                    "last": "Headd"
+                },
+                {
+                    "first": "Li Wei",
+                    "initial": "L.W.",
+                    "last": "Hung"
+                },
+                {
+                    "first": "Gary J.",
+                    "initial": "G.J.",
+                    "last": "Kapral"
+                },
+                {
+                    "first": "Ralf W.",
+                    "initial": "R.W.",
+                    "last": "Grosse-Kunstleve"
+                },
+                {
+                    "first": "Airlie J.",
+                    "initial": "A.J.",
+                    "last": "McCoy"
+                },
+                {
+                    "first": "Nigel W.",
+                    "initial": "N.W.",
+                    "last": "Moriarty"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Oeffner"
+                },
+                {
+                    "first": "Randy J.",
+                    "initial": "R.J.",
+                    "last": "Read"
+                },
+                {
+                    "first": "David C.",
+                    "initial": "D.C.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Jane S.",
+                    "initial": "J.S.",
+                    "last": "Richardson"
+                },
+                {
+                    "first": "Thomas C.",
+                    "initial": "T.C.",
+                    "last": "Terwilliger"
+                },
+                {
+                    "first": "Peter H.",
+                    "initial": "P.H.",
+                    "last": "Zwart"
+                }
+            ],
+            "doi": "10.1107/S0907444909052925",
+            "firstpage": "213",
+            "issn": "09074449",
+            "lastpage": "221",
+            "pmid": "20124702",
+            "pub_year": 2010,
+            "title": "PHENIX: A comprehensive Python-based system for macromolecular structure solution",
+            "volume": "66"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Emsley"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Cowtan"
+                }
+            ],
+            "doi": "10.1107/S0907444904019158",
+            "firstpage": "2126",
+            "issn": "09074449",
+            "lastpage": "2132",
+            "pmid": "15572765",
+            "pub_year": 2004,
+            "title": "Coot: Model-building tools for molecular graphics",
+            "volume": "60"
+        },
+        "bib17": null,
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Elaine C.",
+                    "initial": "E.C.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "Eric F.",
+                    "initial": "E.F.",
+                    "last": "Pettersen"
+                },
+                {
+                    "first": "Gregory S.",
+                    "initial": "G.S.",
+                    "last": "Couch"
+                },
+                {
+                    "first": "Conrad C.",
+                    "initial": "C.C.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Ferrin"
+                }
+            ],
+            "doi": "10.1186/1471-2105-7-339",
+            "issn": "14712105",
+            "pmid": "16836757",
+            "pub_year": 2006,
+            "title": "Tools for integrated sequence-structure analysis with UCSF Chimera",
+            "volume": "7"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Eric F.",
+                    "initial": "E.F.",
+                    "last": "Pettersen"
+                },
+                {
+                    "first": "Thomas D.",
+                    "initial": "T.D.",
+                    "last": "Goddard"
+                },
+                {
+                    "first": "Conrad C.",
+                    "initial": "C.C.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Gregory S.",
+                    "initial": "G.S.",
+                    "last": "Couch"
+                },
+                {
+                    "first": "Daniel M.",
+                    "initial": "D.M.",
+                    "last": "Greenblatt"
+                },
+                {
+                    "first": "Elaine C.",
+                    "initial": "E.C.",
+                    "last": "Meng"
+                },
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Ferrin"
+                }
+            ],
+            "doi": "10.1002/jcc.20084",
+            "firstpage": "1605",
+            "issn": "01928651",
+            "lastpage": "1612",
+            "pmid": "15264254",
+            "pub_year": 2004,
+            "title": "UCSF Chimera - A visualization system for exploratory research and analysis",
+            "volume": "25"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Hubert",
+                    "initial": "H.",
+                    "last": "Kettenberger"
+                },
+                {
+                    "first": "Karim Jean",
+                    "initial": "K.J.",
+                    "last": "Armache"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1016/S0092-8674(03)00598-1",
+            "firstpage": "347",
+            "issn": "00928674",
+            "lastpage": "357",
+            "pmid": "12914699",
+            "pub_year": 2003,
+            "title": "Architecture of the RNA polymerase II-TFIIS complex and implications for mRNA cleavage",
+            "volume": "114"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Finn",
+                    "initial": "F.",
+                    "last": "Werner"
+                },
+                {
+                    "first": "Dina",
+                    "initial": "D.",
+                    "last": "Grohmann"
+                }
+            ],
+            "doi": "10.1038/nrmicro2507",
+            "firstpage": "85",
+            "issn": "17401526",
+            "lastpage": "98",
+            "pmid": "21233849",
+            "pub_year": 2011,
+            "title": "Evolution of multisubunit RNA polymerases in the three domains of life",
+            "volume": "9"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Christoph",
+                    "initial": "C.",
+                    "last": "Engel"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Sainsbury"
+                },
+                {
+                    "first": "Alan C.",
+                    "initial": "A.C.",
+                    "last": "Cheung"
+                },
+                {
+                    "first": "Dirk",
+                    "initial": "D.",
+                    "last": "Kostrewa"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1038/nature12712",
+            "firstpage": "650",
+            "issn": "00280836",
+            "lastpage": "655",
+            "pmid": "24153182",
+            "pub_year": 2013,
+            "title": "RNA polymerase i structure and transcription regulation",
+            "volume": "502"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Niklas A.",
+                    "initial": "N.A.",
+                    "last": "Hoffmann"
+                },
+                {
+                    "first": "Arjen J.",
+                    "initial": "A.J.",
+                    "last": "Jakobi"
+                },
+                {
+                    "first": "Mar\u00eda",
+                    "initial": "M.",
+                    "last": "Moreno-Morcillo"
+                },
+                {
+                    "first": "Sebastian",
+                    "initial": "S.",
+                    "last": "Glatt"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Kosinski"
+                },
+                {
+                    "first": "Wim J.H.",
+                    "initial": "W.J.H.",
+                    "last": "Hagen"
+                },
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Sachse"
+                },
+                {
+                    "first": "Christoph W.",
+                    "initial": "C.W.",
+                    "last": "M\u00fcller"
+                }
+            ],
+            "doi": "10.1038/nature16143",
+            "firstpage": "231",
+            "issn": "00280836",
+            "lastpage": "236",
+            "pmid": "26605533",
+            "pub_year": 2015,
+            "title": "Molecular structures of unbound and transcribing RNA polymerase III",
+            "volume": "528"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Sung Hoon",
+                    "initial": "S.H.",
+                    "last": "Jun"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Hirata"
+                },
+                {
+                    "first": "Tamotsu",
+                    "initial": "T.",
+                    "last": "Kanai"
+                },
+                {
+                    "first": "Thomas J.",
+                    "initial": "T.J.",
+                    "last": "Santangelo"
+                },
+                {
+                    "first": "Tadayuki",
+                    "initial": "T.",
+                    "last": "Imanaka"
+                },
+                {
+                    "first": "Katsuhiko S.",
+                    "initial": "K.S.",
+                    "last": "Murakami"
+                }
+            ],
+            "doi": "10.1038/ncomms6132",
+            "issn": "20411723",
+            "pmid": "25311937",
+            "pub_year": 2014,
+            "title": "The X-ray crystal structure of the euryarchaeal RNA polymerase in an open-clamp configuration",
+            "volume": "5"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Plaschka"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Larivi\u00e8re"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Wenzeck"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Seizl"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Hemann"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Tegunov"
+                },
+                {
+                    "first": "E. V.",
+                    "initial": "E.V.",
+                    "last": "Petrotchenko"
+                },
+                {
+                    "first": "C. H.",
+                    "initial": "C.H.",
+                    "last": "Borchers"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Baumeister"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Herzog"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Villa"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1038/nature14229",
+            "firstpage": "376",
+            "issn": "00280836",
+            "lastpage": "380",
+            "pmid": "25652824",
+            "pub_year": 2015,
+            "title": "Architecture of the RNA polymerase II-Mediator core initiation complex",
+            "volume": "518"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Magdalena",
+                    "initial": "M.",
+                    "last": "Wojtas"
+                },
+                {
+                    "first": "Bibiana",
+                    "initial": "B.",
+                    "last": "Peralta"
+                },
+                {
+                    "first": "Marina",
+                    "initial": "M.",
+                    "last": "Ondiviela"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Mogni"
+                },
+                {
+                    "first": "Stephen D.",
+                    "initial": "S.D.",
+                    "last": "Bell"
+                },
+                {
+                    "first": "Nicola G.A.",
+                    "initial": "N.G.A.",
+                    "last": "Abrescia"
+                }
+            ],
+            "doi": "10.1042/BST0390025",
+            "firstpage": "25",
+            "issn": "03005127",
+            "lastpage": "30",
+            "pmid": "21265742",
+            "pub_year": 2011,
+            "title": "Archaeal RNA polymerase: The influence of the protruding stalk in crystal packing and preliminary biophysical analysis of the Rpo13 subunit",
+            "volume": "39"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Angela",
+                    "initial": "A.",
+                    "last": "Hirtreiter"
+                },
+                {
+                    "first": "Dina",
+                    "initial": "D.",
+                    "last": "Grohmann"
+                },
+                {
+                    "first": "Finn",
+                    "initial": "F.",
+                    "last": "Werner"
+                }
+            ],
+            "doi": "10.1093/nar/gkp928",
+            "firstpage": "585",
+            "issn": "03051048",
+            "lastpage": "596",
+            "pmid": "19906731",
+            "pub_year": 2010,
+            "title": "Molecular mechanisms of RNA polymerase-the F/E (RPB4/7) complex is required for high processivity in vitro",
+            "volume": "38"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Schulz"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Gietl"
+                },
+                {
+                    "first": "Katherine",
+                    "initial": "K.",
+                    "last": "Smollett"
+                },
+                {
+                    "first": "Philip",
+                    "initial": "P.",
+                    "last": "Tinnefeld"
+                },
+                {
+                    "first": "Finn",
+                    "initial": "F.",
+                    "last": "Werner"
+                },
+                {
+                    "first": "Dina",
+                    "initial": "D.",
+                    "last": "Grohmann"
+                },
+                {
+                    "first": "E. Peter",
+                    "initial": "E.P.",
+                    "last": "Geiduschek"
+                }
+            ],
+            "doi": "10.1073/pnas.1515817113",
+            "firstpage": "E1816",
+            "issn": "00278424",
+            "lastpage": "E1825",
+            "pmid": "26979960",
+            "pub_year": 2016,
+            "title": "TFE and Spt4/5 open and close the RNA polymerase clamp during the transcription cycle",
+            "volume": "113"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Karim Jean",
+                    "initial": "K.J.",
+                    "last": "Armache"
+                },
+                {
+                    "first": "Simone",
+                    "initial": "S.",
+                    "last": "Mitterweger"
+                },
+                {
+                    "first": "Anton",
+                    "initial": "A.",
+                    "last": "Meinhart"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1074/jbc.M413038200",
+            "firstpage": "7131",
+            "issn": "00219258",
+            "lastpage": "7134",
+            "pmid": "15591044",
+            "pub_year": 2005,
+            "title": "Structures of complete RNA polymerase II and its subcomplex, Rpb4/7",
+            "volume": "280"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Florian",
+                    "initial": "F.",
+                    "last": "Brueckner"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1038/nsmb.1458",
+            "firstpage": "811",
+            "issn": "15459993",
+            "lastpage": "818",
+            "pmid": "18552824",
+            "pub_year": 2008,
+            "title": "Structural basis of transcription inhibition by \u03b1-amanitin and implications for RNA polymerase II translocation",
+            "volume": "15"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Henrik",
+                    "initial": "H.",
+                    "last": "Sp\u00e5hr"
+                },
+                {
+                    "first": "Guillermo",
+                    "initial": "G.",
+                    "last": "Calero"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Bushnell"
+                },
+                {
+                    "first": "Roger D.",
+                    "initial": "R.D.",
+                    "last": "Kornberg"
+                }
+            ],
+            "doi": "10.1073/pnas.0903361106",
+            "firstpage": "9185",
+            "issn": "00278424",
+            "lastpage": "9190",
+            "pmid": "19458260",
+            "pub_year": 2009,
+            "title": "Schizosacharomyces pombe RNA polymerase II at 3.6-\u00c5 resolution",
+            "volume": "106"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Carrie",
+                    "initial": "C.",
+                    "last": "Bernecky"
+                },
+                {
+                    "first": "Franz",
+                    "initial": "F.",
+                    "last": "Herzog"
+                },
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Baumeister"
+                },
+                {
+                    "first": "J\u00fcrgen M.",
+                    "initial": "J.M.",
+                    "last": "Plitzko"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1038/nature16482",
+            "firstpage": "551",
+            "issn": "00280836",
+            "lastpage": "554",
+            "pmid": "26789250",
+            "pub_year": 2016,
+            "title": "Structure of transcribing mammalian RNA polymerase II",
+            "volume": "529"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Yuan",
+                    "initial": "Y.",
+                    "last": "He"
+                },
+                {
+                    "first": "Chunli",
+                    "initial": "C.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "Jie",
+                    "initial": "J.",
+                    "last": "Fang"
+                },
+                {
+                    "first": "Carla",
+                    "initial": "C.",
+                    "last": "Inouye"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Tjian"
+                },
+                {
+                    "first": "Ivaylo",
+                    "initial": "I.",
+                    "last": "Ivanov"
+                },
+                {
+                    "first": "Eva",
+                    "initial": "E.",
+                    "last": "Nogales"
+                }
+            ],
+            "doi": "10.1038/nature17970",
+            "firstpage": "359",
+            "issn": "00280836",
+            "lastpage": "365",
+            "pmid": "27193682",
+            "pub_year": 2016,
+            "title": "Near-atomic resolution visualization of human transcription promoter opening",
+            "volume": "533"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Plaschka"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Hantsche"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Dienemann"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Burzinski"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Plitzko"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Cramer"
+                }
+            ],
+            "doi": "10.1038/nature17990",
+            "firstpage": "353",
+            "issn": "00280836",
+            "lastpage": "358",
+            "pmid": "27193681",
+            "pub_year": 2016,
+            "title": "Transcription initiation complex structures elucidate DNA opening",
+            "volume": "533"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Philip J.",
+                    "initial": "P.J.",
+                    "last": "Robinson"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Trnka"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Bushnell"
+                },
+                {
+                    "first": "Ralph E.",
+                    "initial": "R.E.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Pierre Jean",
+                    "initial": "P.J.",
+                    "last": "Mattei"
+                },
+                {
+                    "first": "Alma L.",
+                    "initial": "A.L.",
+                    "last": "Burlingame"
+                },
+                {
+                    "first": "Roger D.",
+                    "initial": "R.D.",
+                    "last": "Kornberg"
+                }
+            ],
+            "doi": "10.1016/j.cell.2016.08.050",
+            "firstpage": "1411",
+            "issn": "00928674",
+            "lastpage": "1422.e16",
+            "pmid": "27610567",
+            "pub_year": 2016,
+            "title": "Structure of a Complete Mediator-RNA Polymerase II Pre-Initiation Complex",
+            "volume": "166"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 27151,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The clamps also exhibited slightly closed conformations.",
+            "startOffset": 27095,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 19176,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The type-3 crystals were cryoprotected with a solution containing 20 mM Tris-acetate (pH 8.0), 15 mM Tris, 35 mM Hepes, 50 mM potassium acetate, 2 mM magnesium acetate, 150 mM sodium citrate, 0.5% dextran sulfate, 10% PGA-LM, and 20% glycerol.",
+            "startOffset": 18933,
+            "title": "Data collection"
+        },
+        {
+            "endOffset": 16266,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 16265,
+                    "startOffset": 16261
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "TAP-tagged K. pastoris Pol II was prepared as previously described [11].",
+            "startOffset": 16194,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 26943,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In contrast, the type-3A and 3B structures exhibited intermediate conformations between the type-1 and type-2 structures (PDB: 5X51).",
+            "startOffset": 26810,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 22350,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The type-2 crystals belonged to the space group P31, and diffracted X-rays to \u223c4 \u00c5.",
+            "startOffset": 22267,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 16706,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The genomic fragment encoding K. pastoris TFIIE\u03b2 (a.a. 73\u2013281) was cloned into the pET-47b vector (Novagen), and the protein was expressed in E. coli Rosetta 2 (DE3) by induction with 0.2 mM isopropyl-\u03b2-thiogalactopyranoside at 288K.",
+            "startOffset": 16473,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 30357,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Since the clamp is the binding site for the downstream DNA, and the DNA unwinding occurs near the hinge region of the clamp, it is possible that the dynamic nature of the clamp is involved in the process of nucleotide translocation.",
+            "startOffset": 30125,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20557,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The centroids of the C\u03b1 positions of the stalk OB fold domain were used to represent the stalk positions.",
+            "startOffset": 20452,
+            "title": "Structure comparison"
+        },
+        {
+            "endOffset": 19811,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 19810,
+                    "startOffset": 19806
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "After molecular replacement with phenix.automr, rigid body refinement of the Pol II structural modules was performed with phenix.refine for the type-1 and type-3 structures [15].",
+            "startOffset": 19633,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 29334,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 29260,
+                    "startOffset": 29257
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "In contrast, S. cerevisiae Pol III (PDB: 5FJA), the closed state structures of human Pol II pre-initiation complexes (PDB: 5IY6 and 5IYA) [7], and S. pombe Pol II (PDB: 2PMZ) displayed relatively open conformations.",
+            "startOffset": 29119,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 24766,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The CTD linker seems to move concurrently with the stalk, which indicates that the linker is important for anchoring the stalk to the rest of the pol II body.",
+            "startOffset": 24608,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 27892,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "To comprehend the conformational variability in the stalks and the clamps of multi-subunit RNAPs, 89 structures of eukaryotic Pol I, the stalk-containing Pol II (including the present K. pastoris Pol II), Pol III, and archaeal RNAP were superimposed and compared (Supplementary Table S2).",
+            "startOffset": 27604,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 29680,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, we determined the crystal structure of Pol II from K. pastoris.",
+            "startOffset": 29595,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26809,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "As for the clamp orientation, the two type-1 structures displayed slightly open conformations, as compared to the S. cerevisiae structure.",
+            "startOffset": 26671,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 19478,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 19477,
+                    "startOffset": 19470
+                },
+                "bib13": {
+                    "endOffset": 19477,
+                    "startOffset": 19470
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Diffraction data were processed with HKL2000 for the type-1 crystal, and with XDS for the type-2 and type-3 crystals [12,13].",
+            "startOffset": 19353,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 14540,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Pol II is a protein complex consisting of 12 different subunits.",
+            "startOffset": 14476,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19327,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Diffraction data were collected at SPring-8 BL32XU (Harima, Japan) for the type-1 crystals, and at SPring-8 BL41XU for the type-2 and type-3 crystals.",
+            "startOffset": 19177,
+            "title": "Data collection"
+        },
+        {
+            "endOffset": 31118,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, the stalk/clamp mobility supports the Pol II adaptability to a variety of regulatory factors and the many distinct structural states during the course of transcription.",
+            "startOffset": 30944,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21440,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Optimization of the reagent concentrations yielded plate-shaped single crystals (hereafter designated as the type-1 crystals; Supplementary Fig. S1).",
+            "startOffset": 21291,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 18331,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The sample was cleared by centrifugation, and the supernatant was subjected to crystallization.",
+            "startOffset": 18236,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 23211,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "However, K. pastoris Pol II exhibited significant differences in the orientations of the Rpb4/7 stalk and the clamp, relative to the rest of the molecule, as compared with the reported structure of S. cerevisiae Pol II (Fig. 1B; PDB: 2VUM).",
+            "startOffset": 22971,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 17901,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The type-1 crystals were obtained at 293K, with a reservoir solution containing 0.2 M sodium citrate, 8% PGA-LM (poly-\u03b3-glutamic acid low molecular weight, Molecular Dimensions), and 10% glycerol.",
+            "startOffset": 17705,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 25432,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The clamp movement observed in K. pastoris Pol II is its rotation relative to the shelf module, and the axis of rotation seems to reside in the base of the clamp's coiled-coil domain (Fig. 2E).",
+            "startOffset": 25239,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 28599,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 28550,
+                    "startOffset": 28546
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "In contrast, the most tilted or \u201cdrooping\u201d orientation was observed in the present K. pastoris Pol II (type-2) structure, followed by one of the cryo-EM structures of the Pol II initiation complex (PDB: 4V1N) [24] and the type-3A structure of K. pastoris Pol II.",
+            "startOffset": 28337,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 16472,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Unlike S. cerevisiae Pol II, K. pastoris Pol II existed as a 12 subunit complex containing the Rpb4/7 subunits, and fractions lacking the Rpb4/7 subunits were not detected during the chromatographic steps.",
+            "startOffset": 16267,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 26401,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Although their resolutions were low, rigid-body refinements were performed for the type-1 and type-3 Pol II crystal structures, which allowed a comparison of their overall conformations (Fig. 3 and Supplementary Fig. S3).",
+            "startOffset": 26180,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 18764,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The type-1 crystals were cryoprotected with a solution containing 20 mM Tris-acetate (pH 8.0), 100 mM potassium acetate, 2 mM magnesium acetate, 200 mM sodium citrate, 8% PGA-LM, and 20% glycerol, and then flash-cooled in liquid nitrogen.",
+            "startOffset": 18526,
+            "title": "Data collection"
+        },
+        {
+            "endOffset": 14799,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14636,
+                    "startOffset": 14633
+                },
+                "bib2": {
+                    "endOffset": 14798,
+                    "startOffset": 14793
+                },
+                "bib3": {
+                    "endOffset": 14798,
+                    "startOffset": 14793
+                },
+                "bib4": {
+                    "endOffset": 14798,
+                    "startOffset": 14793
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Since the first crystal structure of Pol II from the budding yeast Saccharomyces cerevisiae [1], many structures of Pol II in complex with various nucleotides, nucleotide analogs, inhibitors, nucleic acids, and transcription factors have been reported [2\u20134].",
+            "startOffset": 14541,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21179,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The protein was crystallized under conditions containing PGA-LM and sodium citrate at 293 K.",
+            "startOffset": 21087,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 17704,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Crystallization was performed by the sitting-drop vapor diffusion method.",
+            "startOffset": 17631,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 23367,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The stalk of K. pastoris Pol II is tilted toward the Pol II body by approximately 20\u00b0, which moved the distal tip of the stalk by more than 20 \u00c5 (Fig. 1C).",
+            "startOffset": 23212,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 16944,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The lysate was cleared by centrifugation and then loaded on a Ni-Sepharose FF column (GE Healthcare).",
+            "startOffset": 16843,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 28336,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 28230,
+                    "startOffset": 28226
+                },
+                "bib22": {
+                    "endOffset": 28282,
+                    "startOffset": 28278
+                },
+                "bib23": {
+                    "endOffset": 28335,
+                    "startOffset": 28331
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "The most \u201cupright\u201d orientation was observed in the S. cerevisiae Pol I structures (PDB: 4C2M) [21], followed by S. cerevisiae Pol III (PDB: 5FJA) [22] and Thermococcus kodakaraensis RNAP (PDB: 4QIW) [23].",
+            "startOffset": 28132,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 17305,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The protein was eluted with buffer A containing 30 mM imidazole, and then dialyzed against buffer B [50 mM Tris-HCl (pH 8.0), 100 mM potassium acetate, and 10 mM \u03b2-mercaptoethanol].",
+            "startOffset": 17124,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 26670,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The type-1A and type-1B structures (PDB: 5X4Z) are quite similar to that of S. cerevisiae Pol II (PDB: 2VUM), in terms of the stalk positions.",
+            "startOffset": 26528,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 24463,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "While the structures of the Rpb4/7 stalk and the Rpb6 subunit are mostly similar between the K. pastoris and S. cerevisiae Pol IIs, the region of Rpb1 connecting the body of Rpb1 with its C-terminal domain (CTD linker, residues 1445 to 1457) displays significant displacement between the two structures (Fig. 2B and C).",
+            "startOffset": 24144,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 26101,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "This may support the apparently cooperative motion between the stalk-tilting and the clamp-closure (Fig. 2F).",
+            "startOffset": 25992,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 24143,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The Rpb4/7 stalk binding to the Pol II body is mediated via interactions between the tip of the stalk Rpb7 subunit and a pocket on the Pol II body, formed by the Rpb1, Rpb2, and Rpb6 subunits (Fig. 2A).",
+            "startOffset": 23941,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 22047,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Phases were determined by molecular replacement, using the coordinates of S. cerevisiae Pol II (PDB: 2VUM) as the search model.",
+            "startOffset": 21920,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 28989,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "A comparison of the clamp orientations also revealed the possible range of the clamp movement (Fig. 4C and D).",
+            "startOffset": 28879,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 23940,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To understand the structural elements that caused the structural differences observed between K. pastoris Pol II and S. cerevisiae Pol II, we investigated the hinge regions connecting the stalk and the clamp to the rest of the Pol II molecule.",
+            "startOffset": 23697,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 21086,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 21085,
+                    "startOffset": 21081
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "We previously reported the purification and preliminary crystallization of Pol II from K. pastoris [11].",
+            "startOffset": 20982,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 18135,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The type-3 crystals were obtained in the presence of TFIIE\u03b2 (73\u2013281).",
+            "startOffset": 18066,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 21290,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In the present study, we optimized the crystallization conditions, and obtained three different crystal forms.",
+            "startOffset": 21180,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 29584,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 29583,
+                    "startOffset": 29579
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "While most of the clamp conformations are distributed between these two extremes, the T. kodakaraensis RNAP structure exhibits an exceptionally opened conformation, which could be regarded as a distinct structural state as described previously [23].",
+            "startOffset": 29335,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 22266,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "For these crystal types, the asymmetric unit contained two Pol II molecules.",
+            "startOffset": 22190,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 20142,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Further rigid body refinement and morph refinement were subsequently performed with phenix.refine and phenix.morph_models.",
+            "startOffset": 20020,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 30008,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The Pol II structures of the other crystal types (types 1 and 3) also showed variations in the stalk and clamp orientations, revealing the inherent mobility of these modules.",
+            "startOffset": 29834,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15052,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 14991,
+                    "startOffset": 14988
+                },
+                "bib6": {
+                    "endOffset": 15051,
+                    "startOffset": 15046
+                },
+                "bib7": {
+                    "endOffset": 15051,
+                    "startOffset": 15046
+                },
+                "bib8": {
+                    "endOffset": 15051,
+                    "startOffset": 15046
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Most of these high-resolution structural studies have been performed with S. cerevisiae Pol II, except for the crystal structure of Pol II from the fission yeast Schizosaccharomyces pombe [5] and the recent cryo-EM structures of mammalian Pol II [6\u20138].",
+            "startOffset": 14800,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21632,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Bulky and differently shaped crystals (the type-2 crystals) appeared by performing the crystallization at a lower temperature (285 K) and/or in the presence of dextran sulfate as an additive.",
+            "startOffset": 21441,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 27544,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In addition, the five independent structures of K. pastoris Pol II revealed the large motion ranges of the stalk and the clamp, especially toward the cleft-closing conformation as identified in the type-2 structure.",
+            "startOffset": 27329,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 25607,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 25606,
+                    "startOffset": 25602
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "The region of the clamp's coiled-coil that connects the clamp to the Pol II active site is called switch 2, and is highly conserved in all multi-subunit RNA polymerases [20].",
+            "startOffset": 25433,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 16842,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The cells were resuspended in buffer A [50 mM Tris-HCl (pH 8.0), 700 mM NaCl, and 10 mM \u03b2-mercaptoethanol] and disrupted by sonication.",
+            "startOffset": 16707,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 16150,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the K. pastoris Pol II structure, the stalk and the clamp are both extremely closed, indicating that the inherent ranges of motion of these two modules are much larger than those observed in previous studies.",
+            "startOffset": 15939,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17613,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The protein was concentrated to 5.8 mg/ml, and stored at \u221220 \u00b0C.",
+            "startOffset": 17549,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 22970,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The structures of the individual subunits and domains are mostly identical between K. pastoris Pol II and S. cerevisiae Pol II, as expected from their high sequence conservation (see Supplementary Fig. S2 for the alignment).",
+            "startOffset": 22746,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 30943,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 30942,
+                    "startOffset": 30938
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Therefore, it is likely that some particular orientations of the stalk and the clamp should be required for optimal interactions with such factors, and specific conformations could be stabilized by transcription factor binding, as suggested by FRET analyses [27].",
+            "startOffset": 30680,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19632,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 19564,
+                    "startOffset": 19560
+                },
+                "bib4": {
+                    "endOffset": 19631,
+                    "startOffset": 19628
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "The initial model for the molecular replacement was created with phenix.sculptor [14], using the coordinates of the S. cerevisiae Pol II (PDB: 2VUM) [4].",
+            "startOffset": 19479,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 28879,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The distribution of the stalk orientations suggests that the swing motion of the stalk is more prominent along one particular axis, while the movement is more restricted in other directions (Fig. 4B).",
+            "startOffset": 28679,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 20906,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The calculation of the centroid positions was also performed with USCF Chimera.",
+            "startOffset": 20827,
+            "title": "Structure comparison"
+        },
+        {
+            "endOffset": 14475,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "RNA polymerase II (Pol II) is a huge cellular factory that transcribes genes and synthesizes the precursors of mRNAs and small RNAs.",
+            "startOffset": 14343,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15388,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 15387,
+                    "startOffset": 15381
+                },
+                "bib7": {
+                    "endOffset": 15387,
+                    "startOffset": 15381
+                },
+                "bib8": {
+                    "endOffset": 15387,
+                    "startOffset": 15381
+                },
+                "bib9": {
+                    "endOffset": 15387,
+                    "startOffset": 15381
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The stalk and the clamp are especially mobile, and their dynamics are implicated in fundamental transcription functions and interactions with transcription factors [7\u201310].",
+            "startOffset": 15217,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18065,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The type-2 crystals were grown at 285K with a reservoir solution containing 0.2 M sodium citrate, 8% PGA-LM, and 1% dextran sulfate sodium salt (Hampton Research).",
+            "startOffset": 17902,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 23480,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The clamp displayed an inward rotation of 5\u00b0, which caused its coiled-coil domain to be displaced by around 6 \u00c5.",
+            "startOffset": 23368,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 30125,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Comparisons with numerous RNAP structures deposited in the PDB also confirmed the high flexibility of these modules.",
+            "startOffset": 30009,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15835,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 15834,
+                    "startOffset": 15830
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We previously reported the tandem-affinity purification of Pol II from Komagataella pastoris (formerly called Pichia pastoris), a methylotrophic yeast well-known for high-density cultivation, and demonstrated its suitability for crystallization [11].",
+            "startOffset": 15585,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23637,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This indicates that the stalk and the clamp of Pol II can adopt more closed orientations than those observed in the S. cerevisiae Pol II elongation complex.",
+            "startOffset": 23481,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 30679,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 30678,
+                    "startOffset": 30672
+                },
+                "bib7": {
+                    "endOffset": 30678,
+                    "startOffset": 30672
+                },
+                "bib8": {
+                    "endOffset": 30678,
+                    "startOffset": 30672
+                },
+                "bib9": {
+                    "endOffset": 30678,
+                    "startOffset": 30672
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Transcription-related factors, such as THIIE and the mediator for the initiation complex, and Spt4/5 for the elongation complex, bind in the region around the stalk and the clamp [7\u201310].",
+            "startOffset": 30493,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25824,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The switch 2 region contains four conserved glycine residues (Gly331, Gly334, Gly338, and Gly342), which probably provide sufficient flexibility to support the clamp movement observed in K. pastoris Pol II (Fig. 2E).",
+            "startOffset": 25608,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 15216,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15215,
+                    "startOffset": 15210
+                },
+                "bib3": {
+                    "endOffset": 15215,
+                    "startOffset": 15210
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The overall structures of Pol II are divided into five modules: the clamp, core, shelf, jaw-lobe, and stalk, and their relative positions are quite flexible [1,3].",
+            "startOffset": 15053,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27328,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Thus, the largely closed conformation observed in the type-2 structure is not a species-specific difference, but reflects the inherent flexibilities of the stalk and the clamp.",
+            "startOffset": 27152,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 25239,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "This loop contains several highly-conserved small residues, Gly59, Pro63, Gly64, Gly66, and Ala68, which may explain the structural adaptation of the Rpb7 tip to the conformational change accompanying the large rotation of the stalk (Fig. 2D).",
+            "startOffset": 24996,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 24607,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The CTD linker includes a short \u03b2 strand and an \u03b1 helix, which anchor the stalk by hydrophobic interactions and form a short \u03b2 sheet with Rpb7.",
+            "startOffset": 24464,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 20826,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "For the clamp coiled-coil, residues 281 to 287 in S. cerevisiae Pol II and their corresponding residues were used for the centroid calculation except in the Pol I structures with a longer coiled-coil domain, where residues 401, 402, 419, and 420 were employed instead.",
+            "startOffset": 20558,
+            "title": "Structure comparison"
+        },
+        {
+            "endOffset": 20191,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 20190,
+                    "startOffset": 20186
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Structural figures were created with PyMOL [17].",
+            "startOffset": 20143,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 22189,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The type-1 and type-3 crystals were found to belong to the space group P21 with different unit cell constants, and diffracted X-rays to \u223c7 \u00c5.",
+            "startOffset": 22048,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 21919,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "X-ray diffraction data were collected for all three crystal types by using synchrotron radiation at SPring-8, Japan (Supplementary Table S1).",
+            "startOffset": 21778,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 24882,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The N-terminal region of the CTD linker serves as the flexible hinge that supports the large mobility of the stalk.",
+            "startOffset": 24767,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 22429,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The molecular replacement revealed one Pol II molecule in the asymmetric unit.",
+            "startOffset": 22351,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 25991,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The N-terminal loop of the stalk Rpb4 subunit should be in close proximity to the clamp, although its coordinates were not built because of the weak electron density.",
+            "startOffset": 25825,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 29833,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The type-2 structure revealed the drooping conformation of the stalk and the closed conformation of the clamp, which have not been previously described.",
+            "startOffset": 29681,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18235,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "When Pol II was mixed with TFIIE\u03b2 (73\u2013281) at a molar ratio of 1:2, white precipitates were formed.",
+            "startOffset": 18136,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 30493,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 30433,
+                    "startOffset": 30429
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In addition, the nascent RNA chain is known to interact with the stalk [26], and could be affected by the large movement of the module.",
+            "startOffset": 30358,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20451,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 20307,
+                    "startOffset": 20300
+                },
+                "bib19": {
+                    "endOffset": 20307,
+                    "startOffset": 20300
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "Structural superimpositions were performed with the matchmaker script in UCSF Chimera [18,19], using the Rpb1 subunit excluding the clamp region (residues 466 to 1390) from the S. cerevisiae Pol II structure (PDB: 2VUM) as the reference.",
+            "startOffset": 20214,
+            "title": "Structure comparison"
+        },
+        {
+            "endOffset": 20019,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 20018,
+                    "startOffset": 20014
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "For the type-2 structure, the stalk was manually fitted to the electron density, and then the clashing residues and the regions with missing electron density were deleted from the structure, using Coot [16].",
+            "startOffset": 19812,
+            "title": "Structure determination"
+        },
+        {
+            "endOffset": 22745,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "K. pastoris Pol II exhibited the typical \u201ccrab-claw\u201d shape characteristic of multisubunit RNA polymerases (Fig. 1A; PDB: 5X50).",
+            "startOffset": 22618,
+            "title": "Highly-closed structure of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 27094,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The stalks in the type-3A and type-3B structures are inwardly tilted by about 5\u00b0 and 12\u00b0, respectively, as compared with that in S. cerevisiae Pol II.",
+            "startOffset": 26944,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 28678,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Other structures exhibited intermediate orientations between the two extremes.",
+            "startOffset": 28600,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 17548,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The protein was further purified by passage through a Resource Q column (GE Healthcare), and then dialyzed against buffer C [20 mM Tris-acetate (pH 8.0), 150 mM potassium acetate, 4 mM magnesium acetate, 2 \u03bcM zinc acetate, and 4 mM TCEP-HCl].",
+            "startOffset": 17306,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 24995,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In addition, the Rpb7 tip loop in K. pastoris Pol II is strongly bent, relative to that in S. cerevisiae Pol II.",
+            "startOffset": 24883,
+            "title": "Inter-domain hinges underlying the structural differences"
+        },
+        {
+            "endOffset": 28131,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The distribution of the stalk positions revealed that the stalk swings against the rest of the RNAP molecule, with a rotation range greater than 30\u00b0 (Fig. 4A).",
+            "startOffset": 27972,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 26527,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The type-1 and type-3 crystals both contain two Pol II molecules in the asymmetric unit (type-1A/1B and 3A/3B, respectively).",
+            "startOffset": 26402,
+            "title": "The closed structure of K.\u00a0pastoris pol II reflects its inherent flexibility"
+        },
+        {
+            "endOffset": 27971,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The analyses suggested that the stalk is the most dynamic module in the RNAPs.",
+            "startOffset": 27893,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        },
+        {
+            "endOffset": 15938,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we determined the crystal structure of the tandem-affinity purified K. pastoris Pol II.",
+            "startOffset": 15836,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15585,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, since the crystallographic studies of S. cerevisiae Pol II have been performed with only a few different crystal forms, the inherent ranges of motion of the modules have remained elusive.",
+            "startOffset": 15389,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17123,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The column was extensively washed with buffer A containing 30 mM imidazole, and then the on-column cleavage of the His-tag was performed with HRV-3C protease (Novagen) overnight.",
+            "startOffset": 16945,
+            "title": "Protein preparation"
+        },
+        {
+            "endOffset": 21778,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Furthermore, by adding a fragment of the TFIIE\u03b2 subunit to the type-2 conditions, small rectangular crystals (the type-3 crystals) were obtained.",
+            "startOffset": 21633,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 18932,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "For the type-2 crystals, a cryoprotectant containing 20 mM Tris-acetate (pH 8.0), 2 mM magnesium acetate, 100 mM sodium citrate, 12% PGA-LM, and 20% glycerol was used.",
+            "startOffset": 18765,
+            "title": "Data collection"
+        },
+        {
+            "endOffset": 22570,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Given the higher resolution, we hereafter describe the K. pastoris Pol II structure based on the type-2 crystal, unless otherwise specified.",
+            "startOffset": 22430,
+            "title": "Crystallization and structure determination of K.\u00a0pastoris pol II"
+        },
+        {
+            "endOffset": 18508,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The type-3 crystals were obtained at 293K with a reservoir solution containing 0.15 M sodium citrate, 10% PGA-LM, 0.5% dextran sulfate sodium salt, 15 mM Tris, and 35 mM Hepes.",
+            "startOffset": 18332,
+            "title": "Crystallization"
+        },
+        {
+            "endOffset": 29118,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 29071,
+                    "startOffset": 29067
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "K. pastoris Pol II (type-2), as well as Sulfolobus shibatae RNAP (PDB: 2Y0S) [25], exhibits the most closed clamp conformations.",
+            "startOffset": 28990,
+            "title": "Comparative analyses of the RNAP stalk/clamp orientations"
+        }
+    ],
+    "docId": "S0006291X17307052",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Haruhiko",
+                "initial": "H.",
+                "last": "Ehara"
+            },
+            {
+                "email": null,
+                "first": "Takashi",
+                "initial": "T.",
+                "last": "Umehara"
+            },
+            {
+                "email": null,
+                "first": "Shun ichi",
+                "initial": "S.i.",
+                "last": "Sekine"
+            },
+            {
+                "email": "yokoyama@riken.jp",
+                "first": "Shigeyuki",
+                "initial": "S.",
+                "last": "Yokoyama"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.04.039",
+        "firstpage": "230",
+        "issn": "0006291X",
+        "keywords": [
+            "Crystal structure",
+            "RNA polymerase",
+            "Transcription"
+        ],
+        "lastpage": "235",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Crystal structure of RNA polymerase II from Komagataella pastoris"
+    }
+}

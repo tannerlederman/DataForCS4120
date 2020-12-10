@@ -1,0 +1,3108 @@
+{
+    "abstract": "Although the precise functions of ether phospholipids are still poorly understood, significant alterations in their physiological levels are associated either to inherited disorders or to aggressive metastatic cancer. The essential precursor, alkyl-dihydroxyacetone phosphate (DHAP), for all ether phospholipids species is synthetized in two consecutive reactions performed by two enzymes sitting on the inner side of the peroxisomal membrane. Here, we report the characterization of the recombinant human DHAP acyl-transferase, which performs the first step in alkyl-DHAP synthesis. By exploring several expression systems and designing a number of constructs, we were able to purify the enzyme in its active form and we found that it is tightly bound to the membrane through the N-terminal residues.",
+    "author_highlights": [
+        {
+            "endOffset": 14272,
+            "sentence": "Human DHAPAT is associated to peroxisomal membrane through the N-terminal region.",
+            "startOffset": 14191
+        },
+        {
+            "endOffset": 14354,
+            "sentence": "Recombinant human DHAPAT expressed and purified from P. pastoris cells is active.",
+            "startOffset": 14273
+        },
+        {
+            "endOffset": 14428,
+            "sentence": "Evidence of the in vitro reconstitution of DHAPAT/ADPS enzymatic complex.",
+            "startOffset": 14355
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Fritz",
+                    "initial": "F.",
+                    "last": "Paltauf"
+                }
+            ],
+            "doi": "10.1016/0009-3084(94)90054-X",
+            "firstpage": "101",
+            "issn": "00093084",
+            "lastpage": "139",
+            "pmid": "7859340",
+            "pub_year": 1994,
+            "title": "Ether lipids in biomembranes",
+            "volume": "74"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Adelia",
+                    "initial": "A.",
+                    "last": "Razeto"
+                },
+                {
+                    "first": "Francesca",
+                    "initial": "F.",
+                    "last": "Mattiroli"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Carpanelli"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Aliverti"
+                },
+                {
+                    "first": "Vittorio",
+                    "initial": "V.",
+                    "last": "Pandini"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Coda"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Mattevi"
+                }
+            ],
+            "doi": "10.1016/j.str.2007.04.009",
+            "firstpage": "683",
+            "issn": "09692126",
+            "lastpage": "692",
+            "pmid": "17562315",
+            "pub_year": 2007,
+            "title": "The Crucial Step in Ether Phospholipid Biosynthesis: Structural Basis of a Noncanonical Reaction Associated with a Peroxisomal Disorder",
+            "volume": "15"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Simone",
+                    "initial": "S.",
+                    "last": "Nenci"
+                },
+                {
+                    "first": "Valentina",
+                    "initial": "V.",
+                    "last": "Piano"
+                },
+                {
+                    "first": "Sara",
+                    "initial": "S.",
+                    "last": "Rosati"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Aliverti"
+                },
+                {
+                    "first": "Vittorio",
+                    "initial": "V.",
+                    "last": "Pandini"
+                },
+                {
+                    "first": "Marco W.",
+                    "initial": "M.W.",
+                    "last": "Fraaije"
+                },
+                {
+                    "first": "Albert J.R.",
+                    "initial": "A.J.R.",
+                    "last": "Heck"
+                },
+                {
+                    "first": "Dale E.",
+                    "initial": "D.E.",
+                    "last": "Edmondson"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Mattevi"
+                }
+            ],
+            "doi": "10.1073/pnas.1215128109",
+            "firstpage": "18791",
+            "issn": "00278424",
+            "lastpage": "18796",
+            "pmid": "23112191",
+            "pub_year": 2012,
+            "title": "Precursor of ether phospholipids is synthesized by a flavoenzyme through covalent catalysis",
+            "volume": "109"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Valentina",
+                    "initial": "V.",
+                    "last": "Piano"
+                },
+                {
+                    "first": "Daniel I.",
+                    "initial": "D.I.",
+                    "last": "Benjamin"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Valente"
+                },
+                {
+                    "first": "Simone",
+                    "initial": "S.",
+                    "last": "Nenci"
+                },
+                {
+                    "first": "Biagina",
+                    "initial": "B.",
+                    "last": "Marrocco"
+                },
+                {
+                    "first": "Antonello",
+                    "initial": "A.",
+                    "last": "Mai"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Aliverti"
+                },
+                {
+                    "first": "Daniel K.",
+                    "initial": "D.K.",
+                    "last": "Nomura"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Mattevi"
+                }
+            ],
+            "doi": "10.1021/acschembio.5b00466",
+            "firstpage": "2589",
+            "issn": "15548929",
+            "lastpage": "2597",
+            "pmid": "26322624",
+            "pub_year": 2015,
+            "title": "Discovery of Inhibitors for the Ether Lipid-Generating Enzyme AGPS as Anti-Cancer Agents",
+            "volume": "10"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Merel S.",
+                    "initial": "M.S.",
+                    "last": "Ebberink"
+                },
+                {
+                    "first": "Petra A.W.",
+                    "initial": "P.A.W.",
+                    "last": "Mooyer"
+                },
+                {
+                    "first": "Janet",
+                    "initial": "J.",
+                    "last": "Koster"
+                },
+                {
+                    "first": "Conny J.M.",
+                    "initial": "C.J.M.",
+                    "last": "Dekker"
+                },
+                {
+                    "first": "Fran\u00e7ois J.M.",
+                    "initial": "F.J.M.",
+                    "last": "Eyskens"
+                },
+                {
+                    "first": "Carlo",
+                    "initial": "C.",
+                    "last": "Dionisi-Vici"
+                },
+                {
+                    "first": "Peter T.",
+                    "initial": "P.T.",
+                    "last": "Clayton"
+                },
+                {
+                    "first": "Peter G.",
+                    "initial": "P.G.",
+                    "last": "Barth"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                },
+                {
+                    "first": "Hans R.",
+                    "initial": "H.R.",
+                    "last": "Waterham"
+                }
+            ],
+            "doi": "10.1002/humu.20833",
+            "firstpage": "93",
+            "issn": "10597794",
+            "lastpage": "98",
+            "pmid": "18712838",
+            "pub_year": 2009,
+            "title": "Genotype-phenotype correlation in PEX5-deficient peroxisome biogenesis defective cell lines",
+            "volume": "30"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Rob",
+                    "initial": "R.",
+                    "last": "Ofman"
+                },
+                {
+                    "first": "Shahin",
+                    "initial": "S.",
+                    "last": "Lajmir"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                }
+            ],
+            "doi": "10.1006/bbrc.2001.4407",
+            "firstpage": "754",
+            "issn": "0006291X",
+            "lastpage": "760",
+            "pmid": "11237722",
+            "pub_year": 2001,
+            "title": "Etherphospholipid biosynthesis and dihydroxyactetone-phosphate acyltransferase: Resolution of the genomic organization of the human GNPAT gene and its use in the identification of novel mutations",
+            "volume": "281"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Rob",
+                    "initial": "R.",
+                    "last": "Ofman"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                }
+            ],
+            "doi": "10.1016/0167-4838(94)90068-X",
+            "firstpage": "27",
+            "issn": "01674838",
+            "lastpage": "34",
+            "pmid": "8186247",
+            "pub_year": 1994,
+            "title": "Purification of peroxisomal acyl-CoA: dihydroxyacetonephosphate acyltransferase from human placenta",
+            "volume": "1206"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Christopher L.",
+                    "initial": "C.L.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "Amiya K.",
+                    "initial": "A.K.",
+                    "last": "Hajra"
+                }
+            ],
+            "doi": "10.1016/0003-9861(83)90280-1",
+            "firstpage": "155",
+            "issn": "00039861",
+            "lastpage": "165",
+            "pmid": "6639048",
+            "pub_year": 1983,
+            "title": "Solubilization and partial purification of dihydroxyacetone-phosphate acyltransferase from guinea pig liver",
+            "volume": "226"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Thanh Phuong",
+                    "initial": "T.P.",
+                    "last": "Thai"
+                },
+                {
+                    "first": "Hans",
+                    "initial": "H.",
+                    "last": "Heid"
+                },
+                {
+                    "first": "Hans Richard",
+                    "initial": "H.R.",
+                    "last": "Rackwitz"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Hunziker"
+                },
+                {
+                    "first": "Karin",
+                    "initial": "K.",
+                    "last": "Gorgas"
+                },
+                {
+                    "first": "Wilhelm W.",
+                    "initial": "W.W.",
+                    "last": "Just"
+                }
+            ],
+            "doi": "10.1016/S0014-5793(97)01495-6",
+            "firstpage": "205",
+            "issn": "00145793",
+            "lastpage": "211",
+            "pmid": "9459311",
+            "pub_year": 1997,
+            "title": "Ether lipid biosynthesis: Isolation and molecular characterization of human dihydroxyacetonephosphate acyltransferase",
+            "volume": "420"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Hardeman"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "van den Bosch"
+                }
+            ],
+            "doi": "10.1016/0005-2760(89)90315-9",
+            "firstpage": "1",
+            "issn": "00052760",
+            "lastpage": "8",
+            "pmid": "2804060",
+            "pub_year": 1989,
+            "title": "Topography of ether phospholipid biosynthesis",
+            "volume": "1006"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "E. C.J.M.",
+                    "initial": "E.C.J.M.",
+                    "last": "De Vet"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Ijlst"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Oostheim"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Dekker"
+                },
+                {
+                    "first": "H. W.",
+                    "initial": "H.W.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Van Den Bosch"
+                },
+                {
+                    "first": "R. J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                }
+            ],
+            "firstpage": "1998",
+            "issn": "00222275",
+            "lastpage": "2003",
+            "pmid": "10553003",
+            "pub_year": 1999,
+            "title": "Ether lipid biosynthesis: Alkyl-dihydroxyacetonephosphate synthase protein deficiency leads to reduced dihydroxyacetonephosphate acyltransferase activities",
+            "volume": "40"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Pedro",
+                    "initial": "P.",
+                    "last": "Brites"
+                },
+                {
+                    "first": "Hans R.",
+                    "initial": "H.R.",
+                    "last": "Waterham"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                }
+            ],
+            "doi": "10.1016/j.bbalip.2003.12.010",
+            "firstpage": "219",
+            "issn": "13881981",
+            "lastpage": "231",
+            "pmid": "15164770",
+            "pub_year": 2004,
+            "title": "Functions and biosynthesis of plasmalogens in health and disease",
+            "volume": "1636"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Biermann"
+                },
+                {
+                    "first": "Wilhelm W.",
+                    "initial": "W.W.",
+                    "last": "Just"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                },
+                {
+                    "first": "Henk",
+                    "initial": "H.",
+                    "last": "Van Den Bosch"
+                }
+            ],
+            "doi": "10.1046/j.1432-1327.1999.00295.x",
+            "firstpage": "492",
+            "issn": "00142956",
+            "lastpage": "499",
+            "pmid": "10215861",
+            "pub_year": 1999,
+            "title": "Alkyl-dihydroxyacetone phosphate synthase and dihydroxyacetone phosphate acyltransferase form a protein complex in peroxisomes",
+            "volume": "261"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Patti A.",
+                    "initial": "P.A.",
+                    "last": "Longo"
+                },
+                {
+                    "first": "Jennifer M.",
+                    "initial": "J.M.",
+                    "last": "Kavran"
+                },
+                {
+                    "first": "Min Sung",
+                    "initial": "M.S.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Daniel J.",
+                    "initial": "D.J.",
+                    "last": "Leahy"
+                }
+            ],
+            "doi": "10.1016/B978-0-12-418687-3.00018-5",
+            "firstpage": "227",
+            "issn": "00766879",
+            "lastpage": "240",
+            "pmid": "24011049",
+            "pub_year": 2013,
+            "title": "Transient mammalian cell transfection with polyethylenimine (PEI)",
+            "volume": "529"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "April",
+                    "initial": "A.",
+                    "last": "Goehring"
+                },
+                {
+                    "first": "Chia Hsueh",
+                    "initial": "C.H.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Kevin H.",
+                    "initial": "K.H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Jennifer Carlisle",
+                    "initial": "J.C.",
+                    "last": "Michel"
+                },
+                {
+                    "first": "Derek P.",
+                    "initial": "D.P.",
+                    "last": "Claxton"
+                },
+                {
+                    "first": "Isabelle",
+                    "initial": "I.",
+                    "last": "Baconguis"
+                },
+                {
+                    "first": "Thorsten",
+                    "initial": "T.",
+                    "last": "Althoff"
+                },
+                {
+                    "first": "Suzanne",
+                    "initial": "S.",
+                    "last": "Fischer"
+                },
+                {
+                    "first": "K. Christopher",
+                    "initial": "K.C.",
+                    "last": "Garcia"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Gouaux"
+                }
+            ],
+            "doi": "10.1038/nprot.2014.173",
+            "firstpage": "2574",
+            "issn": "17542189",
+            "lastpage": "2585",
+            "pmid": "25299155",
+            "pub_year": 2014,
+            "title": "Screening and large-scale expression of membrane proteins in mammalian cells for structural studies",
+            "volume": "9"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Vikram",
+                    "initial": "V.",
+                    "last": "Alva"
+                },
+                {
+                    "first": "Seung Zin",
+                    "initial": "S.Z.",
+                    "last": "Nam"
+                },
+                {
+                    "first": "Johannes",
+                    "initial": "J.",
+                    "last": "S\u00f6ding"
+                },
+                {
+                    "first": "Andrei N.",
+                    "initial": "A.N.",
+                    "last": "Lupas"
+                }
+            ],
+            "doi": "10.1093/nar/gkw348",
+            "firstpage": "W410",
+            "issn": "13624962",
+            "lastpage": "W415",
+            "pmid": "27131380",
+            "pub_year": 2016,
+            "title": "The MPI bioinformatics Toolkit as an integrative platform for advanced protein sequence and structure analysis",
+            "volume": "44"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Guy",
+                    "initial": "G.",
+                    "last": "Yachdav"
+                },
+                {
+                    "first": "Edda",
+                    "initial": "E.",
+                    "last": "Kloppmann"
+                },
+                {
+                    "first": "Laszlo",
+                    "initial": "L.",
+                    "last": "Kajan"
+                },
+                {
+                    "first": "Maximilian",
+                    "initial": "M.",
+                    "last": "Hecht"
+                },
+                {
+                    "first": "Tatyana",
+                    "initial": "T.",
+                    "last": "Goldberg"
+                },
+                {
+                    "first": "Tobias",
+                    "initial": "T.",
+                    "last": "Hamp"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "H\u00f6nigschmid"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Schafferhans"
+                },
+                {
+                    "first": "Manfred",
+                    "initial": "M.",
+                    "last": "Roos"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Bernhofer"
+                },
+                {
+                    "first": "Lothar",
+                    "initial": "L.",
+                    "last": "Richter"
+                },
+                {
+                    "first": "Haim",
+                    "initial": "H.",
+                    "last": "Ashkenazy"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Punta"
+                },
+                {
+                    "first": "Avner",
+                    "initial": "A.",
+                    "last": "Schlessinger"
+                },
+                {
+                    "first": "Yana",
+                    "initial": "Y.",
+                    "last": "Bromberg"
+                },
+                {
+                    "first": "Reinhard",
+                    "initial": "R.",
+                    "last": "Schneider"
+                },
+                {
+                    "first": "Gerrit",
+                    "initial": "G.",
+                    "last": "Vriend"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Sander"
+                },
+                {
+                    "first": "Nir",
+                    "initial": "N.",
+                    "last": "Ben-Tal"
+                },
+                {
+                    "first": "Burkhard",
+                    "initial": "B.",
+                    "last": "Rost"
+                }
+            ],
+            "doi": "10.1093/nar/gku366",
+            "firstpage": "W337",
+            "issn": "03051048",
+            "lastpage": "W343",
+            "pmid": "24799431",
+            "pub_year": 2014,
+            "title": "PredictProtein - An open resource for online prediction of protein structural and functional features",
+            "volume": "42"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Simonson"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Gaillard"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Mignon"
+                },
+                {
+                    "first": "Marcel",
+                    "initial": "M.",
+                    "last": "Schmidt Am Busch"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Lopes"
+                },
+                {
+                    "first": "Najette",
+                    "initial": "N.",
+                    "last": "Amara"
+                },
+                {
+                    "first": "Savvas",
+                    "initial": "S.",
+                    "last": "Polydorides"
+                },
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Sedano"
+                },
+                {
+                    "first": "Karen",
+                    "initial": "K.",
+                    "last": "Druart"
+                },
+                {
+                    "first": "Georgios",
+                    "initial": "G.",
+                    "last": "Archontis"
+                }
+            ],
+            "doi": "10.1002/jcc.23418",
+            "firstpage": "2472",
+            "issn": "01928651",
+            "lastpage": "2484",
+            "pmid": "24037756",
+            "pub_year": 2013,
+            "title": "Computational protein design: The proteus software and selected applications",
+            "volume": "34"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Frazier N.",
+                    "initial": "F.N.",
+                    "last": "Baker"
+                },
+                {
+                    "first": "Aleksey",
+                    "initial": "A.",
+                    "last": "Porollo"
+                }
+            ],
+            "doi": "10.1186/s12859-016-0975-z",
+            "issn": "14712105",
+            "pmid": "26956673",
+            "pub_year": 2016,
+            "title": "CoeViz: A web-based tool for coevolution analysis of protein residues",
+            "volume": "17"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Bengt",
+                    "initial": "B.",
+                    "last": "Persson"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Argos"
+                }
+            ],
+            "doi": "10.1006/jmbi.1994.1220",
+            "firstpage": "182",
+            "issn": "00222836",
+            "lastpage": "192",
+            "pub_year": 1994,
+            "title": "Prediction of transmembrane segments in proteins utilising multiplesequence alignments",
+            "volume": "237"
+        },
+        "bib28": null,
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Lukas",
+                    "initial": "L.",
+                    "last": "K\u00e4ll"
+                },
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Krogh"
+                },
+                {
+                    "first": "Erik L.L.",
+                    "initial": "E.L.L.",
+                    "last": "Sonnhammer"
+                }
+            ],
+            "doi": "10.1016/j.jmb.2004.03.016",
+            "firstpage": "1027",
+            "issn": "00222836",
+            "lastpage": "1036",
+            "pmid": "15111065",
+            "pub_year": 2004,
+            "title": "A combined transmembrane topology and signal peptide prediction method",
+            "volume": "338"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                },
+                {
+                    "first": "Hans R.",
+                    "initial": "H.R.",
+                    "last": "Waterham"
+                }
+            ],
+            "doi": "10.1146/annurev.biochem.74.082803.133329",
+            "firstpage": "295",
+            "issn": "00664154",
+            "lastpage": "332",
+            "pmid": "16756494",
+            "pub_year": 2006,
+            "title": "Biochemistry of mammalian peroxisomes revisited",
+            "volume": "75"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Joan",
+                    "initial": "J.",
+                    "last": "Lin-Cereghino"
+                },
+                {
+                    "first": "William W.",
+                    "initial": "W.W.",
+                    "last": "Wong"
+                },
+                {
+                    "first": "See",
+                    "initial": "S.",
+                    "last": "Xiong"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Giang"
+                },
+                {
+                    "first": "Linda T.",
+                    "initial": "L.T.",
+                    "last": "Luong"
+                },
+                {
+                    "first": "Jane",
+                    "initial": "J.",
+                    "last": "Vu"
+                },
+                {
+                    "first": "Sabrina D.",
+                    "initial": "S.D.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Geoff P.",
+                    "initial": "G.P.",
+                    "last": "Lin-Cereghino"
+                }
+            ],
+            "doi": "10.2144/05381BM04",
+            "firstpage": "44",
+            "issn": "07366205",
+            "lastpage": "48",
+            "pmid": "15679083",
+            "pub_year": 2005,
+            "title": "Condensed protocol for competent cell preparation and transformation of the methylotrophic yeast Pichia pastoris",
+            "volume": "38"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "Leonardo M.",
+                    "initial": "L.M.",
+                    "last": "Damasceno"
+                },
+                {
+                    "first": "Itzcoatl",
+                    "initial": "I.",
+                    "last": "Pla"
+                },
+                {
+                    "first": "Hyun Joo",
+                    "initial": "H.J.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Leonard",
+                    "initial": "L.",
+                    "last": "Cohen"
+                },
+                {
+                    "first": "Gerd",
+                    "initial": "G.",
+                    "last": "Ritter"
+                },
+                {
+                    "first": "Lloyd J.",
+                    "initial": "L.J.",
+                    "last": "Old"
+                },
+                {
+                    "first": "Carl A.",
+                    "initial": "C.A.",
+                    "last": "Batt"
+                }
+            ],
+            "doi": "10.1016/j.pep.2004.03.019",
+            "firstpage": "18",
+            "issn": "10465928",
+            "lastpage": "26",
+            "pmid": "15294276",
+            "pub_year": 2004,
+            "title": "An optimized fermentation process for high-level production of a single-chain Fv antibody fragment in Pichia pastoris",
+            "volume": "37"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "P. E.",
+                    "initial": "P.E.",
+                    "last": "Declercq"
+                },
+                {
+                    "first": "H. P.",
+                    "initial": "H.P.",
+                    "last": "Haagsman"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "van Veldhoven"
+                },
+                {
+                    "first": "L. J.",
+                    "initial": "L.J.",
+                    "last": "Debeer"
+                },
+                {
+                    "first": "L. M.",
+                    "initial": "L.M.",
+                    "last": "Van Golde"
+                },
+                {
+                    "first": "G. P.",
+                    "initial": "G.P.",
+                    "last": "Mannaerts"
+                }
+            ],
+            "firstpage": "9064",
+            "issn": "00219258",
+            "lastpage": "9075",
+            "pmid": "6746639",
+            "pub_year": 1984,
+            "title": "Rat liver dihydroxyacetone-phosphate acyltransferase and their contribution to glycerolipid synthesis",
+            "volume": "259"
+        },
+        "bib33": {
+            "authors": [
+                {
+                    "first": "Tal M.",
+                    "initial": "T.M.",
+                    "last": "Lewin"
+                },
+                {
+                    "first": "Ping",
+                    "initial": "P.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Rosalind A.",
+                    "initial": "R.A.",
+                    "last": "Coleman"
+                }
+            ],
+            "doi": "10.1021/bi982805d",
+            "firstpage": "5764",
+            "issn": "00062960",
+            "lastpage": "5771",
+            "pmid": "10231527",
+            "pub_year": 1999,
+            "title": "Analysis of amino acid motifs diagnostic for the sn-glycerol-3-phosphate acyltransferase reaction",
+            "volume": "38"
+        },
+        "bib34": {
+            "authors": [
+                {
+                    "first": "Ida J.",
+                    "initial": "I.J.",
+                    "last": "van der Klei"
+                },
+                {
+                    "first": "Hiroya",
+                    "initial": "H.",
+                    "last": "Yurimoto"
+                },
+                {
+                    "first": "Yasuyoshi",
+                    "initial": "Y.",
+                    "last": "Sakai"
+                },
+                {
+                    "first": "Marten",
+                    "initial": "M.",
+                    "last": "Veenhuis"
+                }
+            ],
+            "doi": "10.1016/j.bbamcr.2006.07.016",
+            "firstpage": "1453",
+            "issn": "01674889",
+            "lastpage": "1462",
+            "pmid": "17023065",
+            "pub_year": 2006,
+            "title": "The significance of peroxisomes in methanol metabolism in methylotrophic yeast",
+            "volume": "1763"
+        },
+        "bib35": {
+            "authors": [
+                {
+                    "first": "Arianna",
+                    "initial": "A.",
+                    "last": "Rath"
+                },
+                {
+                    "first": "Mira",
+                    "initial": "M.",
+                    "last": "Glibowicka"
+                },
+                {
+                    "first": "Vincent G.",
+                    "initial": "V.G.",
+                    "last": "Nadeau"
+                },
+                {
+                    "first": "Gong",
+                    "initial": "G.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Charles M.",
+                    "initial": "C.M.",
+                    "last": "Deber"
+                }
+            ],
+            "doi": "10.1073/pnas.0813167106",
+            "firstpage": "1760",
+            "issn": "00278424",
+            "lastpage": "1765",
+            "pmid": "19181854",
+            "pub_year": 2009,
+            "title": "Detergent binding explains anomalous SDS-PAGE migration of membrane proteins",
+            "volume": "106"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Tiago Ferreira",
+                    "initial": "T.F.",
+                    "last": "Da Silva"
+                },
+                {
+                    "first": "Vera F.",
+                    "initial": "V.F.",
+                    "last": "Sousa"
+                },
+                {
+                    "first": "Ana R.",
+                    "initial": "A.R.",
+                    "last": "Malheiro"
+                },
+                {
+                    "first": "Pedro",
+                    "initial": "P.",
+                    "last": "Brites"
+                }
+            ],
+            "doi": "10.1016/j.bbadis.2012.05.014",
+            "firstpage": "1501",
+            "issn": "09254439",
+            "lastpage": "1508",
+            "pmid": "22659211",
+            "pub_year": 2012,
+            "title": "The importance of ether-phospholipids: A view from the perspective of mouse models",
+            "volume": "1822"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                },
+                {
+                    "first": "Hans R.",
+                    "initial": "H.R.",
+                    "last": "Waterham"
+                }
+            ],
+            "doi": "10.1016/j.bbamcr.2006.08.010",
+            "firstpage": "1707",
+            "issn": "01674889",
+            "lastpage": "1720",
+            "pmid": "17055078",
+            "pub_year": 2006,
+            "title": "Peroxisomal disorders: The single peroxisomal enzyme deficiencies",
+            "volume": "1763"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Femke C.C.",
+                    "initial": "F.C.C.",
+                    "last": "Klouwer"
+                },
+                {
+                    "first": "Irene C.",
+                    "initial": "I.C.",
+                    "last": "Huffnagel"
+                },
+                {
+                    "first": "Sacha",
+                    "initial": "S.",
+                    "last": "Ferdinandusse"
+                },
+                {
+                    "first": "Hans R.",
+                    "initial": "H.R.",
+                    "last": "Waterham"
+                },
+                {
+                    "first": "Ronald J.A.",
+                    "initial": "R.J.A.",
+                    "last": "Wanders"
+                },
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Engelen"
+                },
+                {
+                    "first": "Bwee Tien",
+                    "initial": "B.T.",
+                    "last": "Poll-The"
+                }
+            ],
+            "doi": "10.1055/s-0036-1582140",
+            "firstpage": "205",
+            "issn": "0174304X",
+            "lastpage": "220",
+            "pmid": "27089543",
+            "pub_year": 2016,
+            "title": "Clinical and Biochemical Pitfalls in the Diagnosis of Peroxisomal Disorders",
+            "volume": "47"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Daniel I.",
+                    "initial": "D.I.",
+                    "last": "Benjamin"
+                },
+                {
+                    "first": "Alyssa",
+                    "initial": "A.",
+                    "last": "Cozzo"
+                },
+                {
+                    "first": "Xiaodan",
+                    "initial": "X.",
+                    "last": "Ji"
+                },
+                {
+                    "first": "Lindsay S.",
+                    "initial": "L.S.",
+                    "last": "Roberts"
+                },
+                {
+                    "first": "Sharon M.",
+                    "initial": "S.M.",
+                    "last": "Louie"
+                },
+                {
+                    "first": "Melinda M.",
+                    "initial": "M.M.",
+                    "last": "Mulvihill"
+                },
+                {
+                    "first": "Kunxin",
+                    "initial": "K.",
+                    "last": "Luo"
+                },
+                {
+                    "first": "Daniel K.",
+                    "initial": "D.K.",
+                    "last": "Nomura"
+                }
+            ],
+            "doi": "10.1073/pnas.1310894110",
+            "firstpage": "14912",
+            "issn": "00278424",
+            "lastpage": "14917",
+            "pmid": "23980144",
+            "pub_year": 2013,
+            "title": "Ether lipid generating enzyme AGPS alters the balance of structural and signaling lipids to fuel cancer pathogenicity",
+            "volume": "110"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Katrin",
+                    "initial": "K.",
+                    "last": "Watschinger"
+                },
+                {
+                    "first": "Ernst R.",
+                    "initial": "E.R.",
+                    "last": "Werner"
+                }
+            ],
+            "doi": "10.1016/j.biochi.2012.06.027",
+            "firstpage": "59",
+            "issn": "03009084",
+            "lastpage": "65",
+            "pmid": "22771767",
+            "pub_year": 2013,
+            "title": "Orphan enzymes in ether lipid metabolism",
+            "volume": "95"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Brandon",
+                    "initial": "B.",
+                    "last": "Itzkovitz"
+                },
+                {
+                    "first": "Sarn",
+                    "initial": "S.",
+                    "last": "Jiralerspong"
+                },
+                {
+                    "first": "Graeme",
+                    "initial": "G.",
+                    "last": "Nimmo"
+                },
+                {
+                    "first": "Melissa",
+                    "initial": "M.",
+                    "last": "Loscalzo"
+                },
+                {
+                    "first": "Dafne D.G.",
+                    "initial": "D.D.G.",
+                    "last": "Horovitz"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Snowden"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Moser"
+                },
+                {
+                    "first": "Steve",
+                    "initial": "S.",
+                    "last": "Steinberg"
+                },
+                {
+                    "first": "Nancy",
+                    "initial": "N.",
+                    "last": "Braverman"
+                }
+            ],
+            "doi": "10.1002/humu.21623",
+            "firstpage": "189",
+            "issn": "10597794",
+            "lastpage": "197",
+            "pmid": "21990100",
+            "pub_year": 2012,
+            "title": "Functional characterization of novel mutations in GNPAT and AGPS, causing rhizomelic chondrodysplasia punctata (RCDP) types 2 and 3",
+            "volume": "33"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 31330,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The expression yield in P. pastoris of human DHAPAT was much higher than in mammalian cells and the protein was still tightly associated to the organelle membranes.",
+            "startOffset": 31166,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 22435,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The pre-inoculum was incubated for 30 min at 30 \u00b0C (300 rpm).",
+            "startOffset": 22374,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 25761,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "His8-uvGFP-DHAPAT was purified as described above, without digesting with PreScission protease, (i.e. retaining the His8-tag).",
+            "startOffset": 25635,
+            "title": "Pull-down experiment and native gel electrophoresis"
+        },
+        {
+            "endOffset": 15888,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 15887,
+                    "startOffset": 15884
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The key enzymes involved in the ether phospholipids biosynthetic pathway, namely dihydroxyacetone phosphate acyl-transferase (DHAPAT) and alkyl-dihydroxyacetone phosphate synthase (ADPS), catalyze the acylation of dihydroxyacetone phosphate (DHAP) to form acyl-DHAP followed by the replacement of the acyl moiety with a long fatty alcohol, yielding alkyl-DHAP [8].",
+            "startOffset": 15524,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16157,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 16156,
+                    "startOffset": 16153
+                }
+            },
+            "secId": "sec1",
+            "sentence": "RCDP patients show skeletal dysplasia and profound mental retardation, which in most of the cases lead to premature death [9].",
+            "startOffset": 16031,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20157,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Expression trials were performed in BL21, Origami, Rosetta, DH5\u03b1, Rosetta-gami and C41 E. coli strains (Novagen).",
+            "startOffset": 20044,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 21791,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 21740,
+                    "startOffset": 21736
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "The transformation was performed according to Lin-Cereghino et al. [30], using P. pastoris KM71H MutS strain (Invitrogen).",
+            "startOffset": 21669,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 16030,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Mutations in the genes encoding for DHAPAT and ADPS cause a rare inherited peroxisomal disorder, rhizomelic chondrodysplasia punctata (RCDP).",
+            "startOffset": 15889,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29961,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Although the expression yield was good and it was possible to purify DHAPAT\u0394135 without the use of detergents, the protein was unstable and highly prone to aggregation (Fig. 2B\u2013C).",
+            "startOffset": 29781,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 26729,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Partial purification of the enzyme revealed that DHAPAT is tightly associated to the membrane fraction.",
+            "startOffset": 26626,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 32561,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "As control, we performed the same experiment without DHAPAT (Fig. 3D).",
+            "startOffset": 32491,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 20043,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "DHAPAT shorter constructs were obtained by PCR, either lacking of N-terminal portions (DHAPAT\u0394120, DHAPAT\u0394135, DHAPAT\u0394144, DHAPAT\u0394150, DHAPAT\u0394156, DHAPAT\u0394285, DHAPAT\u0394530) or single domains (DHAPAT144-530, DHAPAT156-530, DHAPAT1-163), and cloned in pET28 vectors (Novagen) containing PreScission protease cleavable N-terminal tags (His8-SUMO, GST and His8-eGFP).",
+            "startOffset": 19682,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 22316,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The medium was exchanged with BMM medium (100 mM HK2PO4 pH 6.0, 6.34% Yeast Nitrogen Base, 0.5% methanol, 4 \u00d7 10\u22125% biotin) to induce protein expression, and after 48 h GFPuv fluorescence was measured with a Clariostar plate reader (BMG Labtech; excitation 395 nm, emission 509 nm).",
+            "startOffset": 22034,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 18370,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Cells were collected after 24/48 h after transfection.",
+            "startOffset": 18316,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 17039,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 16881,
+                    "startOffset": 16877
+                },
+                "bib15": {
+                    "endOffset": 16948,
+                    "startOffset": 16944
+                },
+                "bib16": {
+                    "endOffset": 16974,
+                    "startOffset": 16970
+                },
+                "bib17": {
+                    "endOffset": 17038,
+                    "startOffset": 17034
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For long, the organization of the gene encoding for DHAPAT has remained undetermined [14], although the protein itself was isolated from human placenta [15] and guinea pig liver [16] as a 680 amino acid enzyme with a molecular mass of 77 kDa [17].",
+            "startOffset": 16792,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29537,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We used E. coli as expression system to screen short protein variants fused to purification tags known to help the folding and protein solubility (i.e. SUMO and GST).",
+            "startOffset": 29371,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 32352,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "First, DHAPAT was incubated with its substrates, palmitoyl-CoA and DHAP.",
+            "startOffset": 32280,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 18598,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Frozen cell pellets were resuspended in hypotonic buffer (10 mM Tris-HCl pH 7.5, 1 mM EDTA) with protease inhibitors Complete EDTA-Free (Roche), 1 mM PMSF, and 1 mg/ml DNAse, and homogenized on ice 30 times with a tight pestle.",
+            "startOffset": 18371,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 23554,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Solubilized membranes were centrifuged at 70,000g for 1.5 h.",
+            "startOffset": 23494,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 33259,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "While we succeeded in the co-expression, we could not co-purify the two enzymes, possibly because ADPS is negatively affected by the presence of high concentration of detergents needed for DHAPAT solubilization (see Fig. 4A).",
+            "startOffset": 33034,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 32279,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "This assay established is inherently very specific, because it is based on the accumulation of palmitoyl-DHAP produced by DHAPAT, which is used by ADPS to form alkyl-DHAP.",
+            "startOffset": 32108,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 20260,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "GST-DHAPAT\u0394135 expressed using Origami was chosen for further expression and purification experiments.",
+            "startOffset": 20158,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 18315,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The transfection mixture contained polyethylenimine (PEI; DNA:PEI = 1:3 w/w), OPTIMEM medium (Gibco, 1:20 v/v) and pCDNA3-His8-eGFP-DHAPAT (1 \u03bcg of DNA/106 cells).",
+            "startOffset": 18152,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 21668,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The resulting plasmid was linearized using SacI enzyme (Thermo Scientific).",
+            "startOffset": 21593,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 28576,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Bioinformatics analysis of DHAPAT sequence did not provide reliable tertiary structure prediction, as there are no crystal structures available of similar enzymes.",
+            "startOffset": 28413,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 26625,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Recombinant human DHAPAT fused to the green fluorescent protein (GFP) was expressed in HEK293-E cells retaining the peroxisomal translocation signal, as no expression was observed without PTS1 (data not shown).",
+            "startOffset": 26415,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 27796,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The results of F-SEC revealed that DHAPAT behaves very differently according to the detergent, and that most of the solubilized protein is homogenous and not aggregated (Fig. 1D).",
+            "startOffset": 27617,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 23752,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The buffers used for the washing steps had decreasing amounts (till 0,05%) of FSC-12.",
+            "startOffset": 23667,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 18752,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The sample was centrifuged at 70,000g for 1 h. Cell membranes were resuspended in 30 mM HEPES pH 7.8, 500 mM NaCl, 50% glycerol, and protease inhibitors.",
+            "startOffset": 18599,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 27616,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To determine the aggregation state of solubilized DHAPAT and to identify a suitable detergent for the purification, we performed a fluorescence size-exclusion chromatography (F-SEC) experiment.",
+            "startOffset": 27423,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 33670,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, we could not obtain clear results from classic pull-down and size-exclusion chromatography experiments, due to the presence of FSC-12, which was found to cause aggregation and degradation of ADPS making chromatographic experiments unusable (Fig. 4A).",
+            "startOffset": 33411,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 14904,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14903,
+                    "startOffset": 14898
+                },
+                "bib2": {
+                    "endOffset": 14903,
+                    "startOffset": 14898
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although the detailed physiological roles of intracellular and circulating ether linked phospholipids are not yet well understood, their peculiar physical properties impact on many aspects of cell signaling and membrane biology [1,2].",
+            "startOffset": 14670,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29154,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "By interrogating several types of software (see Materials and Methods section) to predict the secondary structures of DHAPAT, we identified a number of highly hydrophobic \u03b1-helices, which could either be part of the active site, expected to be partially hydrophobic to host the substrate acyl chain, or interact with the peroxisomal membrane (in green in Fig. 2A).",
+            "startOffset": 28790,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 35082,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Indeed, the purified DHAPAT shows enzymatic activity that has been confirmed by reproducing in vitro the two-steps reaction performed by DHAPAT and ADPS crucial for ether phospholipids synthesis.",
+            "startOffset": 34887,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 30443,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Nevertheless these experiments were insightful as they indicate that the N-terminal segment is a main element for membrane association/integration and that this portion is likely involved in the enzymatic activity and in the correct protein folding.",
+            "startOffset": 30194,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 23493,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Solubilization was performed by adding 1% of FSC-12 (Anatrace) to the resuspended membranes (50 mM Bicine pH 8.2, 150 mM NaCl, 5% glycerol and protease inhibitors), stirring overnight at 4 \u00b0C.",
+            "startOffset": 23301,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 15524,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 15523,
+                    "startOffset": 15520
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Additionally, elevated ether lipids synthesis and uptake are a characteristic metabolic aberration of certain type of aggressive cancers, contributing to their invasiveness and survival [7].",
+            "startOffset": 15334,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27422,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The SDS-PAGE analysis showed that detergents solubilized a fluorescent band in correspondence of the expected molecular weight of DHAPAT with the GFP tag (Fig. 1C).",
+            "startOffset": 27258,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 23300,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 23299,
+                    "startOffset": 23295
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "F-SEC experiment was performed as described above [22].",
+            "startOffset": 23245,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 20928,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The soluble fraction was loaded on a 5 ml GSTrap FF pre-packed column (GE Healthcare), equilibrated with lysis buffer, using the \u00c4KTA FPLC system (GE Healthcare), and eluted with 50 mM of reduced glutathione.",
+            "startOffset": 20720,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 25425,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The same protocol was used to perform the activity assay of human DHAPAT\u0394135.",
+            "startOffset": 25348,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 30799,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "It was already observed that the localization of DHAPAT in peroxisomes is crucial for its correct function and activity.",
+            "startOffset": 30679,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 16385,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 16289,
+                    "startOffset": 16282
+                },
+                "bib11": {
+                    "endOffset": 16289,
+                    "startOffset": 16282
+                },
+                "bib12": {
+                    "endOffset": 16289,
+                    "startOffset": 16282
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Whereas the unusual reaction mechanism of ADPS flavin fueled the interest in the biochemical characterization of this enzyme [10\u201312], the difficulties associated to DHAPAT expression and purification slowed progress for decades.",
+            "startOffset": 16157,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30193,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Indeed, the non-functional state of the protein was confirmed both by the SEC profile, which showed that most of the protein was aggregated, and by the activity assay, that revealed that DHAPAT\u0394135 is completely inactive (Fig. 2D).",
+            "startOffset": 29962,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 22033,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The colonies were tested for DHAPAT expression by inoculating them in 24 deep-well plates containing 2 ml of BMGY medium (100 mM HK2PO4 pH 6.0, 6.34% Yeast Nitrogen Base, 1% glycerol, 4 \u00d7 10\u22125% biotin), incubating at 30 \u00b0C, 280 rpm for 60 h.",
+            "startOffset": 21792,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 34084,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "To demonstrate that the interaction between ADPS and DHAPAT was not due to the experimental conditions, a control using the soluble protein 7\u03b2-hydroxysteroid dehydrogenase was performed (Fig. 4B).",
+            "startOffset": 33888,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 25826,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 25825,
+                    "startOffset": 25821
+                }
+            },
+            "secId": "sec2.6",
+            "sentence": "Purified ADPS was prepared according to Nenci et al., 2012 [11].",
+            "startOffset": 25762,
+            "title": "Pull-down experiment and native gel electrophoresis"
+        },
+        {
+            "endOffset": 21092,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Tag and protease were removed in a second run with the GST-trap column.",
+            "startOffset": 21021,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 24651,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "DHAPAT (50 \u03bcM) was incubated for 30 min at 25 \u00b0C with 100 \u03bcM acyl-CoA and 100 \u03bcM DHAP (Sigma-Aldrich) in assay buffer (50 mM Tris-HCl pH 8.2, 50 mM NaF, 0.05% v/v FSC-12).",
+            "startOffset": 24480,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 34275,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The native gel clearly showed that, when ADPS and DHAPAT were mixed together, a new band was detected, which was different from the bands appearing from the migration of the single proteins.",
+            "startOffset": 34085,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 25100,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Once ADPS was added, small aliquots (10 \u03bcl) were taken at 1.5 min intervals and deposited on a DEAE cellulose membrane (Whatman), which interact with the phosphate groups of DHAP.",
+            "startOffset": 24921,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 34372,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Moreover, no new band was detected when DHAPAT was mixed with the control dehydrogenase protein.",
+            "startOffset": 34276,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 23244,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cell membranes were collected by centrifugation at 70,000g for 2 h at 4 \u00b0C.",
+            "startOffset": 23169,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 28789,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 28788,
+                    "startOffset": 28781
+                },
+                "bib33": {
+                    "endOffset": 28788,
+                    "startOffset": 28781
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Indeed, it was not even possible to predict the domain organization of the enzyme because the only conserved region is the putative acyl-transferase domain, spanning approximately from residue 138 to 283 [32,33].",
+            "startOffset": 28577,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 20625,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The culture was grown at 37 \u00b0C and 200 rpm in TB medium (Terrific Broth) until OD600 of 1 and induced by adding 500 \u03bcM isopropyl-\u03b2-d-1-thiogalactopyranoside, shifting the temperature to 17 \u00b0C for 20 h. Collected cells were resuspended in 50 mM Tris-HCl pH 8.0, 500 mM NaCl, 5% glycerol, protease inhibitors Complete EDTA-Free (Roche), 1 mM PMSF, and 1 mg/ml DNAse.",
+            "startOffset": 20261,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 17129,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In vivo experiments suggested that DHAPAT activity was dependent on the presence of ADPS.",
+            "startOffset": 17040,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25469,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "All the assays were performed in duplicate.",
+            "startOffset": 25426,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 25972,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The two proteins were mixed with nickel-resin, equilibrated with buffer containing 50 mM bicine pH 8.2, 50 mM NaCl, 5% glycerol and 0.05% FSC-12.",
+            "startOffset": 25827,
+            "title": "Pull-down experiment and native gel electrophoresis"
+        },
+        {
+            "endOffset": 33410,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Therefore, we exploited the results obtained using P. pastoris expression system, which allowed us to obtain pure and active recombinant human DHAPAT.",
+            "startOffset": 33260,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 22897,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 22896,
+                    "startOffset": 22892
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "The best expressing clone was grown in a 5 L Bioflo 3000 Fermentor (Brunswick) at 30 \u00b0C and 72 h of methanol induction, according to Damasceno et al., 2004 [31].",
+            "startOffset": 22736,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 19158,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 19002,
+                    "startOffset": 18998
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Solubilization was performed adding 1% of detergent (Anatrace) and stirring 2 h at 4 \u00b0C followed by centrifugation at 70,000g for 1 h. Fluorescence size-exclusion chromatography (F-SEC) experiment was performed according to Goering et al., 2014 [22], using a Superdex 75 5/150 column (GE Healthcare) and a Schimadzu HPLC system equilibrated with 30 mM HEPES pH 7.8, 500 mM NaCl, 5% glycerol and 0.03% DDM.",
+            "startOffset": 18753,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 26344,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The samples for native-PAGE (PhastGEL Native system, GE Healthcare) were prepared in a total volume of 6 \u03bcl (final concentration 1 mg/ml) by adding purified proteins with different ratios in the buffer containing 50 mM bicine pH 8.2, 50 mM NaCl, 5% glycerol and 0.05% FSC-12.",
+            "startOffset": 26069,
+            "title": "Pull-down experiment and native gel electrophoresis"
+        },
+        {
+            "endOffset": 25581,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 25580,
+                    "startOffset": 25576
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "The positive control was performed as described above, using ADPS (1 \u03bcM) and adding 100 \u03bcM palmitoyl-DHAP [11].",
+            "startOffset": 25470,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 31585,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Only foscholine-12 (FSC-12) appeared to extract good amounts of protein, whereof only approximately 50% was in a non-aggregated form (Fig. 3A).",
+            "startOffset": 31442,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 32490,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Then, ADPS and its radioactively labeled substrate, [1\u201314C]hexadecanol, were added and production of [1\u201314C]hexadecyl-DHAP was monitored.",
+            "startOffset": 32353,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 32759,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These experiments clearly indicated that there was acyltransferase activity and confirmed that, for the first time, we could produce a recombinant pure DHAPAT able to convert acyl-CoA to acyl-DHAP.",
+            "startOffset": 32562,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 20719,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Resuspended cells were disrupted by sonication and centrifuged at 70,000g for 40 min at 4 \u00b0C.",
+            "startOffset": 20626,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 28335,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Indeed, we observed that HEK-293E cells showed the formation of large fluorescence lysosomes at post-transfection time above the 48 h, likely due to mis-folded DHAPAT accumulation (data not shown).",
+            "startOffset": 28138,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 29780,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "DHAPAT\u0394135, DHAPAT\u0394144, DHAPAT\u0394150, lacking of N-terminal segments of different lengths, were expressed and, in particular, we succeeded in obtaining a soluble and purifiable form of DHAPAT lacking the first 135 amino acids, fused to GST tag.",
+            "startOffset": 29538,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 23666,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The supernatant was incubated with 5 ml of slurry Ni-Sepharose resin (GE Healthcare), stirring at 4 \u00b0C for 2 h.",
+            "startOffset": 23555,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 22571,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "2.5 ml of the pre-inoculum was poured in 2 L baffled-flask containing 200 ml of BMGY medium, and incubated for 72 h at 30 \u00b0C (280 rpm).",
+            "startOffset": 22436,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 15333,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 15332,
+                    "startOffset": 15327
+                },
+                "bib6": {
+                    "endOffset": 15332,
+                    "startOffset": 15327
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In fact, most of the known peroxisomal disorders show deficient ether lipids synthesis [5,6].",
+            "startOffset": 15240,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23965,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Tag-cleavage was performed incubating the sample with PreScission protease (GE Healthcare) in 1:10,000 v/v ratio, overnight at 4 \u00b0C.",
+            "startOffset": 23833,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 28137,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We assumed that this is caused by mis-translocation in peroxisomes consequent to DHAPAT over-expression.",
+            "startOffset": 28033,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 31441,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We used F-SEC to evaluate the quality and the yield of protein solubilized using a large number of detergents.",
+            "startOffset": 31331,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 34886,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In summary, we provide the first detailed experimental protocol to produce the recombinant human DHAPAT from P. pastoris, which could be used for further biochemical and functional studies.",
+            "startOffset": 34697,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 21020,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The sample was incubated at 4 \u00b0C with GST-tagged PreScission protease, 1:100 v/v overnight.",
+            "startOffset": 20929,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 25347,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "After 4 consecutive washings with ethanol 100% to remove the excess of labeled hexadecanol, the membranes were analyzed at the scintillation counter (Tri-Carb-2100TR, Packard) to quantify the radioactivity emitted by the immobilized ADPS product.",
+            "startOffset": 25101,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 31986,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The final yield of purified DHAPAT was approximately 1 mg from 0.15 l of cell culture (corresponding to 50 g of wet cells) grown at high cell density with the fermenter.",
+            "startOffset": 31817,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 34538,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The results obtained from the native gel suggested that, for the first time, there was a promising evidence for the formation of the complex between ADPS and DHAPAT.",
+            "startOffset": 34373,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 17606,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 17605,
+                    "startOffset": 17601
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The formation of DHAPAT/ADPS complex was initially characterized by isolating the cross-linked enzymes from rabbit Harderian gland peroxisomes, and this remains the only evidence of the heterotrimeric complex formation so far [20].",
+            "startOffset": 17375,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18151,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 18150,
+                    "startOffset": 18146
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "HEK-293E (Invitrogen) cells were grown in suspension according to Longo et al. [21].",
+            "startOffset": 18067,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 32107,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To assess whether the purified recombinant human DHAPAT was retaining its enzymatic activity, we used its partner, ADPS.",
+            "startOffset": 31987,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 27257,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Using a small panel of commonly used detergents, it was possible to recover up to 80% of the total GFP fluorescence, whereas with buffer without detergents the fluorescence was still associated to the membrane fraction (Fig. 1B).",
+            "startOffset": 27028,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 26068,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The beads were washed with the same buffer and the elution was performed with 500 mM imidazole.",
+            "startOffset": 25973,
+            "title": "Pull-down experiment and native gel electrophoresis"
+        },
+        {
+            "endOffset": 31165,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "As in the case of HEK-293E cells, we retained the PTS1 signal and we used the C-terminal sequence SKL, instead of the human AKL, because it is recognized more efficiently by yeast.",
+            "startOffset": 30985,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 24168,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The second affinity chromatography step and the other purification steps were carried out using the \u00c4KTA FPLC (GE Healthcare), loading the sample on a pre-packed nickel column (His-trap, GE-Healthcare).",
+            "startOffset": 23966,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 26886,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 26885,
+                    "startOffset": 26881
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "It was already observed that DHAPAT localizes in the inner side of the peroxisomal membrane, although there were no evidences of transmembrane regions [20].",
+            "startOffset": 26730,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 35334,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "AM and VP conceived, supervised and designed experiments; VP, SN and AA performed experiments; FM provided new tools and reagents; AA, AM, and VP analyzed data; VP wrote the manuscript; AM and FM made manuscript revisions.",
+            "startOffset": 35112,
+            "title": "Author contributions statement"
+        },
+        {
+            "endOffset": 23832,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The elution step was performed using 300 mM of imidazole in the binding buffer.",
+            "startOffset": 23753,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 31816,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "DHAPAT was then purified through two steps of affinity chromatography to remove the tag after the cleavage, resulting in a pure sample which was further confirmed by the SEC profile, showing a single monodisperse peak (Fig. 3B\u2013C).",
+            "startOffset": 31586,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 19595,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 19493,
+                    "startOffset": 19489
+                },
+                "bib27": {
+                    "endOffset": 19541,
+                    "startOffset": 19537
+                },
+                "bib28": {
+                    "endOffset": 19570,
+                    "startOffset": 19566
+                },
+                "bib29": {
+                    "endOffset": 19594,
+                    "startOffset": 19590
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The transmembrane (TM) helices/region prediction was performed by interrogating the following servers: POLYVIEW-2D (117\u2013138) [26], TMAP (115\u2013132, 168\u2013196, 370\u2013398, 565\u2013580) [27], TMPRED (8\u201325, 165\u2013194) [28], Octopus (510\u2013560) [29].",
+            "startOffset": 19364,
+            "title": "Bioinformatic analysis of DHAPAT amino acid sequence"
+        },
+        {
+            "endOffset": 24920,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 24731,
+                    "startOffset": 24727
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "Purified recombinant ADPS (1 \u03bcM), prepared according to Nenci et al., 2012 [11], and the radioactive substrate (100 \u03bcM), [1\u201314C]hexadecyl-DHAP (Sigma-Aldrich; specific radioactivity adjusted to 13,000 dpm/nmol), were added to the protein solution after the incubation.",
+            "startOffset": 24652,
+            "title": "Radioactivity assays"
+        },
+        {
+            "endOffset": 33803,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Indeed, we observed that ADPS was not stable in buffer containing FSC-12, as after short time it degrades in two distinct fragments.",
+            "startOffset": 33671,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 28032,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, the scale-up of DHAPAT expression and purification from HEK293-E cells resulted difficult, as the protein was unstable and challenging to purify due to both low solubilization yields and poor interactions with affinity resins.",
+            "startOffset": 27797,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 16791,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 16790,
+                    "startOffset": 16786
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The peroxisomal localization of DHAPAT is crucial for its enzymatic activity and stability, and it is achieved by the presence of the peroxisomal targeting signal-1 (PTS1) at the C-terminus of its amino acid sequence [13].",
+            "startOffset": 16569,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21294,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The fractions containing the protein were pooled and loaded on an ion-exchange column (SOURCE 15Q, GE Healthcare), followed by a size-exclusion chromatography step (Superdex 200 10/300, GE Healthcare).",
+            "startOffset": 21093,
+            "title": "Human DHAPAT deletion mutants: cloning, expression and purification in E.\u00a0coli cells"
+        },
+        {
+            "endOffset": 22654,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cells were harvested at 1500 g for 10 min and resuspended in 100 ml of BMM medium.",
+            "startOffset": 22572,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 34697,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, we could not confirm the evidence of complex formation with any other technique, as also cross-linking was impaired by the presence of the detergent.",
+            "startOffset": 34539,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 15239,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Their importance is further underlined by the pathological conditions associated to altered synthesis.",
+            "startOffset": 15137,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17374,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 17373,
+                    "startOffset": 17366
+                },
+                "bib19": {
+                    "endOffset": 17373,
+                    "startOffset": 17366
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In particular, kinetic experiments indicated that endogenously generated acyl-DHAP was used preferentially by ADPS in comparison with exogenously added substrate, suggesting a close interaction of the two enzymes within the peroxisomes [18,19].",
+            "startOffset": 17130,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30678,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "As membrane association resulted to be essential for correct DHAPAT function, we focused on the characterization of the full-length enzyme.",
+            "startOffset": 30539,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 33033,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 33032,
+                    "startOffset": 33028
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "In order to improve the expression and the purification, we initially tried to co-express DHAPAT with ADPS in HEK-293E cells, as it is known that DHAPAT activity and stability is dependent on ADPS presence [19].",
+            "startOffset": 32822,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 19363,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 19323,
+                    "startOffset": 19319
+                },
+                "bib24": {
+                    "endOffset": 19344,
+                    "startOffset": 19340
+                },
+                "bib25": {
+                    "endOffset": 19362,
+                    "startOffset": 19358
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The secondary structure prediction resulted from the comparison of the following servers: HHpred, Quick2D [23], PredictProtein [24], Proteus 2.0 [25].",
+            "startOffset": 19213,
+            "title": "Bioinformatic analysis of DHAPAT amino acid sequence"
+        },
+        {
+            "endOffset": 27027,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Indeed, detergents were necessary to isolate DHAPAT, as neither glycerol nor high salt concentration were enough to solubilize it (Fig. 1A).",
+            "startOffset": 26887,
+            "title": "DHAPAT is associated to peroxisomal membranes"
+        },
+        {
+            "endOffset": 29371,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Based on these predictions, we designed a number of shorter DHAPAT constructs with the aim of obtaining a soluble portion of the protein both to pinpoint membrane-interaction sites and favor crystallographic studies.",
+            "startOffset": 29155,
+            "title": "The region associated with membranes is located at the N-terminus of DHAPAT"
+        },
+        {
+            "endOffset": 15136,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 15135,
+                    "startOffset": 15130
+                },
+                "bib4": {
+                    "endOffset": 15135,
+                    "startOffset": 15130
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In addition to their importance as structural components of cell membranes, they are fundamental for membrane fusion and vesicle formation, and they are involved in free radical scavenging and second messenger lipids storage [3,4].",
+            "startOffset": 14905,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22373,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Positive clones were inoculated in 15 ml of BMGY medium.",
+            "startOffset": 22317,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 35496,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Work in the authors' laboratories was supported by grants from the Fondazione Telethon [GGP12007] and Associazione Italiana Ricerca sul Cancro [FI-18022].",
+            "startOffset": 35342,
+            "title": "Fundings"
+        },
+        {
+            "endOffset": 23168,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cells were collected by centrifugation at 1,500g for 10 min at 4 \u00b0C, resuspended in 50 mM Bicine pH 9.0, 500 mM NaCl, 10% glycerol, protease inhibitors Complete EDTA-Free (Roche), 1 mM PMSF, and 1 mg/ml DNAse, and lysed using a bead beater with zirconia beads (Biospec).",
+            "startOffset": 22898,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 14669,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Ether phospholipids are characterized by an ether bond, rather than an ester bond, on the sn-1 position of the glycerol backbone.",
+            "startOffset": 14540,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18066,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "N-terminal His8-eGFP tag was fused to DHAPAT through PCR and cloned into pCDNA3 vector (Invitrogen).",
+            "startOffset": 17966,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 22735,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "To allow the induction to continue for 72 h, 0.5% methanol was added every 24 h.",
+            "startOffset": 22655,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 21592,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Human DHAPAT cDNA fused with a N-terminal His8-GFPuv (PreScission protease cleavable) and codon-optimized for P. pastoris expression was purchased from DNA2.0, and sub-cloned in the pJexpress 902 (DNA2.0) vector.",
+            "startOffset": 21380,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 30984,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "bib34": {
+                    "endOffset": 30983,
+                    "startOffset": 30979
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Therefore, we chose P. pastoris as a eukaryotic expression system, given its characteristic peroxisomes proliferation under methanol induction of heterologous proteins expression [34].",
+            "startOffset": 30800,
+            "title": "Recombinant human full-length DHAPAT purified from P.\u00a0pastoris retains the enzymatic activity"
+        },
+        {
+            "endOffset": 16568,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "DHAPAT performs the first step of the ether phospholipid biosynthetic pathway, namely the acylation of DHAP to form acyl-DHAP, which is the substrate of the downstream ADPS reaction.",
+            "startOffset": 16386,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33887,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On the other hand, we obtained interesting results using native gel electrophoresis.",
+            "startOffset": 33803,
+            "title": "Reconstitution of the putative DHAPAT-ADPS enzymatic complex"
+        },
+        {
+            "endOffset": 24457,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Size-exclusion chromatography was performed using a Superdex 200 10/300 column (GE Healthcare), equilibrated with buffer containing 50 mM bicine pH 8.2, 50 mM NaCl, 5% glycerol and 0.05% FSC-12.",
+            "startOffset": 24263,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        },
+        {
+            "endOffset": 17804,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The results presented in this study aim to develop a methodology to express and purify for the first time recombinant human DHAPAT using P. pastoris to enable the study of its interaction with ADPS.",
+            "startOffset": 17606,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17965,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Human DHAPAT cDNA (NM_014236.3) was supplied by Origene.",
+            "startOffset": 17909,
+            "title": "Full-length human DHAPAT in HEK-293E cells: cloning, expression and purification"
+        },
+        {
+            "endOffset": 24262,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The collected fractions were concentrated with the Amicon Ultra concentrator (30 kDa cutoff).",
+            "startOffset": 24169,
+            "title": "Full-length human DHAPAT: cloning, expression and purification in P.\u00a0pastoris cells"
+        }
+    ],
+    "docId": "S0006291X16318745",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Valentina",
+                "initial": "V.",
+                "last": "Piano"
+            },
+            {
+                "email": null,
+                "first": "Simone",
+                "initial": "S.",
+                "last": "Nenci"
+            },
+            {
+                "email": null,
+                "first": "Francesca",
+                "initial": "F.",
+                "last": "Magnani"
+            },
+            {
+                "email": null,
+                "first": "Alessandro",
+                "initial": "A.",
+                "last": "Aliverti"
+            },
+            {
+                "email": "andrea.mattevi@unipv.it",
+                "first": "Andrea",
+                "initial": "A.",
+                "last": "Mattevi"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.11.019",
+        "firstpage": "51",
+        "issn": "0006291X",
+        "keywords": [
+            "Ether-phospholipids",
+            "Membrane protein",
+            "Peroxisomal disorder",
+            "Rhizomelic chondrodysplasia punctata"
+        ],
+        "lastpage": "58",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Recombinant human dihydroxyacetonephosphate acyl-transferase characterization as an integral monotopic membrane protein"
+    }
+}

@@ -1,0 +1,2878 @@
+{
+    "abstract": "Erythropoietin production has been reported to occur in the peritubular interstitial fibroblasts in the kidney. Since the erythropoietin production in the nephron is controversial, we reevaluated the erythropoietin production in the kidney. We examined mRNA expressions of erythropoietin and HIF PHD2 using high-sensitive in situ hybridization system (ISH) and protein expression of HIF PHD2 using immunohistochemistry in the kidney. We further investigated the mechanism of erythropoietin production by hypoxia in vitro using human liver hepatocell (HepG2) and rat intercalated cell line (IN-IC cells). ISH in mice showed mRNA expression of erythropoietin in proximal convoluted tubules (PCTs), distal convoluted tubules (DCTs) and cortical collecting ducts (CCDs) but not in the peritubular cells under normal conditions. Hypoxia induced mRNA expression of erythropoietin largely in peritubular cells and slightly in PCTs, DCTs, and CCDs. Double staining with AQP3 or AE1 indicated that erythropoietin mRNA expresses mainly in \u03b2-intercalated or non \u03b1/non \u03b2-intercalated cells of the collecting ducts. Immunohistochemistry in rat showed the expression of HIF PHD2 in the collecting ducts and peritubular cells and its increase by anemia in peritubular cells. In IN-IC cells, hypoxia increased mRNA expression of erythropoietin, erythropoietin concentration in the medium and protein expression of HIF PHD2. These data suggest that erythropoietin is produced by the cortical nephrons mainly in the intercalated cells, but not in the peritubular cells, in normal hematopoietic condition and by mainly peritubular cells in hypoxia, suggesting the different regulation mechanism between the nephrons and peritubular cells. \u00a9 2014 Elsevier Inc. All rights reserved.",
+    "author_highlights": [
+        {
+            "endOffset": 12131,
+            "sentence": "Erythropoietin is produced by cortical nephrons in normal hematopoietic condition.",
+            "startOffset": 12049
+        },
+        {
+            "endOffset": 12210,
+            "sentence": "Among cortical nephrons, intercalated cells showed the largest Epo production.",
+            "startOffset": 12132
+        },
+        {
+            "endOffset": 12283,
+            "sentence": "Hypoxia induced a large increase in Epo production in peritubular cells.",
+            "startOffset": 12211
+        },
+        {
+            "endOffset": 12349,
+            "sentence": "HIF PHD2 may be involved in Epo production by intercalated cells.",
+            "startOffset": 12284
+        },
+        {
+            "endOffset": 12431,
+            "sentence": "Regulation of Epo production is different between nephrons and peritubular cells.",
+            "startOffset": 12350
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Miyake"
+                },
+                {
+                    "first": "C. K.H.",
+                    "initial": "C.K.H.",
+                    "last": "Kung"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Goldwasser"
+                }
+            ],
+            "firstpage": "5558",
+            "issn": "00219258",
+            "lastpage": "5564",
+            "pmid": "18467",
+            "pub_year": 1977,
+            "title": "Purification of human erythropoietin",
+            "volume": "252"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Koury"
+                },
+                {
+                    "first": "M. C.",
+                    "initial": "M.C.",
+                    "last": "Bondurant"
+                },
+                {
+                    "first": "S. E.",
+                    "initial": "S.E.",
+                    "last": "Graber"
+                },
+                {
+                    "first": "S. T.",
+                    "initial": "S.T.",
+                    "last": "Sawyer"
+                }
+            ],
+            "doi": "10.1172/JCI113564",
+            "firstpage": "154",
+            "issn": "00219738",
+            "lastpage": "159",
+            "pmid": "3392205",
+            "pub_year": 1988,
+            "title": "Erythropoietin messenger RNA levels in developing mice and transfer of 125I-erythropoietin by the placenta",
+            "volume": "82"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "S. T.",
+                    "initial": "S.T.",
+                    "last": "Koury"
+                },
+                {
+                    "first": "M. C.",
+                    "initial": "M.C.",
+                    "last": "Bondurant"
+                },
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Koury"
+                }
+            ],
+            "firstpage": "524",
+            "issn": "00064971",
+            "lastpage": "527",
+            "pmid": "3337914",
+            "pub_year": 1988,
+            "title": "Localization of erythropoietin synthesizing cells in murine kidneys by in situ hybridization",
+            "volume": "71"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Bachmann"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Le Hir"
+                },
+                {
+                    "first": "K. U.",
+                    "initial": "K.U.",
+                    "last": "Eckardt"
+                }
+            ],
+            "doi": "10.1177/41.3.8429197",
+            "firstpage": "335",
+            "issn": "00221554",
+            "lastpage": "341",
+            "pmid": "8429197",
+            "pub_year": 1993,
+            "title": "Co-localization of erythropoietin mRNA and ecto-5'-nucleotidase immunoreactivity in peritubular cells of rat renal cortex indicates that fibroblasts produce erythropoietin",
+            "volume": "41"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "G. L.",
+                    "initial": "G.L.",
+                    "last": "Semenza"
+                },
+                {
+                    "first": "S. T.",
+                    "initial": "S.T.",
+                    "last": "Koury"
+                },
+                {
+                    "first": "M. K.",
+                    "initial": "M.K.",
+                    "last": "Nejfelt"
+                },
+                {
+                    "first": "J. D.",
+                    "initial": "J.D.",
+                    "last": "Gearhart"
+                },
+                {
+                    "first": "S. E.",
+                    "initial": "S.E.",
+                    "last": "Antonarakis"
+                }
+            ],
+            "doi": "10.1073/pnas.88.19.8725",
+            "firstpage": "8725",
+            "issn": "00278424",
+            "lastpage": "8729",
+            "pmid": "1924331",
+            "pub_year": 1991,
+            "title": "Cell-type-specific and hypoxia-inducible expression of the human erythropoietin gene in transgenic mice",
+            "volume": "88"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Lacombe"
+                },
+                {
+                    "first": "J. L.",
+                    "initial": "J.L.",
+                    "last": "Da Silva"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Bruneval"
+                },
+                {
+                    "first": "J. G.",
+                    "initial": "J.G.",
+                    "last": "Fournier"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Wendling"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Casadevall"
+                },
+                {
+                    "first": "J. P.",
+                    "initial": "J.P.",
+                    "last": "Camilleri"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Baerity"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Varet"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Tambourin"
+                }
+            ],
+            "doi": "10.1172/JCI113363",
+            "firstpage": "620",
+            "issn": "00219738",
+            "lastpage": "623",
+            "pmid": "3339134",
+            "pub_year": 1988,
+            "title": "Peritubular cells are the site of erythropoietin synthesis in the murine hypoxic kidney",
+            "volume": "81"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Schuster"
+                },
+                {
+                    "first": "S. T.",
+                    "initial": "S.T.",
+                    "last": "Koury"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Bohrer"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Salceda"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Card"
+                }
+            ],
+            "doi": "10.1111/j.1365-2141.1992.tb08200.x",
+            "firstpage": "153",
+            "issn": "00071048",
+            "lastpage": "159",
+            "pmid": "1643012",
+            "pub_year": 1992,
+            "title": "Cellular sites of extrarenal and renal erythropoietin production in anaemic rats",
+            "volume": "81"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Patrick H.",
+                    "initial": "P.H.",
+                    "last": "Maxwell"
+                },
+                {
+                    "first": "Mark K.",
+                    "initial": "M.K.",
+                    "last": "Osmond"
+                },
+                {
+                    "first": "Christopher W.",
+                    "initial": "C.W.",
+                    "last": "Pugh"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Heryet"
+                },
+                {
+                    "first": "Lynn G.",
+                    "initial": "L.G.",
+                    "last": "Nicholls"
+                },
+                {
+                    "first": "Chorh C.",
+                    "initial": "C.C.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "Brendan G.",
+                    "initial": "B.G.",
+                    "last": "Doe"
+                },
+                {
+                    "first": "David J.P.",
+                    "initial": "D.J.P.",
+                    "last": "Ferguson"
+                },
+                {
+                    "first": "Martin H.",
+                    "initial": "M.H.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Ratcliffe"
+                }
+            ],
+            "doi": "10.1038/ki.1993.362",
+            "firstpage": "1149",
+            "issn": "00852538",
+            "lastpage": "1162",
+            "pmid": "8264149",
+            "pub_year": 1993,
+            "title": "Identification of the renal erythropoietin-producing cells using transgenic mice",
+            "volume": "44"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Paliege"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Rosenberger"
+                },
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "Bondke"
+                },
+                {
+                    "first": "Lina",
+                    "initial": "L.",
+                    "last": "Sciesielski"
+                },
+                {
+                    "first": "Ahuva",
+                    "initial": "A.",
+                    "last": "Shina"
+                },
+                {
+                    "first": "Samuel N.",
+                    "initial": "S.N.",
+                    "last": "Heyman"
+                },
+                {
+                    "first": "Lee A.",
+                    "initial": "L.A.",
+                    "last": "Flippin"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Arend"
+                },
+                {
+                    "first": "Stephen J.",
+                    "initial": "S.J.",
+                    "last": "Klaus"
+                },
+                {
+                    "first": "Sebastian",
+                    "initial": "S.",
+                    "last": "Bachmann"
+                }
+            ],
+            "doi": "10.1038/ki.2009.460",
+            "firstpage": "312",
+            "issn": "00852538",
+            "lastpage": "318",
+            "pmid": "20016470",
+            "pub_year": 2010,
+            "title": "Hypoxia-inducible factor-2\u03b1 expressing interstitial fibroblasts are the only renal cells that express erythropoietin under hypoxia-inducible factor stabilization",
+            "volume": "77"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Nariaki",
+                    "initial": "N.",
+                    "last": "Asada"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Takase"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Akiko",
+                    "initial": "A.",
+                    "last": "Oguchi"
+                },
+                {
+                    "first": "Misako",
+                    "initial": "M.",
+                    "last": "Asada"
+                },
+                {
+                    "first": "Norio",
+                    "initial": "N.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Ken Ichi",
+                    "initial": "K.I.",
+                    "last": "Yamamura"
+                },
+                {
+                    "first": "Narihito",
+                    "initial": "N.",
+                    "last": "Nagoshi"
+                },
+                {
+                    "first": "Shinsuke",
+                    "initial": "S.",
+                    "last": "Shibata"
+                },
+                {
+                    "first": "Tata Nageswara",
+                    "initial": "T.N.",
+                    "last": "Rao"
+                },
+                {
+                    "first": "Hans Joerg",
+                    "initial": "H.J.",
+                    "last": "Fehling"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Fukatsu"
+                },
+                {
+                    "first": "Naoko",
+                    "initial": "N.",
+                    "last": "Minegishi"
+                },
+                {
+                    "first": "Toru",
+                    "initial": "T.",
+                    "last": "Kita"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Kimura"
+                },
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Okano"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Motoko",
+                    "initial": "M.",
+                    "last": "Yanagita"
+                }
+            ],
+            "doi": "10.1172/JCI57301",
+            "firstpage": "3981",
+            "issn": "00219738",
+            "lastpage": "3990",
+            "pmid": "21911936",
+            "pub_year": 2011,
+            "title": "Dysfunction of fibroblasts of extrarenal origin underlies renal fibrosis and renal anemia in mice",
+            "volume": "121"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Xiaoqing",
+                    "initial": "X.",
+                    "last": "Pan"
+                },
+                {
+                    "first": "Norio",
+                    "initial": "N.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Ikuo",
+                    "initial": "I.",
+                    "last": "Hirano"
+                },
+                {
+                    "first": "Shun",
+                    "initial": "S.",
+                    "last": "Yamazaki"
+                },
+                {
+                    "first": "Naoko",
+                    "initial": "N.",
+                    "last": "Minegishi"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Yamamoto"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0025839",
+            "issn": "19326203",
+            "pmid": "22022454",
+            "pub_year": 2011,
+            "title": "Isolation and characterization of renal Erythropoietin-Producing cells from genetically produced anemia mice",
+            "volume": "6"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Naoshi",
+                    "initial": "N.",
+                    "last": "Obara"
+                },
+                {
+                    "first": "Norio",
+                    "initial": "N.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Kibom",
+                    "initial": "K.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Toshiro",
+                    "initial": "T.",
+                    "last": "Nagasawa"
+                },
+                {
+                    "first": "Shigehiko",
+                    "initial": "S.",
+                    "last": "Imagawa"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Yamamoto"
+                }
+            ],
+            "doi": "10.1182/blood-2007-10-115857",
+            "firstpage": "5223",
+            "issn": "00064971",
+            "lastpage": "5232",
+            "pmid": "18202227",
+            "pub_year": 2008,
+            "title": "Repression via the GATA box is essential for tissue-specific erythropoietin gene expression",
+            "volume": "111"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Beir\u00e3o"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Moreira"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Barandela"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Lobato"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Silva"
+                },
+                {
+                    "first": "C. M.",
+                    "initial": "C.M.",
+                    "last": "Gouveia"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Carneiro"
+                },
+                {
+                    "first": "I.",
+                    "initial": "I.",
+                    "last": "Fonseca"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Porto"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Pinho E Costa"
+                }
+            ],
+            "firstpage": "327",
+            "issn": "03010430",
+            "lastpage": "335",
+            "pmid": "20979939",
+            "pub_year": 2010,
+            "title": "Erythropoietin production by distal nephron in normal and familial amyloidotic adult human kidneys",
+            "volume": "74"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Salim K.",
+                    "initial": "S.K.",
+                    "last": "Mujais"
+                },
+                {
+                    "first": "Nega",
+                    "initial": "N.",
+                    "last": "Beru"
+                },
+                {
+                    "first": "Theodore N.",
+                    "initial": "T.N.",
+                    "last": "Pullman"
+                },
+                {
+                    "first": "Eugene",
+                    "initial": "E.",
+                    "last": "Goldwasser"
+                }
+            ],
+            "doi": "10.1007/BF02737888",
+            "firstpage": "153",
+            "issn": "10859195",
+            "lastpage": "166",
+            "pmid": "10099826",
+            "pub_year": 1999,
+            "title": "Erythropoietin is produced by tubular cells of the rat kidney",
+            "volume": "30"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Jelkmann"
+                }
+            ],
+            "doi": "10.1113/jphysiol.2010.195057",
+            "firstpage": "1251",
+            "issn": "00223751",
+            "lastpage": "1258",
+            "pmid": "21078592",
+            "pub_year": 2011,
+            "title": "Regulation of erythropoietin production",
+            "volume": "589"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Frank S.",
+                    "initial": "F.S.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Melanie J.",
+                    "initial": "M.J.",
+                    "last": "Percy"
+                }
+            ],
+            "doi": "10.1146/annurev-pathol-011110-130321",
+            "firstpage": "165",
+            "issn": "15534006",
+            "lastpage": "192",
+            "pmid": "20939709",
+            "pub_year": 2011,
+            "title": "The HIF pathway and erythrocytosis",
+            "volume": "6"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Gregg L.",
+                    "initial": "G.L.",
+                    "last": "Semenza"
+                }
+            ],
+            "doi": "10.1182/blood-2009-05-189985",
+            "firstpage": "2015",
+            "issn": "00064971",
+            "lastpage": "2019",
+            "pmid": "19494350",
+            "pub_year": 2009,
+            "title": "Involvement of oxygen-sensing pathways in physiologic and pathologic erythropoiesis",
+            "volume": "114"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Mathia"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Paliege"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Koesters"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Peters"
+                },
+                {
+                    "first": "H. H.",
+                    "initial": "H.H.",
+                    "last": "Neumayer"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Bachmann"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Rosenberger"
+                }
+            ],
+            "doi": "10.1111/apha.12058",
+            "firstpage": "565",
+            "issn": "17481708",
+            "lastpage": "576",
+            "pmid": "23384425",
+            "pub_year": 2013,
+            "title": "Action of hypoxia-inducible factor in liver and kidney from mice with Pax8-rtTA-based deletion of von Hippel-Lindau protein",
+            "volume": "207"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Rosenberger"
+                },
+                {
+                    "first": "Stefano",
+                    "initial": "S.",
+                    "last": "Mandriota"
+                },
+                {
+                    "first": "Jan Steffen",
+                    "initial": "J.S.",
+                    "last": "J\u00fcrgensen"
+                },
+                {
+                    "first": "Michael S.",
+                    "initial": "M.S.",
+                    "last": "Wiesener"
+                },
+                {
+                    "first": "Jan H.",
+                    "initial": "J.H.",
+                    "last": "H\u00f6rstrup"
+                },
+                {
+                    "first": "Ulrich",
+                    "initial": "U.",
+                    "last": "Frei"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Ratcliffe"
+                },
+                {
+                    "first": "Patrick H.",
+                    "initial": "P.H.",
+                    "last": "Maxwell"
+                },
+                {
+                    "first": "Sebastian",
+                    "initial": "S.",
+                    "last": "Bachmann"
+                },
+                {
+                    "first": "Kai Uwe",
+                    "initial": "K.U.",
+                    "last": "Eckardt"
+                }
+            ],
+            "doi": "10.1097/01.ASN.0000017223.49823.2A",
+            "firstpage": "1721",
+            "issn": "10466673",
+            "lastpage": "1732",
+            "pmid": "12089367",
+            "pub_year": 2002,
+            "title": "Expression of hypoxia-inducible factor-1\u03b1 and -2\u03b1 in hypoxic and ischemic rat kidneys",
+            "volume": "13"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Yuichiro",
+                    "initial": "Y.",
+                    "last": "Izumi"
+                },
+                {
+                    "first": "Kahori",
+                    "initial": "K.",
+                    "last": "Hori"
+                },
+                {
+                    "first": "Yushi",
+                    "initial": "Y.",
+                    "last": "Nakayama"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Kimura"
+                },
+                {
+                    "first": "Yukiko",
+                    "initial": "Y.",
+                    "last": "Hasuike"
+                },
+                {
+                    "first": "Masayoshi",
+                    "initial": "M.",
+                    "last": "Nanami"
+                },
+                {
+                    "first": "Yukimasa",
+                    "initial": "Y.",
+                    "last": "Kohda"
+                },
+                {
+                    "first": "Yoshinaga",
+                    "initial": "Y.",
+                    "last": "Otaki"
+                },
+                {
+                    "first": "Takahiro",
+                    "initial": "T.",
+                    "last": "Kuragano"
+                },
+                {
+                    "first": "Masuo",
+                    "initial": "M.",
+                    "last": "Obinata"
+                },
+                {
+                    "first": "Katsumasa",
+                    "initial": "K.",
+                    "last": "Kawahara"
+                },
+                {
+                    "first": "Akito",
+                    "initial": "A.",
+                    "last": "Tanoue"
+                },
+                {
+                    "first": "Kimio",
+                    "initial": "K.",
+                    "last": "Tomita"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Nakanishi"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Nonoguchi"
+                }
+            ],
+            "doi": "10.1681/ASN.2010050468",
+            "firstpage": "673",
+            "issn": "10466673",
+            "lastpage": "680",
+            "pmid": "21415155",
+            "pub_year": 2011,
+            "title": "Aldosterone requires vasopressin V1a receptors on intercalated cells to mediate acid-base homeostasis",
+            "volume": "22"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Kahori",
+                    "initial": "K.",
+                    "last": "Hori"
+                },
+                {
+                    "first": "Takanori",
+                    "initial": "T.",
+                    "last": "Nagai"
+                },
+                {
+                    "first": "Yuichiro",
+                    "initial": "Y.",
+                    "last": "Izumi"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Kimura"
+                },
+                {
+                    "first": "Yukiko",
+                    "initial": "Y.",
+                    "last": "Hasuike"
+                },
+                {
+                    "first": "Yushi",
+                    "initial": "Y.",
+                    "last": "Nakayama"
+                },
+                {
+                    "first": "Masayoshi",
+                    "initial": "M.",
+                    "last": "Nanami"
+                },
+                {
+                    "first": "Masanori",
+                    "initial": "M.",
+                    "last": "Tokuyama"
+                },
+                {
+                    "first": "Yoshinaga",
+                    "initial": "Y.",
+                    "last": "Otaki"
+                },
+                {
+                    "first": "Takahiro",
+                    "initial": "T.",
+                    "last": "Kuragano"
+                },
+                {
+                    "first": "Yukimasa",
+                    "initial": "Y.",
+                    "last": "Kohda"
+                },
+                {
+                    "first": "Masuo",
+                    "initial": "M.",
+                    "last": "Obinata"
+                },
+                {
+                    "first": "Katsumasa",
+                    "initial": "K.",
+                    "last": "Kawahara"
+                },
+                {
+                    "first": "Akito",
+                    "initial": "A.",
+                    "last": "Tanoue"
+                },
+                {
+                    "first": "Kimio",
+                    "initial": "K.",
+                    "last": "Tomita"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Nakanishi"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Nonoguchi"
+                }
+            ],
+            "doi": "10.1152/ajprenal.00052.2012",
+            "firstpage": "F1080",
+            "issn": "03636127",
+            "lastpage": "F1088",
+            "pmid": "22811487",
+            "pub_year": 2012,
+            "title": "Vasopressin V1a receptor is required for nucleocytoplasmic transport of mineralocorticoid receptor",
+            "volume": "303"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Toshihiro",
+                    "initial": "T.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Haruko",
+                    "initial": "H.",
+                    "last": "Yanase"
+                },
+                {
+                    "first": "Toshihiko",
+                    "initial": "T.",
+                    "last": "Iwanaga"
+                },
+                {
+                    "first": "Ryuzo",
+                    "initial": "R.",
+                    "last": "Sasaki"
+                },
+                {
+                    "first": "Masaya",
+                    "initial": "M.",
+                    "last": "Nagao"
+                }
+            ],
+            "doi": "10.1016/S0006-291X(02)00832-X",
+            "firstpage": "145",
+            "issn": "0006291X",
+            "lastpage": "151",
+            "pmid": "12147241",
+            "pub_year": 2002,
+            "title": "Epididymis is a novel site of erythropoietin production in mouse reproductive organs",
+            "volume": "296"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "H. M.J.",
+                    "initial": "H.M.J.",
+                    "last": "Kerstens"
+                },
+                {
+                    "first": "P. J.",
+                    "initial": "P.J.",
+                    "last": "Poddighe"
+                },
+                {
+                    "first": "A. G.J.M.",
+                    "initial": "A.G.J.M.",
+                    "last": "Hanselaar"
+                }
+            ],
+            "doi": "10.1177/43.4.7897179",
+            "firstpage": "347",
+            "issn": "00221554",
+            "lastpage": "352",
+            "pmid": "7897179",
+            "pub_year": 1995,
+            "title": "A novel in situ hybridization signal amplification method based on the deposition of biotinylated tyramine",
+            "volume": "43"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Ina B.",
+                    "initial": "I.B.",
+                    "last": "Wanner"
+                },
+                {
+                    "first": "Stephen D.",
+                    "initial": "S.D.",
+                    "last": "Roper"
+                },
+                {
+                    "first": "Nirupa",
+                    "initial": "N.",
+                    "last": "Chaudhari"
+                }
+            ],
+            "doi": "10.1177/002215549904700402",
+            "firstpage": "431",
+            "issn": "00221554",
+            "lastpage": "445",
+            "pmid": "10082745",
+            "pub_year": 1999,
+            "title": "An optimized method for in situ hybridization with signal amplification that allows the detection of rare mRNAs",
+            "volume": "47"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Tetsutaro",
+                    "initial": "T.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Yuichi",
+                    "initial": "Y.",
+                    "last": "Kadoya"
+                },
+                {
+                    "first": "Yuichi",
+                    "initial": "Y.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Kimiya",
+                    "initial": "K.",
+                    "last": "Handa"
+                },
+                {
+                    "first": "Tsuyoshi",
+                    "initial": "T.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Kakita"
+                },
+                {
+                    "first": "Shohei",
+                    "initial": "S.",
+                    "last": "Yamashina"
+                }
+            ],
+            "doi": "10.1679/aohc.66.347",
+            "firstpage": "347",
+            "issn": "09149465",
+            "lastpage": "358",
+            "pmid": "14692690",
+            "pub_year": 2003,
+            "title": "The expression of pancreatic endocrine markers in centroacinar cells of the normal and regenerating rat pancreas: Their possible transformation to endocrine cells",
+            "volume": "66"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Yukiko",
+                    "initial": "Y.",
+                    "last": "Yasuoka"
+                },
+                {
+                    "first": "Mizuka",
+                    "initial": "M.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Yuichi",
+                    "initial": "Y.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Ming",
+                    "initial": "M.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Abe"
+                },
+                {
+                    "first": "Hirotsugu",
+                    "initial": "H.",
+                    "last": "Okamoto"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Nonoguchi"
+                },
+                {
+                    "first": "Akito",
+                    "initial": "A.",
+                    "last": "Tanoue"
+                },
+                {
+                    "first": "Katsumasa",
+                    "initial": "K.",
+                    "last": "Kawahara"
+                }
+            ],
+            "doi": "10.1007/s10157-013-0783-y",
+            "firstpage": "783",
+            "issn": "13421751",
+            "lastpage": "792",
+            "pmid": "23456233",
+            "pub_year": 2013,
+            "title": "The intercalated cells of the mouse kidney OMCDis are the target of the vasopressin V1a receptor axis for urinary acidification",
+            "volume": "17"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 24008,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Therefore, in the following experiments, the intercalated cell line (IN-IC cells) was used to investigate the mechanisms of erythropoietin production.",
+            "startOffset": 23858,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 18029,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 18028,
+                    "startOffset": 18021
+                },
+                "b0120": {
+                    "endOffset": 18028,
+                    "startOffset": 18021
+                },
+                "b0125": {
+                    "endOffset": 18028,
+                    "startOffset": 18021
+                },
+                "b0130": {
+                    "endOffset": 18028,
+                    "startOffset": 18021
+                }
+            },
+            "secId": "s0020",
+            "sentence": "High sensitivity ISH was performed as described previously [23\u201326].",
+            "startOffset": 17962,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 28265,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "ISH and immunohistochemistry analysis revealed the PHD2 expression in DCTs, CCDs, and peritubular cells, although the increase in protein expression by anemia in DCT and CCD was not significant.",
+            "startOffset": 28071,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28696,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In conclusion, our data showed that erythropoietin is constitutively produced by the cortical nephrons but not in the peritubular cells in normal hematopoietic condition.",
+            "startOffset": 28526,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27329,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 27328,
+                    "startOffset": 27325
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The stimulation of erythropoietin mRNA in the intercalated cells and IN-IC cells by hypoxia is small compared with large increase in peritubular cells in our study and severe anemia-induced 500 fold increase in whole body [2].",
+            "startOffset": 27103,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19836,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Protein (10\u201350 \u03bcg) from the kidney medulla or IN-IC cells was used for SDS\u2013PAGE.",
+            "startOffset": 19756,
+            "title": "Western blot"
+        },
+        {
+            "endOffset": 28526,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Considering the different pattern of erythropoietin expression between in renal tubules and peritubular cells in basal and hypoxia conditions, there could be a different regulation mechanism of erythropoietin production in renal tubules from peritubular cells.",
+            "startOffset": 28266,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23474,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Hypoxia stimulated erythropoietin production largely in peritubular cells and slightly in the nephron (Fig. 2F).",
+            "startOffset": 23362,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 26010,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 26009,
+                    "startOffset": 26005
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The administration of cobalt chloride, a mimic of hypoxia, is reported to induce erythropoietin mRNA expression in PCT, cortical thick ascending limbs (CAL) and CCD [14].",
+            "startOffset": 25840,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22376,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In the hypoxic mice, the abundance of erythropoietin mRNA was significantly increased in the interstitial cells in the cortex (Fig. 1D and E).",
+            "startOffset": 22234,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 26194,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "We think that because the sensitivity of ISH was not enough 25 years ago, mice need to be subjected to anemic plus hypoxic condition to identify the site of erythropoietin production.",
+            "startOffset": 26011,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21395,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "DAB was used for the visualization of the primary antibody.",
+            "startOffset": 21336,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 27969,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Hypoxia is also known to stimulate HIF PHD 1, 2 and 3, in which HIF PHD2 is responsible for the degradation of HIF2\u03b1.",
+            "startOffset": 27852,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27851,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In contrast to HIF2\u03b1 expression in peritubular cells, renal tubules dominantly express HIF1\u03b1.",
+            "startOffset": 27758,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16576,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The purpose of our study was to evaluate whether the nephron could produce erythropoietin.",
+            "startOffset": 16486,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21474,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Some of these steps were performed by Applied Medical Research (Osaka, Japan).",
+            "startOffset": 21396,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 17130,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 17129,
+                    "startOffset": 17122
+                },
+                "b0105": {
+                    "endOffset": 17129,
+                    "startOffset": 17122
+                }
+            },
+            "secId": "s0015",
+            "sentence": "The intercalated cell line (IN-IC cells) was generated as previously described [20,21].",
+            "startOffset": 17043,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 17186,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "HepG2 cells were purchased from RIKEN (Tsukuba, Japan).",
+            "startOffset": 17131,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 19359,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Erythropoietin mRNA expression in PCT, medullary thick ascending limbs (MTAL), DCT, intercalated cell (IC), and peritubular cells (peritubular erythropoietin producing cells, PTEC) was quantified as number of dots per cell.",
+            "startOffset": 19136,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 15889,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, in these reports, mice were subjected to really severe anemia (14\u201317%, 12%, less than 10%, and less than 15% in hematocrit in Ref. [3, 4, 6, 12], respectively) to show REP cells in the kidney, questioning the physiological role of REP cells for erythropoietin production.",
+            "startOffset": 15609,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20057,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Primary and secondary antibodies were used at dilutions of 1000\u20135000 and 100,000\u2013200,000, respectively.",
+            "startOffset": 19954,
+            "title": "Western blot"
+        },
+        {
+            "endOffset": 25360,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The kidney is a major site of erythropoietin production.",
+            "startOffset": 25304,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25293,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Anemia increased the PHD2 protein expression in peritubular cells but not in the DCTs and CCDs (Fig. 4D and F).",
+            "startOffset": 25182,
+            "title": "HIF PHD2 expression by anemia"
+        },
+        {
+            "endOffset": 17871,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "In the hypoxia experiments, IN-IC and HepG2 cells were incubated in 1% O2 for 24 h. All animal and cell experiments were evaluated and approved by the Committee for Animal Experimentation at the Hyogo College of Medicine (28036, 29014) and Kitasato University Medical Center (25-2).",
+            "startOffset": 17589,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 14813,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 14812,
+                    "startOffset": 14805
+                },
+                "b0070": {
+                    "endOffset": 14812,
+                    "startOffset": 14805
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A few papers have reported that erythropoietin is produced in the proximal or distal tubules [13,14].",
+            "startOffset": 14712,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20303,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The detection of the bands was performed by Enhanced Chemiluminescence Advance or Prime (GE Healthcare) using LAS-4000 mini (Fuji Film, Japan) in the Research Facilities in Hyogo College of Medicine and in the Kitasato University Medical Center.",
+            "startOffset": 20058,
+            "title": "Western blot"
+        },
+        {
+            "endOffset": 20950,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The kidneys from control and anemic rats were fixed with 1% paraformaldehyde for 60 min at room temperature.",
+            "startOffset": 20842,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 21653,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Statistical analyses between or among the samples were performed using Student\u2019s t-test or ANOVA with multiple comparisons (Dunnett\u2019s test), as appropriate.",
+            "startOffset": 21497,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 23740,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Mean dots were 1.6 \u00b1 0.16 and 4.5 \u00b1 0.3 in intercalated cells and peritubular erythropoietin producing cells (PTEC), respectively, in hypoxia.",
+            "startOffset": 23598,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 25075,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "HIF PHD2 protein expression was observed in DCT and CCD but not in PCT in basal condition (Fig. 4C and E).",
+            "startOffset": 24969,
+            "title": "HIF PHD2 expression by anemia"
+        },
+        {
+            "endOffset": 19654,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Captured images were analyzed using an image analysis system (AxioVision Rel.",
+            "startOffset": 19577,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 20841,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "SD rats (male, 200\u2013250 g) were made anemic (less than 20% in hematocrit).",
+            "startOffset": 20768,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 23361,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Erythropoietin production was observed mainly in the intercalated cells among the nephron but not in peritubular cells in the basal condition (Fig. 2F).",
+            "startOffset": 23209,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 16173,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 16172,
+                    "startOffset": 16168
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Obara et al. reported that GATA transcription factors play a crucial role in erythropoietin gene expression [12].",
+            "startOffset": 16060,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16060,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, no report has shown such site under basal condition so far.",
+            "startOffset": 15992,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25505,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0020": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0025": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0030": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0035": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0040": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0045": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0050": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0055": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0060": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0075": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                },
+                "b0085": {
+                    "endOffset": 25504,
+                    "startOffset": 25492
+                }
+            },
+            "secId": "s0060",
+            "sentence": "For the last 25 years, interstitial fibroblasts, but not the nephron, have been proposed to be a site of erythropoietin production [3\u201312,15,17].",
+            "startOffset": 25361,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26556,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 26555,
+                    "startOffset": 26545
+                },
+                "b0020": {
+                    "endOffset": 26555,
+                    "startOffset": 26545
+                },
+                "b0030": {
+                    "endOffset": 26555,
+                    "startOffset": 26545
+                },
+                "b0060": {
+                    "endOffset": 26555,
+                    "startOffset": 26545
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The major problem of these studies was that they involved the induction of very severe anemia, in which the hematocrit is at least less than 17% to observe the interstitial or the REP cells [3,4,6,12].",
+            "startOffset": 26355,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21756,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "P values <0.05 were considered significant, and IBM SPSS (IBM Japan, Tokyo) was used for the analysis.",
+            "startOffset": 21654,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26954,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Our results indicate that erythropoietin production occurs mainly in the intercalated cells of the collecting ducts under normal conditions.",
+            "startOffset": 26814,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16348,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "They suggested that GATA2 and 3 are mainly expressed in the distal tubules and collecting ducts and that they suppress erythropoietin production at the transcriptional level.",
+            "startOffset": 16174,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21989,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Using ISH, erythropoietin mRNAs were probed with antisense and visualized as brown dot-like structures (Fig. 1A\u2013C, E\u2013G) while sense probe did not show any signal (Fig. 1D and H).",
+            "startOffset": 21811,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 19576,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The expression of erythropoietin and HIF PHD2 mRNAs was analyzed using a Zeiss microscope equipped with mercury epifluorescence (Axioplan 2, Carl Zeiss, Jena, Germany) with a digital camera (AxioCam MRc5, Carl Zeiss).",
+            "startOffset": 19359,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 17042,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "C57BL/6J mice were used for ISH and Sprague Dawley (SD) rats were used for immunohistochemistry.",
+            "startOffset": 16946,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 21287,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The same doses of mouse IgG were used for the negative control.",
+            "startOffset": 21224,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 17588,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Because IN-IC cells have the SV40 temperature-sensitive large T antigen, the cells were cultured at 33 \u00b0C in DMEM/F12 medium (Life Technologies Japan, Tokyo) with 10% FBS, 10 \u03bcg/ml transferrin, 1 \u03bcg/ml insulin, 10 ng/ml EGF, 0.5 \u03bcg/ml hydrocortisone, 6.5 ng/ml triiodo-tyronine and 1% penicillin/streptomycin.",
+            "startOffset": 17279,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 29037,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Erythropoietin production by the peritubular fibroblasts occurs only in severe anemia and may not be physiologically important.",
+            "startOffset": 28910,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18718,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The hybridized sections were successively treated with 0.1% avidin, 0.01% biotin solution, 0.5% casein/TBS, the horseradish peroxidase (HRP)-conjugated rabbit anti-DIG F (ab\u2032) fragment antibody (DakoCytomation, Glostrup, Denmark), biotinylated tyramide solution and HRP-conjugated streptavidin (DakoCytomation).",
+            "startOffset": 18407,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 15608,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0020": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0025": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0030": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0035": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0040": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0045": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0050": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0055": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                },
+                "b0060": {
+                    "endOffset": 15607,
+                    "startOffset": 15601
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Further examinations distinguished renal erythropoietin-producing (REP) cells among peritubular fibroblasts [3\u201312].",
+            "startOffset": 15493,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14508,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 14507,
+                    "startOffset": 14504
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Severe anemia stimulates erythropoietin production by 500-fold, and more than 90% of erythropoietin mRNA is found in the kidney of anemic mice [2].",
+            "startOffset": 14361,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14360,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 14359,
+                    "startOffset": 14356
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Erythropoietin, which was initially purified from the urine, has a major role in erythrocyte production [1].",
+            "startOffset": 14252,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23208,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Plasma erythropoietin level was largely increased by 4-h hypoxia (Fig. 2E).",
+            "startOffset": 23133,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 27102,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Our methods showed strong signal for erythropoietin mRNA in peritubular cells in hypoxic condition, which is consistent with many previous reports.",
+            "startOffset": 26955,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22135,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Erythropoietin mRNA was highly expressed in some cells of the CCDs and slightly expressed in the DCTs and PCTs in control mice (basal condition).",
+            "startOffset": 21990,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 23132,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "To quantitatively estimate the site of erythropoietin production in the kidney, the dots per cells in PCT, MTAL, DCT, intercalated cell, and peritubular cells were counted.",
+            "startOffset": 22960,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 25181,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Hypoxia stimulated HIF PHD2 mRNA expression in DCTs, CCDs and peritubular cells but not in PCTs (Fig. 4B).",
+            "startOffset": 25075,
+            "title": "HIF PHD2 expression by anemia"
+        },
+        {
+            "endOffset": 17278,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "HepG2 cells were cultured at 37 \u00b0C in DMEM with 10% FBS.",
+            "startOffset": 17222,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 15492,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 15491,
+                    "startOffset": 15482
+                },
+                "b0090": {
+                    "endOffset": 15491,
+                    "startOffset": 15482
+                },
+                "b0095": {
+                    "endOffset": 15491,
+                    "startOffset": 15482
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In contrast, carbon monoxide and cobaltous chloride increased HIF2\u03b1 expression only in interstitial cells, which suggests that HIF2\u03b1-expressing interstitial fibroblasts are the only renal cells that produce erythropoietin under hypoxia [9,18,19].",
+            "startOffset": 15246,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26681,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "These findings strongly make us question the role of the REP cells for erythropoietin production in physiological condition.",
+            "startOffset": 26557,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15245,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 15244,
+                    "startOffset": 15235
+                },
+                "b0090": {
+                    "endOffset": 15244,
+                    "startOffset": 15235
+                },
+                "b0095": {
+                    "endOffset": 15244,
+                    "startOffset": 15235
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Functional anemia achieved by 0.1% carbon monoxide administration increased HIF1\u03b1 expression in most of the nephron segments and the interstitial cells, and cobaltous chloride, which mimics hypoxia, increased HIF1\u03b1 expression in the distal tubules, collecting ducts and interstitial cells [9,18,19].",
+            "startOffset": 14946,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24358,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In IN-IC cells, hypoxia increased the erythropoietin concentration in the medium from 24.2 \u00b1 1.9 to 33.6 \u00b1 6.8 pg/ml (n = 6, p < 0.05) (Fig. 3A).",
+            "startOffset": 24213,
+            "title": "Effect of hypoxia in HepG2 cells and IN-IC cells"
+        },
+        {
+            "endOffset": 17961,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 17960,
+                    "startOffset": 17956
+                }
+            },
+            "secId": "s0020",
+            "sentence": "4 h hypoxia (7% O2) was applied before the sacrifice of mice [22].",
+            "startOffset": 17895,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 19079,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Precise localization was determined using a double-staining technique with anti-AQP3 (Alomone Labs, Jerusalem Israel) and AE1 (Alpha Diagnostic Intl., San Antonio, USA) antibodies, which are markers of the principal and \u03b1 intercalated cells, respectively.",
+            "startOffset": 18824,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 24657,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The expression of HIF PHD3 was not observed in either the HepG2 or IN-IC cells (Fig. 3C).",
+            "startOffset": 24568,
+            "title": "Effect of hypoxia in HepG2 cells and IN-IC cells"
+        },
+        {
+            "endOffset": 24968,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "HIF PHD2 mRNA expression was observed in the PCTs, DCTs and CCDs (Fig. 4A).",
+            "startOffset": 24893,
+            "title": "HIF PHD2 expression by anemia"
+        },
+        {
+            "endOffset": 23857,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "These data suggest that the intercalated cells are the major sites of erythropoietin production in basal conditions.",
+            "startOffset": 23741,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 27580,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Not only showing the site of erythropoietin production, we approached a new mechanism for its production in renal tubules.",
+            "startOffset": 27458,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22959,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Double staining with AQP3 (marker for principal cells) or AE1 (marker for \u03b1 intercalated cells) on the CCDs revealed that erythropoietin mRNA is expressed in the cells that do not express either AQP3 or AE1 (Fig. 2A\u2013D, respectively), suggesting that the cells are \u03b2 or non-\u03b1/non-\u03b2 intercalated cells.",
+            "startOffset": 22659,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 19953,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The antibodies against HIF PHD1, 2 and 3 were purchased from Santa Cruz (sc-46024, 271835, and 46030, respectively).",
+            "startOffset": 19837,
+            "title": "Western blot"
+        },
+        {
+            "endOffset": 17221,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Anemia was induced in the SD rats.",
+            "startOffset": 17187,
+            "title": "Animals and cell culture"
+        },
+        {
+            "endOffset": 20768,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Erythropoietin concentration in the medium or plasma was examined using an ELISA kit (E90028Ra) from USCN Life science (Wuhan, China) and by CLEIA (SRL, Tokyo, Japan), respectively.",
+            "startOffset": 20587,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 24892,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Because the increase in HIF PHD2 expression plays a crucial role in the regulation of erythropoietin expression in IN-IC cells, PHD2 expression was examined by ISH (mice) and immunohistochemistry (rats).",
+            "startOffset": 24689,
+            "title": "HIF PHD2 expression by anemia"
+        },
+        {
+            "endOffset": 19755,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 19754,
+                    "startOffset": 19747
+                },
+                "b0105": {
+                    "endOffset": 19754,
+                    "startOffset": 19747
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Western blot analysis was performed as previously described [20,21].",
+            "startOffset": 19687,
+            "title": "Western blot"
+        },
+        {
+            "endOffset": 28070,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In the present study, we showed that hypoxia increased HIF PHD2 expression in HepG2 and IN-IC cells.",
+            "startOffset": 27970,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16748,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We used high sensitivity in situ hybridization (ISH) to detect the mRNAs of erythropoietin and HIF prolyl hydroxylase 2 (PHD2) and immunohistochemistry to detect HIF PHD2.",
+            "startOffset": 16577,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22658,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Slight erythropoietin mRNA expression was detected in outer medullary collecting ducts (OMCDs) and medullary thick ascending limbs (MTALs) in basal condition but it was not increased in hypoxic conditions.",
+            "startOffset": 22453,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 18823,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Staining was visualized with the DAB Liquid System (Bio SB, Santa Barbara, USA) and Mayer\u2019s hematoxylin.",
+            "startOffset": 18719,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 16486,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These data imply that the distal tubules and collecting ducts are possible sites of erythropoietin production among the nephron segments.",
+            "startOffset": 16349,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14711,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0020": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0025": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0030": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0035": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0040": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0045": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0050": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0055": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                },
+                "b0060": {
+                    "endOffset": 14710,
+                    "startOffset": 14704
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Most studies have reported that interstitial fibroblasts are the site of erythropoietin production in the kidney [3\u201312].",
+            "startOffset": 14591,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19672,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "4.6, Carl Zeiss).",
+            "startOffset": 19655,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 26813,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In the present study, we successfully detected erythropoietin mRNA in normal and anemic mice using the high-sensitivity ISH method.",
+            "startOffset": 26682,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22233,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "There was no erythropoietin mRNA in the interstitial cells under the basal condition (Fig. 1A\u2013C).",
+            "startOffset": 22136,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 18406,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In brief, total RNA of the mouse kidney (BD Bioscience, Franklin Lakes, USA) was reverse transcribed with an RNA PCR Kit (AMV), ver.3.0 (Takara-Bio, Otsu, Japan), and the cRNA probe for erythropoietin (GenBank accession No. NM_007942) or HIF PHD2 (GenBank accession No. NM_053207) was generated with T7 promoter region-tailed polymerase chain reaction (PCR) primers (Table 1).",
+            "startOffset": 18030,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 21150,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "After embedding the cells in paraffin, the sections were cut, rinsed and treated with an EDTA solution (pH 9, Nichirei No. 415211, Tokyo, Japan) at 95 \u00b0C for 10 min for the antigen retrieval heating.",
+            "startOffset": 20951,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 25716,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 25622,
+                    "startOffset": 25617
+                },
+                "b0020": {
+                    "endOffset": 25622,
+                    "startOffset": 25617
+                },
+                "b0025": {
+                    "endOffset": 25622,
+                    "startOffset": 25617
+                },
+                "b0030": {
+                    "endOffset": 25622,
+                    "startOffset": 25617
+                },
+                "b0035": {
+                    "endOffset": 25622,
+                    "startOffset": 25617
+                },
+                "b0050": {
+                    "endOffset": 25715,
+                    "startOffset": 25708
+                },
+                "b0055": {
+                    "endOffset": 25715,
+                    "startOffset": 25708
+                },
+                "b0060": {
+                    "endOffset": 25715,
+                    "startOffset": 25708
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The primary techniques used for the determination of the erythropoietin production site in the kidney were ISH [3\u20137] and the study of transgenic mice expressing truncated erythropoietin tagged with GFP [10\u201312].",
+            "startOffset": 25506,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21223,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The primary antibody against HIF PHD2 was used at dilutions of 1:50-200.",
+            "startOffset": 21151,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 24436,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Hypoxia also increased erythropoietin mRNA expression by 4.94-fold (Fig. 3B).",
+            "startOffset": 24359,
+            "title": "Effect of hypoxia in HepG2 cells and IN-IC cells"
+        },
+        {
+            "endOffset": 27458,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "We propose that renal tubules contribute to erythropoietin production mainly at basal and anemic or hypoxic conditions slightly.",
+            "startOffset": 27330,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22452,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The erythropoietin mRNA expression in PCT, DCT, and CCD was also increased.",
+            "startOffset": 22377,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 15991,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "There should be a site that produces erythropoietin to maintain erythropoiesis under basal condition.",
+            "startOffset": 15890,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27757,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 27756,
+                    "startOffset": 27747
+                },
+                "b0090": {
+                    "endOffset": 27756,
+                    "startOffset": 27747
+                },
+                "b0095": {
+                    "endOffset": 27756,
+                    "startOffset": 27747
+                }
+            },
+            "secId": "s0060",
+            "sentence": "HIF 2\u03b1 is thought to be crucial for the stimulation of erythropoietin production in peritubular cells by hypoxia [9,18,19].",
+            "startOffset": 27634,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28909,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Regulation mechanism of erythropoietin production by the nephron is different from that by peritubular fibroblasts.",
+            "startOffset": 28794,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14945,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 14944,
+                    "startOffset": 14937
+                },
+                "b0080": {
+                    "endOffset": 14944,
+                    "startOffset": 14937
+                },
+                "b0085": {
+                    "endOffset": 14944,
+                    "startOffset": 14937
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Erythropoietin production is stimulated by hypoxia through the activation of hypoxia-inducible transcription factors (HIF) [15\u201317].",
+            "startOffset": 14814,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24212,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In HepG2 cells, hypoxia increased the erythropoietin concentration in the medium from 24.0 \u00b1 2.4 to 33.6 \u00b1 5.4 pg/ml (ELISA) (n = 5, p < 0.05) (Fig. 3A).",
+            "startOffset": 24059,
+            "title": "Effect of hypoxia in HepG2 cells and IN-IC cells"
+        },
+        {
+            "endOffset": 14590,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The site of erythropoietin production in the kidney has been a matter of concern.",
+            "startOffset": 14509,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27633,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 27632,
+                    "startOffset": 27625
+                },
+                "b0080": {
+                    "endOffset": 27632,
+                    "startOffset": 27625
+                },
+                "b0085": {
+                    "endOffset": 27632,
+                    "startOffset": 27625
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Hypoxia stimulates HIF 1\u03b1 and 2\u03b1 expression [15\u201317].",
+            "startOffset": 27581,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19135,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "AEC staining was used for the detection of AQP3 or AE1.",
+            "startOffset": 19080,
+            "title": "In situ hybridization"
+        },
+        {
+            "endOffset": 25839,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 25838,
+                    "startOffset": 25834
+                }
+            },
+            "secId": "s0060",
+            "sentence": "However, there is a paper that performed the expression of erythropoietin in microdissected rat nephron using RT-PCR [14].",
+            "startOffset": 25717,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16897,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 16896,
+                    "startOffset": 16889
+                },
+                "b0105": {
+                    "endOffset": 16896,
+                    "startOffset": 16889
+                }
+            },
+            "secId": "s0005",
+            "sentence": "We also used IN-IC cells, which are characterized as intercalated cells to study the mechanisms of erythropoietin production by the nephron [20,21].",
+            "startOffset": 16749,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28793,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Severe anemia stimulates its production mainly in peritubular cells and slightly in the nephron.",
+            "startOffset": 28697,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20586,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "For the hypoxia experiments, IN-IC and HepG2 cells were incubated either at 20 or 1% O2 for 24 h. Real time PCR of erythropoietin was performed using primers from Applied Biosystems (erythropoietin; Rn01481376_m1, \u03b2-actin; Rn00667869).",
+            "startOffset": 20351,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 24567,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Hypoxia induced HIF PHD2 expression in both the HepG2 and IN-IC cells and induced HIF PHD1 expression in HepG2 but not IN-IC cells.",
+            "startOffset": 24436,
+            "title": "Effect of hypoxia in HepG2 cells and IN-IC cells"
+        },
+        {
+            "endOffset": 23597,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Dots were observed 47.3 \u00b1 0.3% of intercalated cells in control condition and 19.1 \u00b1 1.3% of peritubular cells in hypoxia.",
+            "startOffset": 23475,
+            "title": "Erythropoietin mRNA expression in the kidney"
+        },
+        {
+            "endOffset": 21335,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The secondary antibody was goat-anti mouse IgG.",
+            "startOffset": 21288,
+            "title": "Real time PCR, ELISA and immunohistochemistry"
+        },
+        {
+            "endOffset": 26354,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 26353,
+                    "startOffset": 26346
+                },
+                "b0055": {
+                    "endOffset": 26353,
+                    "startOffset": 26346
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Recent reports used the GFP-tagged erythropoietin gene and suggested the possibility that REP cells, such as fibroblasts, are of an extra-renal origin [10,11].",
+            "startOffset": 26195,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X14008596",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Takanori",
+                "initial": "T.",
+                "last": "Nagai"
+            },
+            {
+                "email": null,
+                "first": "Yukiko",
+                "initial": "Y.",
+                "last": "Yasuoka"
+            },
+            {
+                "email": null,
+                "first": "Yuichiro",
+                "initial": "Y.",
+                "last": "Izumi"
+            },
+            {
+                "email": null,
+                "first": "Kahori",
+                "initial": "K.",
+                "last": "Horikawa"
+            },
+            {
+                "email": null,
+                "first": "Miho",
+                "initial": "M.",
+                "last": "Kimura"
+            },
+            {
+                "email": null,
+                "first": "Yushi",
+                "initial": "Y.",
+                "last": "Nakayama"
+            },
+            {
+                "email": null,
+                "first": "Takayuki",
+                "initial": "T.",
+                "last": "Uematsu"
+            },
+            {
+                "email": null,
+                "first": "Takashi",
+                "initial": "T.",
+                "last": "Fukuyama"
+            },
+            {
+                "email": null,
+                "first": "Taiga",
+                "initial": "T.",
+                "last": "Yamazaki"
+            },
+            {
+                "email": null,
+                "first": "Yukimasa",
+                "initial": "Y.",
+                "last": "Kohda"
+            },
+            {
+                "email": null,
+                "first": "Yukiko",
+                "initial": "Y.",
+                "last": "Hasuike"
+            },
+            {
+                "email": null,
+                "first": "Masayoshi",
+                "initial": "M.",
+                "last": "Nanami"
+            },
+            {
+                "email": null,
+                "first": "Takahiro",
+                "initial": "T.",
+                "last": "Kuragano"
+            },
+            {
+                "email": null,
+                "first": "Noritada",
+                "initial": "N.",
+                "last": "Kobayashi"
+            },
+            {
+                "email": null,
+                "first": "Masuo",
+                "initial": "M.",
+                "last": "Obinata"
+            },
+            {
+                "email": null,
+                "first": "Kimio",
+                "initial": "K.",
+                "last": "Tomita"
+            },
+            {
+                "email": null,
+                "first": "Akito",
+                "initial": "A.",
+                "last": "Tanoue"
+            },
+            {
+                "email": null,
+                "first": "Takeshi",
+                "initial": "T.",
+                "last": "Nakanishi"
+            },
+            {
+                "email": null,
+                "first": "Katsumasa",
+                "initial": "K.",
+                "last": "Kawahara"
+            },
+            {
+                "email": "nono@insti.kitasato-u.ac.jp",
+                "first": "Hiroshi",
+                "initial": "H.",
+                "last": "Nonoguchi"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.05.014",
+        "firstpage": "222",
+        "issn": "0006291X",
+        "keywords": [
+            "Anemia",
+            "Collecting duct",
+            "Erythropoietin",
+            "Hypoxia",
+            "Hypoxia-inducible factor",
+            "Nephron"
+        ],
+        "lastpage": "228",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Reevaluation of erythropoietin production by the nephron"
+    }
+}

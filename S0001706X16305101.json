@@ -1,0 +1,3445 @@
+{
+    "abstract": "Close to 69,000 humans die of rabies each year, most of them in Africa and Asia. Clinical rabies can be prevented by post-exposure prophylaxis (PEP). However, PEP is commonly not available or not affordable in developing countries. Another strategy besides treating exposed humans is the vaccination of vector species. In developing countries, the main vector is the domestic dog, that, once infected, is a serious threat to humans. After a successful mass vaccination of 70% of the dogs in N'Djam\u00e9na, we report here a cost-estimate for a national rabies elimination campaign for Chad. In a cross-sectional survey in four rural zones, we established the canine : human ratio at the household level. Based on human census data and the prevailing socio-cultural composition of rural zones of Chad, the total canine population was estimated at 1,205,361 dogs (95% Confidence interval 1,128,008\u20131,736,774 dogs). Cost data were collected from government sources and the recent canine mass vaccination campaign in N'Djam\u00e9na. A Monte Carlo simulation was used for the simulation of the average cost and its variability, using probability distributions for dog numbers and cost items. Assuming the vaccination of 100 dogs on average per vaccination post and a duration of one year, the total cost for the vaccination of the national Chadian canine population is estimated at 2,716,359 Euros (95% CI 2,417,353\u20133,035,081) for one vaccination round. A development impact bond (DIB) organizational structure and cash flow scenario were then developed for the elimination of canine rabies in Chad. Cumulative discounted cost of 28.3 million Euros over ten years would be shared between the government of Chad, private investors and institutional donors as outcome funders. In this way, the risk of the investment could be shared and the necessary investment could be made available upfront \u2013 a key element for the elimination of canine rabies in Chad.",
+    "author_highlights": [
+        {
+            "endOffset": 16662,
+            "sentence": "After the elimination of Polio, dog transmitted rabies is a promising candidate for world-wide elimination.",
+            "startOffset": 16555
+        },
+        {
+            "endOffset": 16784,
+            "sentence": "Cost estimates and novel financial instruments like development impact bonds are critical towards dog rabies elimination.",
+            "startOffset": 16663
+        },
+        {
+            "endOffset": 16887,
+            "sentence": "This paper presents the first development impact bond calculation for dog rabies elimination in Africa",
+            "startOffset": 16785
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Bogel"
+                },
+                {
+                    "first": "F. X.",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                }
+            ],
+            "firstpage": "281",
+            "issn": "00439686",
+            "lastpage": "291",
+            "pmid": "2118428",
+            "pub_year": 1990,
+            "title": "Economics of human and canine rabies elimination: Guidelines for programme orientation",
+            "volume": "68"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "Salome",
+                    "initial": "S.",
+                    "last": "D\u00fcrr"
+                },
+                {
+                    "first": "Martin I.",
+                    "initial": "M.I.",
+                    "last": "Meltzer"
+                },
+                {
+                    "first": "Rolande",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "doi": "10.3201/eid1410.071490",
+            "firstpage": "1650",
+            "issn": "10806040",
+            "lastpage": "1652",
+            "pmid": "18826838",
+            "pub_year": 2008,
+            "title": "Owner valuation of rabies vaccination of dogs, Chad",
+            "volume": "14"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "Salome",
+                    "initial": "S.",
+                    "last": "D\u00fcrr"
+                },
+                {
+                    "first": "Service",
+                    "initial": "S.",
+                    "last": "Na\u00efssengar"
+                },
+                {
+                    "first": "Rolande",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "Colette",
+                    "initial": "C.",
+                    "last": "Diguimbye"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Niezgoda"
+                },
+                {
+                    "first": "Ivan",
+                    "initial": "I.",
+                    "last": "Kuzmin"
+                },
+                {
+                    "first": "Charles E.",
+                    "initial": "C.E.",
+                    "last": "Rupprecht"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0000206",
+            "pmid": "18365035",
+            "pub_year": 2008,
+            "title": "Rabies diagnosis for developing countries",
+            "volume": "2"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Durr"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Kaninga"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Doumagoum Moto"
+                },
+                {
+                    "first": "M. I.",
+                    "initial": "M.I.",
+                    "last": "Meltzer"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Vounatsou"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "doi": "10.1017/S0950268809002386",
+            "firstpage": "1558",
+            "issn": "09502688",
+            "lastpage": "1567",
+            "pmid": "19327197",
+            "pub_year": 2009,
+            "title": "Effectiveness of dog rabies vaccination programmes: Comparison of owner-charged and free vaccination campaigns",
+            "volume": "137"
+        },
+        "bib0025": null,
+        "bib0030": {
+            "authors": [
+                {
+                    "first": "Conrad M.",
+                    "initial": "C.M.",
+                    "last": "Freuling"
+                },
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Selhorst"
+                },
+                {
+                    "first": "Ronald",
+                    "initial": "R.",
+                    "last": "Schr\u00f6der"
+                },
+                {
+                    "first": "Francois X.",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                },
+                {
+                    "first": "Thomas C.",
+                    "initial": "T.C.",
+                    "last": "Mettenleiter"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "M\u00fcller"
+                }
+            ],
+            "doi": "10.1098/rstb.2012.0142",
+            "issn": "09628436",
+            "pmid": "23798690",
+            "pub_year": 2013,
+            "title": "The elimination of fox rabies from Europe: Determinants of success and lessons for the future",
+            "volume": "368"
+        },
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Frey"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Kessely"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Doumagoum Moto"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Na\u00efssengar"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Schelling"
+                }
+            ],
+            "doi": "10.1111/tmi.12202",
+            "firstpage": "1555",
+            "issn": "13602276",
+            "lastpage": "1562",
+            "pmid": "24118491",
+            "pub_year": 2013,
+            "title": "Survey of animal bite injuries and their management for an estimate of human rabies deaths in N'Djam\u00e9na, Chad",
+            "volume": "18"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Dushoff"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Bingham"
+                },
+                {
+                    "first": "Gideon",
+                    "initial": "G.",
+                    "last": "Br\u00fcckner"
+                },
+                {
+                    "first": "Y. H.",
+                    "initial": "Y.H.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Dobson"
+                }
+            ],
+            "doi": "10.1073/pnas.0609122104",
+            "firstpage": "7717",
+            "issn": "00278424",
+            "lastpage": "7722",
+            "pmid": "17452645",
+            "pub_year": 2007,
+            "title": "Synchronous cycles of domestic dog rabies in sub-Saharan Africa and the impact of control efforts",
+            "volume": "104"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "Katie",
+                    "initial": "K.",
+                    "last": "Hampson"
+                },
+                {
+                    "first": "Laurent",
+                    "initial": "L.",
+                    "last": "Coudeville"
+                },
+                {
+                    "first": "Tiziana",
+                    "initial": "T.",
+                    "last": "Lembo"
+                },
+                {
+                    "first": "Maganga",
+                    "initial": "M.",
+                    "last": "Sambo"
+                },
+                {
+                    "first": "Alexia",
+                    "initial": "A.",
+                    "last": "Kieffer"
+                },
+                {
+                    "first": "Micha\u00ebl",
+                    "initial": "M.",
+                    "last": "Attlan"
+                },
+                {
+                    "first": "Jacques",
+                    "initial": "J.",
+                    "last": "Barrat"
+                },
+                {
+                    "first": "Jesse D.",
+                    "initial": "J.D.",
+                    "last": "Blanton"
+                },
+                {
+                    "first": "Deborah J.",
+                    "initial": "D.J.",
+                    "last": "Briggs"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Cleaveland"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Costa"
+                },
+                {
+                    "first": "Conrad M.",
+                    "initial": "C.M.",
+                    "last": "Freuling"
+                },
+                {
+                    "first": "Elly",
+                    "initial": "E.",
+                    "last": "Hiby"
+                },
+                {
+                    "first": "Lea",
+                    "initial": "L.",
+                    "last": "Knopf"
+                },
+                {
+                    "first": "Fernando",
+                    "initial": "F.",
+                    "last": "Leanes"
+                },
+                {
+                    "first": "Fran\u00e7ois Xavier",
+                    "initial": "F.X.",
+                    "last": "Meslin"
+                },
+                {
+                    "first": "Artem",
+                    "initial": "A.",
+                    "last": "Metlin"
+                },
+                {
+                    "first": "Mary Elizabeth",
+                    "initial": "M.E.",
+                    "last": "Miranda"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "M\u00fcller"
+                },
+                {
+                    "first": "Louis H.",
+                    "initial": "L.H.",
+                    "last": "Nel"
+                },
+                {
+                    "first": "Sergio",
+                    "initial": "S.",
+                    "last": "Recuenco"
+                },
+                {
+                    "first": "Charles E.",
+                    "initial": "C.E.",
+                    "last": "Rupprecht"
+                },
+                {
+                    "first": "Carolin",
+                    "initial": "C.",
+                    "last": "Schumacher"
+                },
+                {
+                    "first": "Louise",
+                    "initial": "L.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Marco Antonio Natal",
+                    "initial": "M.A.N.",
+                    "last": "Vigilato"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Jonathan",
+                    "initial": "J.",
+                    "last": "Dushoff"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0003709",
+            "issn": "19352727",
+            "pmid": "25881058",
+            "pub_year": 2015,
+            "title": "Estimating the Global Burden of Endemic Canine Rabies",
+            "volume": "9"
+        },
+        "bib0050": null,
+        "bib0055": null,
+        "bib0060": null,
+        "bib0065": null,
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Kayali"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Hutton"
+                },
+                {
+                    "first": "A. G.",
+                    "initial": "A.G.",
+                    "last": "Ndoutamia"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "doi": "10.1111/j.1365-3156.2006.01663.x",
+            "firstpage": "1058",
+            "issn": "13602276",
+            "lastpage": "1065",
+            "pmid": "16827706",
+            "pub_year": 2006,
+            "title": "Cost-description of a pilot parenteral vaccination campaign against rabies in dogs in N'Djam\u00e9na, Chad",
+            "volume": "11"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "Monique",
+                    "initial": "M.",
+                    "last": "L\u00e9chenne"
+                },
+                {
+                    "first": "Assandi",
+                    "initial": "A.",
+                    "last": "Oussiguere"
+                },
+                {
+                    "first": "Kemdongarti",
+                    "initial": "K.",
+                    "last": "Naissengar"
+                },
+                {
+                    "first": "Rolande",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Mosimann"
+                },
+                {
+                    "first": "Germain",
+                    "initial": "G.",
+                    "last": "Rives"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Hattendorf"
+                },
+                {
+                    "first": "Daugla Doumagoum",
+                    "initial": "D.D.",
+                    "last": "Moto"
+                },
+                {
+                    "first": "Idriss Oumar",
+                    "initial": "I.O.",
+                    "last": "Alfaroukh"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Julie",
+                    "initial": "J.",
+                    "last": "Tessier"
+                },
+                {
+                    "first": "S\u00e9raphin",
+                    "initial": "S.",
+                    "last": "Madjadinan"
+                },
+                {
+                    "first": "Fatima",
+                    "initial": "F.",
+                    "last": "Abdelrazakh"
+                },
+                {
+                    "first": "Bidjeh",
+                    "initial": "B.",
+                    "last": "Kebkiba"
+                },
+                {
+                    "first": "Mahamat",
+                    "initial": "M.",
+                    "last": "Saboun"
+                },
+                {
+                    "first": "Mahamat",
+                    "initial": "M.",
+                    "last": "Ouagal"
+                },
+                {
+                    "first": "Falzia",
+                    "initial": "F.",
+                    "last": "Ngabana"
+                },
+                {
+                    "first": "Penelope",
+                    "initial": "P.",
+                    "last": "Vounatsou"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": null
+                }
+            ],
+            "doi": "10.1016/j.vaccine.2015.11.033",
+            "firstpage": "571",
+            "issn": "0264410X",
+            "lastpage": "577",
+            "pmid": "26631415",
+            "pub_year": 2016,
+            "title": "Operational performance and analysis of two rabies vaccination campaigns in N'Djamena, Chad",
+            "volume": "34"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "C\u00e9line",
+                    "initial": "C.",
+                    "last": "Mbilo"
+                },
+                {
+                    "first": "Monique",
+                    "initial": "M.",
+                    "last": "L\u00e9chenne"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Hattendorf"
+                },
+                {
+                    "first": "S\u00e9raphin",
+                    "initial": "S.",
+                    "last": "Madjadinan"
+                },
+                {
+                    "first": "Franziska",
+                    "initial": "F.",
+                    "last": "Anyiam"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "doi": "10.1016/j.actatropica.2016.06.003",
+            "firstpage": "100",
+            "issn": "0001706X",
+            "lastpage": "111",
+            "pmid": "27377767",
+            "pub_year": 2017,
+            "title": "Rabies awareness and dog ownership among rural northern and southern Chadian communities\u2014Analysis of a community-based, cross-sectional household survey",
+            "volume": "175"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Kayali"
+                },
+                {
+                    "first": "N.",
+                    "initial": "N.",
+                    "last": "Yemadji"
+                },
+                {
+                    "first": "A. G.",
+                    "initial": "A.G.",
+                    "last": "Ndoutamia"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                }
+            ],
+            "firstpage": "53",
+            "issn": "0025682X",
+            "lastpage": "58",
+            "pmid": "15903078",
+            "pub_year": 2005,
+            "title": "Impact of canine demography on rabies transmission in N'djamena, Chad",
+            "volume": "65"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Yvonne",
+                    "initial": "Y.",
+                    "last": "Muthiani"
+                },
+                {
+                    "first": "Abdallah",
+                    "initial": "A.",
+                    "last": "Traor\u00e9"
+                },
+                {
+                    "first": "Stephanie",
+                    "initial": "S.",
+                    "last": "Mauti"
+                },
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Hattendorf"
+                }
+            ],
+            "doi": "10.1016/j.prevetmed.2015.04.007",
+            "firstpage": "203",
+            "issn": "01675877",
+            "lastpage": "209",
+            "pmid": "25953653",
+            "pub_year": 2015,
+            "title": "Low coverage of central point vaccination against dog rabies in Bamako, Mali",
+            "volume": "120"
+        },
+        "bib0095": null,
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "A. I.",
+                    "initial": "A.I.",
+                    "last": "Wandeler"
+                },
+                {
+                    "first": "H. C.",
+                    "initial": "H.C.",
+                    "last": "Matter"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Kappeler"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Budde"
+                }
+            ],
+            "doi": "10.20506/rst.12.1.663",
+            "firstpage": "51",
+            "issn": "02531933",
+            "lastpage": "71",
+            "pmid": "8518447",
+            "pub_year": 1993,
+            "title": "The ecology of dogs and canine rabies: a selective review.",
+            "volume": "12"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "Jakob",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "Esther",
+                    "initial": "E.",
+                    "last": "Schelling"
+                },
+                {
+                    "first": "Felix",
+                    "initial": "F.",
+                    "last": "Roth"
+                },
+                {
+                    "first": "Bassirou",
+                    "initial": "B.",
+                    "last": "Bonfoh"
+                },
+                {
+                    "first": "Don",
+                    "initial": "D.",
+                    "last": "De Savigny"
+                },
+                {
+                    "first": "Marcel",
+                    "initial": "M.",
+                    "last": "Tanner"
+                }
+            ],
+            "doi": "10.3201/eid1304.060381",
+            "firstpage": "527",
+            "issn": "10806040",
+            "lastpage": "531",
+            "pmid": "17553265",
+            "pub_year": 2007,
+            "title": "Human benefits of animal interventions for zoonosis control",
+            "volume": "13"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zinsstag"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "D\u00fcrr"
+                },
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Penny"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Mindekem"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Roth"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Menendez Gonzalez"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Naissengar"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Hattendorf"
+                }
+            ],
+            "doi": "10.1073/pnas.0904740106",
+            "firstpage": "14996",
+            "issn": "00278424",
+            "lastpage": "15001",
+            "pmid": "19706492",
+            "pub_year": 2009,
+            "title": "Transmission dynamics and economics of rabies control in dogs and humans in an African city",
+            "volume": "106"
+        },
+        "bib0115": null
+    },
+    "body_text": [
+        {
+            "endOffset": 39247,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 39020,
+                    "startOffset": 39002
+                }
+            },
+            "secId": "sec0080",
+            "sentence": "Based on Mbilo\u2019s household study (Mbilo et al., 2017) and the regional breakdown of the human population by prevailing social-cultural and religious composition, the canine population of Chad is estimated at 1,205,361 canines (95% confidence limits: 1,128,008\u20131,736,774 canines),",
+            "startOffset": 38968,
+            "title": "Canine population"
+        },
+        {
+            "endOffset": 26296,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The household study was approved by the ethical review board of the cantons of Basel, Switzerland (Ethik Kommission beider Basel, EKBB ref. 168/13, 29 July 2013) and authorized by the Chadian public health authorities.",
+            "startOffset": 26078,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 43388,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "There are few studies estimating the costs per canine vaccinated in a parenteral mass vaccination campaign in Africa.",
+            "startOffset": 43271,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26077,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 26075,
+                    "startOffset": 26057
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Details of the characteristics of the studied regions are provided in the companion paper on rabies awareness and canine ownership (Mbilo et al., 2017).",
+            "startOffset": 25925,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 20896,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, dog owners in West and Central Africa are often not able to pay for the vaccination of their dogs.",
+            "startOffset": 20789,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21814,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "After the eradication of Poliomyelitis, and compared to onther ongoing elimination efforts like Guinea worm, malaria and tuberculosis, canine transmitted human rabies is one of the most promissing next candidate for global elimination because of its low reproductive number of less than 2.",
+            "startOffset": 21525,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40811,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Based on the laboratory cost for surveillance and effectiveness (Table 4) and the cost of the mass vaccination scenarios 3 and 4 (Table 5), a cash flow profile for a development impact bond (DIB) for the nation-wide elimination of canine rabies in Chad was developed.",
+            "startOffset": 40544,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 42069,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "To give a target IRR that is acceptable to investors will cost more the more back-loaded the repayments are.",
+            "startOffset": 41961,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 38936,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "The total premium paid by the donors was varied from zero to 50% of the total capital investment made by the investors, and the internal rate of return (IRR) received by the investors calculated under the three different scenarios.",
+            "startOffset": 38705,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 38578,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "back-loaded \u2212 in which payments (capital return and premium) are weighted towards later years",
+            "startOffset": 38485,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 42176,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Back-loading payments is important to ensure payments equate to long-term successfully delivered outcomes.",
+            "startOffset": 42070,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 27006,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "For every region the overall canine population was summed up.",
+            "startOffset": 26945,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 27108,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The overall total canine population of Chad was then obtained from the sum of canines in all regions.",
+            "startOffset": 27007,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 43508,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "A representative study was performed by B\u00f6gel et al. in 1990, which assumes vaccination costs of 1.18 Euros per canine.",
+            "startOffset": 43389,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20789,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The cost of canine mass vaccination should eventually break even with the cumulated cost of human PEP.",
+            "startOffset": 20687,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23465,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 23401,
+                    "startOffset": 23389
+                },
+                "bib0115": {
+                    "endOffset": 23462,
+                    "startOffset": 23441
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "There is a growing interest among development donors and impact investors in the use of so-called \u201cDevelopment Impact Bonds\u201d (DIB): Private investment provides upfront capital for development programmes, only calling on donor funding to repay capital and a potential return based on achieved results (Hughes, 2014), (Welburn and Coleman, Chapter 18 in (Zinsstag et al., 2015)).",
+            "startOffset": 23088,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29226,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The nationwide vaccination campaign must be coordinated carefully with respect to seasonal meteorological dynamics.",
+            "startOffset": 29111,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 36564,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Finally, during the post-elimination maintenance phase, active surveillance is sustained and fully financed by the government of Chad.",
+            "startOffset": 36430,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 24445,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Regions are divided into 61 departments each lead by a prefect.",
+            "startOffset": 24382,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 25924,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The departments sampled were Kouh Ouest in the region of Logone Oriental, Grand Sido in Moyen Chari, Dar Tam in the region Wadi Fira and Guera in the region Guera.",
+            "startOffset": 25761,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 33354,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Canine: human ratios and cost items were expressed as probability distributions (Table 3).",
+            "startOffset": 33264,
+            "title": "Consideration of uncertainty"
+        },
+        {
+            "endOffset": 31286,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "All people involved in the vaccination campaign will be paid a daily allowance.",
+            "startOffset": 31207,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 26809,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 26807,
+                    "startOffset": 26789
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Essentially, there are more dogs per humans in Christian/Animist communities than in Muslim communities (Mbilo et al., 2017).",
+            "startOffset": 26684,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 33263,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "The cost analysis was implemented in Microsoft Excel using a Monte Carlo simulation add-on (Ersatz, Epigear.com) using 50,000 iterations.",
+            "startOffset": 33126,
+            "title": "Consideration of uncertainty"
+        },
+        {
+            "endOffset": 29559,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "In a nationwide campaign, we assume that, on average, 100 canines can be vaccinated by one VP per day.",
+            "startOffset": 29457,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 34890,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 34852,
+                    "startOffset": 34831
+                }
+            },
+            "secId": "sec0065",
+            "sentence": "The rabies elimination authority is a special purpose vehicle in charge of the implementation of the suppression and maintenance phase but also for the \u201cOne Health\u201d campaign effectiveness (Muthiani et al., 2015) and for surveillance of elimination.",
+            "startOffset": 34642,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 24607,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The departments are again divided into sub-prefectures (200 in total) comprising each a number of different cantons (over 400 in total) led by a chief of canton.",
+            "startOffset": 24446,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 40433,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "In scenario 3 and 4, the most sensitive variables are the human vaccination cost, the vaccinator numbers and vaccinator allowances with SCC values above 0.2.",
+            "startOffset": 40276,
+            "title": "Sensitivity analysis"
+        },
+        {
+            "endOffset": 24812,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "58% of Chadians are Muslim (the vast majority Sunni) predominantly inhabiting northern Chad.",
+            "startOffset": 24720,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 27269,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 27267,
+                    "startOffset": 27249
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "For the variability of the canine population we took the overall variation of the canine: human ratio of 1:6.3 to 1:9.7 from Mbilo\u2019s study (Mbilo et al., 2017).",
+            "startOffset": 27109,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 39533,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "The average cost of the different scenarios is between 1.9 and 4.7 million Euros depending on the number of canines vaccinated per day per vaccination post and the overall duration of one round of country-wide vaccination between 1 and 3 years.",
+            "startOffset": 39289,
+            "title": "Campaign costs and campaign scenarios"
+        },
+        {
+            "endOffset": 20399,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 20397,
+                    "startOffset": 20376
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A recent simulation of canine rabies mass vaccination in an African city showed that the break-even of the cost of canine rabies vaccination and PEP can occur already after six years (Zinsstag et al., 2009).",
+            "startOffset": 20192,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41791,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "The annual net cash to the investors gives an IRR of 9%.",
+            "startOffset": 41735,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 44706,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "As the basic concept of a DIB, the overall risk is shared between investors, outcome funders and national governments.",
+            "startOffset": 44588,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19635,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, the use of PEP alone will never interrupt rabies transmission.",
+            "startOffset": 19564,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23087,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "For the mobilization of the necessary funding for a country-wide mass vaccination campaign, alternative financing models are necessary, as neither national states, nor institutional donors are able to provide large amounts upfront.",
+            "startOffset": 22856,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30433,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 30431,
+                    "startOffset": 30412
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "The costs of a pilot vaccination campaign in N\u2019Djam\u00e9na in 2005 were split into public and private costs (Kayali et al., 2006).",
+            "startOffset": 30307,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 28307,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 28305,
+                    "startOffset": 28284
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "In 2012 and 2013 a canine rabies mass vaccination campaign reached 70% of the canine population, hence we can be confident, that with sufficient training, canine rabies mass vaccination campaigns can also be operated in rural Chadian areas (Lechenne et al., 2016).",
+            "startOffset": 28043,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 28972,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The information will then be passed to smaller government units and from them to the leaders of smaller settlements, who are connected to the local population.",
+            "startOffset": 28813,
+            "title": "Public engagement"
+        },
+        {
+            "endOffset": 33956,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Chad has currently only one fluorescence microscope in Ndjamena, the capital city.",
+            "startOffset": 33874,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 34235,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Only rabies diagnostics have been considered in these budget calculations.",
+            "startOffset": 34161,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 34346,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "However, these same facilities can be used in the future for the di-agnosis of other animal diseases (Table 4)",
+            "startOffset": 34236,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 35383,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In this way the risk of the investment is shared between the investors, the outcome funders and the national government.",
+            "startOffset": 35263,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 44587,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "This is the first DIB cash flow profile estimate for a nation-wide canine rabies elimination campaign in Africa.",
+            "startOffset": 44475,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41067,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "The outcome funder starts paying back the investor from year four onwards.",
+            "startOffset": 40993,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 26576,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "It was assessed for every administrative region of Chad.",
+            "startOffset": 26520,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 32717,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Societal cost: The societal cost of rabies mass vaccination is the sum of the public cost and the private cost incurred to the dog owner.",
+            "startOffset": 32580,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 30983,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Vaccination cards will be printed locally.",
+            "startOffset": 30941,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 38484,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Here, we examine the trade-offs in structuring payments to investors under three main payment scenarios:",
+            "startOffset": 38380,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 34641,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The essential components of the organizational plan (Fig. 1) are investors who are willing to make available the required funds upfront to a rabies elimination authority.",
+            "startOffset": 34471,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 46963,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 46854,
+                    "startOffset": 46842
+                }
+            },
+            "secId": "sec0105",
+            "sentence": "DIBs are an extension of Social Impact Bonds (Hughes, 2014) and are based on the principle of sharing risk between donors and a stringent result-based pay-back regime.",
+            "startOffset": 46796,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 43819,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 43817,
+                    "startOffset": 43798
+                }
+            },
+            "secId": "sec0100",
+            "sentence": "The societal costs per canine vaccinated added up to FCFA 1,610 (2.46 Euros) per canine and marginal costs for every additional canine were FCFA 1,036 (1.58 Euros) (Kayali et al., 2006).",
+            "startOffset": 43633,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40992,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Table 6a presents the undiscounted contributions of the Chadian Government for the surveillance and those of the investor for the effectiveness monitoring and the mass vaccination.",
+            "startOffset": 40812,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 38705,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "even \u2212 with payment spread more evenly across the different years.",
+            "startOffset": 38639,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 45050,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "However, this investment in animal disease surveillance will be of considerable benefit to the surveillance of other animal diseases in Chad, such as foot and mouth disease (FMD) or contagious bovine pleuro-pneumonia (CBPP).",
+            "startOffset": 44826,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47147,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "Thereby private investors make available the needed funds upfront and are refunded by an institutional donor i.e. a development agency based on the effective results of the operation.",
+            "startOffset": 46964,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 32377,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 32229,
+                    "startOffset": 32219
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "The average per capita income in Chad is 52,325 FCFA (80 Euros) per month, i.e. 327 FCFA (0.50 Euros) per hour (IBRD, 2015) (International Bank for Reconstruction and Development; data.worldbank.org/country/chad?view = chart, accessed 8 October 2016, 1 USD = 0.91 Euro).",
+            "startOffset": 32107,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 30655,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 30653,
+                    "startOffset": 30634
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "Public costs = Marginal vaccination cost + Equipment of VP + Staff allowance + Information + TransportationPrivate costs = Lost work time + TransportationSocietal costs = Public costs + private costs (Kayali et al., 2006).",
+            "startOffset": 30433,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 25493,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Two northern regions and two southern regions (4 regions in total) were randomly selected, with selection probability proportional to the size of the population.",
+            "startOffset": 25332,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 26944,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Hence empirically observed canine: human ratios were assigned to the relative numbers of Christians/Animists and to Muslims (Table 1).",
+            "startOffset": 26810,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 37615,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "For the premium payments, reflecting a reward for a successful reduction in rabies transmission, we assume annual payments from year 4, the start of the consolidation phase, onwards.",
+            "startOffset": 37433,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 30886,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The prices of the vaccine are quoted by the local importer; syringes and needles are bought in Chad.",
+            "startOffset": 30786,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 31837,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We assessed the distances covered during the whole campaign by one car at 75,000 km and the fuel consumption per car at 7,500 L.",
+            "startOffset": 31709,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 35262,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Based on the effective reduction of rabies transmission, to be verified independently by the rabies elimination authority, the outcome funder, (an institutional donor, such as the European Union or other development agencies) refunds the investor with a previously-determined profit based on the result.",
+            "startOffset": 34959,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 36263,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The second round of mass vaccination requires preparation and would take place in the third year and fourth year.",
+            "startOffset": 36150,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 22048,
+            "parents": [],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 22046,
+                    "startOffset": 22025
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "This requires a close cooperation between public health and animal health, called \u201cOne Health\u201d (Zinsstag et al., 2015).",
+            "startOffset": 21929,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29456,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The vaccination campaign in N\u2019Djam\u00e9na showed that one VP with three vaccinators can vaccinate 50 to 200 canines a day.",
+            "startOffset": 29338,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 42375,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "In reality, the details of the payment triggers and levels of returns will require extensive negotiations between investors and payers.",
+            "startOffset": 42240,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 43271,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "The costs of coordinating and performing the campaign, and the distances to be travelled during the campaign were also estimated.",
+            "startOffset": 43142,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22191,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 22189,
+                    "startOffset": 22169
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Latin American countries have made enormous progress in this regard and strong efforts are underway in South-East Asia (Hampson et al., 2007).",
+            "startOffset": 22049,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20121,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 20119,
+                    "startOffset": 20097
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Boegel et al. (Bogel and Meslin, 1990) showed that after 15 years a canine rabies control programme consisting of a combination of PEP and canine vaccination becomes more cost-effective than PEP alone (Bogel and Meslin, 1990).",
+            "startOffset": 19895,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33125,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0055",
+            "sentence": "Our assumptions and estimations are variable and we took into consideration the uncertainty of the involved parameters via Monte Carlo simulation.",
+            "startOffset": 32979,
+            "title": "Consideration of uncertainty"
+        },
+        {
+            "endOffset": 25760,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "As data on the population at village level was not available, simple random sampling was used.",
+            "startOffset": 25666,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 37183,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "The division of the payments reflects the risks being transferred to the investors; risk of operational delivery failure and epidemiological risk that following the successful operational delivery the expected reduction in disease transmission is not achieved.",
+            "startOffset": 36923,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 47414,
+            "parents": [],
+            "refoffsets": {
+                "bib0105": {
+                    "endOffset": 47412,
+                    "startOffset": 47391
+                }
+            },
+            "secId": "sec0105",
+            "sentence": "This approach could become an instrument for a global subsidiary principle of zoonoses elimination, which is currently not part of the Global Fund portfolio (Zinsstag et al., 2007).",
+            "startOffset": 47233,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 26519,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The estimation of the canine: human ratio is based on results of the data collection as well as recommendations by Chadian experts at the Institut de Recherches en Elevage pour le Development (IRED).",
+            "startOffset": 26320,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 36149,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "During the suppression phase, the first round of mass vaccination takes place within one year to not more than 18 months.",
+            "startOffset": 36028,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 27697,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Each of the 61 departments has several veterinary posts and at least one health centre, which can provide infrastructure, equipment, and professionally- trained manpower.",
+            "startOffset": 27527,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 29989,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "In the case of scenario 1, 6 VP and thus 18 vaccinators are needed at a time.",
+            "startOffset": 29912,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 40275,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "A sensitivity analysis of the Monte Carlo simulation using the Spearman correlation coefficient (SCC) related the cost estimate with the variability of all input variables (Table 3).",
+            "startOffset": 40093,
+            "title": "Sensitivity analysis"
+        },
+        {
+            "endOffset": 21524,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The Global Alliance for Rabies Control works towards worldwide canine rabies elimination by 2030.",
+            "startOffset": 21427,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23739,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The present study intends to contribute to the efforts of PARACON by estimating the cost of canine rabies elimination on a national scale for an African country by providing a comprehensive cost estimate and a proposal for a DIB for the elimination of canine rabies in Chad.",
+            "startOffset": 23465,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35732,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The supervisory board is composed of all involved stakeholders and directly supervises the rabies elimination authority.",
+            "startOffset": 35612,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 34073,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "In addition, rapid laboratory diagnosis at the 108 veterinary posts (peripheral laboratories) should be established.",
+            "startOffset": 33957,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 19486,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 19484,
+                    "startOffset": 19467
+                },
+                "bib0110": {
+                    "endOffset": 19465,
+                    "startOffset": 19444
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Even if PEP were subsidized, out-of-pocket expenses remain a huge cost burden to affected families, exceeding 2\u20133 months wages (Zinsstag et al., 2009; Frey et al., 2013).",
+            "startOffset": 19316,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46599,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "We recommend testing campaigns in rural areas on a small scale to validate our assumption of the number of dogs that can be vaccinated daily in rural areas of Chad.",
+            "startOffset": 46435,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 31512,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "A detailed cost analysis of this campaign will be published shortly.",
+            "startOffset": 31444,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 35547,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "National governments cover the cost of the surveillance system and inform the outcome funder of the surveillance results independently of the outcome verification.",
+            "startOffset": 35384,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 27811,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Training of vaccinators must take place in each department.",
+            "startOffset": 27752,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 29086,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "In this way information on the mass vaccination will be conveyed in a contextually- adapted way to all concerned.",
+            "startOffset": 28973,
+            "title": "Public engagement"
+        },
+        {
+            "endOffset": 37755,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Different thresholds of operational delivery could be set to determine what fraction of outstanding capital is returned at different phases.",
+            "startOffset": 37615,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 22495,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The elimination of an infectious disease such as rabies requires a highly-coordinated and concerted effort to reach all affected areas of a country in a short time frame.",
+            "startOffset": 22325,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37996,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Depending on the investor/donor negotiations, refunding schemes could be adapted to regional outcome targets.",
+            "startOffset": 37887,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 20963,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In Chad fewer than 19% of the dogs are vaccinated by their owners.",
+            "startOffset": 20897,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22626,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Considerable upfront funding is required to start the mass vaccination and reach a high enough coverage to interrupt transmission.",
+            "startOffset": 22496,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25331,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 25329,
+                    "startOffset": 25311
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The remainder of Chad was divided into north (predominantly Sahelian) and south (predominantly Savannah) regions and was subjected to stratified multilevel sampling (Mbilo et al., 2017).",
+            "startOffset": 25145,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 24084,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Chad is a landlocked country located in Central Africa and is spreading over 1.284 million km2.",
+            "startOffset": 23989,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 27927,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Chadian veterinary staff regularly vaccinate large cattle populations against Anthrax and other livestock diseases.",
+            "startOffset": 27812,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 39950,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 39835,
+                    "startOffset": 39814
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "The high turnover of the canine populations in Chad, with an average live-span of not more than three years (Mindekem et al., 2005), indicates that scenarios favouring the vaccination of the total Chadian canine population should be prioritized.",
+            "startOffset": 39705,
+            "title": "Campaign costs and campaign scenarios"
+        },
+        {
+            "endOffset": 47232,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "In this way all participants take a more active role towards a successful operation.",
+            "startOffset": 47148,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 31708,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Radio spots on Radiodiffusion Nationale Tchadienne (RNT) will be broadcast twice a week; spots on local channels twice a day.",
+            "startOffset": 31583,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 24290,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Geographically, Chad is divided into three distinct regions: the Sahara Desert in the north bordering Libya, the Sahelian belt and the Sudanese savannah in the south bordering the Central African Republic.",
+            "startOffset": 24085,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 46795,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "This study serves as a preparatory step for a development impact bond-funding (DIB) request to several governments and private investors http://www.cgdev.org/initiative/development-impact-bonds-0.",
+            "startOffset": 46599,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 29751,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "For the feasibility and budget planning of the campaign, we examined four different scenarios to be able to assess how different cost items influence the overall costs of a campaign (Table 2).",
+            "startOffset": 29559,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 41960,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Fig. 2 explores how the IRR varies as a function of the total premium donors are prepared to pay for success under the different scenarios of weighting payments by time.",
+            "startOffset": 41791,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 34160,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "This is, however, pending the successful validation of the rapid laboratory diagnosis.",
+            "startOffset": 34074,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 34958,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Its aim is to reach a recognized freedom of rabies status for Chad.",
+            "startOffset": 34891,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 44475,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "As the sensitivity analysis shows, vaccinator salaries paid during a nationwide parenteral vaccination campaign is the cost item with the greatest impact on the budget calculations, followed by the cost of human vaccination, depending on the number required.",
+            "startOffset": 44217,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30193,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "One additional manned car will be needed to visit the settlements scheduled next.",
+            "startOffset": 30112,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 22325,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In July 2015, the Pan African Rabies Control Network (PARACON) was founded with the clear aim of worldwide canine rabies elimination.",
+            "startOffset": 22192,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32946,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "In the present calculation we assume that the private dog owners will bear the opportunity cost of bringing their dog to the vaccination cost and do not include it in the further assessment which considers only the social costs.",
+            "startOffset": 32718,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 31582,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Information and transportation costs: Posters will be printed locally.",
+            "startOffset": 31512,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 36026,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "During the pre-implementation phase, the detailed design of the campaign is prepared, surveillance and effectiveness tools are established in the central and peripheral laboratories; the state to cover the surveillance cost (Fig. 1).",
+            "startOffset": 35793,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 36922,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "The return to investors was divided into two components (1) a return of the capital outlaid to fund operational activities in the four different phases, and (2) premium payments, over and above the return of capital, based on the successful reduction in rabies transmission from the start of the consolidation phase onwards.",
+            "startOffset": 36598,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 28478,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Information can be spread nation-wide via posters displayed in public places, radio broadcasts, and megaphone announcements of the on-going campaign.",
+            "startOffset": 28329,
+            "title": "Public engagement"
+        },
+        {
+            "endOffset": 19229,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Clinical rabies can be prevented by post-exposure prophylaxis (PEP).",
+            "startOffset": 19161,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38380,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "However, there are cost implications to the donors, as the longer the investor capital is not repaid the higher the premium will be sort by investors and so the more expensive, in absolute terms, the DIB.",
+            "startOffset": 38176,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 36428,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "During the consolidation phase, the basis for a third round would be prepared in order to protect borders and areas where rabies re-emerges in years five to eight.",
+            "startOffset": 36265,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 33487,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "In addition to the costs of a vaccination campaign, surveillance has been taken into account in the budget planning.",
+            "startOffset": 33371,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 19783,
+            "parents": [],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 19781,
+                    "startOffset": 19760
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In developing countries, the most important vector is the domestic dog, which once infected, is a serious threat to humans (Wandeler et al., 1993).",
+            "startOffset": 19636,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29337,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "During the rainy season (June to September) vaccination can only be performed in central and northern regions.",
+            "startOffset": 29227,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 34470,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "A development impact bond (DIB) proposal is composed of an organizational and a financial plan.",
+            "startOffset": 34375,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 20686,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 20684,
+                    "startOffset": 20675
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Because of the low reproductive number of canine rabies transmission, the World Health Organization (WHO) estimates that the immunization of 70% of the canine population could interrupt transmission and prevent the virus from spreading and, thus, rabies could be eliminated (WHO, 1987).",
+            "startOffset": 20400,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19563,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Clearly any human exposed to a suspected rabid animal bite must receive PEP.",
+            "startOffset": 19487,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42945,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 42943,
+                    "startOffset": 42922
+                }
+            },
+            "secId": "sec0100",
+            "sentence": "Further, the vaccination costs of a mass vaccination campaign in N\u2019Djam\u00e9na, Chad of 18,000 canines in 2012 and 22,000 canines in 2013 were used for a nation-wide extrapolation (Lechenne et al., 2016).",
+            "startOffset": 42745,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31443,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 31441,
+                    "startOffset": 31420
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "The prices of the equipment, consumables and personnel cost are derived from the vaccination campaign in N\u2019Djam\u00e9na in 2012 and 2013 (Lechenne et al., 2016).",
+            "startOffset": 31287,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 42528,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "The more complex the DIB financing structure is conceived, the higher are the transactions costs, which are an additional hidden cost not included here.",
+            "startOffset": 42376,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 37432,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "For the capital repayments, we assume cash is returned to the investors in year 3, at the end of the mass vaccinations in the suppression phase, year 6, midway through the consolidation phase, year 8, the end of the consolidation phase, and year 10.",
+            "startOffset": 37183,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 39704,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Using an estimated canine population of 1.2 million dogs the social cost per vaccinated dog varies between 1,047-2,575 FCFA (1.5-3.9 Euros, 1 Euros = 655 FCFA) (Table 4).",
+            "startOffset": 39534,
+            "title": "Campaign costs and campaign scenarios"
+        },
+        {
+            "endOffset": 40506,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0090",
+            "sentence": "Canine population numbers were less sensitive with SCC values below 0.1.",
+            "startOffset": 40434,
+            "title": "Sensitivity analysis"
+        },
+        {
+            "endOffset": 43141,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "The estimated total costs are based on the effective cost of materials, means of informing the population, salaries, methods of vaccinating, and time factor of the process of vaccinating canines.",
+            "startOffset": 42946,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35791,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The rabies elimination campaign is composed of four stages:",
+            "startOffset": 35732,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 27413,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Decentralized operations are important for the administration of a nationwide vaccination campaign.",
+            "startOffset": 27314,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 30940,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Equipment for VP and vehicles will be bought locally.",
+            "startOffset": 30887,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 31139,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Staff working with canines must be protected from rabies exposure by pre-exposure prophylaxis.",
+            "startOffset": 31045,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 31044,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Megaphones and first-aid kits will be bought in Switzerland.",
+            "startOffset": 30984,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 38638,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "front-loaded \u2212 with payments weighted towards earlier years",
+            "startOffset": 38579,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 41388,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Over a period of ten years, the Chadian government would contribute 14.5 million Euros and the investor 21.2 million Euros, which are refunded successively upon the achievement of operational delivery in the different phases and elimination result, expressed as the effective reproductive number Re tending towards zero.",
+            "startOffset": 41068,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 19895,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Only mass vaccination of dogs can eventually interrupt transmission and lead to the elimination of the disease.",
+            "startOffset": 19784,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32580,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Assuming the process of vaccinating one dog vaccinated lasts 90 min on average, each dog owner incurs the costs of the lost work time equal to 490 FCFA (0.75 Euros) per dog (opportunity cost of labour).",
+            "startOffset": 32378,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 41734,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "Table 6b gives an example for the \u201cEven\u201d repayment scenario and a total premium paid by the donors of 5 million Euros for successful operational and disease reduction delivery.",
+            "startOffset": 41558,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 29911,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Scenario 1, for example presumes that the whole canine population is vaccinated within three years (936 working days), at a rate of 100 canines per VP per day.",
+            "startOffset": 29752,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 32107,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "We expect transportation costs to be insignificant because vaccination posts will be positioned close to settlements and moved frequently.",
+            "startOffset": 31969,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 27526,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "The 61 departments of Chad were chosen as the administrative unit suitable for the organization of the campaign.",
+            "startOffset": 27414,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 46049,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "Vaccination coverage of at least 70% is expected to stop canine-to-canine transmission completely.",
+            "startOffset": 45951,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 25144,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "For a household study of the canine: human population ratio, the Sahara area of Borkou-Ennedi-Tibesti (BET) was omitted, having a negligible canine population.",
+            "startOffset": 24985,
+            "title": "Sampling procedure and data collection"
+        },
+        {
+            "endOffset": 21210,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 21208,
+                    "startOffset": 21172
+                },
+                "bib0020": {
+                    "endOffset": 21208,
+                    "startOffset": 21172
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In a willingness to pay study that followed a mass vaccination campaign paid by the owner we could show that the reported willingness to pay corresponded well with the actually achieved vaccination coverage (D\u00fcrr et al., 2008; Durr et al., 2009).",
+            "startOffset": 20964,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21427,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In order to reach a sufficiently high coverage in West and Central Africa, canine mass vaccination campaigns should therefore be free to the owner and freedom from canine rabies should be recognized as a public good.",
+            "startOffset": 21211,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35611,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "In this way the outcome is verified by two independent sources.",
+            "startOffset": 35548,
+            "title": "The investment case scenario"
+        },
+        {
+            "endOffset": 44216,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 43960,
+                    "startOffset": 43942
+                }
+            },
+            "secId": "sec0100",
+            "sentence": "A recent study in South-Eastern Tanzania reports cost per vaccinated dog between 2.5 USD and 22.49 USD (2.26\u201320.4 Euros) (Hatch et al., 2016) Our estimates of the scenario 3 and 4 of 1,476 (2.25) and 2,575 FCFA (3.93 Euros) are slightly higher than earlier campaigns in Chad, which is largely due to increasing personnel costs, reflecting the economic development in Chad over the past ten years.",
+            "startOffset": 43820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30288,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Several villages, small towns, or districts of bigger towns will be vaccinated simultaneously.",
+            "startOffset": 30194,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 24381,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Administratively, Chad is divided into 23 regions and each region is headed by a governor.",
+            "startOffset": 24291,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 45950,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "Canine mass vaccination campaigns can interrupt canine-to-canine transmission of the virus, upon which the incidence of canine rabies significantly depends.",
+            "startOffset": 45794,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 26683,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The canine: human ratio is largely determined by the socio-cultural and religious composition of a region.",
+            "startOffset": 26577,
+            "title": "Canine: human ratio"
+        },
+        {
+            "endOffset": 19160,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 19158,
+                    "startOffset": 19138
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The most recent analysis estimates that annually worldwide, canine rabies causes 59,000 human deaths, over 3.7 million disability-adjusted life years (DALYs) and 8.6 billion USD economic loss (Hampson et al., 2015).",
+            "startOffset": 18945,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24942,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 24940,
+                    "startOffset": 24928
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "Christians (19% Catholics, 16% Protestants), Animists (4%) and others (3%) primarily live in the southern regions (INSEED, 2009).",
+            "startOffset": 24813,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 37886,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "Similarly, the premium payments can be explicitly linked with a measure of reduction in rabies transmission or incidence of cases.",
+            "startOffset": 37756,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 42239,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "However, this comes at a cost in terms of total premiums paid.",
+            "startOffset": 42177,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 23914,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 23912,
+                    "startOffset": 23853
+                },
+                "bib0020": {
+                    "endOffset": 23912,
+                    "startOffset": 23853
+                },
+                "bib0110": {
+                    "endOffset": 23912,
+                    "startOffset": 23853
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A cost estimate for Chad will allow the extrapolation of the costs of campaigns in other countries of the Sahel (D\u00fcrr et al., 2008; Durr et al., 2009; Zinsstag et al., 2009).",
+            "startOffset": 23740,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45793,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 45791,
+                    "startOffset": 45770
+                }
+            },
+            "secId": "sec0105",
+            "sentence": "Eliminating canine rabies by vaccinating the primary vector species has been successful in many countries in Eurospe and in North America (Freuling et al., 2013).",
+            "startOffset": 45631,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 20191,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This is because the use of PEP alone never interrupts human exposure.",
+            "startOffset": 20122,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40068,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Thus the following sensitivity analyses and DIB investment calculation is focused on scenarios 3 and 4 (see Table 5).",
+            "startOffset": 39951,
+            "title": "Campaign costs and campaign scenarios"
+        },
+        {
+            "endOffset": 31968,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Private costs consist of the loss of salary due to lost work time and transportation costs arising from taking an animal to the VP.",
+            "startOffset": 31837,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 44825,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "As the refunding of the investor is result- based, the cost of surveillance and campaign effectiveness is substantial.",
+            "startOffset": 44707,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27751,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Local staff need to be recruited in every department.",
+            "startOffset": 27698,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 24720,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Within the cantons, the smallest administrative entity in a rural setting is the village with its village chief.",
+            "startOffset": 24608,
+            "title": "Study area"
+        },
+        {
+            "endOffset": 45388,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "Overall this analysis shows that a DIB is beneficial to all parties: The nation of Chad becomes free of canine rabies and gains a functional animal disease surveillance system; the investor benefits reasonably from his/her investment, and the outcome funder obtains a tangible result for result-based refunding of the primary investment.",
+            "startOffset": 45051,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43632,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "A smaller study was performed in N\u2019Djam\u00e9na in 2005, when 3000 canines were vaccinated in a parenteral vaccination campaign.",
+            "startOffset": 43509,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30785,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Public cost: Marginal vaccination costs per canine include 1 syringe and needle, 1 dose of vaccine, and 1 vaccination certificate.",
+            "startOffset": 30655,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 19315,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, often PEP is either not available or not affordable in developing countries.",
+            "startOffset": 19230,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45602,
+            "parents": [],
+            "secId": "sec0100",
+            "sentence": "A successful result requires a well-functioning organizational structure with effective communication between the supervisory board, the rabies elimination authority, the outcome funder, and the investor (Fig. 1).",
+            "startOffset": 45389,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28620,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Informing the population efficiently reduces unnecessary waiting time at the vaccination points (VP), thus reducing the cost of the campaign.",
+            "startOffset": 28479,
+            "title": "Public engagement"
+        },
+        {
+            "endOffset": 31206,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The local importer will determine the prices of the human vaccine.",
+            "startOffset": 31140,
+            "title": "Cost description"
+        },
+        {
+            "endOffset": 30111,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "At least 2 cars, each with 1 driver and 1 supervisor, are needed to coordinate the teams and supply the VP with material.",
+            "startOffset": 29990,
+            "title": "Vaccination campaign"
+        },
+        {
+            "endOffset": 46434,
+            "parents": [],
+            "secId": "sec0105",
+            "sentence": "Provided the experience with the previous canine mass-vaccination campaigns in N\u2019Djam\u00e9na in 2012 and 2013 are applicable to other areas of Chad, our results indicate that a parenteral canine rabies mass-vaccination campaign provided free-of-charge, repeated one or two times, and covering the whole of Chad each time is a feasible and cost-effective way to eliminate rabies nationwide.",
+            "startOffset": 46049,
+            "title": "Conclusion & recommendations"
+        },
+        {
+            "endOffset": 22855,
+            "parents": [],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 22853,
+                    "startOffset": 22832
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A city-wide canine rabies elimination campaign in N\u2019Djam\u00e9na at a scale of 35,000 dogs and a human population of 1.1 million was able to do this with the engagement of the Chadian state and private donors (Lechenne et al., 2016).",
+            "startOffset": 22627,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28812,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Prior to the vaccination campaign, an information day for the governors of the 22 regions should be held in N\u2019Djam\u00e9na, the capital and largest city of Chad, to inform them about the campaign.",
+            "startOffset": 28621,
+            "title": "Public engagement"
+        },
+        {
+            "endOffset": 33873,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0050",
+                    "title": "Cost description"
+                }
+            ],
+            "refoffsets": {
+                "bib0015": {
+                    "endOffset": 33871,
+                    "startOffset": 33854
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Given the geographical size and limited transport infrastructure of Chad, at least one laboratory with an optical microscope should be established in each regional capital of the 22 regions assuming that the direct immunohistochemical test (DRIT) could be used, combined with confirmation by the fluorescence antibody test (FAT), which is the current gold standard (Durr et al., 2008).",
+            "startOffset": 33488,
+            "title": "Surveillance"
+        },
+        {
+            "endOffset": 38175,
+            "parents": [],
+            "secId": "sec0070",
+            "sentence": "The selection of these thresholds can be used to incentivise investors to ensure the long-term reduction in transmission e.g. back-loading return of capital and premium payments.",
+            "startOffset": 37997,
+            "title": "Result-based return on investment"
+        },
+        {
+            "endOffset": 41557,
+            "parents": [
+                {
+                    "id": "sec0070",
+                    "title": "Result-based return on investment"
+                },
+                {
+                    "id": "sec0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0095",
+            "sentence": "The percentage of capital and premium payments back to the investors (assuming all output and outcome targets are met) for the three different scenarios are also shown.",
+            "startOffset": 41389,
+            "title": "Development impact bond financing"
+        },
+        {
+            "endOffset": 21928,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "To achieve the elimination of canine transmitted rabies, interventions must be directed towards the domestic dog.",
+            "startOffset": 21815,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28042,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 28040,
+                    "startOffset": 28031
+                }
+            },
+            "secId": "sec0035",
+            "sentence": "With support from the Pan-African Rinderpest Campaign (PARC), Chad successfully eliminated Rinderpest (FAO, 2012).",
+            "startOffset": 27928,
+            "title": "Organization of the vaccination campaign"
+        },
+        {
+            "endOffset": 42744,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 42742,
+                    "startOffset": 42724
+                }
+            },
+            "secId": "sec0100",
+            "sentence": "We used data from a representative national household study on the canine: human ratio and the last population census of Chad for the estimation of the total canine population of Chad (Mbilo et al., 2017).",
+            "startOffset": 42539,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25665,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                },
+                {
+                    "id": "sec0015",
+                    "title": "Canine population and cost estimate"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "In each region, one department was selected proportional to size (4 departments in total) and in each department 10 villages were randomly selected (40 villages in total).",
+            "startOffset": 25494,
+            "title": "Sampling procedure and data collection"
+        }
+    ],
+    "docId": "S0001706X16305101",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Franziska",
+                "initial": "F.",
+                "last": "Anyiam"
+            },
+            {
+                "email": null,
+                "first": "Monique",
+                "initial": "M.",
+                "last": "Lechenne"
+            },
+            {
+                "email": null,
+                "first": "Rolande",
+                "initial": "R.",
+                "last": "Mindekem"
+            },
+            {
+                "email": null,
+                "first": "Assandi",
+                "initial": "A.",
+                "last": "Oussig\u00e9r\u00e9"
+            },
+            {
+                "email": null,
+                "first": "Service",
+                "initial": "S.",
+                "last": "Naissengar"
+            },
+            {
+                "email": null,
+                "first": "Idriss Oumar",
+                "initial": "I.O.",
+                "last": "Alfaroukh"
+            },
+            {
+                "email": null,
+                "first": "Celine",
+                "initial": "C.",
+                "last": "Mbilo"
+            },
+            {
+                "email": null,
+                "first": "Daugla Doumagoum",
+                "initial": "D.D.",
+                "last": "Moto"
+            },
+            {
+                "email": null,
+                "first": "Paul G.",
+                "initial": "P.G.",
+                "last": "Coleman"
+            },
+            {
+                "email": null,
+                "first": "Nicole",
+                "initial": "N.",
+                "last": "Probst-Hensch"
+            },
+            {
+                "email": "jakob.zinsstag@unibas.ch",
+                "first": "Jakob",
+                "initial": "J.",
+                "last": "Zinsstag"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2016.11.005",
+        "firstpage": "112",
+        "issn": "0001706X",
+        "keywords": [
+            "Canine rabies",
+            "Chad",
+            "Cost estimate",
+            "Development impact bond",
+            "Mass vaccination",
+            "Monte carlo simulation"
+        ],
+        "lastpage": "120",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Cost-estimate and proposal for a development impact bond for canine rabies elimination by mass vaccination in Chad"
+    }
+}

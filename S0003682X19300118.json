@@ -1,0 +1,3727 @@
+{
+    "abstract": "This paper addresses mitigation measures against railway vibrations in soft soils by use of FE calculations. In order for calculation models to be used as design tools, it is essential that they are relatively easy to set up and have reasonably short computational times which would allow sensitivity and optimization analyses. It is therefore desirable to use two-dimensional (2D) models to the greatest possible extent. The focus of this paper is to investigate the advantages and limitation of using such models as engineering approach to study effect of countermeasures. The difference between 2D and three-dimensional (3D) calculation models, and the performance of absorbing boundary conditions are investigated. The study shows that 2D models provide satisfactory results as long as root mean square values are considered, the treated area is long compared to other relevant distances, and the results are primarily used to compare different mitigation measures. However, since geometrical attenuation is not correctly captured in 2D models, they should not be used to calculate absolute vibration values. In a presented case study, the effects of lime-cement columns under the track bed and as a vibration-reducing screen parallel to the track are calculated and compared. The study shows good effect of both mitigation measures in the low frequency range. To avoid structure-borne noise problems, it may be necessary to combine columns below track bed with mitigation measures effective at higher frequencies, such as rail pads or ballast mats.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Madshus"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Bessason"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "H\u00e5rvik"
+                }
+            ],
+            "doi": "10.1006/jsvi.1996.0259",
+            "firstpage": "195",
+            "issn": "0022460X",
+            "lastpage": "203",
+            "pub_year": 1996,
+            "title": "Prediction model for low frequency vibration from high speed railways on soft ground",
+            "volume": "193"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Andersen"
+                },
+                {
+                    "first": "C. J.C.",
+                    "initial": "C.J.C.",
+                    "last": "Jones"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2005.08.044",
+            "firstpage": "611",
+            "issn": "0022460X",
+            "lastpage": "625",
+            "pub_year": 2006,
+            "title": "Coupled boundary and finite element analysis of vibration from railway tunnels-a comparison of two- and three-dimensional models",
+            "volume": "293"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Tahmeed M.",
+                    "initial": "T.M.",
+                    "last": "Al-Hussaini"
+                },
+                {
+                    "first": "Shahid",
+                    "initial": "S.",
+                    "last": "Ahmad"
+                }
+            ],
+            "doi": "10.1061/(ASCE)0733-9410(1991)117:4(616)",
+            "firstpage": "616",
+            "issn": "07339410",
+            "lastpage": "636",
+            "pub_year": 1991,
+            "title": "Design of wave barriers for reduction of horizontal ground vibration",
+            "volume": "117"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Boroomand"
+                },
+                {
+                    "first": "A. M.",
+                    "initial": "A.M.",
+                    "last": "Kaynia"
+                }
+            ],
+            "firstpage": "683",
+            "lastpage": "691",
+            "pub_year": 1991,
+            "title": "Vibration isolation by an array of piles"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Coulier"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Fran\u00e7ois"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Degrande"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lombaert"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2012.12.009",
+            "firstpage": "119",
+            "issn": "02677261",
+            "lastpage": "131",
+            "pub_year": 2013,
+            "title": "Subgrade stiffening next to the track as a wave impeding barrier for railway induced vibrations",
+            "volume": "48"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Coulier"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Cu\u00e9llar"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Degrande"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lombaert"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2015.04.007",
+            "firstpage": "238",
+            "issn": "02677261",
+            "lastpage": "253",
+            "pub_year": 2015,
+            "title": "Experimental and numerical evaluation of the effectiveness of a stiff wave barrier in the soil",
+            "volume": "77"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Dijckmans"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Ekblad"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Smekal"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Degrande"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lombaert"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2016.02.001",
+            "firstpage": "55",
+            "issn": "02677261",
+            "lastpage": "69",
+            "pub_year": 2016,
+            "title": "Efficacy of a sheet pile wall as a wave barrier for railway induced ground vibration",
+            "volume": "84"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Andersen"
+                },
+                {
+                    "first": "S. R.K.",
+                    "initial": "S.R.K.",
+                    "last": "Nielsen"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2005.04.007",
+            "firstpage": "701",
+            "issn": "02677261",
+            "lastpage": "716",
+            "pub_year": 2005,
+            "title": "Reduction of ground vibration by means of barriers or soil improvement along a railway track",
+            "volume": "25"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Karlstr\u00f6m"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Bostr\u00f6m"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2006.12.005",
+            "firstpage": "625",
+            "issn": "02677261",
+            "lastpage": "641",
+            "pub_year": 2007,
+            "title": "Efficiency of trenches along railways for trains moving at sub- or supersonic speeds",
+            "volume": "27"
+        },
+        "b0050": null,
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Andrew T.",
+                    "initial": "A.T.",
+                    "last": "Peplow"
+                },
+                {
+                    "first": "Amir M.",
+                    "initial": "A.M.",
+                    "last": "Kaynia"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2007.01.002",
+            "firstpage": "793",
+            "issn": "02677261",
+            "lastpage": "802",
+            "pub_year": 2007,
+            "title": "Prediction and validation of traffic vibration reduction due to cement column stabilization",
+            "volume": "27"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Takemiya"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Fujiwara"
+                }
+            ],
+            "doi": "10.1016/0267-7261(94)90041-8",
+            "firstpage": "49",
+            "issn": "02677261",
+            "lastpage": "61",
+            "pub_year": 1994,
+            "title": "Wave propagation/impediment in a stratum and wave impeding block (WIB) measured for SSI response reduction",
+            "volume": "13"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Thompson"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "M. G.R.",
+                    "initial": "M.G.R.",
+                    "last": "Toward"
+                },
+                {
+                    "first": "M. F.M.",
+                    "initial": "M.F.M.",
+                    "last": "Hussein"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Dijckmans"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Coulier"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Degrande"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lombaert"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2015.09.005",
+            "firstpage": "89",
+            "issn": "02677261",
+            "lastpage": "103",
+            "pub_year": 2015,
+            "title": "Mitigation of railway-induced vibration by using subgrade stiffening",
+            "volume": "79"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Alves Costa"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Cal\u00e7ada"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Silva Cardoso"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2012.06.014",
+            "firstpage": "137",
+            "issn": "02677261",
+            "lastpage": "150",
+            "pub_year": 2012,
+            "title": "Ballast mats for the reduction of railway traffic vibrations. Numerical study",
+            "volume": "42"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Amir M.",
+                    "initial": "A.M.",
+                    "last": "Kaynia"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Madshus"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Zackrisson"
+                }
+            ],
+            "doi": "10.1061/(ASCE)1090-0241(2000)126:6(531)",
+            "firstpage": "531",
+            "issn": "10900241",
+            "lastpage": "537",
+            "pub_year": 2000,
+            "title": "Ground vibration from high-speed trains: Prediction and countermeasure",
+            "volume": "126"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Coulier"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Dijckmans"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Fran\u00e7ois"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Degrande"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Lombaert"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2014.01.006",
+            "firstpage": "51",
+            "issn": "02677261",
+            "lastpage": "67",
+            "pub_year": 2014,
+            "title": "A spatial windowing technique to account for finite dimensions in 2.5D dynamic soil-structure interaction problems",
+            "volume": "59"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Alves Costa"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Cal\u00e7ada"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Silva Cardoso"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2011.09.002",
+            "firstpage": "111",
+            "issn": "02677261",
+            "lastpage": "128",
+            "pub_year": 2012,
+            "title": "Track-ground vibrations induced by railway traffic: In-situ measurements and validation of a 2.5D FEM-BEM model",
+            "volume": "32"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Karlstr\u00f6m"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Bostr\u00f6m"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2005.07.041",
+            "firstpage": "221",
+            "issn": "0022460X",
+            "lastpage": "241",
+            "pub_year": 2006,
+            "title": "An analytical model for train-induced ground vibrations from railways",
+            "volume": "292"
+        },
+        "b0095": null,
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Rune",
+                    "initial": "R.",
+                    "last": "Dyvik"
+                },
+                {
+                    "first": "Amir M.",
+                    "initial": "A.M.",
+                    "last": "Kaynia"
+                }
+            ],
+            "doi": "10.1520/STP160520170031",
+            "firstpage": "173",
+            "issn": "00660558",
+            "lastpage": "190",
+            "pub_year": 2018,
+            "title": "Large-scale triaxial tests on railway embankment material",
+            "volume": "1605"
+        },
+        "b0105": null,
+        "b0110": null,
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Joonsang",
+                    "initial": "J.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Amir M.",
+                    "initial": "A.M.",
+                    "last": "Kaynia"
+                }
+            ],
+            "doi": "10.1016/j.proeng.2017.09.054",
+            "firstpage": "1556",
+            "issn": "18777058",
+            "lastpage": "1561",
+            "pub_year": 2017,
+            "title": "FE simulation of steady state wave motion in solids combined with a PML approach",
+            "volume": "199"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Arcos"
+                },
+                {
+                    "first": "Jordi",
+                    "initial": "J.",
+                    "last": "Romeu"
+                },
+                {
+                    "first": "Andreu",
+                    "initial": "A.",
+                    "last": "Balastegui"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "P\u00e0mies"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2011.02.004",
+            "firstpage": "1072",
+            "issn": "02677261",
+            "lastpage": "1074",
+            "pub_year": 2011,
+            "title": "Determination of the near field distance for point and line sources acting on the surface of an homogeneous and viscoelastic half-space",
+            "volume": "31"
+        },
+        "b0125": null,
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Christoffer",
+                    "initial": "C.",
+                    "last": "With"
+                },
+                {
+                    "first": "Mehdi",
+                    "initial": "M.",
+                    "last": "Bahrekazemi"
+                },
+                {
+                    "first": "Anders",
+                    "initial": "A.",
+                    "last": "Bodare"
+                }
+            ],
+            "doi": "10.1016/j.soildyn.2008.12.005",
+            "firstpage": "1027",
+            "issn": "02677261",
+            "lastpage": "1033",
+            "pub_year": 2009,
+            "title": "Wave barrier of lime-cement columns against train-induced ground-borne vibrations",
+            "volume": "29"
+        },
+        "b0135": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Waddington"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Woodcock"
+                },
+                {
+                    "first": "Michael G.",
+                    "initial": "M.G.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Sabine",
+                    "initial": "S.",
+                    "last": "Janssen"
+                },
+                {
+                    "first": "Kerstin Persson",
+                    "initial": "K.P.",
+                    "last": "Waye"
+                }
+            ],
+            "doi": "10.1080/23248378.2015.1076623",
+            "firstpage": "233",
+            "issn": "23248378",
+            "lastpage": "248",
+            "pub_year": 2015,
+            "title": "CargoVibes: Human response to vibration due to freight rail traffic",
+            "volume": "3"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 39635,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Because the models are excited with a unit force, the calculated vibration magnitudes do not represent real vibration velocities that would arise during actual train passages.",
+            "startOffset": 39460,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 36354,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "At Gulskogen a new railway track is planned next to the existing track.",
+            "startOffset": 36283,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 42930,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The geometric scaling means that the ABD are numerically stretched such that the computational domain represents a much larger area compared to the domain represented by the model geometry.",
+            "startOffset": 42741,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 54491,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, the point that the effectiveness of the screen could be affected by vibration waves refracted around the screen seems not to be of any serious concern.",
+            "startOffset": 54331,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 49686,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Assuming a train speed of 30 m s\u22121, the RMS 1 s value can be estimated by calculating the RMS value of all the 30 runs with the railway car in different positions as described above.",
+            "startOffset": 49504,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 32145,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 32144,
+                    "startOffset": 32140
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The effect of lime-cement (LC) columns on ground vibrations at the test site Ledsgard in Sweden, which is characterized by low critical speed, was studied using both measurements and FE modelling [10].",
+            "startOffset": 31944,
+            "title": "Background"
+        },
+        {
+            "endOffset": 64312,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Care needs to be taken if the mitigation measure is short compared to other relevant distances.",
+            "startOffset": 64217,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 32267,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The FE analyses were validated against the measurements that showed considerable reduction of the vibration on the track.",
+            "startOffset": 32146,
+            "title": "Background"
+        },
+        {
+            "endOffset": 39459,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The start position is where all 8 wheels are just inside the models, see Fig. 5.",
+            "startOffset": 39379,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 65163,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "2D models are also not suitable for studying mitigation measures where the variation in properties along the line is crucial to the function, such as pile arrays or heavy masses placed next to the track to cause scattering of the vibration waves.",
+            "startOffset": 64917,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 60122,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The distance over which the results are averaged is equal to one wave length in the soft upper layer but restricted to minimum 1.5 m and maximum 8 m, the latter representing a typical building foundation dimension.",
+            "startOffset": 59908,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 40787,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "To gain a good vibration mitigation effect from the LC-columns at this site, an undrained shear strength of 625 kPa was proposed for the LC-columns.",
+            "startOffset": 40639,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 63440,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "However, for the Gulskogen case with double track, a full model describing both sides of the track will be necessary since the distance between track and screen is different for the two sides of the model.",
+            "startOffset": 63235,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 57339,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Fig. 16 demonstrates that for the analytical solutions the oscillations also persist for longer distances in the 2D model than in the 3D model.",
+            "startOffset": 57196,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 37715,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The element types are quadratic (second order) Lagrange elements with a maximum element size dependent on the frequency in order to maintain good resolution, i.e. approximately 8 elements (or 16 evaluation points) per wave length.",
+            "startOffset": 37485,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 27064,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Unit loads can then be used to excite different models, with and without mitigation measures, and the results can be compared to get an idea of the expected vibration reduction using various mitigation measures.",
+            "startOffset": 26853,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 59065,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "This has been done in order to avoid the vibration velocities in the screen itself to be included in the averaged values.",
+            "startOffset": 58944,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 48472,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Comparisons were made between the results for the 2D and the 3D models with LC-columns below track.",
+            "startOffset": 48373,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 37042,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Therefore, our study focuses on modelling different mitigation measures involving LC-columns.",
+            "startOffset": 36949,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 50162,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "When the mitigation measure has limited extent, as in Fig. 11c, the result deviates more from the 2D model.",
+            "startOffset": 50055,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 50876,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, modelling of details of complex features such as soil with LC-columns, or very thin plates increases the model size considerably.",
+            "startOffset": 50738,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 63234,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "For a single track situation effect of screens on both sides of the track can be modelled by using a symmetry line.",
+            "startOffset": 63119,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 61928,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The reason for this is the apparent increase of the vibration values in the mid and high frequency range.",
+            "startOffset": 61823,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 36282,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The models used in this study, both for the comparison between 2D and 3D models and for the 2D case study, describes the site Gulskogen, located in the city of Drammen about 40 km south west of Oslo in Norway.",
+            "startOffset": 36073,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 35938,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "However, similar to 2D models, 2.5D models cannot describe the effect of mitigation measures which vary along the line such as local screens.",
+            "startOffset": 35797,
+            "title": "Background"
+        },
+        {
+            "endOffset": 60649,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The narrow subplot on top of the large plot shows the ratio between the calculated values after scaling with the measurement data, as described above, and summed as RMS value across the frequency range 4\u2013100 Hz.",
+            "startOffset": 60438,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 52822,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Both results have been normalized with the maximum amplitude for each model.",
+            "startOffset": 52746,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 63969,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Further, it is shown that as long as the basis of evaluation is RMS 1 s value, the train load can be approximated with a line load in a 2D model.",
+            "startOffset": 63824,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 61347,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "This is as expected, and in accordance with experience, since arrays of LC-columns under the track reinforce the soil, making it stiffer and thereby altering the frequency spectra to be richer in higher frequencies.",
+            "startOffset": 61132,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 31166,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The analyses indicated that open trenches are more efficient than infilled trenches and soil stiffening for the cases considered.",
+            "startOffset": 31037,
+            "title": "Background"
+        },
+        {
+            "endOffset": 25418,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Therefore, calculation of future vibration values, and comparison with limit values, are performed in connection with the design of new railway lines or upgrading of existing lines.",
+            "startOffset": 25237,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26034,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These values are compared to limit values prescribed in standards and potential problem areas are identified.",
+            "startOffset": 25925,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28782,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Numerous studies have focused on gaining deep understanding of wave propagation and mitigation measures for soft soils, using numerical modelling alone or in combination with measurements.",
+            "startOffset": 28594,
+            "title": "Background"
+        },
+        {
+            "endOffset": 62282,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The scaled RMS values indicate a good performance of the screen with about a 45\u201355% reduction of the scaled RMS vibration value for distances between 20 m and 30 m from track.",
+            "startOffset": 62107,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 53173,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 13d shows the corresponding ratio for the 2D models.",
+            "startOffset": 53116,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 62724,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 62548,
+                    "startOffset": 62541
+                },
+                "b0135": {
+                    "endOffset": 62548,
+                    "startOffset": 62541
+                }
+            },
+            "secId": "s0065",
+            "sentence": "According to [22,27] a reduction of the frequency weighted vibration value with 50% from 0.6 mm/s to 0.3 mm/s corresponds to a reduction of annoyed and highly annoyed people from about 30% to 20%.",
+            "startOffset": 62528,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 26245,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Most measures are typically very effective at some frequencies, but may worsen the situation at other frequencies.",
+            "startOffset": 26131,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37484,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 37483,
+                    "startOffset": 37479
+                }
+            },
+            "secId": "s0015",
+            "sentence": "The calculations were performed in the frequency domain using the commercial finite element software package COMSOL Multiphysics [19].",
+            "startOffset": 37350,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 28429,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this paper, the advantages and limitation of using 2D FE models as engineering approach to investigate the effect of countermeasures for railway lines on ground surface are investigated.",
+            "startOffset": 28240,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55115,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The choice of 8 Hz in this study can be defended by the fact that ground vibration from railway traffic on soft ground often displays a peak in the range 8\u201310 Hz.",
+            "startOffset": 54953,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 33753,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In terms of the computational tools, as mentioned in the above review, some of the applied models are based on the FE method.",
+            "startOffset": 33628,
+            "title": "Background"
+        },
+        {
+            "endOffset": 60437,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "In both figures, the large (main) subplot shows the ratio between the calculated vertical velocities for the models with mitigation measures and the reference model (i.e. without any mitigation measures) for the 1/3-octave band frequencies from 4 Hz to 100 Hz.",
+            "startOffset": 60177,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 44244,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "In the light grey domains (left and right side), the scaling is in the horizontal direction only, in the medium grey domain (bottom) the scaling is in the vertical direction only and in the dark grey domains (corners) the scaling is in both horizontal and vertical direction.",
+            "startOffset": 43969,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 37094,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "LC-columns are made of soil mixed with lime-cement.",
+            "startOffset": 37043,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 39136,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The forces are applied synchronously on both rails.",
+            "startOffset": 39085,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 28581,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In a case study, the effects of soil reinforcement under track and use of a vibration barrier parallel to the track are calculated using a 2D FE model.",
+            "startOffset": 28430,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46515,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "One major difference between 2D and three dimensional (3D) models is the ability to describe the loads correctly.",
+            "startOffset": 46402,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 32943,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 32942,
+                    "startOffset": 32935
+                },
+                "b0065": {
+                    "endOffset": 32942,
+                    "startOffset": 32935
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Different numerical tools of the type FE/BE were used to assess the mitigation effectiveness of a stiffened layer or stiff block below the ground surface under the track [12,13].",
+            "startOffset": 32765,
+            "title": "Background"
+        },
+        {
+            "endOffset": 59907,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Therefore, to get a more realistic estimate of how the overall RMS vibration value is affected by the different mitigation measures, the input force was scaled to give the vibration spectrum for the reference case which corresponds to the measured spectrum at 23 m distance from track, see Fig. 7b. To reduce the influence of the amplitude oscillation, the vibration velocities were averaged over the x-coordinate using a running average approach as discussed in Section 4.4.",
+            "startOffset": 59432,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 33033,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "These studies showed that the stiff block was in particular effective in soft soil sites.",
+            "startOffset": 32944,
+            "title": "Background"
+        },
+        {
+            "endOffset": 26130,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The effectiveness of vibration mitigation measures is highly dependent on the ground conditions.",
+            "startOffset": 26034,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58460,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "For practical purposes when evaluating the vibration effect on buildings, the vibration velocities can be averaged over the distance of a wave length in the upper soil layer which carries the main part of the vibration wave, Fig. 15d.",
+            "startOffset": 58226,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 51324,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "For example, if 50% of the soil is replaced with LC-material, then the Young's modulus, Poisson's ratio and density of the resulting effective medium are the averages of the respective properties of the LC-material and the soil.",
+            "startOffset": 51096,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 27607,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It is also an advantage if software are readily available.",
+            "startOffset": 27549,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32608,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 32589,
+                    "startOffset": 32585
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A similar study, but using a BE model, was performed on the performance of LC columns [11] for the same site.",
+            "startOffset": 32499,
+            "title": "Background"
+        },
+        {
+            "endOffset": 52146,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "These correspond to model 3b and model 5 in Table 1).",
+            "startOffset": 52093,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 58226,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Therefore, one practical solution to deal with the problem of a near field extending too far, and thereby causing an oscillating amplitude, may be to adjust the Poisson's ratio in the 2D model to a value which gives results more similarly to the results using the original Poisson's ratio in the 3D model.",
+            "startOffset": 57921,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 48639,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In 3D, the model with an infinitely long area treated with LC-columns below track, as well as the model with limited extension of the mitigation measure were studied.",
+            "startOffset": 48473,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 30531,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This study compared the results of the numerical simulations with the measurements.",
+            "startOffset": 30448,
+            "title": "Background"
+        },
+        {
+            "endOffset": 47213,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Fig. 9 shows a comparison between the results from the 2D and 3D reference models of Gulskogen, describing the situation without any vibration mitigation measures, i.e. models 1a and 1b in Table 1.",
+            "startOffset": 47016,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 61425,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "This can lead to complaints from neighbors on annoying structure-borne noise.",
+            "startOffset": 61348,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 61587,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 61586,
+                    "startOffset": 61582
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Therefore, LC-columns under the track are sometimes combined with other measures, such as under ballast-mats, to avoid problems with structure-borne noise, [25].",
+            "startOffset": 61426,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 32498,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The sensitivity numerical simulations indicated that there is an optimum improvement ratio (defined in terms of modification of the ground's shear modulus) and an optimum LC depth beyond which no appreciable improvement is gained.",
+            "startOffset": 32268,
+            "title": "Background"
+        },
+        {
+            "endOffset": 44401,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The model is excited by a vertical and oscillating load on the top surface at zero horizontal position, resulting in waves that travel away from the source.",
+            "startOffset": 44245,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 61131,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The results show a decrease in vibration velocity for the low frequencies, but an increase in the mid to high frequency range.",
+            "startOffset": 61005,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 56665,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Fig. 15c shows that the oscillation is most pronounced for the 12.5 Hz 1/3-octave band, which corresponds to the frequency where the wave length is about twice the depth of the soft top layer and the waves mainly propagates in the soft 5 m top layer, see Fig. 15d.",
+            "startOffset": 56401,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 34214,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "While 2D models can be used as effective design tools also when studying mitigation measures that extend deep into the ground, and at quite long distances from the track, 3D models are in practice limited to small models and low frequencies due to the required computational power to numerically resolve the propagating waves.",
+            "startOffset": 33888,
+            "title": "Background"
+        },
+        {
+            "endOffset": 51627,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In the 2D model the LC-columns in clay are modelled as an equivalent effective medium.",
+            "startOffset": 51541,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 60695,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The right subplot shows the colour bar scale.",
+            "startOffset": 60650,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 27694,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In design, it is therefore desirable to use 2D models to the greatest possible extent.",
+            "startOffset": 27608,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35557,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Another approach to reduce the computational demand is use of 2.5D models, where the track is considered as invariant in the direction of train passage.",
+            "startOffset": 35405,
+            "title": "Background"
+        },
+        {
+            "endOffset": 51540,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In the 3D model the LC-columns are modelled individually.",
+            "startOffset": 51483,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 63036,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Therefore, this mitigation measure is not considered suitable where there are buildings close to the railway lines on both sides of the track, unless the mitigation is implemented on both sides.",
+            "startOffset": 62842,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 63823,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It is shown that satisfactory results are obtained when representing detailed ground modifications, such as LC-columns, by equivalent effective medium.",
+            "startOffset": 63672,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 51482,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Fig. 12 shows a comparison of the results at 8 Hz from the 2D and the 3D model with LC-columns below the track, i.e. model 2a and 2b respectively in Table 1.",
+            "startOffset": 51325,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 53598,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "As can be seen from the figures, the areas with the highest ratio between the vibration values coincide with the areas with very low vibration levels in both models.",
+            "startOffset": 53433,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 27886,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 27701,
+                    "startOffset": 27698
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In [2] results provided by 2D and 3D combined finite element (FE) and boundary element (BE) models were compared with regard to effect of structural changes for two railway tunnel structures.",
+            "startOffset": 27695,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30728,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The field test showed that the sheet pile wall was able to reduce vibrations over 4 Hz, with increasing effectiveness up to 16\u201320 Hz.",
+            "startOffset": 30595,
+            "title": "Background"
+        },
+        {
+            "endOffset": 51095,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In a 2D model the LC-columns in clay are approximated as effective medium with volume-averaged material properties.",
+            "startOffset": 50980,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 25665,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 25663,
+                    "startOffset": 25660
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Instead, semi-empirical calculation methods can be used (e.g. [1]).",
+            "startOffset": 25598,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57920,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The results show clearly that Poisson's ratio has a major impact on the oscillations, with a larger effect in the 2D model than in the 3D model.",
+            "startOffset": 57776,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 35405,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "However, since the assumption behind these models is that the ground can be modelled as perfectly horizontal and homogeneous layers, they cannot handle mitigation measures that extend into the layered ground, such as lime-cement (LC) columns under track or walls of LC-columns, without increasing the FE-part of the model accordingly, and as a consequence they tend to become as computationally heavy as the 3D models.",
+            "startOffset": 34987,
+            "title": "Background"
+        },
+        {
+            "endOffset": 31855,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This could also be reasoned based on the long wavelength associated with low frequencies.",
+            "startOffset": 31766,
+            "title": "Background"
+        },
+        {
+            "endOffset": 63671,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The difference in results using 2D and 3D models was investigated.",
+            "startOffset": 63605,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 30325,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Moreover, the stiffened soil block is particularly effective in preventing the transmission of plane waves when the longitudinal wavelength in the soil is smaller than the bending wavelength in the stiffened block.",
+            "startOffset": 30111,
+            "title": "Background"
+        },
+        {
+            "endOffset": 43777,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Fig. 8a shows an example where the absorbing boundary domains are applied to an isotropic and homogeneous 2D model padded with absorbing domains (grey domains) outside the area of interest of the model (white domain).",
+            "startOffset": 43560,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 53115,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 13c shows the ratio between the vertical vibration velocities for the model with the screen and the reference model.",
+            "startOffset": 52994,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 41885,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Vibration values inside buildings at the same distance can be expected to be about twice the values measured at ground.",
+            "startOffset": 41766,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 37853,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "At 8 Hz the model sizes are about 35\u201360 thousand degrees of freedom (DOF) for the 2D models, and about 3\u20134 million DOF for the 3D models.",
+            "startOffset": 37716,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 44971,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The geometric scaling in the ABD is shown in Fig. 8c for three different thicknesses of the absorbing domains: 4 m, 6 m and 8 m. Consider the case where the width of the ABD is 4 m, then the position of the right boundary is scaled to app.",
+            "startOffset": 44732,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 48318,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Looking at the results from the 2D and 3D models in a plan view (Fig. 10), the vibration velocity shows a similar trend and pattern for the line sources and for the point loads, but the similarity depends on the position of the comparison in the plan.",
+            "startOffset": 48067,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 62020,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Results from analyses of a LC-column screen next to the railway tracks are shown in Fig. 19.",
+            "startOffset": 61928,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 49002,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The 2D model, on the other hand, represents a cross-section of the 3D-model excited by line loads, i.e. model 2a in Table 1.",
+            "startOffset": 48878,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 53732,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Since the areas with highest vibration levels are of most concern, the results in the low-vibration zones may have limited influence.",
+            "startOffset": 53599,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 39728,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "They will however show how the ground responds to dynamic forces with different frequencies.",
+            "startOffset": 39636,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 44527,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The travelling wave on the surface and how the magnitude decays in the ABD is shown in Fig. 8b for various widths of the ABD.",
+            "startOffset": 44402,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 56047,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The figure shows that the velocity amplitudes vary considerably more with distance from the source for the 2D model than for the 3D model.",
+            "startOffset": 55909,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 37350,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Table 1 show the various FE-models considered in this study.",
+            "startOffset": 37290,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 40510,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The material properties of soil and track are shown in Table 2.",
+            "startOffset": 40447,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 25236,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Soft ground conditions often lead to complaints about excessive and annoying low-frequency vibration in dwellings along railway lines.",
+            "startOffset": 25102,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30594,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The depth of the sheet piles was variable between 12 and 18 m.",
+            "startOffset": 30532,
+            "title": "Background"
+        },
+        {
+            "endOffset": 36040,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "They also require relatively time-consuming post processing before the final results can be obtained.",
+            "startOffset": 35939,
+            "title": "Background"
+        },
+        {
+            "endOffset": 57775,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In Fig. 16 results from the analytical 2D and 3D models using a lower Poisson's ratio, \u03bd = 0.4, compared to the original \u03bd = 0.49 are shown.",
+            "startOffset": 57635,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 60176,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Figs. 18 and 19 summarize the results of the analyses.",
+            "startOffset": 60122,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 63118,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "However, analyses are needed to confirm the performance of a double sided screen.",
+            "startOffset": 63037,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 27548,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, in order for the models to be used as design tools by the design consultants, it is essential that they are relatively easy to set up and have reasonably short computational times which would enable sensitivity and optimization analyses.",
+            "startOffset": 27302,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29684,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "More advanced calculation tools have been developed over the years for railway applications, and more field tests have provided real data for verification of these tools.",
+            "startOffset": 29514,
+            "title": "Background"
+        },
+        {
+            "endOffset": 51689,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "For this comparison, both models are excited with line loads.",
+            "startOffset": 51628,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 39911,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The results are presented as the vertical vibration velocity averaged over a depth of 2.5 m from terrain level, representing the vibrations acting on a typical basement in a building.",
+            "startOffset": 39728,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 59431,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Since the models are excited with a unit force, the calculation results do not reflect the fact that the train excites the ground differently at different frequencies.",
+            "startOffset": 59264,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 26681,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Since knowledge of expected vibration values without vibration reduction measures has already been developed during the mapping in the initial phase, there is usually no need for comprehensive models that also include a description of the vibration source.",
+            "startOffset": 26425,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40898,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 40885,
+                    "startOffset": 40881
+                }
+            },
+            "secId": "s0020",
+            "sentence": "This is stiffer than normal and requires special techniques such as MDM (Modified Dry Method [21]) to achieve.",
+            "startOffset": 40788,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 55613,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "For these models the RMS values were calculated from 27 runs moving the 8 point sources 1 m forward between each run.",
+            "startOffset": 55496,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 35659,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This allows the problem to be described with a 2D geometry, while the loading is accounted for in 3D.",
+            "startOffset": 35558,
+            "title": "Background"
+        },
+        {
+            "endOffset": 49952,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Fig. 11a, shows the results for the 3D model with LC-columns throughout the entire length of the model.",
+            "startOffset": 49849,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 36948,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In the Scandinavian countries, with many areas of soft clay, vibration mitigation measures with lime cement (LC) columns are usually suggested.",
+            "startOffset": 36805,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 46374,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Nevertheless, as the difference between 2D and 3D calculations are expected to be greatest in the low frequency range, where the dimensions of the mitigation measures are of the same magnitude as the wave length, we expect the results from the comparison to give a good indication of the performance of the 2D models at higher frequencies as well.",
+            "startOffset": 46027,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 30447,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 30446,
+                    "startOffset": 30443
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The same numerical tool was used to investigate the effectiveness of a sheet pile wall installed at a site in Sweden [7].",
+            "startOffset": 30326,
+            "title": "Background"
+        },
+        {
+            "endOffset": 29513,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The study demonstrated that while this scheme is potentially as effective as a continuous barrier, the effectiveness is in addition dependent on the relationship between the wave length and pile spacing.",
+            "startOffset": 29310,
+            "title": "Background"
+        },
+        {
+            "endOffset": 58510,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In this case the wave length is 8.2 m at 12.5 Hz.",
+            "startOffset": 58461,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 33409,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 33408,
+                    "startOffset": 33404
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A similar 2.5D FE/BE model, including in addition train-track interaction, was used for assessment of effectiveness of ballast mats in reduction of vibrations from railway traffic [14].",
+            "startOffset": 33224,
+            "title": "Background"
+        },
+        {
+            "endOffset": 40446,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The depth to bed rock varies from about 45 m to 60 m. Fig. 6 shows the shear wave velocity profile obtained from field investigations (CPT and SCPT), and laboratory tests using triaxial shear test and bender element tests.",
+            "startOffset": 40224,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 38219,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The higher end of the frequency range also gives the possibility to study potential increase in structure borne noise caused by the mitigation measures.",
+            "startOffset": 38067,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 31519,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This study considered a range of train speeds from subcritical speed to supercritical speed.",
+            "startOffset": 31427,
+            "title": "Background"
+        },
+        {
+            "endOffset": 45197,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The differences in the results provided by 2D and 3D FE-models are studied for mitigation measures with LC-columns.",
+            "startOffset": 45082,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 44731,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "It can be seen that the excited wave in the model domain is effectively damped in the ABD while inside the model domain of interest the waves are identical regardless of the size of the absorbing domain.",
+            "startOffset": 44528,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 58636,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "This reduces the impact of the oscillation, and results in an acceptable agreement between the 2D and 3D models, see Fig. 17.",
+            "startOffset": 58511,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 47807,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "If the aim of the study is to calculate absolute vibration values, the difference in attenuation between the 2D model and the more realistic 3D model is a clear deficiency of the 2D model.",
+            "startOffset": 47619,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 56867,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The heavy oscillation in the 2D model is believed to be the effect of the vibration waves only being allowed to propagate in two directions, causing near-field effects to persist longer than in reality.",
+            "startOffset": 56665,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 57634,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 57550,
+                    "startOffset": 57546
+                }
+            },
+            "secId": "s0060",
+            "sentence": "This has also been reported in [24], where, in addition, an effect of Poisson\u2019s ratio on the oscillations was observed.",
+            "startOffset": 57515,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 46026,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "To create manageable model sizes, the comparison with the 3D model has to be limited to 8 Hz and 12.5 Hz.",
+            "startOffset": 45921,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 52993,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Note that the scale (normalized) has been limited to 0.5 in the figures to make the vibration pattern more visible outside the most intense area close to the point loads.",
+            "startOffset": 52823,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 54330,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The results for the 3D model in Fig. 14a show very good agreement with the results from the 2D model in Fig. 14b. Examination of the results for the model with a LC-screen of limited extent in Fig. 14c indicates clearly that the results are affected by the limited length of the screen.",
+            "startOffset": 54044,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 53913,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 14a/b shows the ratio between calculated vertical RMS vibration velocities for the models with an infinitely long LC-screen and the reference model without mitigation measures.",
+            "startOffset": 53732,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 54043,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The RMS values are calculated from the results of all the 30 runs with the railway car in different positions as described above.",
+            "startOffset": 53914,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 55495,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "To assess the generality of the observations made for 8 Hz, additional computations were performed at 12.5 Hz using a 50 \u00d7 40 \u00d7 50 m3 reference model without mitigation measures and the model with LC-screen next to track.",
+            "startOffset": 55274,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 62841,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The screen increases the vibration values on the track side of the screen because of the reflections from the screen.",
+            "startOffset": 62724,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 34473,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This leads to a rapid increase in the number of degrees of freedom in the model.",
+            "startOffset": 34393,
+            "title": "Background"
+        },
+        {
+            "endOffset": 47619,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In Fig. 9b both results have been normalized with the maximum amplitude for each model to be able to compare the 2D and 3D models in the same figure.",
+            "startOffset": 47470,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 52745,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 13a and 13b show the vertical vibration velocity for the reference model without mitigation measures, and the model with an infinitely long LC-column screen respectively.",
+            "startOffset": 52570,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 42285,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "A numerical model needs to be truncated and equipped with appropriate boundary conditions, and it is particularly challenging to prevent artificial reflections from the model boundaries.",
+            "startOffset": 42099,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 43968,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The Young's modulus of the material is 10 GPa, Poisson\u2019s ratio is 0.2, density is 2500 kg m\u22123 and the excitation frequency of the unit load (1 N m\u22122 on a 0.2 m wide surface patch) is 300 Hz.",
+            "startOffset": 43778,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 25924,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The results of the calculations are the estimated vibration values if no mitigation measures are implemented.",
+            "startOffset": 25815,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26424,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It is therefore prudent to use more advanced numerical models when the susceptible areas have been identified and the effects of various mitigation measures are to be considered.",
+            "startOffset": 26246,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 62437,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 62383,
+                    "startOffset": 62375
+                },
+                "b0035": {
+                    "endOffset": 62383,
+                    "startOffset": 62375
+                },
+                "b0130": {
+                    "endOffset": 62383,
+                    "startOffset": 62375
+                }
+            },
+            "secId": "s0065",
+            "sentence": "This observation is also in line with earlier experience for low frequency vibrations, e.g. [7,6,26], where an overall effect of about 6 dB were observed.",
+            "startOffset": 62283,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 35796,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 35794,
+                    "startOffset": 35785
+                },
+                "b0080": {
+                    "endOffset": 35794,
+                    "startOffset": 35785
+                },
+                "b0085": {
+                    "endOffset": 35794,
+                    "startOffset": 35785
+                },
+                "b0090": {
+                    "endOffset": 35794,
+                    "startOffset": 35785
+                }
+            },
+            "secId": "s0010",
+            "sentence": "This approach can also be combined with the boundary element approach resulting in very computational efficient models (e.g. [5,16\u201318]).",
+            "startOffset": 35660,
+            "title": "Background"
+        },
+        {
+            "endOffset": 46669,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In reality, the loads from railway traffic are incoherent point sources, or to be precise, small surfaces where the wheels are in contact with the rails.",
+            "startOffset": 46516,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 38842,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The specially-designed absorbing boundary domains are described more in detail in Section 3.",
+            "startOffset": 38750,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 40639,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Note that the weight of the train is taken into account in the calculated elastic modulus of the ballast and the fill materials.",
+            "startOffset": 40511,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 42740,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "To effectively absorb the elastic energy a combination of geometrical and complex scaling is applied to the numerical coordinates in the absorbing domains.",
+            "startOffset": 42585,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 31943,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Other researchers have studied the effectiveness of mitigation measures under the track.",
+            "startOffset": 31855,
+            "title": "Background"
+        },
+        {
+            "endOffset": 50054,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "As expected, these results show a very good agreement with the results from the 2D model in Fig. 11b.",
+            "startOffset": 49953,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 31036,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 30893,
+                    "startOffset": 30890
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A 3D FE/BE model [8] was used to investigate the influence of a barrier or soil improvement along a railway track on the vibration transmission across the barrier.",
+            "startOffset": 30873,
+            "title": "Background"
+        },
+        {
+            "endOffset": 31657,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The study demonstrated that for supercritical speeds, a 3 m deep trench could reduce the vibrations by 10% in the frequency range 2\u20138 Hz.",
+            "startOffset": 31520,
+            "title": "Background"
+        },
+        {
+            "endOffset": 52569,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 13 shows the results for the 3D model with an infinitely long screen compared with the reference model when the train has travelled 18 m from the start position as shown in Fig. 5.",
+            "startOffset": 52384,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 45750,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "To investigate this, the results from the 2D models are compared with results from 3D models with limited extent of the mitigation measures.",
+            "startOffset": 45610,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 29991,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "They then used a 2.5 D coupled FE/BE model to study the efficiency of this barrier as well as subgrade stiffening next to the track in reducing railway induced vibrations.",
+            "startOffset": 29820,
+            "title": "Background"
+        },
+        {
+            "endOffset": 41765,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 41690,
+                    "startOffset": 41686
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Fig. 7b shows frequency-weighted statistical maximum value, vw,95 [22], on ground from 13 local train passages in all four measurement positions.",
+            "startOffset": 41620,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 45609,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "These are phenomena that cannot be captured in 2D models.",
+            "startOffset": 45552,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 45920,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The effects of approximation of complex features as effective medium by averaging the values of the constituents that make up the compound material is also investigated.",
+            "startOffset": 45751,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 34392,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The frequency limitation is because the wavelengths become shorter for higher frequencies, and therefore the FE mesh needs to have higher resolution to obtain the same accuracy.",
+            "startOffset": 34215,
+            "title": "Background"
+        },
+        {
+            "endOffset": 46830,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "However, in 2D models, the loads represent space-averaged loads with uniform distribution in the track direction.",
+            "startOffset": 46717,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 49185,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In practice, the vibration values at one specific moment of time are not as interesting since vibration limit-values for human response are often set as root mean square (RMS) values.",
+            "startOffset": 49002,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 39084,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The models are excited by vertical dynamic unit force density (1 N/m2) with frequencies corresponding to the mid frequencies in the 1/3-octave frequency bands from 4.0 Hz to 100 Hz for the 2D models, and at 8 Hz and 12.5 Hz for the 3D models.",
+            "startOffset": 38842,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 36685,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "There are no dwellings on the other side of the railway line, and potential reflections from mitigation measures are therefore of no concern.",
+            "startOffset": 36544,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 30873,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The parametric studies revealed that effectiveness of the sheet pile wall is dependent on the wall's depth and its stiffness contrast with soil.",
+            "startOffset": 30729,
+            "title": "Background"
+        },
+        {
+            "endOffset": 45436,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This is because propagating waves may diffract around the corners of a mitigation measure with limited extent.",
+            "startOffset": 45326,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 33223,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 33222,
+                    "startOffset": 33218
+                }
+            },
+            "secId": "s0010",
+            "sentence": "For example, with a 1 m thick concrete block under the track, the vibration levels between 16 and 50 Hz were reduced by between 4 and 10 dB for a ground with 3 m deep soft upper layer [13].",
+            "startOffset": 33034,
+            "title": "Background"
+        },
+        {
+            "endOffset": 25597,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In the initial phase, when long stretches are mapped for possible vibration problems, it is usually not necessary, or economically justifiable, to use advanced calculation tools.",
+            "startOffset": 25419,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34826,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The interaction between the FE model and the ground is accounted for by use of Green's functions for layered media.",
+            "startOffset": 34711,
+            "title": "Background"
+        },
+        {
+            "endOffset": 39293,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In the 3D models, the forces are applied simultaneously at 8 contact surfaces corresponding to the positions of the wheels of a railway car with four axels.",
+            "startOffset": 39137,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 39378,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In the 3D-model the loads are moved along the rails with 1 m increments for 30 runs.",
+            "startOffset": 39294,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 29819,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 29818,
+                    "startOffset": 29813
+                },
+                "b0030": {
+                    "endOffset": 29818,
+                    "startOffset": 29813
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Several research projects performed field tests on the performance of a stiff wave barrier installed parallel to a railway line [5,6].",
+            "startOffset": 29685,
+            "title": "Background"
+        },
+        {
+            "endOffset": 38524,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Hence, comparisons between 2D and 3D models, which is presented in Section 4, have only been made at 8 Hz and 12.5 Hz, while the 2D Case study presented in Section 5 was performed in the frequency range between 4 and 100 Hz.",
+            "startOffset": 38300,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 64216,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "However, it is necessary to average the results from the 2D model over a distance equal to one wave length in the upper soil layer which carries the main part of the vibration wave, to avoid oscillations in amplitude caused by near field effects.",
+            "startOffset": 63970,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 62106,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The results show reduction of vibration velocities for frequencies below about 40 Hz.",
+            "startOffset": 62021,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 26852,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This, however, assumes that the train's impact on the track bed and underlying soil in terms of stress-dependent material properties are accounted for in the method used.",
+            "startOffset": 26682,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 55273,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Further, the wavelengths in soil in this frequency range are of the same order as the extent of mitigation measures, such as the depth of a LC-column screen.",
+            "startOffset": 55116,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 29203,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "They also presented a simplified method for assessment of effectiveness of rectangular wave barriers in a homogeneous soil.",
+            "startOffset": 29080,
+            "title": "Background"
+        },
+        {
+            "endOffset": 49503,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Therefore, from a practical viewpoint, it is more useful to compare average values for models with the railway car in different positions.",
+            "startOffset": 49365,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 50979,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "For example, the model with LC-columns below track has over 1 mill DOFs more than the reference model.",
+            "startOffset": 50877,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 36472,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 1 shows a cross-section at Gulskogen with the existing track to the right and the planned new track to the left.",
+            "startOffset": 36355,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 58943,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In Fig. 17 the vibration values have been calculated as the running average over the x-coordinate starting at the x-coordinate for the left row of LC-columns and running to the left, and at the x-coordinate for the right row and running to the right, leaving the area in between the rows without averaging.",
+            "startOffset": 58637,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 64732,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "An example of a mitigation measure that may be overestimated using a 2D models is local screens between track and dwellings.",
+            "startOffset": 64608,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38066,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For the 2D model manageable model sizes are obtained for a frequency range up to about 125 Hz, making the results valid in the entire frequency range which is important for low frequency vibrations, i.e. 1\u201380 Hz.",
+            "startOffset": 37854,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 43480,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "This is in effect comparable to assigning damping properties to the materials, except that the damping is zero at the interface between the non-absorbing and absorbing domains, and then increases exponentially with the geometrical distance in the ABD.",
+            "startOffset": 43229,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 50572,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In the figures the ratios between the vertical vibration velocity in the models with LC-columns and the reference model without any mitigation measures are plotted as functions of distance from the track.",
+            "startOffset": 50368,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 52092,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In 3D, the model with an infinitely long LC-screen, as well as the model with a screen with limited extent.",
+            "startOffset": 51985,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 45019,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "29 m compared to the geometry which is at 10 m.",
+            "startOffset": 44972,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 30110,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "These studies revealed that in a homogeneous half-space the stiffened soil block could act as a wave-impeding barrier.",
+            "startOffset": 29992,
+            "title": "Background"
+        },
+        {
+            "endOffset": 42052,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 41966,
+                    "startOffset": 41963
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Calculated vibration velocity using the semi-empirical measurement method in [1], with input parameters determined from the measurements, is also shown in the figure.",
+            "startOffset": 41886,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 45551,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Additionally, for screens, the angle of incidence of the propagating wave may affect the efficiency of the screen.",
+            "startOffset": 45437,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 32764,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This investigation showed that both strengthening the embankment and using LC columns under the track could reduce the vibration below 30 Hz by up to 6 dB.",
+            "startOffset": 32609,
+            "title": "Background"
+        },
+        {
+            "endOffset": 60766,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "A ratio equal to 1.0 means no effect of the measure on the vibrations.",
+            "startOffset": 60696,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 62527,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "These changes, although of only a few dB, are significant in the perception of vibration.",
+            "startOffset": 62438,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 38749,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "All FE-models are equipped with absorbing boundary domains which allow the vibration energy to dissipate out of the area of interest and prevent the waves from reflecting back from the outer boundaries of the numerical model.",
+            "startOffset": 38524,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 51862,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The comparison show that the effective medium representation is a good approximation that has a practically negligible effect on the results as compared with the 3-D model.",
+            "startOffset": 51690,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 61755,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The scaled RMS values indicate that the LC-columns below the track give between 25% and 40% reduction of the vibrations for distances between 20 m and 30 m from track.",
+            "startOffset": 61588,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 28012,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It was observed that the 2D models provided results that qualitatively agree with those of the 3D models at most frequencies.",
+            "startOffset": 27887,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33887,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "However, there is a significant difference in computational time between two-dimensional (2D) FE models, and more accurate 3D models.",
+            "startOffset": 33754,
+            "title": "Background"
+        },
+        {
+            "endOffset": 48692,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "These correspond to model 2b and model 4 in Table 1.",
+            "startOffset": 48640,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 40223,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The soil at the site consists of soft to medium-stiff clay.",
+            "startOffset": 40164,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 45325,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "There is a concern that 2D-models cannot correctly describe mitigation measures with limited extent, such as for local screens.",
+            "startOffset": 45198,
+            "title": "Comparison of results from 2D and 3D models at low frequencies"
+        },
+        {
+            "endOffset": 52258,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The 3D models were excited with 8 point loads which were moved along the rails with 1 m increments for 30 runs.",
+            "startOffset": 52147,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 59263,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "For Gulskogen, a 2D FE-analysis was carried out on the effect of different vibration mitigation measures in the frequency range from 4 Hz to 100 Hz.",
+            "startOffset": 59115,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 33628,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The study demonstrated that the ballast mat could effectively reduce the high-frequency vibrations transmitted to the ground, and that the overall efficiency could be reached by placing the mat beneath the sub-ballast.",
+            "startOffset": 33410,
+            "title": "Background"
+        },
+        {
+            "endOffset": 34986,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "These models properly handle the interaction between the embankment and the soil as well as propagation of the waves, and still offer high computational speed.",
+            "startOffset": 34827,
+            "title": "Background"
+        },
+        {
+            "endOffset": 47316,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Fig. 9a shows that for line sources the 2D model and the 3D model give, as expected, the same results.",
+            "startOffset": 47214,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 57030,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 56950,
+                    "startOffset": 56946
+                }
+            },
+            "secId": "s0060",
+            "sentence": "To verify this, calculations were performed by use of the analytical model in [15] where the ground is represented by the Green\u2019s functions of layered half-space.",
+            "startOffset": 56868,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 41271,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Vertical vibration velocity was measured with accelerometers mounted on ground in four positions at the site in Gulskogen.",
+            "startOffset": 41149,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 56199,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Fig. 15b shows the ratio between the vertical velocity amplitudes for the model with the LC-screen and the reference model without mitigation measures.",
+            "startOffset": 56048,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 60940,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "A ratio higher than 1.0, corresponds to an increase in the vibration values, while a ratio lower than 1.0 indicates that the mitigation measure reduces the vibration values.",
+            "startOffset": 60767,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 48877,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The 3D models were excited with 8 point loads (where the wheels are in contact with the rails) which were moved along the rails with 1 m increments for 30 runs from the start position.",
+            "startOffset": 48693,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 29309,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 29308,
+                    "startOffset": 29305
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Use of a row of closely spaced piles as an alternative to a continuous barrier was also investigated [4].",
+            "startOffset": 29204,
+            "title": "Background"
+        },
+        {
+            "endOffset": 54614,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Fig. 14d shows the results for the different models at a cross section at y = 34.5, i.e. 10 m from start of the LC-screen.",
+            "startOffset": 54492,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 31426,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 31349,
+                    "startOffset": 31346
+                }
+            },
+            "secId": "s0010",
+            "sentence": "For an analysis of the same problem at low frequencies, an analytical model for the soil together with beam/plate elements for the track was used to construct a rigorous 3D model [9] which was then employed for prediction of vibration from moving train loads.",
+            "startOffset": 31167,
+            "title": "Background"
+        },
+        {
+            "endOffset": 51984,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Comparisons were made between the results for the 2D and the 3D models with a LC-column screen.",
+            "startOffset": 51889,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 56400,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The oscillating amplitude in the 2D-models causes the ratio to be unstable since the model with the screen and the reference model do not have their maxima and minima in the same locations (Fig. 15a).",
+            "startOffset": 56200,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 47955,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "However, if the aim of the study is to compare the effects of different mitigation measures, this difference in amplitudes is not of major concern.",
+            "startOffset": 47808,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 34609,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 34596,
+                    "startOffset": 34592
+                }
+            },
+            "secId": "s0010",
+            "sentence": "As an alternative, a combination of FE method and Green's functions for horizontally layered soil such as described in [15] can be used.",
+            "startOffset": 34473,
+            "title": "Background"
+        },
+        {
+            "endOffset": 34710,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In these models, the substructure, track and possibly part of the top soil layer are modelled in FE.",
+            "startOffset": 34610,
+            "title": "Background"
+        },
+        {
+            "endOffset": 53338,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "As can be seen from Fig. 13c, the 3D model shows a complex pattern that may reflect an effect of the angles of incidence of the propagating waves as described above.",
+            "startOffset": 53173,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 64607,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "If the lengths of the mitigation measures are limited compared to the main dimensions in the model, the effect may be overestimated in 2D models.",
+            "startOffset": 64462,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 36543,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The closest dwelling is located at about 20 m left from the new track.",
+            "startOffset": 36473,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 38299,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For the 3D models manageable model sizes are only obtained up to about 12.5 Hz.",
+            "startOffset": 38220,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 64461,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "An example of a mitigation measure that can be evaluated using a 2D-model is LC columns below track and long LC screens between track and buildings.",
+            "startOffset": 64313,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27302,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This information can be combined with vibration values obtained in the initial phase for the situation without any mitigation measures, to establish an indication of expected vibration values if various mitigation measures are performed.",
+            "startOffset": 27065,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37289,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The columns can be installed either below the railway tracks (as reinforcement of the ground), or as a vibration-reducing screen in the ground between the railway track and the nearby buildings.",
+            "startOffset": 37095,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 52384,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The 2D model represents a cross-section of the model with infinitely long screen with a line load, i.e. model 3a in Table 1).",
+            "startOffset": 52259,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 61822,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 61821,
+                    "startOffset": 61817
+                }
+            },
+            "secId": "s0065",
+            "sentence": "This is somewhat lower than expected from earlier experience [10].",
+            "startOffset": 61756,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 28239,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The conclusion was that a full 3D is required for absolute vibration transmission predictions and was preferred in order to obtain more accurate estimates of the changes in response due to changes in tunnel structure or depth.",
+            "startOffset": 28013,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43228,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The complex scaling results in an attenuation of the elastic energy in the complex space.",
+            "startOffset": 43139,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 25814,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To provide good estimates, vibration measurements on train traffic at the site, or at places with similar conditions, should be used in such models.",
+            "startOffset": 25666,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47469,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "However, as shown in Fig. 9b, for point sources, the 3D model attenuates the vibrations in all three dimensions, which cannot be captured by a 2D model.",
+            "startOffset": 47317,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 36804,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The FE-models used in this study describe the cross section showed in Fig. 1 combined with various mitigation measures.",
+            "startOffset": 36685,
+            "title": "Description of method and models"
+        },
+        {
+            "endOffset": 57514,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Therefore, the oscillations are not caused by numerical issues in the FE-models, but are rather due to differences in the extension of the near-field in the 2D and 3D models.",
+            "startOffset": 57340,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 63604,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The advantages and limitation of using 2D FE-models as an engineering approach to study effect of different vibration mitigation measures was evaluated.",
+            "startOffset": 63452,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 41124,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 41123,
+                    "startOffset": 41120
+                }
+            },
+            "secId": "s0020",
+            "sentence": "In the upper 5 m layer with soft soil, Fig. 6, the proposed stiffness results in a shear wave velocity ratio between the in the LC-columns and the surrounding soil of about 5, which is in line with the recommendations in [3].",
+            "startOffset": 40899,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 57195,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Results from the analytical 2D and 3D models are compared.",
+            "startOffset": 57137,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 50737,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                },
+                {
+                    "id": "s0045",
+                    "title": "Stiffening of the ground below track with LC-columns"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The results in Fig. 11 were produced with 3D models where every LC-column is modelled as an individual object.",
+            "startOffset": 50627,
+            "title": "Approximation of LC-columns using effective medium"
+        },
+        {
+            "endOffset": 47016,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Hence, for point sources, 3D-models will realistically attenuate the vibrations in all three dimensions and the resulting levels will be much lower than for the corresponding 2D-models.",
+            "startOffset": 46831,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 49848,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Fig. 11 shows the ratio between the calculated RMS vibration values for the models with LC-columns below track and the reference model (i.e. no countermeasures).",
+            "startOffset": 49687,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 61004,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Fig. 18 shows results for the model with LC columns below track.",
+            "startOffset": 60940,
+            "title": "Case study \u2013 2D calculations between 4 and 100\u202fHz"
+        },
+        {
+            "endOffset": 48066,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Nevertheless, one needs to show that the relationship between the different models is similar in 2D and in 3D.",
+            "startOffset": 47956,
+            "title": "Attenuation with distance"
+        },
+        {
+            "endOffset": 40163,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 40162,
+                    "startOffset": 40158
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The material properties used in the models were derived from geotechnical site investigations and laboratory tests of samples collected at the site Gulskogen, and earlier laboratory tests of ballast and other stone materials [20].",
+            "startOffset": 39933,
+            "title": "Material parameters"
+        },
+        {
+            "endOffset": 41619,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The main frequency content is between 8 Hz and 12.5 Hz for most train passages at this site.",
+            "startOffset": 41527,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 54791,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The comparison shows that the 2D model still gives a satisfactory approximation of the 3D results as long as the area of concern is located well behind the edges of the screen.",
+            "startOffset": 54615,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 43560,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The scaling is applied in the approximate travel direction of an incident wave.",
+            "startOffset": 43481,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 43138,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "In the models presented here, the geometric scaling changes with the frequency such that elastic waves travel 2\u20134 times the distance of a full wave length before they reach the outer boundaries of the model.",
+            "startOffset": 42931,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 54952,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The number of DOFs increase rapidly with the frequency, which limits the possibilities to perform calculations in full 3D.",
+            "startOffset": 54830,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 42584,
+            "parents": [],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 42583,
+                    "startOffset": 42579
+                }
+            },
+            "secId": "s0030",
+            "sentence": "This is crucial for achieving correct results in dynamic calculations, but since boundary conditions alone are not enough to prevent (artificial) reflections from the model boundaries, efforts have been made to design and verify well-performing absorbing boundary layer domains (ABD) based on [23].",
+            "startOffset": 42286,
+            "title": "Design and effect of absorbing boundary layers"
+        },
+        {
+            "endOffset": 57136,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The analytical model describes the soil profile at Gulskogen, which consists of a soft clay over bedrock.",
+            "startOffset": 57031,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 29079,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The authors showed that barriers are particularly effective when the wavelength is smaller than the barrier depth, and the shear wave velocity is at least 5 times that of the surrounding soil.",
+            "startOffset": 28887,
+            "title": "Background"
+        },
+        {
+            "endOffset": 50367,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Nevertheless, looking at a cross section through an area well inside the area affected by the mitigation measure, the 2D model still provides a satisfactory approximation in terms of reduction (Fig. 11d).",
+            "startOffset": 50163,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 28886,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 28885,
+                    "startOffset": 28882
+                }
+            },
+            "secId": "s0010",
+            "sentence": "An axisymmetric BE model was used to assess the performance of barriers outside a vibrating source [3].",
+            "startOffset": 28783,
+            "title": "Background"
+        },
+        {
+            "endOffset": 53432,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, there is also the possible effect of the screen changing the dynamics of the system.",
+            "startOffset": 53339,
+            "title": "LC-screens next to track"
+        },
+        {
+            "endOffset": 64916,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Since 2D models do not attenuate the vibrations as in reality, the results from 2D models should only be used to compare different models, and not calculate absolute vibration values.",
+            "startOffset": 64733,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31765,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "However, for subcritical speeds for which the dominant frequencies are low, there is practically no effect.",
+            "startOffset": 31658,
+            "title": "Background"
+        },
+        {
+            "endOffset": 49364,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 49363,
+                    "startOffset": 49359
+                }
+            },
+            "secId": "s0045",
+            "sentence": "In Norway, for example, the limit-values for vibration from land-based transport in buildings are set as the frequency-weighted RMS velocity value with 1 s integration time [22].",
+            "startOffset": 49186,
+            "title": "Stiffening of the ground below track with LC-columns"
+        },
+        {
+            "endOffset": 55908,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Fig. 15a compares the calculated vertical velocity amplitudes at 12.5 Hz for the 2D and 3D models (RMS 1 s) in a cross-section at y = 28 m. To be able to compare the results from the 2D and 3D models in the same figure, the results have been normalized with the maximum amplitude for each model.",
+            "startOffset": 55613,
+            "title": "Issues related to higher frequencies"
+        },
+        {
+            "endOffset": 41526,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Description of method and models"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The distances from the centreline of the existing track to the four measurement positions were 6.5 m, 12 m, 23 m and 45 m. Fig. 7a shows frequency spectra for vibration velocity in the measurement position at 23 m distance for three local train passages.",
+            "startOffset": 41272,
+            "title": "Vibration measurements"
+        },
+        {
+            "endOffset": 46716,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Comparison of results from 2D and 3D models at low frequencies"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This can be described correctly in a 3D model.",
+            "startOffset": 46670,
+            "title": "Attenuation with distance"
+        }
+    ],
+    "docId": "S0003682X19300118",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "knc@ngi.no",
+                "first": "K. M.",
+                "initial": "K.M.",
+                "last": "Nor\u00e9n-Cosgriff"
+            },
+            {
+                "email": null,
+                "first": "T. I.",
+                "initial": "T.I.",
+                "last": "Bj\u00f8rnar\u00e5"
+            },
+            {
+                "email": null,
+                "first": "B. M.",
+                "initial": "B.M.",
+                "last": "Dahl"
+            },
+            {
+                "email": null,
+                "first": "A. M.",
+                "initial": "A.M.",
+                "last": "Kaynia"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.06.013",
+        "firstpage": "463",
+        "issn": "0003682X",
+        "keywords": [
+            "Countermeasures",
+            "FE calculations",
+            "Ground-borne vibrations",
+            "Lime-cement columns",
+            "Wave barrier"
+        ],
+        "lastpage": "476",
+        "openaccess": "Full",
+        "pub_year": 2019,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Advantages and limitation of using 2-D FE modelling for assessment of effect of mitigation measures for railway vibrations"
+    }
+}

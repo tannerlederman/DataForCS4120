@@ -1,0 +1,2640 @@
+{
+    "abstract": "Desmin is a type III intermediate filament (IF) component protein expressed specifically in muscular cells. Desmin is phosphorylated by Aurora-B and Rho-kinase specifically at the cleavage furrow from anaphase to telophase. The disturbance of this phosphorylation results in the formation of unusual long bridge-like IF structures (IF-bridge) between two post-mitotic (daughter) cells. Here, we report that desmin also serves as an excellent substrate for the other type of mitotic kinase, Cdk1. Desmin phosphorylation by Cdk1 loses its ability to form IFs in vitro. We have identified Ser6, Ser27, and Ser31 on murine desmin as phosphorylation sites for Cdk1. Using a site- and phosphorylation-state-specific antibody for Ser31 on desmin, we have demonstrated that Cdk1 phosphorylates desmin in entire cytoplasm from prometaphase to metaphase. Desmin mutations at Cdk1 sites exhibit IF-bridge phenotype, the frequency of which is significantly increased by the addition of Aurora-B and Rho-kinase site mutations to Cdk1 site mutations. In addition, Cdk1-induced desmin phosphorylation is detected in mitotic muscular cells of murine embryonic/newborn muscles and human rhabdomyosarcoma specimens. Therefore, Cdk1-induced desmin phosphorylation is required for efficient separation of desmin-IFs and generally detected in muscular mitotic cells in vivo.",
+    "author_highlights": [
+        {
+            "endOffset": 18093,
+            "sentence": "Cdk1 phosphorylates desmin, a myogenic intermediate filament (IF) protein.",
+            "startOffset": 18019
+        },
+        {
+            "endOffset": 18163,
+            "sentence": "Desmin phosphorylation by Cdk1 is detected especially during mitosis.",
+            "startOffset": 18094
+        },
+        {
+            "endOffset": 18245,
+            "sentence": "Cdk1-induced phosphorylation is required for efficient segregation of desmin-IFs.",
+            "startOffset": 18164
+        },
+        {
+            "endOffset": 18323,
+            "sentence": "Desmin phosphorylation by Cdk1 is detected in muscular mitotic cells in vivo.",
+            "startOffset": 18246
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Eriksson"
+                },
+                {
+                    "first": "Puneet",
+                    "initial": "P.",
+                    "last": "Opal"
+                },
+                {
+                    "first": "Robert D.",
+                    "initial": "R.D.",
+                    "last": "Goldman"
+                }
+            ],
+            "doi": "10.1016/0955-0674(92)90065-K",
+            "firstpage": "99",
+            "issn": "09550674",
+            "lastpage": "104",
+            "pmid": "1558758",
+            "pub_year": 1992,
+            "title": "Intermediate filament dynamics",
+            "volume": "4"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Ram K.",
+                    "initial": "R.K.",
+                    "last": "Sihag"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                },
+                {
+                    "first": "Tomoya",
+                    "initial": "T.",
+                    "last": "Yamaguchi"
+                },
+                {
+                    "first": "Thomas B.",
+                    "initial": "T.B.",
+                    "last": "Shea"
+                },
+                {
+                    "first": "Harish C.",
+                    "initial": "H.C.",
+                    "last": "Pant"
+                }
+            ],
+            "doi": "10.1016/j.yexcr.2007.04.010",
+            "firstpage": "2098",
+            "issn": "00144827",
+            "lastpage": "2109",
+            "pmid": "17498690",
+            "pub_year": 2007,
+            "title": "Role of phosphorylation on the structural dynamics and function of types III and IV intermediate filaments",
+            "volume": "313"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1038/nprot.2007.374",
+            "firstpage": "2574",
+            "issn": "17542189",
+            "lastpage": "2581",
+            "pmid": "17948000",
+            "pub_year": 2007,
+            "title": "Production of a site- and phosphorylation state-specific antibody",
+            "volume": "2"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Nishizawa"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Shibata"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Saga"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "firstpage": "3074",
+            "issn": "00219258",
+            "lastpage": "3079",
+            "pmid": "1993680",
+            "pub_year": 1991,
+            "title": "Specific localization of phosphointermediate filament protein in the constricted area of dividing cells",
+            "volume": "266"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Hidetaka",
+                    "initial": "H.",
+                    "last": "Kosako"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1002/(SICI)1097-0029(20000415)49:2<173::AID-JEMT10>3.0.CO;2-A",
+            "firstpage": "173",
+            "issn": "1059910X",
+            "lastpage": "182",
+            "pmid": "10816257",
+            "pub_year": 2000,
+            "title": "Regulation of intermediate filament organization during cytokinesis: Possible roles of Rho-associated kinase",
+            "volume": "49"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Izawa"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1111/j.1349-7006.2006.00161.x",
+            "firstpage": "167",
+            "issn": "13479032",
+            "lastpage": "174",
+            "pmid": "16542212",
+            "pub_year": 2006,
+            "title": "Regulatory mechanisms and functions of intermediate filaments: A study using site- and phosphorylation state-specific antibodies",
+            "volume": "97"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Kousuke",
+                    "initial": "K.",
+                    "last": "Kasahara"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1016/bs.mie.2015.07.010",
+            "firstpage": "85",
+            "issn": "00766879",
+            "lastpage": "111",
+            "pmid": "26795468",
+            "pub_year": 2016,
+            "title": "Phospho-Specific Antibody Probes of Intermediate Filament Proteins",
+            "volume": "568"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Matsuoka"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Nishizawa"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Shibata"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "firstpage": "2895",
+            "issn": "02614189",
+            "lastpage": "2902",
+            "pmid": "1379174",
+            "pub_year": 1992,
+            "title": "Two different protein kinases act on a different time schedule as glial filament kinases during mitosis",
+            "volume": "11"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Sekimata"
+                },
+                {
+                    "first": "Kunio",
+                    "initial": "K.",
+                    "last": "Tsujimura"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Yuka",
+                    "initial": "Y.",
+                    "last": "Takeuchi"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Inagaki"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1083/jcb.132.4.635",
+            "firstpage": "635",
+            "issn": "00219525",
+            "lastpage": "641",
+            "pmid": "8647894",
+            "pub_year": 1996,
+            "title": "Detection of protein kinase activity specifically activated at metaphase-anaphase transition",
+            "volume": "132"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1002/iub.1260",
+            "firstpage": "195",
+            "issn": "15216543",
+            "lastpage": "200",
+            "pub_year": 2014,
+            "title": "New insights into roles of intermediate filament phosphorylation and progeria pathogenesis",
+            "volume": "66"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Hidetaka",
+                    "initial": "H.",
+                    "last": "Kosako"
+                },
+                {
+                    "first": "Mutsuki",
+                    "initial": "M.",
+                    "last": "Amano"
+                },
+                {
+                    "first": "Maki",
+                    "initial": "M.",
+                    "last": "Yanagida"
+                },
+                {
+                    "first": "Kazushi",
+                    "initial": "K.",
+                    "last": "Tanabe"
+                },
+                {
+                    "first": "Yoshimi",
+                    "initial": "Y.",
+                    "last": "Nishi"
+                },
+                {
+                    "first": "Kozo",
+                    "initial": "K.",
+                    "last": "Kaibuchi"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1074/jbc.272.16.10333",
+            "firstpage": "10333",
+            "issn": "00219258",
+            "lastpage": "10336",
+            "pmid": "9099667",
+            "pub_year": 1997,
+            "title": "Phosphorylation of glial fibrillary, acidic protein at the same sites by cleavage furrow kinase and Rho-associated kinase",
+            "volume": "272"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Elaine",
+                    "initial": "E.",
+                    "last": "Fuchs"
+                },
+                {
+                    "first": "Klaus",
+                    "initial": "K.",
+                    "last": "Weber"
+                }
+            ],
+            "doi": "10.1146/annurev.bi.63.070194.002021",
+            "firstpage": "345",
+            "issn": "00664154",
+            "lastpage": "382",
+            "pmid": "7979242",
+            "pub_year": 1994,
+            "title": "Intermediate filaments: Structure, dynamics, function, and disease",
+            "volume": "63"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Aie",
+                    "initial": "A.",
+                    "last": "Kawajiri"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yasui"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Masaaki",
+                    "initial": "M.",
+                    "last": "Tatsuka"
+                },
+                {
+                    "first": "Masahide",
+                    "initial": "M.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Koh ichi",
+                    "initial": "K.i.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1091/mbc.E02-09-0612",
+            "firstpage": "1489",
+            "issn": "10591524",
+            "lastpage": "1500",
+            "pmid": "12686604",
+            "pub_year": 2003,
+            "title": "Functional significance of the specific sites phosphorylated in desmin at cleavage furrow: Aurora-B may phosphorylate and regulate type III intermediate filaments during cytokinesis coordinatedly with Rho-kinase",
+            "volume": "14"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yasui"
+                },
+                {
+                    "first": "Mutsuki",
+                    "initial": "M.",
+                    "last": "Amano"
+                },
+                {
+                    "first": "Koh Ichi",
+                    "initial": "K.I.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Inagaki"
+                },
+                {
+                    "first": "Hideo",
+                    "initial": "H.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Saya"
+                },
+                {
+                    "first": "Kozo",
+                    "initial": "K.",
+                    "last": "Kaibuchi"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1083/jcb.143.5.1249",
+            "firstpage": "1249",
+            "issn": "00219525",
+            "lastpage": "1258",
+            "pmid": "9832553",
+            "pub_year": 1998,
+            "title": "Roles of Rho-associated kinase in cytokinesis; mutations in Rho- associated kinase phosphorylation sites impair cytokinetic segregation of glial filaments",
+            "volume": "143"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Kunio",
+                    "initial": "K.",
+                    "last": "Tsujimura"
+                },
+                {
+                    "first": "Midori",
+                    "initial": "M.",
+                    "last": "Ogawara"
+                },
+                {
+                    "first": "Yuka",
+                    "initial": "Y.",
+                    "last": "Takeuchi"
+                },
+                {
+                    "first": "Shinobu",
+                    "initial": "S.",
+                    "last": "Imajoh-Ohmi"
+                },
+                {
+                    "first": "Mee Hye",
+                    "initial": "M.H.",
+                    "last": "Ha"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "firstpage": "31097",
+            "issn": "00219258",
+            "lastpage": "31106",
+            "pmid": "7983050",
+            "pub_year": 1994,
+            "title": "Visualization and function of vimentin phosphorylation by cdc2 kinase during mitosis",
+            "volume": "269"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Hidetaka",
+                    "initial": "H.",
+                    "last": "Kosako"
+                },
+                {
+                    "first": "Kazushi",
+                    "initial": "K.",
+                    "last": "Tanabe"
+                },
+                {
+                    "first": "Maki",
+                    "initial": "M.",
+                    "last": "Yanagida"
+                },
+                {
+                    "first": "Minoru",
+                    "initial": "M.",
+                    "last": "Sakurai"
+                },
+                {
+                    "first": "Mutsuki",
+                    "initial": "M.",
+                    "last": "Amano"
+                },
+                {
+                    "first": "Kozo",
+                    "initial": "K.",
+                    "last": "Kaibuchi"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagakii"
+                }
+            ],
+            "doi": "10.1074/jbc.273.19.11728",
+            "firstpage": "11728",
+            "issn": "00219258",
+            "lastpage": "11736",
+            "pmid": "9565595",
+            "pub_year": 1998,
+            "title": "Phosphorylation of vimentin by RHO-associated kinase at a unique amino- terminal site that is specifically phosphorylated during cytokinesis",
+            "volume": "273"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yasui"
+                },
+                {
+                    "first": "Aie",
+                    "initial": "A.",
+                    "last": "Kawajiri"
+                },
+                {
+                    "first": "Erich A.",
+                    "initial": "E.A.",
+                    "last": "Nigg"
+                },
+                {
+                    "first": "Yasuhiko",
+                    "initial": "Y.",
+                    "last": "Terada"
+                },
+                {
+                    "first": "Masaaki",
+                    "initial": "M.",
+                    "last": "Tatsuka"
+                },
+                {
+                    "first": "Koh ichi",
+                    "initial": "K.i.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1074/jbc.M210892200",
+            "firstpage": "8526",
+            "issn": "00219258",
+            "lastpage": "8530",
+            "pmid": "12458200",
+            "pub_year": 2003,
+            "title": "Aurora-B regulates the cleavage furrow-specific vimentin phosphorylation in the cytokinetic process",
+            "volume": "278"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Takai"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Ogawara"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Tomono"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Moritoh"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Imajoh-Ohmi"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Tsutsumi"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Taketani"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1083/jcb.133.1.141",
+            "firstpage": "141",
+            "issn": "00219525",
+            "lastpage": "149",
+            "pmid": "8601602",
+            "pub_year": 1996,
+            "title": "Mitosis-specific phosphorylation of vimentin by protein kinase C coupled with reorganization of intracellular membranes",
+            "volume": "133"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Tomoya",
+                    "initial": "T.",
+                    "last": "Yamaguchi"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Tomoya",
+                    "initial": "T.",
+                    "last": "Yokoyama"
+                },
+                {
+                    "first": "Herman",
+                    "initial": "H.",
+                    "last": "Sillj\u00e9"
+                },
+                {
+                    "first": "Anja",
+                    "initial": "A.",
+                    "last": "Hanisch"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Uldschmid"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Takai"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Oguri"
+                },
+                {
+                    "first": "Erich A.",
+                    "initial": "E.A.",
+                    "last": "Nigg"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1083/jcb.200504091",
+            "firstpage": "431",
+            "issn": "00219525",
+            "lastpage": "436",
+            "pmid": "16260496",
+            "pub_year": 2005,
+            "title": "Phosphorylation by Cdk1 induces Plk1-mediated vimentin phosphorylation during mitosis",
+            "volume": "171"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Yoshihiro",
+                    "initial": "Y.",
+                    "last": "Yasui"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Seiya",
+                    "initial": "S.",
+                    "last": "Matsui"
+                },
+                {
+                    "first": "Edward",
+                    "initial": "E.",
+                    "last": "Manser"
+                },
+                {
+                    "first": "Louis",
+                    "initial": "L.",
+                    "last": "Lim"
+                },
+                {
+                    "first": "Koh Ichi",
+                    "initial": "K.I.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1038/sj.onc.1204407",
+            "firstpage": "2868",
+            "issn": "09509232",
+            "lastpage": "2876",
+            "pmid": "11420699",
+            "pub_year": 2001,
+            "title": "Protein kinases required for segregation of vimentin filaments in mitotic process",
+            "volume": "20"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Hiroyasu",
+                    "initial": "H.",
+                    "last": "Inada"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Kazushi",
+                    "initial": "K.",
+                    "last": "Tanabe"
+                },
+                {
+                    "first": "Yoshimi",
+                    "initial": "Y.",
+                    "last": "Nishi"
+                },
+                {
+                    "first": "Kozo",
+                    "initial": "K.",
+                    "last": "Kaibuchi"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1006/bbrc.1998.9732",
+            "firstpage": "21",
+            "issn": "0006291X",
+            "lastpage": "25",
+            "pmid": "9875213",
+            "pub_year": 1998,
+            "title": "Rho-associated kinase phosphorylates desmin, the myogenic intermediate filament protein, at unique amino-terminal sites",
+            "volume": "253"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Hiroyasu",
+                    "initial": "H.",
+                    "last": "Inada"
+                },
+                {
+                    "first": "Hideaki",
+                    "initial": "H.",
+                    "last": "Togashi"
+                },
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Nakamura"
+                },
+                {
+                    "first": "Kozo",
+                    "initial": "K.",
+                    "last": "Kaibuchi"
+                },
+                {
+                    "first": "Koh Ichi",
+                    "initial": "K.I.",
+                    "last": "Nagata"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1074/jbc.274.49.34932",
+            "firstpage": "34932",
+            "issn": "00219258",
+            "lastpage": "34939",
+            "pmid": "10574968",
+            "pub_year": 1999,
+            "title": "Balance between activities of Rho kinase and type 1 protein phosphatase modulates turnover of phosphorylation and dynamics of desmin/vimentin filaments",
+            "volume": "274"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Eriksson"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Dechat"
+                },
+                {
+                    "first": "Boris",
+                    "initial": "B.",
+                    "last": "Grin"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Helfand"
+                },
+                {
+                    "first": "Melissa",
+                    "initial": "M.",
+                    "last": "Mendez"
+                },
+                {
+                    "first": "Hanna Mari",
+                    "initial": "H.M.",
+                    "last": "Pallari"
+                },
+                {
+                    "first": "Robert D.",
+                    "initial": "R.D.",
+                    "last": "Goldman"
+                }
+            ],
+            "doi": "10.1172/JCI38339",
+            "firstpage": "1763",
+            "issn": "00219738",
+            "lastpage": "1771",
+            "pmid": "19587451",
+            "pub_year": 2009,
+            "title": "Introducing intermediate filaments: From discovery to disease",
+            "volume": "119"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Masashi",
+                    "initial": "M.",
+                    "last": "Kusubata"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Matsuoka"
+                },
+                {
+                    "first": "Kunio",
+                    "initial": "K.",
+                    "last": "Tsujimura"
+                },
+                {
+                    "first": "Hikaru",
+                    "initial": "H.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Shoji",
+                    "initial": "S.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Kamijo"
+                },
+                {
+                    "first": "Hideyo",
+                    "initial": "H.",
+                    "last": "Yasuda"
+                },
+                {
+                    "first": "Yoshiki",
+                    "initial": "Y.",
+                    "last": "Ohba"
+                },
+                {
+                    "first": "Eiichi",
+                    "initial": "E.",
+                    "last": "Okumura"
+                },
+                {
+                    "first": "Takeo",
+                    "initial": "T.",
+                    "last": "Kishimoto"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1006/bbrc.1993.1138",
+            "firstpage": "927",
+            "issn": "0006291X",
+            "lastpage": "934",
+            "pmid": "8439342",
+            "pub_year": 1993,
+            "title": "CDC2 kinase phosphorylation of desmin at three serine/threonine residues in the amino-terminal head domain",
+            "volume": "190"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1007/978-1-62703-992-5_2",
+            "firstpage": "21",
+            "issn": "10643745",
+            "lastpage": "31",
+            "pmid": "24515457",
+            "pub_year": 2014,
+            "title": "Method for the generation of antibodies specific for site and posttranslational modifications",
+            "volume": "1131"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Matsuyama"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Akihito",
+                    "initial": "A.",
+                    "last": "Inoko"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Shigenobu",
+                    "initial": "S.",
+                    "last": "Yonemura"
+                },
+                {
+                    "first": "Kyoko",
+                    "initial": "K.",
+                    "last": "Kobori"
+                },
+                {
+                    "first": "Yuko",
+                    "initial": "Y.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Eisaku",
+                    "initial": "E.",
+                    "last": "Kondo"
+                },
+                {
+                    "first": "Shigeyoshi",
+                    "initial": "S.",
+                    "last": "Itohara"
+                },
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Izawa"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1074/jbc.M113.514737",
+            "firstpage": "35626",
+            "issn": "00219258",
+            "lastpage": "35635",
+            "pmid": "24142690",
+            "pub_year": 2013,
+            "title": "Defect of mitotic vimentin phosphorylation causes microophthalmia and cataract via aneuploidy and senescence in lens epithelial cells",
+            "volume": "288"
+        },
+        "bib33": {
+            "authors": [
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Hidemasa",
+                    "initial": "H.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Akihito",
+                    "initial": "A.",
+                    "last": "Inoko"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Makihara"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Enomoto"
+                },
+                {
+                    "first": "Katsuhisa",
+                    "initial": "K.",
+                    "last": "Horimoto"
+                },
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Matsuyama"
+                },
+                {
+                    "first": "Kenichi",
+                    "initial": "K.",
+                    "last": "Kurita"
+                },
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Izawa"
+                },
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1074/jbc.M114.633891",
+            "firstpage": "12984",
+            "issn": "00219258",
+            "lastpage": "12998",
+            "pmid": "25847236",
+            "pub_year": 2015,
+            "title": "Cytokinetic failure-induced tetraploidy develops into aneuploidy, triggering skin aging in phosphovimentin-deficient mice",
+            "volume": "290"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Shuhua",
+                    "initial": "S.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Landsbury"
+                },
+                {
+                    "first": "Ralf",
+                    "initial": "R.",
+                    "last": "Dahm"
+                },
+                {
+                    "first": "Yizhi",
+                    "initial": "Y.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Qingjiong",
+                    "initial": "Q.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Roy A.",
+                    "initial": "R.A.",
+                    "last": "Quinlan"
+                }
+            ],
+            "doi": "10.1172/JCI38277",
+            "firstpage": "1837",
+            "issn": "00219738",
+            "lastpage": "1848",
+            "pmid": "19587458",
+            "pub_year": 2009,
+            "title": "Functions of the intermediate filament cytoskeleton in the eye lens",
+            "volume": "119"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Johanna",
+                    "initial": "J.",
+                    "last": "Ivaska"
+                },
+                {
+                    "first": "Hanna Mari",
+                    "initial": "H.M.",
+                    "last": "Pallari"
+                },
+                {
+                    "first": "Jonna",
+                    "initial": "J.",
+                    "last": "Nevo"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Eriksson"
+                }
+            ],
+            "doi": "10.1016/j.yexcr.2007.03.040",
+            "firstpage": "2050",
+            "issn": "00144827",
+            "lastpage": "2062",
+            "pmid": "17512929",
+            "pub_year": 2007,
+            "title": "Novel functions of vimentin in cell adhesion, migration, and signaling",
+            "volume": "313"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Roy A.",
+                    "initial": "R.A.",
+                    "last": "Quinlan"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Brenner"
+                },
+                {
+                    "first": "James E.",
+                    "initial": "J.E.",
+                    "last": "Goldman"
+                },
+                {
+                    "first": "Albee",
+                    "initial": "A.",
+                    "last": "Messing"
+                }
+            ],
+            "doi": "10.1016/j.yexcr.2007.04.004",
+            "firstpage": "2077",
+            "issn": "00144827",
+            "lastpage": "2087",
+            "pmid": "17498694",
+            "pub_year": 2007,
+            "title": "GFAP and its role in Alexander disease",
+            "volume": "313"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Milos",
+                    "initial": "M.",
+                    "last": "Pekny"
+                },
+                {
+                    "first": "E. Birgitte",
+                    "initial": "E.B.",
+                    "last": "Lane"
+                }
+            ],
+            "doi": "10.1016/j.yexcr.2007.04.023",
+            "firstpage": "2244",
+            "issn": "00144827",
+            "lastpage": "2254",
+            "pmid": "17524394",
+            "pub_year": 2007,
+            "title": "Intermediate filaments and stress",
+            "volume": "313"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Yassemi",
+                    "initial": "Y.",
+                    "last": "Capetanaki"
+                },
+                {
+                    "first": "Robert J.",
+                    "initial": "R.J.",
+                    "last": "Bloch"
+                },
+                {
+                    "first": "Asimina",
+                    "initial": "A.",
+                    "last": "Kouloumenta"
+                },
+                {
+                    "first": "Manolis",
+                    "initial": "M.",
+                    "last": "Mavroidis"
+                },
+                {
+                    "first": "Stelios",
+                    "initial": "S.",
+                    "last": "Psarras"
+                }
+            ],
+            "doi": "10.1016/j.yexcr.2007.03.033",
+            "firstpage": "2063",
+            "issn": "00144827",
+            "lastpage": "2076",
+            "pmid": "17509566",
+            "pub_year": 2007,
+            "title": "Muscle intermediate filaments and their links to membranes and membranous organelles",
+            "volume": "313"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Masaki",
+                    "initial": "M.",
+                    "last": "Inagaki"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Matsuoka"
+                },
+                {
+                    "first": "Kunio",
+                    "initial": "K.",
+                    "last": "Tsujimura"
+                },
+                {
+                    "first": "Shoji",
+                    "initial": "S.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "Toshiya",
+                    "initial": "T.",
+                    "last": "Tokui"
+                },
+                {
+                    "first": "Toshitada",
+                    "initial": "T.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Inagaki"
+                }
+            ],
+            "doi": "10.1002/bies.950180610",
+            "firstpage": "481",
+            "issn": "02659247",
+            "lastpage": "487",
+            "pub_year": 1996,
+            "title": "Dynamic property of intermediate filaments: Regulation by phosphorylation",
+            "volume": "18"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 26794,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The sections were then mounted with PermaFluor (Thermo Fisher Scientific), and fluorescence was examined using a confocal laser-scanning microscope (LSM 700, Carl Zeiss, Oberkochen, Germany).",
+            "startOffset": 26603,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 33386,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Desmin-Ser31 phosphorylation was detected in mitotic cells of human rhabdomyosarcoma specimens from two patients (Fig. 4).",
+            "startOffset": 33264,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 18792,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 18791,
+                    "startOffset": 18786
+                },
+                "bib5": {
+                    "endOffset": 18791,
+                    "startOffset": 18786
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Vimentin, a type III IF protein conserved in vertebrate evolution, is expressed in all mesenchymal cells [4,5].",
+            "startOffset": 18681,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28033,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 28032,
+                    "startOffset": 28028
+                }
+            },
+            "secId": "sec3",
+            "sentence": "These results confirmed our previous report that desmin phosphorylation by Cdk1 induced the disassembly of desmin-IFs in vitro [30].",
+            "startOffset": 27901,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 29347,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 1E, TD31 reacted with desmin incubated with Cdk1 but not with Aurora-B or Rho-kinase or without any kinases (none).",
+            "startOffset": 29215,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 31454,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These observations raised the question about the biological significance of each type of mitotic desmin phosphorylation.",
+            "startOffset": 31334,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 34563,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The analyses of these phospho-desmin-deficient mice will provide new insights into the biological significance of desmin phosphorylation during mitosis for organogenesis and tissue homeostasis.",
+            "startOffset": 34370,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 19608,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Cdk1 phosphorylates Ser8 on GFAP from prometaphase to metaphase.",
+            "startOffset": 19544,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25029,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The resulting cell pellets were washed with PBS twice, re-suspended with the growing medium, and then re-seeded on collagen-coated coverslips.",
+            "startOffset": 24887,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 25738,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "For immunohistochemistry studies, formaldehyde-fixed, paraffin-embedded tumor tissue sections and mouse tissues (embryonal day 15.5, postnatal day 0 and 28) were deparaffinized, and antigens were retrieved by boiling samples in target retrieval solution at pH 9 (Dako, Carpinteria, CA, USA) for 30 min.",
+            "startOffset": 25436,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 19685,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This phosphorylation is detected on glial filaments in the entire cytoplasm.",
+            "startOffset": 19609,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25170,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "These cells were incubated for an additional 20 h and then subjected to immunocytochemistry with anti-desmin to analyze IF-bridge phenotype.",
+            "startOffset": 25030,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 33910,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In cultured cells, Cdk1-induced desmin phosphorylation is required for efficient separation of desmin-IFs during mitotic processes, together with cleavage-furrow-specific desmin phosphorylation by Aurora-B and Rho-kinase.",
+            "startOffset": 33689,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 24168,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Before seeding, dishes and coverslips were coated with PureCol collagen (1:30\u201360 diluted with sterile water; Advanced BioMatrix, San Diego, CA, USA) for 2 h and then washed twice with phosphate-buffered saline (PBS).",
+            "startOffset": 23952,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 19543,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 19542,
+                    "startOffset": 19532
+                },
+                "bib16": {
+                    "endOffset": 19542,
+                    "startOffset": 19532
+                },
+                "bib17": {
+                    "endOffset": 19542,
+                    "startOffset": 19532
+                },
+                "bib18": {
+                    "endOffset": 19542,
+                    "startOffset": 19532
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Using such antibodies for 4 distinct phosphorylation sites on GFAP, we previously showed that GFAP is mitotically phosphorylated by at least 2 types of protein kinases [12,16\u201318].",
+            "startOffset": 19364,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27616,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "After high speed centrifugation (10,000g), supernatant (S) and pellet (P) fractions were subjected to SDS-PAGE.",
+            "startOffset": 27505,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 29931,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 1F, desmin is expressed in C2C12 (murine myoblastic) and BHK (baby hamster kidney fibroblastic) cells but not in U-251 (human glioblastoma) and HeLa (human cervical carcinoma) cells, whereas vimentin is expressed in the above 4 cell lines.",
+            "startOffset": 29675,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 21254,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 21116,
+                    "startOffset": 21109
+                },
+                "bib26": {
+                    "endOffset": 21253,
+                    "startOffset": 21246
+                },
+                "bib27": {
+                    "endOffset": 21253,
+                    "startOffset": 21246
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Like GFAP case, cleavage-furrow-specific vimentin phosphorylation by Rho-kinase and Aurora-B is critical for efficient segregation of vimentin-IFs in mitotic processes [24,27], whereas vimentin phosphorylation by other protein kinases (such as Cdk1) also contributes to mitotic separation of vimentin-IFs [26,27].",
+            "startOffset": 20941,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22032,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In addition, this phosphorylation is generally detected in mitotic muscular cells in vivo.",
+            "startOffset": 21942,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25435,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Tissue sections from two patients with rhabdomyosarcoma at different primary sites (14 years-old [yo] male, upper arm; 4 yo male, lower leg) were obtained with informed patient consent at the Nagoya University Hospital.",
+            "startOffset": 25216,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 27814,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 1B, the majority of desmin incubated without Cdk1 was fractionated into the insoluble fraction (P), indicating that desmin was likely polymerized under this experimental condition.",
+            "startOffset": 27617,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 22310,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 22309,
+                    "startOffset": 22299
+                },
+                "bib15": {
+                    "endOffset": 22309,
+                    "startOffset": 22299
+                },
+                "bib31": {
+                    "endOffset": 22309,
+                    "startOffset": 22299
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Rat monoclonal anti-desmin-phosphoSer31 (clone name TD31) was produced as described previously [11,15,31].",
+            "startOffset": 22204,
+            "title": "Antibodies"
+        },
+        {
+            "endOffset": 25977,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Subsequently, tissue sections were washed with PBS, blocked with blocking reagent (Dako), and incubated overnight at 4 \u00b0C with TD31 (dilution 1:1000) and anti-desmin (dilution 1:2000; Abcam) antibodies diluted in antibody diluents (Dako).",
+            "startOffset": 25739,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 19921,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The phosphorylation of the above 3 sites is restricted to the cleavage furrow both beneath the plasma membrane and outside the spindle midzone.",
+            "startOffset": 19778,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31333,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The other is desmin phosphorylation by Aurora-B (see PD59 [anti-desmin-phosphoSer59] immunostaining in Fig. 2A) and by Rho-kinase (see PD75 [anti-desmin-phosphoThr75] immunostaining in Fig. 2A; also see Fig. 1D and E), which occurs specifically at the cleavage furrow from anaphase to telophase (during late mitosis).",
+            "startOffset": 31016,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 23024,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Mouse desmin with a C-terminal His-tag was expressed in Escherichia coli BL21-CodonPlus (DE3)-RIPL (Agilent Technologies, Palo Alto, CA, USA) and then purified from inclusion bodies through nickel-affinity chromatography according to manufacturer's protocols (Qiagen, Chatsworth, CA, USA).",
+            "startOffset": 22735,
+            "title": "Preparation of proteins"
+        },
+        {
+            "endOffset": 31694,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 31558,
+                    "startOffset": 31555
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Since type III IF proteins can form heteropolymeric IFs in combination with other type III proteins [3], we chose type III-deficient T24 (urinary bladder carcinoma) cells to evaluate the effects of exogenous type III IF protein expression.",
+            "startOffset": 31455,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28365,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "According to a public database PhosphoSitePlus\u00ae (http://www.phosphosite.org), Ser6 and Ser22 on chicken desmin are corresponding to Ser6 and Ser31 on murine desmin, respectively; the first Met is uncounted in each amino acid position.",
+            "startOffset": 28131,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 32301,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Desmin mutations only at Cdk1 sites induced the IF-bridge phenotype at lower frequency than Aurora-B and Rho-kinase (double) site mutations, but the addition of double site mutations to Cdk1 site mutations (triple site mutations) significantly increased the frequency of an IF-bridge phenotype (Fig. 2B).",
+            "startOffset": 31997,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 24231,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The above T24 cells were seeded on the collagen-coated dishes.",
+            "startOffset": 24169,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 22709,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Commercial sources were as follows: mouse anti-GFAP (clone GA5; Cell Signaling Technology, Beverly, MA, USA), pan-keratin (SIGMA-Aldrich, St Louis, MO, USA), rabbit anti-desmin (clone Y66 [Abcam, Cambridge, MA, USA] or clone D93F5 [Cell Signaling Technology]), guinea pig anti-vimentin (Progen Biotechnik, Heidelberg, Germany), and goat anti-\u03b2-actin (Santa Cruz Biotechnology, Santa Cruz, CA, USA).",
+            "startOffset": 22311,
+            "title": "Antibodies"
+        },
+        {
+            "endOffset": 28662,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As shown in Fig. 1C, each mutation reduced 32P-incorporation into murine desmin by Cdk1.",
+            "startOffset": 28574,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 20062,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 20061,
+                    "startOffset": 20054
+                },
+                "bib19": {
+                    "endOffset": 20061,
+                    "startOffset": 20054
+                },
+                "bib20": {
+                    "endOffset": 20061,
+                    "startOffset": 20054
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Further detailed studies revealed that 2 distinct protein kinases participate in this cleavage-furrow-specific GFAP phosphorylation [18\u201320].",
+            "startOffset": 19922,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30778,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "All these data suggested that TD31 specifically recognizes desmin phosphorylation at Ser31.",
+            "startOffset": 30687,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 27351,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Next, we examined the effect of Cdk1-induced desmin phosphorylation on its filament forming ability.",
+            "startOffset": 27251,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 27504,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Soluble human desmin was pre-incubated with (+) or without (\u2212) Cdk1 for 1 h and then incubated under the polymerization condition for an additional 1 h.",
+            "startOffset": 27352,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 27250,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 27045,
+                    "startOffset": 27041
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Similar to this report [30], GST-cyclin B1/Cdk1 complex (referred to as Cdk1) phosphorylated murine desmin in a time-dependent manner: the level of phosphorylation was approximately 2 mol of phosphate/mol of desmin at 2 h (Fig. 1A).",
+            "startOffset": 27018,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 33688,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In summary, desmin is phosphorylated by Cdk1 during mitosis not only in desmin-positive cultured cells but also in tissue specimens containing dividing muscular cells.",
+            "startOffset": 33521,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30496,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "TD31 immunoreactivity was not detected in desmin-negative (HeLa or U251) cells including early mitotic cells (arrowheads in Fig. 1H).",
+            "startOffset": 30363,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 26892,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "This study was approved by the Ethics Committee of Nagoya University Graduate School of Medicine.",
+            "startOffset": 26795,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 27017,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 27016,
+                    "startOffset": 27012
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We previously reported that Cdk1 can phosphorylate desmin purified from chicken muscular tissues [30].",
+            "startOffset": 26915,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 33263,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We finally stained rhabdomyosarcoma tissues with TD31 because desmin-positive mitotic cells were enriched in these tissues (Fig. 4).",
+            "startOffset": 33131,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28130,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 28129,
+                    "startOffset": 28125
+                }
+            },
+            "secId": "sec3",
+            "sentence": "We previously reported that Cdk1 can phosphorylate Ser6, Ser22, and Thr64 on chicken desmin [30].",
+            "startOffset": 28033,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 20701,
+            "parents": [],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 20700,
+                    "startOffset": 20696
+                }
+            },
+            "secId": "sec1",
+            "sentence": "By transient expression of GFAP mutated at these mitotic phosphorylation sites to Ala in type III IF-deficient T24 cell line, we found that the disturbance of cleavage-furrow-specific GFAP phosphorylation induced abnormal IF structure connecting two daughter cells (referred as IF-bridge) during the cytokinetic process, whereas GFAP mutation at a Cdk1 site (Ser8) did not exhibit the IF-bridge phenotype [21].",
+            "startOffset": 20291,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24669,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "24 h after transfection, 50 ng/ml nocodazole was added in the growing medium to arrest cells in early mitosis.",
+            "startOffset": 24559,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 28914,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Ser6 and Ser31 on desmin are conserved among human, mouse, rat, dog, and chicken.",
+            "startOffset": 28833,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28986,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In addition, Ser31 is one of two major phosphorylation sites (Fig. 1C).",
+            "startOffset": 28915,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 32678,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next examined whether desmin phosphorylation at Ser31 was detected in muscular cells in vivo.",
+            "startOffset": 32582,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 34201,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 34149,
+                    "startOffset": 34145
+                },
+                "bib33": {
+                    "endOffset": 34200,
+                    "startOffset": 34196
+                }
+            },
+            "secId": "sec3",
+            "sentence": "These mice exhibited several premature aging phenotypes, such as lens cataract in the eye tissue [32] and impaired wound healing in the skin tissue [33].",
+            "startOffset": 34048,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 23951,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 23950,
+                    "startOffset": 23946
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Type III-IF-negative T24 cells stably expressing EBNA-1 were established as described previously [21].",
+            "startOffset": 23849,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 30686,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "TD31 immunoreactivity was completely diminished by the pre-incubation with the antigen phosphopeptide pS31 but not with its non-phosphorylated version of peptide S31 (Supplementary Fig. 1).",
+            "startOffset": 30497,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 23115,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 23114,
+                    "startOffset": 23110
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "No-tagged recombinant human desmin was prepared from E. coli as described previously [28].",
+            "startOffset": 23025,
+            "title": "Preparation of proteins"
+        },
+        {
+            "endOffset": 24558,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "In order to analyze IF-bridge phenotype effectively, we performed the following procedures.",
+            "startOffset": 24467,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 24886,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "This mitotic cell suspension was centrifuged at 1000g for 10 min to remove nocodazole-containing medium.",
+            "startOffset": 24782,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 20940,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 20779,
+                    "startOffset": 20772
+                },
+                "bib23": {
+                    "endOffset": 20779,
+                    "startOffset": 20772
+                },
+                "bib24": {
+                    "endOffset": 20779,
+                    "startOffset": 20772
+                },
+                "bib25": {
+                    "endOffset": 20939,
+                    "startOffset": 20932
+                },
+                "bib26": {
+                    "endOffset": 20939,
+                    "startOffset": 20932
+                }
+            },
+            "secId": "sec1",
+            "sentence": "These two types of mitotic IF phosphorylation is conserved in vimentin [22\u201324], whereas additional protein kinases including protein kinase C (PKC) and Polo-like kinase 1 (Plk1) also participate in mitotic vimentin phosphorylation [25,26].",
+            "startOffset": 20701,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33130,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The frequency of desmin-Ser31 phosphorylation in these tissues was significantly reduced at P1 (Fig. 3B, D and Supplementary Fig. 2B) and then almost diminished at 6 weeks after the birth (Fig. 3C and D).",
+            "startOffset": 32926,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30362,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "TD31 immunoreactivity was observed in the entire cytoplasm of desmin-positive (C2C12 or BHK) cells during early mitosis (from prometaphase to metaphase; also see Fig. 2A) but not during interphase (Fig. 1H).",
+            "startOffset": 30155,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28833,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The triple mutations almost diminished the 32P-incorporation, suggesting that Ser6, Ser27, and Ser31 on murine desmin were phosphorylation sites for Cdk1 (Fig. 1C and D).",
+            "startOffset": 28663,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 34047,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 34046,
+                    "startOffset": 34042
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Recently, we succeeded in the generation of knock-in mice only expressing vimentin mutated at mitotic phosphorylation sites to Ala [32].",
+            "startOffset": 33911,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 23754,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Desmin was incubated at 25 \u00b0C in the reaction mixture (25 mM Tris-Cl [pH 7.5], 100 \u03bcM ATP, and 100\u2013200 \u03bcg/ml desmin) containing 1.5, 0.15, or 2 mM MgCl2 in the presence of 40 \u03bcg/ml GST-cyclin B1/Cdk1, 100 \u03bcg/ml GST-Rho-kinase-catalytic-domain, or 2 \u03bcg/ml GST-Aurora B/His-INCENP-IN-Box, respectively.",
+            "startOffset": 23454,
+            "title": "Phosphorylation of desmin"
+        },
+        {
+            "endOffset": 32925,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Desmin-Ser31 phosphorylation was observed at E15.5 in mitotic muscular cells (judged by the staining with anti-desmin and nuclear morphology) of murine tissues, such as heart, skeletal muscle, tongue, and tail (Fig. 3A and Supplementary Fig. 2A).",
+            "startOffset": 32679,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 21718,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 21639,
+                    "startOffset": 21635
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We also reported that desmin is phosphorylated by Cdk1 in vitro [30], but the significance of this phosphorylation in vivo remains largely unknown.",
+            "startOffset": 21571,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19139,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 19138,
+                    "startOffset": 19132
+                },
+                "bib9": {
+                    "endOffset": 19138,
+                    "startOffset": 19132
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Accumulating evidence has suggested that IF disassembly is regulated by phosphorylation of Ser/Thr residues in the amino-terminal head domain on IF proteins [9,10].",
+            "startOffset": 18975,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20290,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 20289,
+                    "startOffset": 20285
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The other is Aurora B, a kinase activated in the spindle midzone/midbody [20].",
+            "startOffset": 20212,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21392,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 21372,
+                    "startOffset": 21368
+                },
+                "bib28": {
+                    "endOffset": 21324,
+                    "startOffset": 21320
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Desmin is phosphorylated at Thr16, Thr75, and Thr76 by Rho-kinase [28] and at Ser11, Thr16, and Ser59 by Aurora-B [20] (also see Fig. 1D).",
+            "startOffset": 21254,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22203,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 22121,
+                    "startOffset": 22117
+                },
+                "bib29": {
+                    "endOffset": 22151,
+                    "startOffset": 22147
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Rabbit polyclonal anti-desmin-phsophoSer59 (PD59) [20] and -phosphoThr75 (PD75) [29] antibodies were produced and purified as described.",
+            "startOffset": 22067,
+            "title": "Antibodies"
+        },
+        {
+            "endOffset": 32582,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These results suggested that Cdk1-induced desmin phosphorylation also contributes to efficient separation desmin-IFs during mitosis although its contribution may be slightly lower than the contribution of cleavage-furrow-specific desmin phosphorylation by Aurora-B and Rho-kinase.",
+            "startOffset": 32302,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 21570,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 21569,
+                    "startOffset": 21565
+                },
+                "bib29": {
+                    "endOffset": 21434,
+                    "startOffset": 21430
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Desmin phosphorylation by Rho-kinase [29] and Aurora-B [20] is also detected specifically at cleavage furrow and required for efficient separation of desmin-IFs in mitosis [20].",
+            "startOffset": 21393,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19777,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The other type phosphorylates Thr7, Ser13, and Ser38 on GFAP during anaphase and telophase.",
+            "startOffset": 19686,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19363,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 19269,
+                    "startOffset": 19262
+                },
+                "bib12": {
+                    "endOffset": 19269,
+                    "startOffset": 19262
+                },
+                "bib13": {
+                    "endOffset": 19362,
+                    "startOffset": 19355
+                },
+                "bib14": {
+                    "endOffset": 19362,
+                    "startOffset": 19355
+                },
+                "bib15": {
+                    "endOffset": 19362,
+                    "startOffset": 19355
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Site- and phosphorylation state-specific antibodies that can recognize a phosphorylated residue and its flanking sequence [11,12] are powerful tools to demonstrate site (domain)-specific IF phosphorylation in cells [13\u201315].",
+            "startOffset": 19140,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21941,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Here, we report that Cdk1-induced desmin phosphorylation contributes to efficient separation of desmin-IFs during mitotic processes, together with cleavage-furrow-specific desmin phosphorylation by Rho-kinase and Aurora-B.",
+            "startOffset": 21719,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34369,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Based on our findings in this study, we are now generating knock-in mice only expressing desmin mutated at Cdk1, Aurora-B, and Rho-kinase phosphorylation sites to Ala.",
+            "startOffset": 34202,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 26448,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "For immunofluorescence, tissue sections were incubated overnight at 4 \u00b0C with primary antibodies diluted in antibody diluents (Dako).",
+            "startOffset": 26315,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 29674,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since IF component proteins are expressed in a cell-type-specific manner, we examined which type of IF protein is expressed in each cell line.",
+            "startOffset": 29532,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 27900,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "On the other hand, the incubation with Cdk1 dramatically increased desmin solubility.",
+            "startOffset": 27815,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 20211,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 20210,
+                    "startOffset": 20206
+                }
+            },
+            "secId": "sec1",
+            "sentence": "One is Rho-associated kinase (Rho-kinase; also called ROK or ROCK), a kinase activated just beneath the plasma membrane in the cleavage furrow [19].",
+            "startOffset": 20063,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18680,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 18679,
+                    "startOffset": 18674
+                },
+                "bib2": {
+                    "endOffset": 18679,
+                    "startOffset": 18674
+                },
+                "bib3": {
+                    "endOffset": 18679,
+                    "startOffset": 18674
+                }
+            },
+            "secId": "sec1",
+            "sentence": "IF component proteins are divided into six groups and their composition depends on tissue type and differentiation step [1\u20133].",
+            "startOffset": 18554,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23815,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Some reactions were performed in the presence of [\u03b3-32P]ATP.",
+            "startOffset": 23755,
+            "title": "Phosphorylation of desmin"
+        },
+        {
+            "endOffset": 29214,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, we produced a site- and phosphorylation-state-specific antibody for Ser31 on murine desmin (referred to as TD31), using a phosphopeptide pS31 corresponding to murine desmin phosphorylated at Ser31 (Supplementary Fig. 1A).",
+            "startOffset": 28987,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 26602,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Sections were then washed with PBS and incubated at RT for 1 h in PBS containing Alexa Fluor 488/594-conjugated secondary antibodies (Life Technologies).",
+            "startOffset": 26449,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 30154,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In mitotic lysates of C2C12 and BHK cells, TD31 specifically reacted with a band at 54 kDa corresponding to the position of desmin, whereas this immunoreactivity was not observed in their interphase cell lysates (Fig. 1G).",
+            "startOffset": 29932,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 31015,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "One is desmin phosphorylation by Cdk1, which occurs in the entire cytoplasm from prometaphase to metaphase (Figs. 1H and 2A).",
+            "startOffset": 30890,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 33521,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "All these results suggested that desmin-Ser31 phosphorylation by Cdk1 generally occurs in muscular cells during early mitosis in vivo.",
+            "startOffset": 33387,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 26315,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Tissue sections were then washed, treated with 5% hydrogen peroxide/ethanol solution for 15 min at room temperature (RT), and incubated at RT for 30 min with horseradish peroxidase (HRP)-conjugated anti-rat or anti-mouse IgG secondary antibodies (EnVision System, Dako), followed by signal detection with diaminobenzidine (DAB) solution.",
+            "startOffset": 25978,
+            "title": "Immunohistochemistry and immunofluorescence"
+        },
+        {
+            "endOffset": 31996,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The expression of desmin mutated at Cdk1, Rho-kinase, and/or Aurora-B sites induced IF-bridge (unusual long bridge-like IF structures) formed between two daughter cells during cytokinesis, whereas the IF-bridge phenotype was not observed when wild-type (WT) desmin was exogenously expressed (Fig. 2B).",
+            "startOffset": 31695,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30889,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Like GFAP and vimentin cases, mitotic desmin phosphorylations are categorized into at least 2 groups (Fig. 2A).",
+            "startOffset": 30778,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28573,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Therefore, we produced murine desmin in which Ser6, Ser27, and/or Ser31 were changed to Ala.",
+            "startOffset": 28481,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 24781,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After 4-h-incubation with nocodazole, mitotic T24 cells were collected by pipetting off the supernatant medium.",
+            "startOffset": 24670,
+            "title": "Analyses on IF-bridge formation"
+        },
+        {
+            "endOffset": 23426,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 23216,
+                    "startOffset": 23212
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "GST-cyclin B and Cdk1 complex, GST-Rho-kinase-catalytic-domain (a constitutively active mutant) [23], or GST-Aurora B/His-INCENP-IN-Box was expressed in baculovirus-infected Sf9 cells and purified through glutathione-Sepharose beads according to manufacturer's protocols (Life Technologies, Carlsbad, CA, USA).",
+            "startOffset": 23116,
+            "title": "Preparation of proteins"
+        },
+        {
+            "endOffset": 28480,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, Thr64 prior to Pro is not conserved in murine desmin, but Ser27 on murine desmin is located prior to Pro.",
+            "startOffset": 28366,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 29532,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "TD31 immunoreactivity toward desmin phosphorylated by Cdk1 was completely diminished by desmin mutation at Ser31 but not at Ser6 or Ser27 (Fig. 1C), confirming the specificity of TD31.",
+            "startOffset": 29348,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 18975,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 18974,
+                    "startOffset": 18969
+                },
+                "bib7": {
+                    "endOffset": 18974,
+                    "startOffset": 18969
+                },
+                "bib8": {
+                    "endOffset": 18974,
+                    "startOffset": 18969
+                }
+            },
+            "secId": "sec1",
+            "sentence": "On the other hand, glial fibrillary acidic protein (GFAP) and desmin, different type III IF proteins, are expressed specifically in astroglial and muscular cells, respectively [6\u20138].",
+            "startOffset": 18793,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34626,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The authors declare no con\ufb02ict of interest.",
+            "startOffset": 34583,
+            "title": "Conflict of interest"
+        },
+        {
+            "endOffset": 18553,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Intermediate filaments (IFs), together with microtubules and actin filaments, form the cytoskeletal framework in the cytoplasm of virtually all vertebrates.",
+            "startOffset": 18397,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24466,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "9 h after seeding, the cells were transfected with pDR2 vector (BD Clontech, Palo Alto, CA, USA) carrying each type of murine desmin in the presence of Lipofectamine LTX and Plus\u2122 reagent (Thermo Fisher Scientific, San Jose, CA, USA).",
+            "startOffset": 24232,
+            "title": "Analyses on IF-bridge formation"
+        }
+    ],
+    "docId": "S0006291X16313869",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Hiroyuki",
+                "initial": "H.",
+                "last": "Makihara"
+            },
+            {
+                "email": null,
+                "first": "Hironori",
+                "initial": "H.",
+                "last": "Inaba"
+            },
+            {
+                "email": null,
+                "first": "Atsushi",
+                "initial": "A.",
+                "last": "Enomoto"
+            },
+            {
+                "email": null,
+                "first": "Hiroki",
+                "initial": "H.",
+                "last": "Tanaka"
+            },
+            {
+                "email": null,
+                "first": "Yasuko",
+                "initial": "Y.",
+                "last": "Tomono"
+            },
+            {
+                "email": null,
+                "first": "Kaori",
+                "initial": "K.",
+                "last": "Ushida"
+            },
+            {
+                "email": null,
+                "first": "Mitsuo",
+                "initial": "M.",
+                "last": "Goto"
+            },
+            {
+                "email": null,
+                "first": "Kenichi",
+                "initial": "K.",
+                "last": "Kurita"
+            },
+            {
+                "email": null,
+                "first": "Yoshihiro",
+                "initial": "Y.",
+                "last": "Nishida"
+            },
+            {
+                "email": null,
+                "first": "Kousuke",
+                "initial": "K.",
+                "last": "Kasahara"
+            },
+            {
+                "email": "hgoto@aichi-cc.jp",
+                "first": "Hidemasa",
+                "initial": "H.",
+                "last": "Goto"
+            },
+            {
+                "email": "minagaki@doc.medic.mie-u.ac.jp",
+                "first": "Masaki",
+                "initial": "M.",
+                "last": "Inagaki"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.08.122",
+        "firstpage": "1323",
+        "issn": "0006291X",
+        "keywords": [
+            "Cdk1",
+            "Desmin",
+            "Intermediate filament",
+            "Mitosis",
+            "Phosphorylation"
+        ],
+        "lastpage": "1329",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Desmin phosphorylation by Cdk1 is required for efficient separation of desmin intermediate filaments in mitosis and detected in murine embryonic/newborn muscle and human rhabdomyosarcoma tissues"
+    }
+}

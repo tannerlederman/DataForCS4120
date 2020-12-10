@@ -1,0 +1,2420 @@
+{
+    "abstract": "Although chronic kidney disease (CKD) is strongly associated with onsets of cardiovascular disease (CVD), the pathogenic mechanism between these diseases has not been fully understood. To develop and validate new therapeutic strategies for this complication, appropriate experimental models that reflect the complexity of the underlying pathophysiology are needed. The Osborne-Mendel (OM) rat was identified as an atherosclerosis-prone and a premature-death rat strain among 16 inbred rat strains when fed high-cholesterol containing diet. When fed high-cholesterol diet, OM rats showed simultaneous occurrence of aortic aneurysm, aortic dissection, peripheral artery occlusion, and left atrial thrombosis. OM rats had significantly lower max dP/dt and higher min dP/dt than F344 rats did, indicating impaired left ventricle contractility and relaxation. OM rats developed renal dysfunction, showing increased urinary albumin excretion. OM rats also showed mild hypertension, decreased endothelial function, and enhanced coagulation and platelet aggregation, compared with F344 rats. We now report that OM rat would be a novel spontaneous animal model which simultaneously demonstrates cardiac and renal dysfunction, and CVD events. This model could be a useful model for the pre-clinical testing of pharmacological therapies and could provide new insight into potential targets and pathways for the treatment of CKD and CVD.",
+    "author_highlights": [
+        {
+            "endOffset": 14184,
+            "sentence": "OM rat is a novel spontaneous animal model for cardiovascular diseases.",
+            "startOffset": 14113
+        },
+        {
+            "endOffset": 14263,
+            "sentence": "OM rats show simultaneous occurrence of aortic aneurysm and aortic dissection.",
+            "startOffset": 14185
+        },
+        {
+            "endOffset": 14335,
+            "sentence": "OM rats exhibit peripheral artery occlusion and left atrial thrombosis.",
+            "startOffset": 14264
+        },
+        {
+            "endOffset": 14396,
+            "sentence": "OM rats spontaneously develop cardiac and renal dysfunction.",
+            "startOffset": 14336
+        },
+        {
+            "endOffset": 14482,
+            "sentence": "OM rat was identified as an atherosclerosis-prone strain among 16 inbred rat strains.",
+            "startOffset": 14397
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Mark J.",
+                    "initial": "M.J.",
+                    "last": "Sarnak"
+                },
+                {
+                    "first": "Andrew S.",
+                    "initial": "A.S.",
+                    "last": "Levey"
+                },
+                {
+                    "first": "Anton C.",
+                    "initial": "A.C.",
+                    "last": "Schoolwerth"
+                },
+                {
+                    "first": "Josef",
+                    "initial": "J.",
+                    "last": "Coresh"
+                },
+                {
+                    "first": "Bruce",
+                    "initial": "B.",
+                    "last": "Culleton"
+                },
+                {
+                    "first": "L. Lee",
+                    "initial": "L.L.",
+                    "last": "Hamm"
+                },
+                {
+                    "first": "Peter A.",
+                    "initial": "P.A.",
+                    "last": "McCullough"
+                },
+                {
+                    "first": "Bertram L.",
+                    "initial": "B.L.",
+                    "last": "Kasiske"
+                },
+                {
+                    "first": "Ellie",
+                    "initial": "E.",
+                    "last": "Kelepouris"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Klag"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Parfrey"
+                },
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Pfeffer"
+                },
+                {
+                    "first": "Leopoldo",
+                    "initial": "L.",
+                    "last": "Raij"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Spinosa"
+                },
+                {
+                    "first": "Peter W.",
+                    "initial": "P.W.",
+                    "last": "Wilson"
+                }
+            ],
+            "doi": "10.1161/01.CIR.0000095676.90936.80",
+            "firstpage": "2154",
+            "issn": "00097322",
+            "lastpage": "2169",
+            "pmid": "14581387",
+            "pub_year": 2003,
+            "title": "Kidney Disease as a Risk Factor for Development of Cardiovascular Disease: A Statement From the American Heart Association Councils on Kidney in Cardiovascular Disease, High Blood Pressure Research, Clinical Cardiology, and Epidemiology and Prevention",
+            "volume": "108"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Kyohei",
+                    "initial": "K.",
+                    "last": "Yasuno"
+                },
+                {
+                    "first": "Shoko",
+                    "initial": "S.",
+                    "last": "Ishihara"
+                },
+                {
+                    "first": "Rio",
+                    "initial": "R.",
+                    "last": "Saito"
+                },
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Ishikawa"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Kato"
+                },
+                {
+                    "first": "Ryosuke",
+                    "initial": "R.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Tomoshige",
+                    "initial": "T.",
+                    "last": "Baba"
+                },
+                {
+                    "first": "Kazuya",
+                    "initial": "K.",
+                    "last": "Kawano"
+                },
+                {
+                    "first": "Kikumi",
+                    "initial": "K.",
+                    "last": "Ogihara"
+                },
+                {
+                    "first": "Junichi",
+                    "initial": "J.",
+                    "last": "Kamiie"
+                },
+                {
+                    "first": "Kinji",
+                    "initial": "K.",
+                    "last": "Shirota"
+                }
+            ],
+            "doi": "10.1292/jvms.10-0094",
+            "firstpage": "1319",
+            "issn": "09167250",
+            "lastpage": "1327",
+            "pmid": "20495300",
+            "pub_year": 2010,
+            "title": "Early-onset podocyte injury and glomerular sclerosis in osborne-mendel rats",
+            "volume": "72"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Hisao",
+                    "initial": "H.",
+                    "last": "Tanase"
+                },
+                {
+                    "first": "Yukio",
+                    "initial": "Y.",
+                    "last": "Yamori"
+                },
+                {
+                    "first": "Carl T.",
+                    "initial": "C.T.",
+                    "last": "Hansen"
+                },
+                {
+                    "first": "Walter",
+                    "initial": "W.",
+                    "last": "Lovenberg"
+                }
+            ],
+            "doi": "10.1161/01.HYP.4.6.864",
+            "firstpage": "864",
+            "issn": "0194911X",
+            "lastpage": "872",
+            "pmid": "6216212",
+            "pub_year": 1982,
+            "title": "Heart size in inbred strains of rats: Part 1. genetic determination of the development of cardiovascular enlargement in rats",
+            "volume": "4"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Yukio",
+                    "initial": "Y.",
+                    "last": "Yamori"
+                }
+            ],
+            "doi": "10.3109/10641969009073511",
+            "firstpage": "939",
+            "issn": "10641963",
+            "lastpage": "952",
+            "pmid": "2208760",
+            "pub_year": 1990,
+            "title": "Experimental intervention of hypertension and cardiovascular diseases",
+            "volume": "A12"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Sei",
+                    "initial": "S.",
+                    "last": "Nakata"
+                },
+                {
+                    "first": "Masato",
+                    "initial": "M.",
+                    "last": "Tsutsui"
+                },
+                {
+                    "first": "Hiroaki",
+                    "initial": "H.",
+                    "last": "Shimokawa"
+                },
+                {
+                    "first": "Osamu",
+                    "initial": "O.",
+                    "last": "Suda"
+                },
+                {
+                    "first": "Tsuyoshi",
+                    "initial": "T.",
+                    "last": "Morishita"
+                },
+                {
+                    "first": "Kiyoko",
+                    "initial": "K.",
+                    "last": "Shibata"
+                },
+                {
+                    "first": "Yasuko",
+                    "initial": "Y.",
+                    "last": "Yatera"
+                },
+                {
+                    "first": "Ken",
+                    "initial": "K.",
+                    "last": "Sabanai"
+                },
+                {
+                    "first": "Akihide",
+                    "initial": "A.",
+                    "last": "Tanimoto"
+                },
+                {
+                    "first": "Machiko",
+                    "initial": "M.",
+                    "last": "Nagasaki"
+                },
+                {
+                    "first": "Hiromi",
+                    "initial": "H.",
+                    "last": "Tasaki"
+                },
+                {
+                    "first": "Yasuyuki",
+                    "initial": "Y.",
+                    "last": "Sasaguri"
+                },
+                {
+                    "first": "Yasuhide",
+                    "initial": "Y.",
+                    "last": "Nakashima"
+                },
+                {
+                    "first": "Yutaka",
+                    "initial": "Y.",
+                    "last": "Otsuji"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Yanagihara"
+                }
+            ],
+            "doi": "10.1161/CIRCULATIONAHA.107.742692",
+            "firstpage": "2211",
+            "issn": "00097322",
+            "lastpage": "2223",
+            "pmid": "18413498",
+            "pub_year": 2008,
+            "title": "Spontaneous myocardial infarction in mice lacking all nitric oxide synthase isoforms",
+            "volume": "117"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Jiao Hui",
+                    "initial": "J.H.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Hagaman"
+                },
+                {
+                    "first": "Shinja",
+                    "initial": "S.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Robert L.",
+                    "initial": "R.L.",
+                    "last": "Reddick"
+                },
+                {
+                    "first": "Nobuyo",
+                    "initial": "N.",
+                    "last": "Maeda"
+                }
+            ],
+            "doi": "10.1161/hq0302.105287",
+            "firstpage": "469",
+            "issn": "10795642",
+            "lastpage": "475",
+            "pmid": "11884292",
+            "pub_year": 2002,
+            "title": "Aortic constriction exacerbates atherosclerosis and induces cardiac dysfunction in mice lacking apolipoprotein E",
+            "volume": "22"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Mariappan",
+                    "initial": "M.",
+                    "last": "Muthuchamy"
+                },
+                {
+                    "first": "Kathy",
+                    "initial": "K.",
+                    "last": "Pieples"
+                },
+                {
+                    "first": "Prabhakar",
+                    "initial": "P.",
+                    "last": "Rethinasamy"
+                },
+                {
+                    "first": "Brian",
+                    "initial": "B.",
+                    "last": "Hoit"
+                },
+                {
+                    "first": "Ingrid L.",
+                    "initial": "I.L.",
+                    "last": "Grupp"
+                },
+                {
+                    "first": "Greg P.",
+                    "initial": "G.P.",
+                    "last": "Boivin"
+                },
+                {
+                    "first": "Beata",
+                    "initial": "B.",
+                    "last": "Wolska"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "R. John",
+                    "initial": "R.J.",
+                    "last": "Solaro"
+                },
+                {
+                    "first": "David F.",
+                    "initial": "D.F.",
+                    "last": "Wieczorek"
+                }
+            ],
+            "doi": "10.1161/01.RES.85.1.47",
+            "firstpage": "47",
+            "issn": "00097330",
+            "lastpage": "56",
+            "pmid": "10400910",
+            "pub_year": 1999,
+            "title": "Mouse model of a familial hypertrophic cardiomyopathy mutation in \u03b1- tropomyosin manifests cardiac dysfunction",
+            "volume": "85"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Xiao Jun",
+                    "initial": "X.J.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Dominic J.",
+                    "initial": "D.J.",
+                    "last": "Autelitano"
+                },
+                {
+                    "first": "Rodney J.",
+                    "initial": "R.J.",
+                    "last": "Dilley"
+                },
+                {
+                    "first": "Binghui",
+                    "initial": "B.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Anthony M.",
+                    "initial": "A.M.",
+                    "last": "Dart"
+                },
+                {
+                    "first": "Elizabeth A.",
+                    "initial": "E.A.",
+                    "last": "Woodcock"
+                }
+            ],
+            "doi": "10.1161/01.CIR.101.1.71",
+            "firstpage": "71",
+            "issn": "00097322",
+            "lastpage": "77",
+            "pmid": "10618307",
+            "pub_year": 2000,
+            "title": "\u03b22-Adrenergic receptor overexpression exacerbates development of heart failure after aortic stenosis",
+            "volume": "101"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Nobuyoshi",
+                    "initial": "N.",
+                    "last": "Tomioka"
+                },
+                {
+                    "first": "Chiharu",
+                    "initial": "C.",
+                    "last": "Kishimoto"
+                },
+                {
+                    "first": "Akira",
+                    "initial": "A.",
+                    "last": "Matsumori"
+                },
+                {
+                    "first": "Chuichi",
+                    "initial": "C.",
+                    "last": "Kawai"
+                }
+            ],
+            "doi": "10.1093/cvr/20.9.665",
+            "firstpage": "665",
+            "issn": "00086363",
+            "lastpage": "671",
+            "pmid": "3791356",
+            "pub_year": 1986,
+            "title": "Mural thrombus in experimental viral myocarditis in mice: Relation between thrombosis and congestive heart failure",
+            "volume": "20"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "M. D.",
+                    "initial": "M.D.",
+                    "last": "Reuber"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Lijinsky"
+                }
+            ],
+            "doi": "10.1007/BF00316350",
+            "firstpage": "38",
+            "issn": "03405761",
+            "lastpage": "42",
+            "pmid": "6517710",
+            "pub_year": 1984,
+            "title": "Atrial thrombosis involving the heart of F-344 rats ingesting quinacrine hydrochloride",
+            "volume": "56"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Manning"
+                },
+                {
+                    "first": "Lisa A.",
+                    "initial": "L.A.",
+                    "last": "Cassis"
+                },
+                {
+                    "first": "Jing",
+                    "initial": "J.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Stephen J.",
+                    "initial": "S.J.",
+                    "last": "Szilvassy"
+                },
+                {
+                    "first": "Alan",
+                    "initial": "A.",
+                    "last": "Daugherty"
+                }
+            ],
+            "doi": "10.1191/1358863x02vm413ra",
+            "firstpage": "45",
+            "issn": "1358863X",
+            "lastpage": "54",
+            "pmid": "12083734",
+            "pub_year": 2002,
+            "title": "Abdominal aortic aneurysms: Fresh insights from a novel animal model of the disease",
+            "volume": "7"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Philip M.",
+                    "initial": "P.M.",
+                    "last": "Iannaccone"
+                },
+                {
+                    "first": "Howard J.",
+                    "initial": "H.J.",
+                    "last": "Jacob"
+                }
+            ],
+            "doi": "10.1242/dmm.002733",
+            "firstpage": "206",
+            "issn": "17548403",
+            "lastpage": "210",
+            "pmid": "19407324",
+            "pub_year": 2009,
+            "title": "Rats!",
+            "volume": "2"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Leonhardt"
+                },
+                {
+                    "first": "H. R.",
+                    "initial": "H.R.",
+                    "last": "Arntz"
+                },
+                {
+                    "first": "U. H.",
+                    "initial": "U.H.",
+                    "last": "Klemens"
+                }
+            ],
+            "doi": "10.1016/0021-9150(77)90196-4",
+            "firstpage": "29",
+            "issn": "00219150",
+            "lastpage": "40",
+            "pmid": "199202",
+            "pub_year": 1977,
+            "title": "Studies of plasma viscosity in primary hyperlipoproteinaemia",
+            "volume": "28"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Alan H.",
+                    "initial": "A.H.",
+                    "last": "Seplowitz"
+                },
+                {
+                    "first": "Shu",
+                    "initial": "S.",
+                    "last": "Chien"
+                },
+                {
+                    "first": "Frank Rees",
+                    "initial": "F.R.",
+                    "last": "Smith"
+                }
+            ],
+            "doi": "10.1016/0021-9150(81)90107-6",
+            "firstpage": "89",
+            "issn": "00219150",
+            "lastpage": "95",
+            "pmid": "7470209",
+            "pub_year": 1981,
+            "title": "Effects of lipoproteins on plasma viscosity",
+            "volume": "38"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Ralf",
+                    "initial": "R.",
+                    "last": "Junker"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "Heinrich"
+                },
+                {
+                    "first": "Hans",
+                    "initial": "H.",
+                    "last": "Ulbrich"
+                },
+                {
+                    "first": "Helmut",
+                    "initial": "H.",
+                    "last": "Schulte"
+                },
+                {
+                    "first": "Rainer",
+                    "initial": "R.",
+                    "last": "Sch\u00f6nfeld"
+                },
+                {
+                    "first": "Ekkehart",
+                    "initial": "E.",
+                    "last": "K\u00f6hler"
+                },
+                {
+                    "first": "Gerd",
+                    "initial": "G.",
+                    "last": "Assmann"
+                }
+            ],
+            "doi": "10.1161/01.ATV.18.6.870",
+            "firstpage": "870",
+            "issn": "10795642",
+            "lastpage": "875",
+            "pmid": "9633925",
+            "pub_year": 1998,
+            "title": "Relationship between plasma viscosity and the severity of coronary heart disease",
+            "volume": "18"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Constantina",
+                    "initial": "C.",
+                    "last": "Masoura"
+                },
+                {
+                    "first": "Christos",
+                    "initial": "C.",
+                    "last": "Pitsavos"
+                },
+                {
+                    "first": "Konstantinos",
+                    "initial": "K.",
+                    "last": "Aznaouridis"
+                },
+                {
+                    "first": "Ioannis",
+                    "initial": "I.",
+                    "last": "Skoumas"
+                },
+                {
+                    "first": "Charalambos",
+                    "initial": "C.",
+                    "last": "Vlachopoulos"
+                },
+                {
+                    "first": "Christodoulos",
+                    "initial": "C.",
+                    "last": "Stefanadis"
+                }
+            ],
+            "doi": "10.1016/j.atherosclerosis.2010.10.008",
+            "firstpage": "129",
+            "issn": "00219150",
+            "lastpage": "138",
+            "pmid": "21074770",
+            "pub_year": 2011,
+            "title": "Arterial endothelial function and wall thickness in familial hypercholesterolemia and familial combined hyperlipidemia and the effect of statins. A systematic review and meta-analysis",
+            "volume": "214"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Asahina"
+                },
+                {
+                    "first": "Tomoji",
+                    "initial": "T.",
+                    "last": "Mashimo"
+                },
+                {
+                    "first": "Michiyasu",
+                    "initial": "M.",
+                    "last": "Takeyama"
+                },
+                {
+                    "first": "Ryuichi",
+                    "initial": "R.",
+                    "last": "Tozawa"
+                },
+                {
+                    "first": "Tadatoshi",
+                    "initial": "T.",
+                    "last": "Hashimoto"
+                },
+                {
+                    "first": "Akiko",
+                    "initial": "A.",
+                    "last": "Takizawa"
+                },
+                {
+                    "first": "Masatsugu",
+                    "initial": "M.",
+                    "last": "Ueda"
+                },
+                {
+                    "first": "Toshihiro",
+                    "initial": "T.",
+                    "last": "Aoto"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Kuramoto"
+                },
+                {
+                    "first": "Tadao",
+                    "initial": "T.",
+                    "last": "Serikawa"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2012.01.067",
+            "firstpage": "553",
+            "issn": "0006291X",
+            "lastpage": "558",
+            "pmid": "22293196",
+            "pub_year": 2012,
+            "title": "Hypercholesterolemia and atherosclerosis in low density lipoprotein receptor mutant rats",
+            "volume": "418"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Smail",
+                    "initial": "S.",
+                    "last": "Messaoudi"
+                },
+                {
+                    "first": "Basile",
+                    "initial": "B.",
+                    "last": "Gravez"
+                },
+                {
+                    "first": "Antoine",
+                    "initial": "A.",
+                    "last": "Tarjus"
+                },
+                {
+                    "first": "V\u00e9ronique",
+                    "initial": "V.",
+                    "last": "Pelloux"
+                },
+                {
+                    "first": "Antoine",
+                    "initial": "A.",
+                    "last": "Ouvrard-Pascaud"
+                },
+                {
+                    "first": "Claude",
+                    "initial": "C.",
+                    "last": "Delcayre"
+                },
+                {
+                    "first": "Janelise",
+                    "initial": "J.",
+                    "last": "Samuel"
+                },
+                {
+                    "first": "Jean Marie",
+                    "initial": "J.M.",
+                    "last": "Launay"
+                },
+                {
+                    "first": "Catalina",
+                    "initial": "C.",
+                    "last": "Sierra-Ramos"
+                },
+                {
+                    "first": "Diego Alvarez",
+                    "initial": "D.A.",
+                    "last": "De La Rosa"
+                },
+                {
+                    "first": "Karine",
+                    "initial": "K.",
+                    "last": "Cl\u00e9ment"
+                },
+                {
+                    "first": "Nicolette",
+                    "initial": "N.",
+                    "last": "Farman"
+                },
+                {
+                    "first": "Fr\u00e9deric",
+                    "initial": "F.",
+                    "last": "Jaisser"
+                }
+            ],
+            "doi": "10.1161/HYPERTENSIONAHA.112.198986",
+            "firstpage": "361",
+            "issn": "0194911X",
+            "lastpage": "367",
+            "pmid": "23297371",
+            "pub_year": 2013,
+            "title": "Aldosterone-specific activation of cardiomyocyte mineralocorticoid receptor in vivo",
+            "volume": "61"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Ricardo",
+                    "initial": "R.",
+                    "last": "Rocha"
+                },
+                {
+                    "first": "Charles T.",
+                    "initial": "C.T.",
+                    "last": "Stier"
+                },
+                {
+                    "first": "Imre",
+                    "initial": "I.",
+                    "last": "Kifor"
+                },
+                {
+                    "first": "Margarita R.",
+                    "initial": "M.R.",
+                    "last": "Ochoa-Maya"
+                },
+                {
+                    "first": "Helmut G.",
+                    "initial": "H.G.",
+                    "last": "Rennke"
+                },
+                {
+                    "first": "Gordon H.",
+                    "initial": "G.H.",
+                    "last": "Williams"
+                },
+                {
+                    "first": "Gail K.",
+                    "initial": "G.K.",
+                    "last": "Adler"
+                }
+            ],
+            "doi": "10.1210/endo.141.10.7711",
+            "firstpage": "3871",
+            "issn": "00137227",
+            "lastpage": "3878",
+            "pmid": "11014244",
+            "pub_year": 2000,
+            "title": "Aldosterone: A mediator of myocardial necrosis and renal arteriopathy",
+            "volume": "141"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Miki",
+                    "initial": "M.",
+                    "last": "Nagase"
+                },
+                {
+                    "first": "Shigetaka",
+                    "initial": "S.",
+                    "last": "Yoshida"
+                },
+                {
+                    "first": "Shigeru",
+                    "initial": "S.",
+                    "last": "Shibata"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Nagase"
+                },
+                {
+                    "first": "Takanari",
+                    "initial": "T.",
+                    "last": "Gotoda"
+                },
+                {
+                    "first": "Katsuyuki",
+                    "initial": "K.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "Toshiro",
+                    "initial": "T.",
+                    "last": "Fujita"
+                }
+            ],
+            "doi": "10.1681/ASN.2006080944",
+            "firstpage": "3438",
+            "issn": "10466673",
+            "lastpage": "3446",
+            "pmid": "17082236",
+            "pub_year": 2006,
+            "title": "Enhanced aldosterone signaling in the early nephropathy of rats with metabolic syndrome: Possible contribution of fat-derived factors",
+            "volume": "17"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Victoria L.M.",
+                    "initial": "V.L.M.",
+                    "last": "Herrera"
+                },
+                {
+                    "first": "Savvas C.",
+                    "initial": "S.C.",
+                    "last": "Makrides"
+                },
+                {
+                    "first": "Hou Xiang",
+                    "initial": "H.X.",
+                    "last": "Xie"
+                },
+                {
+                    "first": "Hedy",
+                    "initial": "H.",
+                    "last": "Adari"
+                },
+                {
+                    "first": "Ronald M.",
+                    "initial": "R.M.",
+                    "last": "Krauss"
+                },
+                {
+                    "first": "Una S.",
+                    "initial": "U.S.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Nelson",
+                    "initial": "N.",
+                    "last": "Ruiz-Opazo"
+                }
+            ],
+            "doi": "10.1038/70956",
+            "firstpage": "1383",
+            "issn": "10788956",
+            "lastpage": "1389",
+            "pmid": "10581080",
+            "pub_year": 1999,
+            "title": "Spontaneous combined hyperlipidemia, coronary heart disease and decreased survival in Dahl salt-sensitive hypertensive rats transgenic for human cholesteryl ester transfer protein",
+            "volume": "5"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Russell"
+                },
+                {
+                    "first": "Sandra E.",
+                    "initial": "S.E.",
+                    "last": "Graham"
+                },
+                {
+                    "first": "Mary",
+                    "initial": "M.",
+                    "last": "Richardson"
+                }
+            ],
+            "doi": "10.1023/A:1006828724405",
+            "firstpage": "113",
+            "issn": "03008177",
+            "lastpage": "126",
+            "pmid": "9823017",
+            "pub_year": 1998,
+            "title": "Cardiovascular disease in the JCR:LA-cp rat",
+            "volume": "188"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Russell"
+                },
+                {
+                    "first": "Spencer D.",
+                    "initial": "S.D.",
+                    "last": "Proctor"
+                }
+            ],
+            "doi": "10.1016/j.carpath.2006.09.001",
+            "firstpage": "318",
+            "issn": "10548807",
+            "lastpage": "330",
+            "pmid": "17113010",
+            "pub_year": 2006,
+            "title": "Small animal models of cardiovascular disease: tools for the study of the roles of metabolic syndrome, dyslipidemia, and atherosclerosis",
+            "volume": "15"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Jesus",
+                    "initial": "J.",
+                    "last": "Egido"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Zaragoza"
+                },
+                {
+                    "first": "Carmen",
+                    "initial": "C.",
+                    "last": "Gomez-Guerrero"
+                },
+                {
+                    "first": "Jose Luis",
+                    "initial": "J.L.",
+                    "last": "Martin-Ventura"
+                },
+                {
+                    "first": "Luis",
+                    "initial": "L.",
+                    "last": "Blanco-Colio"
+                },
+                {
+                    "first": "Begoa",
+                    "initial": "B.",
+                    "last": "Lavin"
+                },
+                {
+                    "first": "Beat",
+                    "initial": "B.",
+                    "last": "Mallavia"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Tarin"
+                },
+                {
+                    "first": "Sebastian",
+                    "initial": "S.",
+                    "last": "Mas"
+                },
+                {
+                    "first": "Alberto",
+                    "initial": "A.",
+                    "last": "Ortiz"
+                }
+            ],
+            "doi": "10.1155/2011/497841",
+            "issn": "11107243",
+            "pmid": "21403831",
+            "pub_year": 2011,
+            "title": "Animal models of cardiovascular diseases",
+            "volume": "2011"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Alan",
+                    "initial": "A.",
+                    "last": "Daugherty"
+                },
+                {
+                    "first": "Lisa A.",
+                    "initial": "L.A.",
+                    "last": "Cassis"
+                }
+            ],
+            "doi": "10.1161/01.ATV.0000118013.72016.ea",
+            "firstpage": "429",
+            "issn": "10795642",
+            "lastpage": "434",
+            "pmid": "14739119",
+            "pub_year": 2004,
+            "title": "Mouse Models of Abdominal Aortic Aneurysms",
+            "volume": "24"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Godfrey S.",
+                    "initial": "G.S.",
+                    "last": "Getz"
+                },
+                {
+                    "first": "Catherine A.",
+                    "initial": "C.A.",
+                    "last": "Reardon"
+                }
+            ],
+            "doi": "10.1161/01.ATV.0000201071.49029.17",
+            "firstpage": "242",
+            "issn": "10795642",
+            "lastpage": "249",
+            "pmid": "16373607",
+            "pub_year": 2006,
+            "title": "Diet and murine atherosclerosis",
+            "volume": "26"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Sharyn M.",
+                    "initial": "S.M.",
+                    "last": "Fitzgerald"
+                },
+                {
+                    "first": "Jeffrey R.",
+                    "initial": "J.R.",
+                    "last": "Henegar"
+                },
+                {
+                    "first": "Michael W.",
+                    "initial": "M.W.",
+                    "last": "Brands"
+                },
+                {
+                    "first": "Lisa K.",
+                    "initial": "L.K.",
+                    "last": "Henegar"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Hall"
+                }
+            ],
+            "doi": "10.1152/ajpregu.2001.281.2.r547",
+            "firstpage": "R547",
+            "issn": "03636119",
+            "lastpage": "R552",
+            "pmid": "11448859",
+            "pub_year": 2001,
+            "title": "Cardiovascular and renal responses to a high-fat diet in Osborne-Mendel rats",
+            "volume": "281"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 17870,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Systolic blood pressure (SBP), endothelial function, and coagulation and platelet aggregation parameters were also evaluated as pathogenic factors in each strain.",
+            "startOffset": 17708,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27380,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 27379,
+                    "startOffset": 27375
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A hyperlipidemia rat model, low density lipoprotein (LDL) receptor mutant rats, harboring the C160S mutation, showed severe hypercholesterolemia and lipid deposition in the aorta when fed HFC-C for 4 months [24].",
+            "startOffset": 27168,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24162,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "OM rats showed significantly lower PRA levels than age-matched F344 rats did at 20 weeks of age (Supplemental Fig. 5C).",
+            "startOffset": 24043,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 29202,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "They also exhibited mild hypertension, hyperlipidemia, decreased endothelial function, anemia, and enhanced coagulation and platelet aggregation, which are shared pathogenic factors of CKD and CVD in human.",
+            "startOffset": 28996,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27790,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Hyperlipidemia appears to be partly associated with CVD events in OM rats.",
+            "startOffset": 27716,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19349,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The overall survival period of male rats was shorter than that of female rats after initiation of the HFC-C feeding (male; 95 \u00b1 17 days (n = 33), female; 160 \u00b1 26 days (n = 30), Mean \u00b1 SD).",
+            "startOffset": 19160,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 27858,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "OM rats showed increased plasma ALD levels, compared with F344 rats.",
+            "startOffset": 27790,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19575,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "70% of the OM rats died with thrombi in the left atrium, 30% of the OM rats died of AAD (Fig. 1B).",
+            "startOffset": 19477,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 26160,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In OM rats, HFC-C exacerbated kidney dysfunction, but not cardiac dysfunction.",
+            "startOffset": 26082,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22059,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "There was no significant difference in the cardiac function (max and mini dP/dp) at 18 weeks of age between CE2-fed rats and HFC-C-fed rats in each strain (Supplemental Fig. 2A and 2B), suggesting that cholate had no effect on cardiac function in OM rats.",
+            "startOffset": 21804,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 26558,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although the OM rats developed aortic lipid deposition, angiography of the aortas suggested that clot formation in tail vessels was not be associated with lipid deposition in the aorta of the OM rats (data not shown).",
+            "startOffset": 26341,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14658,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14657,
+                    "startOffset": 14654
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In human, cardiovascular disease (CVD) is frequently associated with chronic kidney disease (CKD) [1].",
+            "startOffset": 14556,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23868,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "Plasma ALD in OM rats increased with age.",
+            "startOffset": 23827,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 22364,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.6",
+            "sentence": "When fed CE2 diet, OM rats developed renal dysfunction, showing increased kidney weights and urinary albumin excretion, compared with F344 rats (Supplemental Fig. 3A and 3B).",
+            "startOffset": 22190,
+            "title": "Renal dysfunction in OM rats"
+        },
+        {
+            "endOffset": 15079,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However the pathogenesis occurring among these diseases remains poorly understood, and effective treatment strategies have yet to be elucidated fully.",
+            "startOffset": 14929,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16726,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Then we observed that male Osborne-Mendel (OM) rats suddenly died, showing signs of thrombotic and vascular diseases, including thrombosis and necrotic lesions in the tails, and bleeding in the pleural spaces.",
+            "startOffset": 16517,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18359,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "When fed HFC-C for 14 weeks, OM rats suddenly died, showing prominent aortic lipid deposition, left atrial thrombosis, and bleeding in the pleural spaces.",
+            "startOffset": 18205,
+            "title": "Identification of OM rats as an atherosclerosis-prone and a premature-death rat strain"
+        },
+        {
+            "endOffset": 15720,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 15719,
+                    "startOffset": 15716
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In addition, it is possible to obtain larger biological samples from rats than from mice [2].",
+            "startOffset": 15627,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17963,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Materials and methods are available in the online-only Data Supplement.",
+            "startOffset": 17892,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 20753,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Infarcted regions of tails and hind paws were apparent showing changes in skin color and subsequently became necrotic (Fig. 3A and B).",
+            "startOffset": 20619,
+            "title": "Thrombotic occlusion in tails and tissue necrosis in hind paws"
+        },
+        {
+            "endOffset": 25323,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "70% of the OM rats died with thrombi in the left atrium.",
+            "startOffset": 25267,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14928,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "A complex mechanism with numerous etiologies works synergistically to promote each disease.",
+            "startOffset": 14837,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25856,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is suggested that heart failure would be responsible for the death of OM rats when fed HFC-C.",
+            "startOffset": 25760,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20932,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Compared with a control strain, F344 rats fed HFC-C, the surface temperature in the tails of OM rats was regionally lower, indicating the occlusion of the tail vessels (Fig. 3C).",
+            "startOffset": 20754,
+            "title": "Thrombotic occlusion in tails and tissue necrosis in hind paws"
+        },
+        {
+            "endOffset": 16780,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 16779,
+                    "startOffset": 16776
+                }
+            },
+            "secId": "sec1",
+            "sentence": "OM rats have long been used as obesity-prone rats [9].",
+            "startOffset": 16726,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14836,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 14835,
+                    "startOffset": 14832
+                }
+            },
+            "secId": "sec1",
+            "sentence": "A previous study shows that there is a high prevalence of CVD in CKD and that mortality due to CVD is 10\u201330 times higher in dialysis patients than in the general population [1].",
+            "startOffset": 14659,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19476,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "When fed HFC-C, 30% of the OM rats developed PAD, the necrotic lesion in their tails or hind paws, before they died (Fig. 1B).",
+            "startOffset": 19350,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 20618,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Skin necrotic lesions occurred in the tails (27%) and the hind limbs (2%) of all OM rats fed HFC-C.",
+            "startOffset": 20519,
+            "title": "Thrombotic occlusion in tails and tissue necrosis in hind paws"
+        },
+        {
+            "endOffset": 25145,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When fed HFC-C, 30% of the OM rats developed ascending aortic dissection.",
+            "startOffset": 25072,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16989,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 16988,
+                    "startOffset": 16985
+                }
+            },
+            "secId": "sec1",
+            "sentence": "When fed a high-fat diet, they are susceptible to the development of obesity and demonstrate several metabolic abnormalities, including cardiac and renal hypertrophy, hyperglycemia, and hyper-insulinemia [9].",
+            "startOffset": 16781,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28387,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, high plasma ALD level could be associated with cardiac and renal dysfunction in OM rats.",
+            "startOffset": 28293,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26006,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Further studies by electrocardiogram and echocardiogram will be required to determine if heart failure plays a critical role in the death of OM rats.",
+            "startOffset": 25857,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20302,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Macroscopic features of AAD in OM rats fed HFC-C were severe hemorrhage in the pleural spaces and aortic aneurysm (Fig. 2A and B).",
+            "startOffset": 20172,
+            "title": "Aortic aneurysm formation and its rupture in OM rats"
+        },
+        {
+            "endOffset": 24422,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "OM rat showed cardiac and renal dysfunction, mild hypertension, enhanced coagulation and platelet aggregation and decreased endothelial function.",
+            "startOffset": 24277,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24552,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When fed cholesterol-containing diet, OM rats simultaneously developed PAD, left atrium thrombosis, and AAD with 100% penetrance.",
+            "startOffset": 24423,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26081,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "What causes the CVD events in OM rats fed high-cholesterol containing diet?",
+            "startOffset": 26006,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18815,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "During the 150 days follow-up period, when fed HFC-C, all of the male OM rats died of AAD or died with thrombi in the left atrium, whereas all of the male F344 rats survived (Fig. 1A).",
+            "startOffset": 18631,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 17418,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These previous studies indicate that OM rats could be a promising inbred rat strain as a model for simultaneous occurrence of CKD and CVD.",
+            "startOffset": 17280,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22741,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.6",
+            "sentence": "18-week-old HFC-fed OM rats showed lower plasma cholesterol levels than HFC-C-fed OM rats did (HFC-C; 5665 \u00b1 862, HFC; 1884 \u00b1 826 mg/dl, n = 10 in each group, Mean \u00b1 SD).",
+            "startOffset": 22571,
+            "title": "Renal dysfunction in OM rats"
+        },
+        {
+            "endOffset": 25483,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 25482,
+                    "startOffset": 25475
+                },
+                "bib15": {
+                    "endOffset": 25482,
+                    "startOffset": 25475
+                },
+                "bib16": {
+                    "endOffset": 25482,
+                    "startOffset": 25475
+                },
+                "bib17": {
+                    "endOffset": 25482,
+                    "startOffset": 25475
+                },
+                "bib18": {
+                    "endOffset": 25482,
+                    "startOffset": 25475
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Co-occurrence of left atrial thrombi and severe heart failure has been reported in rodents with hypertrophic cardiomyopathy or acute viral myocarditis [14\u201318].",
+            "startOffset": 25324,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20171,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In OM rats when fed HFC-C, aortic aneurysm was observed only in the ascending aorta, not in the abdominal aorta.",
+            "startOffset": 20059,
+            "title": "Aortic aneurysm formation and its rupture in OM rats"
+        },
+        {
+            "endOffset": 27167,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 27166,
+                    "startOffset": 27158
+                },
+                "bib5": {
+                    "endOffset": 27166,
+                    "startOffset": 27158
+                },
+                "bib6": {
+                    "endOffset": 27166,
+                    "startOffset": 27158
+                },
+                "bib7": {
+                    "endOffset": 27166,
+                    "startOffset": 27158
+                },
+                "bib8": {
+                    "endOffset": 27166,
+                    "startOffset": 27158
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Actually, previous studies in animal models for CVD have shown that hypercholesterolemia play an important role in the onset [5\u20138,14].",
+            "startOffset": 27033,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20454,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Histological analysis of H&E and EVG-stained aortic aneurysm in OM rats indicated breakage in the elastin layer and a subsequent false lumen (Fig. 2C).",
+            "startOffset": 20303,
+            "title": "Aortic aneurysm formation and its rupture in OM rats"
+        },
+        {
+            "endOffset": 22916,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.7",
+            "sentence": "In the formation of vascular thrombi, hypercoagulability and platelet aggregation are known to play important roles.",
+            "startOffset": 22800,
+            "title": "Enhanced coagulation and platelet aggregation in OM rats"
+        },
+        {
+            "endOffset": 25266,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It is evident that OM rats die of massive bleeding in the pleural spaces due to rapture of the thoracic aortic aneurysm.",
+            "startOffset": 25146,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28995,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The present study revealed that OM rats would be a new simultaneous occurrence model which spontaneously develops cardiac and renal dysfunction, and CVD including left atrial thrombosis, peripheral artery occlusion, aortic aneurysm, and ascending aortic dissection.",
+            "startOffset": 28730,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23135,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.7",
+            "sentence": "OM rats showed significant prolongation of APTT, compared with F344 rats.",
+            "startOffset": 23062,
+            "title": "Enhanced coagulation and platelet aggregation in OM rats"
+        },
+        {
+            "endOffset": 24042,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "PRA levels in OM rats decreased with age.",
+            "startOffset": 24001,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 28730,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, adrenal adenoma and adrenal gland hyperplasia, which are characteristic for primary aldosteronism, were not observed in OM rats (data not shown).",
+            "startOffset": 28576,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28292,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 28143,
+                    "startOffset": 28136
+                },
+                "bib26": {
+                    "endOffset": 28143,
+                    "startOffset": 28136
+                },
+                "bib27": {
+                    "endOffset": 28291,
+                    "startOffset": 28287
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Actually, previous studies demonstrated that ALD binds to the MR expressed and induces inflammation and fibrosis in the heart [25,26], and that in the kidney, ALD has been shown to mediate glomerular podocyte injury followed by proteinuria in a rat model of metabolic syndrome [27].",
+            "startOffset": 28010,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28575,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This observation indicates that OM rats could be an animal model for primary aldosteronism.",
+            "startOffset": 28484,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19712,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To examine the effect of dietary cholate on the onsets and the survival period in OM rats, OM rats were fed HFC (HFC-C without cholate).",
+            "startOffset": 19576,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 29277,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However the precise mechanism responsible for the onsets is still unclear.",
+            "startOffset": 29203,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29762,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+            "startOffset": 29638,
+            "title": "Sources of funding"
+        },
+        {
+            "endOffset": 23826,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "There was no significant difference in SBP between the CE2-fed group and the HFC-C-fed group in OM rats (Supplemental Fig. 5A).",
+            "startOffset": 23699,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 28483,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "There is a clear inverse correlation between PRA and plasma ALD levels in hypertensive OM rats.",
+            "startOffset": 28388,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26340,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In OM rats, severe kidney dysfunction subsequently caused severe hyperlipidemia, which is one of the best validated risk factors for CVD, provoking aortic atherosclerosis lesions.",
+            "startOffset": 26161,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27032,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 26990,
+                    "startOffset": 26983
+                },
+                "bib21": {
+                    "endOffset": 26990,
+                    "startOffset": 26983
+                },
+                "bib22": {
+                    "endOffset": 26990,
+                    "startOffset": 26983
+                },
+                "bib23": {
+                    "endOffset": 27031,
+                    "startOffset": 27027
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In addition to the promotion of atherosclerosis, hyperlipidemia in itself has pleiotropic effects on the vascular biology, increased viscosity of the blood [20\u201322], and decreased endothelial function [23].",
+            "startOffset": 26827,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23617,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.8",
+            "sentence": "Endothelium-independent relaxation in response to sodium nitroprusside was significantly attenuated in OM rats compared with F344 rats (Supplemental Fig. 4B).",
+            "startOffset": 23459,
+            "title": "Attenuated endothelium-dependent and independent relaxations in OM rats"
+        },
+        {
+            "endOffset": 25759,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The presence of heart failure in OM rats was also indicated by the decline in left ventricular dilation and ventricular contraction, pulmonary congestion, pleural effusion, atrial thrombus, anemia, and decreased heart rates, which are typical signs of heart failure in human.",
+            "startOffset": 25484,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21056,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Histological analysis of MSB-stained vessels in the OM rats indicated the complete occlusive fibrin-rich thrombi (Fig. 3D).",
+            "startOffset": 20933,
+            "title": "Thrombotic occlusion in tails and tissue necrosis in hind paws"
+        },
+        {
+            "endOffset": 16516,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study, we induced hypercholesterolemia in 16 inbred rat strains by feeding a high-fat, high-cholesterol and cholate-containing diet (HFC-C), to identify inbred rat strains, which were susceptible to atherosclerosis and CVD.",
+            "startOffset": 16278,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22159,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "18-week-old OM rats also showed high incidences of pleural effusion (7/8), F344 rats did not (0/8).",
+            "startOffset": 22060,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 21182,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Massive thrombi were observed within the left atria of the OM rats fed HFC-C (Fig. 4A and B).",
+            "startOffset": 21089,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 24000,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "Compared with F344 rats, OM rats showed significantly increased plasma ALD levels at 14 and 18 weeks of age (Supplemental Fig. 5B).",
+            "startOffset": 23869,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 28009,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "ALD and mineralocorticoid receptor (MR) activation have been shown to play an important role in the pathogenesis of cardiovascular and renal diseases.",
+            "startOffset": 27859,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29620,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, OM rats could be useful for preclinical testing of pharmacological therapies for CVD patients with CKD and could provide new insight into potential mechanisms and pathways in the development of this complication.",
+            "startOffset": 29393,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18615,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Although the rats were fed HFC-C for 30 weeks, ACI, BN, DA, F344, LEW, PVG, WBN, and SHR rats showed slight atherosclerotic lesions in their aorta and Dahl R, FH, GK, LEA, WKAH, and WKY rats showed no lipid deposition in their aorta (Supplemental Fig. 1).",
+            "startOffset": 18360,
+            "title": "Identification of OM rats as an atherosclerosis-prone and a premature-death rat strain"
+        },
+        {
+            "endOffset": 23458,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.8",
+            "sentence": "The endothelium-dependent relaxations in response to acetylcholine were significantly attenuated in OM rats, compared with F344 rats (Supplemental Fig. 4A).",
+            "startOffset": 23302,
+            "title": "Attenuated endothelium-dependent and independent relaxations in OM rats"
+        },
+        {
+            "endOffset": 16022,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 15943,
+                    "startOffset": 15938
+                },
+                "bib4": {
+                    "endOffset": 15943,
+                    "startOffset": 15938
+                },
+                "bib5": {
+                    "endOffset": 16021,
+                    "startOffset": 16018
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although Dahl salt-sensitive, hypertensive rats expressing human cholesteryl ester transfer protein and JCR:LA-corpulent rats spontaneously produce thrombi in their coronary arteries and develop myocardial infarction [3,4], most strains of rats are relatively resistant to atherosclerosis and CVD [5].",
+            "startOffset": 15721,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17707,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, to establish OM rats as a novel simultaneous occurrence model for CKD and CVD, cardiac and renal functions were evaluated in OM rats and F344 rats, a control strain, and the survival rate and the cumulative incidence rate of thrombotic and vascular diseases were determined.",
+            "startOffset": 17418,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21803,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "When fed HFC-C, cardiac function in the18-week-old OM rats showed a tendency to decrease, compared with that in the 14-week-old OM rats (Fig. 4D and E).",
+            "startOffset": 21651,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 27581,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although HFC-fed OM rats showed lower plasma cholesterol levels than those of LDL-receptor mutant rats, they developed signs of CVD when fed HFC for 4 months, whereas LDL-receptor mutant rats did not.",
+            "startOffset": 27381,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21559,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Hemodynamic analyses revealed that OM rats had significantly lower max dP/dt and higher min dP/dt than F344 rats did at each age, indicating impaired left ventricle contractility and relaxation in OM rats (Fig. 4D and E).",
+            "startOffset": 21338,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 22570,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.6",
+            "sentence": "In addition, HFC-C exacerbated kidney dysfunction in the OM rats and subsequently induced nephritic phenotypes, severe hyperlipidemia (Supplemental Fig. 3C and 3D) and anemia (Supplemental Fig. 3E and 3F).",
+            "startOffset": 22365,
+            "title": "Renal dysfunction in OM rats"
+        },
+        {
+            "endOffset": 17279,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 17278,
+                    "startOffset": 17274
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Lacunar stroke due to multiple cerebrovascular thromboses is observed in rats which are produced by crossbreeding between SHRSP and OM rats [12].",
+            "startOffset": 17134,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21650,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The heart rates of the OM rats were significantly lower than those of F344 rats (Fig. 4F).",
+            "startOffset": 21560,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 16277,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 16276,
+                    "startOffset": 16271
+                },
+                "bib6": {
+                    "endOffset": 16276,
+                    "startOffset": 16271
+                },
+                "bib7": {
+                    "endOffset": 16276,
+                    "startOffset": 16271
+                },
+                "bib8": {
+                    "endOffset": 16276,
+                    "startOffset": 16271
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Several studies in animal models for CVD suggest that the induction of persistent hypercholesterolemia by genetic modification and/or diet would be required for the development and the acceleration of experimental atherosclerosis and CVD in rodents [5\u20138].",
+            "startOffset": 16022,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18204,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We identified OM rats as an atherosclerosis-prone and a premature-death rat strain among male 16 inbred rat strains when fed HFC-C for 30 weeks.",
+            "startOffset": 18060,
+            "title": "Identification of OM rats as an atherosclerosis-prone and a premature-death rat strain"
+        },
+        {
+            "endOffset": 23228,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.7",
+            "sentence": "However, there was no significant prolongation of PT between 2 strains (Supplemental Table).",
+            "startOffset": 23136,
+            "title": "Enhanced coagulation and platelet aggregation in OM rats"
+        },
+        {
+            "endOffset": 25072,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "OM rats show these symptoms only by feeding cholesterol-containing diet without surgical and chemical induction, and genetic modification.",
+            "startOffset": 24934,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26705,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 26704,
+                    "startOffset": 26700
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In addition, a previous study has reported that there is no clear link between aortic aneurysm formation and atherosclerotic lesions in mice [19].",
+            "startOffset": 26559,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29393,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus the further studies are required to reveal the pathogenesis and the genetic background of diseases in OM rats.",
+            "startOffset": 29278,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27715,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This result suggested that the onsets of thrombotic and aortic dissections in OM rats could not be explained by hyperlipidemia alone.",
+            "startOffset": 27582,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19159,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "A sex difference in the onset was also apparent in the OM rats.",
+            "startOffset": 19096,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 15300,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The development and validation of new therapeutic approaches to treat these diseases will require appropriate spontaneous experimental rodent models that reflect the complexity of the underlying pathophysiology in human.",
+            "startOffset": 15080,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21337,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Histological study of the MSB-stained heart of the rats also indicated fibrin-rich occlusive thrombi in the left atria of the OM rats fed HFC-C (Fig. 4C).",
+            "startOffset": 21183,
+            "title": "Cardiac dysfunction in OM rats"
+        },
+        {
+            "endOffset": 23061,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.7",
+            "sentence": "OM rats also showed significantly more enhanced collagen- and ADP-induced platelet aggregation respectively than F344 rats (Supplemental Table).",
+            "startOffset": 22917,
+            "title": "Enhanced coagulation and platelet aggregation in OM rats"
+        },
+        {
+            "endOffset": 23698,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.9",
+            "sentence": "SBP in OM rats increased with age.",
+            "startOffset": 23664,
+            "title": "SBP, plasma renin activity (PRA), plasma ALD"
+        },
+        {
+            "endOffset": 17133,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17097,
+                    "startOffset": 17093
+                },
+                "bib11": {
+                    "endOffset": 17132,
+                    "startOffset": 17128
+                }
+            },
+            "secId": "sec1",
+            "sentence": "OM rats also develop early-onset proteinuria with glomerular hypertrophy and progressive podocytopathy [10], exhibiting mild hypertension [11].",
+            "startOffset": 16990,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24933,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 24669,
+                    "startOffset": 24665
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Although co-occurrence of CKD and CVD has been only reported in mice lacking all nitric oxide synthase isoforms [13], to our knowledge, OM rats would be the first spontaneous animal model which simultaneously demonstrates kidney dysfunction and CVD events, including cardiac dysfunction, aortic aneurysm, aortic dissection, left atrial thrombosis, and peripheral artery occlusion.",
+            "startOffset": 24553,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26827,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, it is suggested that the increased atherosclerotic lesions in OM rats could not play a critical role in the onsets.",
+            "startOffset": 26706,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15626,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In particular, rat species have been widely used for various physiological studies because they are large enough to allow evaluations of their cardiovascular and renal function.",
+            "startOffset": 15449,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19095,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Before death, most of the male OM rats exhibited a 1-day period of prominent reduced activity and labored breathing.",
+            "startOffset": 18979,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 20004,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Although the overall survival period of HFC-fed OM rats was more prolonged than that of HFC-C-fed OM rats (Mean survival feeding period, HFC; 118 \u00b1 18 days (n = 9), HFC-C; 95 \u00b1 17days (n = 33), Mean \u00b1 SD), HFC-fed OM rats, developed AAD and thrombotic diseases, as well as HFC-C-fed OM rats.",
+            "startOffset": 19713,
+            "title": "Survival rate"
+        },
+        {
+            "endOffset": 24276,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we report the potential of OM rats as a new simultaneous onset rat model of CKD and CVD.",
+            "startOffset": 24173,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15448,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Rodent models are useful for the development of pharmacological therapies and the research on new insight into the potential mechanisms of diseases.",
+            "startOffset": 15300,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18978,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "When fed normal chow diet, both OM and F344 rats were apparently healthy with no feature of cardiovascular diseases and survived during the test period (Fig. 1A).",
+            "startOffset": 18816,
+            "title": "Survival rate"
+        }
+    ],
+    "docId": "S0006291X17300815",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "makoto.asahina@takeda.com",
+                "first": "Makoto",
+                "initial": "M.",
+                "last": "Asahina"
+            },
+            {
+                "email": null,
+                "first": "Hideki",
+                "initial": "H.",
+                "last": "Matsumoto"
+            },
+            {
+                "email": null,
+                "first": "Yoshitaka",
+                "initial": "Y.",
+                "last": "Yasuhara"
+            },
+            {
+                "email": null,
+                "first": "Noriko",
+                "initial": "N.",
+                "last": "Suzuki"
+            },
+            {
+                "email": null,
+                "first": "Ritsuko",
+                "initial": "R.",
+                "last": "Takami"
+            },
+            {
+                "email": null,
+                "first": "Michiyasu",
+                "initial": "M.",
+                "last": "Takeyama"
+            },
+            {
+                "email": null,
+                "first": "Ryuichi",
+                "initial": "R.",
+                "last": "Tozawa"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.01.049",
+        "firstpage": "550",
+        "issn": "0006291X",
+        "keywords": [
+            "Animal model",
+            "Cardiovascular diseases",
+            "Osborne-Mendel rat"
+        ],
+        "lastpage": "555",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Osborne-Mendel rats simultaneously develop cardiac and renal dysfunction, left atrial thrombosis, peripheral artery occlusion, and ascending aortic dissection"
+    }
+}

@@ -1,0 +1,2035 @@
+{
+    "abstract": "It is believed that growth of castration resistant prostate cancer (CRPC) cells is enabled by sensitization to minimal residual post-castrate androgen due to overexpression of the androgen receptor (AR). Evidence is derived from androgen-induced colony formation in the absence of cell-secreted factors or from studies involving forced AR overexpression in hormone-dependent cells. On the other hand, standard cell line models established from CRPC patient tumors (e.g.; LNCaP and VCaP) are hormone-dependent and require selection pressure in castrated mice to re-emerge as CRPC cells and the resulting tumors then tend to be insensitive to the androgen antagonist enzalutamide. Therefore, we examined established CRPC model cells produced by castration of mice bearing hormone-dependent cell line xenografts including CRPC cells overexpressing full-length AR (C4-2) or co-expressing wtAR and splice-variant AR-V7 that is incapable of ligand binding (22Rv1). In standard colony formation assays, C4-2 cells were shown to be androgen-dependent and sensitive to enzalutamide whereas 22Rv1 cells were incapable of colony formation under identical conditions. However, both C4-2 and 22Rv1 cells formed colonies in conditioned media derived from the same cells or from HEK293 fibroblasts that were proven to lack androgenic activity. This effect was (i) not enhanced by androgen, (ii) insensitive to enzalutamide, (iii) dependent on AR (in C4-2) and on AR-V7 and wtAR (in 22Rv1) and (iv) sensitive to inhibitors of several signaling pathways, similar to androgen-stimulation. Therefore, during progression to CRPC in vivo, coordinate cellular changes accompanying overexpression of AR may enable cooperation between hormone-independent activity of AR and actions of cellular secretory factors to completely override androgen-dependence and sensitivity to drugs targeting hormonal factors.",
+    "author_highlights": [
+        {
+            "endOffset": 12416,
+            "sentence": "Androgen-dependence of CRPC is shown by forced AR overexpression or in isolation from the cellular secretory complement.",
+            "startOffset": 12296
+        },
+        {
+            "endOffset": 12539,
+            "sentence": "Well established in vivo generated CRPC model cells did not need androgen when the cellular secretory milieu was restored.",
+            "startOffset": 12417
+        },
+        {
+            "endOffset": 12658,
+            "sentence": "This may contribute to the limited efficacy of androgen synthesis inhibitors and high affinity AR antagonists in CRPC.",
+            "startOffset": 12540
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Changmeng",
+                    "initial": "C.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Sen",
+                    "initial": "S.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Ng"
+                },
+                {
+                    "first": "Glenn J.",
+                    "initial": "G.J.",
+                    "last": "Bubley"
+                },
+                {
+                    "first": "Peter S.",
+                    "initial": "P.S.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Elahe A.",
+                    "initial": "E.A.",
+                    "last": "Mostaghel"
+                },
+                {
+                    "first": "Brett",
+                    "initial": "B.",
+                    "last": "Marck"
+                },
+                {
+                    "first": "Alvin M.",
+                    "initial": "A.M.",
+                    "last": "Matsumoto"
+                },
+                {
+                    "first": "Nicholas I.",
+                    "initial": "N.I.",
+                    "last": "Simon"
+                },
+                {
+                    "first": "Hongyun",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Shaoyong",
+                    "initial": "S.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Steven P.",
+                    "initial": "S.P.",
+                    "last": "Balk"
+                }
+            ],
+            "doi": "10.1158/0008-5472.CAN-11-0532",
+            "firstpage": "6503",
+            "issn": "00085472",
+            "lastpage": "6513",
+            "pmid": "21868758",
+            "pub_year": 2011,
+            "title": "Intratumoral De Novo steroid synthesis activates androgen receptor in castration-resistant prostate cancer and is upregulated by treatment with CYP17A1 inhibitors",
+            "volume": "71"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Karim",
+                    "initial": "K.",
+                    "last": "Fizazi"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "Stephane",
+                    "initial": "S.",
+                    "last": "Oudard"
+                },
+                {
+                    "first": "Eleni",
+                    "initial": "E.",
+                    "last": "Efstathiou"
+                },
+                {
+                    "first": "Fred",
+                    "initial": "F.",
+                    "last": "Saad"
+                },
+                {
+                    "first": "Ronald",
+                    "initial": "R.",
+                    "last": "De Wit"
+                },
+                {
+                    "first": "Johann",
+                    "initial": "J.",
+                    "last": "De Bono"
+                },
+                {
+                    "first": "Felipe Melo",
+                    "initial": "F.M.",
+                    "last": "Cruz"
+                },
+                {
+                    "first": "George",
+                    "initial": "G.",
+                    "last": "Fountzilas"
+                },
+                {
+                    "first": "Albertas",
+                    "initial": "A.",
+                    "last": "Ulys"
+                },
+                {
+                    "first": "Flavio",
+                    "initial": "F.",
+                    "last": "Carcano"
+                },
+                {
+                    "first": "Neeraj",
+                    "initial": "N.",
+                    "last": "Agarwal"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Agus"
+                },
+                {
+                    "first": "Joaquim",
+                    "initial": "J.",
+                    "last": "Bellmunt"
+                },
+                {
+                    "first": "Daniel P.",
+                    "initial": "D.P.",
+                    "last": "Petrylak"
+                },
+                {
+                    "first": "Shih Yuan",
+                    "initial": "S.Y.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Iain J.",
+                    "initial": "I.J.",
+                    "last": "Webb"
+                },
+                {
+                    "first": "Bindu",
+                    "initial": "B.",
+                    "last": "Tejura"
+                },
+                {
+                    "first": "Niels",
+                    "initial": "N.",
+                    "last": "Borgstein"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Dreicer"
+                }
+            ],
+            "doi": "10.1200/JCO.2014.56.5119",
+            "firstpage": "723",
+            "issn": "0732183X",
+            "lastpage": "731",
+            "pmid": "25624429",
+            "pub_year": 2015,
+            "title": "Phase III, randomized, double-blind, multicenter trial comparing orteronel (TAK-700) plus prednisone with placebo plus prednisone in patients with metastatic castration-resistant prostate cancer that has progressed during or after docetaxel-based therapy: ELM-PC 5",
+            "volume": "33"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Nicola J.",
+                    "initial": "N.J.",
+                    "last": "Clegg"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Wongvipat"
+                },
+                {
+                    "first": "James D.",
+                    "initial": "J.D.",
+                    "last": "Joseph"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Samedy",
+                    "initial": "S.",
+                    "last": "Ouk"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Dilhas"
+                },
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Kate",
+                    "initial": "K.",
+                    "last": "Grillot"
+                },
+                {
+                    "first": "Eric D.",
+                    "initial": "E.D.",
+                    "last": "Bischoff"
+                },
+                {
+                    "first": "Ling",
+                    "initial": "L.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Aparicio"
+                },
+                {
+                    "first": "Steven",
+                    "initial": "S.",
+                    "last": "Dorow"
+                },
+                {
+                    "first": "Vivek",
+                    "initial": "V.",
+                    "last": "Arora"
+                },
+                {
+                    "first": "Gang",
+                    "initial": "G.",
+                    "last": "Shao"
+                },
+                {
+                    "first": "Jing",
+                    "initial": "J.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Hong",
+                    "initial": "H.",
+                    "last": "Zhao"
+                },
+                {
+                    "first": "Guangbin",
+                    "initial": "G.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Chunyan",
+                    "initial": "C.",
+                    "last": "Cao"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Sensintaffar"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Wasielewska"
+                },
+                {
+                    "first": "Mark R.",
+                    "initial": "M.R.",
+                    "last": "Herbert"
+                },
+                {
+                    "first": "Celine",
+                    "initial": "C.",
+                    "last": "Bonnefous"
+                },
+                {
+                    "first": "Beatrice",
+                    "initial": "B.",
+                    "last": "Darimont"
+                },
+                {
+                    "first": "Howard I.",
+                    "initial": "H.I.",
+                    "last": "Scher"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Smith-Jones"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Klang"
+                },
+                {
+                    "first": "Nicholas D.",
+                    "initial": "N.D.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Elisa",
+                    "initial": "E.",
+                    "last": "De Stanchina"
+                },
+                {
+                    "first": "Nian",
+                    "initial": "N.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Ouathek",
+                    "initial": "O.",
+                    "last": "Ouerfelli"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Rix"
+                },
+                {
+                    "first": "Richard A.",
+                    "initial": "R.A.",
+                    "last": "Heyman"
+                },
+                {
+                    "first": "Michael E.",
+                    "initial": "M.E.",
+                    "last": "Jung"
+                },
+                {
+                    "first": "Charles L.",
+                    "initial": "C.L.",
+                    "last": "Sawyers"
+                },
+                {
+                    "first": "Jeffrey H.",
+                    "initial": "J.H.",
+                    "last": "Hager"
+                }
+            ],
+            "doi": "10.1158/0008-5472.CAN-11-3948",
+            "firstpage": "1494",
+            "issn": "00085472",
+            "lastpage": "1503",
+            "pmid": "22266222",
+            "pub_year": 2012,
+            "title": "ARN-509: A novel antiandrogen for prostate cancer treatment",
+            "volume": "72"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Junjian",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "June X.",
+                    "initial": "J.X.",
+                    "last": "Zou"
+                },
+                {
+                    "first": "Xiaoqian",
+                    "initial": "X.",
+                    "last": "Xue"
+                },
+                {
+                    "first": "Demin",
+                    "initial": "D.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Yan",
+                    "initial": "Y.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Zhijian",
+                    "initial": "Z.",
+                    "last": "Duan"
+                },
+                {
+                    "first": "Qiuping",
+                    "initial": "Q.",
+                    "last": "Xiang"
+                },
+                {
+                    "first": "Joy C.",
+                    "initial": "J.C.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Maggie C.",
+                    "initial": "M.C.",
+                    "last": "Louie"
+                },
+                {
+                    "first": "Alexander D.",
+                    "initial": "A.D.",
+                    "last": "Borowsky"
+                },
+                {
+                    "first": "Allen C.",
+                    "initial": "A.C.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Christopher P.",
+                    "initial": "C.P.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Kit S.",
+                    "initial": "K.S.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "Jianzhen",
+                    "initial": "J.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Hsing Jien",
+                    "initial": "H.J.",
+                    "last": "Kung"
+                },
+                {
+                    "first": "Ronald M.",
+                    "initial": "R.M.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Yong",
+                    "initial": "Y.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Hong Wu",
+                    "initial": "H.W.",
+                    "last": "Chen"
+                }
+            ],
+            "doi": "10.1038/nm.4070",
+            "firstpage": "488",
+            "issn": "10788956",
+            "lastpage": "496",
+            "pmid": "27019329",
+            "pub_year": 2016,
+            "title": "ROR-\u03b3 drives androgen receptor expression and represents a therapeutic target in castration-resistant prostate cancer",
+            "volume": "22"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Javier",
+                    "initial": "J.",
+                    "last": "Guerrero"
+                },
+                {
+                    "first": "Iv\u00e1n E.",
+                    "initial": "I.E.",
+                    "last": "Alfaro"
+                },
+                {
+                    "first": "Francisco",
+                    "initial": "F.",
+                    "last": "G\u00f3mez"
+                },
+                {
+                    "first": "Andrew A.",
+                    "initial": "A.A.",
+                    "last": "Protter"
+                },
+                {
+                    "first": "Sebasti\u00e1n",
+                    "initial": "S.",
+                    "last": "Bernales"
+                }
+            ],
+            "doi": "10.1002/pros.22674",
+            "firstpage": "1291",
+            "issn": "02704137",
+            "lastpage": "1305",
+            "pmid": "23765603",
+            "pub_year": 2013,
+            "title": "Enzalutamide, an androgen receptor signaling inhibitor, induces tumor regression in a mouse model of castration-resistant prostate cancer",
+            "volume": "73"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Samedy",
+                    "initial": "S.",
+                    "last": "Ouk"
+                },
+                {
+                    "first": "Nicola J.",
+                    "initial": "N.J.",
+                    "last": "Clegg"
+                },
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Philip A.",
+                    "initial": "P.A.",
+                    "last": "Watson"
+                },
+                {
+                    "first": "Vivek",
+                    "initial": "V.",
+                    "last": "Arora"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Wongvipat"
+                },
+                {
+                    "first": "Peter M.",
+                    "initial": "P.M.",
+                    "last": "Smith-Jones"
+                },
+                {
+                    "first": "Dongwon",
+                    "initial": "D.",
+                    "last": "Yoo"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Kwon"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Wasielewska"
+                },
+                {
+                    "first": "Derek",
+                    "initial": "D.",
+                    "last": "Welsbie"
+                },
+                {
+                    "first": "Charlie Degui",
+                    "initial": "C.D.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Celestia S.",
+                    "initial": "C.S.",
+                    "last": "Higano"
+                },
+                {
+                    "first": "Tomasz M.",
+                    "initial": "T.M.",
+                    "last": "Beer"
+                },
+                {
+                    "first": "David T.",
+                    "initial": "D.T.",
+                    "last": "Hung"
+                },
+                {
+                    "first": "Howard I.",
+                    "initial": "H.I.",
+                    "last": "Scher"
+                },
+                {
+                    "first": "Michael E.",
+                    "initial": "M.E.",
+                    "last": "Jung"
+                },
+                {
+                    "first": "Charles L.",
+                    "initial": "C.L.",
+                    "last": "Sawyers"
+                }
+            ],
+            "doi": "10.1126/science.1168175",
+            "firstpage": "787",
+            "issn": "00368075",
+            "lastpage": "790",
+            "pmid": "19359544",
+            "pub_year": 2009,
+            "title": "Development of a second-generation antiandrogen for treatment of advanced prostate cancer",
+            "volume": "324"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Philip A.",
+                    "initial": "P.A.",
+                    "last": "Watson"
+                },
+                {
+                    "first": "Yinan F.",
+                    "initial": "Y.F.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Minna D.",
+                    "initial": "M.D.",
+                    "last": "Balbas"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Wongvipat"
+                },
+                {
+                    "first": "Nicholas D.",
+                    "initial": "N.D.",
+                    "last": "Socci"
+                },
+                {
+                    "first": "Agnes",
+                    "initial": "A.",
+                    "last": "Viale"
+                },
+                {
+                    "first": "Kwanghee",
+                    "initial": "K.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Charles L.",
+                    "initial": "C.L.",
+                    "last": "Sawyers"
+                }
+            ],
+            "doi": "10.1073/pnas.1012443107",
+            "firstpage": "16759",
+            "issn": "00278424",
+            "lastpage": "16765",
+            "pmid": "20823238",
+            "pub_year": 2010,
+            "title": "Constitutively active androgen receptor splice variants expressed in castration-resistant prostate cancer require full-length androgen receptor",
+            "volume": "107"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Mugdha",
+                    "initial": "M.",
+                    "last": "Patki"
+                },
+                {
+                    "first": "Venkatesh",
+                    "initial": "V.",
+                    "last": "Chari"
+                },
+                {
+                    "first": "Suneethi",
+                    "initial": "S.",
+                    "last": "Sivakumaran"
+                },
+                {
+                    "first": "Mesfin",
+                    "initial": "M.",
+                    "last": "Gonit"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Trumbly"
+                },
+                {
+                    "first": "Manohar",
+                    "initial": "M.",
+                    "last": "Ratnam"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.438473",
+            "firstpage": "11047",
+            "issn": "00219258",
+            "lastpage": "11065",
+            "pmid": "23426362",
+            "pub_year": 2013,
+            "title": "The ETS domain transcription factor ELK1 directs a critical component of growth signaling by the androgen receptor in prostate cancer cells",
+            "volume": "288"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Korenchuk"
+                },
+                {
+                    "first": "J. E.",
+                    "initial": "J.E.",
+                    "last": "Lehr"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "McLean"
+                },
+                {
+                    "first": "Y. G.",
+                    "initial": "Y.G.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Whitney"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Vessella"
+                },
+                {
+                    "first": "D. L.",
+                    "initial": "D.L.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "K. J.",
+                    "initial": "K.J.",
+                    "last": "Pienta"
+                }
+            ],
+            "firstpage": "163",
+            "issn": "0258851X",
+            "lastpage": "168",
+            "pmid": "11317522",
+            "pub_year": 2001,
+            "title": "VCaP, a cell-based model system of human prostate cancer",
+            "volume": "15"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "George N.",
+                    "initial": "G.N.",
+                    "last": "Thalmann"
+                },
+                {
+                    "first": "Ploutarchos E.",
+                    "initial": "P.E.",
+                    "last": "Anezinis"
+                },
+                {
+                    "first": "Shi Ming",
+                    "initial": "S.M.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Haiyen E.",
+                    "initial": "H.E.",
+                    "last": "Zhau"
+                },
+                {
+                    "first": "E. Edmund",
+                    "initial": "E.E.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Vicki L.",
+                    "initial": "V.L.",
+                    "last": "Hopwood"
+                },
+                {
+                    "first": "Sen",
+                    "initial": "S.",
+                    "last": "Pathak"
+                },
+                {
+                    "first": "Andrew C.",
+                    "initial": "A.C.",
+                    "last": "von Eschenbach"
+                },
+                {
+                    "first": "Leland W.K.",
+                    "initial": "L.W.K.",
+                    "last": "Chung"
+                }
+            ],
+            "firstpage": "2577",
+            "issn": "00085472",
+            "lastpage": "2581",
+            "pmid": "8168083",
+            "pub_year": 1994,
+            "title": "Androgen-independent Cancer Progression and Bone Metastasis in the LNCaP Model of Human Prostate Cancer",
+            "volume": "54"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "R. Michael",
+                    "initial": "R.M.",
+                    "last": "Sramkoski"
+                },
+                {
+                    "first": "Thomas G.",
+                    "initial": "T.G.",
+                    "last": "Pretlow"
+                },
+                {
+                    "first": "Joseph M.",
+                    "initial": "J.M.",
+                    "last": "Giaconia"
+                },
+                {
+                    "first": "Theresa P.",
+                    "initial": "T.P.",
+                    "last": "Pretlow"
+                },
+                {
+                    "first": "Stuart",
+                    "initial": "S.",
+                    "last": "Schwartz"
+                },
+                {
+                    "first": "Man Sun",
+                    "initial": "M.S.",
+                    "last": "Sy"
+                },
+                {
+                    "first": "Susan R.",
+                    "initial": "S.R.",
+                    "last": "Marengo"
+                },
+                {
+                    "first": "Johng S.",
+                    "initial": "J.S.",
+                    "last": "Rhim"
+                },
+                {
+                    "first": "Desheng",
+                    "initial": "D.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Jacobberger"
+                }
+            ],
+            "doi": "10.1007/s11626-999-0115-4",
+            "firstpage": "403",
+            "issn": "10712690",
+            "lastpage": "409",
+            "pmid": "10462204",
+            "pub_year": 1999,
+            "title": "A new human prostate carcinoma cell line, 22Rv1",
+            "volume": "35"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Julius S.",
+                    "initial": "J.S.",
+                    "last": "Horoszewicz"
+                },
+                {
+                    "first": "Susan S.",
+                    "initial": "S.S.",
+                    "last": "Leong"
+                },
+                {
+                    "first": "Elzbieta",
+                    "initial": "E.",
+                    "last": "Kawinski"
+                },
+                {
+                    "first": "Edwin A.",
+                    "initial": "E.A.",
+                    "last": "Mirand"
+                }
+            ],
+            "firstpage": "1809",
+            "issn": "00085472",
+            "lastpage": "1818",
+            "pmid": "6831420",
+            "pub_year": 1983,
+            "title": "Lncap model of human prostatic carcinoma",
+            "volume": "43"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Christopher W.",
+                    "initial": "C.W.",
+                    "last": "Gregory"
+                },
+                {
+                    "first": "Raymond T.",
+                    "initial": "R.T.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "James L.",
+                    "initial": "J.L.",
+                    "last": "Mohler"
+                },
+                {
+                    "first": "Frank S.",
+                    "initial": "F.S.",
+                    "last": "French"
+                },
+                {
+                    "first": "Elizabeth M.",
+                    "initial": "E.M.",
+                    "last": "Wilson"
+                }
+            ],
+            "firstpage": "2892",
+            "issn": "00085472",
+            "lastpage": "2898",
+            "pmid": "11306464",
+            "pub_year": 2001,
+            "title": "Androgen receptor stabilization in recurrent prostate cancer is associated with hypersensitivity to low androgen",
+            "volume": "61"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Charlie D.",
+                    "initial": "C.D.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Derek S.",
+                    "initial": "D.S.",
+                    "last": "Welsbie"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Sung Hee",
+                    "initial": "S.H.",
+                    "last": "Baek"
+                },
+                {
+                    "first": "Randy",
+                    "initial": "R.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Vessella"
+                },
+                {
+                    "first": "Michael G.",
+                    "initial": "M.G.",
+                    "last": "Rosenfeld"
+                },
+                {
+                    "first": "Charles L.",
+                    "initial": "C.L.",
+                    "last": "Sawyers"
+                }
+            ],
+            "doi": "10.1038/nm972",
+            "firstpage": "33",
+            "issn": "10788956",
+            "lastpage": "39",
+            "pmid": "14702632",
+            "pub_year": 2004,
+            "title": "Molecular determinants of resistance to antiandrogen therapy",
+            "volume": "10"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Alfonso",
+                    "initial": "A.",
+                    "last": "Urbanucci"
+                },
+                {
+                    "first": "Saara",
+                    "initial": "S.",
+                    "last": "Marttila"
+                },
+                {
+                    "first": "Olli A.",
+                    "initial": "O.A.",
+                    "last": "J\u00e4nne"
+                },
+                {
+                    "first": "Tapio",
+                    "initial": "T.",
+                    "last": "Visakorpi"
+                }
+            ],
+            "doi": "10.1002/pros.22473",
+            "firstpage": "1223",
+            "issn": "02704137",
+            "lastpage": "1232",
+            "pmid": "22212979",
+            "pub_year": 2012,
+            "title": "Androgen receptor overexpression alters binding dynamics of the receptor to chromatin and chromatin structure",
+            "volume": "72"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Kristin R.",
+                    "initial": "K.R.",
+                    "last": "Lamont"
+                },
+                {
+                    "first": "Donald J.",
+                    "initial": "D.J.",
+                    "last": "Tindall"
+                }
+            ],
+            "doi": "10.1210/me.2010-0469",
+            "firstpage": "897",
+            "issn": "08888809",
+            "lastpage": "907",
+            "pmid": "21436259",
+            "pub_year": 2011,
+            "title": "Minireview: Alternative activation pathways for the androgen receptor in prostate cancer",
+            "volume": "25"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Ji",
+                    "initial": "J.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Travis Van",
+                    "initial": "T.V.",
+                    "last": "Der Steen"
+                },
+                {
+                    "first": "Donald J.",
+                    "initial": "D.J.",
+                    "last": "Tindall"
+                }
+            ],
+            "doi": "10.1038/nrurol.2015.13",
+            "firstpage": "137",
+            "issn": "17594812",
+            "lastpage": "144",
+            "pmid": "25666893",
+            "pub_year": 2015,
+            "title": "Are androgen receptor variants a substitute for the full-length receptor?",
+            "volume": "12"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Froehner"
+                },
+                {
+                    "first": "Manfred P.",
+                    "initial": "M.P.",
+                    "last": "Wirth"
+                }
+            ],
+            "doi": "10.1056/NEJMc1410239",
+            "firstpage": "1755",
+            "issn": "00284793",
+            "lastpage": "1756",
+            "pmid": "25354112",
+            "pub_year": 2014,
+            "title": "Enzalutamide in metastatic prostate cancer before chemotherapy",
+            "volume": "371"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Charles J.",
+                    "initial": "C.J.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Matthew R.",
+                    "initial": "M.R.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Karim",
+                    "initial": "K.",
+                    "last": "Fizazi"
+                },
+                {
+                    "first": "Fred",
+                    "initial": "F.",
+                    "last": "Saad"
+                },
+                {
+                    "first": "Peter F.A.",
+                    "initial": "P.F.A.",
+                    "last": "Mulders"
+                },
+                {
+                    "first": "Cora N.",
+                    "initial": "C.N.",
+                    "last": "Sternberg"
+                },
+                {
+                    "first": "Kurt",
+                    "initial": "K.",
+                    "last": "Miller"
+                },
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Logothetis"
+                },
+                {
+                    "first": "Neal D.",
+                    "initial": "N.D.",
+                    "last": "Shore"
+                },
+                {
+                    "first": "Eric J.",
+                    "initial": "E.J.",
+                    "last": "Small"
+                },
+                {
+                    "first": "Joan",
+                    "initial": "J.",
+                    "last": "Carles"
+                },
+                {
+                    "first": "Thomas W.",
+                    "initial": "T.W.",
+                    "last": "Flaig"
+                },
+                {
+                    "first": "Mary Ellen",
+                    "initial": "M.E.",
+                    "last": "Taplin"
+                },
+                {
+                    "first": "Celestia S.",
+                    "initial": "C.S.",
+                    "last": "Higano"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "de Souza"
+                },
+                {
+                    "first": "Johann S.",
+                    "initial": "J.S.",
+                    "last": "de Bono"
+                },
+                {
+                    "first": "Thomas W.",
+                    "initial": "T.W.",
+                    "last": "Griffin"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "De Porre"
+                },
+                {
+                    "first": "Margaret K.",
+                    "initial": "M.K.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Youn C.",
+                    "initial": "Y.C.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Jinhui",
+                    "initial": "J.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Thian",
+                    "initial": "T.",
+                    "last": "Kheoh"
+                },
+                {
+                    "first": "Vahid",
+                    "initial": "V.",
+                    "last": "Naini"
+                },
+                {
+                    "first": "Arturo",
+                    "initial": "A.",
+                    "last": "Molina"
+                },
+                {
+                    "first": "Dana E.",
+                    "initial": "D.E.",
+                    "last": "Rathkopf"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": null
+                }
+            ],
+            "doi": "10.1016/S1470-2045(14)71205-7",
+            "firstpage": "152",
+            "issn": "14702045",
+            "lastpage": "160",
+            "pmid": "25601341",
+            "pub_year": 2015,
+            "title": "Abiraterone acetate plus prednisone versus placebo plus prednisone in chemotherapy-naive men with metastatic castration-resistant prostate cancer (COU-AA-302): Final overall survival analysis of a randomised, double-blind, placebo-controlled phase 3 study",
+            "volume": "16"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 19260,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, survival of VCaP cells in conditioned media from C4-2, 22Rv1 or HEK293 cells was similar to that in the absence of R1881.",
+            "startOffset": 19130,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23464,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 23463,
+                    "startOffset": 23459
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Such CRPC tumors have proved to be enzalutamide-resistant in vivo [12].",
+            "startOffset": 23393,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25550,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These hormone-independent actions of AR are supported by and/or act in concert with multiple events activated by the tumor secretory milieu, rendering the tumors completely insensitive to androgen.",
+            "startOffset": 25353,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17457,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "To prepare conditioned media, C4-2 cells, 22Rv1 cells and HEK 293 fibroblasts were grown in phenol-red free RPMI 1640 medium supplemented with 10% heat-inactivated charcoal stripped FBS for two passages.",
+            "startOffset": 17254,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17753,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 17752,
+                    "startOffset": 17748
+                }
+            },
+            "secId": "sec2",
+            "sentence": "RNA isolation, reverse transcription and qPCR methods have been described [16].",
+            "startOffset": 17674,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17674,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 17673,
+                    "startOffset": 17669
+                }
+            },
+            "secId": "sec2",
+            "sentence": "Colony formation assays, cell proliferation assays and western blots were performed as previously described [16].",
+            "startOffset": 17561,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 16998,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "C4-2 cells and 22Rv1 cells were originally produced in mice via castration-induced selection pressure placed on the hormone-dependent LNCaP and CWR22 cell lines, respectively.",
+            "startOffset": 16823,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23153,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the context of the present studies and available literature data, AR-dependent CRPC model cells that arose in vivo may be characterized as follows.",
+            "startOffset": 23003,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20415,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Enzalutamide did not inhibit colony formation of C4-2 cells in conditioned media from the same cells or HEK293 fibroblasts (Fig. 2A).",
+            "startOffset": 20282,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19676,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Since, under androgen-dependent conditions, colony formation of C4-2 cells required 0.05 nM R1881 for optimal colony formation (Fig. 1D), it is evident that the conditioned media did not have the level of androgenic activity required to support colony formation.",
+            "startOffset": 19414,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18003,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Statistical significance was determined using one-way analysis of variance.",
+            "startOffset": 17928,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 20281,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The enzalutamide dose-dependence for inhibition of colony formation in C4-2 cells corresponded to the dose required to completely antagonize gene activation by R1881 (0.1 nM) in the same cells as measured for the KLK3 and TMPRSS2 genes (Fig. 2B and C).",
+            "startOffset": 20029,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24038,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 23902,
+                    "startOffset": 23898
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A well-known example of this type of CRPC models is the C4-2 cell line variant, which was generated in castrated mice from LNCaP xenografts [18], overexpresses AR and, as shown here, is only androgen-dependent and sensitive to enzalutamide in the absence of cell secreted factors.",
+            "startOffset": 23758,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14550,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These assay conditions are hence devoid of many serum factors and adequate levels of factors secreted by neighboring cells because of the extremely low density of cells in colony formation assays.",
+            "startOffset": 14354,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23002,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Such cells may have acquired additional changes in other signaling and regulatory pathways.",
+            "startOffset": 22911,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13923,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 13922,
+                    "startOffset": 13915
+                },
+                "bib11": {
+                    "endOffset": 13922,
+                    "startOffset": 13915
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Efforts are therefore underway to develop more effective inhibitors of residual androgen biosynthesis as well as higher affinity androgen antagonists to treat CRPC [10,11].",
+            "startOffset": 13751,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17561,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "Forty-eight hour conditioned media was then collected, centrifuged and filtered through a 0.2 \u03bc filter.",
+            "startOffset": 17458,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 15274,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 15273,
+                    "startOffset": 15269
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Another CRPC model used to demonstrate androgen dependence comprises AR + androgen-dependent cells with forced expression of an AR splice variant incapable of ligand binding [15].",
+            "startOffset": 15095,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25352,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Nevertheless, one reason for the limited clinical benefit of targeting hormone sensitivity of AR (with AR ligands and androgen synthesis inhibitors) in CRPC may be hormone-independent actions of overexpressed AR or an AR splice variant.",
+            "startOffset": 25116,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18566,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The addition of R1881 to either type of conditioned media did not increase the number of colonies (Fig. 1A and B).",
+            "startOffset": 18452,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24145,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, dependence of such cells on androgen may be overridden by the secretory tumor microenvironment.",
+            "startOffset": 24039,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23757,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The hormone-sensitivity of the parental cell lines could be explained by the possibility that their human tumors of origin may have been supported by intratumoral androgen synthesis despite castration or the cells may have changed during immortalization in vitro to become androgen-dependent.",
+            "startOffset": 23465,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17927,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "All experiments were repeated at least three times.",
+            "startOffset": 17876,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 18976,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In media containing charcoal-stripped serum, survival of VCaP cells at the end of 4 days was reduced by \u223c50% (Fig. 1C).",
+            "startOffset": 18857,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20028,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The androgen-dependent colony formation of C4-2 cells (in 0.1 nM R1881) was completely blocked by enzalutamide at concentrations of 1 \u03bcM and 10 \u03bcM but not at 0.1 \u03bcM enzalutamide (Fig. 2A).",
+            "startOffset": 19840,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25039,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The pathways show some cell type selectivity, particularly with respect to MEK inhibition.",
+            "startOffset": 24949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13750,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 13749,
+                    "startOffset": 13744
+                },
+                "bib9": {
+                    "endOffset": 13749,
+                    "startOffset": 13744
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Nevertheless, in patients with CRPC, treatment with the high affinity AR antagonist enzalutamide or the androgen synthesis inhibitor abiraterone has produced limited clinical benefit [8,9].",
+            "startOffset": 13561,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19129,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The cells required at least 0.025 nM R1881 to prevent this loss of viability and higher concentrations of R1881 were required for cell growth (Fig. 1C).",
+            "startOffset": 18977,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21475,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Further, it may be noted (from the combined data in Figs. 1B, 2D and F) that, in 22Rv1 cells the full length AR is required to support colony formation but this occurs in an androgen-independent manner.",
+            "startOffset": 21273,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18237,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In media containing charcoal-stripped serum, androgen (R1881) was obligatory for colony formation of C4-2 cells (Fig. 1A) whereas 22Rv1 cells failed to form colonies either in the absence or in the presence of R1881 (Fig. 1B).",
+            "startOffset": 18011,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20691,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These results further confirm lack of androgenic activity in the conditioned media from C4-2, 22Rv1 and HEK293 cells.",
+            "startOffset": 20574,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21272,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The results demonstrate that despite the absence of androgenic activity, the ability of conditioned media to support colony formation is dependent on expression of AR in both C4-2 and 22Rv1 cells.",
+            "startOffset": 21076,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22910,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In contrast, the studies presented here address the physiological relevance of androgen-dependent signaling in prostate cancer models that became castration resistant in vivo and overexpress AR or co-express wtAR and an AR splice variant.",
+            "startOffset": 22672,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24948,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Based on our studies, the synergy between AR (wild-type or splice variant) and the cellular secretory complement (autologous or heterologous) may at least in part be due to the action of multiple signal transduction pathways, which also support hormonal action.",
+            "startOffset": 24687,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16066,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Third, studies demonstrating the need for androgen to potentiate growth signaling by autocrine/paracrine pathways in AR-overexpressing CRPC cells were focused on activation of individual signaling pathways rather than collective activation of multiple cellular events that might render the cells completely hormone-independent.",
+            "startOffset": 15739,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17183,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "C4-2 cells were kindly provided by Dr. Edwin Sanchez (University of Toledo).",
+            "startOffset": 17107,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17254,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 17253,
+                    "startOffset": 17249
+                }
+            },
+            "secId": "sec2",
+            "sentence": "All cell lines were routinely maintained as previously described [16].",
+            "startOffset": 17184,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 14353,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "First, the in vitro studies demonstrating androgen-dependence of AR-overexpressing CRPC cells often relied on colony formation assays in media containing charcoal-stripped serum.",
+            "startOffset": 14175,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14838,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 14837,
+                    "startOffset": 14833
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although AR-overexpressing CRPC cells generated in castrated mice (e.g., C4-2 cells) require androgen in such colony formation assays, they grow robustly in monolayer culture in media containing charcoal-stripped serum and are also insensitive to enzalutamide in monolayer cultures [12].",
+            "startOffset": 14551,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18856,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "For this purpose, we used VCaP cells, which are exquisitely dependent on androgen for both survival and growth.",
+            "startOffset": 18745,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15738,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This suggests that in vivo generated CRPC tumors may be androgen-independent in contrast to CRPC model cells generated by forced AR overexpression.",
+            "startOffset": 15591,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18744,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As structurally diverse molecules could have androgenic activity, we first used a sensitive biological test to detect any androgenic activity in the conditioned media used above.",
+            "startOffset": 18566,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19413,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "From inspection of Fig. 1C, it appears that any androgenic activity present in the conditioned media must be less than the equivalent of 0.003 nM R1881.",
+            "startOffset": 19261,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17876,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "(shRNA sequences provided in Supplementary Table 1).",
+            "startOffset": 17824,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 16672,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We tested this hypothesis using the in vivo generated C4-2 CRPC cells that overexpress full length AR.",
+            "startOffset": 16570,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21966,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The androgen-dependent colony formation of C4-2 cells was prevented by inhibitors of Akt, PI3-K, EGF/FGF/PDGF receptor tyrosine kinase, Rac1 and STAT3 but not by inhibitors of FGFR, VEGFR, Src family, c-Raf, MEK1/2, ERK, JNK and PKC (Fig. 3A).",
+            "startOffset": 21723,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13560,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 13559,
+                    "startOffset": 13556
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Overexpression of AR splice variants with deletions spanning the ligand-binding pocket have also been functionally and clinically linked to prostate cancer progression; in these cases expression of full-length AR may also be necessary [7].",
+            "startOffset": 13321,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24520,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "As shown here, these cells depend on both wtAR and its splice variant as well as cellular secretory factors.",
+            "startOffset": 24412,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17823,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 17822,
+                    "startOffset": 17818
+                }
+            },
+            "secId": "sec2",
+            "sentence": "Lentivirus-mediated gene knockdown has been previously described [16].",
+            "startOffset": 17753,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 17106,
+            "parents": [],
+            "secId": "sec2",
+            "sentence": "VCaP cells, 22Rv1 cells were from the American Type Culture Collection (Manassas, VA).",
+            "startOffset": 17020,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 21722,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We used a battery of signaling pathway inhibitors (described in Supplementary Table 2) to compare androgen-dependent colony formation in C4-2 cells and the androgen-independent colony formation of C4-2 and 22Rv1 cells in various conditioned media.",
+            "startOffset": 21475,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16410,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, we hypothesized that progression to CRPC in vivo, associated with overexpression of endogenous wtAR, could include cellular changes that enable the complement of cell-secreted factors to support and/or cooperate with hormone-independent AR actions; this would override the androgen-dependence observed in the absence of such factors.",
+            "startOffset": 16066,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14175,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this context, the following considerations warrant further investigation of whether AR-overexpressing CRPC cells that develop under castrate conditions are necessarily androgen-dependent in the physiological secretory microenvironment of the cells.",
+            "startOffset": 13924,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23392,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 23245,
+                    "startOffset": 23239
+                },
+                "bib2": {
+                    "endOffset": 23245,
+                    "startOffset": 23239
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Cell lines originally established from human CRPC tumors (e.g., LNCaP and VCaP cells) [2,17] that are entirely hormone-dependent in vitro and in vivo need to be placed under selection pressure in castrated mice to develop into CRPC tumors.",
+            "startOffset": 23153,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12979,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 12978,
+                    "startOffset": 12973
+                },
+                "bib2": {
+                    "endOffset": 12978,
+                    "startOffset": 12973
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Growth of castration resistant prostate cancer (CRPC) may often be supported by restoration of tumor androgen to levels approaching or greater than pre-castration levels via de novo intratumoral synthesis [1,2].",
+            "startOffset": 12768,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15590,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 15589,
+                    "startOffset": 15585
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Second, standard cell line models established from metastatic CRPC patient tumors (e.g., LNCaP and VCaP) are hormone-dependent and require selection pressure in castrated mice to re-emerge as CRPC cells and the resulting tumors then tend to be insensitive to the high affinity androgen antagonist enzalutamide [12].",
+            "startOffset": 15275,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20870,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Depleting AR by lentiviral transduction of targeted shRNA abrogated the ability of conditioned media from C4-2 or HEK293 cells to support colony formation in C4-2 cells (Fig. 2E).",
+            "startOffset": 20691,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24687,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 24600,
+                    "startOffset": 24596
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In contrast to wtAR + cells with forced expression of an AR splice variant [15], these cells are insensitive to androgen even in the absence of cell secreted factors.",
+            "startOffset": 24521,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16569,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Further, overexpressed AR splice variants in CRPC cells may similarly need to cooperate with cell-secreted factors to support hormone-independent CRPC growth.",
+            "startOffset": 16411,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15094,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 15093,
+                    "startOffset": 15083
+                },
+                "bib13": {
+                    "endOffset": 15093,
+                    "startOffset": 15083
+                },
+                "bib14": {
+                    "endOffset": 15093,
+                    "startOffset": 15083
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In fact, sensitivity of monolayer cultures and tumor xenografts to enzalutamide is typically demonstrated using CRPC model cells produced by forced overexpression of AR in hormone-sensitive cell lines to render them hyper-sensitive to androgen [11,13,14].",
+            "startOffset": 14839,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21075,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In 22Rv1 cells, knockdown of full-length AR alone or a partial knockdown of total AR (full length AR plus AR-V7) abrogated colony formation in conditioned media from 22Rv1 or HEK293 fibroblasts (Fig. 2F).",
+            "startOffset": 20871,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19839,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As another test for androgenic activity in the conditioned media we examined inhibition of colony formation by the high affinity androgen antagonist, enzalutamide.",
+            "startOffset": 19676,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16822,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In parallel, we examined the in vivo generated 22Rv1 CRPC cells, which overexpress a common AR splice variant (AR-V7) in addition to expressing wtAR.",
+            "startOffset": 16673,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13167,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 13166,
+                    "startOffset": 13161
+                },
+                "bib4": {
+                    "endOffset": 13166,
+                    "startOffset": 13161
+                },
+                "bib5": {
+                    "endOffset": 13166,
+                    "startOffset": 13161
+                }
+            },
+            "secId": "sec1",
+            "sentence": "It has also been proposed, based on in vitro studies, that overexpression of AR, a common feature of clinical CRPC, sensitizes CRPC cells to much lower, castrate levels of androgen [3\u20135].",
+            "startOffset": 12980,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18451,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Both C4-2 cells (Fig. 1A) and 22Rv1 cells (Fig. 1B) showed robust colony formation in 48-h conditioned media from either the same cells or from HEK293 fibroblasts grown in media containing charcoal-stripped serum.",
+            "startOffset": 18238,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13320,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 13319,
+                    "startOffset": 13316
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In such cells, in vitro data also suggests that low androgen may synergize with hyperactive cell signaling pathways to support optimal tumor growth [6].",
+            "startOffset": 13168,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22408,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Colony formation of 22Rv1 cells supported by conditioned media from 22Rv1 cells and HEK293 cells were both sensitive to the same inhibitors as C4-2 cells but were additionally sensitive to inhibitors of MEK1/2 and ERK (Fig. 3C).",
+            "startOffset": 22180,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20573,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Similar to C4-2 cells, enzalutamide did not inhibit colony formation of 22Rv1 cells in conditioned media from the same cells or HEK293 fibroblasts (Fig. 2D).",
+            "startOffset": 20416,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24411,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 24269,
+                    "startOffset": 24265
+                }
+            },
+            "secId": "sec4",
+            "sentence": "A second example is the 22Rv1 variant cell line; this CRPC model was generated in castrated mice from CWR22 xenografts [19] and expresses a relatively low level of wtAR and co-expresses relatively high levels of an AR splice variant that is unable to bind androgen.",
+            "startOffset": 24146,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22179,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The pattern of inhibitor sensitivity of colony formation of C4-2 cells in conditioned media from C4-2 cells or HEK293 fibroblasts was virtually identical to that for androgen-dependent colony formation (Fig. 3B).",
+            "startOffset": 21967,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25115,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This does not exclude a role for other secreted factors such as micro RNAs.",
+            "startOffset": 25040,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22671,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Cells used as models of CRPC often comprise androgen-dependent cells in which wtAR or a splice-variant of AR was ectopically overexpressed; such cells continue to be sensitive to enzalutamide in vitro and in vivo and may represent some clinical tumors.",
+            "startOffset": 22419,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X16307501",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Mugdha",
+                "initial": "M.",
+                "last": "Patki"
+            },
+            {
+                "email": null,
+                "first": "Yanfang",
+                "initial": "Y.",
+                "last": "Huang"
+            },
+            {
+                "email": "ratnamm@karmanos.org",
+                "first": "Manohar",
+                "initial": "M.",
+                "last": "Ratnam"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.05.058",
+        "firstpage": "69",
+        "issn": "0006291X",
+        "keywords": [
+            "Androgen",
+            "Androgen deprivation therapy",
+            "Androgen receptor",
+            "Castration resistant prostate cancer"
+        ],
+        "lastpage": "74",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Restoration of the cellular secretory milieu overrides androgen dependence of in vivo generated castration resistant prostate cancer cells overexpressing the androgen receptor"
+    }
+}

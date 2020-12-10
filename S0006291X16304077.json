@@ -1,0 +1,2816 @@
+{
+    "abstract": "The 1918 H1N1 influenza virus was responsible for one of the most deadly pandemics in human history. Yet to date, the structure component responsible for its virulence is still a mystery. In order to search for such a component, the neuraminidase (NA) antigen of the virus was expressed, which led to the discovery of an active form (tetramer) and an inactive form (dimer and monomer) of the protein due to different glycosylation. In this report, the N-glycans from both forms were released and characterized by mass spectrometry. It was found that the glycans from the active form had 26% core-6 fucosylated, while the glycans from the inactive form had 82% core-6 fucosylated. Even more surprisingly, the stalk region of the active form was almost completely devoid of core-6-linked fucose. These findings were further supported by the results obtained from in vitro incorporation of azido fucose and 3H-labeled fucose using core-6 fucosyltransferase, FUT8. In addition, the incorporation of fucose did not change the enzymatic activity of the active form, implying that core-6 fucose is not directly involved in the enzymatic activity. It is postulated that core-6 fucose prohibits the oligomerization and subsequent activation of the enzyme.",
+    "author_highlights": [
+        {
+            "endOffset": 12572,
+            "sentence": "Expressed 1918 pandemic influenza viral neuraminidase has inactive and active forms.",
+            "startOffset": 12488
+        },
+        {
+            "endOffset": 12675,
+            "sentence": "The inactive form contains high level of core-6 fucose, while the active form lacks such modification.",
+            "startOffset": 12573
+        },
+        {
+            "endOffset": 12769,
+            "sentence": "Core fucose could interfere the oligomerization of the neuraminidase and thus its activation.",
+            "startOffset": 12676
+        },
+        {
+            "endOffset": 12873,
+            "sentence": "This discovery may explain why 1918 pandemic influenza caused higher death rate among young population.",
+            "startOffset": 12770
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Morens"
+                },
+                {
+                    "first": "Anthony S.",
+                    "initial": "A.S.",
+                    "last": "Fauci"
+                }
+            ],
+            "doi": "10.1086/511989",
+            "firstpage": "1018",
+            "issn": "00221899",
+            "lastpage": "1028",
+            "pmid": "17330793",
+            "pub_year": 2007,
+            "title": "The 1918 influenza pandemic: Insights for the 21st century",
+            "volume": "195"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Von Itzstein"
+                },
+                {
+                    "first": "Wen Yang",
+                    "initial": "W.Y.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Gaik B.",
+                    "initial": "G.B.",
+                    "last": "Kok"
+                },
+                {
+                    "first": "Michael S.",
+                    "initial": "M.S.",
+                    "last": "Pegg"
+                },
+                {
+                    "first": "Jeffrey C.",
+                    "initial": "J.C.",
+                    "last": "Dyason"
+                },
+                {
+                    "first": "Betty",
+                    "initial": "B.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "Tho Van",
+                    "initial": "T.V.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Mark L.",
+                    "initial": "M.L.",
+                    "last": "Smythe"
+                },
+                {
+                    "first": "Hume F.",
+                    "initial": "H.F.",
+                    "last": "White"
+                },
+                {
+                    "first": "Stuart W.",
+                    "initial": "S.W.",
+                    "last": "Oliver"
+                },
+                {
+                    "first": "Peter M.",
+                    "initial": "P.M.",
+                    "last": "Colman"
+                },
+                {
+                    "first": "Joseph N.",
+                    "initial": "J.N.",
+                    "last": "Varghese"
+                },
+                {
+                    "first": "D. Michael",
+                    "initial": "D.M.",
+                    "last": "Ryan"
+                },
+                {
+                    "first": "Jacqueline M.",
+                    "initial": "J.M.",
+                    "last": "Woods"
+                },
+                {
+                    "first": "Richard C.",
+                    "initial": "R.C.",
+                    "last": "Bethell"
+                },
+                {
+                    "first": "Vanessa J.",
+                    "initial": "V.J.",
+                    "last": "Hotham"
+                },
+                {
+                    "first": "Janet M.",
+                    "initial": "J.M.",
+                    "last": "Cameron"
+                },
+                {
+                    "first": "Charles R.",
+                    "initial": "C.R.",
+                    "last": "Penn"
+                }
+            ],
+            "doi": "10.1038/363418a0",
+            "firstpage": "418",
+            "issn": "00280836",
+            "lastpage": "423",
+            "pmid": "8502295",
+            "pub_year": 1993,
+            "title": "Rational design of potent sialidase-based inhibitors of influenza virus replication",
+            "volume": "363"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Zhengliang L.",
+                    "initial": "Z.L.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Cheryl",
+                    "initial": "C.",
+                    "last": "Ethen"
+                },
+                {
+                    "first": "Gregg E.",
+                    "initial": "G.E.",
+                    "last": "Hickey"
+                },
+                {
+                    "first": "Weiping",
+                    "initial": "W.",
+                    "last": "Jiang"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2008.12.139",
+            "firstpage": "749",
+            "issn": "0006291X",
+            "lastpage": "753",
+            "pmid": "19133226",
+            "pub_year": 2009,
+            "title": "Active 1918 pandemic flu viral neuraminidase has distinct N-glycan profile and is resistant to trypsin digestion",
+            "volume": "379"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Hartmuth C.",
+                    "initial": "H.C.",
+                    "last": "Kolb"
+                },
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Finn"
+                },
+                {
+                    "first": "K. Barry",
+                    "initial": "K.B.",
+                    "last": "Sharpless"
+                }
+            ],
+            "doi": "10.1002/1521-3773(20010601)40:11<2004::AID-ANIE2004>3.0.CO;2-5",
+            "firstpage": "2004",
+            "issn": "14337851",
+            "lastpage": "2021",
+            "pub_year": 2001,
+            "title": "Click Chemistry: Diverse Chemical Function from a Few Good Reactions",
+            "volume": "40"
+        },
+        "bib13": null,
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Peter G.",
+                    "initial": "P.G.",
+                    "last": "Warren"
+                },
+                {
+                    "first": "John W.",
+                    "initial": "J.W.",
+                    "last": "Froehlich"
+                },
+                {
+                    "first": "Richard S.",
+                    "initial": "R.S.",
+                    "last": "Lee"
+                }
+            ],
+            "doi": "10.1021/ac500298a",
+            "firstpage": "6277",
+            "issn": "00032700",
+            "lastpage": "6284",
+            "pmid": "24766348",
+            "pub_year": 2014,
+            "title": "Dual modifications strategy to quantify neutral and sialylated N-glycans simultaneously by MALDI-MS",
+            "volume": "86"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Andrew J.",
+                    "initial": "A.J.",
+                    "last": "Hanneman"
+                },
+                {
+                    "first": "N. Dennis",
+                    "initial": "N.D.",
+                    "last": "Chasteen"
+                },
+                {
+                    "first": "Vernon N.",
+                    "initial": "V.N.",
+                    "last": "Reinhold"
+                }
+            ],
+            "doi": "10.1021/pr4006734",
+            "firstpage": "4547",
+            "issn": "15353893",
+            "lastpage": "4555",
+            "pmid": "23919883",
+            "pub_year": 2013,
+            "title": "Anomalous N -glycan structures with an internal fucose branched to GlcA and GlcN residues isolated from a mollusk shell-forming fluid",
+            "volume": "12"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Ashline"
+                },
+                {
+                    "first": "Suddham",
+                    "initial": "S.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "Andy",
+                    "initial": "A.",
+                    "last": "Hanneman"
+                },
+                {
+                    "first": "Vernon",
+                    "initial": "V.",
+                    "last": "Reinhold"
+                }
+            ],
+            "doi": "10.1021/ac050724z",
+            "firstpage": "6250",
+            "issn": "00032700",
+            "lastpage": "6262",
+            "pmid": "16194086",
+            "pub_year": 2005,
+            "title": "Congruent strategies for carbohydrate sequencing. 1. Mining structural details by MSn",
+            "volume": "77"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Anthony L.",
+                    "initial": "A.L.",
+                    "last": "Tarentino"
+                },
+                {
+                    "first": "Thomas H.",
+                    "initial": "T.H.",
+                    "last": "Plummer"
+                }
+            ],
+            "doi": "10.1016/0076-6879(94)30006-2",
+            "firstpage": "44",
+            "issn": "00766879",
+            "lastpage": "57",
+            "pmid": "8139511",
+            "pub_year": 1994,
+            "title": "Enzymatic deglycosylation of asparagine-linked glycans: Purification, properties, and specificity of oligosaccharide-cleaving enzymes from Flavobacterium meningosepticum",
+            "volume": "230"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Ihara"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Ikeda"
+                },
+                {
+                    "first": "Sachiko",
+                    "initial": "S.",
+                    "last": "Toma"
+                },
+                {
+                    "first": "Xiangchun",
+                    "initial": "X.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Tadashi",
+                    "initial": "T.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Jianguo",
+                    "initial": "J.",
+                    "last": "Gu"
+                },
+                {
+                    "first": "Eiji",
+                    "initial": "E.",
+                    "last": "Miyoshi"
+                },
+                {
+                    "first": "Tomitake",
+                    "initial": "T.",
+                    "last": "Tsukihara"
+                },
+                {
+                    "first": "Koichi",
+                    "initial": "K.",
+                    "last": "Honke"
+                },
+                {
+                    "first": "Akio",
+                    "initial": "A.",
+                    "last": "Matsumoto"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Nakagawa"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Taniguchi"
+                }
+            ],
+            "doi": "10.1093/glycob/cwl079",
+            "firstpage": "455",
+            "issn": "09596658",
+            "lastpage": "466",
+            "pmid": "17172260",
+            "pub_year": 2007,
+            "title": "Crystal structure of mammalian \u03b11,6-fucosyltransferase, FUT8",
+            "volume": "17"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Vsevolod V.",
+                    "initial": "V.V.",
+                    "last": "Rostovtsev"
+                },
+                {
+                    "first": "Luke G.",
+                    "initial": "L.G.",
+                    "last": "Green"
+                },
+                {
+                    "first": "Valery V.",
+                    "initial": "V.V.",
+                    "last": "Fokin"
+                },
+                {
+                    "first": "K. Barry",
+                    "initial": "K.B.",
+                    "last": "Sharpless"
+                }
+            ],
+            "doi": "10.1002/1521-3773(20020715)41:14<2596::AID-ANIE2596>3.0.CO;2-4",
+            "firstpage": "2596",
+            "issn": "14337851",
+            "lastpage": "2599",
+            "pmid": "12203546",
+            "pub_year": 2002,
+            "title": "A stepwise huisgen cycloaddition process: Copper(I)-catalyzed regioselective \"ligation\" of azides and terminal alkynes",
+            "volume": "41"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Richard J.",
+                    "initial": "R.J.",
+                    "last": "Webby"
+                },
+                {
+                    "first": "Robert G.",
+                    "initial": "R.G.",
+                    "last": "Webster"
+                }
+            ],
+            "doi": "10.1126/science.1090350",
+            "firstpage": "1519",
+            "issn": "00368075",
+            "lastpage": "1522",
+            "pmid": "14645836",
+            "pub_year": 2003,
+            "title": "Are We Ready for Pandemic Influenza?",
+            "volume": "302"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Spiteri"
+                },
+                {
+                    "first": "John E.",
+                    "initial": "J.E.",
+                    "last": "Moses"
+                }
+            ],
+            "doi": "10.1002/anie.200905322",
+            "firstpage": "31",
+            "issn": "14337851",
+            "lastpage": "33",
+            "pmid": "19921729",
+            "pub_year": 2010,
+            "title": "Copper-catalyzed azide-alkyne cycloaddition: Regioselective synthesis of 1,4,5-trisubstituted 1,2,3-triazoles",
+            "volume": "49"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Zhengliang L.",
+                    "initial": "Z.L.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Xinyi",
+                    "initial": "X.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Andrew J.",
+                    "initial": "A.J.",
+                    "last": "Burton"
+                },
+                {
+                    "first": "Karl A.D.",
+                    "initial": "K.A.D.",
+                    "last": "Swift"
+                }
+            ],
+            "doi": "10.1016/j.carres.2015.04.018",
+            "firstpage": "1",
+            "issn": "00086215",
+            "lastpage": "6",
+            "pmid": "25988494",
+            "pub_year": 2015,
+            "title": "Glycoprotein labeling with click chemistry (GLCC) and carbohydrate detection",
+            "volume": "412"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Zhengliang",
+                    "initial": "Z.",
+                    "last": "Lwu"
+                },
+                {
+                    "first": "Xinyi",
+                    "initial": "X.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Andrew J.",
+                    "initial": "A.J.",
+                    "last": "Burton"
+                },
+                {
+                    "first": "Karl A.D.",
+                    "initial": "K.A.D.",
+                    "last": "Swift"
+                }
+            ],
+            "doi": "10.1093/glycob/cwv109",
+            "firstpage": "329",
+            "issn": "09596658",
+            "lastpage": "334",
+            "pmid": "26589574",
+            "pub_year": 2016,
+            "title": "Probing sialoglycans on fetal bovine fetuin with azido-sugars using glycosyltransferases",
+            "volume": "26"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Ferrara"
+                },
+                {
+                    "first": "Sandra",
+                    "initial": "S.",
+                    "last": "Grau"
+                },
+                {
+                    "first": "Christiane",
+                    "initial": "C.",
+                    "last": "Jag\u0308er"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Sondermann"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Brun\u0308ker"
+                },
+                {
+                    "first": "Inja",
+                    "initial": "I.",
+                    "last": "Waldhauer"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Hennig"
+                },
+                {
+                    "first": "Armin",
+                    "initial": "A.",
+                    "last": "Ruf"
+                },
+                {
+                    "first": "Arne Christian",
+                    "initial": "A.C.",
+                    "last": "Rufer"
+                },
+                {
+                    "first": "Martine",
+                    "initial": "M.",
+                    "last": "Stihle"
+                },
+                {
+                    "first": "Pablo",
+                    "initial": "P.",
+                    "last": "Uman\u00e3"
+                },
+                {
+                    "first": "Jor\u0308g",
+                    "initial": "J.",
+                    "last": "Benz"
+                }
+            ],
+            "doi": "10.1073/pnas.1108455108",
+            "firstpage": "12669",
+            "issn": "00278424",
+            "lastpage": "12674",
+            "pmid": "21768335",
+            "pub_year": 2011,
+            "title": "Unique carbohydrate-carbohydrate interactions are required for high affinity binding between Fc\u03b3RIII and antibodies lacking core fucose",
+            "volume": "108"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Robert L.",
+                    "initial": "R.L.",
+                    "last": "Shields"
+                },
+                {
+                    "first": "Jadine",
+                    "initial": "J.",
+                    "last": "Lai"
+                },
+                {
+                    "first": "Rodney",
+                    "initial": "R.",
+                    "last": "Keck"
+                },
+                {
+                    "first": "Lori Y.",
+                    "initial": "L.Y.",
+                    "last": "O'Connell"
+                },
+                {
+                    "first": "Kyu",
+                    "initial": "K.",
+                    "last": "Hong"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Gloria Meng"
+                },
+                {
+                    "first": "Stefanie H.A.",
+                    "initial": "S.H.A.",
+                    "last": "Weikert"
+                },
+                {
+                    "first": "Leonard G.",
+                    "initial": "L.G.",
+                    "last": "Presta"
+                }
+            ],
+            "doi": "10.1074/jbc.M202069200",
+            "firstpage": "26733",
+            "issn": "00219258",
+            "lastpage": "26740",
+            "pmid": "11986321",
+            "pub_year": 2002,
+            "title": "Lack of fucose on human IgG1 N-linked oligosaccharide improves binding to human Fc\u03b3RIII and antibody-dependent cellular toxicity",
+            "volume": "277"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Xiangchun",
+                    "initial": "X.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Jianguo",
+                    "initial": "J.",
+                    "last": "Gu"
+                },
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Ihara"
+                },
+                {
+                    "first": "Eiji",
+                    "initial": "E.",
+                    "last": "Miyoshi"
+                },
+                {
+                    "first": "Koichi",
+                    "initial": "K.",
+                    "last": "Honke"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Taniguchi"
+                }
+            ],
+            "doi": "10.1074/jbc.M510893200",
+            "firstpage": "2572",
+            "issn": "00219258",
+            "lastpage": "2577",
+            "pmid": "16316986",
+            "pub_year": 2006,
+            "title": "Core fucosylation regulates epidermal growth factor receptor-mediated intracellular signaling",
+            "volume": "281"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Bing",
+                    "initial": "B.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "Joanne L.",
+                    "initial": "J.L.",
+                    "last": "Simala-Grant"
+                },
+                {
+                    "first": "Diane E.",
+                    "initial": "D.E.",
+                    "last": "Taylor"
+                }
+            ],
+            "doi": "10.1093/glycob/cwl040",
+            "issn": "09596658",
+            "pmid": "16973733",
+            "pub_year": 2006,
+            "title": "Fucosylation in prokaryotes and eukaryotes",
+            "volume": "16"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Eiji",
+                    "initial": "E.",
+                    "last": "Miyoshi"
+                },
+                {
+                    "first": "Miyako",
+                    "initial": "M.",
+                    "last": "Nakano"
+                }
+            ],
+            "doi": "10.1002/pmic.200800046",
+            "firstpage": "3257",
+            "issn": "16159853",
+            "lastpage": "3262",
+            "pmid": "18646007",
+            "pub_year": 2008,
+            "title": "Fucosylated haptoglobin is a novel marker for pancreatic cancer: Detailed analyses of oligosaccharide structures",
+            "volume": "8"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Valerie",
+                    "initial": "V.",
+                    "last": "Vanhooren"
+                },
+                {
+                    "first": "Sylviane",
+                    "initial": "S.",
+                    "last": "Dewaele"
+                },
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Kuro-o"
+                },
+                {
+                    "first": "Naoyuki",
+                    "initial": "N.",
+                    "last": "Taniguchi"
+                },
+                {
+                    "first": "Laurent",
+                    "initial": "L.",
+                    "last": "Doll\u00e9"
+                },
+                {
+                    "first": "Leo A.",
+                    "initial": "L.A.",
+                    "last": "van Grunsven"
+                },
+                {
+                    "first": "Evgenia",
+                    "initial": "E.",
+                    "last": "Makrantonaki"
+                },
+                {
+                    "first": "Christos C.",
+                    "initial": "C.C.",
+                    "last": "Zouboulis"
+                },
+                {
+                    "first": "Cuiying C.",
+                    "initial": "C.C.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Claude",
+                    "initial": "C.",
+                    "last": "Libert"
+                }
+            ],
+            "doi": "10.1111/j.1474-9726.2011.00749.x",
+            "firstpage": "1056",
+            "issn": "14749718",
+            "lastpage": "1066",
+            "pmid": "21951615",
+            "pub_year": 2011,
+            "title": "Alteration in N-glycomics during mouse aging: A role for FUT8",
+            "volume": "10"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Jeffery K.",
+                    "initial": "J.K.",
+                    "last": "Taubenberger"
+                }
+            ],
+            "firstpage": "86",
+            "issn": "0003049X",
+            "lastpage": "112",
+            "pmid": "17526158",
+            "pub_year": 2006,
+            "title": "The origin and virulence of the 1918 \"Spanish\" influenza virus",
+            "volume": "150"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Henry",
+                    "initial": "H.",
+                    "last": "Nicholls"
+                }
+            ],
+            "doi": "10.1371/journal.pbio.0040050",
+            "firstpage": "156",
+            "issn": "15457885",
+            "lastpage": "160",
+            "pmid": "16464130",
+            "pub_year": 2006,
+            "title": "Pandemic influenza: The inside story",
+            "volume": "4"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "John W.",
+                    "initial": "J.W.",
+                    "last": "Froehlich"
+                },
+                {
+                    "first": "Andrew C.",
+                    "initial": "A.C.",
+                    "last": "Briscoe"
+                },
+                {
+                    "first": "Richard S.",
+                    "initial": "R.S.",
+                    "last": "Lee"
+                }
+            ],
+            "doi": "10.1074/mcp.M113.027953",
+            "firstpage": "2981",
+            "issn": "15359476",
+            "lastpage": "2991",
+            "pmid": "23820512",
+            "pub_year": 2013,
+            "title": "The glycofilter: A simple and comprehensive sample preparation platform for proteomics, N-glycomics and glycosylation site assignment",
+            "volume": "12"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "Ionel",
+                    "initial": "I.",
+                    "last": "Ciucanu"
+                },
+                {
+                    "first": "Catherine E.",
+                    "initial": "C.E.",
+                    "last": "Costello"
+                }
+            ],
+            "doi": "10.1021/ja035660t",
+            "firstpage": "16213",
+            "issn": "00027863",
+            "lastpage": "16219",
+            "pmid": "14692762",
+            "pub_year": 2003,
+            "title": "Elimination of Oxidative Degradation during the per-O-Methylation of Carbohydrates",
+            "volume": "125"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "Carol L.",
+                    "initial": "C.L.",
+                    "last": "Ladner"
+                },
+                {
+                    "first": "Jing",
+                    "initial": "J.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Raymond J.",
+                    "initial": "R.J.",
+                    "last": "Turner"
+                },
+                {
+                    "first": "Robert A.",
+                    "initial": "R.A.",
+                    "last": "Edwards"
+                }
+            ],
+            "doi": "10.1016/j.ab.2003.10.047",
+            "firstpage": "13",
+            "issn": "00032697",
+            "lastpage": "20",
+            "pmid": "14769330",
+            "pub_year": 2004,
+            "title": "Visible fluorescent detection of proteins in polyacrylamide gels without staining",
+            "volume": "326"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "K. S.",
+                    "initial": "K.S.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Guan"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "G. J.D.",
+                    "initial": "G.J.D.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "K. M.",
+                    "initial": "K.M.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Duan"
+                },
+                {
+                    "first": "A. P.",
+                    "initial": "A.P.",
+                    "last": "Rahardjo"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Puthavathana"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Buranathai"
+                },
+                {
+                    "first": "T. D.",
+                    "initial": "T.D.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "A. T.S.",
+                    "initial": "A.T.S.",
+                    "last": "Estoepangestie"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Chaisingh"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Auewarakui"
+                },
+                {
+                    "first": "H. T.",
+                    "initial": "H.T.",
+                    "last": "Long"
+                },
+                {
+                    "first": "N. T.H.",
+                    "initial": "N.T.H.",
+                    "last": "Hanh"
+                },
+                {
+                    "first": "R. J.",
+                    "initial": "R.J.",
+                    "last": "Webby"
+                },
+                {
+                    "first": "L. L.M.",
+                    "initial": "L.L.M.",
+                    "last": "Poon"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "K. F.",
+                    "initial": "K.F.",
+                    "last": "Shortridge"
+                },
+                {
+                    "first": "K. Y.",
+                    "initial": "K.Y.",
+                    "last": "Yuen"
+                },
+                {
+                    "first": "R. G.",
+                    "initial": "R.G.",
+                    "last": "Webster"
+                },
+                {
+                    "first": "J. S.M.",
+                    "initial": "J.S.M.",
+                    "last": "Peiris"
+                }
+            ],
+            "doi": "10.1038/nature02746",
+            "firstpage": "209",
+            "issn": "00280836",
+            "lastpage": "213",
+            "pmid": "15241415",
+            "pub_year": 2004,
+            "title": "Genesis of a highly pathogenic and potentially pandemic H5N1 influenza virus in eastern Asia",
+            "volume": "430"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Jianxun",
+                    "initial": "J.",
+                    "last": "Qi"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Shi"
+                },
+                {
+                    "first": "Qing",
+                    "initial": "Q.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Feng",
+                    "initial": "F.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Yeping",
+                    "initial": "Y.",
+                    "last": "Sun"
+                },
+                {
+                    "first": "Xishan",
+                    "initial": "X.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Qiong",
+                    "initial": "Q.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Vavricka"
+                },
+                {
+                    "first": "Di",
+                    "initial": "D.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Jinghua",
+                    "initial": "J.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "George F.",
+                    "initial": "G.F.",
+                    "last": "Gao"
+                }
+            ],
+            "doi": "10.1007/s13238-010-0059-1",
+            "firstpage": "459",
+            "issn": "1674800X",
+            "lastpage": "467",
+            "pub_year": 2010,
+            "title": "Crystal structure of the swine-origin A (H1N1)-2009 influenza A virus hemagglutinin (HA) reveals similar antigenicity to that of the 1918 pandemic virus",
+            "volume": "1"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Terrence M.",
+                    "initial": "T.M.",
+                    "last": "Tumpey"
+                },
+                {
+                    "first": "Christopher F.",
+                    "initial": "C.F.",
+                    "last": "Basler"
+                },
+                {
+                    "first": "Patricia V.",
+                    "initial": "P.V.",
+                    "last": "Aguilar"
+                },
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Zeng"
+                },
+                {
+                    "first": "Alicia",
+                    "initial": "A.",
+                    "last": "Sol\u00f3rzano"
+                },
+                {
+                    "first": "David E.",
+                    "initial": "D.E.",
+                    "last": "Swayne"
+                },
+                {
+                    "first": "Nancy J.",
+                    "initial": "N.J.",
+                    "last": "Cox"
+                },
+                {
+                    "first": "Jacqueline M.",
+                    "initial": "J.M.",
+                    "last": "Katz"
+                },
+                {
+                    "first": "Jeffery K.",
+                    "initial": "J.K.",
+                    "last": "Taubenger"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Pales"
+                },
+                {
+                    "first": "Adolfo",
+                    "initial": "A.",
+                    "last": "Garc\u00eda-Sastre"
+                }
+            ],
+            "doi": "10.1126/science.1119392",
+            "firstpage": "77",
+            "issn": "00368075",
+            "lastpage": "80",
+            "pmid": "16210530",
+            "pub_year": 2005,
+            "title": "Characterization of the reconstructed 1918 Spanish influenza pandemic virus",
+            "volume": "310"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Nicole M.",
+                    "initial": "N.M.",
+                    "last": "Bouvier"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Palese"
+                }
+            ],
+            "doi": "10.1016/j.vaccine.2008.07.039",
+            "firstpage": "D49",
+            "issn": "0264410X",
+            "lastpage": "D53",
+            "pmid": "19230160",
+            "pub_year": 2008,
+            "title": "The biology of influenza viruses",
+            "volume": "26"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Xiaojin",
+                    "initial": "X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Xueyong",
+                    "initial": "X.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Raymond A.",
+                    "initial": "R.A.",
+                    "last": "Dwek"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Stevens"
+                },
+                {
+                    "first": "Ian A.",
+                    "initial": "I.A.",
+                    "last": "Wilson"
+                }
+            ],
+            "doi": "10.1128/JVI.00959-08",
+            "firstpage": "10493",
+            "issn": "0022538X",
+            "lastpage": "10501",
+            "pmid": "18715929",
+            "pub_year": 2008,
+            "title": "Structural characterization of the 1918 influenza virus H1N1 neuraminidase",
+            "volume": "82"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "J. N.",
+                    "initial": "J.N.",
+                    "last": "Varghese"
+                },
+                {
+                    "first": "W. G.",
+                    "initial": "W.G.",
+                    "last": "Laver"
+                },
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Colman"
+                }
+            ],
+            "doi": "10.1038/303035a0",
+            "firstpage": "35",
+            "issn": "00280836",
+            "lastpage": "40",
+            "pmid": "6843658",
+            "pub_year": 1983,
+            "title": "Structure of the influenza virus glycoprotein antigen neuraminidase at 2.9 \u00c5 resolution",
+            "volume": "303"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 17965,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 17882,
+                    "startOffset": 17878
+                },
+                "bib8": {
+                    "endOffset": 17810,
+                    "startOffset": 17807
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Since the stalk region that is highly enriched with N-glycosylation sites is involved in the oligomerization of the protein [8] and possibly protecting the protein from host cell protease attack [11], different glycosylation on this region is likely to affect these functionalities.",
+            "startOffset": 17683,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 21669,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 21668,
+                    "startOffset": 21664
+                }
+            },
+            "secId": "sec3",
+            "sentence": "One well-known example is antibody-dependent cell-mediated cytotoxicity (ADCC), where core-fucose inhibits carbohydrate\u2013carbohydrate interactions between the antibody and its receptor Fc\u03b3RIIIa [23].",
+            "startOffset": 21471,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15976,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 15975,
+                    "startOffset": 15971
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Previously, the pandemic 1918 H1N1 influenza viral NA was expressed and purified in an active form and an inactive form [11].",
+            "startOffset": 15851,
+            "title": "Tetramer and dimer contain similar amount of total N-glycan"
+        },
+        {
+            "endOffset": 16508,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "It was clear that the two forms had similar mobility around 53 kDa, while the theoretical mass is 48.3 kDa, again suggesting that the difference is structural.",
+            "startOffset": 16349,
+            "title": "Tetramer and dimer contain similar amount of total N-glycan"
+        },
+        {
+            "endOffset": 19208,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "When equivalent compositions from the dimer were analyzed, identical structures were obtained (data not shown).",
+            "startOffset": 19097,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 21040,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Previously, 1918 influenza viral NA was expressed as two inconvertible forms, i.e. active and inactive forms, suggesting an intrinsic difference between the two forms.",
+            "startOffset": 20873,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29435,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 29364,
+                    "startOffset": 29360
+                }
+            },
+            "secId": "sec4.8",
+            "sentence": "The general procedure of glycoprotein labeling with click chemistry (GLCC) [21] was followed to probe core-6 fucosylation with recombinant human FUT8.",
+            "startOffset": 29285,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 26237,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "The released N-glycans were separated from peptides on a second C18 SPE using 5% ACN/0.1 TFA as elution buffer.",
+            "startOffset": 26126,
+            "title": "Sample preparation of released N-glycans"
+        },
+        {
+            "endOffset": 15781,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 15690,
+                    "startOffset": 15686
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This discovery was further supported by the data obtained from in vitro incorporation of azido-fucose that was detected via click chemistry [12] and radio-labeled fucose at core-6 position using recombinant fucosyltransferase 8 (FUT8).",
+            "startOffset": 15546,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24079,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "10,000 MWCO centrifugal devices were obtained from Millipore.",
+            "startOffset": 24018,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 27151,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "The laser energy (power) was manually adjusted to obtain best signals (80\u2013120).",
+            "startOffset": 27072,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 24017,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The NuPAGE series of LDS sample buffer (4\u00d7), MOPS SDS running buffer (20\u00d7), SimplyBlue SafeStain and 4\u201312% Bis-Tris Gels were from Life Technologies.",
+            "startOffset": 23868,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 29653,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.8",
+            "sentence": "The dimer NA at 95 ng/\u03bcL or the tetramer NA at 70 ng/\u03bcL was incubated with 30 ng/\u03bcL of FUT8, or 40 ng/\u03bcL of FUT11, plus 0.08 mM GDP-azido-fucose in 25 mM Tris (pH 7.5), 150 mM NaCl, and 4 mM MnCl2 at 37 \u00b0C for 90 min.",
+            "startOffset": 29436,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 28421,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.5",
+            "sentence": "The reaction kinetics was monitored by fluorescence at excitation of 365 nm and emission of 445 nm in a SpectraMax Multi-Mode Microplate Reader (Molecular Device).",
+            "startOffset": 28258,
+            "title": "Neuraminidase activity assay"
+        },
+        {
+            "endOffset": 18310,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Even more surprisingly, the glycans of the stalk region of the active tetramer were found to be almost completely devoid of fucosylation (Fig. 2C), while those of the inactive form were largely fucosylated (Fig. 2D).",
+            "startOffset": 18094,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 18093,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For this reasoning, the tryptic peptides of the stalk region of the two forms were further isolated and analyzed with MALDI-MS.",
+            "startOffset": 17966,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 19363,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Overall, MS analysis clearly indicated that the level of core-6-linked fucosylation was the major difference between the N-glycans of the two forms of NA.",
+            "startOffset": 19209,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 30504,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.8",
+            "sentence": "The blot was then blocked with 10% milk, washed thoroughly with TBS buffer (25 mM Tris, pH 7.6, 137 mM NaCl and 0.01% Tween), incubated with 75 ng/mL streptavidin-HRP in 25 mM Tris, 150 mM NaCl, pH 7.5 for 30 min, washed three times in TBS for a total of 30 min, incubated with ECL chemiluminescent substrate (Thermo Scientific) briefly, and then exposed to an X-ray film for 20 s.",
+            "startOffset": 30123,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 13407,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 13311,
+                    "startOffset": 13306
+                },
+                "bib3": {
+                    "endOffset": 13311,
+                    "startOffset": 13306
+                },
+                "bib4": {
+                    "endOffset": 13383,
+                    "startOffset": 13380
+                },
+                "bib5": {
+                    "endOffset": 13406,
+                    "startOffset": 13403
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Currently, influenza is an ongoing threat to human society [2,3], having caused the recent pandemics of the 2005 Hong Kong avian flu [4] and 2009 swine flu [5].",
+            "startOffset": 13247,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26125,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "Each sample was then digested with 2 \u03bcL PNGase F at 37 \u00b0C for 1 h.",
+            "startOffset": 26059,
+            "title": "Sample preparation of released N-glycans"
+        },
+        {
+            "endOffset": 24934,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "SDS-PAGE was performed using MOPS SDS buffer and protein was stained with SimplyBlue SafeStain according to the vendor's protocol.",
+            "startOffset": 24804,
+            "title": "Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+        },
+        {
+            "endOffset": 24700,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "Both samples were then reduced by 25 mM DTT (45 min at 50 \u00b0C), and alkylated by 40 mM IAA (30 min at 23 \u00b0C) in a dark environment.",
+            "startOffset": 24570,
+            "title": "Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+        },
+        {
+            "endOffset": 16133,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The expressed sequence contains seven potential N-glycosylation sites and five of them reside in a single tryptic peptide within its stalk region (Fig. 1A).",
+            "startOffset": 15977,
+            "title": "Tetramer and dimer contain similar amount of total N-glycan"
+        },
+        {
+            "endOffset": 25280,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "The proteolytic digestion was stopped by the addition of TFA into the samples in an ice bath.",
+            "startOffset": 25187,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 23828,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Sep-Pak C18 SPE cartridge was from Waters.",
+            "startOffset": 23786,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 19990,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "As shown in Fig. 3A, same amount of the tetramer accommodated significantly more azido fucose than the dimer.",
+            "startOffset": 19881,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 25735,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "Small peptides were removed by repeated centrifugation (2\u00d7), and the retained fraction in the sample chamber was collected as the stalk region tryptic peptide as described in the Results section.",
+            "startOffset": 25540,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 28063,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.5",
+            "sentence": "The NA enzyme was first diluted with an assay buffer (50 mM Tris, 5 mM CaCl2 and 200 mM NaCl at pH 7.5) to a concentration of 1 ng/\u03bcL.",
+            "startOffset": 27929,
+            "title": "Neuraminidase activity assay"
+        },
+        {
+            "endOffset": 21470,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Core-fucose is known to be involved in several biological events.",
+            "startOffset": 21405,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22955,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "If core-fucosylation indeed inhibited the oligomerization and the activation of the neuraminidase of the 1918 pandemic influenza virus, people with higher level of FUT8 activity would have been advantageous for survival during the pandemic.",
+            "startOffset": 22715,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14945,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 14944,
+                    "startOffset": 14940
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Previously, the expression of the 1918 influenza viral NA resulted in isolation of both active tetramer and inactive dimer/monomer forms [11].",
+            "startOffset": 14803,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24258,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 24257,
+                    "startOffset": 24253
+                }
+            },
+            "secId": "sec4",
+            "sentence": "NA was expressed with N-terminal His tag in sf21 insect cells and purified using nickel-histidine affinity chromatography followed by gel filtration as previously described [11].",
+            "startOffset": 24080,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 26983,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "N-Glycans were directly spotted onto a stainless steel plate and mixed with an equal volume of matrix solution (0.5\u20131 \u03bcL).",
+            "startOffset": 26861,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 13524,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Research on the 1918 influenza virus may provide key insights for combating the emerging strains of influenza virus.",
+            "startOffset": 13408,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15545,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Mass spectrometry analysis revealed a striking difference between the levels of core-6 fucosylation, where the overall level of core-6-linked fucosylation was significantly lower in the active form accompanied by almost complete absence of core-6-fucose within its stalk region.",
+            "startOffset": 15267,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14471,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 14470,
+                    "startOffset": 14467
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The stalk region of the NA from the 1918 influenza virus contains approximately 50 amino acid residues (aa40\u2013aa90) and is responsible for the oligomerization of the protein [8].",
+            "startOffset": 14294,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17479,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 17478,
+                    "startOffset": 17474
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Since all detected glycans were neutral and similar in size, the relative abundance of individual composition within each sample should be proportional to its peak intensity in each MALDI-MS spectrum [14].",
+            "startOffset": 17274,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 28800,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.6",
+            "sentence": "The reaction was then incubated at room temperature for required length of time.",
+            "startOffset": 28720,
+            "title": "In\u00a0vitro enzymatic fucosylation"
+        },
+        {
+            "endOffset": 25186,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "The aliquots of both reduced and alkylated forms (tetramer and dimer) of NA were incubated with trypsin overnight at a weight ratio (1/25: trypsin/NA) in a 37 \u00b0C oven.",
+            "startOffset": 25019,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 23867,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "PNGase F was from New England Biolabs.",
+            "startOffset": 23829,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 13849,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 13848,
+                    "startOffset": 13845
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Influenza virus has two surface antigens, hemagglutinin (HA) and neuraminidase (NA) [7].",
+            "startOffset": 13761,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17060,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 16929,
+                    "startOffset": 16925
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "In the spectrum of the tetramer, the most dominant peak (m/z 935.36, Hex3HexNAc2) was from a pentasaccharide Man3GlcNAc2 [13], and the second dominant peak at much less abundance (m/z 1081.43, Hex3HexNAc2Fuc1) was from a fucosylated glycan Man3GlcNAc2Fuc1.",
+            "startOffset": 16804,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 28719,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.6",
+            "sentence": "Enzymatic fucosylation was carried out by combining 1 \u03bcg of substrate (dimer or tetramer NA) with either 2 \u03bcL of GDP-3H-fucose (1.2 \u03bcM from Perkin Elmer) or 5 nmol of GDP-fucose, and 0.5 \u03bcg of recombinant human FUT8 in 20 \u03bcL of 10 mM Tris (pH 7.0) and 10 mM MnCl2.",
+            "startOffset": 28455,
+            "title": "In\u00a0vitro enzymatic fucosylation"
+        },
+        {
+            "endOffset": 22433,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 22432,
+                    "startOffset": 22428
+                }
+            },
+            "secId": "sec3",
+            "sentence": "In the case of 1918 influenza viral NA, considering that the stalk region is heavily glycosylated and play roles in the process of oligomerization, it is likely that the core-fucosylation in this region weakened the carbohydrate\u2013carbohydrate interaction so that it prevented the tetramerization but allowed the formation of dimer, and explains the earlier observation that the monomer and dimer were convertible but not the tetramer [11].",
+            "startOffset": 21995,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23424,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Accordingly, if core-fucosylation is a general mechanism for inhibiting the oligomerization of influenza viral neuraminidases, it will be a good target for influenza drug development.",
+            "startOffset": 23241,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15266,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Herein, we further characterize the N-glycans from the two forms by mass spectrometry and in vitro glycosylation study.",
+            "startOffset": 15147,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20159,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "When the core-6 fucosylation was probed with 3H-fucose using FUT8, again, the active tetramer incorporated significantly more 3H-fucose compared to the dimer (Fig. 3B).",
+            "startOffset": 19991,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 27576,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "The ESI source voltage was set at 2.0\u20132.5 kV, and the capillary temperature at 230 \u00b0C.",
+            "startOffset": 27490,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 16220,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "It was found that the glycosylation was intrinsically different between the two forms.",
+            "startOffset": 16134,
+            "title": "Tetramer and dimer contain similar amount of total N-glycan"
+        },
+        {
+            "endOffset": 24569,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "The active tetramer and inactive dimer of the purified 1918 H1N1 NA were first reconstituted in 8 M urea/0.4 M ammonium bicarbonate.",
+            "startOffset": 24437,
+            "title": "Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+        },
+        {
+            "endOffset": 21405,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, in vitro core-fucosylation of the active form didn't abolish its activity, suggesting that there is no direct link between core-fucosylation and enzymatic activity.",
+            "startOffset": 21232,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25799,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 25798,
+                    "startOffset": 25794
+                }
+            },
+            "secId": "sec4.2",
+            "sentence": "Peptides were further desalted by passage through C18 SPE [30].",
+            "startOffset": 25736,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 14802,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Despite this success, our understanding of NA regulation remains limited, particularly regarding the biological functions of NA glycosylation.",
+            "startOffset": 14660,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18509,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 18508,
+                    "startOffset": 18501
+                },
+                "bib16": {
+                    "endOffset": 18508,
+                    "startOffset": 18501
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "To locate the position of the fucosylation, the permethylated N-glycans from both forms were subjected to ESI-MSn fragmentation [15,16].",
+            "startOffset": 18373,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 15146,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Subsequently, the N-glycans on the two forms were found to be different.",
+            "startOffset": 15074,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24366,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Recombinant FUT8, FUT11, GDP-azido-fucose, biotinylated alkyne, and streptavidin-HRP were from R&D Systems.",
+            "startOffset": 24259,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 27071,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "The MALDI-MS spectra were acquired in the positive reflectron mode from 600 to 5000 Da.",
+            "startOffset": 26984,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 26058,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "The desalted peptides, either from tryptic digestion of 150 \u03bcg of an NA sample or its equivalent amount of purified stalk region, were re-dissolved in 5 \u03bcL of 500 mM sodium phosphate (pH 7.5) and 45 \u03bcL of HPLC water.",
+            "startOffset": 25842,
+            "title": "Sample preparation of released N-glycans"
+        },
+        {
+            "endOffset": 15073,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The inactive form was unable to oligomerize to the active form, suggesting intrinsic molecular differences among the two forms.",
+            "startOffset": 14946,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17273,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Surprisingly, in the spectrum of the dimer, the fucosylated glycan (m/z 1081.42, Hex3HexNAc2Fuc1) became the most dominant peak, and the non-fucosylated glycan (m/z 935.33, Hex3HexNAc2) became much less abundant.",
+            "startOffset": 17061,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 20647,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Given that the active NA had significant lower level of core-fucosylation than that of the inactive form, it is imperative to investigate whether in vitro fucosylation will inactive the active form.",
+            "startOffset": 20449,
+            "title": "In\u00a0vitro core-fucosylation of the active NA didn't abolish its activity"
+        },
+        {
+            "endOffset": 19880,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 19804,
+                    "startOffset": 19797
+                },
+                "bib20": {
+                    "endOffset": 19804,
+                    "startOffset": 19797
+                },
+                "bib21": {
+                    "endOffset": 19879,
+                    "startOffset": 19872
+                },
+                "bib22": {
+                    "endOffset": 19879,
+                    "startOffset": 19872
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "The incorporated azido fucose was then conjugated to a biotin residue via a click chemistry reaction [19,20], and detected with streptavidin-conjugated horse radish peroxidase [21,22].",
+            "startOffset": 19696,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 20375,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Considering that the two forms of NA had similar amount of total glycans (Fig. 1B), the results in Fig. 3 again suggest that the active tetramer had significantly more non-fucosylated glycans than the inactive dimer.",
+            "startOffset": 20159,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 13761,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Significant effort has been made to decipher the mechanism of the lethality of this virus since then.",
+            "startOffset": 13660,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21994,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 21993,
+                    "startOffset": 21989
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Core fucosylation of N-glycans is also required for the binding of EGF to its receptor, suggesting core fucosylation is critical to EGF mediated intracellular signaling [25].",
+            "startOffset": 21820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26496,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 26455,
+                    "startOffset": 26451
+                },
+                "bib31": {
+                    "endOffset": 26478,
+                    "startOffset": 26474
+                }
+            },
+            "secId": "sec4.3",
+            "sentence": "The reduced N-glycans were purified using hand-packed cellulose cartridges [15] and permethylated [31] for MSn analysis.",
+            "startOffset": 26376,
+            "title": "Sample preparation of released N-glycans"
+        },
+        {
+            "endOffset": 29964,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.8",
+            "sentence": "One \u03bcg each of fucosylated NA samples was loaded per well onto a 12% SDS-PAGE gel containing 2,2,2-Trichloroethanol.",
+            "startOffset": 29848,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 13246,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 13245,
+                    "startOffset": 13242
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Its estimated infection rate lies between 25% and 30% of the 1918 global population with approximately 50\u2013100 million deaths worldwide [1].",
+            "startOffset": 13107,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13659,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 13658,
+                    "startOffset": 13655
+                }
+            },
+            "secId": "sec1",
+            "sentence": "For this reason, the 1918 influenza virus (A/Brevig Mission/1/18) was resurrected from the body of an Alaskan Inuit woman in 2005 [6].",
+            "startOffset": 13525,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18936,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 18852,
+                    "startOffset": 18848
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "Given that the N-glycans were enzymatically released by PNGase F that lacks activity on core-3-linked fucosylated N-glycans [17], the fucose residue must be at the 6-O position of the reducing end GlcNAc residue.",
+            "startOffset": 18724,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 26622,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "MALDI-MS was carried out on a MALDI-TOF instrument (MALDI-CFR, Shimadzu), with a nitrogen laser at 337 nm.",
+            "startOffset": 26516,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 19695,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "To confirm the results of mass spectrometry analysis, the levels of core-6 fucosylation were further probed with azido fucose using recombinant human FUT8.",
+            "startOffset": 19540,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 29099,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.7",
+            "sentence": "The filters were dried and then thoroughly washed in 200 mL of water in a shaker for 5 min.",
+            "startOffset": 29008,
+            "title": "Filter binding assay"
+        },
+        {
+            "endOffset": 25539,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "Briefly, the mixture of crude tryptic peptides was re-dissolved in 500 \u03bcL of HPLC water and transferred into the sample chamber of a centrifugal filter.",
+            "startOffset": 25387,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 26375,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.3",
+            "sentence": "When required, N-glycans were further reduced to the corresponding alditols by the addition of 200 \u03bcL of NaBH4 (10 mg/mL in 0.01 M NaOH).",
+            "startOffset": 26238,
+            "title": "Sample preparation of released N-glycans"
+        },
+        {
+            "endOffset": 16348,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "To further investigate this difference, the two forms were first separated on SDS gel after reduction and alkylation (Fig. 1B).",
+            "startOffset": 16221,
+            "title": "Tetramer and dimer contain similar amount of total N-glycan"
+        },
+        {
+            "endOffset": 27489,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "ESI-MS and ESI-MSn of permethylated N-glycans were carried out on a Thermo linear ion trap instrument LTQ (Thermo Fisher Scientific) equipped with direct chip-based infusion (Triversa Nanomate).",
+            "startOffset": 27295,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 29216,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.7",
+            "sentence": "The filters were finally counted with an LS 6500 scintillation counter in Ready Protein\u2122 cocktail (Beckman Coulter).",
+            "startOffset": 29100,
+            "title": "Filter binding assay"
+        },
+        {
+            "endOffset": 27839,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "MS/MS and MSn spectra were performed using a normalized collision energy at 35%, activation Q at 0.25, and activation time of 30 ms. All scans of one spectrum were accumulated by Xcalibur 2.0.",
+            "startOffset": 27647,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 28941,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.7",
+            "sentence": "Following 3H-fucose incorporation, 8 \u03bcL from each reaction was spotted on a type GF/C glass fiber (Fisher Scientific).",
+            "startOffset": 28823,
+            "title": "Filter binding assay"
+        },
+        {
+            "endOffset": 13987,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 13986,
+                    "startOffset": 13983
+                }
+            },
+            "secId": "sec1",
+            "sentence": "HA initially recognizes and binds to the terminal sialic acid residue on a host cell surface to mediate viral infection and infusion [5].",
+            "startOffset": 13850,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22481,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 22480,
+                    "startOffset": 22476
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Fucosylation is ubiquitous and age related [26].",
+            "startOffset": 22433,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23785,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Ammonium bicarbonate, dithiothreitol (DTT), iodoacetamide (IAA), trifluoroacetic acid (TFA), sodium hydroxide (NaOH), dimethyl sulfoxide (DMSO), iodomethane (CH3I), sodium borohydride (NaBH4), 2,5-dihydroxybenzoic acid (DHB), urea, cellulose (medium fibrous), trypsin, HPLC grade ethanol, 1-butanol, and GDP-fucose were from Sigma\u2013Aldrich.",
+            "startOffset": 23446,
+            "title": "Materials and methods"
+        },
+        {
+            "endOffset": 27294,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "A minimum of 1500 scan were averaged for each spectra using the Spectrum Contents within the application Launchpad (v2.8.4, Shimadzu Biotech).",
+            "startOffset": 27152,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 18723,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "When the fucosylated composition (Hex3HexNAc2Fuc1) from the tetramer was analyzed, the fucose residue was found to be linked to the reducing end GlcNAc of the oligosaccharide Man3GlcNAc2Fuc1 (Supplemental Fig. 1).",
+            "startOffset": 18510,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 23240,
+            "parents": [],
+            "refoffsets": {
+                "bib29": {
+                    "endOffset": 23239,
+                    "startOffset": 23235
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Therefore, together with the age specific expression of core-fucose, the current finding may explain the mystery of the 1918 pandemic influenza, i.e. it caused a relatively lower death rate among the older population, while the younger population experienced a higher death rate [29].",
+            "startOffset": 22956,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20780,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "To answer this question, the active tetramer was fucosylated using FUT8 for different time lengths before its activity was measured.",
+            "startOffset": 20648,
+            "title": "In\u00a0vitro core-fucosylation of the active NA didn't abolish its activity"
+        },
+        {
+            "endOffset": 27646,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "MS spectra were acquired from m/z 500\u20131800 with a minimum of 30 scan.",
+            "startOffset": 27577,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 14293,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 14292,
+                    "startOffset": 14289
+                }
+            },
+            "secId": "sec1",
+            "sentence": "NA is a box-shaped tetrameric glycoprotein with a large and globular head, a stalk region, and a small hydrophobic region that anchors the antigen into the viral lipid membrane [8].",
+            "startOffset": 14112,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21231,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In this report, using mass spectrometry and in vitro fucosylation, we demonstrated that the inactive form is highly core-fucosylated, whereas the active form is mainly devoid of core fucose.",
+            "startOffset": 21041,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19539,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 19538,
+                    "startOffset": 19534
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Core-6 fucosylation of the reducing-end GlcNAc on N-glycans is introduced by FUT8 in humans [18].",
+            "startOffset": 19442,
+            "title": "Probing core-6 fucosylation using click chemistry and tritium-labeled fucose"
+        },
+        {
+            "endOffset": 26860,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "The matrix solution was prepared by dissolving 10 mg of DHB in a volume of 1 mL of 50% acetonitrile containing 2 mM sodium acetate.",
+            "startOffset": 26729,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 22714,
+            "parents": [],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 22713,
+                    "startOffset": 22709
+                }
+            },
+            "secId": "sec3",
+            "sentence": "In a mouse model, it has been reported that the expression of Fut8 is up-regulated with age [28].",
+            "startOffset": 22617,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25386,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.2",
+            "sentence": "Large polypeptide-containing stalk regions from both samples were enriched via YM-10 centrifugal filters.",
+            "startOffset": 25281,
+            "title": "Tryptic digestion and the collection of tryptic peptide consisting of stalk region"
+        },
+        {
+            "endOffset": 26728,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.4",
+            "sentence": "External calibration was performed using the ProteoMass Peptide MALDI-MS calibration kit (Sigma\u2013Aldrich).",
+            "startOffset": 26623,
+            "title": "Mass spectrometry"
+        },
+        {
+            "endOffset": 14111,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 14110,
+                    "startOffset": 14107
+                }
+            },
+            "secId": "sec1",
+            "sentence": "NA subsequently hydrolyzes host sialic acid residues to allow release of the progeny virus and spread of the infection [8].",
+            "startOffset": 13988,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13106,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The 1918 influenza, or \u201cSpanish Flu\u201d virus, caused the most devastating pandemic in recorded human history.",
+            "startOffset": 12999,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29007,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.7",
+            "sentence": "Ethanol (75%) was dropped to these spots to denature the protein.",
+            "startOffset": 28942,
+            "title": "Filter binding assay"
+        },
+        {
+            "endOffset": 28257,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.5",
+            "sentence": "To start the reaction, 50 \u03bcL of the diluted enzyme was mixed with 50 \u03bcL of 400 \u03bcM substrate 2\u2032-(4-methylumbelliferyl)-\u03b1-D-N-acetylneuraminic acid (Sigma\u2013Aldrich) in a 96-well fluorescent plate.",
+            "startOffset": 28064,
+            "title": "Neuraminidase activity assay"
+        },
+        {
+            "endOffset": 20862,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Surprisingly, the enzymatic activity remained constant along the course (Fig. 4).",
+            "startOffset": 20781,
+            "title": "In\u00a0vitro core-fucosylation of the active NA didn't abolish its activity"
+        },
+        {
+            "endOffset": 22616,
+            "parents": [],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 22615,
+                    "startOffset": 22611
+                }
+            },
+            "secId": "sec3",
+            "sentence": "For example, older people (>60 years old) has higher level of fucosylated haptoglobin compared to younger people (<40 years old) [27].",
+            "startOffset": 22482,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30122,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 30040,
+                    "startOffset": 30036
+                }
+            },
+            "secId": "sec4.8",
+            "sentence": "The gel was run at 50 mA, imaged via the method of Ladner, C.L. et al. [32], and further electro-transferred onto nitrocellulose membrane at 25 V for 30 min.",
+            "startOffset": 29965,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 19096,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "To this end, the most abundant composition (Hex3HexNAc2) of the tetramer was confirmed to be a typical core pentasaccharide (Man3GlcNAc2) (Supplemental Fig. 2).",
+            "startOffset": 18936,
+            "title": "Locate the positioning of fucosylation via MSn fragmentation"
+        },
+        {
+            "endOffset": 14659,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 14658,
+                    "startOffset": 14654
+                },
+                "bib9": {
+                    "endOffset": 14549,
+                    "startOffset": 14546
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The active site of NA is highly conserved throughout all influenza viruses [9], and this has allowed the development of two enzyme-inhibitor based anti-flu drugs: Tamiflu and Relenza [10].",
+            "startOffset": 14471,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24803,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.1",
+            "sentence": "An aliquot of 2 \u03bcg of each form was mixed with LDS sample buffer and loaded onto a 4\u201312% Bis-Tris gel.",
+            "startOffset": 24701,
+            "title": "Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)"
+        },
+        {
+            "endOffset": 17683,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Based on this assumption, the non-fucosylated compositions were calculated to account for 81.89% of the total glycans in the tetramer, and 26.40% of the total glycans in the dimer (Supplemental Table 1).",
+            "startOffset": 17480,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 27928,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 27914,
+                    "startOffset": 27910
+                }
+            },
+            "secId": "sec4.5",
+            "sentence": "The activity assay previously described [11] was followed.",
+            "startOffset": 27870,
+            "title": "Neuraminidase activity assay"
+        },
+        {
+            "endOffset": 16803,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The mass spectra showed simple pauci- and high-mannose type glycans.",
+            "startOffset": 16735,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 16734,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "To further investigate the difference on glycosylation, the N-glycans of the two forms were released and analyzed with MALDI-MS (Fig. 2A and B).",
+            "startOffset": 16590,
+            "title": "N-glycans of the tetramer and dimer NA possess different levels of fucosylation"
+        },
+        {
+            "endOffset": 29847,
+            "parents": [
+                {
+                    "id": "sec4",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec4.8",
+            "sentence": "To initiate the click chemistry reaction, 100 \u03bcM biotinylated alkyne, 100 \u03bcM CuCl2, and 2 mM ascorbic acid were added to the mixtures, and followed by incubation at room temperature for 1 hour.",
+            "startOffset": 29654,
+            "title": "Probing the core-6 fucose on the two forms of NA with azido fucose"
+        },
+        {
+            "endOffset": 21819,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 21818,
+                    "startOffset": 21814
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Antibodies lacking core fucosylation show a large increase in affinity for Fc\u03b3RIIIa, leading to an improved receptor-mediated effector function [24].",
+            "startOffset": 21670,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X16304077",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "Leon.wu@bio-techne.com",
+                "first": "Zhengliang L.",
+                "initial": "Z.L.",
+                "last": "Wu"
+            },
+            {
+                "email": null,
+                "first": "Hui",
+                "initial": "H.",
+                "last": "Zhou"
+            },
+            {
+                "email": null,
+                "first": "Cheryl M.",
+                "initial": "C.M.",
+                "last": "Ethen"
+            },
+            {
+                "email": "Vernon.Reinhold@unh.edu",
+                "first": "Vernon N.",
+                "initial": "V.N.",
+                "last": "Reinhold"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.03.096",
+        "firstpage": "524",
+        "issn": "0006291X",
+        "keywords": [
+            "Carbohydrate interaction",
+            "Click chemistry",
+            "Core fucose",
+            "Fucosyltransferase",
+            "Influenza viral neuraminidase",
+            "N-glycan"
+        ],
+        "lastpage": "529",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Core-6 fucose and the oligomerization of the 1918 pandemic influenza viral neuraminidase"
+    }
+}

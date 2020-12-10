@@ -1,0 +1,3202 @@
+{
+    "abstract": "Human Immunodeficiency Virus-1 (HIV-1) encodes a 27 kDa Negative Factor or Nef protein, which is increasingly proving to be a misnomer. Nef seems to be crucial for AIDS progression as individuals infected with nef-deleted strain of HIV were reported to become Long Term Non Progressors (LTNP). These findings necessitate tracing of Nef's footprint on landscape of cellular transcriptome favoring HIV-1 pathogenesis. We have tried to explore effect of Nef on cellular gene expression profile in conjunction with rest of HIV-1 proteins. Our results show that 237 genes are differentially regulated due to the presence of Nef during infection, which belong to several broad categories like \"signaling\", \"apoptosis\", \"transcription\" and \"lipid metabolism\" in gene ontology analysis. Furthermore, our results show that Nef causes disruption of lipid content in HIV-1 infected T cells. Molecular inhibitors of lipid metabolism like Atorvastatin and Ranolazine were found to have profound effect on wild type virus as compared to nef-deleted HIV-1. Thus our results suggest that interference in lipid metabolism is a potential mechanism through which Nef contributes in enhancing HIV-1 pathogenesis.",
+    "author_highlights": [
+        {
+            "endOffset": 17544,
+            "sentence": "Nef seems to modulate expression of 237 cellular genes in HIV-1 infected cells.",
+            "startOffset": 17465
+        },
+        {
+            "endOffset": 17625,
+            "sentence": "Nef modulates lipid metabolism genes and lowers lipid content in infected cells.",
+            "startOffset": 17545
+        },
+        {
+            "endOffset": 17711,
+            "sentence": "Inhibitors of lipid metabolism inhibit WT HIV-1 more potently than nef-deleted virus.",
+            "startOffset": 17626
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Ajith M.",
+                    "initial": "A.M.",
+                    "last": "Joseph"
+                },
+                {
+                    "first": "Manish",
+                    "initial": "M.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "Debashis",
+                    "initial": "D.",
+                    "last": "Mitra"
+                }
+            ],
+            "doi": "10.2174/1570162052773013",
+            "firstpage": "87",
+            "issn": "1570162X",
+            "lastpage": "94",
+            "pmid": "15638726",
+            "pub_year": 2005,
+            "title": "Nef: \"Necessary and enforcing factor\" in HIV infection",
+            "volume": "3"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Alison",
+                    "initial": "A.",
+                    "last": "Simmons"
+                },
+                {
+                    "first": "Varuna",
+                    "initial": "V.",
+                    "last": "Aluvihare"
+                },
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "McMichael"
+                }
+            ],
+            "doi": "10.1016/S1074-7613(01)00158-3",
+            "firstpage": "763",
+            "issn": "10747613",
+            "lastpage": "777",
+            "pmid": "11420046",
+            "pub_year": 2001,
+            "title": "Nef triggers a transcriptional program in T cells imitating single-signal T cell activation and inducing HIV virulence mediators",
+            "volume": "14"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Kaori",
+                    "initial": "K.",
+                    "last": "Otake"
+                },
+                {
+                    "first": "Shinya",
+                    "initial": "S.",
+                    "last": "Omoto"
+                },
+                {
+                    "first": "Takuya",
+                    "initial": "T.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Harumi",
+                    "initial": "H.",
+                    "last": "Okuyama"
+                },
+                {
+                    "first": "Hidechika",
+                    "initial": "H.",
+                    "last": "Okada"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Okada"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Kawai"
+                },
+                {
+                    "first": "Nitin K.",
+                    "initial": "N.K.",
+                    "last": "Saksena"
+                },
+                {
+                    "first": "Yoichi R.",
+                    "initial": "Y.R.",
+                    "last": "Fujii"
+                }
+            ],
+            "doi": "10.1097/00002030-200401230-00007",
+            "firstpage": "189",
+            "issn": "02699370",
+            "lastpage": "198",
+            "pmid": "15075535",
+            "pub_year": 2004,
+            "title": "HIV-1 Nef protein in the nucleus influences adipogenesis as well as viral transcription through the peroxisome proliferator-activated receptors",
+            "volume": "18"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Susanne",
+                    "initial": "S.",
+                    "last": "Kramer-H\u00e4mmerle"
+                },
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Hahn"
+                },
+                {
+                    "first": "Ruth",
+                    "initial": "R.",
+                    "last": "Brack-Werner"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Werner"
+                }
+            ],
+            "doi": "10.1016/j.gene.2005.05.011",
+            "firstpage": "31",
+            "issn": "03781119",
+            "lastpage": "38",
+            "pmid": "15958282",
+            "pub_year": 2005,
+            "title": "Elucidating effects of long-term expression of HIV-1 Nef on astrocytes by microarray, promoter, and literature analyses",
+            "volume": "358"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Madeeha",
+                    "initial": "M.",
+                    "last": "Aqil"
+                },
+                {
+                    "first": "Saurav",
+                    "initial": "S.",
+                    "last": "Mallik"
+                },
+                {
+                    "first": "Sanghamitra",
+                    "initial": "S.",
+                    "last": "Bandyopadhyay"
+                },
+                {
+                    "first": "Ujjwal",
+                    "initial": "U.",
+                    "last": "Maulik"
+                },
+                {
+                    "first": "Shahid",
+                    "initial": "S.",
+                    "last": "Jameel"
+                }
+            ],
+            "doi": "10.1155/2015/492395",
+            "issn": "23146133",
+            "pmid": "25961023",
+            "pub_year": 2015,
+            "title": "Transcriptomic analysis of mRNAs in human monocytic cells expressing the HIV-1 nef protein and their exosomes",
+            "volume": "2015"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Angela",
+                    "initial": "A.",
+                    "last": "Ciuffi"
+                },
+                {
+                    "first": "Miguel",
+                    "initial": "M.",
+                    "last": "Munoz"
+                },
+                {
+                    "first": "Gabriela",
+                    "initial": "G.",
+                    "last": "Bleiber"
+                },
+                {
+                    "first": "Manuel",
+                    "initial": "M.",
+                    "last": "Favre"
+                },
+                {
+                    "first": "Francoise",
+                    "initial": "F.",
+                    "last": "Stutz"
+                },
+                {
+                    "first": "Amalio",
+                    "initial": "A.",
+                    "last": "Telenti"
+                },
+                {
+                    "first": "Pascal R.A.",
+                    "initial": "P.R.A.",
+                    "last": "Meylan"
+                }
+            ],
+            "doi": "10.1089/088922204323048140",
+            "firstpage": "399",
+            "issn": "08892229",
+            "lastpage": "407",
+            "pmid": "15157358",
+            "pub_year": 2004,
+            "title": "Interactions of processed Nef (58-206) with virion proteins of HIV type 1",
+            "volume": "20"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Stephen P.",
+                    "initial": "S.P.",
+                    "last": "Adams"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Tsang"
+                },
+                {
+                    "first": "James M.",
+                    "initial": "J.M.",
+                    "last": "Wright"
+                }
+            ],
+            "doi": "10.1002/14651858.CD008226.pub3",
+            "issn": "1469493X",
+            "pmid": "25760954",
+            "pub_year": 2015,
+            "title": "Lipid-lowering efficacy of atorvastatin",
+            "volume": "2015"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Joe R.",
+                    "initial": "J.R.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "James J.",
+                    "initial": "J.J.",
+                    "last": "Nawarskas"
+                }
+            ],
+            "doi": "10.1097/01.crd.0000161979.62749.e7",
+            "firstpage": "202",
+            "issn": "10615377",
+            "lastpage": "210",
+            "pmid": "15949056",
+            "pub_year": 2005,
+            "title": "Ranolazine: A metabolic modulator for the treatment of chronic stable angina",
+            "volume": "13"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Adachi"
+                },
+                {
+                    "first": "H. E.",
+                    "initial": "H.E.",
+                    "last": "Gendelman"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Koenig"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Folks"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Willey"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Rabson"
+                },
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Martin"
+                }
+            ],
+            "firstpage": "284",
+            "issn": "0022538X",
+            "lastpage": "291",
+            "pmid": "3016298",
+            "pub_year": 1986,
+            "title": "Production of acquired immunodeficiency syndrome-associated retrovirus in human and nonhuman cells transfected with an infectious molecular clone",
+            "volume": "59"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Celsa A.",
+                    "initial": "C.A.",
+                    "last": "Spina"
+                },
+                {
+                    "first": "T. Jesse",
+                    "initial": "T.J.",
+                    "last": "Kwoh"
+                },
+                {
+                    "first": "Michal Y.",
+                    "initial": "M.Y.",
+                    "last": "Chowers"
+                },
+                {
+                    "first": "John C.",
+                    "initial": "J.C.",
+                    "last": "Guatelli"
+                },
+                {
+                    "first": "Douglas D.",
+                    "initial": "D.D.",
+                    "last": "Richman"
+                }
+            ],
+            "doi": "10.1084/jem.179.1.115",
+            "firstpage": "115",
+            "issn": "00221007",
+            "lastpage": "123",
+            "pmid": "7903679",
+            "pub_year": 1994,
+            "title": "The importance of nef in the induction of human immunodeficiency virus type 1 replication from primary quiescent CD4 lymphocytes",
+            "volume": "179"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Eleonora",
+                    "initial": "E.",
+                    "last": "Olivetta"
+                },
+                {
+                    "first": "Katherina",
+                    "initial": "K.",
+                    "last": "Pugliese"
+                },
+                {
+                    "first": "Roberta",
+                    "initial": "R.",
+                    "last": "Bona"
+                },
+                {
+                    "first": "Paola",
+                    "initial": "P.",
+                    "last": "D'Aloja"
+                },
+                {
+                    "first": "Flavia",
+                    "initial": "F.",
+                    "last": "Ferrantelli"
+                },
+                {
+                    "first": "Anna Claudia",
+                    "initial": "A.C.",
+                    "last": "Santarcangelo"
+                },
+                {
+                    "first": "Gianfranco",
+                    "initial": "G.",
+                    "last": "Mattia"
+                },
+                {
+                    "first": "Paola",
+                    "initial": "P.",
+                    "last": "Verani"
+                },
+                {
+                    "first": "Maurizio",
+                    "initial": "M.",
+                    "last": "Federico"
+                }
+            ],
+            "doi": "10.1128/JVI.74.1.483-492.2000",
+            "firstpage": "483",
+            "issn": "0022538X",
+            "lastpage": "492",
+            "pmid": "10590138",
+            "pub_year": 2000,
+            "title": "cis expression of the F12 human immunodeficiency virus (HIV) nef allele transforms the highly productive NL4-3 HIV type 1 to a replication-defective strain: Involvement of both Env gp41 and CD4 intracytoplasmic tails",
+            "volume": "74"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Basmaciogullari"
+                },
+                {
+                    "first": "Massimo",
+                    "initial": "M.",
+                    "last": "Pizzato"
+                }
+            ],
+            "doi": "10.3389/fmicb.2014.00232",
+            "issn": "1664302X",
+            "pub_year": 2014,
+            "title": "The activity of Nef on HIV-1 infectivity",
+            "volume": "5"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Gervaix"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "West"
+                },
+                {
+                    "first": "Lorenzo M.",
+                    "initial": "L.M.",
+                    "last": "Leoni"
+                },
+                {
+                    "first": "Douglas D.",
+                    "initial": "D.D.",
+                    "last": "Richman"
+                },
+                {
+                    "first": "Flossie",
+                    "initial": "F.",
+                    "last": "Wong-Staal"
+                },
+                {
+                    "first": "Jacques",
+                    "initial": "J.",
+                    "last": "Corbeil"
+                }
+            ],
+            "doi": "10.1073/pnas.94.9.4653",
+            "firstpage": "4653",
+            "issn": "00278424",
+            "lastpage": "4658",
+            "pmid": "9114046",
+            "pub_year": 1997,
+            "title": "A new reporter cell line to monitor HIV infection and drug susceptibility in vitro",
+            "volume": "94"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "C. A.",
+                    "initial": "C.A.",
+                    "last": "Derdeyn"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Decker"
+                },
+                {
+                    "first": "J. N.",
+                    "initial": "J.N.",
+                    "last": "Sfakianos"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "W. A.",
+                    "initial": "W.A.",
+                    "last": "O'Brien"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Ratner"
+                },
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Kappes"
+                },
+                {
+                    "first": "G. M.",
+                    "initial": "G.M.",
+                    "last": "Shaw"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Hunter"
+                }
+            ],
+            "doi": "10.1128/JVI.74.18.8358-8367.2000",
+            "firstpage": "8358",
+            "issn": "0022538X",
+            "lastpage": "8367",
+            "pmid": "10954535",
+            "pub_year": 2000,
+            "title": "Sensitivity of human immunodeficiency virus type 1 to the fusion inhibitor T-20 is modulated by coreceptor specificity defined by the V3 loop of gp120",
+            "volume": "74"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Dakai",
+                    "initial": "D.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Donegan"
+                },
+                {
+                    "first": "Gerard",
+                    "initial": "G.",
+                    "last": "Nuovo"
+                },
+                {
+                    "first": "Debashis",
+                    "initial": "D.",
+                    "last": "Mitra"
+                },
+                {
+                    "first": "Jeffrey",
+                    "initial": "J.",
+                    "last": "Laurence"
+                }
+            ],
+            "doi": "10.1128/jvi.71.5.4079-4085.1997",
+            "firstpage": "4079",
+            "issn": "0022538X",
+            "lastpage": "4085",
+            "pmid": "9094686",
+            "pub_year": 1997,
+            "title": "Stable human immunodeficiency virus type 1 (HIV-1) resistance in transformed CD4+ monocytic cells treated with multitargeting HIV-1 antisense sequences incorporated into U1 snRNA",
+            "volume": "71"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Pratima",
+                    "initial": "P.",
+                    "last": "Rawat"
+                },
+                {
+                    "first": "Debashis",
+                    "initial": "D.",
+                    "last": "Mitra"
+                }
+            ],
+            "doi": "10.1093/nar/gkr198",
+            "firstpage": "5879",
+            "issn": "03051048",
+            "lastpage": "5892",
+            "pmid": "21459854",
+            "pub_year": 2011,
+            "title": "Cellular heat shock factor 1 positively regulates human immunodeficiency virus-1 gene expression and replication by two distinct pathways",
+            "volume": "39"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Virginie",
+                    "initial": "V.",
+                    "last": "Driffort"
+                },
+                {
+                    "first": "Ludovic",
+                    "initial": "L.",
+                    "last": "Gillet"
+                },
+                {
+                    "first": "Emeline",
+                    "initial": "E.",
+                    "last": "Bon"
+                },
+                {
+                    "first": "S\u00e9verine",
+                    "initial": "S.",
+                    "last": "Marionneau-Lambot"
+                },
+                {
+                    "first": "Thibauld",
+                    "initial": "T.",
+                    "last": "Oullier"
+                },
+                {
+                    "first": "Virginie",
+                    "initial": "V.",
+                    "last": "Joulin"
+                },
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Collin"
+                },
+                {
+                    "first": "Jean Christophe",
+                    "initial": "J.C.",
+                    "last": "Pag\u00e8s"
+                },
+                {
+                    "first": "Marie Lise",
+                    "initial": "M.L.",
+                    "last": "Jourdan"
+                },
+                {
+                    "first": "St\u00e9phan",
+                    "initial": "S.",
+                    "last": "Chevalier"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Bougnoux"
+                },
+                {
+                    "first": "Jean Yves",
+                    "initial": "J.Y.",
+                    "last": "Le Guennec"
+                },
+                {
+                    "first": "Pierre",
+                    "initial": "P.",
+                    "last": "Besson"
+                },
+                {
+                    "first": "S\u00e9bastien",
+                    "initial": "S.",
+                    "last": "Roger"
+                }
+            ],
+            "doi": "10.1186/1476-4598-13-264",
+            "issn": "14764598",
+            "pmid": "25496128",
+            "pub_year": 2014,
+            "title": "Ranolazine inhibits NaV1.5-mediated breast cancer cell invasiveness and lung colonization",
+            "volume": "13"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Neurauter"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Wirleitner"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Laich"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Schennach"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Dietmar",
+                    "initial": "D.",
+                    "last": "Fuchs"
+                }
+            ],
+            "doi": "10.1046/j.1365-2249.2003.02021.x",
+            "firstpage": "264",
+            "issn": "00099104",
+            "lastpage": "267",
+            "pmid": "12562386",
+            "pub_year": 2003,
+            "title": "Atorvastatin suppresses interferon-\u03b3-induced neopterin formation and tryptophan degradation in human peripheral blood mononuclear cells and in monocytic cell lines",
+            "volume": "131"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "P. T.",
+                    "initial": "P.T.",
+                    "last": "Brinkkoetter"
+                },
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Gottmann"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Schulte"
+                },
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Van Der Woude"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Braun"
+                },
+                {
+                    "first": "B. A.",
+                    "initial": "B.A.",
+                    "last": "Yard"
+                }
+            ],
+            "doi": "10.1111/j.1365-2249.2006.03217.x",
+            "firstpage": "524",
+            "issn": "00099104",
+            "lastpage": "532",
+            "pmid": "17100774",
+            "pub_year": 2006,
+            "title": "Atorvastatin interferes with activation of human CD4+ T cells via inhibition of small guanosine triphosphatase (GTPase) activity and caspase-independent apoptosis",
+            "volume": "146"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Annika",
+                    "initial": "A.",
+                    "last": "Mehlem"
+                },
+                {
+                    "first": "Carolina E.",
+                    "initial": "C.E.",
+                    "last": "Hagberg"
+                },
+                {
+                    "first": "Lars",
+                    "initial": "L.",
+                    "last": "Muhl"
+                },
+                {
+                    "first": "Ulf",
+                    "initial": "U.",
+                    "last": "Eriksson"
+                },
+                {
+                    "first": "Annelie",
+                    "initial": "A.",
+                    "last": "Falkevall"
+                }
+            ],
+            "doi": "10.1038/nprot.2013.055",
+            "firstpage": "1149",
+            "issn": "17542189",
+            "lastpage": "1154",
+            "pmid": "23702831",
+            "pub_year": 2013,
+            "title": "Imaging of neutral lipids by oil red O for analyzing the metabolic status in health and disease",
+            "volume": "8"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Ashutosh",
+                    "initial": "A.",
+                    "last": "Chaudhry"
+                },
+                {
+                    "first": "Suman Ranjan",
+                    "initial": "S.R.",
+                    "last": "Das"
+                },
+                {
+                    "first": "Amjad",
+                    "initial": "A.",
+                    "last": "Hussain"
+                },
+                {
+                    "first": "Satyajit",
+                    "initial": "S.",
+                    "last": "Mayor"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "George"
+                },
+                {
+                    "first": "Vineeta",
+                    "initial": "V.",
+                    "last": "Bal"
+                },
+                {
+                    "first": "Shahid",
+                    "initial": "S.",
+                    "last": "Jameel"
+                },
+                {
+                    "first": "Satyajit",
+                    "initial": "S.",
+                    "last": "Rath"
+                }
+            ],
+            "doi": "10.4049/jimmunol.175.7.4566",
+            "firstpage": "4566",
+            "issn": "00221767",
+            "lastpage": "4574",
+            "pmid": "16177101",
+            "pub_year": 2005,
+            "title": "The Nef protein of HIV-1 induces loss of cell surface costimulatory molecules CD80 and CD86 in APCs",
+            "volume": "175"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Bharti",
+                    "initial": "B.",
+                    "last": "Bhandari"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Subramanian"
+                }
+            ],
+            "doi": "10.2174/157489007779606095",
+            "firstpage": "35",
+            "issn": "15748901",
+            "lastpage": "39",
+            "pmid": "18221101",
+            "pub_year": 2007,
+            "title": "Ranolazine, a partial fatty acid oxidation inhibitor, its potential benefit in angina and other cardiovascular disorders",
+            "volume": "2"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Harry W.",
+                    "initial": "H.W.",
+                    "last": "Kestier"
+                },
+                {
+                    "first": "Douglas J.",
+                    "initial": "D.J.",
+                    "last": "Ringler"
+                },
+                {
+                    "first": "Kazuyasu",
+                    "initial": "K.",
+                    "last": "Mori"
+                },
+                {
+                    "first": "Dennis L.",
+                    "initial": "D.L.",
+                    "last": "Panicali"
+                },
+                {
+                    "first": "Prabhat K.",
+                    "initial": "P.K.",
+                    "last": "Sehgal"
+                },
+                {
+                    "first": "Muthiah D.",
+                    "initial": "M.D.",
+                    "last": "Daniel"
+                },
+                {
+                    "first": "Ronald C.",
+                    "initial": "R.C.",
+                    "last": "Desrosiers"
+                }
+            ],
+            "doi": "10.1016/0092-8674(91)90097-I",
+            "firstpage": "651",
+            "issn": "00928674",
+            "lastpage": "662",
+            "pmid": "2032289",
+            "pub_year": 1991,
+            "title": "Importance of the nef gene for maintenance of high virus loads and for development of AIDS",
+            "volume": "65"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Thomas E.",
+                    "initial": "T.E.",
+                    "last": "Smithgall"
+                },
+                {
+                    "first": "Gary",
+                    "initial": "G.",
+                    "last": "Thomas"
+                }
+            ],
+            "doi": "10.1016/j.ddtec.2013.07.002",
+            "firstpage": "e523",
+            "issn": "17406749",
+            "lastpage": "e529",
+            "pmid": "24451644",
+            "pub_year": 2013,
+            "title": "Small molecule inhibitors of the HIV-1 virulence factor, Nef",
+            "volume": "10"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Gaedigk-Nitschko"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Sch\u00f6n"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Wachinger"
+                },
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Erfle"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Kohleisen"
+                }
+            ],
+            "doi": "10.1016/0014-5793(94)01370-G",
+            "firstpage": "275",
+            "issn": "00145793",
+            "lastpage": "278",
+            "pmid": "7835426",
+            "pub_year": 1995,
+            "title": "Cleavage of recombinant and cell derived human immunodeficiency virus 1 (HIV-1) Nef protein by HIV-1 protease",
+            "volume": "357"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "Annachiara",
+                    "initial": "A.",
+                    "last": "Rosa"
+                },
+                {
+                    "first": "Ajit",
+                    "initial": "A.",
+                    "last": "Chande"
+                },
+                {
+                    "first": "Serena",
+                    "initial": "S.",
+                    "last": "Ziglio"
+                },
+                {
+                    "first": "Veronica",
+                    "initial": "V.",
+                    "last": "De Sanctis"
+                },
+                {
+                    "first": "Roberto",
+                    "initial": "R.",
+                    "last": "Bertorelli"
+                },
+                {
+                    "first": "Shih Lin",
+                    "initial": "S.L.",
+                    "last": "Goh"
+                },
+                {
+                    "first": "Sean M.",
+                    "initial": "S.M.",
+                    "last": "McCauley"
+                },
+                {
+                    "first": "Anetta",
+                    "initial": "A.",
+                    "last": "Nowosielska"
+                },
+                {
+                    "first": "Stylianos E.",
+                    "initial": "S.E.",
+                    "last": "Antonarakis"
+                },
+                {
+                    "first": "Jeremy",
+                    "initial": "J.",
+                    "last": "Luban"
+                },
+                {
+                    "first": "Federico Andrea",
+                    "initial": "F.A.",
+                    "last": "Santoni"
+                },
+                {
+                    "first": "Massimo",
+                    "initial": "M.",
+                    "last": "Pizzato"
+                }
+            ],
+            "doi": "10.1038/nature15399",
+            "firstpage": "212",
+            "issn": "00280836",
+            "lastpage": "217",
+            "pmid": "26416734",
+            "pub_year": 2015,
+            "title": "HIV-1 Nef promotes infection by excluding SERINC5 from virion incorporation",
+            "volume": "526"
+        },
+        "bib33": {
+            "authors": [
+                {
+                    "first": "Yoshiko",
+                    "initial": "Y.",
+                    "last": "Usami"
+                },
+                {
+                    "first": "Yuanfei",
+                    "initial": "Y.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Heinrich G.",
+                    "initial": "H.G.",
+                    "last": "G\u00f6ttlinger"
+                }
+            ],
+            "doi": "10.1038/nature15400",
+            "firstpage": "218",
+            "issn": "00280836",
+            "lastpage": "223",
+            "pmid": "26416733",
+            "pub_year": 2015,
+            "title": "SERINC3 and SERINC5 restrict HIV-1 infectivity and are counteracted by Nef",
+            "volume": "526"
+        },
+        "bib34": {
+            "authors": [
+                {
+                    "first": "Emily N.",
+                    "initial": "E.N.",
+                    "last": "Pawlak"
+                },
+                {
+                    "first": "Jimmy D.",
+                    "initial": "J.D.",
+                    "last": "Dikeakos"
+                }
+            ],
+            "doi": "10.1016/j.bbagen.2015.01.003",
+            "firstpage": "733",
+            "issn": "03044165",
+            "lastpage": "741",
+            "pmid": "25585010",
+            "pub_year": 2015,
+            "title": "HIV-1 Nef: A master manipulator of the membrane trafficking machinery mediating immune evasion",
+            "volume": "1850"
+        },
+        "bib35": {
+            "authors": [
+                {
+                    "first": "Zulema Antonia",
+                    "initial": "Z.A.",
+                    "last": "Percario"
+                },
+                {
+                    "first": "Muhammad",
+                    "initial": "M.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "Giorgio",
+                    "initial": "G.",
+                    "last": "Mangino"
+                },
+                {
+                    "first": "Elisabetta",
+                    "initial": "E.",
+                    "last": "Affabris"
+                }
+            ],
+            "doi": "10.1016/j.cytogfr.2014.11.010",
+            "firstpage": "159",
+            "issn": "13596101",
+            "lastpage": "173",
+            "pmid": "25529283",
+            "pub_year": 2015,
+            "title": "Nef, the shuttling molecular adaptor of HIV, influences the cytokine network",
+            "volume": "26"
+        },
+        "bib36": {
+            "authors": [
+                {
+                    "first": "Hann",
+                    "initial": "H.",
+                    "last": "Low"
+                },
+                {
+                    "first": "Lesley",
+                    "initial": "L.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Maria Silvana",
+                    "initial": "M.S.",
+                    "last": "Di Yacovo"
+                },
+                {
+                    "first": "Melissa J.",
+                    "initial": "M.J.",
+                    "last": "Churchill"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Meikle"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Bukrinsky"
+                },
+                {
+                    "first": "Andrew F.",
+                    "initial": "A.F.",
+                    "last": "Hill"
+                },
+                {
+                    "first": "Dmitri",
+                    "initial": "D.",
+                    "last": "Sviridov"
+                }
+            ],
+            "doi": "10.1016/j.atherosclerosis.2015.10.103",
+            "firstpage": "22",
+            "issn": "00219150",
+            "lastpage": "28",
+            "pmid": "26581048",
+            "pub_year": 2016,
+            "title": "Lipid metabolism in patients infected with Nef-deficient HIV-1 strain",
+            "volume": "244"
+        },
+        "bib37": {
+            "authors": [
+                {
+                    "first": "Shokrollah",
+                    "initial": "S.",
+                    "last": "Elahi"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Shahzma",
+                    "initial": "S.",
+                    "last": "Merani"
+                }
+            ],
+            "doi": "10.1097/QAD.0000000000000917",
+            "firstpage": "171",
+            "issn": "02699370",
+            "lastpage": "183",
+            "pmid": "26645604",
+            "pub_year": 2016,
+            "title": "Atorvastatin restricts HIV replication in CD4+ T cells by upregulation of p21",
+            "volume": "30"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "N. J.",
+                    "initial": "N.J.",
+                    "last": "Deacon"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Tsykin"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Solomon"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Ludford-Menting"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Hooker"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "McPhee"
+                },
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Greenway"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Ellett"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Chatfield"
+                },
+                {
+                    "first": "V. A.",
+                    "initial": "V.A.",
+                    "last": "Lawson"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Crowe"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Maerz"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Sonza"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Learmont"
+                },
+                {
+                    "first": "J. S.",
+                    "initial": "J.S.",
+                    "last": "Sullivan"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Cunningham"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Dwyer"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Dowton"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Mills"
+                }
+            ],
+            "doi": "10.1126/science.270.5238.988",
+            "firstpage": "988",
+            "issn": "00368075",
+            "lastpage": "991",
+            "pmid": "7481804",
+            "pub_year": 1995,
+            "title": "Genomic structure of an attenuated quasi species of HIV-1 from a blood transfusion donor and recipients",
+            "volume": "270"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Rhodes"
+                },
+                {
+                    "first": "Ajantha",
+                    "initial": "A.",
+                    "last": "Solomon"
+                },
+                {
+                    "first": "Wayne",
+                    "initial": "W.",
+                    "last": "Bolton"
+                },
+                {
+                    "first": "Jeanette",
+                    "initial": "J.",
+                    "last": "Wood"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Sullivan"
+                },
+                {
+                    "first": "Jenny",
+                    "initial": "J.",
+                    "last": "Learmont"
+                },
+                {
+                    "first": "Nicholas",
+                    "initial": "N.",
+                    "last": "Deacon"
+                }
+            ],
+            "doi": "10.1089/088922299309946",
+            "firstpage": "1433",
+            "issn": "08892229",
+            "lastpage": "1439",
+            "pmid": "10555106",
+            "pub_year": 1999,
+            "title": "Identification of a new recipient in the Sydney blood bank cohort: A long-term HIV type 1-infected seroindeterminate individual",
+            "volume": "15"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Tolstrup"
+                },
+                {
+                    "first": "Alex L.",
+                    "initial": "A.L.",
+                    "last": "Laursen"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Gerstoft"
+                },
+                {
+                    "first": "Finn S.",
+                    "initial": "F.S.",
+                    "last": "Pedersen"
+                },
+                {
+                    "first": "Lars",
+                    "initial": "L.",
+                    "last": "Ostergaard"
+                },
+                {
+                    "first": "Mogens",
+                    "initial": "M.",
+                    "last": "Duch"
+                }
+            ],
+            "doi": "10.1071/SH06002",
+            "firstpage": "281",
+            "issn": "14485028",
+            "lastpage": "286",
+            "pmid": "17112441",
+            "pub_year": 2006,
+            "title": "Cysteine 138 mutation in HIV-1 Nef from patients with delayed disease progression",
+            "volume": "3"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "D. R.D.",
+                    "initial": "D.R.D.",
+                    "last": "Premkumar"
+                },
+                {
+                    "first": "X. Z.",
+                    "initial": "X.Z.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "R. K.",
+                    "initial": "R.K.",
+                    "last": "Maitra"
+                },
+                {
+                    "first": "B. K.",
+                    "initial": "B.K.",
+                    "last": "Chakrabarti"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Salkowitz"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Yen- Lieberman"
+                },
+                {
+                    "first": "M. S.",
+                    "initial": "M.S.",
+                    "last": "Hirsch"
+                },
+                {
+                    "first": "H. W.",
+                    "initial": "H.W.",
+                    "last": "Kestler"
+                }
+            ],
+            "doi": "10.1089/aid.1996.12.337",
+            "firstpage": "337",
+            "issn": "08892229",
+            "lastpage": "345",
+            "pmid": "8906995",
+            "pub_year": 1996,
+            "title": "The nef gene from a long-term HIV type 1 nonprogressor",
+            "volume": "12"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Ajith Mathew",
+                    "initial": "A.M.",
+                    "last": "Joseph"
+                },
+                {
+                    "first": "Jayashree S.",
+                    "initial": "J.S.",
+                    "last": "Ladha"
+                },
+                {
+                    "first": "Manoj",
+                    "initial": "M.",
+                    "last": "Mojamdar"
+                },
+                {
+                    "first": "Debashis",
+                    "initial": "D.",
+                    "last": "Mitra"
+                }
+            ],
+            "doi": "10.1016/S0014-5793(03)00725-7",
+            "firstpage": "37",
+            "issn": "00145793",
+            "lastpage": "42",
+            "pmid": "12885404",
+            "pub_year": 2003,
+            "title": "Human immunodeficiency virus-1 Nef protein interacts with Tat and enhances HIV-1 gene expression",
+            "volume": "548"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Dietlinde",
+                    "initial": "D.",
+                    "last": "Wolf"
+                },
+                {
+                    "first": "Vanessa",
+                    "initial": "V.",
+                    "last": "Witte"
+                },
+                {
+                    "first": "Pat",
+                    "initial": "P.",
+                    "last": "Clark"
+                },
+                {
+                    "first": "Katja",
+                    "initial": "K.",
+                    "last": "Blume"
+                },
+                {
+                    "first": "Mathias G.",
+                    "initial": "M.G.",
+                    "last": "Lichtenheld"
+                },
+                {
+                    "first": "Andreas S.",
+                    "initial": "A.S.",
+                    "last": "Baur"
+                }
+            ],
+            "doi": "10.1016/j.chom.2008.08.013",
+            "firstpage": "398",
+            "issn": "19313128",
+            "lastpage": "408",
+            "pmid": "18854243",
+            "pub_year": 2008,
+            "title": "HIV Nef Enhances Tat-Mediated Viral Transcription through a hnRNP-K-Nucleated Signaling Complex",
+            "volume": "4"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 18749,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 18748,
+                    "startOffset": 18743
+                },
+                "bib2": {
+                    "endOffset": 18748,
+                    "startOffset": 18743
+                },
+                "bib3": {
+                    "endOffset": 18748,
+                    "startOffset": 18743
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Nef participates in an array of functions including down-regulation of CD4, and class I and II Major Histocompatibility Complex, stimulation of viral replication and enhancement of virion infectivity [1\u20133].",
+            "startOffset": 18543,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25925,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Analysis of GFP expression and luciferase activity in these infected cell lines exhibit enhanced transcriptional activity due to presence of Nef in WT HIV-1 infection as compared to nef-deleted virus infection (Fig. 1C and D).",
+            "startOffset": 25699,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 31071,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 31050,
+                    "startOffset": 31046
+                },
+                "bib29": {
+                    "endOffset": 31070,
+                    "startOffset": 31066
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "We then used well characterized pharmacological inhibitors of lipid metabolism namely Atorvastatin [15] and Ranolazine [29].",
+            "startOffset": 30947,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 32845,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Either way, the interactions between Nef and other viral proteins can have an effect on host cellular machinery.",
+            "startOffset": 32733,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28821,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The transcript levels of all 10 genes were measured by qRT-PCR using GAPDH as an internal control.",
+            "startOffset": 28723,
+            "title": "Validation of microarray results for selected lipid metabolism related genes"
+        },
+        {
+            "endOffset": 24887,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Statistical analysis of the experimental data was performed using Student's t test with the levels of significance denoted by p-value.",
+            "startOffset": 24753,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 18895,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 18894,
+                    "startOffset": 18891
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Presence of non-functional, truncated or mutant Nef during infection by HIV-1 has been shown to decrease viral infectivity and pathogenicity [4].",
+            "startOffset": 18750,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20374,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Interestingly, our results indicate changes in a number of genes including that of lipid metabolism related genes due to HIV-1 infection in presence of Nef.",
+            "startOffset": 20218,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22733,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "RNA integrity was evaluated using a Lab-on-Chip-System Bioanalyzer 2100 (Agilent, USA) and was quantified using NanoDrop ND-1000 (Thermo, USA).",
+            "startOffset": 22590,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 21343,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 21243,
+                    "startOffset": 21239
+                },
+                "bib21": {
+                    "endOffset": 21342,
+                    "startOffset": 21338
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Human CD4+ T reporter cell line CEM-GFP [20] and HeLa based CD4+ reporter cell-line TZM-bl was received from NIH AIDS reagent program, USA [21].",
+            "startOffset": 21199,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 32166,
+            "parents": [],
+            "refoffsets": {
+                "bib30": {
+                    "endOffset": 32165,
+                    "startOffset": 32161
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Meanwhile the focus on identifying an alternative target for anti-HIV drug discovery has been inclined towards Nef due to increasing literature about its importance in viral life cycle [30].",
+            "startOffset": 31976,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27276,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These three gene lists were then analyzed for number of common and unique genes in each of them by plotting a Venn diagram (Fig. 2A).",
+            "startOffset": 27143,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 34914,
+            "parents": [],
+            "refoffsets": {
+                "bib36": {
+                    "endOffset": 34913,
+                    "startOffset": 34909
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Another concurrent study done on plasma lipid levels of nef-deficient HIV-1 infected patients recently revealed differences in abundance of High Density Lipoproteins (HDL), phosphatidylserine and sphingolipids [36].",
+            "startOffset": 34699,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26895,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We also obtained another gene list (DEG-2) of 30 significantly deregulated genes due to nef-deleted HIV-1 infection of CEM-GFP cells (DNHI) as compared to uninfected cells (UI) [Supplementary Data Table 2].",
+            "startOffset": 26689,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 21586,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Cells were harvested 60 h post-transfection for quantitation of GFP expression.",
+            "startOffset": 21507,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 23011,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "For gene expression profiling, oligonucleotide microarray analysis was performed using 4X44 K Agilent Human Genome microarray (Agilent Technologies, USA) according to the manufacturer's protocol along with Feature extraction software, version 9.5.3 \u2013 Agilent Technologies, USA.",
+            "startOffset": 22734,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 24752,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The error bars in the figures represent the mean \u00b1 S.D. of three independent experiments.",
+            "startOffset": 24663,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26046,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The difference between \u0394nef HIV-1 and WT HIV-1 is reflected maximally at 72 h post infection in CEM-GFP (Fig. 1A and C).",
+            "startOffset": 25926,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 24578,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 24478,
+                    "startOffset": 24474
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "A polyclonal anti-Nef serum was obtained from Dr S. Jameel [28] as a kind gift whereas antibody specific for GAPDH was obtained from Santa Cruz Biotechnology, USA.",
+            "startOffset": 24415,
+            "title": "Antibodies and immunoblotting"
+        },
+        {
+            "endOffset": 32555,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 32554,
+                    "startOffset": 32550
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These interactions can alter activities of Nef and rest of the viral proteins [14].",
+            "startOffset": 32472,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18542,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 18541,
+                    "startOffset": 18536
+                },
+                "bib3": {
+                    "endOffset": 18541,
+                    "startOffset": 18536
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Nef is produced early and abundantly in the viral life cycle right after proviral transcriptional activation [1,3].",
+            "startOffset": 18427,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21040,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 21039,
+                    "startOffset": 21035
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Nef-deleted molecular clone of HIV-1, pNL4-3\u0394nef was a kind gift from Dr J C Guatelli [18].",
+            "startOffset": 20949,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 22014,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 22013,
+                    "startOffset": 22009
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "HIV-1 LTR promoter activity after infection was monitored in TZM-bl by luciferase assay as described earlier [23].",
+            "startOffset": 21900,
+            "title": "HIV-1 infection and quantitation"
+        },
+        {
+            "endOffset": 22412,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 22388,
+                    "startOffset": 22381
+                },
+                "bib25": {
+                    "endOffset": 22388,
+                    "startOffset": 22381
+                },
+                "bib26": {
+                    "endOffset": 22388,
+                    "startOffset": 22381
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Zidovudine (AZT), Atorvastatin and Ranolazine (Sigma\u2013Aldrich, USA) were used at already reported concentration of 5 \u03bcM, 10 \u03bcM and 50 \u03bcM respectively [24\u201326] during HIV-1 infection.",
+            "startOffset": 22232,
+            "title": "HIV-1 infection and quantitation"
+        },
+        {
+            "endOffset": 31555,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, inhibition of virus production or suppression of GFP expression was not visible to the same extent in \u0394nef HIV-1 infection (Fig. 4H).",
+            "startOffset": 31413,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 29935,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, there was significant GFP expression in CEM-GFP due to nef-deleted HIV-1 or Wild-type HIV-1 infection (Fig. 4B) as compared to uninfected cells.",
+            "startOffset": 29782,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 19391,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Numerous studies have therefore, been directed towards Nef's effects on transcription of viral and cellular genes.",
+            "startOffset": 19277,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33280,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Hence we compared expression profiles of nef-deleted HIV-1 and WT HIV-1 infected cells which yielded information on a set of genes which are significantly deregulated due to presence of Nef during infection progression.",
+            "startOffset": 33061,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31154,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We examined their ability to affect HIV-1 infection in presence or absence of Nef.",
+            "startOffset": 31072,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 34542,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 34541,
+                    "startOffset": 34537
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Our observation falls in accordance with a prior study where over expression of Nef in HeLa lead to disruption of cellular lipid constitution [11].",
+            "startOffset": 34395,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35992,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In view of the number of pathways in which Nef aids HIV infection progression, lipid metabolism perturbation can potentially contribute to some of the common clinical features seen in AIDS patients including weight loss, wasting, and immunodeficiency.",
+            "startOffset": 35741,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30946,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "As visualized by GFP expression, infection levels also increased due to increase in Nef expression during nef-deleted HIV-1 Infection (Fig. 4F).",
+            "startOffset": 30802,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 33569,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Surprisingly on comparison of DNHI with uninfected cells we found only 31 genes deregulated, indicating the lower potency of nef-deleted HIV-1.",
+            "startOffset": 33426,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28012,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We manually then re-sorted the differentially expressed genes in categories like \u201cApoptosis\u201d, \u201cTranscription\u201d, \u201cSignaling\u201d (Supplementary Fig. 1) and \u201cLipid metabolism\u201d according to their associated GO term.",
+            "startOffset": 27805,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 24109,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "To quantitate ORO stain using spectrophotometer, stained or unstained control cells were lysed using lysis buffer (50 mM Tris\u2013HCl pH 7.4, 5 mM EDTA, 0.12 M NaCl, 0.5% NP40, 0.5 mM NaF, 1 mM DTT, 0.5 mM PMSF) on ice for 45 min.",
+            "startOffset": 23883,
+            "title": "Lipid quantitation using flow cytometry and spectrophotometry"
+        },
+        {
+            "endOffset": 27037,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Then we used \u0394nef HIV-1 infected cell gene expression profile as control and compared it with WT HIV-1 infected cell gene expression profile.",
+            "startOffset": 26896,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 27377,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We found 98 genes exclusively deregulated due to presence of Nef during HIV-1 infection progression.",
+            "startOffset": 27277,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 23332,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 23331,
+                    "startOffset": 23327
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "RNA extraction and qRT-PCR for selected genes was done as reported [23].",
+            "startOffset": 23260,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 18238,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "HIV-1, in addition to regular structural and regulatory proteins expresses several accessory proteins namely Nef, Vpr, Vpu and Vif.",
+            "startOffset": 18107,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19742,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 19699,
+                    "startOffset": 19695
+                },
+                "bib11": {
+                    "endOffset": 19710,
+                    "startOffset": 19706
+                },
+                "bib12": {
+                    "endOffset": 19727,
+                    "startOffset": 19723
+                },
+                "bib13": {
+                    "endOffset": 19741,
+                    "startOffset": 19737
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Exogenous expression of Nef followed by gene expression studies have been done on a variety of cells like Jurkat [10], HeLa [11], astrocytes [12] and U937 [13].",
+            "startOffset": 19582,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19913,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 19858,
+                    "startOffset": 19854
+                }
+            },
+            "secId": "sec1",
+            "sentence": "All such studies seem to have neglected the complex molecular interaction between Nef and other viral proteins [14] having simultaneous effect on HIV infected host cells.",
+            "startOffset": 19743,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24200,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "100 \u03bcl of lysate was read for optical density at 518 nm in M5 microplate multimode reader.",
+            "startOffset": 24110,
+            "title": "Lipid quantitation using flow cytometry and spectrophotometry"
+        },
+        {
+            "endOffset": 27698,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To study the precise effect of Nef on gene expression profile of HIV-1 infected cells we further analyzed the third gene list i.e., DEG-3.",
+            "startOffset": 27560,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 28722,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Validation of results obtained by microarray analysis was performed by qRT-PCR of selected deregulated genes.",
+            "startOffset": 28613,
+            "title": "Validation of microarray results for selected lipid metabolism related genes"
+        },
+        {
+            "endOffset": 31710,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Zidovudine (AZT, 5 \u03bcM) was used as a positive control inhibitor.",
+            "startOffset": 31646,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 35741,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our results highlight the association of lipid metabolism disruption with presence of Nef which is why \u0394nef HIV-1 replication is inefficiently inhibited in presence of Atorvastatin and Ranolazine.",
+            "startOffset": 35545,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19120,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 19119,
+                    "startOffset": 19114
+                },
+                "bib7": {
+                    "endOffset": 19119,
+                    "startOffset": 19114
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Long Term Non Progressors (LTNP)/Slow progressors (SP) of HIV infection were detected to be carrying mutations in nef region [6,7].",
+            "startOffset": 18989,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21121,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 21120,
+                    "startOffset": 21116
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "NL4-3 Nef cloned in pCDNA (pCDNA-Nef) was a kind gift from Dr. M. Federico [19].",
+            "startOffset": 21041,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 19277,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "So it is evident that lack of Nef or its partial functionality contributes to non-progressive HIV infection, projecting Nef as a subject of intense studies.",
+            "startOffset": 19121,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33920,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 33797,
+                    "startOffset": 33788
+                },
+                "bib34": {
+                    "endOffset": 33797,
+                    "startOffset": 33788
+                },
+                "bib35": {
+                    "endOffset": 33797,
+                    "startOffset": 33788
+                }
+            },
+            "secId": "sec4",
+            "sentence": "While an array of reports point to Nef's role in signaling and apoptosis as described in previous reviews [1,34,35], there are only a few studies which points to Nef's interference in cellular transcription or lipid metabolism disruption.",
+            "startOffset": 33682,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35106,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "While our study differs from these in terms of not only reporting the deregulation of lipid metabolism genes at transcription level but also showing down regulation of cellular lipid content.",
+            "startOffset": 34915,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22231,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In CEM-GFP cells, GFP expression as a measure of gene expression from LTR promoter due to HIV-1 infection was monitored by quantitating GFP expression using M5 Microplate multimode reader from Molecular Devices, USA.",
+            "startOffset": 22015,
+            "title": "HIV-1 infection and quantitation"
+        },
+        {
+            "endOffset": 18106,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This necessitates further studies to unravel the unsolved mysteries in existing literature about deleterious effects of the virus.",
+            "startOffset": 17976,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30801,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "This experiment further proved that Nef induces decline in lipid content during HIV-1 infection progression.",
+            "startOffset": 30693,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 34167,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We validated our microarray results by checking the mRNA expression levels of a few of them through qRT-PCR.",
+            "startOffset": 34059,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30314,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "MFI of ORO staining indicate that lipid content of WT HIV-1 infected cells is significantly lower than uninfected or \u0394nef HIV-1 infected cells (Fig. 4C) although MFI of GFP expression indicated high levels of infection in both \u0394nef HIV-1 and WT HIV-1 infected cells (Fig. 4D).",
+            "startOffset": 30038,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 21748,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 21747,
+                    "startOffset": 21743
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "CEM-GFP, U937 and TZM-bl were given 0.5 multiplicity of infection (MOI) of \u0394nef or WT HIV-1 NL4-3 as described previously [22].",
+            "startOffset": 21621,
+            "title": "HIV-1 infection and quantitation"
+        },
+        {
+            "endOffset": 22589,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Total RNA was isolated from uninfected, 0.5 MOI of \u0394nef or WT HIV-1 infected CEM-GFP at 72 h in triplicates, using RNeasy Mini kit (Qiagen, Germany).",
+            "startOffset": 22440,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 24662,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Each individual experiment was repeated at least three times.",
+            "startOffset": 24601,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 30037,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Same data was plotted using Mean Fluorescent Intensities (M.F.I.) of ORO staining and GFP expression.",
+            "startOffset": 29936,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 34698,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However additional experiments are necessary to identify precise chemical nature of lipids and impact of their deregulation on HIV-1 infection progression.",
+            "startOffset": 34543,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36192,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our study thus reinstates Nef as a pivotal therapeutic target to enhance the quality of life of AIDS patients.",
+            "startOffset": 36082,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35287,
+            "parents": [],
+            "refoffsets": {
+                "bib37": {
+                    "endOffset": 35286,
+                    "startOffset": 35282
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Atorvastatin is classically known to inhibit cholesterol synthesis and can therefore interfere in lipid metabolism in more than one ways and is also reported to inhibit HIV-1 [37].",
+            "startOffset": 35107,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23882,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Histograms were plotted using FlowJo Software (Tree Star Inc., USA).",
+            "startOffset": 23814,
+            "title": "Lipid quantitation using flow cytometry and spectrophotometry"
+        },
+        {
+            "endOffset": 28612,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Amongst the 33 genes of DEGs belonging to category \u201clipid metabolism\u201d, we selected randomly 10 genes for validation showing a wide range of modulation pattern in microarray data.",
+            "startOffset": 28434,
+            "title": "Validation of microarray results for selected lipid metabolism related genes"
+        },
+        {
+            "endOffset": 26175,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "So this time point was chosen to explore how Nef can affect cellular gene expression profile during HIV-1 infection progression.",
+            "startOffset": 26047,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 23259,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "This microarray data has been deposited to the GEO repository and is available via the accession number GSE76793 at http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76793.",
+            "startOffset": 23084,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 34238,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This implicates Nef in directing disruption of cellular lipid content.",
+            "startOffset": 34168,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28934,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We found strong correlation between the deregulation trend observed in microarray and the qRT-PCR data (Fig. 3).",
+            "startOffset": 28822,
+            "title": "Validation of microarray results for selected lipid metabolism related genes"
+        },
+        {
+            "endOffset": 32732,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 32731,
+                    "startOffset": 32726
+                },
+                "bib9": {
+                    "endOffset": 32731,
+                    "startOffset": 32726
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Nef\u2013Tat interaction can cause enhanced gene expression from HIV-1 LTR promoter [8,9].",
+            "startOffset": 32647,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25698,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Thus, we also measured transcriptional activity from HIV-1 LTR promoter in reporter cell lines CEM-GFP and TZM-bl.",
+            "startOffset": 25584,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 32392,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 32192,
+                    "startOffset": 32189
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Various other reports [2] and our preliminary results confirms Nef's integral role in viral replication and transcription irrespective of different microenvironments posed by different cell lines like CEM-GFP, U937 or TZM-bl.",
+            "startOffset": 32167,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23635,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib27": {
+                    "endOffset": 23634,
+                    "startOffset": 23630
+                }
+            },
+            "secId": "sec2.4",
+            "sentence": "Uninfected CEM-GFP cells along with 0.5 MOI \u0394nef or WT HIV-1 infected cells were harvested 72 h post infection, fixed with 1% Paraformaldehyde and stained with 0.3% Oil Red O (ORO) (Sigma, USA) in 60% Isopropanol as described earlier [27].",
+            "startOffset": 23396,
+            "title": "Lipid quantitation using flow cytometry and spectrophotometry"
+        },
+        {
+            "endOffset": 28140,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Mean normalized intensities of lipid metabolism genes are represented in heat map (Fig. 2C) as we wanted to study them further.",
+            "startOffset": 28013,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 30567,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Expression of increasing dose of Nef in trans with \u0394nef HIV-1 revealed gradual decline in ORO staining as compared to \u0394nef HIV-1 infected (Fig. 4E).",
+            "startOffset": 30419,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 30692,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Western blot for Nef in the lower panel confirmed dose-dependent increase in Nef expression where GAPDH was used as control.",
+            "startOffset": 30568,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 21899,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "HIV-1 replication was quantitated using p24gagantigen capture ELISA (Advanced Biosciences Laboratories, USA) according to manufacturer's instructions.",
+            "startOffset": 21749,
+            "title": "HIV-1 infection and quantitation"
+        },
+        {
+            "endOffset": 20217,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study, we have compared the gene expression profile between wild type and nef-deleted virus infected T-cells in order to identify genes modulated due to presence Nef during HIV-1 infection.",
+            "startOffset": 20013,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27804,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Normalized intensity of expression of these genes in all the samples is depicted in a heat map (Fig. 2B).",
+            "startOffset": 27699,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 20692,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 20561,
+                    "startOffset": 20557
+                },
+                "bib16": {
+                    "endOffset": 20581,
+                    "startOffset": 20577
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Moreover, molecules like Atorvastatin [15] and Ranolazine [16] that inhibit lipid metabolism at different stages, inhibited WT HIV-1 replication more than nef-deleted HIV-1.",
+            "startOffset": 20519,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26509,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Microarray technology used as described above enabled us to visualize gene expression profile of nef-deleted and wild type virus infected cells thereby identifying genes specifically affected due to presence of Nef amongst all other viral proteins.",
+            "startOffset": 26261,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 19581,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 19497,
+                    "startOffset": 19492
+                },
+                "bib9": {
+                    "endOffset": 19497,
+                    "startOffset": 19492
+                }
+            },
+            "secId": "sec1",
+            "sentence": "While few reports point towards direct effect of Nef on enhancing transcription from HIV-1 promoter [8,9], there are also reports revealing Nef induced modulation of cellular transcriptome.",
+            "startOffset": 19392,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21198,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Cell lines HEK-293T and U937 were obtained from NCCS cell repository, India.",
+            "startOffset": 21122,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 31412,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Addition of Atorvastatin (10 \u03bcM) and Ranolazine (50 \u03bcM) respectively led to significant decline in wild type HIV-1 viral particle production as quantified by p24 antigen capture ELISA (Fig. 4G upper panel) as well as in GFP expression (Fig. 4G lower panel).",
+            "startOffset": 31155,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 31645,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The concentrations used for the study did not induce any visible cytotoxicity in CEM-GFP.",
+            "startOffset": 31556,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 33681,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It also reinstates our results that Nef can exercise transcriptional control and thus affect HIV-1 replication.",
+            "startOffset": 33570,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18343,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "HIV-1 Nef has been credited as one of the most important proteins for viral life cycle and pathogenesis.",
+            "startOffset": 18239,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18988,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 18987,
+                    "startOffset": 18982
+                },
+                "bib5": {
+                    "endOffset": 18987,
+                    "startOffset": 18982
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Nef-deleted HIV was also found to exist in humans having barely detectable viral load [4,5].",
+            "startOffset": 18896,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27142,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We obtained a 3rd gene list (DEG-3) of 237 significantly deregulated genes [Supplementary Data Table 3].",
+            "startOffset": 27038,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 27559,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "There are also 123 genes which are common to WTHI vs DNHI and WTHI vs UI indicating that these genes are deregulated due to HIV-1 infection and probably also due to presence of Nef.",
+            "startOffset": 27378,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 32646,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 32645,
+                    "startOffset": 32641
+                }
+            },
+            "secId": "sec4",
+            "sentence": "For instance protease mediated cleavage of Nef can alter its protein binding ability [31].",
+            "startOffset": 32556,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30418,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "To further verify the interplay of Nef, we did the quantitation of ORO staining using spectrophotometry.",
+            "startOffset": 30314,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 23083,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The data analysis was done using GeneSpring 13 software (Agilent, USA).",
+            "startOffset": 23012,
+            "title": "Gene expression profiling"
+        },
+        {
+            "endOffset": 29354,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Also to be noted here is that, a number of genes like formin binding protein 1 (FNBP1), sterol O-acyltransferase 2 (SOAT2), carnitine O-octanoyl transferase (CROT), fatty acid binding protein 3 (FABP3), peroxisome proliferator-activated receptor alpha (PPAR\u03b1), 1-acylglycerol-3-phosphate O-acyltransferase 3 (AGPAT3), delta(4)-desaturase sphingolipid 1 (DEGS1) etc, are directly involved in lipid binding and oxidation.",
+            "startOffset": 28935,
+            "title": "Validation of microarray results for selected lipid metabolism related genes"
+        },
+        {
+            "endOffset": 25583,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Being a positive strand RNA virus, transcription from HIV-1 LTR promoter has a direct bearing on its replication.",
+            "startOffset": 25470,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 23813,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Acquisition and analysis of GFP expression and ORO staining along with controls were quantified on FACS Canto II flow cytometer using FACS Diva software (Becton Dickinson, USA).",
+            "startOffset": 23636,
+            "title": "Lipid quantitation using flow cytometry and spectrophotometry"
+        },
+        {
+            "endOffset": 32471,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "There have been several reports on Nef's interaction with other viral proteins.",
+            "startOffset": 32392,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35544,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "As wild type HIV-1 can utilize lipid metabolism for its own replication, inhibitors of lipid metabolism can potentially suppress HIV-1 replication.",
+            "startOffset": 35397,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36081,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This study implicates Nef in lipid metabolism perturbation to enhance HIV-1 replication.",
+            "startOffset": 35993,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25213,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 25051,
+                    "startOffset": 25046
+                },
+                "bib2": {
+                    "endOffset": 25051,
+                    "startOffset": 25046
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Although Nef has been reported in enhancement of virus replication and infectivity [1,2], we wanted to reconfirm its role in HIV-1 replication and gene expression in different microenvironments exemplified by different cell lines infected with HIV-1.",
+            "startOffset": 24963,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 29781,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Significant decline in Oil Red O (ORO) staining of Wild type infected CEM-GFP cells as compared to nef-deleted HIV-1 infected or uninfected cells was observed in flow cytometry based analysis (Fig. 4A).",
+            "startOffset": 29579,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 26688,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "On comparison of WT HIV-1 infected CEM-GFP (WTHI) with uninfected cells (UI); we obtained a gene list (DEG-1) of 231 significantly deregulated genes [Supplementary Data Table 1].",
+            "startOffset": 26510,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 18426,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 18425,
+                    "startOffset": 18420
+                },
+                "bib2": {
+                    "endOffset": 18425,
+                    "startOffset": 18420
+                }
+            },
+            "secId": "sec1",
+            "sentence": "It is a \u223c27 kDa, multifunctional adaptor protein lacking enzymatic activity [1,2].",
+            "startOffset": 18344,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17975,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "According to the latest global UNAIDS report, there are nearly 35 million people infected with HIV living today, even after three decades of intense research on this virus.",
+            "startOffset": 17803,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24414,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Equal amounts of protein were taken from cell lysates and were resolved by SDS-PAGE followed by immunoblotting for Nef and GAPDH.",
+            "startOffset": 24285,
+            "title": "Antibodies and immunoblotting"
+        },
+        {
+            "endOffset": 20797,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Thus, our results implicate Nef in perturbation of lipid content of CD4+ T cells during HIV-1 infection.",
+            "startOffset": 20693,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29578,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "After confirming deregulation of several lipid metabolism related genes in microarray data, we have then looked at the fate of this deregulation on cellular physiology.",
+            "startOffset": 29410,
+            "title": "Nef alters lipid constitution of HIV-1 infected cells"
+        },
+        {
+            "endOffset": 28355,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "All these genes belonging to these four broad categories are also represented through cytoscape (Supplementary Fig. 2) which allows depiction of direction of expression change and corresponding interaction readily.",
+            "startOffset": 28141,
+            "title": "Gene expression profiling of nef-deleted and wild type HIV-1 infected CEM-GFP cells"
+        },
+        {
+            "endOffset": 34058,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We found genes belonging to lipid metabolism as a subset of genes differentially expressed due to presence of Nef during HIV-1 infection.",
+            "startOffset": 33921,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31975,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Antiretroviral therapy currently available to AIDS patients include inhibitors that block fusion of viral and host membrane, inhibitors of viral reverse transcriptase, protease and integrase activity, thereby impeding important steps in viral life cycle.",
+            "startOffset": 31721,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20012,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Thus it is important to study Nef's effect on host cell in presence of rest of the viral proteins.",
+            "startOffset": 19914,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20948,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 20947,
+                    "startOffset": 20943
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "pNL4-3, a molecular clone of HIV-1 was received from NIH AIDS reagent program, USA [17].",
+            "startOffset": 20860,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 24284,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Cells were lysed in lysis buffer as mentioned above.",
+            "startOffset": 24232,
+            "title": "Antibodies and immunoblotting"
+        },
+        {
+            "endOffset": 25469,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In both the cell lines nef-deleted virus production seems to lag behind WT HIV-1 production (Fig. 1A, B).",
+            "startOffset": 25364,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 35396,
+            "parents": [],
+            "refoffsets": {
+                "bib29": {
+                    "endOffset": 35395,
+                    "startOffset": 35391
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Ranolazine on the other hand inhibits fatty acid oxidation and is widely used as a drug against angina [29].",
+            "startOffset": 35288,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21506,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Cells were transfected with pCDNA-Nef in increasing concentrations using XtremeGene HP (Roche Applied Sciences, Germany) according to the manufacturer's protocol.",
+            "startOffset": 21344,
+            "title": "Plasmids, cell lines and transfections"
+        },
+        {
+            "endOffset": 25363,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Supernatant from nef-deleted or wild-type HIV-1 NL4-3 virus infected cells were collected and virus production was assessed by measuring p24 antigen.",
+            "startOffset": 25214,
+            "title": "Nef induces HIV-1 replication and transcription in infected cells"
+        },
+        {
+            "endOffset": 33425,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 33424,
+                    "startOffset": 33417
+                },
+                "bib33": {
+                    "endOffset": 33424,
+                    "startOffset": 33417
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Our model also corroborates with the methodology adopted to study the effect of Nef on infectivity during HIV-1 infection very recently [32,33].",
+            "startOffset": 33281,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20518,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Consequently we also found lowering of lipid content of T cells due to HIV-1 infection suggesting a role of nef in regulating lipid metabolism.",
+            "startOffset": 20375,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33060,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus to explore the sole effect of Nef on viral and cellular transcription in absence of rest of the viral proteins during infection would be an imperfect biological microenvironment and physiologically extraneous.",
+            "startOffset": 32846,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34394,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Oil Red O staining of nef-deleted and WT HIV-1 infected cells confirmed our hypothesis that Nef indeed disrupts lipid constitution of HIV-1 infected cells.",
+            "startOffset": 34239,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X16302789",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Surya",
+                "initial": "S.",
+                "last": "Shrivastava"
+            },
+            {
+                "email": null,
+                "first": "Jay",
+                "initial": "J.",
+                "last": "Trivedi"
+            },
+            {
+                "email": "dmitra@nccs.res.in",
+                "first": "Debashis",
+                "initial": "D.",
+                "last": "Mitra"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.02.089",
+        "firstpage": "169",
+        "issn": "0006291X",
+        "keywords": [
+            "Atorvastatin",
+            "Gene expression",
+            "HIV-1",
+            "Lipid metabolism",
+            "Microarray",
+            "Nef",
+            "Ranolazine"
+        ],
+        "lastpage": "174",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Gene expression profiling reveals Nef induced deregulation of lipid metabolism in HIV-1 infected T cells"
+    }
+}

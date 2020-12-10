@@ -1,0 +1,2781 @@
+{
+    "abstract": "Road traffic noise is the most common source of environmental pollution in urban areas and therefore, the study of noise mitigation actions is fundamental for urban planning. The main source of road traffic noise is tyre/road interaction; thus, the use of low noise road surfaces represents an optimal solution for its mitigation. Several studies tried to find a correlation between road texture and broadband noise data, trying to provide guidelines for the development of acoustically optimised road surfaces. The present work studies the correlation between road texture and tyre/road noise from an experimental point of view, by analysing texture and noise spectra on ten different road surfaces. Tyre deformation has also been addressed by analysing two already existing tyre envelopment algorithms. The first algorithm, proposed by Von Meier and based on the limitation of the second order derivative of the profile signal, shows poor correlation with high frequency noise, while the second algorithm, based on a novel method proposed by Sandberg and Goubert and called indenter method, enhances correlation with low frequency noise and preserves information at higher frequencies. Correlation patterns show that rolling noise can be separated in three main contributions: low, middle and high frequency noise. Finally, experimental tyre/road noise and enveloped texture data obtained with the indenter algorithm have been used to elaborate a linear model that relates low and high frequency noise to texture one-third octave bands. This model deepens knowledge on tyre/road interaction.",
+    "bib_entries": {
+        "b0005": null,
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Muzet"
+                }
+            ],
+            "doi": "10.1016/j.smrv.2006.09.001",
+            "firstpage": "135",
+            "issn": "10870792",
+            "lastpage": "142",
+            "pmid": "17317241",
+            "pub_year": 2007,
+            "title": "Environmental noise, sleep and health",
+            "volume": "11"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Staffan",
+                    "initial": "S.",
+                    "last": "Hygge"
+                },
+                {
+                    "first": "Gary W.",
+                    "initial": "G.W.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Monika",
+                    "initial": "M.",
+                    "last": "Bullinger"
+                }
+            ],
+            "doi": "10.1111/1467-9280.00483",
+            "firstpage": "469",
+            "issn": "09567976",
+            "lastpage": "474",
+            "pmid": "12219816",
+            "pub_year": 2002,
+            "title": "A prospective study of some effects of aircraft noise on cognitive performance in schoolchildren",
+            "volume": "13"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Lercher"
+                },
+                {
+                    "first": "Gary W.",
+                    "initial": "G.W.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "Meis"
+                }
+            ],
+            "doi": "10.1177/0013916503256260",
+            "firstpage": "725",
+            "issn": "00139165",
+            "lastpage": "735",
+            "pub_year": 2003,
+            "title": "Ambient noise and cognitive processes among primary schoolchildren",
+            "volume": "35"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Babisch"
+                },
+                {
+                    "first": "Wim",
+                    "initial": "W.",
+                    "last": "Swart"
+                },
+                {
+                    "first": "Danny",
+                    "initial": "D.",
+                    "last": "Houthuijs"
+                },
+                {
+                    "first": "Jenny",
+                    "initial": "J.",
+                    "last": "Selander"
+                },
+                {
+                    "first": "G\u00f6sta",
+                    "initial": "G.",
+                    "last": "Bluhm"
+                },
+                {
+                    "first": "G\u00f6ran",
+                    "initial": "G.",
+                    "last": "Pershagen"
+                },
+                {
+                    "first": "Konstantina",
+                    "initial": "K.",
+                    "last": "Dimakopoulou"
+                },
+                {
+                    "first": "Alexandros S.",
+                    "initial": "A.S.",
+                    "last": "Haralabidis"
+                },
+                {
+                    "first": "Klea",
+                    "initial": "K.",
+                    "last": "Katsouyanni"
+                },
+                {
+                    "first": "Elli",
+                    "initial": "E.",
+                    "last": "Davou"
+                },
+                {
+                    "first": "Panayota",
+                    "initial": "P.",
+                    "last": "Sourtzi"
+                },
+                {
+                    "first": "Ennio",
+                    "initial": "E.",
+                    "last": "Cadum"
+                },
+                {
+                    "first": "Federica",
+                    "initial": "F.",
+                    "last": "Vigna-Taglianti"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Floud"
+                },
+                {
+                    "first": "Anna L.",
+                    "initial": "A.L.",
+                    "last": "Hansell"
+                }
+            ],
+            "doi": "10.1121/1.4764881",
+            "firstpage": "3788",
+            "issn": "00014966",
+            "lastpage": "3808",
+            "pmid": "23231109",
+            "pub_year": 2012,
+            "title": "Exposure modifiers of the relationships of transportation noise with high blood pressure and noise annoyance",
+            "volume": "132"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Henk M.E.",
+                    "initial": "H.M.E.",
+                    "last": "Miedema"
+                },
+                {
+                    "first": "Catharina G.M.",
+                    "initial": "C.G.M.",
+                    "last": "Oudshoorn"
+                }
+            ],
+            "doi": "10.1289/ehp.01109409",
+            "firstpage": "409",
+            "issn": "00916765",
+            "lastpage": "416",
+            "pmid": "11335190",
+            "pub_year": 2001,
+            "title": "Annoyance from transportation noise: Relationships with exposure metrics DNL and DENL and their confidence intervals",
+            "volume": "109"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Gaetano",
+                    "initial": "G.",
+                    "last": "Licitra"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Ascari"
+                },
+                {
+                    "first": "Luca",
+                    "initial": "L.",
+                    "last": "Fredianelli"
+                }
+            ],
+            "doi": "10.1007/s40726-017-0057-5",
+            "firstpage": "151",
+            "issn": "21986592",
+            "lastpage": "161",
+            "pub_year": 2017,
+            "title": "Prioritizing Process in Action Plans: a Review of Approaches",
+            "volume": "3"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Mikael",
+                    "initial": "M.",
+                    "last": "\u00d6gren"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Moln\u00e1r"
+                },
+                {
+                    "first": "Lars",
+                    "initial": "L.",
+                    "last": "Barregard"
+                }
+            ],
+            "doi": "10.1016/j.envres.2018.03.011",
+            "firstpage": "516",
+            "issn": "00139351",
+            "lastpage": "521",
+            "pmid": "29604579",
+            "pub_year": 2018,
+            "title": "Road traffic noise abatement scenarios in Gothenburg 2015 \u2013 2035",
+            "volume": "164"
+        },
+        "b0045": null,
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Filippo Giammaria",
+                    "initial": "F.G.",
+                    "last": "Pratic\u00f2"
+                }
+            ],
+            "doi": "10.1080/14680629.2001.9689908",
+            "firstpage": "359",
+            "issn": "14680629",
+            "lastpage": "377",
+            "pub_year": 2001,
+            "title": "Roads and Loudness: A More Comprehensive Approach",
+            "volume": "2"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Han Wool",
+                    "initial": "H.W.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Jin Rae",
+                    "initial": "J.R.",
+                    "last": "Cho"
+                },
+                {
+                    "first": "Weui Bong",
+                    "initial": "W.B.",
+                    "last": "Jeong"
+                }
+            ],
+            "doi": "10.1007/s12239-017-0081-x",
+            "firstpage": "823",
+            "issn": "12299138",
+            "lastpage": "832",
+            "pub_year": 2017,
+            "title": "Numerical method for simulating tire rolling noise by the concept of periodically exciting contact force",
+            "volume": "18"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Julia",
+                    "initial": "J.",
+                    "last": "Winroth"
+                },
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Kropp"
+                },
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Hoever"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Beckenbauer"
+                },
+                {
+                    "first": "Manuel",
+                    "initial": "M.",
+                    "last": "M\u00e4nnel"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2016.08.027",
+            "firstpage": "101",
+            "issn": "0003682X",
+            "lastpage": "108",
+            "pub_year": 2017,
+            "title": "Investigating generation mechanisms of tyre/road noise by speed exponent analysis",
+            "volume": "115"
+        },
+        "b0065": null,
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Bravo"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2017.03.009",
+            "firstpage": "85",
+            "issn": "0003682X",
+            "lastpage": "92",
+            "pub_year": 2017,
+            "title": "An analytical study on the amplification of the tyre rolling noise due to the horn effect",
+            "volume": "123"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Kindt"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Berckmans"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "De Coninck"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Sas"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Desmet"
+                }
+            ],
+            "doi": "10.1016/j.ymssp.2009.04.005",
+            "firstpage": "2557",
+            "issn": "08883270",
+            "lastpage": "2574",
+            "pub_year": 2009,
+            "title": "Experimental analysis of the structure-borne tyre/road noise due to road discontinuities",
+            "volume": "23"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Filippo Giammaria",
+                    "initial": "F.G.",
+                    "last": "Pratic\u00f2"
+                }
+            ],
+            "doi": "10.1016/j.trd.2014.04.004",
+            "firstpage": "79",
+            "issn": "13619209",
+            "lastpage": "87",
+            "pub_year": 2014,
+            "title": "On the dependence of acoustic performance on pavement characteristics",
+            "volume": "29"
+        },
+        "b0085": null,
+        "b0090": null,
+        "b0095": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Losa"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Leandri"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Licitra"
+                }
+            ],
+            "doi": "10.3141/2372-04",
+            "firstpage": "25",
+            "issn": "03611981",
+            "lastpage": "33",
+            "pub_year": 2013,
+            "title": "Mixture design optimization of low-noise pavements"
+        },
+        "b0100": null,
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Gaetano",
+                    "initial": "G.",
+                    "last": "Licitra"
+                },
+                {
+                    "first": "Mauro",
+                    "initial": "M.",
+                    "last": "Cerchiai"
+                },
+                {
+                    "first": "Luca",
+                    "initial": "L.",
+                    "last": "Teti"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Ascari"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Bianco"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Chetoni"
+                }
+            ],
+            "doi": "10.3390/coatings5010003",
+            "firstpage": "3",
+            "issn": "20796412",
+            "lastpage": "25",
+            "pub_year": 2015,
+            "title": "Performance assessment of low-noise road surfaces in the leopoldo project: Comparison and validation of different measurement methods",
+            "volume": "5"
+        },
+        "b0110": null,
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Byoung Sam",
+                    "initial": "B.S.",
+                    "last": "Kim"
+                }
+            ],
+            "doi": "10.1299/jsmec.46.675",
+            "firstpage": "675",
+            "issn": "13447653",
+            "lastpage": "682",
+            "pub_year": 2003,
+            "title": "Sound radiation due to tire tread vibration",
+            "volume": "46"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Maik",
+                    "initial": "M.",
+                    "last": "Brinkmeier"
+                },
+                {
+                    "first": "Udo",
+                    "initial": "U.",
+                    "last": "Nackenhorst"
+                },
+                {
+                    "first": "Steffen",
+                    "initial": "S.",
+                    "last": "Petersen"
+                },
+                {
+                    "first": "Otto",
+                    "initial": "O.",
+                    "last": "von Estorff"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2006.11.040",
+            "firstpage": "20",
+            "issn": "0022460X",
+            "lastpage": "39",
+            "pub_year": 2008,
+            "title": "A finite element approach for the simulation of tire rolling noise",
+            "volume": "309"
+        },
+        "b0125": null,
+        "b0130": null,
+        "b0135": null,
+        "b0140": null,
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Gaetano",
+                    "initial": "G.",
+                    "last": "Licitra"
+                },
+                {
+                    "first": "Antonino",
+                    "initial": "A.",
+                    "last": "Moro"
+                },
+                {
+                    "first": "Luca",
+                    "initial": "L.",
+                    "last": "Teti"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Del Pizzo"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Bianco"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2018.11.009",
+            "firstpage": "237",
+            "issn": "0003682X",
+            "lastpage": "245",
+            "pub_year": 2019,
+            "title": "Modelling of acoustic ageing of rubberized pavements",
+            "volume": "146"
+        },
+        "b0150": null,
+        "b0155": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Licitra"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Cerchiai"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Teti"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Ascari"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Fredianelli"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2015.02.001",
+            "firstpage": "20",
+            "issn": "0003682X",
+            "lastpage": "28",
+            "pub_year": 2015,
+            "title": "Durability and variability of the acoustical performance of rubberized road surfaces",
+            "volume": "94"
+        },
+        "b0160": null,
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Gaetano",
+                    "initial": "G.",
+                    "last": "Licitra"
+                },
+                {
+                    "first": "Luca",
+                    "initial": "L.",
+                    "last": "Teti"
+                },
+                {
+                    "first": "Mauro",
+                    "initial": "M.",
+                    "last": "Cerchiai"
+                },
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Bianco"
+                }
+            ],
+            "doi": "10.1016/j.trd.2017.07.002",
+            "firstpage": "217",
+            "issn": "13619209",
+            "lastpage": "226",
+            "pub_year": 2017,
+            "title": "The influence of tyres on the use of the CPX method for evaluating the effectiveness of a noise mitigation action based on low-noise road surfaces",
+            "volume": "55"
+        },
+        "b0170": null,
+        "b0175": null,
+        "b0180": null,
+        "b0185": {
+            "authors": [
+                {
+                    "first": "Massimo",
+                    "initial": "M.",
+                    "last": "Losa"
+                },
+                {
+                    "first": "Pietro",
+                    "initial": "P.",
+                    "last": "Leandri"
+                },
+                {
+                    "first": "Renato",
+                    "initial": "R.",
+                    "last": "Bacci"
+                }
+            ],
+            "doi": "10.3166/RMPD.11HS",
+            "firstpage": "487",
+            "issn": "14680629",
+            "lastpage": "506",
+            "pub_year": 2010,
+            "title": "Empirical rolling noise prediction models based on pavement surface characteristics",
+            "volume": "11"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 46116,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The two algorithms exhibit different trends: while VM procedure mainly acts as a low pass filter, SG indenter method does not show such a sharp cut-off.",
+            "startOffset": 45964,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 33746,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "A complete flowchart of the paper\u2019s experimental plan is proposed in Fig. 1.",
+            "startOffset": 33670,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 43541,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Evaluation of the points indented inside the rubber proceeds to the next footprints, until the last one is reached;",
+            "startOffset": 43426,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 36926,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The set-up is based on a measurement system mounted on a self-powered vehicle, where the CPX equipment and the profilometer for texture measurements are deployed at once.",
+            "startOffset": 36756,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 24438,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 24358,
+                    "startOffset": 24355
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Despite the efforts of the scientific community to study new mitigation measures, the recent European Environmental Noise Directive revision [1] reported that noise pollution continues to be a major health problem in Europe.",
+            "startOffset": 24214,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30947,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In fact, possible asymmetry of the profile is not evident by an abrupt spectral analysis, which does not distinguish between ridges and valleys of equal amplitude.",
+            "startOffset": 30784,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 27946,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "ISO 13473-2 defines road texture as the deviation of a pavement surface from a true planar surface, caused by the random disposition of the surface elements and their superficial roughness.",
+            "startOffset": 27757,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 34732,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In the dry process, crumb rubber is added to the hot aggregate, usually in the range of 1\u20133% of the weight of the total mixture before adding the AC.",
+            "startOffset": 34583,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 42683,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "As the tyre rolls on the profile, it presses out the plasticine, leaving only the modelling clay that covers the volume between the tyre rubber and the profile.",
+            "startOffset": 42523,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 38325,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Since our analysis focused on tyre envelopment procedures, which are linked to noise induced mainly by tyre vibrations, texture spectra were calculated from 5 to 200 mm.",
+            "startOffset": 38156,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 57523,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Therefore, it is arguable that the production means could affect the acoustic performance of rubberized surfaces.",
+            "startOffset": 57410,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39202,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The uncertainty of the mean value of the CPX sound pressure level within a band can be evaluated taking into account the spatial homogeneity of the installation, i.e. data dispersion around the mean value.",
+            "startOffset": 38997,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 59149,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "A multivariate linear regression did not yield results, since middle frequencies represent a transition zone from the positively correlated zone and the negatively correlated one.",
+            "startOffset": 58970,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 51006,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Data fits without outliers show higher adjusted r2 values.",
+            "startOffset": 50948,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 60111,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "An increase of the sample size could confirm the validity of the coefficients found for rubberized pavements, extending the model validity to other kinds of road surfaces.",
+            "startOffset": 59940,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 31799,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The measure of asymmetry of a profile is provided by the skewness, defined as the ratio of the mean value of the cube of the profile and the cube of the standard deviation.",
+            "startOffset": 31627,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 28915,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "These studies led to the definition of the Estimated Road Noisiness Level (ERNL), an estimation of roadside broadband noise, as a linear combination of the octave bands centred in 5 mm and 80 mm.",
+            "startOffset": 28720,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 34334,
+            "parents": [],
+            "refoffsets": {
+                "b0155": {
+                    "endOffset": 34333,
+                    "startOffset": 34329
+                }
+            },
+            "secId": "s0015",
+            "sentence": "It is useful to remind that rubberized road surfaces are built using hot asphalt mixes containing crumb rubber which acts as a modifier, in order to improve the acoustical properties of the binder [31].",
+            "startOffset": 34132,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 51864,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The resulting goodness-of-fit reported in Table 5 show that A weighted low frequency noise is not described as well as the correspondent non-weighted quantity, while high frequency noise in unaffected by A-weighting.",
+            "startOffset": 51648,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 54144,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It is also interesting to notice that the gain of SG method offers less inter-quartile variation compared to VM algorithm, suggesting that SG algorithm offers a more stable procedure for tyre envelopment, less dependent on the road surface characteristics.",
+            "startOffset": 53888,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26693,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 26692,
+                    "startOffset": 26689
+                }
+            },
+            "secId": "s0005",
+            "sentence": "While the former is caused by the motion of the tyre treads with respect to the road surface, the latter is present when the grip on the tyre is too strong, as it can happen on newly laid road surfaces [9].",
+            "startOffset": 26487,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46662,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The correlation patterns between the texture levels of the original profile and rolling noise, shown in Fig. 9(a), are in accordance with previous studies, which define two distinct well-correlated zones: a positive, low frequency zone and a negatively correlated high frequency zone.",
+            "startOffset": 46378,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 28419,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 28418,
+                    "startOffset": 28414
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A common approach to studies concerning road texture is provided by spectral analysis in constant-percentage bandwidth, using octave bands or one-third octave bands defined by ISO 13473-4 [20].",
+            "startOffset": 28226,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 35119,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 34926,
+                    "startOffset": 34922
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Measurements are compliant to the last version of ISO 11819-2 [17], since Standard Reference Test Tyre (SRTT) was used and temperature and hardness normalisations were also performed using a reference temperature of 20 \u00b0C and reference hardness of 66 Shore A.",
+            "startOffset": 34860,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 29491,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 29283,
+                    "startOffset": 29279
+                }
+            },
+            "secId": "s0010",
+            "sentence": "ISO 13473-5 [22] suggests using the texture level in the octave band centred at 63 mm as an indicator of tyre/road noise, since these wavelengths correspond approximately to the length of the interface between tyre and road.",
+            "startOffset": 29267,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 26486,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 26485,
+                    "startOffset": 26481
+                }
+            },
+            "secId": "s0005",
+            "sentence": "It is also caused by non-linear effects such as the stick-and-slip and stick-and-snap mechanisms [15].",
+            "startOffset": 26384,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31627,
+            "parents": [],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 31308,
+                    "startOffset": 31304
+                }
+            },
+            "secId": "s0010",
+            "sentence": "It is therefore evident that tyre/road noise modelling based only on an abrupt evaluation of texture spectrum would erroneously conclude that pavements with equal spectra are acoustically identical [26], while, on the other hand, an experimental study of the relationship between road texture and rolling noise that does not take into account the difference between positive and negative texture would lead to the wrong conclusion that rolling noise exhibits random variations for road surfaces with same texture spectra.",
+            "startOffset": 31106,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 56547,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The attempt to describe the broadband level as a function of low frequency and high frequency level did not bring any positive result, since tyre/road noise is dominated by levels around 1 kHz, which was not modelled in this work.",
+            "startOffset": 56317,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42061,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The procedure is carried out iteratively raising or lowering each point of the profile of a fixed quantity, depending on the difference between the value of the second order derivative in that point and the threshold chosen.",
+            "startOffset": 41837,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 47540,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The correlation patterns shown in Fig. 9(a), (b) and (c) confirm the existence of different regions for the profile and the tyre envelopments:",
+            "startOffset": 47398,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 33377,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Noise and road texture measurements were carried out during November 2017 on ten different sites of the highway connecting Merano to Bolzano, located in the region of Trentino-Alto Adige/S\u00fcdtirol in Northern Italy.",
+            "startOffset": 33163,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 37091,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "In this way, both CPX and road texture measurements are carried out at the same time, thus ensuring perfect alignment of signals and same conditions of measurement.",
+            "startOffset": 36927,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 42154,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The process halts when the condition provided by Eq. (6) is verified for each profile point.",
+            "startOffset": 42062,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 37615,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The information provided by the rotary encoder is then used to obtain a profile with sampling distance of 0.5 mm.",
+            "startOffset": 37502,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 30422,
+            "parents": [],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 30421,
+                    "startOffset": 30414
+                },
+                "b0120": {
+                    "endOffset": 30421,
+                    "startOffset": 30414
+                }
+            },
+            "secId": "s0010",
+            "sentence": "These models are mainly based on the decomposition of tyre simulation in three components: a non-linear stationary rolling case, an eigenvalue analysis on a deformed tyre model and a noise radiation prediction module [23,24].",
+            "startOffset": 30197,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 52771,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Correlation patterns in Fig. 9 show two distinct zones of correlation: a positive zone, which relates low frequency noise (315\u2013800 Hz) with all texture bands, peaked at 80 mm, and a high frequency region (2000\u20135000 Hz), negatively correlated with road texture and with a minimum at 8 mm.",
+            "startOffset": 52484,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 53123,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The different behaviour can be explained analysing the different generation mechanisms that dominate the two regions: low frequency noise is caused by tyre vibrations, which is enhanced by higher texture components, while high frequency noise is due to aerodynamic mechanisms, which are suppressed in case deep valleys are present on the road profile.",
+            "startOffset": 52772,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 58175,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "SG algorithm showed a distinct superiority compared to VM method in describing tyre deformation due to road texture and its relationship with rolling noise.",
+            "startOffset": 58019,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 25450,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 25320,
+                    "startOffset": 25314
+                },
+                "b0050": {
+                    "endOffset": 25320,
+                    "startOffset": 25314
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Studies show that road traffic noise is a remarkably complex phenomenon, with different sources such as the power unit, aerodynamics and tyre-road interaction [9,10], which constitutes the most important source of traffic noise, particularly for traffic speeds that range from 35 up to 120 km/h.",
+            "startOffset": 25155,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24213,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Noise pollution produced by transport infrastructures is a very widespread issue for modern society, especially for the inhabitants of urbanized areas.",
+            "startOffset": 24062,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27077,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 27076,
+                    "startOffset": 27072
+                },
+                "b0080": {
+                    "endOffset": 26843,
+                    "startOffset": 26839
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The three main dominions (generation, absorption, propagation) which affect pavement acoustic performance involve a number of acoustic parameters [16]: in fact, a comprehensive approach for the evaluation of noise at receivers must analyse not only the generation mechanisms of traffic noise, but propagation and absorption-reflection processes that can occur during propagation [10].",
+            "startOffset": 26693,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29740,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 29739,
+                    "startOffset": 29735
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A study based on sieve analysis of the aggregates that form the road surface has shown that only the diameter of the 95% passing sieve is positively correlated with noise generation, while a negative correlation links noise and void percentage [19].",
+            "startOffset": 29491,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 45812,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The response of the envelopment algorithms was evaluated by calculating the gain function, viz. the ratio between the spectra of the enveloped and original profiles.",
+            "startOffset": 45647,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 43672,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Points above the line for each footprint are kept in the enveloped profile, while the points below are excluded from the profile;",
+            "startOffset": 43543,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 44327,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "refoffsets": {
+                "b0180": {
+                    "endOffset": 44141,
+                    "startOffset": 44137
+                },
+                "b0185": {
+                    "endOffset": 44326,
+                    "startOffset": 44322
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Since measurements were performed using the reference tyre SRTT proposed by ISO/TS 11819-3 [36], tyre properties, such as rubber type, tread pattern, tyre pressure and its diameter, were not investigated, despite other studies underline their influence on acoustical emission [37].",
+            "startOffset": 44046,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 56941,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Since pavements within the cluster behave similarly in the frequency range from 1 to 1.6 kHz, it is clear that broadband LCPX levels are extremely dependent on this contribution, rather than the low frequency and high frequency levels.",
+            "startOffset": 56706,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 55284,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Texture levels were calculated on enveloped profiles, using the indenter\u2019s method.",
+            "startOffset": 55202,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32253,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The first algorithm that simulates tyre envelopment was developed by Von Meier.",
+            "startOffset": 32174,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 47677,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "A low frequency region, which involves the range from 315 to 800 Hz, positively correlated to road texture and with a maximum at 80 mm;",
+            "startOffset": 47542,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 59591,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Moreover, the presence of three outliers in the sample studied, due to other uncontrolled variables (laying conditions, temperature conditions of bitumen, etc.) could be reduced in the future ensuring a better standard level for laying process and homogeneity of production process.",
+            "startOffset": 59309,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 44004,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Even though measurements were not carried out at the reference speed of 100 km/h chosen in this work, it is reasonable to assume that the indented area does not vary significantly, at least on a first approximation.",
+            "startOffset": 43789,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 30577,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "These approaches, however, are more focused on optimising acoustical design of tyres, and are therefore less interesting as far as this work is concerned.",
+            "startOffset": 30423,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 24936,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 24849,
+                    "startOffset": 24846
+                },
+                "b0015": {
+                    "endOffset": 24876,
+                    "startOffset": 24871
+                },
+                "b0020": {
+                    "endOffset": 24876,
+                    "startOffset": 24871
+                },
+                "b0025": {
+                    "endOffset": 24917,
+                    "startOffset": 24914
+                },
+                "b0030": {
+                    "endOffset": 24935,
+                    "startOffset": 24932
+                }
+            },
+            "secId": "s0005",
+            "sentence": "An exposure to such high noise levels could lead to a whole list of health effects, such as: sleep disorders with awakenings [2], learning impairment [3,4], hypertension ischemic heart disease [5] and annoyance [6].",
+            "startOffset": 24721,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31106,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "It has been reported that negative texture results on a decrease of rolling noise, while positive texture is more aggressive from an acoustical point of view.",
+            "startOffset": 30948,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 45529,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "While Fig. 4 shows texture spectra calculated form road profile measurements, Figs. 5 and 6 show texture spectra resulting from the tyre envelopment process, according to VM and SG method.",
+            "startOffset": 45341,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 39717,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The last source of data variability derives from \u201cseveral factors and processes, whose cause and nature of disturbance are either known, but randomly distributed in an uncontrollable way, or are of a systematic nature, but affect the result in an unpredictable way\u201d (as declared in Annex K of the ISO 11819-2).",
+            "startOffset": 39407,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 46377,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "As far as the relation with rolling noise is concerned, correlation patterns between each couple of texture and noise one-third-octave bands were calculated for original profiles, VM profiles and SG profiles.",
+            "startOffset": 46169,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 54718,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Nevertheless, Fig. 9 does not shed light on middle frequency noise (1000\u20131600 Hz).",
+            "startOffset": 54636,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34859,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 34818,
+                    "startOffset": 34811
+                },
+                "b0165": {
+                    "endOffset": 34818,
+                    "startOffset": 34811
+                }
+            },
+            "secId": "s0020",
+            "sentence": "In this work, a modified protocol based on the CPX method [32,33] was used for evaluating tyre/road noise.",
+            "startOffset": 34753,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 32839,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The solution proposed approximates the tyre as a two-dimensional infinite elastic medium; moreover, the resulting integral equation is never exactly solved, and relies on an iterative approach.",
+            "startOffset": 32646,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 38997,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Since the dispersion around the fit is assumed to be a random source of error, it is assumed to be the measurement uncertainty of the sound pressure level within the given segment.",
+            "startOffset": 38817,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 37803,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Since measurements of noise and texture are performed simultaneously, the profile segments result aligned to the CPX measurements.",
+            "startOffset": 37673,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 40954,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Data dispersion around the mean value is taken into account by computing the sample standard deviation due to spatial variability and performing quadratic addition with the resulting estimates of uncertainty provided by Eq. (5).",
+            "startOffset": 40726,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 38816,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The first source of uncertainty derives from the fitting process in each segment, due to data dispersion around the fit.",
+            "startOffset": 38696,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 34132,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "P10 is a dense asphalt concrete 0/12.",
+            "startOffset": 34095,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 48030,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "While the low frequency and high frequency regions show well defined correlations, the middle region shows almost no correlation with road texture.",
+            "startOffset": 47883,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 25664,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Noise caused by tyre/road interaction shows a strong degree of variability, depending on properties of both tyre and pavements, since its generation mechanisms involve several mechanisms that occur simultaneously.",
+            "startOffset": 25451,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46894,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Positive correlation is slightly enhanced using SG algorithm, whose correlation pattern with noise is shown in Fig. 9(b), with a slight decrease of negative correlation in the high frequency region, compared to the original profile.",
+            "startOffset": 46662,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 59940,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Tyre envelopment algorithms also require deeper investigation, such as performing measurements at higher speeds in order to elaborate a speed-dependent indenter model.",
+            "startOffset": 59773,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 51647,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Regressions and the comparison with experimental data are shown in Fig. 13(a) and (b).",
+            "startOffset": 51561,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 47253,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Negative correlation with high frequency noise results also significantly diminished.",
+            "startOffset": 47168,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 57767,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Therefore, the models proposed, while not being able to forecast broadband CPX levels, can describe low and high frequency levels in terms of road texture, thus shedding light upon the basic relations which link road texture to tyre/road noise.",
+            "startOffset": 57523,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38695,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The uncertainty related to the mean CPX values, named LCPX hereafter, derives from three main contributions.",
+            "startOffset": 38587,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 58969,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Unfortunately, frequencies around 1000 Hz showed little correlation with road texture and its modelling was not performed.",
+            "startOffset": 58847,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27757,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 27674,
+                    "startOffset": 27670
+                },
+                "b0095": {
+                    "endOffset": 27756,
+                    "startOffset": 27752
+                }
+            },
+            "secId": "s0010",
+            "sentence": "In particular, surface macro and megatexture, as defined by ISO 13473-2 [18], porosity and layer thickness play a key role in generation of rolling noise [19].",
+            "startOffset": 27598,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 42374,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The parameter d* is related to tyre hardness, with lower values simulating higher hardness; for instance, a soft tyre can be modelled by choosing a limit value of 0.1 m\u22121, while a stiff tyre would provide d* = 0.01 m\u22121.",
+            "startOffset": 42155,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 28719,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 28441,
+                    "startOffset": 28438
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Sandberg\u2019s studies [9] underlined that the lower range of macrotexture, which includes wavelengths shorter than 10 mm, is negatively correlated with high frequency noise; conversely the first part of megatexture, up to 80 mm, shows a strong positive correlation with low frequency, vibrational noise.",
+            "startOffset": 28419,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 37672,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The resulting profiles were divided in adjacent segments.",
+            "startOffset": 37615,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 41366,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 41307,
+                    "startOffset": 41303
+                },
+                "b0140": {
+                    "endOffset": 41365,
+                    "startOffset": 41361
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The two methods compared in this work are Von Meier\u2019s method (VM) [27] and the indenter method by Sandberg and Goubert (SG) [28].",
+            "startOffset": 41237,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 53225,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Both these aspects, however, lead to an increase of texture amplitude, and, in turn, of its spectrum.",
+            "startOffset": 53124,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 53887,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "By observing the figures in Section 4.3, it is rather clear that VM acts as a smoothing filter, while SG algorithm preserves the shape of the profile down to a certain depth, and connects the edges with cubic polynomials.",
+            "startOffset": 53666,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43789,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Interpolation between adjacent indenters is provided by a Piecewise Cubic Hermite Interpolating Polynomial (PCHIP).",
+            "startOffset": 43674,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 49036,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The results, shown in in Fig. 10(a) and (b), underline that envelopment algorithms enhance positive correlation with low frequency noise, but provide a different response for high frequency noise: while the SG algorithm exhibits the highest negative correlation at 8 mm, VM algorithm shows almost no correlation at these wavelengths.",
+            "startOffset": 48703,
+            "title": "Low and high frequency CPX indicators"
+        },
+        {
+            "endOffset": 58847,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "This has led to the definition of two indicators, a low frequency CPX level and a high frequency CPX level, which were described as a linear function of SG texture levels within the one-third octave bands, centred respectively at 80 mm and 8 mm.",
+            "startOffset": 58602,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27597,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 27428,
+                    "startOffset": 27425
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The description of tyre/road interaction carried out by Sandberg [9] has led to the separation of aerodynamic and vibrational contributions, raising awareness about the fundamental properties of road surfaces related to noise generation.",
+            "startOffset": 27360,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 37259,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 37147,
+                    "startOffset": 37143
+                },
+                "b0170": {
+                    "endOffset": 37258,
+                    "startOffset": 37254
+                }
+            },
+            "secId": "s0025",
+            "sentence": "According to the terminology adopted by ISO 13473-2 [18], the profilometer used during measurements is a contactless profilometer, based on the setup described in [34].",
+            "startOffset": 37091,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 54365,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Low frequency sound levels, related to tyre vibrations, shows the strongest correlation at 80 mm for all methods adopted; however, the maximum value is obtained by the indenter\u2019s method (correlation coefficient \u03c1 = 0.93).",
+            "startOffset": 54144,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 54636,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "High frequency sound level, caused by aerodynamic processes, has minimum negative correlation with envelopment performed according to the indenter\u2019s method at 8 mm (\u03c1 = -0.73), which, despite being somewhat lower compared to the original profile, is still notably strong.",
+            "startOffset": 54365,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57083,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "This can be explained not only by the higher levels recorded, but also by the nature of A-weighting, which enhances frequencies around 1 kHz.",
+            "startOffset": 56942,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32413,
+            "parents": [],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 32335,
+                    "startOffset": 32331
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Von Meier\u2019s method (VM), was based on empirical and heuristic considerations [27], such as the limitation of the second-order derivative of the profile signal.",
+            "startOffset": 32254,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 38156,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 38155,
+                    "startOffset": 38151
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Then, texture spectra are calculated using power spectral density and adding the energy within each one-third octave bands, following the prescriptions of the fourth method reported in ISO 13473-4 [20].",
+            "startOffset": 37954,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 36541,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The main modification to the official protocol regards data analysis, since the test sites were divided in segments 6.18 m long, i.e. three times a tyre circumference, instead of using the standard section length of 20 m, in order to increase the spatial resolution of the analysis.",
+            "startOffset": 36259,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 41236,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Since only the portion of road profile that is in contact with the tyre is directly involved in rolling noise generation, several algorithms capable of simulating the deformation of the tyre due to the contact with road texture have been developed.",
+            "startOffset": 40988,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 43137,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 43034,
+                    "startOffset": 43030
+                }
+            },
+            "secId": "s0035",
+            "sentence": "The code developed to perform the indenter method is based on the guidelines present in [28], along with the values of the indented area for the SRTT (S = 5 mm2) and includes the following steps:",
+            "startOffset": 42942,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 25832,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 25831,
+                    "startOffset": 25827
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A combination of aerodynamic and vibro-dynamic phenomena occurs in the generation of tyre/road noise, where the contact between tyre and pavement acts as a source [11].",
+            "startOffset": 25664,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58018,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "A total of ten road surfaces were analysed in terms of CPX noise and texture levels.",
+            "startOffset": 57934,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 32984,
+            "parents": [],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 32983,
+                    "startOffset": 32979
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Sandberg and Goubert derived an envelopment procedure based on experimental analysis of the behaviour of the SRTT used for CPX measurements [28].",
+            "startOffset": 32839,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 37953,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "In order to reduce noise in the profile signal, in each segment the profiles were fitted with an autoregressive model based on the Yule-Walker method.",
+            "startOffset": 37803,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 39407,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 39406,
+                    "startOffset": 39402
+                }
+            },
+            "secId": "s0030",
+            "sentence": "Spatial homogeneity, represented by the standard deviation of LCPX data on a road surface, is a description of the mean value precision and it cannot be neglected when two road surfaces are compared [32].",
+            "startOffset": 39203,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 32645,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 32644,
+                    "startOffset": 32640
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Other methods are based on the analytical solution of the tyre deformation due to the roughness of the road surface, such as the method proposed by Hamet and Klein which describes the tyre-road system using the Green function [25].",
+            "startOffset": 32414,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 42942,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This area does not depend on texture characteristics, but only on tyre properties, i.e. tyre pressure, width and speed.",
+            "startOffset": 42823,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 34094,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "As summarised in Table 1, sites from P1 to P4 and P7 are gap graded 0/12 rubberized asphalts, produced according to the dry process, while sites P5, P6, P8 and P9 are gap graded 0/16 rubberized asphalts produced following the wet process.",
+            "startOffset": 33856,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 59309,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Modelling noise in this region, therefore, requires deeper investigation and a better understanding of the physical phenomena underlying road tyre interactions.",
+            "startOffset": 59149,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 45341,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The lower texture levels of SG profiles compared with the levels of original profiles, can be explained by the overall reduction of profile amplitudes.",
+            "startOffset": 45190,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 59773,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Further research is needed to investigate the validity of the model and time-stability of the coefficients found in this work, by repeating measurements over a longer period of time.",
+            "startOffset": 59591,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 34582,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In the wet process, named Asphalt Rubber (AR), crumb rubber is blended with liquid asphalt cement (AC) before mixing AC with the aggregate; in general, the percentage of crumb rubber used in this process is roughly equal to 1% of the total weight.",
+            "startOffset": 34335,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 45647,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "An example of the measured profile and the resulting tyre envelopments provided by the two methods is shown in Fig. 7.",
+            "startOffset": 45529,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 29267,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "While the former is positively correlated with noise emission, the latter shows a negative correlation.",
+            "startOffset": 29164,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 30196,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Models of rolling noise based on FEM and BEM approaches have been proposed to describe tyre vibrations.",
+            "startOffset": 30093,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 47398,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Therefore, only SG algorithm results suitable for creating a model of rolling noise that takes into account tyre deformation due to road profile.",
+            "startOffset": 47253,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 53666,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Analysis in one-third octave bands shows that, for low frequency noise, the envelopment processes enhance correlation; however, correlation patterns at 10 mm is disrupted by Von Meier\u2019s algorithm, while the indenter model not only enhances correlation between texture and low frequency noise, but it also leads to a better determination of the couple of texture and noise bands with highest negative correlation in the high frequency region.",
+            "startOffset": 53225,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43424,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "For each footprint, a horizontal line, starting from z = zmax is iteratively lowered until the area A under the profile and above this line reaches the predefined value S;",
+            "startOffset": 43253,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 55604,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The three outliers pinpointed by the linear regression can be explained by taking into account issues that occurred during the laydown process, which caused not only significant changes in texture, but reasonably in other physical quantities that influence rolling noise, such as layer thickness, porosity and stiffness.",
+            "startOffset": 55284,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26031,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This mechanism is known as air pumping and causes noise at frequencies higher than 1 kHz.",
+            "startOffset": 25942,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33670,
+            "parents": [],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 33669,
+                    "startOffset": 33662
+                },
+                "b0150": {
+                    "endOffset": 33669,
+                    "startOffset": 33662
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Since the maximum distance between sites is about 20 km and the difference in height at the starting and ending point of the highway is about 100 m, it is safe to assume that the sites are exposed to the same weather and traffic condition, minimising ageing influence on measurements [29,30].",
+            "startOffset": 33378,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 58400,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The results are comparable to previous studies, with the identification of two distinct patches of correlation: a positively correlated zone for low frequency emission and a negatively correlated region at higher frequencies.",
+            "startOffset": 58175,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 25155,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 25057,
+                    "startOffset": 25054
+                },
+                "b0040": {
+                    "endOffset": 25099,
+                    "startOffset": 25096
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The prevention of such effects is remanded to mandatory action plans for big infrastructures or urban agglomerations [7], and in order to optimize mitigations [8], noise generation mechanisms are of paramount interest.",
+            "startOffset": 24937,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28226,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Macrotexture covers wavelengths that are the same order of size as tyre tread elements, while megatexture is of the same order of size as tyre-road interface.",
+            "startOffset": 28068,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 49318,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Moreover, correlation curves in Fig. 10(a) and (b), show that low frequency rolling noise is related to the whole range of road texture wavelength, rather than to a single wavelength band; conversely high frequency noise is rather peaked around 8 mm, especially after SG enveloping.",
+            "startOffset": 49036,
+            "title": "Low and high frequency CPX indicators"
+        },
+        {
+            "endOffset": 43251,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The profile is divided into footprints of fixed length L, representing the length of the tyre/road contact zone;",
+            "startOffset": 43139,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 32051,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "When a tyre runs on a textured road surface with high negative skewness, it does not necessarily touch all the points on the surface, and, therefore, tyre envelopment of the road surface can be used to distinguish road surfaces with different skewness.",
+            "startOffset": 31799,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 36755,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 36754,
+                    "startOffset": 36750
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Road texture measurements were carried out at the same time as CPX measurements, using a triangulation point profile sensor, compliant with the requirements reported in ISO 13473-2 [18].",
+            "startOffset": 36569,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 45036,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Texture spectra were evaluated for road profiles and tyre envelopments, allowing a comparison of the results.",
+            "startOffset": 44927,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 39838,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Since measuring conditions do not vary greatly within the different sessions, this source was neglected in the analysis.",
+            "startOffset": 39718,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 50881,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Regression parameters for Eqs. (7) and (8) are reported in Tables 3 and 4.",
+            "startOffset": 50807,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 51560,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "A new regression was performed using these A-weighed variables.",
+            "startOffset": 51497,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 30093,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Despite the simple linear relations found in the study, the resulting model requires pavement coring in order to obtain data and therefore is not so practical for spatial evaluation conducted for each site.",
+            "startOffset": 29887,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 30783,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 30782,
+                    "startOffset": 30778
+                }
+            },
+            "secId": "s0010",
+            "sentence": "A simple evaluation of texture does not distinguish between positive texture, i.e. when a road surface is characterised by high peaks, and negative texture, where deep grooves and valleys are dominant [25].",
+            "startOffset": 30577,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 57250,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It is interesting to notice, moreover, that the two different groups highlighted in Fig. 14 correspond to the two different production methods of rubberized surfaces.",
+            "startOffset": 57084,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29886,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This study, although focusing on properties of road pavements other than texture, underlines yet again the presence of two generation mechanisms.",
+            "startOffset": 29741,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 37501,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It combines the output of the laser sensor fixed to the rear of the vehicle, a piezoelectric accelerometer that measures vertical oscillations of the sensor and a rotary encoder fixed to a wheel that yields the horizontal distance travelled.",
+            "startOffset": 37260,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 47883,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "A middle frequency region, where the transition from positive to negative correlation occurs.",
+            "startOffset": 47790,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 50947,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The elimination of the three outliers leads to Fig. 12(a) and (b).",
+            "startOffset": 50881,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 60355,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The selection of future samples, however, cannot be performed randomly, but should always be made ensuring that traffic and weather conditions are uniform within the sample, thus minimising their influence on the generation of tyre/road noise.",
+            "startOffset": 60112,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 33136,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This study shows that the tyre envelopment follows the road profile until a certain depth, determined by the kind of tyre and the speed of the vehicle.",
+            "startOffset": 32985,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 55782,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The exclusion of the three outlier road surfaces from linear regression leads to high values of the adjusted coefficient of determination, which indicate a high goodness-of-fit.",
+            "startOffset": 55605,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57934,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "This paper implemented a new approach for the evaluation of tyre/road noise, considering a tyre envelopment algorithm derived by road profile measurements.",
+            "startOffset": 57779,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 47788,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "A high frequency region, from 2000 to 5000 Hz, negatively correlated to road texture, with a minimum at 8 mm;",
+            "startOffset": 47679,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 52473,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Therefore, while being able to describe low frequency and high frequency noise, the models presented lack predictive power on broadband LCPX, since the contribution of the one third octave bands from 1 kHz to 1.6 kHz cannot be neglected.",
+            "startOffset": 52236,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 24720,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Even if not the most annoying, road traffic is the most common noise source and about 100 million people in the 33 EU member states are exposed to harmful road traffic noise levels exceeding 55 dB(A) of Lden, and 32 million are exposed to noise levels higher than 65 dB(A) of Lden.",
+            "startOffset": 24439,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50518,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Goodness-of-fit was evaluated calculating the adjusted coefficient of determination r2adj, intended to be an unbiased estimate of the coefficient of determination of the population, especially in small samples.",
+            "startOffset": 50308,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 25941,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 25940,
+                    "startOffset": 25933
+                },
+                "b0065": {
+                    "endOffset": 25940,
+                    "startOffset": 25933
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Aerodynamic noise is related to compression of the air trapped within the tread of the rolling tyre [12,13].",
+            "startOffset": 25833,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49627,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Despite the correlation between noise and road texture shows small variation with road texture wavelength, it is still possible to determine the texture bands that correlate the most: high frequency noise shows the greatest negative correlation at 8 mm, while low frequency noise has a local maximum at 80 mm.",
+            "startOffset": 49318,
+            "title": "Low and high frequency CPX indicators"
+        },
+        {
+            "endOffset": 42822,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The results show that for two-dimensional profiles, a tyre envelopment can be simulated by indenting an area S into the rubber of the tyre.",
+            "startOffset": 42683,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 44927,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 44770,
+                    "startOffset": 44766
+                }
+            },
+            "secId": "s0050",
+            "sentence": "Following the protocol reported in ISO 13473-4 [20], texture spectra were calculated as a function of wavenumber however, for the sake of clarity, results are plotted as a function of wavelength, its inverse.",
+            "startOffset": 44719,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 28067,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Wavelengths from 0.5 mm to 50 mm are addressed as macrotexture, while longer wavelengths, up to 50 mm, form megatexture.",
+            "startOffset": 27947,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 50308,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Regression of Eqs. (7) and (8) was carried out using a robust regression with bi-square weighting function that takes into account uncertainty of experimental data.",
+            "startOffset": 50144,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 27343,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 27312,
+                    "startOffset": 27308
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In this paper, however, tyre/road noise is studied only in relation to road texture, since the aim is to propose a phenomenological model of the source based on measures performed according to the CPX method defined by ISO 11819-2 [17] as a function of road texture.",
+            "startOffset": 27077,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40088,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The same reasoning applies to road texture spectra: in each segment, a measurement uncertainty of the segment spectrum was derived for each one-third octave band, assuming that the signal within a band has the same properties as white Gaussian noise.",
+            "startOffset": 39838,
+            "title": "Measurement uncertainty and spatial variability"
+        },
+        {
+            "endOffset": 29163,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 28956,
+                    "startOffset": 28953
+                },
+                "b0105": {
+                    "endOffset": 29007,
+                    "startOffset": 29003
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Using a similar approach, Losa et al. [6], within the framework of the Leopoldo project [21], proposed a model that estimates broadband rolling noise measured with the CPX method as a linear combination of texture levels within 2\u20134 mm and 16\u201363 mm.",
+            "startOffset": 28915,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 50612,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The linear regressions with the complete dataset containing ten surfaces are shown in Fig. 11.",
+            "startOffset": 50518,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 26383,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Vibro-dynamic noise covers frequencies lower than 1 kHz, and is due to tyre vibrations caused by the impact of the tyre against irregularities of the road surface.",
+            "startOffset": 26220,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47167,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "While preserving low frequency correlation with long texture wavelengths, VM algorithm shown in Fig. 9(c) alters the behaviour of the one-third-octave band centred in 10 mm, producing a low correlation line, and significantly reduces the correlation at shorter wavelengths.",
+            "startOffset": 46894,
+            "title": "Correlation between road texture and rolling noise"
+        },
+        {
+            "endOffset": 50807,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Low frequency noise is apparently well described by the linear fit in Fig. 11(a), while the high frequency component in Fig. 11(b) underlines the presence of three outliers, namely P2, P4 and P5.",
+            "startOffset": 50612,
+            "title": "Modelling of rolling noise"
+        },
+        {
+            "endOffset": 45189,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "VM algorithm mainly affects short wavelengths and does not alter longer wavelengths; on the contrary SG texture levels do not show such a sharp cut-off.",
+            "startOffset": 45037,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 38537,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 38536,
+                    "startOffset": 38530
+                },
+                "b0110": {
+                    "endOffset": 38536,
+                    "startOffset": 38530
+                }
+            },
+            "secId": "s0025",
+            "sentence": "It is known, in fact, that shorter wavelengths are connected to aerodynamic phenomena, while wavelengths that range in megatexture are responsible for in-vehicle noise, passenger comfort and ride quality [9,22].",
+            "startOffset": 38326,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 58601,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The low frequency region, which showed the highest correlation at 80 mm, ranges from 315 to 800 Hz, while high frequency noise involves frequencies from 2000 to 5000 Hz and correlates the most at 8 mm.",
+            "startOffset": 58400,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35194,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The reference speed adopted for the calculation of CPX levels is 100 km/h.",
+            "startOffset": 35120,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 56317,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It appears therefore that the effect of envelopment is to increase the slope of high frequency noise as a function of texture.",
+            "startOffset": 56191,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 55976,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 55975,
+                    "startOffset": 55972
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Regression parameters are in accordance with literature: the slope a80 = 0.51 \u00b1 0.12 is remarkably close to the value 0.5 suggested by Sandberg for the Estimated Road Noisiness Level (ERNL) [9].",
+            "startOffset": 55782,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26220,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 26219,
+                    "startOffset": 26216
+                },
+                "b0070": {
+                    "endOffset": 26126,
+                    "startOffset": 26122
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Other than air pumping, aerodynamic mechanisms also include pipe and Helmholtz resonances [14], due to the coupling of a vibrating mass of air within the tread, which acts as a cavity [9].",
+            "startOffset": 26032,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42522,
+            "parents": [
+                {
+                    "id": "s0015",
+                    "title": "Methods and sites analysed"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The indenter method has been derived by Sandberg and Goubert from measurements of a known profile filled with plasticine and run over by a car tyre.",
+            "startOffset": 42374,
+            "title": "Road texture envelopment method"
+        },
+        {
+            "endOffset": 32173,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Several algorithms that simulate the deformation of the tyre due to the contact with the road surface have been developed.",
+            "startOffset": 32051,
+            "title": "State of the art"
+        },
+        {
+            "endOffset": 48702,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Correlation coefficients between these parameters and texture one-third-octave bands were recalculated for the road profile and the two tyre envelopments.",
+            "startOffset": 48548,
+            "title": "Low and high frequency CPX indicators"
+        },
+        {
+            "endOffset": 57409,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Indeed, as reported in Table 1, P1, P3, P7 are dry surfaces and, together with P10, form a single group in Fig. 14, while P6, P8 and P9 are wet road surfaces.",
+            "startOffset": 57251,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 56190,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "However, the same model used the texture level at 5 mm as an estimator of aerodynamic contribution to noise, with a slope of \u22120.25, slightly different compared to the slope a8 = -1.78 \u00b1 0.11 obtained in this work.",
+            "startOffset": 55977,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45963,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Boxplots of the gain function, reported in Fig. 8, show the different behaviour of the two envelopment algorithms as a function of texture wavelength.",
+            "startOffset": 45813,
+            "title": "Road texture measurements"
+        },
+        {
+            "endOffset": 44535,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Nevertheless, since the focus of the study is the relation between road texture and tyre/road noise, using the same tyre for all road surfaces minimises the number of uncontrolled variables within the study.",
+            "startOffset": 44328,
+            "title": "Noise measurements"
+        },
+        {
+            "endOffset": 33855,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The characteristics of each site in terms of aggregate gradation of the ten pavements are reported in Fig. 2.",
+            "startOffset": 33746,
+            "title": "Methods and sites analysed"
+        },
+        {
+            "endOffset": 55201,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Due to the lack of correlation in the middle frequency region between noise and road texture, modelling took place in the low frequency region, using a linear regression between LCPX (LF) and LTX (80 mm), and in the high frequency region, between LCPX (HF) and LTX (8 mm).",
+            "startOffset": 54929,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 56705,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "However, a hint of clustering of broadband CPX levels can be observed in Fig. 14, grouping P10, P3, P1 and P7 in one group and P6, P8 and P9 in another group.",
+            "startOffset": 56547,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 54929,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "In fact, it is reasonable to assume that in this region a steady transition occurs from the positive correlation with the band centred at 80 mm to the negative correlation shown by high frequency noise at 8 mm.",
+            "startOffset": 54719,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44691,
+            "parents": [
+                {
+                    "id": "s0040",
+                    "title": "Analysis and results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Mean CPX spectra and their related uncertainties are shown in Fig. 3, while LCPX broadband levels calculated using Eqs. (5) and (6) are reported in Table 2.",
+            "startOffset": 44535,
+            "title": "Noise measurements"
+        }
+    ],
+    "docId": "S0003682X19300325",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Alessandro",
+                "initial": "A.",
+                "last": "Del Pizzo"
+            },
+            {
+                "email": null,
+                "first": "Luca",
+                "initial": "L.",
+                "last": "Teti"
+            },
+            {
+                "email": null,
+                "first": "Antonino",
+                "initial": "A.",
+                "last": "Moro"
+            },
+            {
+                "email": null,
+                "first": "Francesco",
+                "initial": "F.",
+                "last": "Bianco"
+            },
+            {
+                "email": null,
+                "first": "Luca",
+                "initial": "L.",
+                "last": "Fredianelli"
+            },
+            {
+                "email": "g.licitra@arpat.toscana.it",
+                "first": "Gaetano",
+                "initial": "G.",
+                "last": "Licitra"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.107080",
+        "issn": "0003682X",
+        "keywords": [
+            "CPX measurements",
+            "Modelling",
+            "Road texture",
+            "Tyre/road interaction",
+            "Tyre/road noise"
+        ],
+        "openaccess": "Full",
+        "pub_year": 2020,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Influence of texture on tyre road noise spectra in rubberized pavements"
+    }
+}

@@ -1,0 +1,2160 @@
+{
+    "abstract": "Vibro-acoustic source characterization is an essential task in vehicle development to enable prediction of receiver response. For structure-borne noise, the interface forces in multiple degrees of freedom due to internal loads are often quantified for root cause analyses in a single system assembly, as in transfer path analysis (TPA). However, for a reliable prognosis of the acoustic performance of a known component such as a motor or pump, a receiver-independent source characterization is required, and the method of acquiring blocked forces from in-situ measurements has been shown to be a preferred technique for such purposes. The benefits of the method are the characterization of the intrinsic properties of the source and the possibilities of measuring the component attached to receivers with varying dynamic properties. There is to date a limited number of validation cases where blocked forces from in-situ measurements are acquired for automotive source-receiver assemblies. In this study the blocked forces of a vacuum pump in nine degrees of freedom were determined when connected to a bracket whose boundary conditions were modified in order to achieve four assemblies with different source/receiver dynamic properties. The results show that the blocked forces are transferable, i.e. the receiver response in one assembly was predicted in a wide frequency range by combining source-receiver transfer functions of that assembly with blocked forces estimated in another assembly. Furthermore, an in-situ blocked force TPA was applied to a double-isolated complete vehicle source-receiver case of an electric rear axle drive with interior compartment sound pressure as target. The reconstructed magnetic tonal harmonics agreed with the measured target response in the frequency range 50-500 Hz, which further motivates the use of the blocked force principles for TPA and source requirements specifications.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "A. T.",
+                    "initial": "A.T.",
+                    "last": "Moorhouse"
+                },
+                {
+                    "first": "A. S.",
+                    "initial": "A.S.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "T. A.",
+                    "initial": "T.A.",
+                    "last": "Evans"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2009.04.035",
+            "firstpage": "679",
+            "issn": "0022460X",
+            "lastpage": "685",
+            "pub_year": 2009,
+            "title": "In situ measurement of the blocked force of structure-borne sound sources",
+            "volume": "325"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "A. S.",
+                    "initial": "A.S.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "A. T.",
+                    "initial": "A.T.",
+                    "last": "Moorhouse"
+                }
+            ],
+            "firstpage": "2055",
+            "lastpage": "2068",
+            "pub_year": 2010,
+            "title": "In-situ characterisation of structure borne noise from a building mounted wind turbine"
+        },
+        "b0015": null,
+        "b0020": null,
+        "b0025": {
+            "authors": [
+                {
+                    "first": "A. S.",
+                    "initial": "A.S.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "A. T.",
+                    "initial": "A.T.",
+                    "last": "Moorhouse"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Huntley"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Tate"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2013.05.031",
+            "firstpage": "6276",
+            "issn": "0022460X",
+            "lastpage": "6295",
+            "pub_year": 2013,
+            "title": "In-situ source path contribution analysis of structure borne road noise",
+            "volume": "332"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Thivant"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Bouvet"
+                },
+                {
+                    "first": "Alexandre",
+                    "initial": "A.",
+                    "last": "Carbonelli"
+                }
+            ],
+            "doi": "10.4271/2011-01-1531",
+            "issn": "01487191",
+            "pub_year": 2011,
+            "title": "Derivation of the force interaction within strongly coupled systems - Application to diesel engine oil pumps"
+        },
+        "b0035": null,
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Juha",
+                    "initial": "J.",
+                    "last": "Plunt"
+                }
+            ],
+            "firstpage": "12",
+            "issn": "15410161",
+            "lastpage": "16",
+            "pub_year": 2005,
+            "title": "Finding and fixing vehicle NVH problems with transfer path analysis",
+            "volume": "39"
+        },
+        "b0050": null,
+        "b0055": null,
+        "b0060": null,
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Karsten",
+                    "initial": "K.",
+                    "last": "Finger"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Brandes"
+                },
+                {
+                    "first": "Edmund",
+                    "initial": "E.",
+                    "last": "Schmidt"
+                }
+            ],
+            "doi": "10.4271/2012-01-1535",
+            "issn": "19463995",
+            "pub_year": 2012,
+            "title": "TPA and NVH Prognosis - Application to Mercedes Benz Car Development of New Hybrid Methods Coupling Digital Simulation with Prototype Testing Results",
+            "volume": "5"
+        },
+        "b0070": null,
+        "b0075": {
+            "authors": [
+                {
+                    "first": "A. N.",
+                    "initial": "A.N.",
+                    "last": "Thite"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Thompson"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2006.01.001",
+            "firstpage": "797",
+            "issn": "0003682X",
+            "lastpage": "818",
+            "pub_year": 2006,
+            "title": "Selection of response measurement locations to improve inverse force determination",
+            "volume": "67"
+        },
+        "b0080": null,
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Lievens"
+                },
+                {
+                    "first": "Christoph",
+                    "initial": "C.",
+                    "last": "H\u00f6ller"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Dietrich"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Vorlander"
+                }
+            ],
+            "doi": "10.3813/AAA.918688",
+            "firstpage": "79",
+            "issn": "16101928",
+            "lastpage": "92",
+            "pub_year": 2014,
+            "title": "Predicting the interaction between structure-borne sound sources and receiver structures from independently measured quantities: Case study of a washing machine on a wooden joist floor",
+            "volume": "100"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "M. H.A.",
+                    "initial": "M.H.A.",
+                    "last": "Janssens"
+                },
+                {
+                    "first": "J. W.",
+                    "initial": "J.W.",
+                    "last": "Verheij"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Thompson"
+                }
+            ],
+            "doi": "10.1006/jsvi.1999.2303",
+            "firstpage": "305",
+            "issn": "0022460X",
+            "lastpage": "328",
+            "pub_year": 1999,
+            "title": "The use of an equivalent forces method for the experimental quantification of structural sound transmission in ships",
+            "volume": "226"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 53594,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This indicates that the quality of the measurements was satisfying (e.g. positioning of sensors, signal-to-noise ratios, impact excitations).",
+            "startOffset": 53453,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 42307,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The objective of the paper was to investigate the following:",
+            "startOffset": 42247,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 60641,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The X-direction of one of the indicator accelerometers acted as phase reference.",
+            "startOffset": 60561,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 54307,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This will be further discussed in Section 5.",
+            "startOffset": 54263,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 57504,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Again, sub structuring itself is very challenging and practical explorations are left out of the scope in this work.",
+            "startOffset": 57388,
+            "title": "Remarks"
+        },
+        {
+            "endOffset": 61660,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "For this case the identified factors which had impact on the reconstructed interior sound pressure were less influential.",
+            "startOffset": 61539,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 61845,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Clearly, the fit is significantly improved compared to the interior sound pressure case.",
+            "startOffset": 61757,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 39213,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 39103,
+                    "startOffset": 39098
+                },
+                "b0010": {
+                    "endOffset": 39103,
+                    "startOffset": 39098
+                },
+                "b0015": {
+                    "endOffset": 39103,
+                    "startOffset": 39098
+                },
+                "b0020": {
+                    "endOffset": 39103,
+                    "startOffset": 39098
+                },
+                "b0025": {
+                    "endOffset": 39103,
+                    "startOffset": 39098
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Elliot and Moorhouse et al. [1\u20135] have in recent years illuminated the blocked force as being beneficial for intrinsic source characterization.",
+            "startOffset": 39070,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 63847,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "For example, cases can exist where the internal force generation is unaffected by changes on the receiver but where instead the reaction forces at the interface are altered.",
+            "startOffset": 63674,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 60969,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Fig. 4.3 displays the measured and reconstructed interior sound pressure response for the 30th order together with the average NTF coherence.",
+            "startOffset": 60828,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 57387,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Instead, the left hand expression of Eq. (2.3) were measured directly in order to short-cut the in reality often needed sub structuring process.",
+            "startOffset": 57243,
+            "title": "Remarks"
+        },
+        {
+            "endOffset": 66548,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Experiments were made on a vacuum pump measured in nine degrees of freedom and fixed to a bracket that was modified in order to achieve different dynamical properties.",
+            "startOffset": 66381,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38698,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "One major disadvantage associated with classical TPA based upon inverse force synthesis is that the source needs to be mechanically decoupled from the receiving structure when measuring transfer functions between the interface and receiver.",
+            "startOffset": 38458,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37687,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The internal forces are often difficult to model or measure, so instead, equivalent operational interface forces are typically used.",
+            "startOffset": 37555,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 61757,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The measured subframe acceleration and the reconstructed acceleration are displayed in Fig. 4.4.",
+            "startOffset": 61661,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 50453,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "For the experiments, the pump and bracket was instead mounted in a laboratory rig (see Fig. 3.1).",
+            "startOffset": 50356,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 48729,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The source is an operational dynamic load at a pre-defined interface location.",
+            "startOffset": 48651,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 64568,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Such errors may impact the magnitude of the blocked force.",
+            "startOffset": 64510,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51428,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It was assumed that the distance between the origin of the internal pump forces and the connection points would provide a lever effect so that the influence of moments acting on the receiver would be small.",
+            "startOffset": 51222,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 60560,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The spectra were obtained by tracking the 10th, 30th and 90th orders with order bandwidth of 1, 3 and 9 respectively.",
+            "startOffset": 60443,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 60072,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "During the FRF measurements, the vehicle was lifted (in order to access the impact points) at the wheels in order to get the correct loading of the wheel suspension.",
+            "startOffset": 59907,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 48991,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 48990,
+                    "startOffset": 48984
+                },
+                "b0050": {
+                    "endOffset": 48990,
+                    "startOffset": 48984
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Complex stiffness method [9,10].",
+            "startOffset": 48959,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 57618,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "This section deals with the findings from a blocked force TPA on a complete passenger car.",
+            "startOffset": 57528,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 49025,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 49024,
+                    "startOffset": 49017
+                },
+                "b0060": {
+                    "endOffset": 49024,
+                    "startOffset": 49017
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Inverse Inertance method [11,12].",
+            "startOffset": 48992,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 63211,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "The vacuum pump experiments show that as long as high quality in the measurement data (e.g. signal-to-noise ratio, coherence) is obtained, and no modification to the source activity is made, the response in a different source\u2013receiver assembly can be reconstructed.",
+            "startOffset": 62946,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 49772,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Using the component\u2019s source characteristic, i.e. blocked force, together with a finite element model of the complete vehicle, a prediction of the vehicle responses could be done early in the vehicle development phase, before physical prototypes of the vehicle exist.",
+            "startOffset": 49505,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 52521,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "To verify that the four assemblies were dynamically significantly different, the summed FRF for each assembly was plotted (see Fig. 3.3) for providing a general and global comparison.",
+            "startOffset": 52338,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 53452,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The differences are very small throughout the entire frequency range (compare the (iii) and (ii) in Fig. 3.4).",
+            "startOffset": 53342,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 66050,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Finally, for component or system target setting of tolerable interface force levels for a future assembly, the blocked forces are essentially the only ones that are reliable due to their independent characterization.",
+            "startOffset": 65834,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 55386,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Again, the sum of partial contributions agrees almost fully with the measured response for the bushed/fixed assembly (compare (iii) and (ii) in Fig. 3.6).",
+            "startOffset": 55232,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 53843,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "For frequencies between approximately 430 and 600 Hz, the fit is again typically within 3 dB.",
+            "startOffset": 53750,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 59408,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Operational measurements where acceleration and sound pressure are recorded, at the same locations as during the FRF measurements.",
+            "startOffset": 59278,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 54087,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In other frequency ranges such as 120\u2013140 Hz and 180\u2013200 Hz, there are deviations between the two reconstructions of about 10 dB.",
+            "startOffset": 53958,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 38065,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Indirect determination of loads in multiple degrees of freedom are often performed by inverse methods which are widely used in transfer path analysis (TPA), a diagnosis tool which enables separation of partial path contribution from the total sum.",
+            "startOffset": 37818,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52738,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The question addressed is how well an operational response due to a source in one assembly can be reconstructed from blocked forces estimated from the same source but mounted to a different receiver.",
+            "startOffset": 52539,
+            "title": "In-situ results"
+        },
+        {
+            "endOffset": 54673,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The blocked forces estimated from the two bolted assemblies are plotted for each interface DoF in Fig. 3.5.",
+            "startOffset": 54566,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 64738,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Attention should be made to truncation and regularization techniques for improving the potentially ill-conditioned nature of the mobility matrix which is to be inverted.",
+            "startOffset": 64569,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 63357,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It is not fully clear which factors that were mainly responsible for the discrepancies between the measured and the mixed reconstructed response.",
+            "startOffset": 63212,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42743,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "By what accuracy can the structure borne sound from an electric motor transmitted into the cabin of a car be estimated by contribution analysis based on blocked forces obtained with the in-situ method?",
+            "startOffset": 42542,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39070,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For such a prognosis, an independent source characterization is required.",
+            "startOffset": 38997,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53957,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "From Fig. 3.3 it is apparent that the two assemblies behave rather similarly dynamically in that frequency range.",
+            "startOffset": 53844,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 39537,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This approach is often more practically realizable compared to direct measurements of the blocked force which requires blocking of all interface degrees of freedom (DoF).",
+            "startOffset": 39367,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48906,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Therefore a number of different methods are available for quantifying the excitation.",
+            "startOffset": 48821,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 53750,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 3.4 also includes the response reconstructed by forces obtained from FRF and operational measurements of the bolted/free assembly (blue dotted curve).",
+            "startOffset": 53595,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 55231,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The vibration response is now reduced by the insertion loss due to the bushings (note the different y-axis scale between Figs. 3.4 and 3.6).",
+            "startOffset": 55091,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 59713,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Thus, the accelerometers do not need to be moved between operational and FRF measurements.",
+            "startOffset": 59623,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 59906,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The accelerometer indicator positions were spread out over the primary substructure of the receiver \u2013 the subframe, in order to achieve as clean data as possible for estimating blocked forces.",
+            "startOffset": 59714,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 40198,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The validation of the independent source properties were in the two studies above mentioned performed through the following steps: first, the blocked forces for one source\u2013receiver assembly is derived.",
+            "startOffset": 39997,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53060,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "A relative threshold of 1% was used for the truncation of each of the four mobility matrices, constraining the condition number to not exceed 100, in order to omit the least significant singular values for removing measurement noise or redundant information.",
+            "startOffset": 52802,
+            "title": "In-situ results"
+        },
+        {
+            "endOffset": 56274,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "If the reconstructed velocity from those blocked forces is added to the curves in Fig. 3.4, several interesting observations can be made.",
+            "startOffset": 56137,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 55958,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The pump was also measured in quasi-free conditions (hanging in elastic bands) as an alternative experimental method to derive the blocked forces.",
+            "startOffset": 55812,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 43738,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The source A is connected to a receiver B, either rigidly or through vibration isolators, therefore forming the coupled assembly C.",
+            "startOffset": 43607,
+            "title": "Theory"
+        },
+        {
+            "endOffset": 53341,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "First, the measured operational target response on the bolted/fixed assembly was compared to the reconstructed response (the summed products of each blocked force and the respective source-target transfer function as in Eq. (2.6)) from the same assembly.",
+            "startOffset": 53087,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 66380,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "This paper has investigated the in-situ blocked force method further in the context of automotive vibro-acoustic sources.",
+            "startOffset": 66259,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38457,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Comparing the reconstructed response resulting from the partial contributions of all accounted transfer paths with a measured response is a common method for judging the quality of a classical TPA-model.",
+            "startOffset": 38254,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42246,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this work, we wish to highlight practical aspects related to in-situ measurements of blocked forces for automotive engineering applications.",
+            "startOffset": 42103,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 62310,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "From the two case studies on the vacuum pump and ERAD, the in-situ blocked force method proved to be an attractive method for determining vibro-acoustic source activity.",
+            "startOffset": 62141,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 67095,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Further, the approach was extended to a transfer path analysis case where the interior compartment sound pressure was reconstructed from transfer functions and blocked forces of an electric motor drive estimated in-situ.",
+            "startOffset": 66875,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 51221,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The frequency resolution was set to 1.6 Hz and the number of averages was seven.",
+            "startOffset": 51141,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 55090,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Here, the bushings were chosen to be part of the receiver in order to not modify the source between the bolted and bushed cases.",
+            "startOffset": 54962,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 61955,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "As always when it comes to measurements, high quality signals are essential in order to achieve good results.",
+            "startOffset": 61846,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 38253,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Each partial contribution can further be broken down into source strength (force) and system sensitivity (transfer functions), providing useful underlying information about a noise issue.",
+            "startOffset": 38066,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40923,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Besides the advantages of reducing the time effort and avoiding potential errors thanks to the possibility of working in the source/receiver coupled state, the outcome of a TPA can be further utilized for making reliable prognoses.",
+            "startOffset": 40692,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58039,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "In comparison to the vacuum pump case, this is an example of a double isolated suspension system (see Fig. 4.1) and the response target is interior sound pressure at outer ear positions in front and rear seats rather than bracket vibrations.",
+            "startOffset": 57798,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 48935,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The most common methods are:",
+            "startOffset": 48907,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 50355,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "In its real environment, the bracket is integrated to the car body.",
+            "startOffset": 50288,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 40603,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This is an elegant way of verifying that the blocked force estimates are unaltered instead of comparing them directly especially in the case of multiple interface DoF.",
+            "startOffset": 40436,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58931,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The strategy for obtaining the blocked forces in the three translational directions on the source side of the ERAD bushings and acquiring the necessary data for performing the blocked force TPA can be summarized in the two following measurement steps:",
+            "startOffset": 58680,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 61538,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Therefore, for the follow-up analysis, one of the subframe accelerometers was acting as target response.",
+            "startOffset": 61434,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 66874,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Moments and angular movements were disregarded but seemed to have small (bolted case) or minimal (bushed case) impact on the reconstructed response.",
+            "startOffset": 66726,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 50884,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "There was no particular strategy for deciding upon the accelerometer positions aside from having them remote from the interface points and also spread out over the receiver.",
+            "startOffset": 50711,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 61433,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "It is important to point out which factors that can influence the agreement between the measured and reconstructed acoustic response; the coherence of the NTF (which was not always satisfying), the influence of two persons in the front seats during the operational measurements but not during the FRF tests, the temperature difference between the two on-road operational measurements and the FRF tests.",
+            "startOffset": 61031,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 54422,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The most important frequencies regarding perception are however those where the peaks in the spectrum are located.",
+            "startOffset": 54308,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 60317,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Again, the moments and angular movements were not measured due to practical reasons.",
+            "startOffset": 60233,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 43383,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Secondly, a blocked force TPA case-study concerning electromagnetically induced structure-borne tonal vibration and noise from a double-isolated electric rear axle drive (ERAD) installed in a passenger car is described.",
+            "startOffset": 43164,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49363,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The fundamental principle is to be able to predict the operational load with analytical models or from a test rig and to be able to combine the operational load with transfer functions to predict the future vehicle response.",
+            "startOffset": 49139,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 54566,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The difference is typically within 3 dB for most of the peaks corresponding to the pump\u2019s 10 most prominent orders (see bottom plot, Fig. 3.4).",
+            "startOffset": 54423,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 67249,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "For obtaining best possible reconstructed response it is necessary to obtain as good quality signal data as possible (coherence, signal to noise ratios).",
+            "startOffset": 67096,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 60814,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Although the entire sweep up to 1500 rpm was approximately 30 s long, the 90th order is present only up to about 340 rpm corresponding to an acquisition time less than 6 s.",
+            "startOffset": 60642,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 62130,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "For blocked force TPA, a general recommendation is to put effort in achieving a high coherence in the FRF measurements and good signal to noise ratio in the operational data.",
+            "startOffset": 61956,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 41830,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 41716,
+                    "startOffset": 41713
+                }
+            },
+            "secId": "s0005",
+            "sentence": "One exception is [6], where a blocked force tensor for a rigidly mounted oil pump connected to a truck engine proved to be successful.",
+            "startOffset": 41696,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 64445,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Blocked force characterization from in-situ measurements is also to be preferred since it is more likely that the loading of the source is more accurate compared to when the source is free-free or mounted to a test bed.",
+            "startOffset": 64226,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 55778,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This is not very surprising since soft rubber bushings between the source and receiver make the FRF measurements more challenging.",
+            "startOffset": 55648,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 63467,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "However, the non-ideal repeatability between the operations of the pump is likely to have had some influence.",
+            "startOffset": 63358,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41468,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 41391,
+                    "startOffset": 41388
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The alternatives to in-situ conditions (for automotive applications meaning a prototype or production vehicle) as in the case of TPA, are quasi-free boundary conditions (the free velocity approach is standardized in ISO 9611:1996) [3] or in a test bed or other fixture with no particular stiffness requirements.",
+            "startOffset": 41157,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50287,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "For validation of the blocked forces from in-situ measurements, a pump for providing brake vacuum mounted to a bracket was used.",
+            "startOffset": 50159,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 54821,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The plots indicate that the global trends for the estimated forces between the two conditions are similar but local differences can be significant.",
+            "startOffset": 54674,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 65833,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 65729,
+                    "startOffset": 65723
+                },
+                "b0090": {
+                    "endOffset": 65729,
+                    "startOffset": 65723
+                }
+            },
+            "secId": "s0070",
+            "sentence": "In some cases, such as for ships and wind turbines [18,2], it might not even be an option to separate the source from the receiver due to practical implications.",
+            "startOffset": 65672,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 65671,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 65493,
+                    "startOffset": 65489
+                }
+            },
+            "secId": "s0070",
+            "sentence": "In a recent study on a washing machine on a wood floor [17], it was concluded that the structure-borne sound prediction from the coupled state led to more accurate levels compared to the prediction from independently measured components.",
+            "startOffset": 65434,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39996,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 39848,
+                    "startOffset": 39845
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In [2], the in-situ method for acquiring blocked forces was experimentally carried out on wind turbine prototype assemblies with different receiver poles.",
+            "startOffset": 39842,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 66725,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The results showed that the forces derived from one source\u2013receiver assembly could be used to reconstruct the response when the same source was mounted to a different receiver.",
+            "startOffset": 66549,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 43163,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The operational excitation included both lateral as well as in plane forces acting on the receiver.",
+            "startOffset": 43064,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50710,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The bracket was equipped with seven triaxial accelerometers where six of them acted as indicators for the indirect determination of the blocked forces and one as target response (the Z-direction of the target accelerometer is presented in the result plots).",
+            "startOffset": 50453,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 37358,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In automotive development, tools and methods for structure borne noise diagnosis and prognosis are essential.",
+            "startOffset": 37249,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43453,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Limitations and applicability related to the two cases are discussed.",
+            "startOffset": 43384,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58515,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "As can be seen in Fig. 4.2, the three orders have poor signal-to-noise (SNR) ratio in several frequency bands.",
+            "startOffset": 58405,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 66247,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "There are though major challenges associated with both a correct determination of blocked forces as well as using them in a finite element based sub-structure model that needs further exploration.",
+            "startOffset": 66051,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38801,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In many cases, this operation is time-consuming and can induce errors related to the decoupling stage.",
+            "startOffset": 38699,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43063,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "First the findings from measurements on a vacuum pump for brake pressure attached in three connection points to a rig-mounted bracket, which boundary conditions were altered, are presented.",
+            "startOffset": 42874,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 58404,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "Fig. 4.2 displays the interior sound pressure (co-driver\u2019s outer ear position) for this specific driving condition.",
+            "startOffset": 58289,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 39841,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It was also shown that the interface forces varied while the blocked forces remained the same for the two different assemblies.",
+            "startOffset": 39714,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37554,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The structure-borne receiver response (e.g. sound pressure, vibration velocity) due to a vibrating source is caused by its internal forces and the transfer functions relating source and receiver.",
+            "startOffset": 37359,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48820,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "In general it is difficult to perform direct measurements of the operational dynamic load.",
+            "startOffset": 48730,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 41156,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Another advantage is that the blocked forces of a source may be determined for receivers with various boundary conditions.",
+            "startOffset": 41034,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51140,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "For the frequency response function (FRF) measurements, impact hammer excitation was executed at the three connection points in the three translational directions X, Y and Z. Transfer mobilities to all accelerometers were calculated with the H1 estimator.",
+            "startOffset": 50885,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 58663,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "Having strongly coherent response with respect to the exciting force is crucial for the quality of the reconstructed response, which will be shown.",
+            "startOffset": 58516,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 42873,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The results provide information on the expected accuracy of the in-situ blocked force method when used in automotive applications.",
+            "startOffset": 42743,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 54961,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The same comparison was done for the two bushed cases and the result is depicted in Fig. 3.6.",
+            "startOffset": 54868,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 64509,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Numerical errors are often associated with the matrix inversion.",
+            "startOffset": 64445,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51752,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The X-direction channel of the accelerometer circled in Fig. 3.1 acted as phase reference for calculation of operational spectra.",
+            "startOffset": 51623,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 56933,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Hence it seems more likely to generally achieve better results when conducting blocked force measurements in-situ compared to utilizing the quasi-free approach.",
+            "startOffset": 56773,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 58288,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "For higher speeds, these harmonic orders are masked by the tire/road interaction noise.",
+            "startOffset": 58201,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 56772,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This indicates a change in source activity between the quasi-free and the bolted conditions that has not been accounted for when measuring the sets of transfer mobilities on the receiver side.",
+            "startOffset": 56580,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 63673,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "It is important to understand if the underlying mechanisms of the internal forces are affected by changes in the receiver, e.g. by loading.",
+            "startOffset": 63534,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40691,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "There are apparently major potential benefits associated with the blocked force methods.",
+            "startOffset": 40603,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 67578,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "The findings justify the use of the in-situ blocked force method as an appropriate and time-saving approach both for source characterization and troubleshooting for NVH engineers.",
+            "startOffset": 67399,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 62946,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Hence, performing a blocked force TPA will in addition to the root cause analysis exemplified in the previous section also facilitate prediction possibilities.",
+            "startOffset": 62787,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57797,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "The purpose of the tests was to investigate whether the interior sound pressure due to structure borne noise from an electric rear axle drive could be reconstructed successfully.",
+            "startOffset": 57619,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 59622,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Generally for obtaining blocked forces from in-situ measurements it is faster to measure all the transfer functions direct, meaning force input at the blocked force points in contrast to the reciprocal alternative.",
+            "startOffset": 59408,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 49138,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 49137,
+                    "startOffset": 49133
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Transfer path analysis in combination with hybrid analysis is also becoming a tool for making NVH prognosis [13].",
+            "startOffset": 49025,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 55647,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The velocity reconstructed by forces estimated from the bushed/free assembly and FRFs to target measured at the bushed/fixed assembly deviates from the measured response a little more (blue bars bottom plot, Fig. 3.6) compared to the previous case in Fig. 3.4.",
+            "startOffset": 55387,
+            "title": "Pump mounted to bracket by rubber bushings"
+        },
+        {
+            "endOffset": 38996,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Also, and very important, is that the interface forces derived from classical TPA are not valid for predicting the response when the same source is assembled to a dynamically different receiver.",
+            "startOffset": 38802,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 60442,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The operational tests were run on a road with a moderate upward slope in order to increase the loading of the electric drive.",
+            "startOffset": 60317,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 65150,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 65070,
+                    "startOffset": 65066
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Also, as pointed out in [16], the time domain approach also accounts for non-linear receiver sub-structures.",
+            "startOffset": 65042,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 54262,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Again from Fig. 3.3, it is evident that the bolted/free assembly has an anti-resonant behavior in that range, which is likely to cause errors in the matrix inversion process.",
+            "startOffset": 54088,
+            "title": "Pump bolted to bracket"
+        },
+        {
+            "endOffset": 56467,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "From Fig. 3.7a, it is clear that the response reconstructed from free velocity measurements of blocked forces deviates substantially from the response reconstructed from the bolted assemblies.",
+            "startOffset": 56275,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 64916,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 64857,
+                    "startOffset": 64853
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Accurate positioning and sufficient number of indicator sensors will however reduce these potential uncertainties [15], but are usually difficult to point out prior to the test.",
+            "startOffset": 64739,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 52065,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "For two of the assemblies, soft rubber bushings were used at the interface between the pump and the bracket while the remaining two configurations employed bolts as connectors.",
+            "startOffset": 51889,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 56579,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "On the other hand, it fits rather well to the response reconstructed from the two bushed cases (see Fig. 3.7b).",
+            "startOffset": 56468,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 40435,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Finally, the reconstructed velocity on the second receiver is compared to the directly measured response on the second receiver.",
+            "startOffset": 40307,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 64225,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Hence, a general recommendation when measuring the blocked forces is to strive for a test environment which is similar to the real in-situ environment.",
+            "startOffset": 64074,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 65041,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Extending the method from the frequency domain to the time domain would presumably reduce the influence of numerical errors.",
+            "startOffset": 64917,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39713,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 39544,
+                    "startOffset": 39541
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In [1], the blocked force was validated in-situ for two source\u2013receiver assemblies consisting of beams with two rigid connections, and with force excitation in one single DoF.",
+            "startOffset": 39538,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52801,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Blocked forces were estimated for each of the four assemblies.",
+            "startOffset": 52739,
+            "title": "In-situ results"
+        },
+        {
+            "endOffset": 60153,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Transfer mobilities to all accelerometers were calculated with the H1 estimator.",
+            "startOffset": 60073,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 62459,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 62397,
+                    "startOffset": 62393
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Performing a conventional TPA on an electric powertrain (see e.g. Anderson et al. [14]) implicates high complexity with respect to the installation.",
+            "startOffset": 62311,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42540,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "By what accuracy can the response for one source/receiver assembly be reconstructed from blocked forces obtained from measurements of the same source but being attached to other receivers, yielding dynamically different assemblies?",
+            "startOffset": 42309,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 64073,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Such a case could be when a very flexible source is rigidly connected to a rig that is exposed to stress in such a manner that the transfer between the locations of the internal force and interface reaction force are altered.",
+            "startOffset": 63848,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41695,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "There are only a limited number of case studies on more complex assemblies available to date.",
+            "startOffset": 41602,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42103,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 41855,
+                    "startOffset": 41852
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Also, Elliott et al. [5] showed that TPA based upon blocked forces obtained from in-situ measurements provided at least as good results as the classical inverse force synthesis method for structure-borne road noise, with the added value of reducing the time effort by 50%.",
+            "startOffset": 41831,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51622,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The vacuum pump was driven by an external power supply in steady state mode during 30 s for each run.",
+            "startOffset": 51521,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 63533,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Special caution should be made regarding modified source activity.",
+            "startOffset": 63467,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 58200,
+            "parents": [],
+            "secId": "s0055",
+            "sentence": "Three rotational-speed-dependent components (orders) originating from the electro-magnetic forces are prominent at take-off from stand still up to about 20 km/h.",
+            "startOffset": 58039,
+            "title": "TPA in complete vehicle"
+        },
+        {
+            "endOffset": 61031,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Appendix A also provides figures for the 10th and 90th order.",
+            "startOffset": 60970,
+            "title": "TPA results"
+        },
+        {
+            "endOffset": 51521,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Therefore, rotational DoF were not measured in order to simplify the experimental procedure.",
+            "startOffset": 51429,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 57069,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The blocked forces estimated from the quasi-free measurements are compared to estimates from the bushed cases in Appendix A for Point 1.",
+            "startOffset": 56933,
+            "title": "Pump in quasi-free conditions"
+        },
+        {
+            "endOffset": 37817,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In most situations, direct load determination by force transducers mounted at the connection interfaces is practically difficult.",
+            "startOffset": 37688,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39366,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The blocked force is analogous to the open-loop voltage in electrical networks and can be estimated in-situ from e.g. operational velocity and mobility.",
+            "startOffset": 39214,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 60232,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The frequency resolution was set to 1 Hz and the number of averages was three.",
+            "startOffset": 60154,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 41602,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Finally, the blocked forces can also be obtained directly by force transducers if the receiver structure can be made perfectly rigid.",
+            "startOffset": 41469,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43606,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In many structure-borne noise applications related to automotive NVH, the problem to be solved can be illustrated by the sketch shown in Fig. 2.1.",
+            "startOffset": 43460,
+            "title": "Theory"
+        },
+        {
+            "endOffset": 62601,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Drive shafts, engine mounts, electric harness and cooling hoses need to be separated from the source which makes the process more protracted.",
+            "startOffset": 62460,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 52153,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The boundary condition between the bracket and the frame work was either fixed or free.",
+            "startOffset": 52066,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 67398,
+            "parents": [],
+            "secId": "s0075",
+            "sentence": "Caution should also be made not to modify the source activity severely by the installation if the blocked forces are obtained from rig measurements.",
+            "startOffset": 67250,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 49504,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Theory"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Many of the components used in car development projects today are off-the-shelf parts, e.g. they already exist in current vehicle production.",
+            "startOffset": 49363,
+            "title": "Transfer path analysis"
+        },
+        {
+            "endOffset": 52337,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The four assembly cases are from now referenced as \u201cbushed-fixed\u201d, \u201cbushed-free\u201d, \u201cbolted-fixed\u201d and \u201cbolted-free\u201d.",
+            "startOffset": 52222,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 41033,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For instance, the same blocked forces can be re-used in calculations where the receiver is modified/improved.",
+            "startOffset": 40924,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 62786,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "An electric powertrain is an example of a source being subject to both airborne and structure borne noise which will be carried over from one hybrid car model to new hybrid car models.",
+            "startOffset": 62602,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57242,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The predictions related to these experiments were limited in the sense that the mobility matrices of the source, the mounts and receiver alone were never measured.",
+            "startOffset": 57079,
+            "title": "Remarks"
+        },
+        {
+            "endOffset": 59199,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "FRF measurements with force excitation by impact hammer at the four locations marked with red crosses in Fig. 4.1, acceleration measured at the eight locations marked by green dots and target interior compartment sound pressure at the four locations marked by stars.",
+            "startOffset": 58933,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 65433,
+            "parents": [],
+            "secId": "s0070",
+            "sentence": "Apart from the fact that the process of performing a transfer path/contribution analysis using the in-situ blocked force method is faster compared to the conventional method, it is not prone to the potential errors associated with mounting/disconnecting the source from the receiver.",
+            "startOffset": 65150,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40306,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Then, those forces are applied to a dynamically different receiver and the velocity response is calculated.",
+            "startOffset": 40199,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52222,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 3.2 illustrates the difference between the fixed and free case.",
+            "startOffset": 52154,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 59276,
+            "parents": [
+                {
+                    "id": "s0055",
+                    "title": "TPA in complete vehicle"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The latter quantity is often referred to as a noise transfer function (NTF).",
+            "startOffset": 59200,
+            "title": "Test procedure"
+        },
+        {
+            "endOffset": 51888,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The procedure for the operational measurements and FRF tests was repeated in the same fashion for four types of assembly configurations.",
+            "startOffset": 51752,
+            "title": "Experiment: Vacuum pump"
+        },
+        {
+            "endOffset": 56136,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Experiment: Vacuum pump"
+                },
+                {
+                    "id": "s0030",
+                    "title": "In-situ results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In this configuration, the blocked forces were obtained from only three triaxial accelerometers, positioned at the attachment points both during FRF tests and operational tests.",
+            "startOffset": 55959,
+            "title": "Pump in quasi-free conditions"
+        }
+    ],
+    "docId": "S0003682X1500242X",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "david.lennstrom@volvocars.com",
+                "first": "David",
+                "initial": "D.",
+                "last": "Lennstr\u00f6m"
+            },
+            {
+                "email": null,
+                "first": "Magnus",
+                "initial": "M.",
+                "last": "Olsson"
+            },
+            {
+                "email": null,
+                "first": "Fr\u00e9d\u00e9ric",
+                "initial": "F.",
+                "last": "Wullens"
+            },
+            {
+                "email": null,
+                "first": "Arne",
+                "initial": "A.",
+                "last": "Nyk\u00e4nen"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2015.08.019",
+        "firstpage": "108",
+        "issn": "0003682X",
+        "keywords": [
+            "Blocked force",
+            "Source characterization",
+            "Transfer path analysis"
+        ],
+        "lastpage": "119",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Validation of the blocked force method for various boundary conditions for automotive source characterization"
+    }
+}

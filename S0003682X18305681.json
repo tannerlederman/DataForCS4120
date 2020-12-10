@@ -1,0 +1,2371 @@
+{
+    "abstract": "We describe a series of measurements to assess the practicality of a length limited parametric array in air. This study shows that the length limited effect is a measurable phenomenon that can be produced using pairs of commercial off the shelf parametric array speakers. We generated the effect using parametric arrays mounted so that two directional audio beams were simultaneously co-propagating through the open air. Parametric arrays work such that after the ultrasound frequencies have attenuated, the remaining audio range acoustic frequency is linear. We used this principle to propagate 2 kHz signals from two parametric array speakers, adjusting the relative phase of the resulting audio-range signals to produce varying amounts of constructive or destructive interference in the resulting linear sound beams. We demonstrated that increasing the overlap of the audible sound beams increased the effectiveness of the length limited phenomenon. We also found that changing the magnitude of the sound projected through one of the speakers did not have significant impact on the length limited effect.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Westervelt"
+                }
+            ],
+            "doi": "10.1121/1.1918525",
+            "firstpage": "535",
+            "issn": "00014966",
+            "lastpage": "537",
+            "pub_year": 1963,
+            "title": "Parametric Acoustic Array",
+            "volume": "35"
+        },
+        "b0010": null,
+        "b0015": null,
+        "b0020": {
+            "authors": [],
+            "doi": "10.1121/1.3437359",
+            "firstpage": "428",
+            "issn": "00014966",
+            "lastpage": "429",
+            "pub_year": 1974,
+            "title": "Experiments on Parametric Arrays in Air",
+            "volume": "55"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Mary Beth",
+                    "initial": "M.B.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "David T.",
+                    "initial": "D.T.",
+                    "last": "Blackstock"
+                }
+            ],
+            "doi": "10.1121/1.380484",
+            "firstpage": "562",
+            "issn": "00014966",
+            "lastpage": "568",
+            "pub_year": 1975,
+            "title": "Parametric array in air",
+            "volume": "57"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Masahide",
+                    "initial": "M.",
+                    "last": "Yoneyama"
+                },
+                {
+                    "first": "Jun ichiroh",
+                    "initial": "J.i.",
+                    "last": "Fujimoto"
+                },
+                {
+                    "first": "Yu",
+                    "initial": "Y.",
+                    "last": "Kawamo"
+                },
+                {
+                    "first": "Shoichi",
+                    "initial": "S.",
+                    "last": "Sasabe"
+                }
+            ],
+            "doi": "10.1121/1.389414",
+            "firstpage": "1532",
+            "issn": "00014966",
+            "lastpage": "1536",
+            "pub_year": 1983,
+            "title": "The audio spotlight: An application of nonlinear interaction of sound waves to a new type of loudspeaker design",
+            "volume": "73"
+        },
+        "b0035": null,
+        "b0040": null,
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Woon Seng",
+                    "initial": "W.S.",
+                    "last": "Gan"
+                },
+                {
+                    "first": "Jun",
+                    "initial": "J.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Tomoo",
+                    "initial": "T.",
+                    "last": "Kamakura"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2012.04.001",
+            "firstpage": "1211",
+            "issn": "0003682X",
+            "lastpage": "1219",
+            "pub_year": 2012,
+            "title": "A review of parametric acoustic array in air",
+            "volume": "73"
+        },
+        "b0050": null,
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Leea",
+                    "initial": "L.",
+                    "last": "Yang-Sub"
+                },
+                {
+                    "first": "Mark F.",
+                    "initial": "M.F.",
+                    "last": "Hamilton"
+                }
+            ],
+            "doi": "10.1121/1.412135",
+            "firstpage": "906",
+            "issn": "00014966",
+            "lastpage": "917",
+            "pub_year": 1995,
+            "title": "Time-domain modeling of pulsed finite-amplitude sound beams",
+            "volume": "97"
+        },
+        "b0060": null,
+        "b0065": null,
+        "b0070": null,
+        "b0075": null,
+        "b0080": null,
+        "b0085": null,
+        "b0090": null,
+        "b0095": null,
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Wen",
+                    "initial": "W.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Mark K.",
+                    "initial": "M.K.",
+                    "last": "Hinders"
+                }
+            ],
+            "doi": "10.1016/j.robot.2005.09.003",
+            "firstpage": "89",
+            "issn": "09218890",
+            "lastpage": "98",
+            "pub_year": 2005,
+            "title": "Mobile robot sonar interpretation algorithm for distinguishing trees from poles",
+            "volume": "53"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Wen",
+                    "initial": "W.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Hinders"
+                }
+            ],
+            "doi": "10.1177/0278364906059328",
+            "firstpage": "135",
+            "issn": "02783649",
+            "lastpage": "145",
+            "pub_year": 2006,
+            "title": "Mobile robot sonar backscatter algorithm for automatically distinguishing walls, fences, and hedges",
+            "volume": "25"
+        },
+        "b0110": null,
+        "b0115": null,
+        "b0120": null,
+        "b0125": null,
+        "b0130": null,
+        "b0135": {
+            "authors": [
+                {
+                    "first": "Anjani",
+                    "initial": "A.",
+                    "last": "Achanta"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "McKenna"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Heyman"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Rudd"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Hinders"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Costiancs"
+                }
+            ],
+            "doi": "10.1109/AIPR.2005.37",
+            "firstpage": "21",
+            "issn": "15505219",
+            "lastpage": "27",
+            "pub_year": 2005,
+            "title": "Non-linear acoustic concealed weapons detection",
+            "volume": "2005"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Anjani",
+                    "initial": "A.",
+                    "last": "Achanta"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "McKenna"
+                },
+                {
+                    "first": "Samuel",
+                    "initial": "S.",
+                    "last": "Guy"
+                },
+                {
+                    "first": "Eugene",
+                    "initial": "E.",
+                    "last": "Malyarenko"
+                },
+                {
+                    "first": "Ted",
+                    "initial": "T.",
+                    "last": "Lynch"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Heyman"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Rudd"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Hinders"
+                }
+            ],
+            "firstpage": "1195",
+            "issn": "00255327",
+            "lastpage": "1202",
+            "pub_year": 2005,
+            "title": "Nonlinear acoustic concealed weapons detection",
+            "volume": "63"
+        },
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Joseph S.",
+                    "initial": "J.S.",
+                    "last": "Heyman"
+                },
+                {
+                    "first": "Anjani",
+                    "initial": "A.",
+                    "last": "Achanta"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Hinders"
+                },
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Rudd"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Costianes"
+                }
+            ],
+            "doi": "10.1117/12.604368",
+            "firstpage": "162",
+            "issn": "0277786X",
+            "lastpage": "169",
+            "pub_year": 2005,
+            "title": "Non-linear acoustic Concealed Weapons Detection (CWD)",
+            "volume": "5807"
+        },
+        "b0150": null,
+        "b0155": null,
+        "b0160": null,
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Kevin",
+                    "initial": "K.",
+                    "last": "Rudd"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Hinders"
+                }
+            ],
+            "doi": "10.1142/S0218396X0800366X",
+            "firstpage": "427",
+            "issn": "0218396X",
+            "lastpage": "445",
+            "pub_year": 2008,
+            "title": "Simulation of incident nonlinear sound beam and 3D scattering from complex targets",
+            "volume": "16"
+        },
+        "b0170": null,
+        "b0175": null,
+        "b0180": null,
+        "b0185": null,
+        "b0190": {
+            "authors": [
+                {
+                    "first": "Ghazi",
+                    "initial": "G.",
+                    "last": "Mahjoub"
+                },
+                {
+                    "first": "Mark K.",
+                    "initial": "M.K.",
+                    "last": "Hinders"
+                },
+                {
+                    "first": "John P.",
+                    "initial": "J.P.",
+                    "last": "Swaddle"
+                }
+            ],
+            "doi": "10.1002/wsb.529",
+            "firstpage": "326",
+            "issn": "00917648",
+            "lastpage": "333",
+            "pub_year": 2015,
+            "title": "Using a \"sonic net\" to deter pest bird species: Excluding European starlings from food sources by disrupting their acoustic communication",
+            "volume": "39"
+        },
+        "b0195": {
+            "authors": [
+                {
+                    "first": "John P.",
+                    "initial": "J.P.",
+                    "last": "Swaddle"
+                },
+                {
+                    "first": "Dana L.",
+                    "initial": "D.L.",
+                    "last": "Moseley"
+                },
+                {
+                    "first": "Mark K.",
+                    "initial": "M.K.",
+                    "last": "Hinders"
+                },
+                {
+                    "first": "Elizabeth P.",
+                    "initial": "E.P.",
+                    "last": "Smith"
+                }
+            ],
+            "doi": "10.1890/15-0829",
+            "firstpage": "339",
+            "issn": "19395582",
+            "lastpage": "345",
+            "pmid": "27209777",
+            "pub_year": 2016,
+            "title": "A sonic net excludes birds from an airfield: Implications for reducing bird strike and crop losses",
+            "volume": "26"
+        },
+        "b0200": null,
+        "b0205": {
+            "authors": [
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Nomura"
+                },
+                {
+                    "first": "Claes M.",
+                    "initial": "C.M.",
+                    "last": "Hedberg"
+                },
+                {
+                    "first": "Tomoo",
+                    "initial": "T.",
+                    "last": "Kamakura"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2012.02.016",
+            "firstpage": "1231",
+            "issn": "0003682X",
+            "lastpage": "1238",
+            "pub_year": 2012,
+            "title": "Numerical simulation of parametric sound generation and its application to length-limited sound beam",
+            "volume": "73"
+        },
+        "b0210": {
+            "authors": [
+                {
+                    "first": "Tomoo",
+                    "initial": "T.",
+                    "last": "Kamakura"
+                },
+                {
+                    "first": "Hideyuki",
+                    "initial": "H.",
+                    "last": "Nomura"
+                },
+                {
+                    "first": "Masahiko",
+                    "initial": "M.",
+                    "last": "Akiyama"
+                },
+                {
+                    "first": "Claes M.",
+                    "initial": "C.M.",
+                    "last": "Hedberg"
+                }
+            ],
+            "doi": "10.3813/AAA.918400",
+            "firstpage": "209",
+            "issn": "16101928",
+            "lastpage": "218",
+            "pub_year": 2011,
+            "title": "Parametric sound fields formed by phase-inversion excitation of primary waves",
+            "volume": "97"
+        },
+        "b0215": {
+            "authors": [
+                {
+                    "first": "C. M.",
+                    "initial": "C.M.",
+                    "last": "Hedberg"
+                },
+                {
+                    "first": "K. C.E.",
+                    "initial": "K.C.E.",
+                    "last": "Haller"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Kamakura"
+                }
+            ],
+            "doi": "10.1134/S1063771010050064",
+            "firstpage": "637",
+            "issn": "10637710",
+            "lastpage": "639",
+            "pub_year": 2010,
+            "title": "A self-silenced sound beam",
+            "volume": "56"
+        },
+        "b0220": {
+            "authors": [
+                {
+                    "first": "Nobuo",
+                    "initial": "N.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Motoki",
+                    "initial": "M.",
+                    "last": "Tanaka"
+                }
+            ],
+            "doi": "10.1121/1.3409483",
+            "firstpage": "3526",
+            "issn": "00014966",
+            "lastpage": "3537",
+            "pub_year": 2010,
+            "title": "Active noise control using a steerable parametric array loudspeaker",
+            "volume": "127"
+        },
+        "b0225": null,
+        "b0230": null,
+        "b0235": {
+            "authors": [
+                {
+                    "first": "Kihiro",
+                    "initial": "K.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Chuang",
+                    "initial": "C.",
+                    "last": "Shi"
+                },
+                {
+                    "first": "Yoshinobu",
+                    "initial": "Y.",
+                    "last": "Kajikawa"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2016.09.021",
+            "firstpage": "170",
+            "issn": "0003682X",
+            "lastpage": "176",
+            "pub_year": 2017,
+            "title": "Binaural active noise control using parametric array loudspeakers",
+            "volume": "116"
+        },
+        "b0240": {
+            "authors": [
+                {
+                    "first": "Raymond",
+                    "initial": "R.",
+                    "last": "Van Der Rots"
+                },
+                {
+                    "first": "Arthur",
+                    "initial": "A.",
+                    "last": "Berkhoff"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2014.09.024",
+            "firstpage": "345",
+            "issn": "0003682X",
+            "lastpage": "354",
+            "pub_year": 2015,
+            "title": "Directional loudspeaker arrays for acoustic warning systems with minimised noise pollution",
+            "volume": "89"
+        },
+        "b0245": {
+            "authors": [
+                {
+                    "first": "Chuang",
+                    "initial": "C.",
+                    "last": "Shi"
+                },
+                {
+                    "first": "Yoshinobu",
+                    "initial": "Y.",
+                    "last": "Kajikawa"
+                },
+                {
+                    "first": "Woon Seng",
+                    "initial": "W.S.",
+                    "last": "Gan"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2015.05.004",
+            "firstpage": "43",
+            "issn": "0003682X",
+            "lastpage": "50",
+            "pub_year": 2015,
+            "title": "Generating dual beams from a single steerable parametric loudspeaker",
+            "volume": "99"
+        },
+        "b0250": {
+            "authors": [
+                {
+                    "first": "Shigeaki",
+                    "initial": "S.",
+                    "last": "Aoki"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Shimizu"
+                },
+                {
+                    "first": "Kouki",
+                    "initial": "K.",
+                    "last": "Itou"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2016.08.014",
+            "firstpage": "164",
+            "issn": "0003682X",
+            "lastpage": "169",
+            "pub_year": 2017,
+            "title": "Study of vertical sound image control with parametric loudspeakers",
+            "volume": "116"
+        },
+        "b0255": {
+            "authors": [
+                {
+                    "first": "Oriol",
+                    "initial": "O.",
+                    "last": "Guasch"
+                },
+                {
+                    "first": "Patricia",
+                    "initial": "P.",
+                    "last": "S\u00e1nchez-Mart\u00edn"
+                }
+            ],
+            "doi": "10.1016/j.apm.2018.04.002",
+            "firstpage": "721",
+            "issn": "0307904X",
+            "lastpage": "738",
+            "pub_year": 2018,
+            "title": "Far-field directivity of parametric loudspeaker arrays set on curved surfaces",
+            "volume": "60"
+        },
+        "b0260": null,
+        "b0265": null
+    },
+    "body_text": [
+        {
+            "endOffset": 40474,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The reduction in magnitude of the signal is significant at 0.9\u03c0 through 1.1\u03c0 radians relative phase.",
+            "startOffset": 40374,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42809,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221220 dB and in the left plot speaker two had the gain set at \u221220 dB.",
+            "startOffset": 42672,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24707,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 24706,
+                    "startOffset": 24702
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Fig. 2 also shows an experimental apparatus for echolocation using the Sennheiser Audiobeam mounted on the front of a mobile robot rMary [25].",
+            "startOffset": 24565,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30567,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This in turn made it so that we do not know the detailed information of the modulation and driving signals.",
+            "startOffset": 30460,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 27379,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These important results demonstrated that the length limited effect was possible in a laboratory setting.",
+            "startOffset": 27274,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22533,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The plot on the left shows a simulation where the nonlinearity parameter is set to that of air.",
+            "startOffset": 22438,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32864,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 5 shows how we processed the measurements to produce quantitative results.",
+            "startOffset": 32785,
+            "title": "Results"
+        },
+        {
+            "endOffset": 34559,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We were instead interested in how changing the amplitude of one speaker would affect the length limited effect.",
+            "startOffset": 34448,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21930,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Fig. 1 illustrates the role nonlinearity plays in generating the acoustic signal for the parametric array.",
+            "startOffset": 21824,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25995,
+            "parents": [],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 25718,
+                    "startOffset": 25711
+                },
+                "b0210": {
+                    "endOffset": 25718,
+                    "startOffset": 25711
+                },
+                "b0215": {
+                    "endOffset": 25718,
+                    "startOffset": 25711
+                },
+                "b0220": {
+                    "endOffset": 25778,
+                    "startOffset": 25771
+                },
+                "b0225": {
+                    "endOffset": 25778,
+                    "startOffset": 25771
+                },
+                "b0230": {
+                    "endOffset": 25778,
+                    "startOffset": 25771
+                },
+                "b0235": {
+                    "endOffset": 25778,
+                    "startOffset": 25771
+                },
+                "b0240": {
+                    "endOffset": 25825,
+                    "startOffset": 25821
+                },
+                "b0245": {
+                    "endOffset": 25902,
+                    "startOffset": 25898
+                },
+                "b0250": {
+                    "endOffset": 25931,
+                    "startOffset": 25927
+                },
+                "b0255": {
+                    "endOffset": 25994,
+                    "startOffset": 25990
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recent work has included self-silencing, i.e. length-limiting parametric arrays [41\u201343], steerable parametric arrays for noise cancellation [44\u201347], directional warning systems for vehicles [48], multiple beams in different directions from a single parametric arrays [49], vertical sound control [50], and omni-directional sound from curved parametric arrays [51].",
+            "startOffset": 25631,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36004,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221220 dB and in the left plot speaker two had a gain of \u221220 dB.",
+            "startOffset": 35873,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27273,
+            "parents": [],
+            "refoffsets": {
+                "b0230": {
+                    "endOffset": 27272,
+                    "startOffset": 27268
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Another study showed the length limited effect using two rings of transducers installed at one end of a 6 inch PVC pipe and the amplitude of the audible sound was measured along the length of the pipe [46].",
+            "startOffset": 27067,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43162,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "This experimental study shows that the length limited effect is a measurable phenomenon that can be produced using commercial off the shelf parametric array speakers in the open air.",
+            "startOffset": 42980,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36898,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Also the length limited effect is more pronounced further way from the speakers.",
+            "startOffset": 36818,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37363,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221210 dB and in the left plot speaker two had the gain set at \u221210 dB.",
+            "startOffset": 37226,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27566,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To evaluate if the length limited effect could be practical on a larger scale we used commercially available parametric array speakers to test the length limited parametric array concept.",
+            "startOffset": 27379,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21735,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Since attenuation is proportional to frequency squared, the yet higher sum frequency and original ultrasound frequencies attenuate very quickly while the low difference frequency continues to propagate through the air with similar directionality to the original ultrasound frequencies.",
+            "startOffset": 21450,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34078,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The effect is less evident the further away the recorders were from the speakers.",
+            "startOffset": 33997,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26656,
+            "parents": [],
+            "refoffsets": {
+                "b0210": {
+                    "endOffset": 26655,
+                    "startOffset": 26651
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In addition to showing the possibility of the length limited effect, this group also showed that the effect could be measured [42].",
+            "startOffset": 26525,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28651,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We took advantage of the signal processing in the commercial amplifiers of parametric array speakers to propagate a 2 kHz signal from parametric array speakers pairs.",
+            "startOffset": 28485,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 41495,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221220 dB and in the left plot speaker two had the gain set at \u221220 dB.",
+            "startOffset": 41358,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32949,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "First the recorded signal was filtered to contain only the 2 kHz signal of interest.",
+            "startOffset": 32865,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30277,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 30224,
+                    "startOffset": 30220
+                },
+                "b0075": {
+                    "endOffset": 30260,
+                    "startOffset": 30256
+                }
+            },
+            "secId": "s0010",
+            "sentence": "For these measurements we compared the length limited effect generated from two different commercially available parametric array devices, the 24i AudioSpotlight [14] from Holosonics and the HSS300 [15] from Hypersound.",
+            "startOffset": 30058,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 29485,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We found that there was an audible reduction in volume as we changed the phase of the 2 kHz tone on one speaker, although construction adjacent to the Sunken Gardens included jackhammering so the measurements were not repeatable.",
+            "startOffset": 29256,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 36402,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 36401,
+                    "startOffset": 36397
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Holosonics advertises a beam width of approximately 2 m at 4 m from the speakers [14].",
+            "startOffset": 36316,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29135,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Here we had two HyperSound parametric array speakers mounted side-by-side on a handtruck.",
+            "startOffset": 29046,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 38962,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "One of the speakers had been used outdoors for an extended period and the internal elements of that speaker had degraded due to this use.",
+            "startOffset": 38825,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23822,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 23821,
+                    "startOffset": 23817
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Hence, using ultrasound to create audible signals does not reproduce the lower frequencies well, which has caused some to add a subwoofer to make the audio quality better [19].",
+            "startOffset": 23646,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44135,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Increasing the interaction volume between the audible sound beams by canting the speakers slightly inward increased the effectiveness of the length limited phenomenon for the AudioSpotlights because their 24-inch by 24-inch size gives a highly directional beam.",
+            "startOffset": 43874,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26207,
+            "parents": [],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 26096,
+                    "startOffset": 26092
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In 2012 Nomura et al. showed the theoretical existence of a length limited parametric array beam [41] where the beam length can be changed by simply adjusting the relative phase of the difference frequency waves.",
+            "startOffset": 25995,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22616,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this plot the beam pattern of the 5 kHz signal can be seen in the lighter blue.",
+            "startOffset": 22534,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40745,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This suggests that having more beam interaction does create a more noticeable length limited effect.",
+            "startOffset": 40645,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33709,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Each curve represents a measurement location, with the circles indicating changing relative phase of the input sinusoid in increments of by 0.1\u03c0 radians.",
+            "startOffset": 33556,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31088,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Each measurement consisted of 20 one minute segments, where the phase of one speaker was increased by 0.1\u03c0 radians each segment.",
+            "startOffset": 30960,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 38403,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The measurements from the AudioSpotlight speakers show that we can produce the length-limited effect using commercially available parametric array speakers while taking advantage of the internal signal processing to create the audible tone.",
+            "startOffset": 38163,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32113,
+            "parents": [],
+            "refoffsets": {
+                "b0260": {
+                    "endOffset": 32080,
+                    "startOffset": 32076
+                },
+                "b0265": {
+                    "endOffset": 32031,
+                    "startOffset": 32027
+                }
+            },
+            "secId": "s0010",
+            "sentence": "For these measurements we used the program Audacity [53] to play the 2 kHz tones generated in Matlab [52] on both speakers simultaneously.",
+            "startOffset": 31975,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 32626,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This is visible in the plot by the stair-step reduction in amplitude of the signal.",
+            "startOffset": 32543,
+            "title": "Results"
+        },
+        {
+            "endOffset": 40169,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "These speakers were nominally identical to each other and fresh out of the box, so we were less concerned about volume variations in the individual speakers.",
+            "startOffset": 40012,
+            "title": "Results"
+        },
+        {
+            "endOffset": 44450,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "When the AudioSpotlights were canted inward at 10 degrees, however, the two beams did not interact sufficiently to produce a length-limited effect.",
+            "startOffset": 44303,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31641,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Each measurement was taken using the same audio recorders, in the same lecture hall, and at similar times in the day.",
+            "startOffset": 31524,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 25532,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Parametric arrays allow a compact device to generate narrow beams of audio-range sound, but there are usually confounding issues caused by acoustic scattering from objects and structures distal to the target region.",
+            "startOffset": 25317,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35020,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "One of the AudioSpotlight speakers had significantly more use and may have been somewhat degraded due to being out in the elements for an extended period.",
+            "startOffset": 34866,
+            "title": "Results"
+        },
+        {
+            "endOffset": 43595,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "We generated the length-limiting effect using pairs of parametric arrays mounted so that the directional audio beams were simultaneously co-propagating through the air, with their relative phase adjusted for varying amount of interference between the two sound beams.",
+            "startOffset": 43328,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29963,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We mounted two parametric array speakers side-by-side at the front of the room about 1/2 meter away from the wall, and recorded the acoustic beam with audio recorders every 2 m distant, starting about 6 m from the speakers, both on axis and on either side laterally about 2 m from center.",
+            "startOffset": 29675,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 21823,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Parametric arrays create a narrow beam of audible sound due to the non-linearity of air.",
+            "startOffset": 21735,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40011,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Again the speakers were positioned at the front of the lecture hall and the recording devices were positioned throughout the lecture hall.",
+            "startOffset": 39873,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37942,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221220 dB and in the left plot speaker two had the gain set at \u221220 dB.",
+            "startOffset": 37805,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31332,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The recordings were taken using Zoom H2 audio recorders1 mounted on tripods.",
+            "startOffset": 31166,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 41949,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "By increasing the beam interaction we again found that there was a more pronounced length limited effect.",
+            "startOffset": 41844,
+            "title": "Results"
+        },
+        {
+            "endOffset": 40644,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Throughout the measurement locations, including those close to the back of the classroom, there is a reduction in amplitude as the phase offset gets closer to \u03c0 radians.",
+            "startOffset": 40475,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33555,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 6 shows the magnitude of the frequency content at 2 kHz for each recording for the AudioSpotlight 24i speakers positioned in line with each other.",
+            "startOffset": 33404,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32187,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 4 shows the recordings from about 6 m away from the speakers.",
+            "startOffset": 32121,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35393,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The top plots show when one speaker had a gain of \u221210 dB and the other speaker had a gain set at 0 dB.",
+            "startOffset": 35291,
+            "title": "Results"
+        },
+        {
+            "endOffset": 34447,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We did not measure if the change in the output in Audacity resulted in an exact 10 dB drop in amplitude from the speaker playing the sound.",
+            "startOffset": 34308,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37603,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The length limited effect is not apparent in the right plot.",
+            "startOffset": 37543,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39169,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Resulting in a slightly lower amplitude overall near the end of the recordings.",
+            "startOffset": 39090,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26338,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "By transmitting four ultrasound frequencies, instead of two, they could simulate a parametric array beam with a defined end point.",
+            "startOffset": 26208,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36714,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 8 shows the magnitude of the frequency content at 2 kHz of each recording for the AudioSpotlight 24i speakers canted in at 4 degrees, with the amplitude of both speakers set the same.",
+            "startOffset": 36526,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24034,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0105": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0110": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0115": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0120": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0125": {
+                    "endOffset": 23950,
+                    "startOffset": 23943
+                },
+                "b0130": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0135": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0140": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0145": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0150": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0155": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0160": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0165": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0170": {
+                    "endOffset": 23999,
+                    "startOffset": 23992
+                },
+                "b0180": {
+                    "endOffset": 24033,
+                    "startOffset": 24026
+                },
+                "b0185": {
+                    "endOffset": 24033,
+                    "startOffset": 24026
+                },
+                "b0190": {
+                    "endOffset": 24033,
+                    "startOffset": 24026
+                },
+                "b0195": {
+                    "endOffset": 24033,
+                    "startOffset": 24026
+                },
+                "b0200": {
+                    "endOffset": 24033,
+                    "startOffset": 24026
+                }
+            },
+            "secId": "s0005",
+            "sentence": "We have been using parametric arrays for many years for a variety of applications ranging from mobile robotic navigation [20\u201325] to stand-off concealed weapons detection [26\u201334] to benign bird deterrence [36\u201340].",
+            "startOffset": 23822,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28050,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Our results show that the length limited effect is controllable and can be generated through modulation of the difference frequency.",
+            "startOffset": 27918,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29674,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We next moved indoors to a large lecture hall, with high ceilings and sound absorbing panels on the back and sides walls, where it would be quiet enough to perform systematic measurements.",
+            "startOffset": 29486,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 41357,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The bottom plots in Fig. 11 show when one speaker had a gain of \u221220 dB and the other speaker had a gain set at 0.",
+            "startOffset": 41244,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35290,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 7 shows the magnitude of the frequency content at 2 kHz for each recording for the AudioSpotlight 24i speakers aligned in parallel with each other.",
+            "startOffset": 35138,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35576,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The length limited effect is still apparent.",
+            "startOffset": 35532,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28484,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Parametric arrays work such that after the ultrasound frequencies have attenuated, the remaining audio range acoustic frequency is linear and so the length limited effect is generated through interference between the difference-frequency sound beams propagating simultaneously.",
+            "startOffset": 28207,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 30806,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "For both brands the speakers were mounted to minimize the between the speakers when positioned in line.",
+            "startOffset": 30703,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 30702,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "For each of these speakers we took multiple measurements of the acoustic beam generated as we varied the phase of one of the speakers.",
+            "startOffset": 30568,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 34247,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "After taking measurements with the AudioSpotlight speakers aligned in parallel and with the audio gain on each speaker the same, we varied the gain between the speakers.",
+            "startOffset": 34078,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26936,
+            "parents": [],
+            "refoffsets": {
+                "b0215": {
+                    "endOffset": 26935,
+                    "startOffset": 26931
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The length limited effect was also measured using eight transducers aligned to produce the four ultrasound frequencies [43].",
+            "startOffset": 26812,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23499,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Parametric array speakers seem to have limited utility in smaller indoor installations because the directional sound reflects off of any hard surface, causing the sound to then be audible throughout the room, which often defeats the purpose of directional sound.",
+            "startOffset": 23237,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31803,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We also angled the speakers up slightly so that the beam was interacting with as few obstacles as possible, reducing the reflections recorded by the microphones.",
+            "startOffset": 31642,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 41128,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221210 dB and in the left plot speaker two had the gain set at \u221210 dB.",
+            "startOffset": 40991,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21449,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 21448,
+                    "startOffset": 21441
+                },
+                "b0055": {
+                    "endOffset": 21448,
+                    "startOffset": 21441
+                },
+                "b0060": {
+                    "endOffset": 21448,
+                    "startOffset": 21441
+                },
+                "b0065": {
+                    "endOffset": 21448,
+                    "startOffset": 21441
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The nonlinearity of air creates both a sum and difference frequency as the overlapping ultrasound beams propagate [10\u201313].",
+            "startOffset": 21327,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28819,
+            "parents": [],
+            "refoffsets": {
+                "b0260": {
+                    "endOffset": 28669,
+                    "startOffset": 28665
+                },
+                "b0265": {
+                    "endOffset": 28744,
+                    "startOffset": 28740
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Using Matlab [52] we created sound files containing a 2 kHz tone and then used Audacity [53] to play the 2 kHz tones from two parametric array speakers simultaneously.",
+            "startOffset": 28652,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 36315,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The effective aperture of the AudioSpotlight speaker is 24 in by 24 in, which creates a quite narrow beam of sound in the acoustic range.",
+            "startOffset": 36178,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22437,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The lighter blues represent higher sound pressure levels, while the dark blue represents areas of relative quiet.",
+            "startOffset": 22324,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22323,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These plots show the sound pressure levels in dB of the 5 Hz difference frequency.",
+            "startOffset": 22241,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29045,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Fig. 3 shows the initial setup for measuring the length limited effect on the Sunken Gardens at William and Mary.",
+            "startOffset": 28932,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 32542,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We then sequentially increased the phase of one speaker by 0.1\u03c0 radians and played another minute of those sine waves.",
+            "startOffset": 32424,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32423,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For these measurements we played 1 min of the sine waves and recorded the beam produced by the speakers.",
+            "startOffset": 32319,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27917,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Our goal was to demonstrate the length limited effect in a real-world situation in a large enough open area for the parametric array to propagate without reflecting off of distal walls, obstacles, etc.",
+            "startOffset": 27716,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37225,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The top row shows the magnitudes when one speaker had a gain of \u221210 dB and the other speaker had a gain set at 0 dB.",
+            "startOffset": 37109,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22806,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The right image has no 5 kHz beam pattern because the nonlinearity parameter was set to zero, illustrating that it is the nonlinearity of air that makes these directional speakers possible.",
+            "startOffset": 22617,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24119,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Fig. 2 shows some of the research projects for which we have used parametric arrays.",
+            "startOffset": 24035,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34307,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The gain levels were set using the gain slider in Audacity.",
+            "startOffset": 34248,
+            "title": "Results"
+        },
+        {
+            "endOffset": 38163,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We collected a similar set of data with the AudioSpotlights canted inward at 10 degrees, but the beam overlap wasn\u2019t sufficient to give a measurable length-limited effect.",
+            "startOffset": 37992,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42969,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "It can be seen that having the gain of one speaker at \u221220 dB had no significant length limited effect in comparison to that of the speakers at the same volume.",
+            "startOffset": 42810,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35621,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We then varied the gain more systematically.",
+            "startOffset": 35577,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39872,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We expected that by increasing the beam interaction we would increase the length limited effect.",
+            "startOffset": 39776,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33208,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Then we identified where the 2 kHz tone started in the recording and clipped the audio to.01 s after that tone started.",
+            "startOffset": 33089,
+            "title": "Results"
+        },
+        {
+            "endOffset": 38765,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For example one would expect that the amplitude of the signal at.1\u03c0 radians offset to be similar to that of the signal at 1.9\u03c0 radians offset.",
+            "startOffset": 38623,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26811,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Measurements were taken when the four ultrasound frequencies were in phase and again when two of the ultrasound frequencies were 180 degrees out of phase.",
+            "startOffset": 26657,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33870,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The arrow indicates the distance from the speaker where the point is closest to speakers.",
+            "startOffset": 33781,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22056,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For this simulation the radius of the emitter aperture is 0.3 m and the primary wave frequencies are 47,500 Hz and 52,500 Hz.",
+            "startOffset": 21931,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23645,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It is also difficult to produce a wide range of audible frequencies using a parametric array because the non-linear effect varies with frequency.",
+            "startOffset": 23500,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38824,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We believe that this is due to the speakers we were using.",
+            "startOffset": 38766,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31974,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Repeating this set up for each variation in speakers, gain of each speaker, or cant angle of the speakers allows us to compare the amplitude of the measurements directly.",
+            "startOffset": 31804,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 45240,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Current work underway in our laboratory involves 3D non-linear acoustic simulations to begin to optimize the method.",
+            "startOffset": 45124,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24434,
+            "parents": [],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 24433,
+                    "startOffset": 24429
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The concealed weapons work showed that the audible beam created by the two ultrasound frequencies could be focused using a shaped parametric array [32].",
+            "startOffset": 24282,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33312,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This ensures that we get the beginning tone without reflections from the back wall of the lecture hall.",
+            "startOffset": 33209,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35531,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221210 dB and in the left plot speaker two had the gain set at \u221210 dB.",
+            "startOffset": 35394,
+            "title": "Results"
+        },
+        {
+            "endOffset": 36073,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Again the length limited effect can be seen in the plot on the left.",
+            "startOffset": 36005,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26525,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Using a finite difference time domain simulation approach they showed that the beam could be truncated and that the resulting beam was yet narrower than the either of the original beams.",
+            "startOffset": 26339,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35138,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We wanted to ensure that the length limited effect was not due to some anomaly from the speakers not being identical.",
+            "startOffset": 35021,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31523,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "These recorders have a flat frequency response from 100 Hz to 10 kHz and a sampling rate of 44,100 Hz.2",
+            "startOffset": 31333,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 34706,
+            "parents": [],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 34610,
+                    "startOffset": 34606
+                }
+            },
+            "secId": "s0015",
+            "sentence": "This was based on discussion in Namora et al. [41] where they simulated the effect with a larger amplitude in one of the parametric array sources.",
+            "startOffset": 34560,
+            "title": "Results"
+        },
+        {
+            "endOffset": 36177,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We then repeated all of these measurements with the AudioSpotlight speakers canted inwards at 4 degrees.",
+            "startOffset": 36073,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23065,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 22937,
+                    "startOffset": 22933
+                },
+                "b0075": {
+                    "endOffset": 22965,
+                    "startOffset": 22961
+                },
+                "b0080": {
+                    "endOffset": 22985,
+                    "startOffset": 22981
+                },
+                "b0085": {
+                    "endOffset": 23016,
+                    "startOffset": 23012
+                },
+                "b0090": {
+                    "endOffset": 23064,
+                    "startOffset": 23060
+                }
+            },
+            "secId": "s0005",
+            "sentence": "There have only been a few parametric array speakers available in the consumer market, including the Holosonics AudioSpotlight [14], the HyperSound HSS300 [15], the Acouspade [16], the Sennheiser Audiobeam [17], and the Soundlazer, a KickStarter project [18].",
+            "startOffset": 22806,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44874,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Changing the gain of one of the speakers did not have significant impact on the length limited effect.",
+            "startOffset": 44772,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24281,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For concealed weapons detection, the reflections from the Sennheiser Audiobeam were analyzed to determine if the person was carrying weapons under their clothes.",
+            "startOffset": 24120,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35872,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The bottom plots in Fig. 7 show the magnitude of the frequency content at 2 kHz of each recording for the AudioSpotlight 24i speakers positioned in line with each other, when one speaker had a gain of \u221220 dB and the other speaker had a gain set at 0.",
+            "startOffset": 35622,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42671,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The bottom plots of Fig. 13 also shows the magnitude of the frequency content at 2 kHz of each recording for the HyperSound speakers canted in at 4 degrees, when one speaker had a gain of \u221220 dB and the other speaker had a gain set at 0.",
+            "startOffset": 42434,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22163,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These two colormap plots were generated with simulations of the parametric array using the Texas KZK code.",
+            "startOffset": 22057,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39312,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Even with this slight reduction in amplitude, a significant reduction in amplitude can be see when the offset was between.7\u03c0 and 1.1\u03c0 radians.",
+            "startOffset": 39170,
+            "title": "Results"
+        },
+        {
+            "endOffset": 44302,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "When positioned adjacent to each other and aimed in parallel, the beams did not overlap sufficiently, but canting them inwards 4 degrees did give enough beam overlap.",
+            "startOffset": 44136,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37991,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Here there is no apparent length limited effect.",
+            "startOffset": 37943,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39582,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "These parametric array speakers have an effective aperture of about 6 inches by 12 inches.",
+            "startOffset": 39492,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30058,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The room is about 12 m in width and more than 18 m deep, which minimized unwanted reflections.",
+            "startOffset": 29964,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 33014,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This removed most of the background noise from the measurements.",
+            "startOffset": 32950,
+            "title": "Results"
+        },
+        {
+            "endOffset": 40373,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 10 shows the magnitude of the frequency content at 2 kHz for each recording with the HyperSound speakers positioned in line with each other, and with the gain of the speakers set equal to each other.",
+            "startOffset": 40169,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32683,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Each step represents a change in phase of the sine wave.",
+            "startOffset": 32627,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39417,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This is especially true when the AudioSpotlight speakers were canted into increase the beam interaction.",
+            "startOffset": 39313,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42433,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In these plots the length limited effect is apparent, especially in the measurement taken closest to the speakers.",
+            "startOffset": 42319,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25004,
+            "parents": [],
+            "refoffsets": {
+                "b0190": {
+                    "endOffset": 25003,
+                    "startOffset": 24999
+                },
+                "b0200": {
+                    "endOffset": 24960,
+                    "startOffset": 24956
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The other two images in Fig. 2 are from field and aviary testing of Sonic Nets [40] to deter birds from feeding locations [38].",
+            "startOffset": 24877,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30459,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "By taking advantage of the internal signal processing in the amplifiers of the speakers we were able to show the length limited effect using phase modulations of the audible signal.",
+            "startOffset": 30278,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 36817,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Here there is a rather dramatic reduction in magnitude between 0.6\u03c0 and 1.0\u03c0 radians phase difference.",
+            "startOffset": 36715,
+            "title": "Results"
+        },
+        {
+            "endOffset": 45123,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The results presented here are a step towards understanding and ultimately harnessing length-limited sound beams for practical applications.",
+            "startOffset": 44983,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28931,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "We held the phase of one speaker constant while incrementally changing the relative phase of the other speaker.",
+            "startOffset": 28820,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 37542,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The length limited effect can be seen in the 2 measurements closest to the speakers on the left plot, but it is not as dramatic as when the speakers were at the same gain levels.",
+            "startOffset": 37364,
+            "title": "Results"
+        },
+        {
+            "endOffset": 41843,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 12 shows the magnitude of the frequency content at 2 kHz of each recording for the HyperSound speakers canted in at 4 degrees, with the gain of the speakers set equal to each other.",
+            "startOffset": 41657,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30959,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This resulted in an approximately 1 cm gap between the speakers, which was increased slightly when the speakers were canted in but never exceeded 10 cm.",
+            "startOffset": 30807,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 34865,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We were concerned that degradation after usage during extended Sonic Nets field tests might have an effect on the volume the parametric arrays were producing.",
+            "startOffset": 34707,
+            "title": "Results"
+        },
+        {
+            "endOffset": 43327,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "By taking advantage of the signal processing in the commercial parametric amplifiers we propagated pairs of 2 kHz narrow sound beams with parametric array speakers.",
+            "startOffset": 43163,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25205,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "We used the parametric array to cover one localized feeding area with a colored noise signal that overlaps the audible frequency spectra of communication of pest birds, which causes birds to disperse.",
+            "startOffset": 25005,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43755,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "We believe that the length limited effect is created from the constructive and destructive interference in the audible signal created by the parametric arrays.",
+            "startOffset": 43596,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33780,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The top curve is the recording taken about 6 m away from the speakers.",
+            "startOffset": 33710,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21326,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0010": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0015": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0020": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0025": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0030": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0035": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0040": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                },
+                "b0045": {
+                    "endOffset": 21325,
+                    "startOffset": 21320
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Parametric acoustic array speakers create highly directional beams of audible sound by simultaneously transmitting two ultrasound frequencies [1\u20139].",
+            "startOffset": 21178,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39089,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "When taking these measurements, it is likely that the amplitude of this speaker dropped slightly as the recordings were taken.",
+            "startOffset": 38963,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31165,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This was repeated 6 times to get the recording at each position in the room.",
+            "startOffset": 31089,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 41657,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "It can be seen that having the gain of one speaker at \u221220 dB had no significant length limited effect in comparison to when the speakers were at the same volume.",
+            "startOffset": 41496,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42080,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 13 shows the magnitude of the frequency content at 2 kHz of each recording for the HyperSound speakers canted in at 4 degrees.",
+            "startOffset": 41949,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37030,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This is seen at 11 m away (the third line down) when there is still a significant dramatic drop off in the magnitude of the signal.",
+            "startOffset": 36899,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39775,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "For the length limited measurements we mounted them with the longer sides vertically, which should increase the beam interaction by having a smaller effective aperture in the horizontal plane.",
+            "startOffset": 39583,
+            "title": "Results"
+        },
+        {
+            "endOffset": 42180,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "THe top plots show when one speaker had a gain of \u221210 dB and the other speaker had a gain set at 0.",
+            "startOffset": 42081,
+            "title": "Results"
+        },
+        {
+            "endOffset": 43874,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "We have shown that the length limited effect can be produced without strict control of the ultrasound primary signals.",
+            "startOffset": 43756,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25317,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For all of these applications, the ability to control where the sound beam goes is the key enabling technology.",
+            "startOffset": 25206,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37108,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 9 shows the magnitudes at 2 kHz with the speakers canted in at 4 degrees.",
+            "startOffset": 37030,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32318,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Here the AudioSpotlight speakers were positioned in line with one another and their volume was at the same level for each speaker.",
+            "startOffset": 32188,
+            "title": "Results"
+        },
+        {
+            "endOffset": 40990,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "THe top plots show when one speaker had a gain of \u221210 dB and the other speaker had a gain set at 0.",
+            "startOffset": 40891,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27066,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "At 4 m away from the transducers they found that the magnitude of the audible signal was 23 times lower than that of the maximum.",
+            "startOffset": 26937,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33996,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Here it can clearly be seen that the length limited effect is most apparent in the measurement taken closest to the speakers.",
+            "startOffset": 33871,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22240,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In these colormap plots the nonlinearity parameter on and off, respectively.",
+            "startOffset": 22164,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44771,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "We found that keeping the relative magnitude of the sound projected through the speakers the same produced the strongest length limited effect.",
+            "startOffset": 44628,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32785,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This shows qualitatively that there is a reduction of volume as the speakers are played out of phase.",
+            "startOffset": 32684,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37804,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The bottom row of Fig. 9 shows the magnitude of the 2 kHz signal from AudioSpotlight speakers canted in at 4 degrees when one speaker had a gain of \u221220 dB and the other speaker had a gain set at 0 dB.",
+            "startOffset": 37604,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33088,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Next we segmented the files to only contain 1 min of data for each phase.",
+            "startOffset": 33015,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29255,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Using a parabolic dish microphone, we measured the 2 kHz difference frequency generated by the parametric array effect.",
+            "startOffset": 29136,
+            "title": "Methods and materials"
+        },
+        {
+            "endOffset": 40890,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 11 shows the magnitude of the frequency content at 2 kHz for each recording with the HyperSound speakers positioned in line with each other.",
+            "startOffset": 40745,
+            "title": "Results"
+        },
+        {
+            "endOffset": 39491,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 39481,
+                    "startOffset": 39477
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Next we performed similar measurements using the HyperSound [15] speakers.",
+            "startOffset": 39417,
+            "title": "Results"
+        },
+        {
+            "endOffset": 44983,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "And adjusting the gain of one speaker to \u221220 dB in some cases eliminated the length limited effect entirely.",
+            "startOffset": 44875,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28185,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "And that the length limited effect could be replicated without the precise control of the signals creating the ultrasound frequencies.",
+            "startOffset": 28051,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24876,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A chirp signal generated by the parametric array is backscattered from vehicles traveling on the road and used to classify the vehicles coming from as far away as 50 m.",
+            "startOffset": 24708,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38622,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "We see in the plots generated from the AudioSpotlight measurements that the data points from the larger relative phases are generally at a lower amplitude than those that should correspond to the same phase difference.",
+            "startOffset": 38404,
+            "title": "Results"
+        },
+        {
+            "endOffset": 41243,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In these plots the length limited effect is apparent, especially in the measurement taken closest to the speakers.",
+            "startOffset": 41129,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24564,
+            "parents": [],
+            "refoffsets": {
+                "b0175": {
+                    "endOffset": 24563,
+                    "startOffset": 24559
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This allowed for an audible beam that could be pointed at a person\u2019s torso without that person being able to hear the sound [35].",
+            "startOffset": 24435,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27715,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This experiment was designed to see qualitatively if the length limited effect could be seen using commercially available parametric array speakers.",
+            "startOffset": 27567,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36525,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "By canting the speakers slightly in, we increase the interaction of the beams and thus increase the length limited effect.",
+            "startOffset": 36403,
+            "title": "Results"
+        },
+        {
+            "endOffset": 44628,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "For the smaller, rectangular HyperSound speakers there was enough beam spread that even when they were pointed in parallel, the beams interacted to give a length-limited effect.",
+            "startOffset": 44451,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33404,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Then we performed a Fast Fourier Transform and recorded the magnitude of the peak at 2 kHz.",
+            "startOffset": 33313,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23236,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 23207,
+                    "startOffset": 23204
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Most parametric array speakers are very expensive due to the significant amount of signal processing required for producing quality audio [7] and small-volume production.",
+            "startOffset": 23066,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42318,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The plot on the right side shows when speaker one had the gain set at \u221210 dB and in the left plot speaker two had the gain set at \u221210 dB.",
+            "startOffset": 42181,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25630,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A controllable finite-length sound beam would be a significant improvement for many applications.",
+            "startOffset": 25533,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0003682X18305681",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Elizabeth",
+                "initial": "E.",
+                "last": "Skinner"
+            },
+            {
+                "email": null,
+                "first": "Matthew",
+                "initial": "M.",
+                "last": "Groves"
+            },
+            {
+                "email": "hinders@wm.edu",
+                "first": "Mark K.",
+                "initial": "M.K.",
+                "last": "Hinders"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.01.001",
+        "firstpage": "423",
+        "issn": "0003682X",
+        "keywords": [
+            "Directional sound beam",
+            "Length-limited sound beam",
+            "Nonlinear sound propagation",
+            "Parametric acoustic array",
+            "Parametric loudspeaker"
+        ],
+        "lastpage": "433",
+        "openaccess": "Full",
+        "pub_year": 2019,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Demonstration of a length limited parametric array"
+    }
+}

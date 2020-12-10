@@ -1,0 +1,2964 @@
+{
+    "abstract": "This paper reports on a study to assess the feasibility of creating an intuitive environmental sound monitoring system that can be used on-location and return meaningful measurements beyond the standard LAeq. An iOS app was created using Machine Learning (ML) and Augmented Reality (AR) in conjunction with the Sennheiser AMBEO Smart Headset in order to test this. The app returns readings indicating the human, natural and mechanical sound content of the local acoustic scene, and implements four virtual sound objects which the user can place in the scene to observe their effect on the readings. Testing at various types of urban locations indicates that the app returns meaningful ratings for natural and mechanical sound, though the pattern of variation in the ratings for human sound is less clear. Adding the virtual objects largely has no significant effect aside from the car object, which significantly increases mechanical ratings. Results indicate that using ML to provide meaningful on-location sound monitoring is feasible, though the performance of the app developed could be improved given additional calibration.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Harriet"
+                },
+                {
+                    "first": "D. T.",
+                    "initial": "D.T.",
+                    "last": "Murphy"
+                }
+            ],
+            "doi": "10.3813/AAA.918874",
+            "firstpage": "798",
+            "issn": "16101928",
+            "lastpage": "810",
+            "pub_year": 2015,
+            "title": "Auralisation of an urban soundscape",
+            "volume": "101"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Brown"
+                }
+            ],
+            "doi": "10.3397/1.3484178",
+            "firstpage": "493",
+            "issn": "07362501",
+            "lastpage": "500",
+            "pub_year": 2010,
+            "title": "Soundscapes and environmental noise management",
+            "volume": "58"
+        },
+        "b0015": null,
+        "b0020": null,
+        "b0025": null,
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Bennett",
+                    "initial": "B.",
+                    "last": "Brooks"
+                },
+                {
+                    "first": "Brigitte",
+                    "initial": "B.",
+                    "last": "Schulte-Fortkamp"
+                }
+            ],
+            "firstpage": "2043",
+            "lastpage": "2047",
+            "pub_year": 2016,
+            "title": "The soundscape standard"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Stevens"
+                },
+                {
+                    "first": "Damian T.",
+                    "initial": "D.T.",
+                    "last": "Murphy"
+                },
+                {
+                    "first": "Stephen L.",
+                    "initial": "S.L.",
+                    "last": "Smith"
+                }
+            ],
+            "firstpage": "481",
+            "lastpage": "488",
+            "pub_year": 2017,
+            "title": "Soundscape categorisation and the self-assessment Manikin"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Stevens"
+                },
+                {
+                    "first": "Damian T.",
+                    "initial": "D.T.",
+                    "last": "Murphy"
+                },
+                {
+                    "first": "Stephen L.",
+                    "initial": "S.L.",
+                    "last": "Smith"
+                }
+            ],
+            "firstpage": "133",
+            "lastpage": "140",
+            "pub_year": 2018,
+            "title": "Soundscape auralisation and visualisation: A cross-modal approach to soundscape evaluation"
+        },
+        "b0045": null,
+        "b0050": null,
+        "b0055": null,
+        "b0060": null,
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Zappatore"
+                },
+                {
+                    "first": "Antonella",
+                    "initial": "A.",
+                    "last": "Longo"
+                },
+                {
+                    "first": "Mario A.",
+                    "initial": "M.A.",
+                    "last": "Bochicchio"
+                },
+                {
+                    "first": "Daniele",
+                    "initial": "D.",
+                    "last": "Zappatore"
+                },
+                {
+                    "first": "Alessandro A.",
+                    "initial": "A.A.",
+                    "last": "Morrone"
+                },
+                {
+                    "first": "Gianluca",
+                    "initial": "G.",
+                    "last": "De Mitri"
+                }
+            ],
+            "doi": "10.1109/IMCTL.2015.7359563",
+            "firstpage": "96",
+            "lastpage": "100",
+            "pub_year": 2015,
+            "title": "Mobile Crowd Sensing-based noise monitoring as a way to improve learning quality on acoustics"
+        },
+        "b0070": null,
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Maisonneuve"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Stevens"
+                },
+                {
+                    "first": "Bartek",
+                    "initial": "B.",
+                    "last": "Ochab"
+                }
+            ],
+            "doi": "10.3233/IP-2010-0200",
+            "firstpage": "51",
+            "issn": "15701255",
+            "lastpage": "71",
+            "pub_year": 2010,
+            "title": "Participatory noise pollution monitoring using mobile phones",
+            "volume": "15"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Jinbo",
+                    "initial": "J.",
+                    "last": "Zuo"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Xia"
+                },
+                {
+                    "first": "Shuo",
+                    "initial": "S.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Yanyou",
+                    "initial": "Y.",
+                    "last": "Qiao"
+                }
+            ],
+            "doi": "10.3390/s16101692",
+            "issn": "14248220",
+            "pub_year": 2016,
+            "title": "Mapping urban environmental noise using smartphones",
+            "volume": "16"
+        },
+        "b0085": null,
+        "b0090": null,
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Dan",
+                    "initial": "D.",
+                    "last": "Stowell"
+                },
+                {
+                    "first": "Dimitrios",
+                    "initial": "D.",
+                    "last": "Giannoulis"
+                },
+                {
+                    "first": "Emmanouil",
+                    "initial": "E.",
+                    "last": "Benetos"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Lagrange"
+                },
+                {
+                    "first": "Mark D.",
+                    "initial": "M.D.",
+                    "last": "Plumbley"
+                }
+            ],
+            "doi": "10.1109/TMM.2015.2428998",
+            "firstpage": "1733",
+            "issn": "15209210",
+            "lastpage": "1746",
+            "pub_year": 2015,
+            "title": "Detection and Classification of Acoustic Scenes and Events",
+            "volume": "17"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Marc Ciufo",
+                    "initial": "M.C.",
+                    "last": "Green"
+                },
+                {
+                    "first": "Damian",
+                    "initial": "D.",
+                    "last": "Murphy"
+                }
+            ],
+            "doi": "10.3390/app7111204",
+            "issn": "20763417",
+            "pub_year": 2017,
+            "title": "Eigen scape: A database of spatial acoustic scene recordings",
+            "volume": "7"
+        },
+        "b0105": null,
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Hong",
+                    "initial": "H.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Pan"
+                },
+                {
+                    "first": "Nicholas D.",
+                    "initial": "N.D.",
+                    "last": "Lane"
+                },
+                {
+                    "first": "Tanzeem",
+                    "initial": "T.",
+                    "last": "Choudhury"
+                },
+                {
+                    "first": "Andrew T.",
+                    "initial": "A.T.",
+                    "last": "Campbell"
+                }
+            ],
+            "doi": "10.1145/1555816.1555834",
+            "firstpage": "165",
+            "lastpage": "178",
+            "pub_year": 2009,
+            "title": "SoundSense: Scalable sound sensing for people-centric applications on mobile phones"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Nicholas D.",
+                    "initial": "N.D.",
+                    "last": "Lane"
+                },
+                {
+                    "first": "Petko",
+                    "initial": "P.",
+                    "last": "Georgiev"
+                },
+                {
+                    "first": "Lorena",
+                    "initial": "L.",
+                    "last": "Qendro"
+                }
+            ],
+            "doi": "10.1145/2750858.2804262",
+            "firstpage": "283",
+            "lastpage": "294",
+            "pub_year": 2015,
+            "title": "DeepEar: Robust smartphone audio sensing in unconstrained acoustic environments using deep learning"
+        },
+        "b0120": null,
+        "b0125": null,
+        "b0130": null,
+        "b0135": null,
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Joo Young",
+                    "initial": "J.Y.",
+                    "last": "Hong"
+                },
+                {
+                    "first": "Jianjun",
+                    "initial": "J.",
+                    "last": "He"
+                },
+                {
+                    "first": "Bhan",
+                    "initial": "B.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "Rishabh",
+                    "initial": "R.",
+                    "last": "Gupta"
+                },
+                {
+                    "first": "Woon Seng",
+                    "initial": "W.S.",
+                    "last": "Gan"
+                }
+            ],
+            "doi": "10.3390/app7060627",
+            "issn": "20763417",
+            "pub_year": 2017,
+            "title": "Spatial audio for soundscape design: Recording and reproduction",
+            "volume": "7"
+        },
+        "b0145": null,
+        "b0150": {
+            "authors": [
+                {
+                    "first": "A. L.",
+                    "initial": "A.L.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "Jian",
+                    "initial": "J.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Truls",
+                    "initial": "T.",
+                    "last": "Gjestland"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2011.01.001",
+            "firstpage": "387",
+            "issn": "0003682X",
+            "lastpage": "392",
+            "pub_year": 2011,
+            "title": "Towards standardization in soundscape preference assessment",
+            "volume": "72"
+        },
+        "b0155": {
+            "authors": [
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Iglesias Merchan"
+                },
+                {
+                    "first": "Luis",
+                    "initial": "L.",
+                    "last": "Diaz-Balteiro"
+                },
+                {
+                    "first": "Mario",
+                    "initial": "M.",
+                    "last": "Soli\u00f1o"
+                }
+            ],
+            "doi": "10.1016/j.landurbplan.2013.11.006",
+            "firstpage": "1",
+            "issn": "01692046",
+            "lastpage": "9",
+            "pub_year": 2014,
+            "title": "Noise pollution in national parks: Soundscape and economic valuation",
+            "volume": "123"
+        },
+        "b0160": null,
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Francesco",
+                    "initial": "F.",
+                    "last": "Aletta"
+                },
+                {
+                    "first": "Jian",
+                    "initial": "J.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "\u00d6sten",
+                    "initial": "\u00d6.",
+                    "last": "Axelsson"
+                }
+            ],
+            "doi": "10.1016/j.landurbplan.2016.02.001",
+            "firstpage": "65",
+            "issn": "01692046",
+            "lastpage": "74",
+            "pub_year": 2016,
+            "title": "Soundscape descriptors and a conceptual framework for developing predictive soundscape models",
+            "volume": "149"
+        },
+        "b0170": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Lund\u00e9n"
+                },
+                {
+                    "first": "\u00d6sten",
+                    "initial": "\u00d6.",
+                    "last": "Axelsson"
+                },
+                {
+                    "first": "Malin",
+                    "initial": "M.",
+                    "last": "Hurtig"
+                }
+            ],
+            "firstpage": "4725",
+            "lastpage": "4732",
+            "pub_year": 2016,
+            "title": "On urban soundscape mapping: A computer can predict the outcome of soundscape assessments"
+        },
+        "b0175": {
+            "authors": [
+                {
+                    "first": "Rebecca",
+                    "initial": "R.",
+                    "last": "Cain"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Jennings"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Poxon"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2011.11.006",
+            "firstpage": "232",
+            "issn": "0003682X",
+            "lastpage": "239",
+            "pub_year": 2013,
+            "title": "The development and application of the emotional dimensions of a soundscape",
+            "volume": "74"
+        },
+        "b0180": {
+            "authors": [
+                {
+                    "first": "Daniele",
+                    "initial": "D.",
+                    "last": "Barchiesi"
+                },
+                {
+                    "first": "D. Dimitrios",
+                    "initial": "D.D.",
+                    "last": "Giannoulis"
+                },
+                {
+                    "first": "Dan",
+                    "initial": "D.",
+                    "last": "Stowell"
+                },
+                {
+                    "first": "Mark D.",
+                    "initial": "M.D.",
+                    "last": "Plumbley"
+                }
+            ],
+            "doi": "10.1109/MSP.2014.2326181",
+            "firstpage": "16",
+            "issn": "10535888",
+            "lastpage": "34",
+            "pub_year": 2015,
+            "title": "Acoustic Scene Classification: Classifying environments from the sounds they produce",
+            "volume": "32"
+        },
+        "b0185": null,
+        "b0190": {
+            "authors": [
+                {
+                    "first": "Fabian",
+                    "initial": "F.",
+                    "last": "Pedregosa"
+                },
+                {
+                    "first": "Gael",
+                    "initial": "G.",
+                    "last": "Varoquaux"
+                },
+                {
+                    "first": "Alexandre",
+                    "initial": "A.",
+                    "last": "Gramfort"
+                },
+                {
+                    "first": "Vincent",
+                    "initial": "V.",
+                    "last": "Michel"
+                },
+                {
+                    "first": "Bertrand",
+                    "initial": "B.",
+                    "last": "Thirion"
+                },
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Grisel"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Blondel"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Prettenhofer"
+                },
+                {
+                    "first": "Ron",
+                    "initial": "R.",
+                    "last": "Weiss"
+                },
+                {
+                    "first": "Vincent",
+                    "initial": "V.",
+                    "last": "Dubourg"
+                },
+                {
+                    "first": "Jake",
+                    "initial": "J.",
+                    "last": "Vanderplas"
+                },
+                {
+                    "first": "Alexandre",
+                    "initial": "A.",
+                    "last": "Passos"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Cournapeau"
+                },
+                {
+                    "first": "Matthieu",
+                    "initial": "M.",
+                    "last": "Brucher"
+                },
+                {
+                    "first": "Matthieu",
+                    "initial": "M.",
+                    "last": "Perrot"
+                },
+                {
+                    "first": "\u00c9douard",
+                    "initial": "E.",
+                    "last": "Duchesnay"
+                }
+            ],
+            "firstpage": "2825",
+            "issn": "15324435",
+            "lastpage": "2830",
+            "pub_year": 2011,
+            "title": "Scikit-learn: Machine learning in Python",
+            "volume": "12"
+        },
+        "b0195": null,
+        "b0200": null,
+        "b0205": null,
+        "b0210": {
+            "authors": [
+                {
+                    "first": "Enda",
+                    "initial": "E.",
+                    "last": "Murphy"
+                },
+                {
+                    "first": "Eoin A.",
+                    "initial": "E.A.",
+                    "last": "King"
+                }
+            ],
+            "doi": "10.1016/C2012-0-13587-0",
+            "firstpage": "1",
+            "lastpage": "268",
+            "pub_year": 2014,
+            "title": "Environmental Noise Pollution: Noise Mapping, Public Health, and Policy"
+        },
+        "b0215": {
+            "authors": [
+                {
+                    "first": "Inan",
+                    "initial": "I.",
+                    "last": "Ekici"
+                },
+                {
+                    "first": "Hocine",
+                    "initial": "H.",
+                    "last": "Bougdah"
+                }
+            ],
+            "doi": "10.1260/135101003772776712",
+            "firstpage": "289",
+            "issn": "1351010X",
+            "lastpage": "323",
+            "pub_year": 2003,
+            "title": "A review of research on environmental noise barriers",
+            "volume": "10"
+        },
+        "b0220": null,
+        "b0225": {
+            "authors": [
+                {
+                    "first": "Eric P.",
+                    "initial": "E.P.",
+                    "last": "Kasten"
+                },
+                {
+                    "first": "Stuart H.",
+                    "initial": "S.H.",
+                    "last": "Gage"
+                },
+                {
+                    "first": "Jordan",
+                    "initial": "J.",
+                    "last": "Fox"
+                },
+                {
+                    "first": "Wooyeong",
+                    "initial": "W.",
+                    "last": "Joo"
+                }
+            ],
+            "doi": "10.1016/j.ecoinf.2012.08.001",
+            "firstpage": "50",
+            "issn": "15749541",
+            "lastpage": "67",
+            "pub_year": 2012,
+            "title": "The remote environmental assessment laboratory's acoustic library: An archive for studying soundscape ecology",
+            "volume": "12"
+        },
+        "b0230": {
+            "authors": [
+                {
+                    "first": "Ralph B.",
+                    "initial": "R.B.",
+                    "last": "D\u2019Agostino"
+                },
+                {
+                    "first": "Albert",
+                    "initial": "A.",
+                    "last": "Belanger"
+                },
+                {
+                    "first": "Ralph B.",
+                    "initial": "R.B.",
+                    "last": "D\u2019Agostino"
+                }
+            ],
+            "doi": "10.1080/00031305.1990.10475751",
+            "firstpage": "316",
+            "issn": "00031305",
+            "lastpage": "321",
+            "pub_year": 1990,
+            "title": "A suggestion for using powerful and informative tests of normality",
+            "volume": "44"
+        },
+        "b0235": null,
+        "b0240": null
+    },
+    "body_text": [
+        {
+            "endOffset": 41701,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Tower Gardens is nearer to a main road, and the lower value reflects this.",
+            "startOffset": 41627,
+            "title": "Results"
+        },
+        {
+            "endOffset": 49271,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "It might also be possible to use more sophisticated processing to make the effects of the virtual barrier more realistic.",
+            "startOffset": 49150,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 46469,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Addition of the barrier object has very little effect at all on any of the ratings, suggesting the barrier in principle or in the implementation described here (see Section 2.3.2) is not effective.",
+            "startOffset": 46272,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27408,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Mechanical: Sounds from machinery, including transport and construction.",
+            "startOffset": 27336,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 38771,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "No virtual objects (clean reading)",
+            "startOffset": 38737,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 29798,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Classifiers were trained for all eight location classes present in the EigenScape database (Beach, BusyStreet, Park, PedestrianZone, QuietStreet, ShoppingCentre, TrainStation and Woodland).",
+            "startOffset": 29609,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 22336,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "This is certainly a step towards incorporation of the soundscape approach, but the use of questionnaires is subject to some of the same problems previously outlined in relation to listening tests and soundwalks.",
+            "startOffset": 22125,
+            "title": "Sound monitoring using smartphones"
+        },
+        {
+            "endOffset": 38048,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Virtual objects can then be placed and the scene re-analysed to observe any effect on the ratings the added objects may have.",
+            "startOffset": 37923,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 44873,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "This suggests that a machine learning approach to calculating meaningful soundscape indices could be effective, and that such a system could be incorporated into an easy-to-use handheld device.",
+            "startOffset": 44680,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48497,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "The classifiers used here could be further improved by utilising more advanced audio features.",
+            "startOffset": 48403,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 45104,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "In future work it would be interesting to compare the NDSI/pleasantness values obtained here to results from the original frequency-ratio method of calculation, and to ratings of these sound scenes by subjects in a listening test.",
+            "startOffset": 44874,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31944,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Each of these models produces a rating indicating the probability that MFCC features extracted from incoming audio frames came from an acoustic scene similar to those they were trained on.",
+            "startOffset": 31756,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 47445,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "None of the virtual objects seem to have much effect on the human ratings.",
+            "startOffset": 47371,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23246,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 23157,
+                    "startOffset": 23153
+                },
+                "b0110": {
+                    "endOffset": 23177,
+                    "startOffset": 23173
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Apps by Cordeiro and Barbosa [21], and Lu et al. [22] classify incoming sounds as either speech, music or \u2018environmental\u2019.",
+            "startOffset": 23124,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 37756,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The extracted MFCCs are sent to the Core ML object, which returns probability ratings for human, natural, and mechanical audio sources in near real-time.",
+            "startOffset": 37603,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 34951,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The cutoff of the LPF, representing the amount of high-frequency attenuation provided by the barrier, is therefore calculated based on the distance between the camera position and the virtual barrier.",
+            "startOffset": 34751,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 26303,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "An AR component of the app was also designed in order to test the usefulness of the output from the ML component in terms of assessing interventions that might be added to the environment to affect its soundscape.",
+            "startOffset": 26090,
+            "title": "Aims and objectives"
+        },
+        {
+            "endOffset": 48138,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "Their ratings could be compared with the classifier outputs in order to reinforce or disprove the results obtained.",
+            "startOffset": 48023,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 30804,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "It can been seen that whilst the models for BusyStreet and Woodland perform well, models for the other scenes were generally inaccurate.",
+            "startOffset": 30668,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 48912,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "The implementation of the app\u2019s virtual objects could also be improved.",
+            "startOffset": 48841,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 49067,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "Some sources (e.g. the car) would in reality likely be in motion, and some sources would be diffuse.",
+            "startOffset": 48967,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 34750,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "With regards to calculating the path length difference, there is no way at present to measure the distance between the virtual barrier object and the various sound sources making up a real-world scene, however the distance to the receiver (listener) is known.",
+            "startOffset": 34491,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 32298,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In essence, we obtain estimates for the three components by measuring the similarity of the incoming audio to the three chosen scene models.",
+            "startOffset": 32158,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 35919,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "There are three sub-views performing various functions that can be shown and hidden by the user using the three small buttons in the lower right of the interface.",
+            "startOffset": 35757,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 36835,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The user can then drag the virtual object to fine-tune the positioning, if desired.",
+            "startOffset": 36752,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 37253,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Fig. 4 shows the structure of the audio signal flow through the SoundscapAR app.",
+            "startOffset": 37173,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 28807,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0180": {
+                    "endOffset": 28788,
+                    "startOffset": 28784
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Since we are interested in the overall content and character of sound scenes in general, rather than on detection of individual sources in particular, we used an Acoustic Scene Classification (ASC) framework [36] for the ML models.",
+            "startOffset": 28576,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 41825,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Bishopthorpe Road and Exhibition Square both have heavy traffic, and this is reflected in that their values are the lowest.",
+            "startOffset": 41702,
+            "title": "Results"
+        },
+        {
+            "endOffset": 49665,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "This allows AR apps to be \u201cexperienced by multiple users simultaneously, and resumed at a later time in the same state\u201d.",
+            "startOffset": 49545,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 46124,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Despite the limited amount of data obtained, there is some indication that the addition of the virtual car tends to cause an increase in the mechanical rating, with a corresponding slight decrease in the natural rating.",
+            "startOffset": 45905,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30988,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This was not so much a problem for this work, however, as the primary interest here is in reporting of alternative metrics for sound scenes, rather than precise scene classifications.",
+            "startOffset": 30805,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 47179,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 47019,
+                    "startOffset": 47016
+                }
+            },
+            "secId": "s0105",
+            "sentence": "The fact that the introduction of the virtual car has a much more pronounced effect on the ratings than any of the natural objects aligns with findings presented by Stevens in [7], where the addition of a single car to a sound scene recorded by a lake caused a large increase in mechanical ratings provided by subjects in a listening test.",
+            "startOffset": 46840,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25547,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Whilst this system featured head-tracking for realistic sound spatialisation, this was not true AR as the existing location sound was completely overlaid by the virtual sound scene \u2013 there was no microphone component in this system to create a blend of real and virtual audio.",
+            "startOffset": 25271,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 29445,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 29444,
+                    "startOffset": 29440
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Models were trained using audio from the EigenScape database [20].",
+            "startOffset": 29379,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 42705,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Exhibition Square, for instance (7b) has a similar human rating to Shambles Market (7d), whereas their other ratings vary greatly.",
+            "startOffset": 42575,
+            "title": "Results"
+        },
+        {
+            "endOffset": 35656,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The various interface elements of SoundscapeAR are shown in Fig. 3.",
+            "startOffset": 35589,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 45595,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The results from the natural and mechanical classifiers show that these classifiers are to some extent successfully generalising to audio that is not contained within the EigenScape dataset used for training.",
+            "startOffset": 45387,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40822,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "A machine learning model such as the one employed in this app could represent just such an advancement.",
+            "startOffset": 40719,
+            "title": "NDSI/pleasantness rating"
+        },
+        {
+            "endOffset": 31756,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The ShoppingCentre classifier was instead chosen for this purpose as, whilst only successful at identifying 50% of the ShoppingCentre scenes, misclassifying TrainStation scenes the remaining 50% of its output, both of these scenes have a relatively large human sound component.",
+            "startOffset": 31479,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 29608,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 29607,
+                    "startOffset": 29600
+                },
+                "b0100": {
+                    "endOffset": 29607,
+                    "startOffset": 29600
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Mel-Frequency Cepstral Coefficient (MFCC) features were extracted from the zeroth-order (mono-omni) channel in a manner similar to the baseline models in [19,20].",
+            "startOffset": 29446,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 24282,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 24181,
+                    "startOffset": 24177
+                }
+            },
+            "secId": "s0025",
+            "sentence": "The Sennheiser AMBEO Smart Headset (ASH) [27], shown in Fig. 1, is an accessory for iOS devices that can be used to extend AR to the audio domain.",
+            "startOffset": 24136,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 42933,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Despite this, the human ratings clearly do not vary as much from place to place as the others \u2013 the variance in human ratings is 6.99, where variance in mechanical ratings is 15.35 and natural variance is even higher, at 24.79.",
+            "startOffset": 42706,
+            "title": "Results"
+        },
+        {
+            "endOffset": 34299,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "To simulate the effect of adding a sound barrier to the scene, our virtual barrier selectively filters the real-world sound picked up by the ASH before this is relayed to the listener as part of the complete augmented audio mix.",
+            "startOffset": 34071,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 41626,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "This shows the effectiveness of the classifier as both the park and the market are low in mechanical sounds, though there is some quieter machinery present at the market (small generators etc.).",
+            "startOffset": 41432,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27550,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This primarily consists of speech, but also footsteps, music and laughter.",
+            "startOffset": 27476,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 49149,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "It should be possible to implement these features in a future version of the app.",
+            "startOffset": 49068,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 35241,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The cutoff is set at 20 Hz if the user is directly next to the barrier, and reaches 20 kHz once the user moves 10 metres away, effectively neutralising the filter\u2019s perceptual effect and mimicking the negligible impact of real-world sound barriers given very small path length differences.",
+            "startOffset": 34952,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 27335,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Natural: The sounds of all manner of fauna except humans, together with sound created by weather and geological forces including rainfall, wind and flowing water.",
+            "startOffset": 27173,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 37922,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "In this way, with all virtual objects disabled, the user can record \u2018clean\u2019 ratings for an acoustic scene.",
+            "startOffset": 37816,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 36447,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "There are four virtual objects available for the user to place \u2013 car, bird, water fountain and barrier.",
+            "startOffset": 36344,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 25068,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 25067,
+                    "startOffset": 25063
+                }
+            },
+            "secId": "s0025",
+            "sentence": "This is despite the suggestion from Hong et al. that it could be \u201cuseful for projects that involve altering the soundscapes of existing locations\u2026[enabling] soundscape researchers to fuse the virtual sound sources seamlessly with real sound\u201d [28].",
+            "startOffset": 24821,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 41341,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "The outliers shown are the measurements recorded with the virtual car present (see results in Section 4.1).",
+            "startOffset": 41234,
+            "title": "Results"
+        },
+        {
+            "endOffset": 48966,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "At present, all objects are stationary point sources.",
+            "startOffset": 48913,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 27172,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 27113,
+                    "startOffset": 27108
+                },
+                "b0040": {
+                    "endOffset": 27113,
+                    "startOffset": 27108
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Recent research into soundscape perception [7,8] has used three main groups of environmental sound sources:",
+            "startOffset": 27065,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 21894,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "By contrast, there have been very few apps which use the soundscape approach.",
+            "startOffset": 21817,
+            "title": "Sound monitoring using smartphones"
+        },
+        {
+            "endOffset": 45698,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 45603,
+                    "startOffset": 45599
+                }
+            },
+            "secId": "s0105",
+            "sentence": "In [20] the classifiers are tested on recordings from the same dataset, made using the same equipment.",
+            "startOffset": 45596,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24136,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 23897,
+                    "startOffset": 23893
+                },
+                "b0125": {
+                    "endOffset": 24115,
+                    "startOffset": 24111
+                },
+                "b0130": {
+                    "endOffset": 24135,
+                    "startOffset": 24131
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Apple\u2019s ARKit [24] can track features in the device\u2019s surroundings to enable a smooth AR experience, and is emerging as a viable tool not only for gaming, but also for interior design and measurement applications such as IKEA Place [25] and Housecraft [26].",
+            "startOffset": 23879,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 46840,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "It is possible that if listening tests were conducted, the barrier object might be rated as perceptually more effective in altering the sound scene than is apparent here.",
+            "startOffset": 46670,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36167,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Detection of a real-world horizontal flat surface (usually corresponding to the floor) is necessary before ARKit is able to properly track the environment.",
+            "startOffset": 36012,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 24820,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 24764,
+                    "startOffset": 24758
+                },
+                "b0140": {
+                    "endOffset": 24764,
+                    "startOffset": 24758
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Whilst spatial audio, often used in conjunction with Virtual Reality (VR), is an established delivery format for auralisations of soundscapes [28,8], few studies have been done which incorporate AR audio.",
+            "startOffset": 24616,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 28947,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The usual goal of ASC is for the model to assign a label to incoming audio clips indicating the class of location the clip was recorded in.",
+            "startOffset": 28808,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 49416,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "Like any improvements in feature extraction, however, this would have to take into account the limited processing power available on the device.",
+            "startOffset": 49272,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 30300,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The library was configured to extract 20 MFCC coefficients, covering the frequency range up to approximately 11 kHz.",
+            "startOffset": 30184,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 26414,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The app allows users to place virtual objects, having both a sonic and visual component, into the environment.",
+            "startOffset": 26304,
+            "title": "Aims and objectives"
+        },
+        {
+            "endOffset": 32157,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In this app, these probabilities are reappropriated as ratings for each sound source group, which are displayed to the user.",
+            "startOffset": 32033,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 29239,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0185": {
+                    "endOffset": 29136,
+                    "startOffset": 29132
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Apple\u2019s Core ML library [37] was used to create an object within the app that performs analysis on the audio incoming from the ASH.",
+            "startOffset": 29108,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 41431,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Rowntree Park has the highest value, followed by Shambles Market, and then Tower Gardens.",
+            "startOffset": 41342,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29934,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Since EigenScape features eight examples of each location class, models were trained on six recordings and tested on the remaining two.",
+            "startOffset": 29799,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 30596,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Features were extracted from frames of 2048 samples using rectangular windows with no overlap, resulting in 84,375 training frames for each class.",
+            "startOffset": 30450,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 34491,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "This is achieved by using a stereo low-pass filter (LPF), blending with the dry signal from the ASH mics and panning its output with respect to the angle between the listener and the barrier.",
+            "startOffset": 34300,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 23878,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "On the cutting edge of current smartphone technology is Augmented Reality (AR), whereby virtual objects are superimposed onto a live camera feed of the real world environment.",
+            "startOffset": 23703,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 24482,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The \u2018Transparent Hearing\u2019 mode allows incoming audio to be relayed instantly to the in-ear speakers.",
+            "startOffset": 24382,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 47868,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "On the other hand, since the human ratings are less variable generally than the natural and mechanical ratings, it could be that the classifier is not as effective as those trained to identify natural and mechanical sources.",
+            "startOffset": 47644,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48255,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "Indeed, more robust classifiers might be obtained by including listening test results as part of the training stage.",
+            "startOffset": 48139,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 25270,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 25083,
+                    "startOffset": 25079
+                }
+            },
+            "secId": "s0025",
+            "sentence": "K\u0131nayo\u011flu [29] created a system to test the perceptions of subjects to altered on-location acoustic scenes, replacing local sound with spatial soundscapes created using recordings from other locations.",
+            "startOffset": 25069,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 32502,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In order to implement AR audio as well as visuals, custom objects were required to couple 3D graphics with realistic audio sources using binaural processing.",
+            "startOffset": 32345,
+            "title": "AR audio sources"
+        },
+        {
+            "endOffset": 48403,
+            "parents": [],
+            "refoffsets": {
+                "b0170": {
+                    "endOffset": 48296,
+                    "startOffset": 48292
+                }
+            },
+            "secId": "s0110",
+            "sentence": "This method, explored previously in [34], would perhaps be more robust than re-appropriating a scene classification system, as in the present work.",
+            "startOffset": 48256,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 22816,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 22715,
+                    "startOffset": 22711
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Whilst most previous work using ML in audio focuses on speech recognition or music analysis, the recent series of DCASE (Detection and Classification of Acoustic Scenes and Events) challenges [19] have been the focal points of a large increase in research for using ML to identify everyday sounds.",
+            "startOffset": 22519,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 36258,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Once the plane is detected, a text indicator turns green and the window becomes redundant.",
+            "startOffset": 36168,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 46271,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Addition of \u2018natural\u2019 sources seem to have a very modest effect in increasing natural ratings, and no consistent effect on the mechanical ratings.",
+            "startOffset": 46125,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48647,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 48560,
+                    "startOffset": 48556
+                }
+            },
+            "secId": "s0110",
+            "sentence": "The MFCC features used here are basic, and it is shown in [20] that spatial audio features can outperform them for scene classification applications.",
+            "startOffset": 48498,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 38591,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "These locations, mapped in Fig. 5, were chosen to represent a good variety of urban environments, including busy streets (Bishopthorpe Road, Exhibition Square), pedestrian areas (Shambles Market), more natural areas (Rowntree Park), and locations that combine these characteristics (York Piccadilly, Tower Gardens).",
+            "startOffset": 38276,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 44679,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "Generating the NDSI/pleasantness metric using natural and mechanical ratings produced some plausible results, with values that matched location characteristics well.",
+            "startOffset": 44514,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23677,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This could be more useful for the soundscape approach, but the classifier has not been implemented in any available app.",
+            "startOffset": 23557,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 36751,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Tapping on each icon places the corresponding object into the virtual scene at the position on the detected plane indicated by the crosshairs.",
+            "startOffset": 36609,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 42432,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "The trio of ratings gathered for each scene with no virtual objects present is shown in Fig. 7.",
+            "startOffset": 42337,
+            "title": "Results"
+        },
+        {
+            "endOffset": 38736,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The audio analysis feature was used to record repeated one-minute average ratings at each location with various virtual objects added as follows:",
+            "startOffset": 38591,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 36549,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "These are represented by four icons that show red or green to indicate whether each object is active.",
+            "startOffset": 36448,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 32654,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 32585,
+                    "startOffset": 32581
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Apple\u2019s SceneKit objects have a built in audio player instance for \u201c3D audio\u201d [41], but in testing it was found these use standard stereo panning only.",
+            "startOffset": 32503,
+            "title": "AR audio sources"
+        },
+        {
+            "endOffset": 22947,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 22845,
+                    "startOffset": 22841
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The EigenScape database [20] was created specifically to provide a basis for development of ML techniques for soundscape analysis.",
+            "startOffset": 22817,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 37416,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The binaural audio input from the ASH is filtered by the stereo LPF if the barrier object is active before being mixed with audio from any active virtual sources.",
+            "startOffset": 37254,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 30449,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 30308,
+                    "startOffset": 30304
+                }
+            },
+            "secId": "s0045",
+            "sentence": "In [20], Gaussian Mixture Models are used to classify sound, whilst this work uses Support Vector Classifiers (SVCs) for compatibility with Core ML.",
+            "startOffset": 30301,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 49544,
+            "parents": [],
+            "refoffsets": {
+                "b0240": {
+                    "endOffset": 49543,
+                    "startOffset": 49539
+                }
+            },
+            "secId": "s0110",
+            "sentence": "Perhaps the most exciting future development could be built upon the \u201cpersistent experience\u201d feature introduced in ARKit 2 [48].",
+            "startOffset": 49416,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 32032,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 31952,
+                    "startOffset": 31948
+                }
+            },
+            "secId": "s0045",
+            "sentence": "In [20], the model returning the highest probability is used to generate a scene label.",
+            "startOffset": 31945,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 38940,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "Objects were placed a reasonably realistic distance in front of the listener location - generally between 2 and 4 meters.",
+            "startOffset": 38819,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 46669,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "This is possibly due to MFCCs extracted from lower frequencies providing more discriminative information to the classifiers than those from higher frequencies that are more attenuated by the barrier.",
+            "startOffset": 46470,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31132,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "From these results, the BusyStreet classifier was chosen to provide mechanical ratings, with the Woodland classifier chosen for natural ratings.",
+            "startOffset": 30988,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 48841,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "Spatial features could be derived from the ASH\u2019s binaural input, but since feature extraction must happen on-device in near real-time, processing power could become a bottleneck in this regard.",
+            "startOffset": 48648,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 24616,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This can be blended with audio from the device to create an augmented audio scene in a similar manner to ARKit\u2019s handling of visuals.",
+            "startOffset": 24483,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 40718,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "refoffsets": {
+                "b0225": {
+                    "endOffset": 40623,
+                    "startOffset": 40619
+                }
+            },
+            "secId": "s0090",
+            "sentence": "This rudimentary approach results in unreliable output, though the shortcoming is noted in [45], which states \u201cadvancements are needed to help characterise and search acoustic observations\u201d.",
+            "startOffset": 40528,
+            "title": "NDSI/pleasantness rating"
+        },
+        {
+            "endOffset": 41233,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Fig. 6 shows the NDSI/pleasantness values for each scene.",
+            "startOffset": 41176,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22518,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "There has recently been research into using Machine Learning (ML) techniques to analyse and identify sounds in everyday acoustic environments.",
+            "startOffset": 22376,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 23556,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 23427,
+                    "startOffset": 23423
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Lane et al. [23] created a classifier to run on mobile devices that categorised environmental sound as either music, traffic, voicing or \u2018other\u2019.",
+            "startOffset": 23411,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 29108,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In this work, specific scene classifiers were reappropriated to provide estimates for the prevalence of the human, natural, and mechanical components of scenes.",
+            "startOffset": 28948,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 33053,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Our custom object therefore adds an audio player to the standard SceneKit node object, with the \u2018position\u2019 parameter of the audio set to mirror the visual position of the node.",
+            "startOffset": 32877,
+            "title": "AR audio sources"
+        },
+        {
+            "endOffset": 37602,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "An MFCC feature extractor powered by aubio processes frames of 2048 samples sourced from a tap applied to the main mixer output.",
+            "startOffset": 37474,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 48022,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "The clear next step with this work would be conducting subjective listening tests with real users interacting with the app\u2019s augmented audio.",
+            "startOffset": 47881,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 35554,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "refoffsets": {
+                "b0220": {
+                    "endOffset": 35553,
+                    "startOffset": 35549
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Future versions of this app could incorporate more sophisticated models of barriers and outdoor sound propagation as defined in ISO 9613 [44].",
+            "startOffset": 35412,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 35756,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The main window of SoundscapAR (Fig. 3a) shows the live camera feed and any active virtual objects.",
+            "startOffset": 35657,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 28551,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "It was therefore decided that the app should display ratings for natural, mechanical, and human sounds, which could be used to estimate pleasantness and eventfulness.",
+            "startOffset": 28385,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 33963,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "refoffsets": {
+                "b0210": {
+                    "endOffset": 33962,
+                    "startOffset": 33955
+                },
+                "b0215": {
+                    "endOffset": 33962,
+                    "startOffset": 33955
+                }
+            },
+            "secId": "s0060",
+            "sentence": "The result of this is that the larger the path length difference, the greater the attenuation, with high frequencies attenuated more than low frequencies [42,43].",
+            "startOffset": 33801,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 26557,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "These can be moved and altered by the user, with the augmented scene available for listening and also passed to the ML component for analysis.",
+            "startOffset": 26415,
+            "title": "Aims and objectives"
+        },
+        {
+            "endOffset": 28234,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0165": {
+                    "endOffset": 28233,
+                    "startOffset": 28226
+                },
+                "b0170": {
+                    "endOffset": 28233,
+                    "startOffset": 28226
+                },
+                "b0175": {
+                    "endOffset": 28233,
+                    "startOffset": 28226
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Whilst this taxonomy is no doubt useful for soundecology applications, a great deal of research on human soundscape perception has shown most responses are dependent on two components, sometimes labelled pleasantness, most affected by the natural/mechanical balance, and eventfulness, mainly dependent on the presence of human sounds [33\u201335].",
+            "startOffset": 27892,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 30667,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Fig. 2 shows the performance of the eight models in a confusion matrix.",
+            "startOffset": 30596,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 35411,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "This gives a reasonable illusion of the attenuation of high-frequency sound incoming from a certain direction as the user turns the camera and moves around in the scene.",
+            "startOffset": 35242,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 29379,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0190": {
+                    "endOffset": 29348,
+                    "startOffset": 29344
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Core ML includes a tool that can translate certain models created using the scikit-learn Python library [38] into an iOS-compatible format.",
+            "startOffset": 29240,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 47371,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "This provides some evidence that the natural and mechanical classifiers produce ratings that are somewhat aligned with human perception, though more study would be needed to corroborate this.",
+            "startOffset": 47180,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36608,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "This view also shows crosshairs over the live camera feed.",
+            "startOffset": 36550,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 23123,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "While use of ML on smartphones for speech recognition and music identification is widespread, there have been very few apps designed to conduct environmental sound recognition.",
+            "startOffset": 22947,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 49913,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "This could be a powerful tool for future research and urban planning.",
+            "startOffset": 49844,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 40527,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 40294,
+                    "startOffset": 40287
+                },
+                "b0225": {
+                    "endOffset": 40294,
+                    "startOffset": 40287
+                }
+            },
+            "secId": "s0090",
+            "sentence": "In [32,45], the NDSI value is estimated by finding the ratio between the power spectral density of the 1 kHz - 2 kHz band (said to be more prevalent in mechanical sound) and the 2 kHz - 11 kHz band (said to be more prevalent in natural sound).",
+            "startOffset": 40284,
+            "title": "NDSI/pleasantness rating"
+        },
+        {
+            "endOffset": 30183,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 29942,
+                    "startOffset": 29938
+                },
+                "b0195": {
+                    "endOffset": 29995,
+                    "startOffset": 29991
+                },
+                "b0200": {
+                    "endOffset": 30109,
+                    "startOffset": 30105
+                }
+            },
+            "secId": "s0045",
+            "sentence": "In [20], MFCCs were extracted using the librosa library [39], but since this app requires MFCC features to be extracted on the iOS device in real-time, the aubio library [40] was used as an alternative, as it is compatible with both iOS and Python.",
+            "startOffset": 29935,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 31478,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Choosing a model for human ratings was less simple, as the most obvious classifier \u2013 PedestrianZone \u2013 did not perform accurately.",
+            "startOffset": 31349,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 36343,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The AR objects window is shown in Fig. 3b.",
+            "startOffset": 36301,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 41909,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "Piccadilly has slightly lighter traffic, and values are slightly higher in general.",
+            "startOffset": 41826,
+            "title": "Results"
+        },
+        {
+            "endOffset": 37474,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The main mixer output is then passed to the ASH speakers.",
+            "startOffset": 37417,
+            "title": "Audio flow"
+        },
+        {
+            "endOffset": 31348,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 31347,
+                    "startOffset": 31344
+                }
+            },
+            "secId": "s0045",
+            "sentence": "The prevalence of vehicle sound in the BusyStreet scenes and birdsong in most Woodland scenes make them largely representative of these sound categories, an assumption reinforced by listening tests conducted in [7].",
+            "startOffset": 31133,
+            "title": "Core ML model creation"
+        },
+        {
+            "endOffset": 47643,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "A virtual \u2018conversation\u2019 object might have been more effective in this regard.",
+            "startOffset": 47565,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45387,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "A future version of this app could aim to feature a pleasantness/eventfulness visualisation instead of, or in addition to, the three ratings presented here, though improvements to the human classifier may be required before it can be considered a reliable estimator of eventfulness.",
+            "startOffset": 45105,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39249,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "Using these readings, the classifier\u2019s effectiveness in terms of delivering plausible and useful ratings for each location can be investigated.",
+            "startOffset": 39106,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 22124,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 21917,
+                    "startOffset": 21913
+                }
+            },
+            "secId": "s0015",
+            "sentence": "The Hush City app [12] seeks to \u201cintegrate the soundscape approach with the noise-based one\u201d by creating \u2018quietness\u2019 maps based on sound level measurements in conjunction with a questionnaire that users fill in at test locations.",
+            "startOffset": 21895,
+            "title": "Sound monitoring using smartphones"
+        },
+        {
+            "endOffset": 34071,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In practise, this means that barriers are most effective when placed close to the sound source or receiver.",
+            "startOffset": 33964,
+            "title": "AR acoustic barrier object"
+        },
+        {
+            "endOffset": 36896,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Tapping on the icon again removes the object from the scene.",
+            "startOffset": 36836,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 23410,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "These classes have limited use for the soundscape approach, however, as all environmental sound is conflated in a manner essentially similar to the noise approach.",
+            "startOffset": 23247,
+            "title": "Machine learning for sound monitoring"
+        },
+        {
+            "endOffset": 43093,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "It is unclear whether this is a flaw in the classifier, or whether variation in human sound is smaller than the other categories in the locations investigated.",
+            "startOffset": 42934,
+            "title": "Results"
+        },
+        {
+            "endOffset": 47564,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "This is possibly due to the fact that none of the virtual objects implemented could be considered human sound sources.",
+            "startOffset": 47446,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27475,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Human: Non-mechanical sounds indicative of the presence of humans.",
+            "startOffset": 27409,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 45905,
+            "parents": [
+                {
+                    "id": "s0095",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0235": {
+                    "endOffset": 45856,
+                    "startOffset": 45852
+                }
+            },
+            "secId": "s0105",
+            "sentence": "In this study, however, the classifiers are tested at locations not recorded in EigenScape and using the ASH microphones rather than the Eigenmike array [47] which was used to record the EigenScape dataset.",
+            "startOffset": 45699,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39380,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The effect of adding each virtual object can also be tested, as well as whether adding multiple objects has any cumulative effect.",
+            "startOffset": 39250,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 27891,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0150": {
+                    "endOffset": 27633,
+                    "startOffset": 27626
+                },
+                "b0155": {
+                    "endOffset": 27633,
+                    "startOffset": 27626
+                },
+                "b0160": {
+                    "endOffset": 27633,
+                    "startOffset": 27626
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Some previous work (with origins in soundecology and biodiversity research) [30\u201332] uses an alternative taxonomy, classifying sounds as anthrophony, which broadly speaking groups human and mechanical sounds together, or biophony and geophony, which split natural sounds into those produced by animals and those produced by geological forces.",
+            "startOffset": 27550,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 36011,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The AR status window is visible on startup and indicates whether ARKit has detected a plane.",
+            "startOffset": 35919,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 39105,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "In the multi-object condition, the barrier and the fountain were placed on opposite sides of the listener location, with the bird placed roughly above the listener.",
+            "startOffset": 38941,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 36301,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The user can now proceed to place objects.",
+            "startOffset": 36259,
+            "title": "User interface"
+        },
+        {
+            "endOffset": 24381,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The ASH features microphones built into each earpiece, which can be used to record binaural audio.",
+            "startOffset": 24283,
+            "title": "Augmented reality audio"
+        },
+        {
+            "endOffset": 49843,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "This creates the possibility of conducting AR soundwalks, where virtual objects are placed by a researcher in advance and participants can explore the AR audio environment live.",
+            "startOffset": 49666,
+            "title": "Further work"
+        },
+        {
+            "endOffset": 38275,
+            "parents": [
+                {
+                    "id": "s0080",
+                    "title": "Testing"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "To test the effectiveness of the app for environmental sound monitoring and the effects of the virtual objects, the app was loaded to an iPhone 7 and taken to 6 locations around the city of York in the UK.",
+            "startOffset": 38070,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 28384,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 28383,
+                    "startOffset": 28380
+                }
+            },
+            "secId": "s0040",
+            "sentence": "This is reflected by the use of Valence (positive/negative emotional state) and Arousal (apathetic/excited emotional state) assessment scales in [8].",
+            "startOffset": 28235,
+            "title": "Soundscape taxonomy"
+        },
+        {
+            "endOffset": 27027,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "There are clear applications for this kind of app in soundscape research, but also more broadly in urban planning, where AR could assist with exterior design, or testing proposed alterations of public spaces.",
+            "startOffset": 26819,
+            "title": "Aims and objectives"
+        },
+        {
+            "endOffset": 42574,
+            "parents": [],
+            "secId": "s0095",
+            "sentence": "It can be seen here than the human rating does seem to give some additional information beyond the two poles of the NDSI/pleasantness metric.",
+            "startOffset": 42433,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32876,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0050",
+                    "title": "AR audio implementation"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Apple\u2019s audio framework (AVFoundation) does, however, include an object called the AVAudioEnvironment node, which features an option to use high-quality Head-Related Transfer Function (HRTF) rendering for binaural output.",
+            "startOffset": 32655,
+            "title": "AR audio sources"
+        },
+        {
+            "endOffset": 37815,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "App development"
+                },
+                {
+                    "id": "s0065",
+                    "title": "App structure"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This process is illustrated by the dotted lines in Fig. 4.",
+            "startOffset": 37757,
+            "title": "Audio flow"
+        }
+    ],
+    "docId": "S0003682X19303007",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "marc.c.green@york.ac.uk",
+                "first": "Marc",
+                "initial": "M.",
+                "last": "Green"
+            },
+            {
+                "email": null,
+                "first": "Damian",
+                "initial": "D.",
+                "last": "Murphy"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.107041",
+        "issn": "0003682X",
+        "openaccess": "Full",
+        "pub_year": 2020,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Environmental sound monitoring using machine learning on mobile devices"
+    }
+}

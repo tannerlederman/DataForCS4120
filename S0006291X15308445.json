@@ -1,0 +1,2366 @@
+{
+    "abstract": "Parvin-\u03b2 is an adaptor protein that binds to integrin-linked kinase (ILK) and is significantly downregulated in breast tumors and breast cancer cell lines. We treated the breast cancer cell line MCF7 with 24-methylenecycloartanyl ferulate (24-MCF), a \u03b3-oryzanol compound. We observed upregulation of parvin-\u03b2 (GenBank Accession No. AF237769) and peroxisome proliferator-activated receptor (PPAR)-\u03b32 (GenBank Accession No. NM-015869). Among \u03b3-oryzanol compounds, only treatment with 24-MCF led to the formation of reverse transcription-PCR products of parvin-\u03b2 (650 and 500 bp) and PPAR-\u03b32 (580 bp) in MCF7 cells, but not in T47D, SK-BR-3, or MDA-MB-231 cells. 24-MCF treatment increased the mRNA and protein levels of parvin-\u03b2 in MCF7 cells in a dose-dependent manner. We hypothesized that there is a correlation between parvin-\u03b2 expression and induction of PPAR-\u03b32. This hypothesis was investigated by using a promoter-reporter assay, chromatin immunoprecipitation, and an electrophoretic mobility shift assay. 24-MCF treatment induced binding of PPAR-\u03b32 to a peroxisome proliferator response element-like cis-element (ACTAGGACAAAGGACA) in the parvin-\u03b2 promoter in MCF7 cells in a dose-dependent manner. 24-MCF treatment significantly decreased anchorage-independent growth and inhibited cell movement in comparison to control treatment with dimethyl sulfoxide. 24-MCF treatment reduced the levels of GTP-bound Rac1 and Cdc42. Evaluation of Akt1 inhibition by 24-MCF revealed that the half maximal effective concentration was 33.3 \u03bcM. Docking evaluations revealed that 24-MCF binds to the ATP-binding site of Akt1(PDB ID: 3OCB) and the compound binding energy is -8.870 kcal/mol. Taken together, our results indicate that 24-MCF treatment increases parvin-\u03b2 expression, which may inhibit ILK downstream signaling.",
+    "author_highlights": [
+        {
+            "endOffset": 14897,
+            "sentence": "Treatment with 24-MCF increases gene expression of parvin-\u03b2 and PPAR-\u03d22 in MCF7 cells.",
+            "startOffset": 14811
+        },
+        {
+            "endOffset": 15005,
+            "sentence": "PPAR-\u03d22 interacts with the parvin-\u03b2 gene via its peroxisome proliferator response element-like cis-element.",
+            "startOffset": 14898
+        },
+        {
+            "endOffset": 15073,
+            "sentence": "24-MCF treatment inhibits anchorage-dependent growth of MCF7 cells.",
+            "startOffset": 15006
+        },
+        {
+            "endOffset": 15150,
+            "sentence": "24-MCF treatment inhibits MCF7 cell migration and Rac1 and Cdc42 activation.",
+            "startOffset": 15074
+        },
+        {
+            "endOffset": 15245,
+            "sentence": "24-MCF may be a new ATP-competitive Akt1 inhibitor that binds to the ATP-binding site of Akt1.",
+            "startOffset": 15151
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Cimona V.",
+                    "initial": "C.V.",
+                    "last": "Hinton"
+                },
+                {
+                    "first": "Shalom",
+                    "initial": "S.",
+                    "last": "Avraham"
+                },
+                {
+                    "first": "Hava Karsenty",
+                    "initial": "H.K.",
+                    "last": "Avraham"
+                }
+            ],
+            "doi": "10.1111/j.1582-4934.2008.00300.x",
+            "firstpage": "1517",
+            "issn": "15821838",
+            "lastpage": "1526",
+            "pmid": "18363848",
+            "pub_year": 2008,
+            "title": "Contributions of integrin-linked kinase to breast cancer metastasis and tumourigenesis",
+            "volume": "12"
+        },
+        "bib10": null,
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Bruce A.",
+                    "initial": "B.A.",
+                    "last": "Hug"
+                },
+                {
+                    "first": "Nazia",
+                    "initial": "N.",
+                    "last": "Ahmed"
+                },
+                {
+                    "first": "Jonathan A.",
+                    "initial": "J.A.",
+                    "last": "Robbins"
+                },
+                {
+                    "first": "Mitchell A.",
+                    "initial": "M.A.",
+                    "last": "Lazar"
+                }
+            ],
+            "doi": "10.1074/jbc.M309524200",
+            "firstpage": "825",
+            "issn": "00219258",
+            "lastpage": "830",
+            "pmid": "14561740",
+            "pub_year": 2004,
+            "title": "A Chromatin Immunoprecipitation Screen Reveals Protein Kinase C\u03b2 as a Direct RUNX1 Target Gene",
+            "volume": "279"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "V.",
+                    "initial": "V.",
+                    "last": "Benard"
+                },
+                {
+                    "first": "G. M.",
+                    "initial": "G.M.",
+                    "last": "Bokoch"
+                }
+            ],
+            "doi": "10.1016/S0076-6879(02)45028-8",
+            "firstpage": "349",
+            "issn": "00766879",
+            "lastpage": "359",
+            "pmid": "11665618",
+            "pub_year": 2002,
+            "title": "Assay of Cdc42, Rac, and Rho GTPase activation by affinity methods",
+            "volume": "345"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Galina",
+                    "initial": "G.",
+                    "last": "Radeva"
+                },
+                {
+                    "first": "Teresa",
+                    "initial": "T.",
+                    "last": "Petrocelli"
+                },
+                {
+                    "first": "Elke",
+                    "initial": "E.",
+                    "last": "Behrend"
+                },
+                {
+                    "first": "Chungyee",
+                    "initial": "C.",
+                    "last": "Leung-Hagesteijn"
+                },
+                {
+                    "first": "Jorge",
+                    "initial": "J.",
+                    "last": "Filmus"
+                },
+                {
+                    "first": "Joyce",
+                    "initial": "J.",
+                    "last": "Slingerland"
+                },
+                {
+                    "first": "Shoukat",
+                    "initial": "S.",
+                    "last": "Dedhar"
+                }
+            ],
+            "doi": "10.1074/jbc.272.21.13937",
+            "firstpage": "13937",
+            "issn": "00219258",
+            "lastpage": "13944",
+            "pmid": "9153256",
+            "pub_year": 1997,
+            "title": "Overexpression of the integrin-linked kinase promotes anchorage- independent cell cycle progression",
+            "volume": "272"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Yijun",
+                    "initial": "Y.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Chao",
+                    "initial": "C.",
+                    "last": "Qi"
+                },
+                {
+                    "first": "Julie R.",
+                    "initial": "J.R.",
+                    "last": "Korenberg"
+                },
+                {
+                    "first": "Xiao Ning",
+                    "initial": "X.N.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Noya"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Sambasiva Rao"
+                },
+                {
+                    "first": "Janardan K.",
+                    "initial": "J.K.",
+                    "last": "Reddy"
+                }
+            ],
+            "doi": "10.1073/pnas.92.17.7921",
+            "firstpage": "7921",
+            "issn": "00278424",
+            "lastpage": "7925",
+            "pmid": "7644514",
+            "pub_year": 1995,
+            "title": "Structural organization of mouse peroxisome proliferator-activated receptor \u03b3 (mPPAR\u03b3) gene: Alternative promoter use and different splicing yield two mPPAR\u03b3 isoforms",
+            "volume": "92"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "W. T.",
+                    "initial": "W.T.",
+                    "last": "Arthur"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Burridge"
+                }
+            ],
+            "doi": "10.1091/mbc.12.9.2711",
+            "firstpage": "2711",
+            "issn": "10591524",
+            "lastpage": "2720",
+            "pmid": "11553710",
+            "pub_year": 2001,
+            "title": "RhoA inactivation by p190RhoGAP regulates cell spreading and migration by promoting membrane protrusion and polarity",
+            "volume": "12"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Paul C.",
+                    "initial": "P.C.",
+                    "last": "McDonald"
+                },
+                {
+                    "first": "Andrew B.",
+                    "initial": "A.B.",
+                    "last": "Fielding"
+                },
+                {
+                    "first": "Shoukat",
+                    "initial": "S.",
+                    "last": "Dedhar"
+                }
+            ],
+            "doi": "10.1242/jcs.017996",
+            "firstpage": "3121",
+            "issn": "00219533",
+            "lastpage": "3132",
+            "pmid": "18799788",
+            "pub_year": 2008,
+            "title": "Integrin-linked kinase - Essential roles in physiology and cancer biology",
+            "volume": "121"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "C. F.",
+                    "initial": "C.F.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "K. F.",
+                    "initial": "K.F.",
+                    "last": "Ng"
+                },
+                {
+                    "first": "C. S.",
+                    "initial": "C.S.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "P. L.",
+                    "initial": "P.L.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "C. K.",
+                    "initial": "C.K.",
+                    "last": "Chuang"
+                },
+                {
+                    "first": "W. H.",
+                    "initial": "W.H.",
+                    "last": "Weng"
+                },
+                {
+                    "first": "S. K.",
+                    "initial": "S.K.",
+                    "last": "Liao"
+                },
+                {
+                    "first": "S. T.",
+                    "initial": "S.T.",
+                    "last": "Pang"
+                }
+            ],
+            "doi": "10.1038/sj.bjc.6605835",
+            "firstpage": "852",
+            "issn": "00070920",
+            "lastpage": "860",
+            "pmid": "20736946",
+            "pub_year": 2010,
+            "title": "Expression of parvin-\u0392 is a prognostic factor for patients with urothelial cell carcinoma of the upper urinary tract",
+            "volume": "103"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Nolan R.",
+                    "initial": "N.R.",
+                    "last": "Filipenko"
+                },
+                {
+                    "first": "Sarah",
+                    "initial": "S.",
+                    "last": "Attwell"
+                },
+                {
+                    "first": "Calvin",
+                    "initial": "C.",
+                    "last": "Roskelley"
+                },
+                {
+                    "first": "Shoukat",
+                    "initial": "S.",
+                    "last": "Dedhar"
+                }
+            ],
+            "doi": "10.1038/sj.onc.1208737",
+            "firstpage": "5837",
+            "issn": "09509232",
+            "lastpage": "5849",
+            "pmid": "15897874",
+            "pub_year": 2005,
+            "title": "Integrin-linked kinase activity regulates Rac- and Cdc42-mediated actin cytoskeleton reorganization via \u03b1-PIX",
+            "volume": "24"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Perry S.",
+                    "initial": "P.S.",
+                    "last": "Mongroo"
+                },
+                {
+                    "first": "Cameron N.",
+                    "initial": "C.N.",
+                    "last": "Johnstone"
+                },
+                {
+                    "first": "Izabela",
+                    "initial": "I.",
+                    "last": "Naruszewicz"
+                },
+                {
+                    "first": "Chungyee",
+                    "initial": "C.",
+                    "last": "Leung-Hagesteijn"
+                },
+                {
+                    "first": "Raphael K.",
+                    "initial": "R.K.",
+                    "last": "Sung"
+                },
+                {
+                    "first": "Leanne",
+                    "initial": "L.",
+                    "last": "Carnio"
+                },
+                {
+                    "first": "Anil K.",
+                    "initial": "A.K.",
+                    "last": "Rustgi"
+                },
+                {
+                    "first": "Gregory E.",
+                    "initial": "G.E.",
+                    "last": "Hannigan"
+                }
+            ],
+            "doi": "10.1038/sj.onc.1208112",
+            "firstpage": "8959",
+            "issn": "09509232",
+            "lastpage": "8970",
+            "pmid": "15467740",
+            "pub_year": 2004,
+            "title": "\u03b2-parvin inhibits integrin-linked kinase signaling and is downregulated in breast cancer",
+            "volume": "23"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Dos D.",
+                    "initial": "D.D.",
+                    "last": "Sarbassov"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Guertin"
+                },
+                {
+                    "first": "Siraj M.",
+                    "initial": "S.M.",
+                    "last": "Ali"
+                },
+                {
+                    "first": "David M.",
+                    "initial": "D.M.",
+                    "last": "Sabatini"
+                }
+            ],
+            "doi": "10.1126/science.1106148",
+            "firstpage": "1098",
+            "issn": "00368075",
+            "lastpage": "1101",
+            "pmid": "15718470",
+            "pub_year": 2005,
+            "title": "Phosphorylation and regulation of Akt/PKB by the rictor-mTOR complex",
+            "volume": "307"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Yongjun",
+                    "initial": "Y.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Ka",
+                    "initial": "K.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Lida",
+                    "initial": "L.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Chuanyue",
+                    "initial": "C.",
+                    "last": "Wu"
+                }
+            ],
+            "doi": "10.1074/jbc.M205576200",
+            "firstpage": "38328",
+            "issn": "00219258",
+            "lastpage": "38338",
+            "pmid": "12167643",
+            "pub_year": 2002,
+            "title": "Characterization of PINCH-2, a new focal adhesion protein that regulates the PINCH-1-ILK interaction, cell spreading, and migration",
+            "volume": "277"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Nigel",
+                    "initial": "N.",
+                    "last": "Carter"
+                },
+                {
+                    "first": "Tetsuya",
+                    "initial": "T.",
+                    "last": "Nakamoto"
+                },
+                {
+                    "first": "Hisamaru",
+                    "initial": "H.",
+                    "last": "Hirai"
+                },
+                {
+                    "first": "Tony",
+                    "initial": "T.",
+                    "last": "Hunter"
+                }
+            ],
+            "doi": "10.1038/ncb823",
+            "firstpage": "565",
+            "issn": "14657392",
+            "lastpage": "573",
+            "pmid": "12134157",
+            "pub_year": 2002,
+            "title": "EphrinA1-induced cytoskeletal re-organization requires FAK and p130cas",
+            "volume": "4"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Yingjian",
+                    "initial": "Y.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Chunsun",
+                    "initial": "C.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Chuanyue",
+                    "initial": "C.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Youhua",
+                    "initial": "Y.",
+                    "last": "Liu"
+                }
+            ],
+            "doi": "10.1681/ASN.2007030315",
+            "firstpage": "2534",
+            "issn": "10466673",
+            "lastpage": "2543",
+            "pmid": "17656471",
+            "pub_year": 2007,
+            "title": "PINCH-1 promotes tubular epithelial-to-mesenchymal transition by interacting with integrin-linked kinase",
+            "volume": "18"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Meera",
+                    "initial": "M.",
+                    "last": "Penumetcha"
+                },
+                {
+                    "first": "Nalini",
+                    "initial": "N.",
+                    "last": "Santanam"
+                }
+            ],
+            "doi": "10.1155/2012/858352",
+            "issn": "16874757",
+            "pub_year": 2012,
+            "title": "Nutraceuticals as ligands of PPAR\u03b3"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Liliane",
+                    "initial": "L.",
+                    "last": "Michalik"
+                },
+                {
+                    "first": "Walter",
+                    "initial": "W.",
+                    "last": "Wahli"
+                }
+            ],
+            "doi": "10.1172/JCI27958",
+            "firstpage": "598",
+            "issn": "00219738",
+            "lastpage": "606",
+            "pmid": "16511592",
+            "pub_year": 2006,
+            "title": "Involvement of PPAR nuclear receptors in tissue injury and wound repair",
+            "volume": "116"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Geoffrey D.",
+                    "initial": "G.D.",
+                    "last": "Girnun"
+                },
+                {
+                    "first": "Frederick E.",
+                    "initial": "F.E.",
+                    "last": "Domann"
+                },
+                {
+                    "first": "Steven A.",
+                    "initial": "S.A.",
+                    "last": "Moore"
+                },
+                {
+                    "first": "Mike E.C.",
+                    "initial": "M.E.C.",
+                    "last": "Robbins"
+                }
+            ],
+            "doi": "10.1210/me.2002-0020",
+            "firstpage": "2793",
+            "issn": "08888809",
+            "lastpage": "2801",
+            "pmid": "12456800",
+            "pub_year": 2002,
+            "title": "Identification of a functional peroxisome proliferator-activated receptor response element in the rat catalase promoter",
+            "volume": "16"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 15961,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15960,
+                    "startOffset": 15955
+                },
+                "bib2": {
+                    "endOffset": 15960,
+                    "startOffset": 15955
+                },
+                "bib3": {
+                    "endOffset": 15960,
+                    "startOffset": 15955
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Integrin-linked kinase (ILK) overexpression is a hallmark of several solid tumors [1\u20133].",
+            "startOffset": 15873,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16120,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 16119,
+                    "startOffset": 16114
+                },
+                "bib5": {
+                    "endOffset": 16119,
+                    "startOffset": 16114
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Recent experiments suggest that deregulation of ILK signaling can affect anchorage-independent cell growth, cell survival, and oncogenic transformation [4,5].",
+            "startOffset": 15962,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17592,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17591,
+                    "startOffset": 17587
+                }
+            },
+            "secId": "sec1",
+            "sentence": "24-methylenecycloartanyl ferulate (24-MCF), a gamma-oryzanol (\u03b3-oryzanol) compound, is a non-toxic dietary compound that reduces the risks of cancer, hyperlipidemia, and plasma cholesterol [10].",
+            "startOffset": 17398,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20721,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The amplified PCR products were separated on a 2.0% agarose gel and visualized using ethidium bromide (Sigma, St. Louis, Mo).",
+            "startOffset": 20596,
+            "title": "Reverse transcription (RT)-PCR"
+        },
+        {
+            "endOffset": 30341,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Therefore, we investigated whether 24-MCF treatment inhibited the anchorage-independent survival of MCF7 cells.",
+            "startOffset": 30230,
+            "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+        },
+        {
+            "endOffset": 29026,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 29025,
+                    "startOffset": 29021
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Wound healing assays are models of in vitro cell movement required to facilitate wound closure [13].",
+            "startOffset": 28926,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 18427,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Total RNA was extracted from breast cancer cell lines using TRI-RNA reagent (Favorgen, Taiwan) following the manufacturer's instructions.",
+            "startOffset": 18290,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 28176,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These results indicate that PPAR-\u03b32 is associated with parvin-\u03b2 expression in MCF7 cells.",
+            "startOffset": 28087,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 19159,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Antibodies were purchased as indicated: vs parvin-\u03b2 (Santa Cruz Biotechnology, Santa Cruz, CA); Rac1 and Cdc42 (Abcam, Cambridge, MA) and Flag M2 and Anti-Flag M2 affinity gel (Sigma, St. Louis, Mo).",
+            "startOffset": 18960,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 19955,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "MCF7, MDA-MB-231, SK-BR-3, and MCF-10A cells were treated with 24-MCF in a dose-dependent manner and incubated for 24 h. Cell viability was measured at 490 nm using a xMark Microplate Absorbance Spectrometer (Bio-Rad, Philadelphia, PA).",
+            "startOffset": 19719,
+            "title": "Cell culture and cell viability"
+        },
+        {
+            "endOffset": 20595,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The PCR products were generated using AccurPower PCR Mix (Bioneer, Korea) and the following primers: parvin-\u03b2, 5\u2032-TGTGAAGCAGCTGGAGGAAG-3\u2032 and 5\u2032-AAGTGCAT GGCCAGAGAGAC-3\u2032; PPAR-\u03b31, 5\u2032-TCTCTCCGTAATGGAAGACC-3\u2032 and 5\u2032-GCATTAT GAGACATCCCCAC-3\u2032; PPAR-\u03b32, 5\u2032-GCGATTCCTTCACTGATAC-3\u2032 and 5\u2032-GCATTAT GAGACATCCCCAC-3\u2032.",
+            "startOffset": 20288,
+            "title": "Reverse transcription (RT)-PCR"
+        },
+        {
+            "endOffset": 31756,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we first demonstrated that expression of parvin-\u03b2 and PPAR-\u03b32, but not PPAR-\u03b31, was significantly increased in MCF7 cells treated with 24-MCF, but not in T47D, SK-BR-3, MDA-MB-231 cells.",
+            "startOffset": 31555,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21533,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 21532,
+                    "startOffset": 21528
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "The ChIP assay was modified from a previously described strategy [11].",
+            "startOffset": 21463,
+            "title": "Chromatin immunoprecipitation (ChIP) assay"
+        },
+        {
+            "endOffset": 30476,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "24-MCF treatment significantly attenuated the transformed phenotype of MCF7 cells, in comparison to cells treated with DMSO (Fig. 3C).",
+            "startOffset": 30342,
+            "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+        },
+        {
+            "endOffset": 33968,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 33967,
+                    "startOffset": 33963
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Cell migration is regulated in a Rho family GTPase-dependent by growth factor and integrin-mediated cell-extracellular (ECM) interactions [15].",
+            "startOffset": 33825,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27725,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 27724,
+                    "startOffset": 27720
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Second, we investigated whether PPAR-\u03b32 can bind to the parvin-\u03b2 promoter, which contains PPRE-like cis-elements, by performing a modified ChIP-PCR assay [11].",
+            "startOffset": 27566,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 30722,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "Z\u2032-LYTE\u2122 Ser/Thr 6 peptide phosphorylation can directly reflect Akt1 kinase activity.",
+            "startOffset": 30637,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 23849,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Rac1 and Cdc42 proteins were eluted with sample buffer and run on a 4\u201312% NuPAGE gel (Invitrogen, San Diego, CA).",
+            "startOffset": 23736,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 33345,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Taken together, these results suggest that the PPRE-like cis-element in the parvin-\u03b2 promoter is responsible for upregulation of parvin-\u03b2 through recruitment of PPAR-\u03b32 upon 24-MCF treatment.",
+            "startOffset": 33154,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21934,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Immunoprecipitated samples were prepared for PCR and analyzed using the following primers targeting the parvin-\u03b2 promoter: forward, 5\u2032-GAGAGCTCAGAGAGCAAAGA-3\u2032 and reverse, 5\u2032-GAGAGCACCGCAGATTCACG-3\u2032.",
+            "startOffset": 21735,
+            "title": "Chromatin immunoprecipitation (ChIP) assay"
+        },
+        {
+            "endOffset": 26708,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We performed a MTT assay to examine the possibility that the increase in parvin-\u03b2 and PPAR-\u03b32 expression was due to the stimulation of cell viability.",
+            "startOffset": 26558,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 29841,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "24-MCF treatment decreased the levels of active GTP-bound Rac1 and Cdc42 in comparison to the total levels of these proteins (Fig. 3B).",
+            "startOffset": 29706,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 18821,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The 1.05 kb fragment with XhoI and HindIII site was ligated into the equivalent site of pGL3-basic, a promoter-less firefly luciferase reporter vector.",
+            "startOffset": 18670,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 22845,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "For the competition assay, a 100-fold excess of unlabeled PPRE-like cis-element was used along with biotin end-labeled PPRE-like sequence probes.",
+            "startOffset": 22700,
+            "title": "Electrophoretic mobility shift assay (EMSA)"
+        },
+        {
+            "endOffset": 28292,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Third, we examined whether parvin-\u03b2 transactivation was induced by PPAR-\u03b32 expression dependent on 24-MCF treatment.",
+            "startOffset": 28176,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 16761,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the biochemical functions of parvin-\u03b2 remain unclear.",
+            "startOffset": 16699,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24609,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Colonies containing more than eight cells were counted under a microscope.",
+            "startOffset": 24535,
+            "title": "Anchorage-independent growth assay"
+        },
+        {
+            "endOffset": 28086,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "No enrichment was observed with the control or 3XFLAG-PPAR-\u03b31 (Fig. 2B).",
+            "startOffset": 28014,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 33153,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A ChIP assay revealed that PPAR-\u03b32, but not PPAR-\u03b31, bound directly to the parvin-\u03b2 promoter.",
+            "startOffset": 33060,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21734,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Chromatin was prepared from MCF7 cells that had been transiently transfected with 3XFLAG-vector, 3XFLAG-PPAR-\u03b31 and 3XFLAG-PPAR-\u03b32 using the Lipofectamine LTX Plus Reagent (Invitrogen, San Diego, CA).",
+            "startOffset": 21534,
+            "title": "Chromatin immunoprecipitation (ChIP) assay"
+        },
+        {
+            "endOffset": 29316,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "A scratch wound was created in the MCF7 cell monolayer using a pipette tip, and cell movement was monitored by microscopy.",
+            "startOffset": 29194,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 23657,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Glutathione S-transferase (GST)-PAK fusion proteins on GST beads (GE Healthcare, Pittsburgh, PA) were added to the supernatant in order to pulldown active Rac1 and Cdc42 proteins, followed by incubation at 4 \u00b0C for 30 min.",
+            "startOffset": 23435,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 34116,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "To explore negative regulation of cell migration upon 24-MCF treatment, we determined the amounts of active Rac1 and Cdc42 by a GST pulldown assay.",
+            "startOffset": 33969,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35325,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "24-MCF, a new potential ATP-competitive Akt1 inhibitor, binds to the ATP-binding site of the Akt1 kinase (PDB ID: 3OCB).",
+            "startOffset": 35205,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32170,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Only PPAR-\u03b32 mRNA expression was increased in MCF7 cells treated with 24-MCF.",
+            "startOffset": 32093,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32489,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Instead, 24-MCF treatment may turn on parvin-\u03b2 expression in MCF7 breast cancer cells.",
+            "startOffset": 32403,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17822,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Using a cDNA microarray we found that parvin-\u03b2 and PPAR-\u03b32 expression were increased by 24-MCF treatment in the breast cancer cell line MCF7 (data not shown).",
+            "startOffset": 17664,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25594,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "A value of p < 0.05 was considered to be statistically significant.",
+            "startOffset": 25527,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 29193,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To explore inhibition of MCF7 cell migration by 24-MCF treatment, we cultured MCF7 cells in 12-well plates in complete DMEM and then DMEM containing 2% FBS overnight.",
+            "startOffset": 29027,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 32948,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "24-MCF treatment increased the amount of this specific DNA-protein complex in a dose-dependent manner in MCF7 nuclear extracts.",
+            "startOffset": 32821,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33059,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, there was specific competition between this complex and the non-biotin-labeled PPRE-like cis-element.",
+            "startOffset": 32949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34554,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The effects of 24-MCF are observed at high concentrations (25\u2013100 \u03bcM), which is far higher than one would accept for a pharmacological lead compound, indicating that non-specific interactions might occur.",
+            "startOffset": 34350,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23240,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "A scratch wound was made using a pipette tip.",
+            "startOffset": 23195,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 22699,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The mixture was incubated on ice for 30 min and at room temperature for 30 min.",
+            "startOffset": 22620,
+            "title": "Electrophoretic mobility shift assay (EMSA)"
+        },
+        {
+            "endOffset": 23383,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 23382,
+                    "startOffset": 23378
+                }
+            },
+            "secId": "sec2.7",
+            "sentence": "The Rac1 and Cdc42 assay was modified from a previously described strategy [12].",
+            "startOffset": 23303,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 20147,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Total RNA was isolated using the TRI-RNA reagent (Favorgen, Taiwan) according to the manufacturer's instructions.",
+            "startOffset": 20034,
+            "title": "Reverse transcription (RT)-PCR"
+        },
+        {
+            "endOffset": 29705,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We used beads coated with GST-PBD (PAK1 p21-binding domain) to pulldown active Rac1 and Cdc42 from the lysates of 24-MCF-treated cells.",
+            "startOffset": 29570,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 28013,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Only 3XFLAG-PPAR-\u03b32 enriched the PPRE-like cis-element (5\u2032-ACTAGGAC AAAGGACA-3\u2032) in the parvin-\u03b2 promoter (Fig. 2B).",
+            "startOffset": 27897,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 31408,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "The predicted binding model showed that these interactions are hydrophobic (Red) and hydrogen (Orange).",
+            "startOffset": 31305,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 19718,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Briefly, 1 \u00d7 104 cells were seeded in triplicate in 96-well plates.",
+            "startOffset": 19651,
+            "title": "Cell culture and cell viability"
+        },
+        {
+            "endOffset": 24386,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "MCF7 cells treated with 24-MCF were harvested, pipetted to generate a single-cell suspension in DMEM (HyClone, Logan, UT) supplemented with 10% FBS at a density of 1 \u00d7 104 cells/ml, and layered over 7 ml of 0.35% DMEM agar containing 10% FBS in a 35-mm tissue culture dish.",
+            "startOffset": 24113,
+            "title": "Anchorage-independent growth assay"
+        },
+        {
+            "endOffset": 32820,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "EMSA experiments revealed that PPAR-\u03b32 can bind to a PPRE-like cis-element in the parvin-\u03b2 promoter.",
+            "startOffset": 32720,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20001,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "All experiments were performed in triplicate.",
+            "startOffset": 19956,
+            "title": "Cell culture and cell viability"
+        },
+        {
+            "endOffset": 17664,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, its precise molecular mechanism has not been fully elucidated.",
+            "startOffset": 17593,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25526,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.11",
+            "sentence": "All data was evaluated by One-way Analysis of Variance (ANOVA).",
+            "startOffset": 25463,
+            "title": "Statistical analyses"
+        },
+        {
+            "endOffset": 18038,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study, we aimed to investigate whether a PPRE-like cis-element in the parvin-\u03b2 promoter was involved in the upregulation of parvin-\u03b2 and whether this upregulation can inhibit ILK downstream signaling.",
+            "startOffset": 17823,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16698,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 16697,
+                    "startOffset": 16694
+                },
+                "bib2": {
+                    "endOffset": 16569,
+                    "startOffset": 16566
+                }
+            },
+            "secId": "sec1",
+            "sentence": "It was reported in recent studies that parvin-\u03b2 expression is significantly downregulated in a number of breast cancer tumors [2], which correlates with the upregulation of ILK signaling [1], suggesting that parvin-\u03b2 can suppress oncogenic ILK signaling [1].",
+            "startOffset": 16440,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27268,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This promoter contains PPRE-like cis-elements, which regulate its expression, in the PPAR-\u03b32-binding site located between \u2212570 and \u2212586 bp in the 5\u2032 flanking sequence.",
+            "startOffset": 27101,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 23735,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The beads were washed three times with 1 ml of the buffer used to lyse cells.",
+            "startOffset": 23658,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 22152,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "PCR products were detected on a 2% agarose gel.",
+            "startOffset": 22105,
+            "title": "Chromatin immunoprecipitation (ChIP) assay"
+        },
+        {
+            "endOffset": 23302,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "DMEM was replaced and wounds were photographed at 0 and 24 h.",
+            "startOffset": 23241,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 30885,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "These effects were evaluated in the presence of 10 \u03bcM ATP.",
+            "startOffset": 30827,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 28845,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "However, there was competition between the complex and the non-biotin-labeled PPRE-like cis-element probe (Fig. 2C), indicating 24-MCF responsiveness of the conserved PPRE-like cis-element of the parvin-\u03b2 promoter.",
+            "startOffset": 28631,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 31825,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The potential to regulate PPAR-\u03b3 gene expression in vivo is unknown.",
+            "startOffset": 31757,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18289,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The rice bran compounds ferulic acid (FA), cycloartenyl ferulate (CAF), 24-methylenecycloartanyl ferulate (24-MCF), and campesteryl ferulate (CSF) were provided by the National Academy of Agricultural Science (Korea).",
+            "startOffset": 18072,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 25352,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Docking simulation was performed ten times with ten models (representing ten conformations) and an energy range of 4.",
+            "startOffset": 25235,
+            "title": "Docking study"
+        },
+        {
+            "endOffset": 24534,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The cells were cultured at 37 \u00b0C in 5% CO2 for 21 days and stained with 0.04% crystal violet (Sigma, St. Louis, Mo) and 2% ethanol prepared in PBS.",
+            "startOffset": 24387,
+            "title": "Anchorage-independent growth assay"
+        },
+        {
+            "endOffset": 25958,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The increase in the mRNA level of parvin-\u03b2 appeared to correlate with regulation of PPAR-\u03b32 in MCF7 cells.",
+            "startOffset": 25852,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 18959,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Full-length human PPAR-\u03b31 (Accession No. NM_138712) and PPAR-\u03b32 (Accession No. NM_015869) were subcloned into the p3XFLAG-CMV 7.1 vector.",
+            "startOffset": 18822,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 28517,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "We investigated this by performing the EMSA using a MCF7 nuclear extract, PPAR-\u03b32-induced by 24-MCF treatment (Fig. 1A) and a biotin-labeled parvin-\u03b2 probe, which contained the PPRE-like cis-element of the parvin-\u03b2 promoter.",
+            "startOffset": 28293,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 16983,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 16982,
+                    "startOffset": 16979
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In recent years, specific dietary compounds (dietary lipids, isoflavones, and other flavonoids) have been the focus of scientific interest because they transactivate peroxisome proliferator-activated receptors (PPARs) [7].",
+            "startOffset": 16761,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22381,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Nuclear extracts were prepared from MCF7 cells using a NE-PER Nuclear and Cytoplasmic Extraction Reagents kit (ThermoFisher, Waltham, MA) according to the manufacturer's instructions.",
+            "startOffset": 22198,
+            "title": "Electrophoretic mobility shift assay (EMSA)"
+        },
+        {
+            "endOffset": 31544,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "The hydrogen-donor forms an interaction with Glu191, and hydrophobic interactions form with Val164, His194, Phe161, and Asp292 in Akt1.",
+            "startOffset": 31409,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 16311,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 16310,
+                    "startOffset": 16307
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Complexes such as that of the adaptor protein PINCH (Particularly Interesting Cys-His-rich protein) and parvin-\u03b2 are important regulators of integrin-mediated signaling in breast cancer [1].",
+            "startOffset": 16121,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22619,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "For the EMSA, 5 \u03bcg of nuclear extracts by 24-MCF treatment and biotin end-labeled PPRE-like cis-element (5\u2032-ACTAGGACAAAGGACA-3\u2032) probes were directly added to binding buffer (0.01 M phosphate buffer, pH 7.5, 0.15 M NaCl, and 2.7 mM KCl).",
+            "startOffset": 22382,
+            "title": "Electrophoretic mobility shift assay (EMSA)"
+        },
+        {
+            "endOffset": 29569,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Next, we determined whether the effects of 24-MCF treatment are related to the GTPases Rac1 and Cdc42.",
+            "startOffset": 29467,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 27366,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "First, we tested whether activation of the parvin-\u03b2 promoter was regulated upon 24-MCF treatment.",
+            "startOffset": 27269,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 31000,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "A dose-response curve was plotted, and the EC50 of 24-MCF for Akt1 kinase inhibition was calculated to be 33.3 \u03bcM.",
+            "startOffset": 30886,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 17398,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 17397,
+                    "startOffset": 17394
+                }
+            },
+            "secId": "sec1",
+            "sentence": "PPREs are present in the promoters of target genes and underlie the transactivation and transrepression of various genes [8].",
+            "startOffset": 17273,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27100,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To evaluate whether PPAR-\u03b32 induces parvin-\u03b2 expression, we examined the promoter of the parvin-\u03b2 gene.",
+            "startOffset": 26997,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 32230,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, this correlation was not linked to cell viability.",
+            "startOffset": 32171,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23957,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Blots were probed with anti-Rac1 and anti-Cdc42 antibodies to quantify the levels of the activated GTPases.",
+            "startOffset": 23850,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 21082,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cells at 70\u201380% confluency were treated with 24-MCF for 24 h. Cells were washed twice with ice-cold phosphate-buffered saline (PBS) and lysed on ice for 30 min in RIPA buffer (Cell Signaling, Danvers, MA) containing 1 \u00d7 protease inhibitor cocktail reagent (ThermoFisher, Waltham, MA) and 1 \u00d7 phosphatase inhibitor (Sigma, St. Louis, Mo).",
+            "startOffset": 20745,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 24076,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Protein bands were visualized with an enhanced chemiluminescence reagent (Amersham Pharmacia Biotech, Piscataway, NJ).",
+            "startOffset": 23958,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 33824,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 33823,
+                    "startOffset": 33817
+                },
+                "bib2": {
+                    "endOffset": 33823,
+                    "startOffset": 33817
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These results are similar to previous reports that the overexpression of parvin-\u03b2 suppresses colony formation of both MDA-MD-231 and MCF7 cell lines [2] but do not affect the intrinsic proliferative capacity [2,12].",
+            "startOffset": 33609,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30636,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "We evaluated whether 24-MCF could inhibit Akt1 kinase activity in a cell-free system, using Z\u2032-LYTE\u2122 Ser/Thr 6 peptide.",
+            "startOffset": 30517,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 30229,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 30179,
+                    "startOffset": 30176
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "These results suggest that there is an inverse relationship between parvin-\u03b2 expression and ILK signaling [1], indicating that parvin-\u03b2 inhibits ILK signaling.",
+            "startOffset": 30070,
+            "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+        },
+        {
+            "endOffset": 33513,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Next, we investigated whether the increase in parvin-\u03b2 expression upon 24-MCF treatment changes the phenotype of MCF7 cells using an anchorage-independent growth assay.",
+            "startOffset": 33345,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26308,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We tested whether PPAR-\u03b32 induced parvin-\u03b2 expression by co-transfecting MCF7 cells with different ratios of the 3XFLAG-PPAR-\u03b31 and 3XFLAG-PPAR-\u03b32 plasmids.",
+            "startOffset": 26152,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 17272,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 17136,
+                    "startOffset": 17133
+                },
+                "bib9": {
+                    "endOffset": 17271,
+                    "startOffset": 17268
+                }
+            },
+            "secId": "sec1",
+            "sentence": "PPARs mainly function as heterodimers in association with the co-activator complex, which binds to peroxisome proliferator response elements (PPREs) [8], with a DNA recognition motif composed of a direct repeat separated by one nucleotide with a consensus sequence of RGGTGA-A-AGGTCA [9].",
+            "startOffset": 16984,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32092,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 32091,
+                    "startOffset": 32087
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These two isoforms are derived from the same gene by alternative promoter usage and differential mRNA splicing [14].",
+            "startOffset": 31976,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34837,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Additionally, we performed blind docking using AutoDock Vina and the 3-dimensional X-ray crystal structure of human Akt1 protein (PDB ID: 3OCB).",
+            "startOffset": 34693,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19650,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Cell viability was determined using an MTT kit (Sigma, St. Louis, Mo) according to the manufacturer's instructions.",
+            "startOffset": 19535,
+            "title": "Cell culture and cell viability"
+        },
+        {
+            "endOffset": 22104,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "PCR was performed with 35 cycles (denaturation for 30 s at 94 \u00b0C, annealing for 30 s at 70 \u00b0C, and extension for 90 s at 72 \u00b0C) and a final extension at 72 \u00b0C for 7 min.",
+            "startOffset": 21935,
+            "title": "Chromatin immunoprecipitation (ChIP) assay"
+        },
+        {
+            "endOffset": 23194,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Wound migration assays were conducted using MCF7 cells treated with 24-MCF.",
+            "startOffset": 23119,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 30826,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "As shown in Fig. 4A, 24-MCF inhibited Akt1 activity in a dose-dependent manner (3-fold serial dilution).",
+            "startOffset": 30722,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 31141,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "We also performed blind docking of 24-MCF to the ATP target using Autodock vina by setting grid sizes that included the entire ATP molecule.",
+            "startOffset": 31001,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 26557,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Parvin-\u03b2 mRNA expression was significantly increased when the ratio of the PPAR-\u03b32-encoding plasmid to the PPAR-\u03b31-encoding plasmid was high, but not when the ratio of the PPAR-\u03b31-encoding plasmid to the PPAR-\u03b32-encoding plasmid was high (Fig. 1C).",
+            "startOffset": 26309,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 33608,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "24-MCF-treated cells formed significantly fewer colonies in soft agar than DMSO-treated cells.",
+            "startOffset": 33514,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31975,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 31974,
+                    "startOffset": 31971
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Comparison of cDNA encoding PPAR-\u03b32 with that encoding PPAR-\u03b31 suggests that these two proteins differ only in their NH2-terminal 30 amino acids [6].",
+            "startOffset": 31826,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25439,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "The best docking position for 24-MCF was predicted to be the ATP-binding site of Akt1.",
+            "startOffset": 25353,
+            "title": "Docking study"
+        },
+        {
+            "endOffset": 32608,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Luciferase-driven parvin-\u03b2 promoter activity was dramatically increased by 24-MCF treatment in a dose-dependent manner.",
+            "startOffset": 32489,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24780,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "To test the specificity as an Akt1 inhibitor, SelectScreen profiling Service (Invitrogen, San Diego, CA) was used with FRET-based Z\u2032-LYTE kit.",
+            "startOffset": 24638,
+            "title": "In vitro AKT1 kinase assay"
+        },
+        {
+            "endOffset": 18669,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The human parvin-\u03b2 promoter was amplified by PCR from MCF7 cell genomic DNA using Taq DNA polymerase (Bionner, Korea), with the forward primer 5\u2032-CTCGAGAGACCAAAAATAAGGCACGTTCAT-3\u2032, and the reverse primer 5\u2032-AAGCTTGAGAAGTGAACCAGCCAGAGAAGC-3\u2032.",
+            "startOffset": 18428,
+            "title": "Materials"
+        },
+        {
+            "endOffset": 25234,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "A docking grid box was generated for grid calculations with dimensions of x: 74 \u00d7 y: 80 \u00d7 z: 60 \u00c5 and center coordinates of x: 12.246 \u00d7 y: 1.333 \u00d7 z: 22.469.",
+            "startOffset": 25077,
+            "title": "Docking study"
+        },
+        {
+            "endOffset": 20287,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Thereafter, 1 \u03bcg of total RNA was converted to cDNA using an oligo-dT primer and AccurPower RT premix (Bioneer, Korea) in a 20 \u03bcl reaction.",
+            "startOffset": 20148,
+            "title": "Reverse transcription (RT)-PCR"
+        },
+        {
+            "endOffset": 32719,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Parvin-\u03b2 mRNA expression was increased by transiently transfecting MCF7 cells with the 3XFLAG-PPAR-\u03b32 plasmid.",
+            "startOffset": 32609,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16439,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 16438,
+                    "startOffset": 16435
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Parvin-\u03b2 binds to ILK through one of two calponin homology (CH) domains and is widely expressed in human/mammalian tissues [6].",
+            "startOffset": 16312,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34692,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The EC50 values of 24-MCF against Akt1 kinase activity was 33.3 \u03bcM.",
+            "startOffset": 34625,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26151,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In addition, 24-MCF treatment increased the mRNA and protein levels of parvin-\u03b2 in MCF7 cells in a dose-dependent manner over the range of concentrations tested (25, 50, and 100 \u03bcM) (Fig. 1B).",
+            "startOffset": 25959,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 34624,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, 24-MCF inhibited Akt1 kinase activity in a cell-free system.",
+            "startOffset": 34555,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31304,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                },
+                {
+                    "id": "sec3.4",
+                    "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+                }
+            ],
+            "secId": "sec3.4.1",
+            "sentence": "24-MCF compound (Yellow color) binds to the ATP-binding site of Akt1 (PDB ID: 3OCB) and the repeat average of compound binding energy is \u22128.870 kcal/mol (Fig.4B).",
+            "startOffset": 31142,
+            "title": "24-MCF inhibits Akt1 kinase activity"
+        },
+        {
+            "endOffset": 21170,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The extract was centrifuged at 14,000 rpm for 15 min at 4 \u00b0C to remove cellular debris.",
+            "startOffset": 21083,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 25076,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "Docking of 24-MCF was assessed using AutoDock vina and the 3-dimensional X-ray structure of human Akt1 kinase (PDB ID: 3OCB).",
+            "startOffset": 24951,
+            "title": "Docking study"
+        },
+        {
+            "endOffset": 27566,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Activation of the parvin-\u03b2 promoter was significantly increased by 24-MCF treatment in a dose-dependent manner, demonstrating 24-MCF responsiveness of the cloned parvin-\u03b2 promoter fragment (Fig. 2A).",
+            "startOffset": 27367,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 29466,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At 24 h, movement of cells was inhibited by treatment with 25\u2013100 \u03bcM 24-MCF, whereas the movement of cells treated with DMSO was increased (Fig. 3A).",
+            "startOffset": 29317,
+            "title": "24-MCF treatment inhibits MCF7 cell migration through Rac1 and Cdc42 signaling"
+        },
+        {
+            "endOffset": 34350,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 34349,
+                    "startOffset": 34342
+                },
+                "bib17": {
+                    "endOffset": 34349,
+                    "startOffset": 34342
+                },
+                "bib18": {
+                    "endOffset": 34349,
+                    "startOffset": 34342
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Levels of the GTP-bound active forms of Rac1 and Cdc42 were lower in 24-MCF-treated cells than in DMSO-treated cells, indicating that parvin-\u03b2 expression upon 24-MCF treatment inhibited ILK-mediated Rac1 and Cdc42 activation [16\u201318].",
+            "startOffset": 34117,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24934,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "The reaction was performed with a serial 3-fold dilution of 24-MCF and 10 \u03bcM ATP and Akt1 kinase substrates according to the manufacturer's instructions.",
+            "startOffset": 24781,
+            "title": "In vitro AKT1 kinase assay"
+        },
+        {
+            "endOffset": 32402,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The MTT assay showed that 24-MCF treatment did not affect the viability of the breast cancer cells MDA-MB-231, SK-BR-3, or MCF7, or the non-cancerous breast cells MCF-10A.",
+            "startOffset": 32231,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35204,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, our study demonstrates that the functional PPRE-like cis-element identified in the human parvin-\u03b2 promoter is responsible for upregulation of parvin-\u03b2 expression upon 24-MCF treatment.",
+            "startOffset": 35005,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30069,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 30068,
+                    "startOffset": 30065
+                },
+                "bib13": {
+                    "endOffset": 29980,
+                    "startOffset": 29976
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "ILK overexpression promotes anchorage-independent cell survival [13] and overexpression of parvin-\u03b2 can inhibit colony formation in breast cancer tumors [1].",
+            "startOffset": 29912,
+            "title": "24-MCF treatment inhibits anchorage-independent growth of MCF7 cells"
+        },
+        {
+            "endOffset": 19534,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The human breast cancer cells MCF7, MDA-MB-231, T47D, SK-BR-3, and the non-cancerous human breast cell line MCF-10A, were cultured in Dulbecco's Modified Eagle's Medium (DMEM, HyClone, Logan, UT) supplemented with 10% heat-inactivated fetal bovine serum (FBS, HyClone, UT), 100 U/ml penicillin, and 100 \u03bcg/ml streptomycin in 5% CO2 at 37 \u00b0C.",
+            "startOffset": 19193,
+            "title": "Cell culture and cell viability"
+        },
+        {
+            "endOffset": 23067,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The DNA-protein complexes were resolved on 5% non-denaturing polyacrylamide gels in 0.5 \u00d7 TBE buffer and detected using a chemiluminescence reagent (ThermoFisher, Waltham, MA) according to the manufacturer's instructions.",
+            "startOffset": 22846,
+            "title": "Electrophoretic mobility shift assay (EMSA)"
+        },
+        {
+            "endOffset": 25851,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In the current study, the mRNA levels of parvin-\u03b2 and PPAR-\u03b32 were higher in MCF7 cells treated with 100 \u03bcM 24-MCF than in those treated with FA, CAF, and CSF (Fig. 1A).",
+            "startOffset": 25682,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 23434,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Lysates were centrifuged at 14,000 rpm for 15 min.",
+            "startOffset": 23384,
+            "title": "Wound healing and Rac1 and Cdc42 activation assay"
+        },
+        {
+            "endOffset": 26900,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Treatment with various concentrations of 24-MCF for 24 h did not affect the viability of the breast cancer cells MDA-MB-231, SK-BR-3, MCF7 or the non-cancerous breast cells MCF-10A (Fig. 1D).",
+            "startOffset": 26709,
+            "title": "24-MCF treatment increases parvin-\u03b2 and PPAR-\u03b32 gene expression in MCF7 cells"
+        },
+        {
+            "endOffset": 27896,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This assay allowed effective pulldown and elution of 3XFLAG-PPAR-\u03b31 and PPAR-\u03b32 from formaldehyde-fixed DNA containing the PPRE-like cis-element in the parvin-\u03b2 promoter.",
+            "startOffset": 27726,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 28630,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "24-MCF treatment steadily increased the amount of this DNA-protein complex in a dose-dependent manner (Fig. 2C).",
+            "startOffset": 28518,
+            "title": "PPAR-\u03b32 interacts with parvin-\u03b2 through a PPRE-like cis-element according to the EMSA and ChIP"
+        },
+        {
+            "endOffset": 21418,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Thereafter, 20 \u03bcg of protein was separated on a 4\u201312% NuPAGE gel (Invitrogen, San Diego, CA), transferred to a nitrocellulose membrane using standard procedures (Invitrogen, San Diego, CA), and probed by Western blot with the indicated antibodies.",
+            "startOffset": 21171,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 35005,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "24-MCF binds to the ATP-binding site of Akt1, indicating that 24-MCF has a high affinity for Akt1 and binds within a region that is important for Akt1 kinase activity.",
+            "startOffset": 34838,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X15308445",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Heon Woong",
+                "initial": "H.W.",
+                "last": "Kim"
+            },
+            {
+                "email": null,
+                "first": "Eun Joung",
+                "initial": "E.J.",
+                "last": "Lim"
+            },
+            {
+                "email": null,
+                "first": "Hwan Hee",
+                "initial": "H.H.",
+                "last": "Jang"
+            },
+            {
+                "email": null,
+                "first": "Xue Lei",
+                "initial": "X.L.",
+                "last": "Cui"
+            },
+            {
+                "email": null,
+                "first": "Da Rae",
+                "initial": "D.R.",
+                "last": "Kang"
+            },
+            {
+                "email": null,
+                "first": "Sung Hyen",
+                "initial": "S.H.",
+                "last": "Lee"
+            },
+            {
+                "email": null,
+                "first": "Haeng Ran",
+                "initial": "H.R.",
+                "last": "Kim"
+            },
+            {
+                "email": null,
+                "first": "Jeong Sook",
+                "initial": "J.S.",
+                "last": "Choe"
+            },
+            {
+                "email": null,
+                "first": "Young Mok",
+                "initial": "Y.M.",
+                "last": "Yang"
+            },
+            {
+                "email": "jungbkim@korea.kr",
+                "first": "Jung Bong",
+                "initial": "J.B.",
+                "last": "Kim"
+            },
+            {
+                "email": "nihpark@yahoo.com",
+                "first": "Jong Hwan",
+                "initial": "J.H.",
+                "last": "Park"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.10.147",
+        "firstpage": "574",
+        "issn": "0006291X",
+        "keywords": [
+            "24-Methylenecycloartanyl ferulate",
+            "Akt1",
+            "Integrin-linked kinase",
+            "PPAR-\u03b32",
+            "Parvin-\u03b2"
+        ],
+        "lastpage": "579",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "24-Methylenecycloartanyl ferulate, a major compound of \u03b3-oryzanol, promotes parvin-beta expression through an interaction with peroxisome proliferator-activated receptor-gamma 2 in human breast cancer cells"
+    }
+}

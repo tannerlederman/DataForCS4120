@@ -1,0 +1,2326 @@
+{
+    "abstract": "Currently, leprosy control relies on the clinical diagnosis of leprosy and the subsequent administration of multidrug therapy (MDT). However, many health workers are not familiar with the cardinal signs of leprosy, particularly in low-endemic settings including Cambodia. In response, a new approach to early diagnosis was developed in the country, namely retrospective active case finding (RACF) through small mobile teams. In the frame of RACF, previously diagnosed leprosy patients are traced and their contacts screened through \u201cdrives\u201d. According to the available records, 984 of the 1,463 (67.3%) index patients diagnosed between 2001 and 2010 and registered in the national leprosy database were successfully traced in the period 2012\u20132015. Migration (8.4%), death (6.7%), operational issues (1.6%) and unidentified other issues (16.0%) were the main reasons for non-traceability. A total of 17,134 contacts of traced index patients (average: 2.2 household members and 15.2 neighbors) and another 7,469 contacts of the untraced index patients could be screened. Among them, 264 new leprosy patients were diagnosed. In the same period, 1,097 patients were diagnosed through the routine passive case detection system. No change was observed in the relation between the rate at which new patients were identified and the number of years since the diagnosis of the index patient. Similar to leprosy patients diagnosed through passive case detection, the leprosy patients detected through RACF were predominantly adult males. However, the fraction of PB leprosy patients was higher among the patients diagnosed through RACF, suggesting relatively earlier diagnosis. It appears that RACF is a feasible option and effective in detecting new leprosy patients among contacts of previously registered patients. However, a well-maintained national leprosy database is essential for successful contact tracing. Hence, passive case detection in the frame of routine leprosy surveillance is a precondition for efficient RACF as the two systems are mutually enhancing. Together, the two approaches may offer an interesting option for countries with low numbers of leprosy patients but evidence of ongoing transmission. The impact on leprosy transmission could be further increased by the administration of single dose rifampicin as post-exposure prophylaxis to eligible contacts.",
+    "author_highlights": [
+        {
+            "endOffset": 13673,
+            "sentence": "Retrospective active case finding (RACF) is an innovative approach in leprosy control.",
+            "startOffset": 13587
+        },
+        {
+            "endOffset": 13747,
+            "sentence": "RACF can be organized in \u201cdrives\u201d to facilitate planning and supervision.",
+            "startOffset": 13674
+        },
+        {
+            "endOffset": 13810,
+            "sentence": "RACF is a promising approach for low-endemic leprosy settings.",
+            "startOffset": 13748
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [],
+            "firstpage": "461",
+            "issn": "00498114",
+            "lastpage": "474",
+            "pmid": "26343055",
+            "pub_year": 2015,
+            "title": "Global leprosy update, 2014: need for early case detection",
+            "volume": "90"
+        },
+        "bib0010": {
+            "authors": [],
+            "firstpage": "405",
+            "issn": "00498114",
+            "lastpage": "420",
+            "pmid": "27592500",
+            "pub_year": 2015,
+            "title": "Global leprosy update, 2015: time for action, accountability and inclusion",
+            "volume": "91"
+        },
+        "bib0015": {
+            "authors": [],
+            "firstpage": "501",
+            "issn": "00498114",
+            "lastpage": "519",
+            "pmid": "28861986",
+            "pub_year": 2017,
+            "title": "Global leprosy update, 2016: accelerating reduction of disease burden",
+            "volume": "92"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "Tanja",
+                    "initial": "T.",
+                    "last": "Barth-Jaeggi"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Steinmann"
+                },
+                {
+                    "first": "Liesbeth",
+                    "initial": "L.",
+                    "last": "Mieras"
+                },
+                {
+                    "first": "Wim",
+                    "initial": "W.",
+                    "last": "Van Brakel"
+                },
+                {
+                    "first": "Jan Hendrik",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                },
+                {
+                    "first": "Anuj",
+                    "initial": "A.",
+                    "last": "Tiwari"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Bratschi"
+                },
+                {
+                    "first": "Arielle",
+                    "initial": "A.",
+                    "last": "Cavaliero"
+                },
+                {
+                    "first": "Bart",
+                    "initial": "B.",
+                    "last": "Vander Plaetse"
+                },
+                {
+                    "first": "Fareed",
+                    "initial": "F.",
+                    "last": "Mirza"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Aerts"
+                },
+                {
+                    "first": null,
+                    "initial": null,
+                    "last": null
+                }
+            ],
+            "doi": "10.1136/bmjopen-2016-013633",
+            "issn": "20446055",
+            "pmid": "27856484",
+            "pub_year": 2016,
+            "title": "Leprosy Post-Exposure Prophylaxis (LPEP) programme: Study protocol for evaluating the feasibility and impact on case detection rates of contact tracing and single dose rifampicin",
+            "volume": "6"
+        },
+        "bib0025": {
+            "authors": [
+                {
+                    "first": "Martin W.",
+                    "initial": "M.W.",
+                    "last": "Bratschi"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Steinmann"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Wickenden"
+                },
+                {
+                    "first": "Thomas P.",
+                    "initial": "T.P.",
+                    "last": "Gillis"
+                }
+            ],
+            "firstpage": "142",
+            "issn": "03057518",
+            "lastpage": "155",
+            "pmid": "26502685",
+            "pub_year": 2015,
+            "title": "Current knowledge on Mycobacterium leprae transmission: a systematic literature review",
+            "volume": "86"
+        },
+        "bib0030": null,
+        "bib0035": {
+            "authors": [
+                {
+                    "first": "Natalie",
+                    "initial": "N.",
+                    "last": "Lorent"
+                },
+                {
+                    "first": "Kimcheng",
+                    "initial": "K.",
+                    "last": "Choun"
+                },
+                {
+                    "first": "Shelly",
+                    "initial": "S.",
+                    "last": "Malhotra"
+                },
+                {
+                    "first": "Pichenda",
+                    "initial": "P.",
+                    "last": "Koeut"
+                },
+                {
+                    "first": "Sopheak",
+                    "initial": "S.",
+                    "last": "Thai"
+                },
+                {
+                    "first": "Kim Eam",
+                    "initial": "K.E.",
+                    "last": "Khun"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Colebunders"
+                },
+                {
+                    "first": "Lut",
+                    "initial": "L.",
+                    "last": "Lynen"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0130179",
+            "issn": "19326203",
+            "pmid": "26222545",
+            "pub_year": 2015,
+            "title": "Challenges from tuberculosis diagnosis to care in community-based active case finding among the urban poor in Cambodia: A mixed-methods study",
+            "volume": "10"
+        },
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "F. J.",
+                    "initial": "F.J.",
+                    "last": "Moet"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Meima"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Oskam"
+                },
+                {
+                    "first": "J. H.",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                }
+            ],
+            "firstpage": "310",
+            "issn": "03057518",
+            "lastpage": "326",
+            "pmid": "15682969",
+            "pub_year": 2004,
+            "title": "Risk factors for the development of clinical leprosy among contacts, and their relevance for targeted interventions",
+            "volume": "75"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "F. Johannes",
+                    "initial": "F.J.",
+                    "last": "Moet"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Pahan"
+                },
+                {
+                    "first": "Ron P.",
+                    "initial": "R.P.",
+                    "last": "Schuring"
+                },
+                {
+                    "first": "Linda",
+                    "initial": "L.",
+                    "last": "Oskam"
+                },
+                {
+                    "first": "Jan H.",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                }
+            ],
+            "doi": "10.1086/499278",
+            "firstpage": "346",
+            "issn": "00221899",
+            "lastpage": "353",
+            "pmid": "16388481",
+            "pub_year": 2006,
+            "title": "Physical distance, genetic relationship, age, and leprosy classification are independent risk factors for leprosy in contacts of patients with leprosy",
+            "volume": "193"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Fukushi",
+                    "initial": "F.",
+                    "last": "Morishita"
+                },
+                {
+                    "first": "Mao Tan",
+                    "initial": "M.T.",
+                    "last": "Eang"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Nishikiori"
+                },
+                {
+                    "first": "Rajendra Prasad",
+                    "initial": "R.P.",
+                    "last": "Yadav"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0150405",
+            "issn": "19326203",
+            "pmid": "26930415",
+            "pub_year": 2016,
+            "title": "Increased case notification through active case finding of tuberculosis among household and neighbourhood contacts in Cambodia",
+            "volume": "11"
+        },
+        "bib0055": null,
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "Edith",
+                    "initial": "E.",
+                    "last": "Roset Bahmanyar"
+                },
+                {
+                    "first": "William Cairns",
+                    "initial": "W.C.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Brennan"
+                },
+                {
+                    "first": "Ray",
+                    "initial": "R.",
+                    "last": "Cummings"
+                },
+                {
+                    "first": "Malcolm",
+                    "initial": "M.",
+                    "last": "Duthie"
+                },
+                {
+                    "first": "Jan Hendrik",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Saunderson"
+                },
+                {
+                    "first": "Tin",
+                    "initial": "T.",
+                    "last": "Shwe"
+                },
+                {
+                    "first": "Steven",
+                    "initial": "S.",
+                    "last": "Rosen"
+                },
+                {
+                    "first": "Annemieke",
+                    "initial": "A.",
+                    "last": "Geluk"
+                }
+            ],
+            "doi": "10.1371/journal.pntd.0004331",
+            "issn": "19352727",
+            "pmid": "26866699",
+            "pub_year": 2016,
+            "title": "Leprosy Diagnostic Test Development As a Prerequisite Towards Elimination: Requirements from the User\u2019s Perspective",
+            "volume": "10"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Pieter A.M.",
+                    "initial": "P.A.M.",
+                    "last": "Schreuder"
+                },
+                {
+                    "first": "Diana S.",
+                    "initial": "D.S.",
+                    "last": "Liben"
+                },
+                {
+                    "first": "Sri",
+                    "initial": "S.",
+                    "last": "Wahjuni"
+                },
+                {
+                    "first": "Jacques",
+                    "initial": "J.",
+                    "last": "Van Den Broek"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "De Soldenhoff"
+                }
+            ],
+            "firstpage": "366",
+            "issn": "03057518",
+            "lastpage": "375",
+            "pmid": "12549844",
+            "pub_year": 2002,
+            "title": "A comparison of rapid village survey and leprosy elimination campaign, detection methods in two districts of East Java, Indonesia, 1997/1998 and 1999/2000",
+            "volume": "73"
+        },
+        "bib0070": {
+            "authors": [
+                {
+                    "first": "W. Cairns S.",
+                    "initial": "W.C.S.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Aerts"
+                }
+            ],
+            "firstpage": "2",
+            "issn": "03057518",
+            "lastpage": "17",
+            "pmid": "24974438",
+            "pub_year": 2014,
+            "title": "Role of contact tracing and prevention strategies in the interruption of leprosy transmission.",
+            "volume": "85"
+        },
+        "bib0075": {
+            "authors": [
+                {
+                    "first": "W. C.S.",
+                    "initial": "W.C.S.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Aerts"
+                }
+            ],
+            "firstpage": "126",
+            "issn": "03057518",
+            "lastpage": "127",
+            "pmid": "26065158",
+            "pub_year": 2015,
+            "title": "Contact management is an essential component of leprosy control",
+            "volume": "86"
+        },
+        "bib0080": {
+            "authors": [
+                {
+                    "first": "Cairns S.",
+                    "initial": "C.S.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Shaik Kahder",
+                    "initial": "S.K.",
+                    "last": "Noordeen"
+                },
+                {
+                    "first": "Jan Hendrik",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                },
+                {
+                    "first": "Hubert",
+                    "initial": "H.",
+                    "last": "Sansarricq"
+                },
+                {
+                    "first": "Stewart T.",
+                    "initial": "S.T.",
+                    "last": "Cole"
+                },
+                {
+                    "first": "Sumana",
+                    "initial": "S.",
+                    "last": "Baruaf"
+                },
+                {
+                    "first": "Rosa Cast\u00e3lia",
+                    "initial": "R.C.",
+                    "last": "Soares"
+                },
+                {
+                    "first": "Lorenzo",
+                    "initial": "L.",
+                    "last": "Savioli"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Aertsh"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(13)70365-7",
+            "firstpage": "96",
+            "issn": "14733099",
+            "lastpage": "98",
+            "pmid": "24457165",
+            "pub_year": 2014,
+            "title": "A strategy to halt leprosy transmission",
+            "volume": "14"
+        },
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Cairns S.",
+                    "initial": "C.S.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Ann",
+                    "initial": "A.",
+                    "last": "Aerts"
+                },
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Saunderson"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Kawuma"
+                },
+                {
+                    "first": "Etsuko",
+                    "initial": "E.",
+                    "last": "Kita"
+                },
+                {
+                    "first": "Marcos",
+                    "initial": "M.",
+                    "last": "Virmond"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(17)30418-8",
+            "firstpage": "e293",
+            "issn": "14733099",
+            "lastpage": "e297",
+            "pmid": "28693853",
+            "pub_year": 2017,
+            "title": "Multidrug therapy for leprosy: a game changer on the path to elimination",
+            "volume": "17"
+        },
+        "bib0090": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Steinmann"
+                },
+                {
+                    "first": "Steven G.",
+                    "initial": "S.G.",
+                    "last": "Reed"
+                },
+                {
+                    "first": "Fareed",
+                    "initial": "F.",
+                    "last": "Mirza"
+                },
+                {
+                    "first": "T. D\u00e9irdre",
+                    "initial": "T.D.",
+                    "last": "Hollingsworth"
+                },
+                {
+                    "first": "Jan Hendrik",
+                    "initial": "J.H.",
+                    "last": "Richardus"
+                }
+            ],
+            "doi": "10.1016/S1473-3099(17)30314-6",
+            "firstpage": "e298",
+            "issn": "14733099",
+            "lastpage": "e305",
+            "pmid": "28693856",
+            "pub_year": 2017,
+            "title": "Innovative tools and approaches to end the transmission of Mycobacterium leprae",
+            "volume": "17"
+        },
+        "bib0095": null
+    },
+    "body_text": [
+        {
+            "endOffset": 37867,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "While not properly documented, the available evidence indicates that a lower fraction of the neighbor contacts have been successfully traced and screened.",
+            "startOffset": 37713,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40485,
+            "parents": [],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 40483,
+                    "startOffset": 40458
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "In the frame of the second phase, post-exposure prophylaxis (PEP) with single dose rifampicin (SDR) is offered to eligible contacts in the household of the index patient and its five most immediate neighbor households, which is in line with the general outline of the Leprosy Post-Exposure Prophylaxis (LPEP) programme (Barth-Jaeggi et al., 2016).",
+            "startOffset": 40138,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31758,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "The drive teams made an effort to trace these patients and to screen their household members and neighbors.",
+            "startOffset": 31651,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 18880,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Unfortunately, this achievement has resulted in a diversion of attention to other public health issues.",
+            "startOffset": 18777,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39429,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Moreover, RACF also aims to influence the behavior of the local population.",
+            "startOffset": 39354,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21572,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The scheduling of the drives took the rainy season (ca.",
+            "startOffset": 21517,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 31896,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "This resulted in the detection of an additional 13 and 27 new leprosy patients among their household and neighbor contacts, respectively.",
+            "startOffset": 31759,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 35390,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "However, it is equally clear that leprosy control cannot be based on RACF with mobile teams alone since the tracing of index patients and screening of their contacts critically depends on a functioning passive case detection system, i.e. a basic capacity to diagnose leprosy must be maintained in the health system.",
+            "startOffset": 35075,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23765,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "However, as the procedures and reporting were designed, tested and continuously revised during the build-up phase of the RACF project, and no individual data were collected during the build-up phase, only data from drives 4\u201311 were considered in the current analysis.",
+            "startOffset": 23498,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 35895,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The following points are offered for consideration when interpreting the results of the RACF project in Cambodia.",
+            "startOffset": 35782,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35782,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The drives offered an opportunity to update that database.",
+            "startOffset": 35724,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18470,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 18468,
+                    "startOffset": 18447
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Close contact for more than 20 h per week and over several weeks has been recognized as the main threshold for increased risk of leprosy disease among contacts (Smith and Aerts, 2014).",
+            "startOffset": 18286,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19789,
+            "parents": [],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 19787,
+                    "startOffset": 19765
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In response, a unique approach to leprosy control has been developed in Cambodia, building on the concept of retrospective active case finding (RACF) that had been developed in the frame of tuberculosis control (Morishita et al., 2016).",
+            "startOffset": 19553,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17042,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 17040,
+                    "startOffset": 17013
+                },
+                "bib0075": {
+                    "endOffset": 17040,
+                    "startOffset": 17013
+                },
+                "bib0080": {
+                    "endOffset": 17011,
+                    "startOffset": 16993
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Early diagnosis is important for two main reasons: to reduce the risk that the patient develops irreversible disability, and to shorten the time the patient can contribute to the transmission of the infection (Smith et al., 2014; Smith and Aerts, 2014, 2015).",
+            "startOffset": 16783,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34601,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The here presented first evaluation of this approach indicates that it could be more effective than a decentralized system of contact tracing and screening and it certainly facilitates the monitoring and quality control of routine activities.",
+            "startOffset": 34359,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21044,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The national database of leprosy patients in the country provided the starting point to trace index patients.",
+            "startOffset": 20935,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 41534,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "However, basic capacity to diagnose leprosy must still be maintained in the health system to ensure the correct diagnosis of self-referred patients.",
+            "startOffset": 41386,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 29012,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "A comparison between the cumulative total number of new leprosy patients detected among contacts and the cumulative total number of underlying index patients in relation to the number of years that have passed since the diagnosis of the index patient shows an almost linear increase between three and 12 years post-diagnosis of the index patient (Fig. 2).",
+            "startOffset": 28657,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 18285,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Contacts are usually categorized as household members, neighbors and social contacts such as class mates and co-workers.",
+            "startOffset": 18165,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40640,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The documentation of the second phase will also be aligned with the standards established for the LPEP programme, part of which Cambodia will thus become.",
+            "startOffset": 40486,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20934,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "An inclusive contact definition was used that covered all household members and neighbors living within a radius of about 200 m around an index patient diagnosed in the country between 2001 and the onset of the program in 2011.",
+            "startOffset": 20707,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 26125,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Overall, 1,463 leprosy patients in 54 ODs who had been diagnosed between 2001 and 2010 and registered in the NLEP national leprosy database were identified as index patients for the RACF drives 4\u201311 (Fig. 1).",
+            "startOffset": 25917,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 19402,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 19400,
+                    "startOffset": 19385
+                },
+                "bib0015": {
+                    "endOffset": 19235,
+                    "startOffset": 19220
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "However, over one hundred new leprosy patients continue to be diagnosed in the country every year through passive case detection (2016: n = 154 (Anonymous, 2017)), and there is evidence for both, ongoing transmission (i.e. pediatric patients) and considerable delay until diagnosis (i.e. grade II disability) (Anonymous, 2015).",
+            "startOffset": 19075,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32528,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The increase in the number of new leprosy patients detected in the ODs in the year of a drive was more pronounced with regard to PB than MB patients, and was most clearly observed in 2012, 2013, and\u2014to a somewhat lesser extent\u20142014 (Fig. 3).",
+            "startOffset": 32287,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 40137,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "It focuses on 31 high-priority districts selected based on a relatively high NCDR and a comparatively high proportion of pediatric, MB and male leprosy patients.",
+            "startOffset": 39976,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26754,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "A total of 24,603 contacts of these index patients were screened: on average, 2.2 household members and 15.2 neighbors per traced index patient and 1.7 household members and 13.9 neighbors per missed index patient.",
+            "startOffset": 26540,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 33803,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 33801,
+                    "startOffset": 33786
+                },
+                "bib0015": {
+                    "endOffset": 33705,
+                    "startOffset": 33690
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "Cambodia is in a similar situation as many other leprosy-endemic countries that have reached a relatively low NCDR of 0.10 in 2016 (Anonymous, 2017) and now seek effective ways to ensure early diagnosis of new leprosy patients (Anonymous, 2016).",
+            "startOffset": 33558,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32943,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The relatively high number of new leprosy patients diagnosed in ODs visited in 2012 and 2013 compared to the later years can be explained by an initial focus of the drives on ODs with a high number of index patients diagnosed in the baseline period 2001\u20132010.",
+            "startOffset": 32684,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 34245,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 34243,
+                    "startOffset": 34225
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "A mobile team of experienced staff implementing RACF with the support from local healthcare workers offers a potential solution to multiple challenges common across low-endemic developing countries, including the diminishing expertise among peripheral health staff to recognize leprosy patients, the concentration of new leprosy patients among contacts of index patients, and the need to raise awareness for the disease (Smith et al., 2014).",
+            "startOffset": 33804,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24343,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "All data were stored in Microsoft Excel 2010 (Microsoft Corporation, Redmond, Washington, United States of America); data management and analysis was done in Stata version 14 (Stata Corporation, College Station, Texas, United States of America).",
+            "startOffset": 24098,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 40817,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Another focus of the second phase will be the contact tracing rate, which should be further increased to maximize the impact of the drives on the NCDR and leprosy transmission.",
+            "startOffset": 40641,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19912,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "In this article, we summarize the Cambodian experience with RACF to amplify the efforts for leprosy control in the country.",
+            "startOffset": 19789,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27424,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Similarly, no relationship between different reasons for reported non-traceability of index patients could be identified.",
+            "startOffset": 27303,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 28112,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Likewise, RACF identified 63 new leprosy patients among the 7,469 screened household members and neighbors of the index patients that could not be traced, a NCDR of 8.4 per 1,000 contacts screened.",
+            "startOffset": 27915,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 36560,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Second, an analysis of temporal trends within the RACF data must take into consideration that districts with relatively higher NCDRs and good accessibility were visited first.",
+            "startOffset": 36385,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22416,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "In brief, field activities included a theatre play to raise awareness for leprosy in general and for the RACF mission in particular.",
+            "startOffset": 22284,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 28656,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Hence, there is a minimum of two years and a maximum of 14 years between the diagnosis of an index patient and the tracing and screening of contacts.",
+            "startOffset": 28507,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 36385,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Of note, these first three drives targeted ODs with a relatively high number of leprosy patients, and resulted in the diagnosis of 277 leprosy patients among their contacts while drives 4\u201311 resulted in the diagnosis of 264 new leprosy patients.",
+            "startOffset": 36140,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39975,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "In the light of the continuing absence of routine contact tracing and screening of newly diagnosed leprosy patients in Cambodia, a second phase of the RACF project in Cambodia has been designed and became operational in late 2016.",
+            "startOffset": 39745,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22796,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Possible new leprosy patients identified through the screening process were examined by an experienced leprologist and diagnosis confirmed on the day of the drive.",
+            "startOffset": 22633,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 29339,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "The fraction of new leprosy patients among the contacts was slightly lower two to three years after the diagnosis of the index patient, as well as over 12 years after diagnosis.",
+            "startOffset": 29162,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 16782,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 16780,
+                    "startOffset": 16762
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "As a consequence, leprosy control largely depends on the recognition of the cardinal signs of leprosy disease by a health worker, followed by administration of multidrug therapy (MDT) (Smith et al., 2017).",
+            "startOffset": 16577,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32286,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "In 34 of the 54 visited ODs (63.0%), the number of newly diagnosed leprosy patients was higher in the year of the drive compared to the year before and after.",
+            "startOffset": 32128,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 39353,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "On the other hand, a certain proportion of new patients diagnosed in the frame of RACF would most likely have been picked up by the passive case detection system later in the same year.",
+            "startOffset": 39168,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20035,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "We report on the feasibility and effectiveness of RACF as compared to the routine activities and summarize first findings.",
+            "startOffset": 19913,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38383,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "In order to properly estimate contact tracing rates among those most at risk and to better tailor RACF efforts (e.g. most efficient definition of \u201ccontacts\u201d), it seems advisable to fully document activities also for neighbor contacts and to conduct contact network analyses.",
+            "startOffset": 38109,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31311,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "As a result, a total of 270 leprosy patients were identified which had been diagnosed by local health services and received MDT but were never registered in the NLEP national leprosy database.",
+            "startOffset": 31119,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 40991,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Last, a rigorous surveillance protocol is being applied to further improve the quality of the field procedures and the completeness of the patient and project documentation.",
+            "startOffset": 40818,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34358,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "In response to these challenges, the highly structured RACF approach has been developed and applied in Cambodia.",
+            "startOffset": 34246,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22856,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "For newly detected patients, MDT was initiated immediately.",
+            "startOffset": 22797,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 24097,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "To compare the performance of RACF with routine activities, annual data from the national leprosy control programme were obtained from NLEP for the years 2001\u20132015.",
+            "startOffset": 23933,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 37552,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 37550,
+                    "startOffset": 37512
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "According to the 2013 Inter-censal Population Survey of the Kingdom of Cambodia, the average Cambodian household size was 4.6 individuals in 2013 (National Institute of Statistics, 2013).",
+            "startOffset": 37365,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17268,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "As a relatively rare disease with initially inconspicuous and painless symptoms that can easily be mistaken for other dermatological conditions, health workers often lack experience to recognize the cardinal signs of leprosy.",
+            "startOffset": 17043,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36868,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "This non-random selection might be a main reason for the absence of any perceptible impact of RACF activities on the total number of newly detected leprosy patients in 2015 (Fig. 3) when the districts with lowest priority\u2014i.e. those with lowest number of index patients and worst accessibility\u2014were visited.",
+            "startOffset": 36561,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42059,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "Novartis Foundation provided technical input in the design phase of the approach including data collection, and funded the implementation of the drives and the data analysis.",
+            "startOffset": 41885,
+            "title": "Conflicts of interest"
+        },
+        {
+            "endOffset": 24667,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Descriptive statistics was used to summarize key RACF and NLEP data with the aim to investigate the feasibility of RACF, describe the main characteristics of the index patients and newly detected leprosy patients among their contacts, and evaluate the effectiveness of RACF as compared to the routine activities in Cambodia.",
+            "startOffset": 24343,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 35483,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Last but not least, proper documentation including a national leprosy database is essential.",
+            "startOffset": 35391,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30485,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Of note, among household members the same number of male and female patients was detected while among neighbor contacts, male patients predominate.",
+            "startOffset": 30338,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 38628,
+            "parents": [],
+            "refoffsets": {
+                "bib0035": {
+                    "endOffset": 38626,
+                    "startOffset": 38607
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "While no detailed data have been published with regard to leprosy, stigma was not perceived to be an issue in a home TB screening project in Cambodia (Lorent et al., 2015).",
+            "startOffset": 38456,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23008,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Drive documentation focused on the newly diagnosed leprosy patients and on the household contacts for which individual demographic data were collected.",
+            "startOffset": 22857,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 28506,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Index patients traced in the frame of the RACF project were diagnosed between 2001\u20132010, and new leprosy patients among their contacts were diagnosed between 2012\u20132015.",
+            "startOffset": 28338,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 26539,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "No clear trend in tracing rates over time could be observed.",
+            "startOffset": 26479,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 33317,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "No statement is possible at this point in time on the longer-term impact of drives on the number of leprosy patients detected in an OD since systematically collected follow-up data are not yet available.",
+            "startOffset": 33114,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 29814,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The majority of the index patients that were appropriately documented in the NLEP national database were male, aged >15 years and had MB leprosy with DG0.",
+            "startOffset": 29660,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 21654,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "July-October) into account as periodic flooding compromises access to some areas.",
+            "startOffset": 21573,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 17365,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Further, patients tend to overlook symptoms and do not seek medical attention at an early stage.",
+            "startOffset": 17269,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33113,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The high baseline number would translate into a high number of contacts to be screened and apparently also a high number of new leprosy patients in the following period.",
+            "startOffset": 32944,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 21925,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "In parallel, routine leprosy control activities, namely passive case detection, continued throughout the country.",
+            "startOffset": 21812,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 27914,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Specifically, through RACF a total of 201 new patients were diagnosed among the 17,134 household members and neighbors of the successfully traced index patients, which translates into a new case detection rate (NCDR) of 11.7 per 1,000 contacts screened (Table 1).",
+            "startOffset": 27651,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 22150,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The final drive protocol was developed based on the experience gained through three initial drives during which the contacts of 1,818 index patients in 25 ODs had been screened and 277 new leprosy patients had been diagnosed.",
+            "startOffset": 21925,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 22632,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Then, the household members of the index patient were screened for signs of leprosy disease, followed by the neighbors.",
+            "startOffset": 22513,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 25693,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The effectiveness of RACF in Cambodia was described in terms of the total number of newly detected leprosy patients detected through passive case detection and RACF respectively.",
+            "startOffset": 25515,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 21207,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The list was completed based on local records since the national list apparently was incomplete and address details for the index patients were sometimes missing.",
+            "startOffset": 21045,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 21811,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The mobile team included experienced leprologists from NLEP and CIOMAL, province- and district-level leprosy control staff, and local health care personnel.",
+            "startOffset": 21655,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 27046,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "In the three ODs (5.6%) where no index patients could be traced, a maximum of three index patients had been listed in the NLEP national leprosy database and identified for follow-up.",
+            "startOffset": 26864,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 17924,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Typically, such activities focus on high-incidence communities, but they can also have more general reach.",
+            "startOffset": 17818,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33557,
+            "parents": [],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 33555,
+                    "startOffset": 33534
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "The intention of this article is to widen the current discussions about the most effective combination of approaches to identify leprosy patients and thereby contribute to the interruption of transmission (Bratschi et al., 2015).",
+            "startOffset": 33328,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36139,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Hence, no detailed information about the first three drives is available and the present analysis focuses on data from drives 4\u201311.",
+            "startOffset": 36008,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35074,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The experience with RACF in Cambodia over the last years clearly demonstrates that a RACF approach is feasible and contributes to early case detection as indicated by the higher proportion of patients with PB leprosy diagnosed during the drives compared to the respective proportion in the routine data.",
+            "startOffset": 34771,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38108,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 38105,
+                    "startOffset": 38088
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "Thus, the coverage of the contacts with the highest risk of disease, namely household contacts, was better than that of contacts with a lower but in comparison to the general population still elevated risk (Table 1 and (Moet et al., 2006)).",
+            "startOffset": 37868,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17817,
+            "parents": [],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 17815,
+                    "startOffset": 17793
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "To shorten the delay between the onset of leprosy disease and diagnosis, contribute to the training of the health workforce, and raise awareness among the public; mass campaigns and targeted group screenings are conducted in many leprosy-endemic countries (Schreuder et al., 2002).",
+            "startOffset": 17536,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23137,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "From neighbor contacts without any signs of leprosy disease, only summary data were obtained (e.g. number of contacts screened).",
+            "startOffset": 23009,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 27196,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "In 29 ODs (53.7%), at least 70% of the index patients could be traced, including 15 ODs (27.8%) where at least 80% of the index patients were traced.",
+            "startOffset": 27047,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 17536,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 17534,
+                    "startOffset": 17519
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Consequently, leprosy is often ignored or diagnosed late, and a considerable proportion of newly detected leprosy patients suffer from severe morbidity (Anonymous, 2015).",
+            "startOffset": 17366,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38786,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Fourth, the achievements of the passive case detection system and the RACF should not be compared competitively, but rather interpreted as mutually enhancing.",
+            "startOffset": 38628,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42180,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "All co-authors are either staff of the Novartis Foundation or worked as paid consultants for the project described here.",
+            "startOffset": 42060,
+            "title": "Conflicts of interest"
+        },
+        {
+            "endOffset": 41164,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "The RACF approach with mobile teams was found to be feasible and effective in detecting new leprosy patients among the contacts of previously registered patients.",
+            "startOffset": 41002,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 38972,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Due to its dependence on index patient information, RACF should be most efficient in areas where a high proportion of local leprosy patients have been diagnosed and properly documented.",
+            "startOffset": 38787,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39588,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "For instance, sensitization and encouragement to self-refer to a health center in case of a symptom suggestive of leprosy is an integral aspect of the drives.",
+            "startOffset": 39430,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16576,
+            "parents": [],
+            "refoffsets": {
+                "bib0090": {
+                    "endOffset": 16574,
+                    "startOffset": 16552
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Likewise, efficacious vaccines specifically targeting M. leprae remain elusive (Steinmann et al., 2017).",
+            "startOffset": 16472,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22284,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Standardized documentation is available from drive 4 onwards.",
+            "startOffset": 22223,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 22222,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Similarly, the documentation of the drive activities evolved over time.",
+            "startOffset": 22151,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 21516,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The tracing of the index patient and the screening of their contacts for signs of leprosy disease was then implemented by a mobile team in the frame of \u201cdrives\u201d that systematically covered all 78 operational districts (OD) of the country until all ODs had been visited at least once; a goal achieved in 2015.",
+            "startOffset": 21208,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 37298,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "The 1,463 index patients belonged to 1,287 different households in which an additional 2,987 household members were screened.",
+            "startOffset": 37173,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19552,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Contrary to other countries, in Cambodia the contacts of newly diagnosed leprosy patients are not routinely traced and screened for signs of leprosy.",
+            "startOffset": 19403,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29659,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "However, relevant data were missing for a large number of patients.",
+            "startOffset": 29592,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 30178,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "If no systematic difference exists between the patients with complete data and the other patients, the key demographic and leprosy indicators of index patients diagnosed 2001\u20132010 and patients registered in the NLEP database between 2012 and 2015 appear to be comparable.",
+            "startOffset": 29907,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 20442,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "A special focus is on the coverage achieved with this approach, the optimal time span from diagnosis of the index patient until contact tracing and screening, and on the characteristics of the leprosy patients diagnosed through RACF as compared to those diagnosed through routine program activities.",
+            "startOffset": 20143,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26478,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Reasons for non-retrieval of index patients were death (6.7%), migration (8.4%), operational issues (e.g. inaccessibility of an area; 1.6%), and unidentified other issues (16.0%).",
+            "startOffset": 26299,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 29906,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The completeness of the NLEP data was better for patients diagnosed in the years 2012\u20132015.",
+            "startOffset": 29815,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 30584,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Very limited data is available on disability among the new patients detected in the frame of RACF.",
+            "startOffset": 30486,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 39745,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "However, likewise, it is conceivable that a negative screening outcome provides a false sense of safety and distracts individuals from seeking care in time.",
+            "startOffset": 39589,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19074,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Human and material resources dedicated to leprosy control have consequently diminished, along with public interest in the disease and internal and external financial support to leprosy control.",
+            "startOffset": 18881,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30882,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "With regard to leprosy type, the fraction of patients with PB leprosy is considerably higher among the new patients detected through RACF, particularly among household members, when compared to the national cohort of passively detected new patients between 2001 and 2010 and between 2012 and 2015.",
+            "startOffset": 30585,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 32070,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Both the 270 unlisted patients and the 40 new patients among their contacts are not included in the presented data, figures and tables due to the severe data incompleteness.",
+            "startOffset": 31897,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 34770,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 34768,
+                    "startOffset": 34759
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "Another strategy for active case finding, namely population screening campaigns, are only recommended in areas with a relatively high prevalence of leprosy (WHO, 2016).",
+            "startOffset": 34602,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39167,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "However, in such areas the number of undiagnosed new leprosy patients still to be detected through RACF would be lower than in an area with weak capacity at the level of the local health system.",
+            "startOffset": 38973,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25204,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "The feasibility of RACF was assessed through (i) the percentage of index patients that had been traced successfully; (ii) the number of household members and neighbors that were successfully screened, stratified by the presence or absence of the index patient on the screening day; (iii) the number of new leprosy patients detected among the contacts, stratified by household and neighbor contacts; and (iv) the fraction of new leprosy patients among contacts in relation to the number of years since the diagnosis of the index patient.",
+            "startOffset": 24668,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 37172,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Third, no precise information is available on the fraction of eligible contacts that have actually been traced and screened.",
+            "startOffset": 37048,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41605,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "Furthermore, a well-maintained national leprosy database is essential.",
+            "startOffset": 41535,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 23321,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Following the completion of the first phase of the RACF project, namely once all ODs had been visited at least once, all drive data were entered into a single database.",
+            "startOffset": 23153,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 31118,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "In the frame of the RACF activities, local Operational District registries were compared to the national leprosy database maintained by NLEP.",
+            "startOffset": 30977,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 38455,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Reportedly, the acceptance of leprosy screening among contacts is high.",
+            "startOffset": 38384,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25842,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Particular attention is on shifts in the proportion of patients with MB or PB in the districts over the years and depending on the detection method.",
+            "startOffset": 25694,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 23932,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Also excluded from the more detailed analysis was both data on patients not initially included in the national leprosy database and data on their respective contacts.",
+            "startOffset": 23766,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 18164,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 18143,
+                    "startOffset": 18126
+                },
+                "bib0045": {
+                    "endOffset": 18162,
+                    "startOffset": 18145
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Further, they usually focus on the contacts of newly diagnosed leprosy patients since prolonged contact with an untreated leprosy patient is one of the key risk factors for developing leprosy disease (Moet et al., 2004; Moet et al., 2006).",
+            "startOffset": 17925,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31469,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Among them, 71 (26.3%) had been diagnosed before 2001, 36 (13.3%) had been diagnosed in 2001 or later, and for 163 (60.4%) no date of diagnosis is available.",
+            "startOffset": 31312,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 42277,
+            "parents": [],
+            "secId": "sec0065",
+            "sentence": "The funder had no role in the interpretation of findings or decision to publish this manuscript.",
+            "startOffset": 42181,
+            "title": "Conflicts of interest"
+        },
+        {
+            "endOffset": 20706,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The RACF project was jointly developed by the Cambodian National Leprosy Elimination Programme (NLEP), the Campagne Internationale de L\u2019Ordre de Malte contre la L\u00e8pre (CIOMAL) and Novartis Foundation.",
+            "startOffset": 20506,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 35723,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "This is especially apparent in the relatively high number of diagnosed leprosy patients that were not listed in the national leprosy database, and the high proportion of missing data even for basic indicators such as sex of index patients.",
+            "startOffset": 35484,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30337,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "The leprosy patients detected through RACF among the contacts of index patients diagnosed between 2001 and 2010 were again predominantly male adults (Table 2).",
+            "startOffset": 30178,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 26863,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "In 12 out of the 54 ODs (22.2%) covered by the drives 4\u201311 the index patient tracing rate was lower than 50%.",
+            "startOffset": 26754,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 25515,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Standard demographic and leprosy-specific variables were used to characterize the index patients and newly detected leprosy patients among their contacts: sex (male/female), age group (\u226415 years and >15 years of age), disability grade (DG) 0, I or II, and leprosy type (paucibacillary (PB)/multibacillary (MB)).",
+            "startOffset": 25204,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 29591,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "No systematic difference was observed between the traced and the untraceable index patients in terms of their sex, age group, disability grade and leprosy type (Table 2).",
+            "startOffset": 29421,
+            "title": "Characteristics of leprosy patients diagnosed through routine services and RACF"
+        },
+        {
+            "endOffset": 22512,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The following day, index patients were visited and re-examined to confirm their leprosy status.",
+            "startOffset": 22417,
+            "title": "RACF and its implementation in Cambodia"
+        },
+        {
+            "endOffset": 18776,
+            "parents": [],
+            "refoffsets": {
+                "bib0030": {
+                    "endOffset": 18774,
+                    "startOffset": 18716
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "In 1998, Cambodia reached the WHO-defined threshold of leprosy elimination, namely <1 case per 10,000 population (CENAT \u2013 National Center for Tuberculosis and Leprosy, 2005).",
+            "startOffset": 18602,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16471,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 16469,
+                    "startOffset": 16441
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "To date, no biomedical tests are available to easily and reliably diagnose subclinical Mycobacterium leprae infections and leprosy disease (Roset Bahmanyar et al., 2016).",
+            "startOffset": 16301,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36007,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "First, the project had a rolling start with procedures and documentation being developed and refined over time.",
+            "startOffset": 35896,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27302,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Overall, no clear relationship became apparent between the number of index patients and the tracing rate.",
+            "startOffset": 27197,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 26298,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Of the 1,463 index patients, 67.3% were successfully traced during the RACF drives 4\u201311 in the years 2012\u20132015.",
+            "startOffset": 26187,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 37048,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "In order to provide further insights into the effects of RACF on the leprosy epidemiology over time, the need for systematically collected follow-up data cannot be overemphasized.",
+            "startOffset": 36869,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41864,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "The addition of SDR PEP could considerably increase the impact of RACF on transmission, and together the two approaches might offer an interesting option for countries with a relatively low number of new leprosy patients but evidence of ongoing transmission.",
+            "startOffset": 41606,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 32683,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "In 2015, neither an impact of the drive on the total number of patients detected nor on the proportion of patients with MB vs. PB leprosy can be observed.",
+            "startOffset": 32529,
+            "title": "Effectiveness of RACF as compared to routine activities"
+        },
+        {
+            "endOffset": 20142,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Last, we discuss future perspectives and integration with other innovative approaches for leprosy control.",
+            "startOffset": 20036,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23497,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Available data from the RACF drives included the general reports from the project build-up phase (drives 1\u20133) and detailed data from the fully operational phase (drives 4\u201311).",
+            "startOffset": 23322,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 29161,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Thus, new patients were found at similar rates among the contacts of index patients diagnosed between 3 and 12 years prior to the contact screening.",
+            "startOffset": 29013,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 26186,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "These index patients belonged to 1,287 different households.",
+            "startOffset": 26126,
+            "title": "Feasibility of RACF\u2014tracing of index patients and their contacts"
+        },
+        {
+            "endOffset": 41385,
+            "parents": [],
+            "secId": "sec0060",
+            "sentence": "The concentrated effort of a small team of trained leprosy specialists supported by local staff allowed the efficient tracing and screening of contacts without the need to establish a national system for contact tracing.",
+            "startOffset": 41165,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 18602,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The contact definition applied in a specific programme depends on the local level of stigma, resources and operational feasibility.",
+            "startOffset": 18471,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37364,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "Hence, on average, 3.5 individuals per household were documented.",
+            "startOffset": 37299,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31650,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Generally, information on these patients is very incomplete, and no detailed analysis is possible to determine whether they are systematically different from the registered cohort.",
+            "startOffset": 31470,
+            "title": "Leprosy patients who had been diagnosed but not formally registered in the national database"
+        },
+        {
+            "endOffset": 27650,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Over the same period, RACF identified 264 new leprosy patients.",
+            "startOffset": 27587,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 37712,
+            "parents": [],
+            "secId": "sec0055",
+            "sentence": "According to these numbers, the RACF drives 4\u201311 may have covered 70\u201380% of all household contacts, but missed 1\u20132 individuals in each index patient household.",
+            "startOffset": 37553,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28338,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "Overall, 75 new leprosy patients were identified among the 2,987 screened household members (NCDR household member screening = 25.1) and 189 were diagnosed among the 21,616 screened neighbors (NCDR neighbors screening = 8.7).",
+            "startOffset": 28113,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        },
+        {
+            "endOffset": 27586,
+            "parents": [
+                {
+                    "id": "sec0025",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0035",
+            "sentence": "A total of 1,097 leprosy patients have been newly listed in the NLEP national leprosy database from 2012\u20132015.",
+            "startOffset": 27476,
+            "title": "Feasibility of RACF\u2014diagnosis of leprosy patients"
+        }
+    ],
+    "docId": "S0001706X17307064",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Thomas",
+                "initial": "T.",
+                "last": "F\u00fcrst"
+            },
+            {
+                "email": null,
+                "first": "Arielle",
+                "initial": "A.",
+                "last": "Cavaliero"
+            },
+            {
+                "email": null,
+                "first": "Sambath",
+                "initial": "S.",
+                "last": "Lay"
+            },
+            {
+                "email": null,
+                "first": "Chrystel",
+                "initial": "C.",
+                "last": "Dayer"
+            },
+            {
+                "email": null,
+                "first": "Saren",
+                "initial": "S.",
+                "last": "Chan"
+            },
+            {
+                "email": null,
+                "first": "Ajda",
+                "initial": "A.",
+                "last": "Smrekar"
+            },
+            {
+                "email": null,
+                "first": "Visal",
+                "initial": "V.",
+                "last": "So"
+            },
+            {
+                "email": null,
+                "first": "Tanja",
+                "initial": "T.",
+                "last": "Barth-Jaeggi"
+            },
+            {
+                "email": "peter.steinmann@unibas.ch",
+                "first": "Peter",
+                "initial": "P.",
+                "last": "Steinmann"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2017.12.031",
+        "firstpage": "26",
+        "issn": "0001706X",
+        "keywords": [
+            "Active case finding",
+            "Cambodia",
+            "Control",
+            "Leprosy",
+            "Low-endemic setting",
+            "Operational research",
+            "Retrospective"
+        ],
+        "lastpage": "32",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "Retrospective active case finding in Cambodia: An innovative approach to leprosy control in a low-endemic country"
+    }
+}

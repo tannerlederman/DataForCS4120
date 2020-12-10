@@ -1,0 +1,2585 @@
+{
+    "abstract": "Human pluripotent stem cells (hPSCs) are thought to be a promising cell-source solution for regenerative medicine due to their indefinite proliferative potential and ability to differentiate to functional somatic cells. However, issues remain with regard to achieving reproducible differentiation of cells with the required functionality for realizing human transplantation therapies and with regard to reducing the potential for bacterial or fungal contamination. To meet these needs, we have developed a closed-channel culture device and corresponding control system. Uniformly-sized spheroidal hPSCs aggregates were formed inside wells within a closed-channel and maintained continuously throughout the culture process. Functional islet-like endocrine cell aggregates were reproducibly induced following a 30-day differentiation protocol. Our system shows an easily scalable, novel method for inducing PSC differentiation with both purity and functionality.",
+    "author_highlights": [
+        {
+            "endOffset": 14714,
+            "sentence": "A simple, closed-channel-based, semi-automatic culture system is proposed.",
+            "startOffset": 14640
+        },
+        {
+            "endOffset": 14795,
+            "sentence": "Uniform cell aggregate formation and culture is realized in microwell structure.",
+            "startOffset": 14715
+        },
+        {
+            "endOffset": 14875,
+            "sentence": "Functional islet cells are successfully induced following 30-plus-day protocol.",
+            "startOffset": 14796
+        },
+        {
+            "endOffset": 14951,
+            "sentence": "System requires no daily medium replacement and reduces contamination risk.",
+            "startOffset": 14876
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "James A.",
+                    "initial": "J.A.",
+                    "last": "Thomson"
+                }
+            ],
+            "doi": "10.1126/science.282.5391.1145",
+            "firstpage": "1145",
+            "issn": "00368075",
+            "lastpage": "1147",
+            "pmid": "9804556",
+            "pub_year": 1998,
+            "title": "Embryonic stem cell lines derived from human blastocysts",
+            "volume": "282"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Giuseppe",
+                    "initial": "G.",
+                    "last": "Pettinato"
+                },
+                {
+                    "first": "Xuejun",
+                    "initial": "X.",
+                    "last": "Wen"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Zhang"
+                }
+            ],
+            "doi": "10.1038/srep07402",
+            "issn": "20452322",
+            "pmid": "25492588",
+            "pub_year": 2014,
+            "title": "Formation of well-defined embryoid bodies from dissociated human induced pluripotent stem cells using microfabricated cell-repellent microwell arrays",
+            "volume": "4"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Zweigerdt"
+                },
+                {
+                    "first": "Ruth",
+                    "initial": "R.",
+                    "last": "Olmer"
+                },
+                {
+                    "first": "Harmeet",
+                    "initial": "H.",
+                    "last": "Singh"
+                },
+                {
+                    "first": "Axel",
+                    "initial": "A.",
+                    "last": "Haverich"
+                },
+                {
+                    "first": "Ulrich",
+                    "initial": "U.",
+                    "last": "Martin"
+                }
+            ],
+            "doi": "10.1038/nprot.2011.318",
+            "firstpage": "689",
+            "issn": "17542189",
+            "lastpage": "700",
+            "pmid": "21527925",
+            "pub_year": 2011,
+            "title": "Scalable expansion of human pluripotent stem cells in suspension culture",
+            "volume": "6"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Jeffrey M.",
+                    "initial": "J.M.",
+                    "last": "Karp"
+                },
+                {
+                    "first": "Judy",
+                    "initial": "J.",
+                    "last": "Yeh"
+                },
+                {
+                    "first": "George",
+                    "initial": "G.",
+                    "last": "Eng"
+                },
+                {
+                    "first": "Junji",
+                    "initial": "J.",
+                    "last": "Fukuda"
+                },
+                {
+                    "first": "James",
+                    "initial": "J.",
+                    "last": "Blumling"
+                },
+                {
+                    "first": "Kahp Yang",
+                    "initial": "K.Y.",
+                    "last": "Suh"
+                },
+                {
+                    "first": "Jianjun",
+                    "initial": "J.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Alborz",
+                    "initial": "A.",
+                    "last": "Mahdavi"
+                },
+                {
+                    "first": "Jeffrey",
+                    "initial": "J.",
+                    "last": "Borenstein"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Langer"
+                },
+                {
+                    "first": "Ali",
+                    "initial": "A.",
+                    "last": "Khademhosseini"
+                }
+            ],
+            "doi": "10.1039/b705085m",
+            "firstpage": "786",
+            "issn": "14730197",
+            "lastpage": "794",
+            "pmid": "17538722",
+            "pub_year": 2007,
+            "title": "Controlling size, shape and homogeneity of embryoid bodies using poly(ethylene glycol) microwells",
+            "volume": "7"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Christine L.",
+                    "initial": "C.L.",
+                    "last": "Mummery"
+                },
+                {
+                    "first": "Jianhua",
+                    "initial": "J.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Elizabeth S.",
+                    "initial": "E.S.",
+                    "last": "Ng"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Elliott"
+                },
+                {
+                    "first": "Andrew G.",
+                    "initial": "A.G.",
+                    "last": "Elefanty"
+                },
+                {
+                    "first": "Timothy J.",
+                    "initial": "T.J.",
+                    "last": "Kamp"
+                }
+            ],
+            "doi": "10.1161/CIRCRESAHA.110.227512",
+            "firstpage": "344",
+            "issn": "00097330",
+            "lastpage": "358",
+            "pmid": "22821908",
+            "pub_year": 2012,
+            "title": "Differentiation of human embryonic stem cells and induced pluripotent stem cells to cardiomyocytes: A methods overview",
+            "volume": "111"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Han Kyu",
+                    "initial": "H.K.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Clara",
+                    "initial": "C.",
+                    "last": "Velazquez Sanchez"
+                },
+                {
+                    "first": "Mei",
+                    "initial": "M.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Peter J.",
+                    "initial": "P.J.",
+                    "last": "Morin"
+                },
+                {
+                    "first": "John M.",
+                    "initial": "J.M.",
+                    "last": "Wells"
+                },
+                {
+                    "first": "Eugene B.",
+                    "initial": "E.B.",
+                    "last": "Hanlon"
+                },
+                {
+                    "first": "Weiming",
+                    "initial": "W.",
+                    "last": "Xia"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0163072",
+            "issn": "19326203",
+            "pub_year": 2016,
+            "title": "Three dimensional human neuro-spheroid model of Alzheimer's disease based on differentiated induced pluripotent stem cells",
+            "volume": "11"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Giuseppe",
+                    "initial": "G.",
+                    "last": "Pettinato"
+                },
+                {
+                    "first": "Rajesh",
+                    "initial": "R.",
+                    "last": "Ramanathan"
+                },
+                {
+                    "first": "Robert A.",
+                    "initial": "R.A.",
+                    "last": "Fisher"
+                },
+                {
+                    "first": "Martin J.",
+                    "initial": "M.J.",
+                    "last": "Mangino"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Xuejun",
+                    "initial": "X.",
+                    "last": "Wen"
+                }
+            ],
+            "doi": "10.1038/srep32888",
+            "issn": "20452322",
+            "pmid": "27616299",
+            "pub_year": 2016,
+            "title": "Scalable Differentiation of Human iPSCs in a Multicellular Spheroid-based 3D Culture into Hepatocyte-like Cells through Direct Wnt/\u03b2-catenin Pathway Inhibition",
+            "volume": "6"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Lindsey A.",
+                    "initial": "L.A.",
+                    "last": "Baker"
+                },
+                {
+                    "first": "Herv\u00e9",
+                    "initial": "H.",
+                    "last": "Tiriac"
+                },
+                {
+                    "first": "Hans",
+                    "initial": "H.",
+                    "last": "Clevers"
+                },
+                {
+                    "first": "David A.",
+                    "initial": "D.A.",
+                    "last": "Tuveson"
+                }
+            ],
+            "doi": "10.1016/j.trecan.2016.03.004",
+            "firstpage": "176",
+            "issn": "24058033",
+            "lastpage": "190",
+            "pub_year": 2016,
+            "title": "Modeling Pancreatic Cancer with Organoids",
+            "volume": "2"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Vinci"
+                },
+                {
+                    "first": "Sharon",
+                    "initial": "S.",
+                    "last": "Gowan"
+                },
+                {
+                    "first": "Frances",
+                    "initial": "F.",
+                    "last": "Boxall"
+                },
+                {
+                    "first": "Lisa",
+                    "initial": "L.",
+                    "last": "Patterson"
+                },
+                {
+                    "first": "Miriam",
+                    "initial": "M.",
+                    "last": "Zimmermann"
+                },
+                {
+                    "first": "William",
+                    "initial": "W.",
+                    "last": "Court"
+                },
+                {
+                    "first": "Cara",
+                    "initial": "C.",
+                    "last": "Lomas"
+                },
+                {
+                    "first": "Marta",
+                    "initial": "M.",
+                    "last": "Mendiola"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Hardisson"
+                },
+                {
+                    "first": "Suzanne A.",
+                    "initial": "S.A.",
+                    "last": "Eccles"
+                }
+            ],
+            "doi": "10.1186/1741-7007-10-29",
+            "issn": "17417007",
+            "pmid": "22439642",
+            "pub_year": 2012,
+            "title": "Advances in establishment and analysis of three-dimensional tumor spheroid-based functional assays for target validation and drug evaluation",
+            "volume": "10"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Madeline A.",
+                    "initial": "M.A.",
+                    "last": "Lancaster"
+                },
+                {
+                    "first": "Juergen A.",
+                    "initial": "J.A.",
+                    "last": "Knoblich"
+                }
+            ],
+            "doi": "10.1126/science.1247125",
+            "issn": "00368075",
+            "pmid": "25035496",
+            "pub_year": 2014,
+            "title": "Organogenesisin a dish: Modeling development and disease using organoid technologies",
+            "volume": "345"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Shuhei",
+                    "initial": "S.",
+                    "last": "Konagaya"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Yamauchi"
+                },
+                {
+                    "first": "Hirofumi",
+                    "initial": "H.",
+                    "last": "Suemori"
+                },
+                {
+                    "first": "Hiroo",
+                    "initial": "H.",
+                    "last": "Iwata"
+                }
+            ],
+            "doi": "10.1038/srep16647",
+            "issn": "20452322",
+            "pmid": "26573336",
+            "pub_year": 2015,
+            "title": "Long-term maintenance of human induced pluripotent stem cells by automated cell culture system",
+            "volume": "5"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Kazutoshi",
+                    "initial": "K.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Koji",
+                    "initial": "K.",
+                    "last": "Tanabe"
+                },
+                {
+                    "first": "Mari",
+                    "initial": "M.",
+                    "last": "Ohnuki"
+                },
+                {
+                    "first": "Megumi",
+                    "initial": "M.",
+                    "last": "Narita"
+                },
+                {
+                    "first": "Tomoko",
+                    "initial": "T.",
+                    "last": "Ichisaka"
+                },
+                {
+                    "first": "Kiichiro",
+                    "initial": "K.",
+                    "last": "Tomoda"
+                },
+                {
+                    "first": "Shinya",
+                    "initial": "S.",
+                    "last": "Yamanaka"
+                }
+            ],
+            "doi": "10.1016/j.cell.2007.11.019",
+            "firstpage": "861",
+            "issn": "00928674",
+            "lastpage": "872",
+            "pmid": "18035408",
+            "pub_year": 2007,
+            "title": "Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors",
+            "volume": "131"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Vincent C.",
+                    "initial": "V.C.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Jingjing",
+                    "initial": "J.",
+                    "last": "Ye"
+                },
+                {
+                    "first": "Praveen",
+                    "initial": "P.",
+                    "last": "Shukla"
+                },
+                {
+                    "first": "Giau",
+                    "initial": "G.",
+                    "last": "Hua"
+                },
+                {
+                    "first": "Danlin",
+                    "initial": "D.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Ziguang",
+                    "initial": "Z.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Jian chang",
+                    "initial": "J.c.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Jing",
+                    "initial": "J.",
+                    "last": "Chai"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Gold"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Hsu"
+                },
+                {
+                    "first": "Larry A.",
+                    "initial": "L.A.",
+                    "last": "Couture"
+                }
+            ],
+            "doi": "10.1016/j.scr.2015.08.002",
+            "firstpage": "365",
+            "issn": "18735061",
+            "lastpage": "375",
+            "pmid": "26318718",
+            "pub_year": 2015,
+            "title": "Development of a scalable suspension culture for cardiac differentiation from human pluripotent stem cells",
+            "volume": "15"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Felicia W.",
+                    "initial": "F.W.",
+                    "last": "Pagliuca"
+                },
+                {
+                    "first": "Jeffrey R.",
+                    "initial": "J.R.",
+                    "last": "Millman"
+                },
+                {
+                    "first": "Mads",
+                    "initial": "M.",
+                    "last": "G\u00fcrtler"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Segel"
+                },
+                {
+                    "first": "Alana",
+                    "initial": "A.",
+                    "last": "Van Dervort"
+                },
+                {
+                    "first": "Jennifer Hyoje",
+                    "initial": "J.H.",
+                    "last": "Ryu"
+                },
+                {
+                    "first": "Quinn P.",
+                    "initial": "Q.P.",
+                    "last": "Peterson"
+                },
+                {
+                    "first": "Dale",
+                    "initial": "D.",
+                    "last": "Greiner"
+                },
+                {
+                    "first": "Douglas A.",
+                    "initial": "D.A.",
+                    "last": "Melton"
+                }
+            ],
+            "doi": "10.1016/j.cell.2014.09.040",
+            "firstpage": "428",
+            "issn": "00928674",
+            "lastpage": "439",
+            "pmid": "25303535",
+            "pub_year": 2014,
+            "title": "Generation of functional human pancreatic \u03b2 cells in vitro",
+            "volume": "159"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Charles E.",
+                    "initial": "C.E.",
+                    "last": "Murry"
+                },
+                {
+                    "first": "Gordon",
+                    "initial": "G.",
+                    "last": "Keller"
+                }
+            ],
+            "doi": "10.1016/j.cell.2008.02.008",
+            "firstpage": "661",
+            "issn": "00928674",
+            "lastpage": "680",
+            "pmid": "18295582",
+            "pub_year": 2008,
+            "title": "Differentiation of Embryonic Stem Cells to\u00a0Clinically Relevant Populations: Lessons from Embryonic Development",
+            "volume": "132"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Alan",
+                    "initial": "A.",
+                    "last": "Trounson"
+                },
+                {
+                    "first": "Natalie D.",
+                    "initial": "N.D.",
+                    "last": "DeWitt"
+                }
+            ],
+            "doi": "10.1038/nrm.2016.10",
+            "firstpage": "194",
+            "issn": "14710072",
+            "lastpage": "200",
+            "pmid": "26908143",
+            "pub_year": 2016,
+            "title": "Pluripotent stem cells progressing to the clinic",
+            "volume": "17"
+        },
+        "bib5": null,
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Shuhei",
+                    "initial": "S.",
+                    "last": "Konagaya"
+                },
+                {
+                    "first": "Hiroo",
+                    "initial": "H.",
+                    "last": "Iwata"
+                }
+            ],
+            "doi": "10.1016/j.bbagen.2014.09.025",
+            "firstpage": "22",
+            "issn": "03044165",
+            "lastpage": "32",
+            "pmid": "25281770",
+            "pub_year": 2015,
+            "title": "Microencapsulation of dopamine neurons derived from human induced pluripotent stem cells",
+            "volume": "1850"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Alireza",
+                    "initial": "A.",
+                    "last": "Rezania"
+                },
+                {
+                    "first": "Jennifer E.",
+                    "initial": "J.E.",
+                    "last": "Bruin"
+                },
+                {
+                    "first": "Payal",
+                    "initial": "P.",
+                    "last": "Arora"
+                },
+                {
+                    "first": "Allison",
+                    "initial": "A.",
+                    "last": "Rubin"
+                },
+                {
+                    "first": "Irina",
+                    "initial": "I.",
+                    "last": "Batushansky"
+                },
+                {
+                    "first": "Ali",
+                    "initial": "A.",
+                    "last": "Asadi"
+                },
+                {
+                    "first": "Shannon",
+                    "initial": "S.",
+                    "last": "O'Dwyer"
+                },
+                {
+                    "first": "Nina",
+                    "initial": "N.",
+                    "last": "Quiskamp"
+                },
+                {
+                    "first": "Majid",
+                    "initial": "M.",
+                    "last": "Mojibian"
+                },
+                {
+                    "first": "Tobias",
+                    "initial": "T.",
+                    "last": "Albrecht"
+                },
+                {
+                    "first": "Yu Hsuan Carol",
+                    "initial": "Y.H.C.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "James D.",
+                    "initial": "J.D.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Timothy J.",
+                    "initial": "T.J.",
+                    "last": "Kieffer"
+                }
+            ],
+            "doi": "10.1038/nbt.3033",
+            "firstpage": "1121",
+            "issn": "10870156",
+            "lastpage": "1133",
+            "pmid": "25211370",
+            "pub_year": 2014,
+            "title": "Reversal of diabetes with insulin-producing cells derived in vitro from human pluripotent stem cells",
+            "volume": "32"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Moriguchi"
+                },
+                {
+                    "first": "Miwako",
+                    "initial": "M.",
+                    "last": "Kajihara"
+                },
+                {
+                    "first": "Ritsuko",
+                    "initial": "R.",
+                    "last": "Esaki"
+                },
+                {
+                    "first": "Ayako",
+                    "initial": "A.",
+                    "last": "Harada"
+                },
+                {
+                    "first": "Homare",
+                    "initial": "H.",
+                    "last": "Shimohata"
+                },
+                {
+                    "first": "Hisashi",
+                    "initial": "H.",
+                    "last": "Oishi"
+                },
+                {
+                    "first": "Michito",
+                    "initial": "M.",
+                    "last": "Hamada"
+                },
+                {
+                    "first": "Naoki",
+                    "initial": "N.",
+                    "last": "Morito"
+                },
+                {
+                    "first": "Kazuteru",
+                    "initial": "K.",
+                    "last": "Hasegawa"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Kudo"
+                },
+                {
+                    "first": "James Douglas",
+                    "initial": "J.D.",
+                    "last": "Engel"
+                },
+                {
+                    "first": "Masayuki",
+                    "initial": "M.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Satoru",
+                    "initial": "S.",
+                    "last": "Takahashi"
+                }
+            ],
+            "doi": "10.1128/MCB.25.12.4969-4976.2005",
+            "firstpage": "4969",
+            "issn": "02707306",
+            "lastpage": "4976",
+            "pmid": "15923615",
+            "pub_year": 2005,
+            "title": "MafA is a key regulator of glucose-stimulated insulin secretion",
+            "volume": "25"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "C\u00e9line Liu",
+                    "initial": "C.L.",
+                    "last": "Bauwens"
+                },
+                {
+                    "first": "Raheem",
+                    "initial": "R.",
+                    "last": "Peerani"
+                },
+                {
+                    "first": "Sylvia",
+                    "initial": "S.",
+                    "last": "Niebruegge"
+                },
+                {
+                    "first": "Kimberly A.",
+                    "initial": "K.A.",
+                    "last": "Woodhouse"
+                },
+                {
+                    "first": "Eugenia",
+                    "initial": "E.",
+                    "last": "Kumacheva"
+                },
+                {
+                    "first": "Mansoor",
+                    "initial": "M.",
+                    "last": "Husain"
+                },
+                {
+                    "first": "Peter W.",
+                    "initial": "P.W.",
+                    "last": "Zandstra"
+                }
+            ],
+            "doi": "10.1634/stemcells.2008-0183",
+            "firstpage": "2300",
+            "issn": "10665099",
+            "lastpage": "2310",
+            "pmid": "18583540",
+            "pub_year": 2008,
+            "title": "Control of human embryonic stem cell colony and aggregate size heterogeneity influences differentiation trajectories",
+            "volume": "26"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 28217,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The following day, the differentiation protocol was initiated (day 0).",
+            "startOffset": 28147,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 28772,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Fresh medium was intermittently injected 10 times per day (every 2.4 h) for 15 min at 30 \u03bcl/min throughout the differentiation protocol (Fig. S2A).",
+            "startOffset": 28625,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 18016,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "A disposable, polydimethylsiloxane (PDMS) chip with an open channel and 382 microwells was used as the primary component of the cell culture device.",
+            "startOffset": 17868,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 23845,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The cell nuclei were counterstained with 1 \u03bcg/mL Hoechst 33258 (Dojindo Laboratories, Kumamoto, Japan).",
+            "startOffset": 23742,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 28530,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Cells were sequentially induced to definitive endoderm lineage (DE) during 3 days, to pancreatic endoderm (PE) during the following 7 days, and to immature pancreatic islet cells (II) in the subsequent 10 days.",
+            "startOffset": 28320,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 32420,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 32419,
+                    "startOffset": 32415
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Too large an aggregate will suffer from oxygen deficiency or insufficient stimulation by signaling molecules in the aggregate core, while too small an aggregate will experience deficiency in paracrine/autocrine factors necessary for survival and cell fate determination [10].",
+            "startOffset": 32145,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34244,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In our preliminary experiment, differentiated embryoid bodies containing three germ layers were easily prepared by the culturing of hiPSCs in medium containing 10% serum (data not shown).",
+            "startOffset": 34057,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30241,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At day 4, more than 98% of cells were SOX17 positive, indicating successful differentiation to DE.",
+            "startOffset": 30143,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 16171,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 16170,
+                    "startOffset": 16167
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In our previous study, we developed a method for the differentiation of hiPSCs to pancreatic endocrine cells [5].",
+            "startOffset": 16058,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34056,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The induced differentiation of hiPSCs into pancreatic islet cells was a test for the potential of the device.",
+            "startOffset": 33947,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29721,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "To verify the success of the differentiation process, the expression profile of genes representative for DE (SOX17, FOXA2), PE (SOX9, PDX1), II (NKX6.1) were analyzed by qPCR (Fig. 3D).",
+            "startOffset": 29536,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 24084,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Cells were permeabilized and labeled by antibodies following the method described above.",
+            "startOffset": 23996,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 31997,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Aggregates collected during the last stage of differentiation from three independent trials (day 28, 31, 38) were sequentially incubated with low and high concentrations of glucose, and the corresponding variation in insulin secretion was observed.",
+            "startOffset": 31749,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 24591,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "About 100 differentiated cell aggregates were collected from 3 independent differentiation trials on days 28, 31, and 38, respectively, and incubated in a 2.5 mM glucose Krebs-Ringer's buffer (KRB) for 1 h at 37 \u00b0C.",
+            "startOffset": 24376,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 24331,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "For analyzing cell viability, dissociated cells were stained and assayed by the ViaCount reagent (Merck Millipore) according to the manufacturer's instructions.",
+            "startOffset": 24171,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 31748,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The functionality of the induced islet cells was analyzed by glucose-stimulated insulin secretion assay outside of the culture device (Fig. 4C).",
+            "startOffset": 31604,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 29453,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The appearance of differentiating aggregates was sequentially changed into brownish spheroids with an uneven surface at day 5, to black spheroids with a tightly packed smooth surface at day10, and to brownish yellow distorted spheroids at day 20\u201327 (Fig. 3B).",
+            "startOffset": 29194,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 15876,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In some cases, however, it has been difficult to reproduce published results, even when the reported procedures were strictly followed.",
+            "startOffset": 15741,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30142,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Next, the cell population of each differentiation stage was analyzed by flow cytometry (Fig. 3E).",
+            "startOffset": 30045,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 27565,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Flow cytometry assay showed that more than 95% of the cells were viable after 3 days of culture.",
+            "startOffset": 27469,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 34921,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The scalability of the culture system is important especially with regard to the field of regenerative medicine, as a huge number of cells will be required to realize human transplantation.",
+            "startOffset": 34732,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32561,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 32560,
+                    "startOffset": 32557
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Our previous results demonstrated that cellular aggregates of inadequate size experienced cell death during the differentiation process [6].",
+            "startOffset": 32421,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19735,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After introduction of the cells, the device was left for 10 min at room temperature to achieve uniform sedimentation of cells into the microwells.",
+            "startOffset": 19589,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 28938,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Larger cell growth rate was observed for intermittent medium delivery relative to continuous medium delivery as indicated in the aggregate sizes at day 4 (Fig. S2B).",
+            "startOffset": 28773,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 28038,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The following protocol for the induced differentiation of hiPSCs in pancreatic islet cells was employed.",
+            "startOffset": 27934,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 19949,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The entire culture device unit was then connected to the control unit and left in a CO2 incubator.",
+            "startOffset": 19851,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 28319,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The series of culture media presented in Fig. 3A were used to induce pancreatic cell differentiation.",
+            "startOffset": 28218,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 25837,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The base aluminum plate had windows beneath each culture device to observe cells in microwells (Fig. S1A).",
+            "startOffset": 25731,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 25227,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Total genomic DNA was quantified by Quant-iT PicoGreen dsDNA Assay Kit (Thermo Fisher Scientific) and used to normalize insulin concentration.",
+            "startOffset": 25085,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 15553,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 15552,
+                    "startOffset": 15549
+                }
+            },
+            "secId": "sec1",
+            "sentence": "It has been reported that various types of somatic functional cells can be obtained by differentiating hESCs/hiPSCs in vitro by mimicking the process of embryonic development [3].",
+            "startOffset": 15374,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26913,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Human iPSCs were dissociated into single cells and their suspension was injected into the device through the non-outlet luer port by a disposable syringe.",
+            "startOffset": 26759,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 29058,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The culture was initiated with 5000 cells/well to obtain the maximum possible number of induced pancreatic islet cells.",
+            "startOffset": 28939,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 29900,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At day 4, SOX17, FOXA2 were first detected.",
+            "startOffset": 29857,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 16057,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These discrepancies might be caused by differences in cell strains or culture media, or the failure may simply be the result of inexperience with regard to cell culture techniques.",
+            "startOffset": 15877,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19850,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "About 1 ml of E8 medium was then introduced at a rate of 20 \u03bcl/s to flush out any cells outside of the microwells.",
+            "startOffset": 19736,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 20267,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The formation of spheroidal cellular aggregates was confirmed 24 \u00b1 3 h after the application of hiPSCs into the channel device, at which point the differentiation protocol was initiated (day 0).",
+            "startOffset": 20073,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 33109,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The simple combination of microwells and a fluidic culture system were enough to realize the long-term culture of uniform cellular aggregates.",
+            "startOffset": 32967,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24893,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Fresh KRB containing 2.5 mM glucose was used to wash cells three times between each procedure.",
+            "startOffset": 24799,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 27709,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Cells were collected from the device by disassembling the system or by flushing the cells out of the microwells with high (>2 ml/s) flow rates.",
+            "startOffset": 27566,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 28624,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Cells were matured to pancreatic islet cells following additional culture of at least 7 days.",
+            "startOffset": 28531,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 18491,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The PDMS chip was exposed to 0.5% of 2-methacryroyloxyethylphosphorylcholine polymer (MPC) in ethanol and dried to prevent surface cell adhesion.",
+            "startOffset": 18346,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 18345,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "PDMS curing was carried at 125 \u00b0C for 30 min and the final PDMS chip was coated with LipidureR-CM5206 (NOF Corporation, Tokyo, Japan) by dipping.",
+            "startOffset": 18200,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 30426,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "About 70% of cells started to express the characteristic protein PDX1 for pancreatic lineage at day 7, and the population of PDX1 expressing cells increased to more than 95% at day 13.",
+            "startOffset": 30242,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 30860,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Results showed that a large majority of cells were positive for PDX1 and NKX6.1.",
+            "startOffset": 30780,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 16514,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, differentiation efficiency was both technician and lot dependent.",
+            "startOffset": 16440,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17817,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The 771-2 was genome integration-free hiPSC line that was reprogrammed by microRNA cocktail and polycistronic self-replicative RNA.",
+            "startOffset": 17686,
+            "title": "Cell line"
+        },
+        {
+            "endOffset": 31199,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The induction of pancreatic endocrinal cells was also demonstrated using the 771-2 hiPSC line.",
+            "startOffset": 31105,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 30779,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Cellular aggregates at day 27 of the differentiation process were plated onto Geltrex-coated dishes and adherent cells were analyzed the next day by immunostaining (Fig. 4A).",
+            "startOffset": 30605,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 29536,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Aggregates became largest at day 3 and shrank over following days (Fig. 3B and C).",
+            "startOffset": 29454,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 22212,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Briefly, MCDB131 medium (Thermo Fisher Scientific) containing 1x Glutamax (Life Technologies), 1.5 mg/mL sodium bicarbonate, and 1x Pen-Strep was used with following supplements: day 0\u20131: 150 ng/mL activin A (R&D systems, Minneapolis, MN), 4.5 \u03bcM CHIR99021 (Wako Pure Chemistry), 10 mM Glucose, 0.5% fat-free BSA (Wako Pure Chemistry); day 1\u20133: 150 ng/mL activin A, 1/50000 ITS-X supplement (Life Technologies), 10 mM Glucose, 0.5% fat-free BSA; day 3\u20135: 75 ng/mL FGF-7 (PeproTech, Rocky Hill, NJ), 0.25 mM Ascorbic Acid (Sigma-Aldrich), 1/50000 ITS-X supplement, 10 mM Glucose, 0.5% fat-free BSA; day 5\u20137: 75 ng/mL FGF-7, 0.25 mM Ascorbic Acid, 0.38 \u03bcM SANT-1 (Wako Pure Chemistry), 0.30 \u03bcM TPB (Merck Millipore, Billerica, MA), 0.15 \u03bcM LDN 193189 (Wako Pure Chemistry), 1.5 \u03bcM retinoic acid (Sigma-Aldrich), 1/200 ITS-X supplement, 20 mM Glucose, 2.0% fat-free BSA; day 7\u201310: 3.0 ng/mL FGF-7, 0.25 mM Ascorbic Acid, 0.38 \u03bcM SANT-1, 0.15 \u03bcM TPB, 0.30 \u03bcM LDN 193189, 0.15 \u03bcM retinoic acid, 1/200 ITS-X supplement, 20 mM Glucose, 2.0% fat-free BSA; day 10\u201313: 0.38 \u03bcM SANT-1, 0.15 \u03bcM LDN 193189, 0.075 \u03bcM retinoic acid, 1.50 \u03bcM T3 (Sigma-Aldrich), 15.0 \u03bcM ALK5 inhibitor (Enzo Life Science, Farmingdale, NY), 10.0 \u03bcM ZnSO4, 10.0 \u03bcg/ml Heparin (Nacarai Tesque), 1/200 ITS-X supplement, 20 mM Glucose, 2.0% fat-free BSA; day 13\u201320: 0.15 \u03bcM LDN 193189, 1.50 \u03bcM T3, 15.0 \u03bcM ALK5 inhibitor, 0.15 \u03bcM GS inhibitor XX (Merck Millipore), 10.0 \u03bcM ZnSO4, 10.0 \u03bcg/ml Heparin, 1/200 ITS-X supplement, 20 mM Glucose, 2.0% fat-free BSA; day 20\u223c: 1.50 \u03bcM T3, 15.0 \u03bcM ALK5 inhibitor, 15.0 \u03bcM Trolox (Enzo Life Science), 3.0 \u03bcM R428 (Selleckchem, Houston, TX), 1.0 mM N-Cys (Sigma-Aldrich), 10.0 \u03bcM ZnSO4, 10.0 \u03bcg/ml Heparin, 1/200 ITS-X supplement, 20 mM Glucose, 2.0% fat-free BSA.",
+            "startOffset": 20448,
+            "title": "Inducing pancreatic islet cells"
+        },
+        {
+            "endOffset": 32858,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 32857,
+                    "startOffset": 32853
+                }
+            },
+            "secId": "sec4",
+            "sentence": "This behavior becomes an issue when certain kinds of somatic cells are induced because, although suspension cultures using non-adhesive dishes or shaking flasks are common for culturing large quantities of cells, it is very difficult to control the size of the resulting cellular aggregates [11].",
+            "startOffset": 32562,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22531,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Cells were collected at days 0 (undifferentiated hiPSCs), 4, 10, 20, and 27 of the differentiation process.",
+            "startOffset": 22424,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 34556,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 34555,
+                    "startOffset": 34548
+                },
+                "bib17": {
+                    "endOffset": 34555,
+                    "startOffset": 34548
+                },
+                "bib18": {
+                    "endOffset": 34555,
+                    "startOffset": 34548
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In addition, cancer tissues and organoids have been cultured as aggregates to reproduce physiological conditions in vitro [16\u201318].",
+            "startOffset": 34426,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22333,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Images of cellular aggregates were taken at the end of each stage and size analysis was performed using ImageJ software.",
+            "startOffset": 22213,
+            "title": "Inducing pancreatic islet cells"
+        },
+        {
+            "endOffset": 25629,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The upper block contained an inlet port connected to a small peristaltic pump, a luer port for injecting cells, and another luer port for the channel outlet.",
+            "startOffset": 25472,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 27468,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Cell adhesion to the walls of the microwells was not observed.",
+            "startOffset": 27406,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 28146,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The suspension of dissociated hiPSCs was injected into the device and allowed to form aggregates overnight.",
+            "startOffset": 28039,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 16862,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Human iPSCs were differentiated into pancreatic islet cells as the working example.",
+            "startOffset": 16779,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35504,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Medium replacement of channel-based culture system could be achieved by simple pumping and its closed structure made it easy to maintain aseptic condition.",
+            "startOffset": 35349,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22423,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Primer sequences used in this work are listed in Supplementary Table 1.",
+            "startOffset": 22352,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 15741,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 15740,
+                    "startOffset": 15737
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Some clinical trials for the treatment of age-related macular degeneration, Parkinson's disease, spinal cord injuries, myocardial infarction, and type I diabetes have already started [4].",
+            "startOffset": 15554,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35825,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although currently the system described herein can handle hundreds of cellular aggregates, it will be easy to expand the scale of the device by extending the channel length and by adding other channels in parallel due to the fact that the culture condition is static and controlled by programmed culture medium delivery.",
+            "startOffset": 35505,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31423,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Successful differentiation into pancreatic islet cells was confirmed by qPCR analysis (Fig. 4B).",
+            "startOffset": 31327,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 20447,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 20446,
+                    "startOffset": 20443
+                }
+            },
+            "secId": "sec2.5",
+            "sentence": "The human iPSCs aggregates were induced to differentiate into pancreatic islet cells using media previously described with some modifications [7].",
+            "startOffset": 20301,
+            "title": "Inducing pancreatic islet cells"
+        },
+        {
+            "endOffset": 18732,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "After sterilization by autoclaving in water, the chip was set on an aluminum base plate with a supporting polycarbonate plate below and sealed from above with a separate polycarbonate block, thereby creating a closed-channel culture device.",
+            "startOffset": 18492,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 23995,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "For analyzing the expression of marker proteins, cellular aggregates were dissociated by TrypLE into single cells and fixed with PFA.",
+            "startOffset": 23862,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 26552,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "When distilled water was injected into a device containing a blue dye solution at 30 \u03bcl/min, a steady flow with no stagnation was observed in the channel (Fig. 1E).",
+            "startOffset": 26388,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 34732,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We expect that our device can be applied to these research areas due to the size control of the produced aggregates and the ease with which long-term culture can be conducted.",
+            "startOffset": 34557,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31326,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The same differentiation process was used to achieve induced cells that expressed INSULIN, GLUCAGON or SOMATOSTATIN (Fig. S4).",
+            "startOffset": 31200,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 33947,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This simplification of cell culture procedures and the overall ease-of-use of our culture system make it easy to reproducibly achieve the induced differentiation of functional pancreatic cells from hPSCs (Fig. 4).",
+            "startOffset": 33734,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22881,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Quantitative PCR (qPCR) was carried out using the StepOne\u2122 Real-Time PCR System (Life Technologies) with the Power SYBR Green PCR Master Mix (Life Technologies).",
+            "startOffset": 22720,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 17483,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 17482,
+                    "startOffset": 17479
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "The 253G1 cell line was stably maintained in DMEM/F12 (Sigma-Aldrich, St. Louis, MO, USA) supplemented with 20% (v/v) knockout serum replacement (Life Technologies, Carlsbad, CA, USA), 0.1 mM nonessential amino acid (Life Technologies), 2 mM l-glutamine (Sigma-Aldrich), 0.1 mM 2-mercaptoethanol (Nacalai Tesque, Kyoto, Japan), and 5 ng/mL basic fibroblast growth factor (Wako Pure Chemical Industries, Osaka, Japan) with a feeder layer of SNL 76/7 cells (ECACC, Salisbury, UK) [6].",
+            "startOffset": 17001,
+            "title": "Cell line"
+        },
+        {
+            "endOffset": 32144,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 32143,
+                    "startOffset": 32140
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It is known that cellular aggregate diameter is an important factor in determining cell fate when inducing differentiation of hPSCs [9].",
+            "startOffset": 32008,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19115,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Flow rate for culture medium delivery to the device was programmed using a PC connected to the unit.",
+            "startOffset": 19015,
+            "title": "Culture system"
+        },
+        {
+            "endOffset": 26125,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "At the outlet, a one-directional check valve was incorporated to avoid unexpected back-flow and to pressurize the inside of the device (Fig. S1C).",
+            "startOffset": 25979,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 18199,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Thermally curable PDMS (Silpot 184; Dow Corning Toray, Tokyo, Japan) was molded once to create a PDMS master and then again to replicate the geometry of the original aluminum master.",
+            "startOffset": 18017,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 19014,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Pumps were driven by a control unit (Arkray, Inc., Kyoto, Japan) containing a programmable driver for the pump.",
+            "startOffset": 18903,
+            "title": "Culture system"
+        },
+        {
+            "endOffset": 16333,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Cell aggregates were prepared from hiPSCs in an agarose-gel microwell plate and maintained in series of culture media containing different factors and chemicals.",
+            "startOffset": 16172,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26216,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The inner volume of the channel, including the 382 microwells, was about 380 \u03bcl (Fig. 1C).",
+            "startOffset": 26126,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 19458,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "At one day before inducing differentiation, hiPSCs were dissociated using TrypLE (Life Technologies) and suspended in E8 medium containing 10 \u03bcM Y-27632 (Wako Pure Chemistry) at certain densities.",
+            "startOffset": 19262,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 35064,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 35063,
+                    "startOffset": 35059
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Some automatic robot systems that can handle increased numbers of culture dishes have already been reported as an approach to this issue [19].",
+            "startOffset": 34922,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25471,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "A closed channel device for culturing cells was prepared by sealing an open PDMS-based disposable culture chip from above with a polycarbonate block held in place by 6 compression springs (Fig. 1A).",
+            "startOffset": 25273,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 25084,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Supernatants were collected after each incubation period and the insulin concentration in each supernatant was measured with the Ultrasensitive Insulin ELISA Kit (Mercodia, Uppsala, Sweden).",
+            "startOffset": 24894,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 26698,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The measured optical absorbance at 630 nm of the spent solution showed that 97.5% of the channel volume had been replaced after 15 min (Fig. 1F).",
+            "startOffset": 26553,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 33540,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Reusable sealing caps for conventional 50 ml tubes were also introduced to make it easy to replace the culture medium supply to the system (Fig. S1B).",
+            "startOffset": 33390,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23741,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "The cells were then washed with PBST and stained with fluorescence-conjugated secondary antibodies.",
+            "startOffset": 23642,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 29856,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Aggregates were collected at day 4, 10, 20, 27 of the differentiation protocol and two batches of aggregates from each step were used.",
+            "startOffset": 29722,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 31020,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Cells expressing hormone proteins specific for pancreatic alpha cells (GLUCAGON), beta cells (c-PEPTIDE/INSULIN), and delta cells (SOMATOSTATIN) were observed.",
+            "startOffset": 30861,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 32966,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 32965,
+                    "startOffset": 32958
+                },
+                "bib12": {
+                    "endOffset": 32965,
+                    "startOffset": 32958
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In contrast, microwell structures can split cells equally for the production of uniform aggregates [10,12].",
+            "startOffset": 32859,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23539,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Fixed cells were permeabilized with 0.2% Triton X-100 in PBS, washed with 0.05% Tween 20 in PBS (PBST) three times for 10 min each, and then treated with Blocking One Reagent (Nacarai Tesque) for 90 min at room temperature.",
+            "startOffset": 23316,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 30045,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At day 20, the expression of NKX6.1 was significantly elevated.",
+            "startOffset": 29982,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 17000,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The human induced pluripotent stem cell (hiPSC) line 253G1 was the primary cell line used in this study.",
+            "startOffset": 16896,
+            "title": "Cell line"
+        },
+        {
+            "endOffset": 29194,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The culture device was able to maintain viable aggregates and induce DE efficiently under this seeding condition (Fig. 2A and Fig. S3).",
+            "startOffset": 29059,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 31603,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 31555,
+                    "startOffset": 31552
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "The expression levels of not only pancreatic hormones (INS, GCG, SST) but also MAFA, the gene essential for matured islet cells [8], were clearly elevated during day 20 to day 27.",
+            "startOffset": 31424,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 23151,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Cellular aggregates were taken out from the culture device and seeded onto Geltrex-coated plastic dishes.",
+            "startOffset": 23046,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 29981,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At day 10, the expression of SOX17 was silenced, and SOX9 and PDX1were detected.",
+            "startOffset": 29901,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 16778,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we developed a closed channel-based culture system to reduce the risks described above.",
+            "startOffset": 16676,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24798,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "After these procedures, the cells were depolarized with 30 mM KCl for 30 min to achieve forced secretion.",
+            "startOffset": 24693,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 33733,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "A culture process lasting more than one month was accomplished by replacing the culture tubes at intervals ranging from a few days to a week with no daily medium exchange requirement (Fig. 3).",
+            "startOffset": 33541,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27405,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The diameter of all cell aggregates from a single culture device (average \u00b1 standard deviation, n = 382) on the day after seeding (day 0) was 224 \u00b1 13 \u03bcm (seeded at 1250 cells/well), 275 \u00b1 14 \u03bcm (2500 cells/well), and 338 \u00b1 16 \u03bcm (5000 cells/well).",
+            "startOffset": 27157,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 27875,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The inside diameter of the outlet was designed to be larger (1.5 mm) than the inlet (0.8 mm) to avoid excess shear stress on the cell aggregates during flushing out.",
+            "startOffset": 27710,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 35348,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, a low-cost, simplified closed-channel system with microwell structure will be suitable for making quality-managed functional somatic cells from hPSCs.",
+            "startOffset": 35189,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34425,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 34337,
+                    "startOffset": 34333
+                },
+                "bib14": {
+                    "endOffset": 34358,
+                    "startOffset": 34354
+                },
+                "bib15": {
+                    "endOffset": 34382,
+                    "startOffset": 34378
+                }
+            },
+            "secId": "sec4",
+            "sentence": "There are many studies in which different kinds of somatic cells such as cardiomyocytes [13], neuronal cells [14], and hepatic cells [15] were differentiated from hPSCs aggregates.",
+            "startOffset": 34245,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16675,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Additionally, it was difficult to maintain sterile conditions in the microplate over the 30-day culture period due to the frequent replacement of culture media.",
+            "startOffset": 16515,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16439,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We were able to successfully derive pancreatic endocrine cells from three different strains of iPS cells.",
+            "startOffset": 16334,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23641,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "First antibodies were applied with Blocking One Reagent and incubated for 90 min at room temperature.",
+            "startOffset": 23540,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 33389,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The schedule for medium delivery was precisely controlled by the programmable control unit to perform induced differentiation in a reproducible fashion.",
+            "startOffset": 33237,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24692,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "The cells were then sequentially exposed to 2.5 mM and 22.5 mM glucose KRB (0.5 mL each) for 30 min.",
+            "startOffset": 24592,
+            "title": "Glucose-stimulated insulin secretion assay"
+        },
+        {
+            "endOffset": 27041,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Injected cells dispersed evenly throughout the channel and into the microwells, forming spherical aggregates the following day.",
+            "startOffset": 26914,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 19219,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Fresh and spent culture media were stored in conventional 50 ml tubes with sealing caps (Arkray, Inc.).",
+            "startOffset": 19116,
+            "title": "Culture system"
+        },
+        {
+            "endOffset": 23315,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "On the following day, adherent cells were fixed with 4% paraformaldehyde/PBS (PFA) for 15 min at room temperature, and washed with PBS three times for 10 min each.",
+            "startOffset": 23152,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 24170,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Labeled cells were analyzed by a Guava EasyCyte Mini Flowcytometer (Merck Millipore).",
+            "startOffset": 24085,
+            "title": "Flow cytometry"
+        },
+        {
+            "endOffset": 26387,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The surface of the PDMS chip was coated by MPC for preventing cell adhesion and allowing for spherical cellular aggregate formation from dispersed single cells (Fig. 1D).",
+            "startOffset": 26217,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 31104,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "No cells expressed TRYPSIN, a representative protein for pancreatic exocrine cells.",
+            "startOffset": 31021,
+            "title": "Functionality of artificial pancreatic islet cells"
+        },
+        {
+            "endOffset": 27156,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The size of the hiPSCs aggregates was controlled by changing the cell density in the injected suspension (Fig. 2).",
+            "startOffset": 27042,
+            "title": "Culture of uniform human iPS cell aggregates in the device"
+        },
+        {
+            "endOffset": 25730,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Two culture devices were set on a base plate in parallel for performing duplicated assays (Fig. 1B).",
+            "startOffset": 25630,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 30552,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "At day 20, about 35% of cells were found to express INSULIN, a well-known hormone protein specific for pancreatic beta cells.",
+            "startOffset": 30427,
+            "title": "Successful differentiation of hiPSCs to pancreatic cells"
+        },
+        {
+            "endOffset": 18886,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Peristaltic pumps (Aquatech Japan, Inc., Osaka, Japan) were set on the base plate and connected to the culture device to control culture medium delivery.",
+            "startOffset": 18733,
+            "title": "Fabrication of the closed channel culture device"
+        },
+        {
+            "endOffset": 19588,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The cells were introduced via a luer port on the upper polycarbonate block using a 1 ml syringe at a flow rate of about 200 \u03bcl/s.",
+            "startOffset": 19459,
+            "title": "Starting culture with the channel device"
+        },
+        {
+            "endOffset": 15373,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15106,
+                    "startOffset": 15103
+                },
+                "bib2": {
+                    "endOffset": 15160,
+                    "startOffset": 15157
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Human embryonic stem cells (hESCs) [1] and human induced pluripotent stem cells (hiPSCs) [2] have attracted a great deal of attention from the medical sciences due to their self-renewal capabilities and pluripotency, and have been examined as cell sources for regenerative medicine and for drug screening.",
+            "startOffset": 15068,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33236,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Each aggregate was maintained in a microwell throughout the differentiation protocol and induced under homogeneous conditions.",
+            "startOffset": 33110,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17685,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The other hiPSC line used in this study, the 771-2 cell line, was cultured in StemFit AK02N medium (ReproCELL Inc., Kanagawa, Japan) using Geltrex (Thermo Fisher Scientific, Waltham, MA)-coated dishes.",
+            "startOffset": 17484,
+            "title": "Cell line"
+        },
+        {
+            "endOffset": 23045,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "All antibodies used in this work are listed in Supplementary Table 2.",
+            "startOffset": 22976,
+            "title": "Immunostaining"
+        },
+        {
+            "endOffset": 22719,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Complementary DNA templates were synthesized from about 20 aggregates from each sample by Power SYBR Green Cells-to-Ct Kit (Life Technologies) according to the manufacturer's instruction.",
+            "startOffset": 22532,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 35188,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 35084,
+                    "startOffset": 35080
+                },
+                "bib21": {
+                    "endOffset": 35116,
+                    "startOffset": 35112
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Cardiomyocytes [20] and pancreatic islet cells [21] were reported to be produced in large quantity by using spinner flasks.",
+            "startOffset": 35065,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22959,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The expression level of GAPDH gene was used for normalization of each sample.",
+            "startOffset": 22882,
+            "title": "Quantitative PCR"
+        },
+        {
+            "endOffset": 25978,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Fresh and spent medium was stored in conventional 50 ml tubes and connected to the culture devices through reusable sealing caps (Fig. S1B).",
+            "startOffset": 25838,
+            "title": "Closed-channel based culture system"
+        },
+        {
+            "endOffset": 20072,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Fresh E8 medium containing 10 \u03bcM Y-27632 was injected 10 times a day at a flow rate of 30 \u03bcl/min for 15 min (every 2.4 h).",
+            "startOffset": 19950,
+            "title": "Starting culture with the channel device"
+        }
+    ],
+    "docId": "S0006291X17307283",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "hiranok@arkray.co.jp",
+                "first": "Kunio",
+                "initial": "K.",
+                "last": "Hirano"
+            },
+            {
+                "email": null,
+                "first": "Shuhei",
+                "initial": "S.",
+                "last": "Konagaya"
+            },
+            {
+                "email": null,
+                "first": "Alexander",
+                "initial": "A.",
+                "last": "Turner"
+            },
+            {
+                "email": null,
+                "first": "Yuichiro",
+                "initial": "Y.",
+                "last": "Noda"
+            },
+            {
+                "email": null,
+                "first": "Shigeru",
+                "initial": "S.",
+                "last": "Kitamura"
+            },
+            {
+                "email": null,
+                "first": "Hidetoshi",
+                "initial": "H.",
+                "last": "Kotera"
+            },
+            {
+                "email": null,
+                "first": "Hiroo",
+                "initial": "H.",
+                "last": "Iwata"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.04.062",
+        "firstpage": "344",
+        "issn": "0006291X",
+        "keywords": [
+            "Cellular aggregates",
+            "Induced differentiation",
+            "Microfluidics",
+            "Microwells",
+            "Pancreatic islet cells",
+            "iPS cells"
+        ],
+        "lastpage": "350",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Closed-channel culture system for efficient and reproducible differentiation of human pluripotent stem cells into islet cells"
+    }
+}

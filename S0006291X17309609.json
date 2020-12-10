@@ -1,0 +1,2714 @@
+{
+    "abstract": "Although hypoxia-inducible factor-l\u03b1 (HIF-l\u03b1) has been reported to have an important role in the metabolism and synthesis of the extracellular matrix (ECM) of nucleus pulposus cells (NPCs), the underlying mechanism has not been fully clarified. Here, we show for the first time that NOTCH1 expression is decreased in NPs isolated from degenerated human intervertebral discs (IVDs), as well as in the NPs of NP-specific HIF-1\u03b1\u2212/\u2212 mice. Our study reveals that overexpression of HIF-1\u03b1 leads to increased expression of NOTCH1, the NOTCH1 ligand JAGGED1, and its target gene hairy and enhancer of split-1 (HES1), while also upregulating collagen \u03a0 and aggrecan expression in human NPCs. Importantly, these changes in expression are significantly suppressed by the NOTCH1 inhibitor DAPT. In parallel with changes in collagen \u03a0 and aggrecan expression, inhibition of the HIF-1\u03b1-NOTCH1 pathway altered ECM turnover by suppressing expression of the matrix metalloproteinases MMP1 and MMP13, while increasing the expression of tissue inhibitor of metalloproteinase-1 (TIMP1). Lastly, activation of NOTCH1 via JAGGED1 in human NPCs isolated from degenerated IVDs restored collagen \u03a0 and aggrecan expression. Therefore, our study shows that HIF-1\u03b1 regulates collagen \u03a0 and aggrecan expression through NOTCH1 signaling and implicate NOTCH1 as a potential therapeutic target in disc degeneration.",
+    "author_highlights": [
+        {
+            "endOffset": 18802,
+            "sentence": "NOTCH1 expression is decreased in nucleus pulposus tissues (NPs) from individuals with intervertetral disc degeneration.",
+            "startOffset": 18682
+        },
+        {
+            "endOffset": 18875,
+            "sentence": "NOTCH1 expression is decreased in the NPs of NP-specific HIF-1\u03b1\u2212/\u2212 mice.",
+            "startOffset": 18803
+        },
+        {
+            "endOffset": 18990,
+            "sentence": "HIF-1\u03b1 regulates collagen \u03a0 and aggrecan expression in human nuclues pulposus cells (NPCs) through NOTCH1 pathway.",
+            "startOffset": 18876
+        },
+        {
+            "endOffset": 19071,
+            "sentence": "HIF-1\u03b1 regulates MMP1 and MMP13 expression in human NPCs through NOTCH1 pathway.",
+            "startOffset": 18991
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "C. L.",
+                    "initial": "C.L.",
+                    "last": "Le Maitre"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Pockert"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Buttle"
+                },
+                {
+                    "first": "A. J.",
+                    "initial": "A.J.",
+                    "last": "Freemont"
+                },
+                {
+                    "first": "J. A.",
+                    "initial": "J.A.",
+                    "last": "Hoyland"
+                }
+            ],
+            "doi": "10.1042/BST0350652",
+            "firstpage": "652",
+            "issn": "03005127",
+            "lastpage": "655",
+            "pmid": "17635113",
+            "pub_year": 2007,
+            "title": "Matrix synthesis and degradation in human intervertebral disc degeneration",
+            "volume": "35"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Fujita"
+                },
+                {
+                    "first": "Yuichiro",
+                    "initial": "Y.",
+                    "last": "Hirose"
+                },
+                {
+                    "first": "Cassie M.",
+                    "initial": "C.M.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Chiba"
+                },
+                {
+                    "first": "Takeshi",
+                    "initial": "T.",
+                    "last": "Miyamoto"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Toyama"
+                },
+                {
+                    "first": "Irving M.",
+                    "initial": "I.M.",
+                    "last": "Shapiro"
+                },
+                {
+                    "first": "Makarand V.",
+                    "initial": "M.V.",
+                    "last": "Risbud"
+                }
+            ],
+            "doi": "10.1096/fj.13-243741",
+            "firstpage": "2455",
+            "issn": "08926638",
+            "lastpage": "2465",
+            "pmid": "24558194",
+            "pub_year": 2014,
+            "title": "HIF-1-PHD2 axis controls expression of syndecan 4 in nucleus pulposus cells",
+            "volume": "28"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Kee Yong",
+                    "initial": "K.Y.",
+                    "last": "Ha"
+                },
+                {
+                    "first": "In Jun",
+                    "initial": "I.J.",
+                    "last": "Koh"
+                },
+                {
+                    "first": "Papni Arjandas",
+                    "initial": "P.A.",
+                    "last": "Kirpalani"
+                },
+                {
+                    "first": "Young Yul",
+                    "initial": "Y.Y.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Yun Kyoung",
+                    "initial": "Y.K.",
+                    "last": "Cho"
+                },
+                {
+                    "first": "Gil Son",
+                    "initial": "G.S.",
+                    "last": "Khang"
+                },
+                {
+                    "first": "Chang Whan",
+                    "initial": "C.W.",
+                    "last": "Han"
+                }
+            ],
+            "doi": "10.1097/01.brs.0000219493.76081.d6",
+            "firstpage": "1309",
+            "issn": "03622436",
+            "lastpage": "1313",
+            "pmid": "16721291",
+            "pub_year": 2006,
+            "title": "The expression of hypoxia inducible factor-1\u03b1 and apoptosis in herniated discs",
+            "volume": "31"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Wen Ping",
+                    "initial": "W.P.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Xue Jin",
+                    "initial": "X.J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Cong Ren",
+                    "initial": "C.R.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Li Qun",
+                    "initial": "L.Q.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Neng",
+                    "initial": "N.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Fa Sheng",
+                    "initial": "F.S.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Jian Hua",
+                    "initial": "J.H.",
+                    "last": "Lin"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0073158",
+            "issn": "19326203",
+            "pmid": "23991178",
+            "pub_year": 2013,
+            "title": "Polymorphism in the Hypoxia-Inducible Factor 1alpha Gene May Confer Susceptibility to LDD in Chinese Cohort",
+            "volume": "8"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Christian W.A.",
+                    "initial": "C.W.A.",
+                    "last": "Pfirrmann"
+                },
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Metzdorf"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Zanetti"
+                },
+                {
+                    "first": "Juerg",
+                    "initial": "J.",
+                    "last": "Hodler"
+                },
+                {
+                    "first": "Norbert",
+                    "initial": "N.",
+                    "last": "Boos"
+                }
+            ],
+            "doi": "10.1097/00007632-200109010-00011",
+            "firstpage": "1873",
+            "issn": "03622436",
+            "lastpage": "1878",
+            "pmid": "11568697",
+            "pub_year": 2001,
+            "title": "Magnetic resonance classification of lumbar intervertebral disc degeneration",
+            "volume": "26"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Yufei",
+                    "initial": "Y.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "Peng",
+                    "initial": "P.",
+                    "last": "Jia"
+                },
+                {
+                    "first": "Kai",
+                    "initial": "K.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Changjun",
+                    "initial": "C.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Qi"
+                },
+                {
+                    "first": "Niandong",
+                    "initial": "N.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Xing",
+                    "initial": "X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Fei",
+                    "initial": "F.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Changwei",
+                    "initial": "C.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Lei",
+                    "initial": "L.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Lianfu",
+                    "initial": "L.",
+                    "last": "Deng"
+                }
+            ],
+            "doi": "10.1038/cddis.2016.339",
+            "issn": "20414889",
+            "pmid": "27787522",
+            "pub_year": 2016,
+            "title": "Desferrioxamine reduces ultrahigh-molecular-weight polyethylene-induced osteolysis by restraining inflammatory osteoclastogenesis via heme oxygenase-1",
+            "volume": "7"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Hua",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Ye",
+                    "initial": "Y.",
+                    "last": "Tian"
+                },
+                {
+                    "first": "Jianru",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Kate L.E.",
+                    "initial": "K.L.E.",
+                    "last": "Phillips"
+                },
+                {
+                    "first": "Abbie L.A.",
+                    "initial": "A.L.A.",
+                    "last": "Binch"
+                },
+                {
+                    "first": "Sara",
+                    "initial": "S.",
+                    "last": "Dunn"
+                },
+                {
+                    "first": "Alison",
+                    "initial": "A.",
+                    "last": "Cross"
+                },
+                {
+                    "first": "Neil",
+                    "initial": "N.",
+                    "last": "Chiverton"
+                },
+                {
+                    "first": "Zhaomin",
+                    "initial": "Z.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "Irving M.",
+                    "initial": "I.M.",
+                    "last": "Shapiro"
+                },
+                {
+                    "first": "Christine L.",
+                    "initial": "C.L.",
+                    "last": "Le Maitre"
+                },
+                {
+                    "first": "Makarand V.",
+                    "initial": "M.V.",
+                    "last": "Risbud"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.446633",
+            "firstpage": "16761",
+            "issn": "00219258",
+            "lastpage": "16774",
+            "pmid": "23589286",
+            "pub_year": 2013,
+            "title": "Inflammatory cytokines induce NOTCH signaling in nucleus pulposus cells: Implications in intervertebral disc degeneration",
+            "volume": "288"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Mohammad Shahidul",
+                    "initial": "M.S.",
+                    "last": "Makki"
+                },
+                {
+                    "first": "Tariq M.",
+                    "initial": "T.M.",
+                    "last": "Haqqi"
+                }
+            ],
+            "doi": "10.1038/emm.2015.66",
+            "issn": "12263613",
+            "pmid": "26450708",
+            "pub_year": 2015,
+            "title": "miR-139 modulates MCPIP1/IL-6 expression and induces apoptosis in human OA chondrocytes",
+            "volume": "47"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Girish",
+                    "initial": "G.",
+                    "last": "Pattappa"
+                },
+                {
+                    "first": "Zhen",
+                    "initial": "Z.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Marianna",
+                    "initial": "M.",
+                    "last": "Peroglio"
+                },
+                {
+                    "first": "Nadine",
+                    "initial": "N.",
+                    "last": "Wismer"
+                },
+                {
+                    "first": "Mauro",
+                    "initial": "M.",
+                    "last": "Alini"
+                },
+                {
+                    "first": "Sibylle",
+                    "initial": "S.",
+                    "last": "Grad"
+                }
+            ],
+            "doi": "10.1111/j.1469-7580.2012.01521.x",
+            "firstpage": "480",
+            "issn": "00218782",
+            "lastpage": "496",
+            "pmid": "22686699",
+            "pub_year": 2012,
+            "title": "Diversity of intervertebral disc cells: Phenotype and function",
+            "volume": "221"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Michael A.",
+                    "initial": "M.A.",
+                    "last": "Adams"
+                },
+                {
+                    "first": "Patricia",
+                    "initial": "P.",
+                    "last": "Dolan"
+                },
+                {
+                    "first": "Donal S.",
+                    "initial": "D.S.",
+                    "last": "McNally"
+                }
+            ],
+            "doi": "10.1016/j.matbio.2009.06.004",
+            "firstpage": "384",
+            "issn": "0945053X",
+            "lastpage": "389",
+            "pmid": "19586615",
+            "pub_year": 2009,
+            "title": "The internal mechanical functioning of intervertebral discs and articular cartilage, and its relevance to matrix biology",
+            "volume": "28"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Akihiko",
+                    "initial": "A.",
+                    "last": "Hiyama"
+                },
+                {
+                    "first": "Renata",
+                    "initial": "R.",
+                    "last": "Skubutyte"
+                },
+                {
+                    "first": "Dessislava",
+                    "initial": "D.",
+                    "last": "Markova"
+                },
+                {
+                    "first": "D. Greg",
+                    "initial": "D.G.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Sanjay",
+                    "initial": "S.",
+                    "last": "Yadla"
+                },
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Sakai"
+                },
+                {
+                    "first": "Joji",
+                    "initial": "J.",
+                    "last": "Mochida"
+                },
+                {
+                    "first": "Todd J.",
+                    "initial": "T.J.",
+                    "last": "Albert"
+                },
+                {
+                    "first": "Irving M.",
+                    "initial": "I.M.",
+                    "last": "Shapiro"
+                },
+                {
+                    "first": "Makarand V.",
+                    "initial": "M.V.",
+                    "last": "Risbud"
+                }
+            ],
+            "doi": "10.1002/art.30246",
+            "firstpage": "1355",
+            "issn": "00043591",
+            "lastpage": "1364",
+            "pmid": "21305512",
+            "pub_year": 2011,
+            "title": "Hypoxia activates the notch signaling pathway in cells of the intervertebral disc: Implications in degenerative disc disease",
+            "volume": "63"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Kathryn T.",
+                    "initial": "K.T.",
+                    "last": "Weber"
+                },
+                {
+                    "first": "Timothy D.",
+                    "initial": "T.D.",
+                    "last": "Jacobsen"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Maidhof"
+                },
+                {
+                    "first": "Justin",
+                    "initial": "J.",
+                    "last": "Virojanapa"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Overby"
+                },
+                {
+                    "first": "Ona",
+                    "initial": "O.",
+                    "last": "Bloom"
+                },
+                {
+                    "first": "Shaheda",
+                    "initial": "S.",
+                    "last": "Quraishi"
+                },
+                {
+                    "first": "Mitchell",
+                    "initial": "M.",
+                    "last": "Levine"
+                },
+                {
+                    "first": "Nadeen O.",
+                    "initial": "N.O.",
+                    "last": "Chahine"
+                }
+            ],
+            "doi": "10.1007/s12178-014-9253-8",
+            "firstpage": "18",
+            "issn": "1935973X",
+            "lastpage": "31",
+            "pub_year": 2015,
+            "title": "Developments in intervertebral disc disease research: pathophysiology, mechanobiology, and therapeutics",
+            "volume": "8"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Birkedal-Hansen"
+                },
+                {
+                    "first": "W. G.I.",
+                    "initial": "W.G.I.",
+                    "last": "Moore"
+                },
+                {
+                    "first": "M. K.",
+                    "initial": "M.K.",
+                    "last": "Bodden"
+                },
+                {
+                    "first": "L. J.",
+                    "initial": "L.J.",
+                    "last": "Windsor"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Birkedal-Hansen"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "DeCarlo"
+                },
+                {
+                    "first": "J. A.",
+                    "initial": "J.A.",
+                    "last": "Engler"
+                }
+            ],
+            "doi": "10.1177/10454411930040020401",
+            "firstpage": "197",
+            "issn": "10454411",
+            "lastpage": "250",
+            "pmid": "8435466",
+            "pub_year": 1993,
+            "title": "Matrix metalloproteinases: A review",
+            "volume": "4"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Daniel E.",
+                    "initial": "D.E.",
+                    "last": "Gomez"
+                },
+                {
+                    "first": "Daniel F.",
+                    "initial": "D.F.",
+                    "last": "Alonso"
+                },
+                {
+                    "first": "Hitoshi",
+                    "initial": "H.",
+                    "last": "Yoshiji"
+                },
+                {
+                    "first": "Unnur P.",
+                    "initial": "U.P.",
+                    "last": "Thorgeirsson"
+                }
+            ],
+            "firstpage": "111",
+            "issn": "01719335",
+            "lastpage": "122",
+            "pmid": "9352216",
+            "pub_year": 1997,
+            "title": "Tissue inhibitors of metalloproteinases: Structure, regulation and biological functions",
+            "volume": "74"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Jill T.",
+                    "initial": "J.T.",
+                    "last": "Norman"
+                },
+                {
+                    "first": "Ian M.",
+                    "initial": "I.M.",
+                    "last": "Clark"
+                },
+                {
+                    "first": "Patricia L.",
+                    "initial": "P.L.",
+                    "last": "Garcia"
+                }
+            ],
+            "doi": "10.1046/j.1523-1755.2000.00419.x",
+            "firstpage": "2351",
+            "issn": "00852538",
+            "lastpage": "2366",
+            "pmid": "11115069",
+            "pub_year": 2000,
+            "title": "Hypoxia promotes fibrogenesis in human renal fibroblasts",
+            "volume": "58"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Albert C.",
+                    "initial": "A.C.",
+                    "last": "Koong"
+                },
+                {
+                    "first": "Nicholas C.",
+                    "initial": "N.C.",
+                    "last": "Denko"
+                },
+                {
+                    "first": "Karen M.",
+                    "initial": "K.M.",
+                    "last": "Hudson"
+                },
+                {
+                    "first": "Cornelia",
+                    "initial": "C.",
+                    "last": "Schindler"
+                },
+                {
+                    "first": "Lillian",
+                    "initial": "L.",
+                    "last": "Swiersz"
+                },
+                {
+                    "first": "Cameron",
+                    "initial": "C.",
+                    "last": "Koch"
+                },
+                {
+                    "first": "Sydney",
+                    "initial": "S.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "Hani",
+                    "initial": "H.",
+                    "last": "Ibrahim"
+                },
+                {
+                    "first": "Quynh T.",
+                    "initial": "Q.T.",
+                    "last": "Le"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Terris"
+                },
+                {
+                    "first": "Amato J.",
+                    "initial": "A.J.",
+                    "last": "Giaccia"
+                }
+            ],
+            "firstpage": "883",
+            "issn": "00085472",
+            "lastpage": "887",
+            "pmid": "10706099",
+            "pub_year": 2000,
+            "title": "Candidate genes for the hypoxic tumor phenotype",
+            "volume": "60"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Peter S.",
+                    "initial": "P.S.",
+                    "last": "Burrage"
+                },
+                {
+                    "first": "Kimberlee S.",
+                    "initial": "K.S.",
+                    "last": "Mix"
+                },
+                {
+                    "first": "Constance E.",
+                    "initial": "C.E.",
+                    "last": "Brinckerhoff"
+                }
+            ],
+            "doi": "10.2741/1817",
+            "firstpage": "529",
+            "issn": "10939946",
+            "lastpage": "543",
+            "pmid": "16146751",
+            "pub_year": 2006,
+            "title": "Matrix metalloproteinases: Role in arthritis",
+            "volume": "11"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Yeon Ah",
+                    "initial": "Y.A.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Hyun M.",
+                    "initial": "H.M.",
+                    "last": "Choi"
+                },
+                {
+                    "first": "Sang Hoon",
+                    "initial": "S.H.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Seung Jae",
+                    "initial": "S.J.",
+                    "last": "Hong"
+                },
+                {
+                    "first": "Hyung In",
+                    "initial": "H.I.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Myung C.",
+                    "initial": "M.C.",
+                    "last": "Yoo"
+                },
+                {
+                    "first": "Kyoung S.",
+                    "initial": "K.S.",
+                    "last": "Kim"
+                }
+            ],
+            "doi": "10.1093/rheumatology/ker327",
+            "firstpage": "443",
+            "issn": "14620324",
+            "lastpage": "450",
+            "pmid": "22123992",
+            "pub_year": 2012,
+            "title": "Hypoxia differentially affects IL-1\u03b2-stimulated MMP-1 and MMP-13 expression of fibroblast-like synoviocytes in an HIF-1\u03b1-dependent manner",
+            "volume": "51"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Matthew P.",
+                    "initial": "M.P.",
+                    "last": "Vincenti"
+                },
+                {
+                    "first": "Constance E.",
+                    "initial": "C.E.",
+                    "last": "Brinckerhoff"
+                }
+            ],
+            "doi": "10.1186/ar401",
+            "firstpage": "157",
+            "issn": "14659905",
+            "lastpage": "164",
+            "pmid": "12010565",
+            "pub_year": 2002,
+            "title": "Transcriptional regulation of collagenase (MMP-1, MMP-13) genes in arthritis: Integration of complex signaling pathways for the recruitment of gene-specific transcription factors",
+            "volume": "4"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Ulf",
+                    "initial": "U.",
+                    "last": "M\u00fcller-Ladner"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Gay"
+                }
+            ],
+            "doi": "10.1136/ard.61.11.957",
+            "firstpage": "957",
+            "issn": "00034967",
+            "lastpage": "959",
+            "pmid": "12379515",
+            "pub_year": 2002,
+            "title": "MMPs and rheumatoid synovial fibroblasts: Siamese twins in joint destruction?",
+            "volume": "61"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Arjen B.",
+                    "initial": "A.B.",
+                    "last": "Blom"
+                },
+                {
+                    "first": "Sarah M.",
+                    "initial": "S.M.",
+                    "last": "Brockbank"
+                },
+                {
+                    "first": "Peter L.",
+                    "initial": "P.L.",
+                    "last": "Van Lent"
+                },
+                {
+                    "first": "Henk M.",
+                    "initial": "H.M.",
+                    "last": "Van Beuningen"
+                },
+                {
+                    "first": "Jeroen",
+                    "initial": "J.",
+                    "last": "Geurts"
+                },
+                {
+                    "first": "Nozomi",
+                    "initial": "N.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Peter M.",
+                    "initial": "P.M.",
+                    "last": "Van Der Kraan"
+                },
+                {
+                    "first": "Fons A.",
+                    "initial": "F.A.",
+                    "last": "Van De Loo"
+                },
+                {
+                    "first": "B. Wim",
+                    "initial": "B.W.",
+                    "last": "Schreurs"
+                },
+                {
+                    "first": "Kristen",
+                    "initial": "K.",
+                    "last": "Clements"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Newham"
+                },
+                {
+                    "first": "Wim B.",
+                    "initial": "W.B.",
+                    "last": "Van Den Berg"
+                }
+            ],
+            "doi": "10.1002/art.24247",
+            "firstpage": "501",
+            "issn": "00043591",
+            "lastpage": "512",
+            "pmid": "19180479",
+            "pub_year": 2009,
+            "title": "Involvement of the Wnt signaling pathway in experimental and human osteoarthritis: Prominent role of Wnt-induced signaling protein 1",
+            "volume": "60"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Iatridis"
+                },
+                {
+                    "first": "Steven B.",
+                    "initial": "S.B.",
+                    "last": "Nicoll"
+                },
+                {
+                    "first": "Arthur J.",
+                    "initial": "A.J.",
+                    "last": "Michalek"
+                },
+                {
+                    "first": "Benjamin A.",
+                    "initial": "B.A.",
+                    "last": "Walter"
+                },
+                {
+                    "first": "Michelle S.",
+                    "initial": "M.S.",
+                    "last": "Gupta"
+                }
+            ],
+            "doi": "10.1016/j.spinee.2012.12.002",
+            "firstpage": "243",
+            "issn": "15299430",
+            "lastpage": "262",
+            "pmid": "23369494",
+            "pub_year": 2013,
+            "title": "Role of biomechanics in intervertebral disc degeneration and regenerative therapies: What needs repairing in the disc and what are promising biomaterials for its repair?",
+            "volume": "13"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Jill P.G.",
+                    "initial": "J.P.G.",
+                    "last": "Urban"
+                },
+                {
+                    "first": "Stanton",
+                    "initial": "S.",
+                    "last": "Smith"
+                },
+                {
+                    "first": "Jeremy C.T.",
+                    "initial": "J.C.T.",
+                    "last": "Fairbank"
+                }
+            ],
+            "doi": "10.1097/01.brs.0000146499.97948.52",
+            "firstpage": "2700",
+            "issn": "03622436",
+            "lastpage": "2709",
+            "pmid": "15564919",
+            "pub_year": 2004,
+            "title": "Nutrition of the intervertebral disc",
+            "volume": "29"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "W. J.",
+                    "initial": "W.J.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "X. K.",
+                    "initial": "X.K.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "X. F.",
+                    "initial": "X.F.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "Y. H.",
+                    "initial": "Y.H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "S. D.",
+                    "initial": "S.D.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "Lei Sheng",
+                    "initial": "L.S.",
+                    "last": "Jiang"
+                }
+            ],
+            "doi": "10.1177/039463201302600304",
+            "firstpage": "601",
+            "issn": "03946320",
+            "lastpage": "609",
+            "pmid": "24067457",
+            "pub_year": 2013,
+            "title": "SHH-dependent knockout of HIF-1 alpha accelerates the degenerative process in mouse intervertebral disc",
+            "volume": "26"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Samantha N.",
+                    "initial": "S.N.",
+                    "last": "Greer"
+                },
+                {
+                    "first": "Julie L.",
+                    "initial": "J.L.",
+                    "last": "Metcalf"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Ohh"
+                }
+            ],
+            "doi": "10.1038/emboj.2012.125",
+            "firstpage": "2448",
+            "issn": "02614189",
+            "lastpage": "2460",
+            "pmid": "22562152",
+            "pub_year": 2012,
+            "title": "The updated biology of hypoxia-inducible factor",
+            "volume": "31"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Roland H.",
+                    "initial": "R.H.",
+                    "last": "Wenger"
+                }
+            ],
+            "doi": "10.1096/fj.01-0944rev",
+            "firstpage": "1151",
+            "issn": "08926638",
+            "lastpage": "1162",
+            "pmid": "12153983",
+            "pub_year": 2002,
+            "title": "Cellular adaptation to hypoxia: O2-sensing protein hydroxylases, hypoxia-inducible transcription factors, and O2-regulated gene expression",
+            "volume": "16"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Makarand V.",
+                    "initial": "M.V.",
+                    "last": "Risbud"
+                },
+                {
+                    "first": "Asha",
+                    "initial": "A.",
+                    "last": "Guttapalli"
+                },
+                {
+                    "first": "David G.",
+                    "initial": "D.G.",
+                    "last": "Stokes"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Hawkins"
+                },
+                {
+                    "first": "Keith G.",
+                    "initial": "K.G.",
+                    "last": "Danielson"
+                },
+                {
+                    "first": "Thomas P.",
+                    "initial": "T.P.",
+                    "last": "Schaer"
+                },
+                {
+                    "first": "Todd J.",
+                    "initial": "T.J.",
+                    "last": "Albert"
+                },
+                {
+                    "first": "Irving M.",
+                    "initial": "I.M.",
+                    "last": "Shapiro"
+                }
+            ],
+            "doi": "10.1002/jcb.20765",
+            "firstpage": "152",
+            "issn": "07302312",
+            "lastpage": "159",
+            "pmid": "16408279",
+            "pub_year": 2006,
+            "title": "Nucleus pulposus cells express HIF-1\u03b1 under normoxic culture conditions: A metabolic adaptation to the intervertebral disc microenvironment",
+            "volume": "98"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Cassie M.",
+                    "initial": "C.M.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Nobuyuki",
+                    "initial": "N.",
+                    "last": "Fujita"
+                },
+                {
+                    "first": "Bau Lin",
+                    "initial": "B.L.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Jessica R.",
+                    "initial": "J.R.",
+                    "last": "Ong"
+                },
+                {
+                    "first": "Karen M.",
+                    "initial": "K.M.",
+                    "last": "Lyons"
+                },
+                {
+                    "first": "Irving M.",
+                    "initial": "I.M.",
+                    "last": "Shapiro"
+                },
+                {
+                    "first": "Makarand V.",
+                    "initial": "M.V.",
+                    "last": "Risbud"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.448860",
+            "firstpage": "12654",
+            "issn": "00219258",
+            "lastpage": "12666",
+            "pmid": "23530034",
+            "pub_year": 2013,
+            "title": "Hypoxia-inducible factor (HIF)-1\u03b1 and CCN2 form a regulatory circuit in hypoxic nucleus pulposus cells: CCN2 suppresses HIF-1\u03b1 level and transcriptional activity",
+            "volume": "288"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 25881,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The extracted proteins were resolved on 10% SDS-PAGE gels and transferred onto PVDF membranes (EMD Millipore Corporation, US).",
+            "startOffset": 25755,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 29113,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 28897,
+                    "startOffset": 28893
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "NOTCH1 signaling is critical for the maintenance of NPC proliferation in the hypoxic niche of the disc [15], and we saw decreased expression of NOTCH1, the NOTCH1 ligand JAGGED1, and its target gene hairy and enhancer of split-1 (HES1) in human degenerated NP tissues when compared with that in control tissues (Fig. 2a\u2013c).",
+            "startOffset": 28790,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 22694,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Each patient consented to the sample collection.",
+            "startOffset": 22646,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 27735,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, these proteins' expression decreased significantly with increasing severity of disc degeneration (Fig. 1a and b).",
+            "startOffset": 27613,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 19447,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 19446,
+                    "startOffset": 19443
+                }
+            },
+            "secId": "sec1",
+            "sentence": "As the inner core of IVDs, nucleus pulposus (NP) is composed of a gel-like material that mainly consists of water, aggrecan, and a loose network of collagen fibers [1].",
+            "startOffset": 19279,
+            "title": "Background"
+        },
+        {
+            "endOffset": 25389,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Control and HIF-1\u03b1-deficient mice were examined at 2, 4 weeks old, with 5 mice in each group.",
+            "startOffset": 25296,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 28537,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Taken together, these results reveal that HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NP tissues during IVD degeneration.",
+            "startOffset": 28400,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 26666,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 26665,
+                    "startOffset": 26661
+                }
+            },
+            "secId": "sec2.9",
+            "sentence": "RNA analysis was done as previously reported [14].",
+            "startOffset": 26616,
+            "title": "Real-time RT-PCR analysis"
+        },
+        {
+            "endOffset": 27479,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To understand the clinical relevance of HIF-1\u03b1 in intervertebral disc degeneration, we assayed HIF-1\u03b1 expression in human NP tissues isolated from degenerated IVDs.",
+            "startOffset": 27315,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 29681,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The results showed that HIF-1\u03b1 and VHL knockdown had opposite effects on the expression of NOTCH1, JAGGED1, and HES1, with HIF-1\u03b1 knockdown decreasing expression of these genes and VHL knockdown increasing expression, however, these processes were significantly dampened by the NOTCH1 inhibitor DAPT (Fig. 3a and b).",
+            "startOffset": 29365,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 31846,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Since JAGGED1 could upregulate collagen \u03a0 and aggrecan expression, we next investigated whether MMP1 and MMP13 expression could also be mediated by JAGGED1.",
+            "startOffset": 31690,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 20983,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 20982,
+                    "startOffset": 20978
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Ha et al. demonstrated that HIF-1 expression was increased in non-contained herniated lumbar discs, and this increase may contribute to apoptosis of NPCs [11].",
+            "startOffset": 20824,
+            "title": "Background"
+        },
+        {
+            "endOffset": 27064,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "For all statistical tests, we considered P value < 0.05 to be statistically significant.",
+            "startOffset": 26976,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 24162,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "UB and LB represent the length of the upper vertebrae body and the lower vertebrae body, respectively.",
+            "startOffset": 24060,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 36734,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, our study provides the first evidence that HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in human NPCs through the NOTCH1 pathway.",
+            "startOffset": 36578,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22645,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Human NP tissue samples were obtained from 32 patients (Pfirrmann grades 2\u20135, mean age of 47 years, 19 males and 13 females) with intervertebral disc herniation, spinal stenosis, and lumbar fracture.",
+            "startOffset": 22446,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 21711,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Our findings uncover a vital protective role of HIF-1\u03b1 against ECM protein degradation via the NOTCH1 pathway.",
+            "startOffset": 21601,
+            "title": "Background"
+        },
+        {
+            "endOffset": 31054,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Therefor, we hypothesized that HIF-1\u03b1 might mediate MMP1 and MMP13 expression in NPCs.",
+            "startOffset": 30968,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 31376,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "On the other hand, HIF-1\u03b1 overexpression via VHL knockdown decreased MMP1 and MMP13 expression and increased TIMP1 expression.",
+            "startOffset": 31250,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 33742,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 33741,
+                    "startOffset": 33737
+                }
+            },
+            "secId": "sec4",
+            "sentence": "It translocates to the nucleus to associate with recombination signal-binding protein for immunoglobulin \u03ba J region (RBP-J\u03ba) (also known as CSL (CBF-1, Su(H), Lag-1)) and Mastermind-like (Maml) proteins to activate the transcription of target genes, including HES and HEY [15].",
+            "startOffset": 33465,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24059,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Disc Height Index (DHI) = 2 (DH1 + DH2+DH3)/(LB1 + LB2 +LB3) + (UB1+UB2+UB3).",
+            "startOffset": 23982,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 36291,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "First, although our results revealed that NOTCH1 pathway is essential for HIF-1\u03b1-regulated type \u03a0 collagen and aggrecan expression, these results were mainly acquired based on data from human NPCs; whether the same mechanisms are shared in vivo is unknown.",
+            "startOffset": 36035,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26255,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The membranes were blocked with 5% non-fat dry milk in TBST and then incubated overnight at 4 \u00b0C with primary antibodies against col\u03a0 (ab34712,Abcam), aggrecan (ab36861,Abcam), HIF-1\u03b1 (NB100-105,Novus), MMP1 (ab118529,Abcam), MMP13(ab39012, Abcam), TIMP1 (sc-5538, Santa Cruz), Notch1 (4380,CST), JAGGED1 (ab109536,Abcam), HES1 (11988,CST) and \u03b2-actin (CW0096S, CWBiotech).",
+            "startOffset": 25882,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 34359,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, we showed that NOTCH1 expression is decreased in NPs isolated from degenerated human IVDs as well as in the NPs of NP-HIF-1\u03b1\u2212/\u2212 mice.",
+            "startOffset": 34204,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23981,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Lateral X-ray images of the intact lumbar spine were taken at 2 \u00d7 , using a Faxitron\u00ae MX-20 (Faxitron MX-20, IL, USA).",
+            "startOffset": 23863,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 20823,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 20822,
+                    "startOffset": 20816
+                },
+                "bib9": {
+                    "endOffset": 20822,
+                    "startOffset": 20816
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, HIF-1 plays an important role in homeostatic maintenance of the NP, the energy metabolism of NPCs, and extracellular matrix (ECM) metabolism [9,10].",
+            "startOffset": 20666,
+            "title": "Background"
+        },
+        {
+            "endOffset": 35391,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 35320,
+                    "startOffset": 35316
+                },
+                "bib23": {
+                    "endOffset": 35390,
+                    "startOffset": 35386
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Most notably, the accumulation of metalloproteinases is often reduced under hypoxic conditions [22], although an increase in MMP13 expression has also been reported [23].",
+            "startOffset": 35221,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23296,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "To investigate effects of HIF-1\u03b1, the cells were transfected with small hif-1\u03b1 siRNA or vhl siRNA (GenePharma, China) with lipofectamine 3000 (Thermo) and then cultured under hypoxic conditions (2% O2) for 24 h. To examine the effect of the NOTCH pathway, we treated the transfected cells with DAPT (10 \u03bcmol/L) 1 h before being cultured in hypoxia.",
+            "startOffset": 22948,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 19550,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This elastic inner structure allows the vertebral disc to withstand forces of compression and torsion.",
+            "startOffset": 19448,
+            "title": "Background"
+        },
+        {
+            "endOffset": 22195,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 22194,
+                    "startOffset": 22190
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "All patients and controls underwent MRI that was evaluated using the Pfirrmann grading system [13].",
+            "startOffset": 22096,
+            "title": "Human tissue collection and grading"
+        },
+        {
+            "endOffset": 26794,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "All data are present All data are representative of three independent experiments and are as mean \u00b1 SEM.",
+            "startOffset": 26690,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 25754,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Cell samples were lysed in RIPA buffer, sonicated, and protein concentrations were calculated by BCA protein assay kit (P0009, Beyotime).",
+            "startOffset": 25617,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 29364,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To test our hypothesis, we first detected NOTCH1 pathway-related gene expression in human NP following HIF-1\u03b1 or VHL knockdown with shRNA.",
+            "startOffset": 29226,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 36443,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 36375,
+                    "startOffset": 36368
+                },
+                "bib25": {
+                    "endOffset": 36375,
+                    "startOffset": 36368
+                },
+                "bib26": {
+                    "endOffset": 36375,
+                    "startOffset": 36368
+                },
+                "bib27": {
+                    "endOffset": 36375,
+                    "startOffset": 36368
+                },
+                "bib28": {
+                    "endOffset": 36442,
+                    "startOffset": 36438
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Secondly, although MMP1 and MMP13 are crucial for cartilage ECM degradation [24\u201327], MMP3, ADAMTS4, and ADAM5 are also implicated in this process [28].",
+            "startOffset": 36292,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20415,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 20414,
+                    "startOffset": 20411
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Currently, three subtypes have been identified: HIF-1, HIF-2, and HIF-3 [6].",
+            "startOffset": 20339,
+            "title": "Background"
+        },
+        {
+            "endOffset": 36831,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, we are optimistic that NOTCH1 is a potential therapeutic target in disc degeneration.",
+            "startOffset": 36735,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28399,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, the gain-of-function experiment showed that HIF-1\u03b1 overexpression by von Hippel-Lindau (VHL) knockdown significantly increased type\u03a0 collagen and aggrecan expression in normal human NPCs (Fig. 1d and e).",
+            "startOffset": 28187,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 20563,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 20562,
+                    "startOffset": 20559
+                }
+            },
+            "secId": "sec1",
+            "sentence": "HIF-1 consists of a constitutively expressed subunit, HIF-1\u03b2, and a subunit that is tightly regulated by the cellular O2 concentration, HIF-1\u03b1 [7].",
+            "startOffset": 20416,
+            "title": "Background"
+        },
+        {
+            "endOffset": 35112,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 35111,
+                    "startOffset": 35104
+                },
+                "bib21": {
+                    "endOffset": 35111,
+                    "startOffset": 35104
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The matrix metalloproteinases (MMPs) and their inhibitors, the tissue inhibitor of metalloproteinases (TIMPs), are important regulators of ECM turnover [20,21].",
+            "startOffset": 34952,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22799,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 22798,
+                    "startOffset": 22795
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Human nucleus pulposus cells (NPCs) were isolated by a method described previously by Risbud et al. [8].",
+            "startOffset": 22695,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 21487,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 21371,
+                    "startOffset": 21368
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Although our previous study with NP-specific HIF-1-deficient (HIF-1\u2212/\u2212) mice indicated that HIF-1\u03b1 is a pivotal contributor to NPC survival and the homeostasis of ECM through the HIF-1\u03b1/VEGF signaling pathway [5], the mechanisms by which HIF-1\u03b1 takes part in the synthesis and stability of the ECM have not been fully clarified.",
+            "startOffset": 21159,
+            "title": "Background"
+        },
+        {
+            "endOffset": 22095,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Eighteen surgical IVD tissue samples were obtained from patients undergoing various lumbar spine surgeries.",
+            "startOffset": 21988,
+            "title": "Human tissue collection and grading"
+        },
+        {
+            "endOffset": 24442,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Imaging was performed using a 3.0T MRI (Trio Tim; Siemens, Germany) equipped with a 50 mm millipede scanner coil.",
+            "startOffset": 24329,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 30451,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Finally, in parallel with decreased collagen \u03a0 and aggrecan expression as well as degenerated IVDs (Supplementary Fig. 1), the immunohistochemical staining revealed that NOTCH1 and HES-1 expression was strongly inhibited in NP tissues of NP-HIF-1\u03b1\u2212/\u2212 mice, compared to that in WT mice (Fig. 3g and h, Figure supplement 1).",
+            "startOffset": 30129,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 29225,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Therefore, we hypothesized that HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression through NOTCH1 in NPs.",
+            "startOffset": 29114,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 23818,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 23817,
+                    "startOffset": 23814
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "Generation o f conditional HIF-la deficient mice was done as previously reported [5].",
+            "startOffset": 23733,
+            "title": "Generation of mice lacking HIF-1\u03b1 in intervertebral disc"
+        },
+        {
+            "endOffset": 30582,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Collectively, these results suggest that HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression through NOTCH1 signaling in NPs.",
+            "startOffset": 30452,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 24647,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The anesthetized mouse was placed supine on a tray and fixed in order to minimize motion artifacts.",
+            "startOffset": 24548,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 33948,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 33947,
+                    "startOffset": 33943
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The NOTCH signaling pathway receptors, ligands, and target genes, are expressed in IVD cells, and Notch signaling is critical for the maintenance of NPC proliferation in the hypoxic niche of the disc [19].",
+            "startOffset": 33743,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31999,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The results showed that JAGGED1 decreased MMP1 and MMP13 expression, while also increasing TIMP1 expression, in a dose-dependent manner (Fig. 4g and h).",
+            "startOffset": 31847,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 32582,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 32581,
+                    "startOffset": 32574
+                },
+                "bib18": {
+                    "endOffset": 32581,
+                    "startOffset": 32574
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These changes can lead to a reduction in pressure within the NP core and result in increased compressive stress towards the inner annulus, which may lead to disc herniation [17,18].",
+            "startOffset": 32401,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35739,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the present study, in parallel with changes in type \u03a0 collagen and aggrecan expression, HIF-1\u03b1 also altered ECM turnover by suppressing expression of MMP1 and MMP13 and increasing the expression of TIMP1.",
+            "startOffset": 35532,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25095,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Sections were deparaffinized, rehydrated, and treated with 3% hydrogen peroxide in methanol for 30 minues to block endogenous peroxidase.",
+            "startOffset": 24958,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 34952,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, our study shows that HIF-1\u03b1 may regulate ECM homeostasis via NOTCH1 signaling.",
+            "startOffset": 34863,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32259,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 32258,
+                    "startOffset": 32251
+                },
+                "bib18": {
+                    "endOffset": 32258,
+                    "startOffset": 32251
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The most significant biochemical change in IVD degeneration is loss of the ECM, which mainly includes proteoglycan and collagen II [17,18].",
+            "startOffset": 32120,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30967,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 30813,
+                    "startOffset": 30809
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "The concerted activity of matrix-degrading metalloproteinases and aggrecan-degrading enzymes causes progressive loss of collagens and proteoglycans [16], and our results reveal that MMP1 and MMP13 are highly upregulated in NP tissues of NP-HIF-1\u03b1\u2212/\u2212 mice when compared with that in WT mice (Fig. 4a and b).",
+            "startOffset": 30661,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 33336,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The Notch signal pathway is a highly conserved pathway regulated by interactions between neighboring cells: four cell surface NOTCH receptors (in mammals, NOTCH1\u20134) are activated by ligands, the Delta-like (Dll1, -3, and -4), and JAGGED (JAG1 and -2) on neighboring cells.",
+            "startOffset": 33064,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27992,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To further detect the specific function of HIF-1\u03b1 in type \u03a0 collagen and aggrecan expression in NP tissues during disc degeneration, we isolated NPCs from normal and degenerated IVDs and performed HIF-1\u03b1 knockdown and overexpression, respectively (Fig. 1c).",
+            "startOffset": 27735,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 34123,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 34122,
+                    "startOffset": 34119
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Moreover, our previous work with NP-specific HIF-1\u03b1-deficient (HIF-1\u03b1\u2212/\u2212) mice showed that HIF-l\u03b1 is a pivotal contributor to NPC survival and the homeostasis of the ECM [5].",
+            "startOffset": 33949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34693,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These changes were significantly suppressed by the NOTCH1 inhibitor DAPT, suggesting that HIF-1\u03b1 works through the Notch pathway.",
+            "startOffset": 34564,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32400,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "IVD degeneration usually starts from the NP, with an altered cell phenotype and decreased production of proteoglycans and collagen II in NP.",
+            "startOffset": 32260,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19817,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 19816,
+                    "startOffset": 19811
+                },
+                "bib3": {
+                    "endOffset": 19816,
+                    "startOffset": 19811
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The hallmark of progressive IVD degeneration is the incapacity of NP cells (NPCs) to maintain normal homeostatic tissue remodeling, thereby clinically leading to lower back pain\u2014a condition that affects up to 80% of adults at least once during their lifetimes [2,3].",
+            "startOffset": 19551,
+            "title": "Background"
+        },
+        {
+            "endOffset": 20665,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 20664,
+                    "startOffset": 20661
+                }
+            },
+            "secId": "sec1",
+            "sentence": "HIF-1 expression in NPCs occurs independently of oxygen tension, a unique characteristic of NPCs [8].",
+            "startOffset": 20564,
+            "title": "Background"
+        },
+        {
+            "endOffset": 35220,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 35219,
+                    "startOffset": 35215
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Hypoxia increases expression of tissue inhibitor of metalloproteinase-1 in a HIF-1\u03b1-dependent fashion [22].",
+            "startOffset": 35113,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22406,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "In all, 32 samples from 32 patients were obtained; details of patients are summarized in Table 1.",
+            "startOffset": 22309,
+            "title": "Human tissue collection and grading"
+        },
+        {
+            "endOffset": 24935,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Cytokine detection was carried out using a commercially available human MMP1 ELISA kit (DMP100, R&D System) and human MMP13 ELISA kit (DM1300, R&D System).",
+            "startOffset": 24780,
+            "title": "Enzyme-linked immunosorbent assay (ELISA)"
+        },
+        {
+            "endOffset": 22308,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Pfirrmann score of normal, mild degeneration and severe degeneration group is 1 or 2, 3 or 4 and 5 respectively.",
+            "startOffset": 22196,
+            "title": "Human tissue collection and grading"
+        },
+        {
+            "endOffset": 21158,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 21157,
+                    "startOffset": 21153
+                }
+            },
+            "secId": "sec1",
+            "sentence": "A Chinese cohort study showed that the HIF-1 1790 A > G polymorphism may be used as a molecular marker to determine the susceptibility and severity of disc degeneration [12].",
+            "startOffset": 20984,
+            "title": "Background"
+        },
+        {
+            "endOffset": 33064,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here, we found that the HIF-1\u03b1 pathway regulates type \u03a0 collagen and aggrecan expression via the NOTCH1 pathway in human NPCs.",
+            "startOffset": 32938,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32733,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The NP and inner annulus fibrosus are devoid of blood supply, so the NPCs maintain their biosynthetic activities by constitutive expression of HIF-1\u03b1.",
+            "startOffset": 32583,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28186,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The loss-of-function experiment showed that HIF-1\u03b1 knockdown through HIF-1\u03b1-siRNA transfection in normal human NPCssignificantly lowered type \u03a0 collagen and aggrecan expression (Fig. 1d and e).",
+            "startOffset": 27993,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 32109,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Collectively, these results suggest that HIF-1\u03b1 regulates MMP1 and MMP13 expression through NOTCH1 signaling.",
+            "startOffset": 32000,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 35920,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, the data reveal that HIF-1\u03b1 regulates MMP1, MMP13, and TIMP1 expression via the NOTCH1 pathway.",
+            "startOffset": 35814,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23732,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "All mice were raised in accordance with Shanghai Jiaotong University School of Medicine Animal Care and Use Committee (SJUSMACUC) Guidelines, under specific pathogen-free conditions.",
+            "startOffset": 23550,
+            "title": "Generation of mice lacking HIF-1\u03b1 in intervertebral disc"
+        },
+        {
+            "endOffset": 20338,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Hypoxia-inducible factor (HIF), a transcription factor responsive to low oxygen tension, is one of the most important factors that directly mediates cellular responses to hypoxia.",
+            "startOffset": 20159,
+            "title": "Background"
+        },
+        {
+            "endOffset": 26615,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Real-time RT-PCR specific primers (Table 2) were used to evaluate gene expression.",
+            "startOffset": 26533,
+            "title": "Real-time RT-PCR analysis"
+        },
+        {
+            "endOffset": 26395,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "After being washed with TBST three times, the membrane was incubated with horseradish peroxidase-conjugated secondary antibodies (Jackson).",
+            "startOffset": 26256,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 23491,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Various concentrations of JAGGED1 (1277-JG, R&D System) were also added to the culture medium of degenerated human nucleus pulposus cells for different durations to activate the NOTCH 1 pathway.",
+            "startOffset": 23297,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 25295,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Antigen retrieval was performed by boiling samples in 10 mM citrate buffer (pH6.0) for 10 min followed by incubation with NOTCH1 antibody (4380, CST) and HES1 antibody (11988, CST) overnight at 4 \u00b0C.",
+            "startOffset": 25096,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 27612,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The western blot analysis showed sustained expression of HIF-1\u03b1, type \u03a0 collagen, and aggrecan in normal NP tissues (Fig. 1a and b).",
+            "startOffset": 27480,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 25593,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Immunofluoresence analysis of collagen II (ab34712, Abcam), aggrecan (ab36861, Abcam) and HES1 (11988, CST) were performed as the protocol according to previous reported[14].",
+            "startOffset": 25419,
+            "title": "Immunofluorescence analysis"
+        },
+        {
+            "endOffset": 26868,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "We used two-tailed t tests to determine significances between two groups.",
+            "startOffset": 26795,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33464,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Upon activation, the intracellular domain of NOTCH is cleaved by the presenilin proteases (PSEN1/2) of the \u03b3-secretase complex.",
+            "startOffset": 33337,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34203,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, we hypothesized that HIF-1\u03b1 might regulate ECM synthesis via NOTCH1.",
+            "startOffset": 34124,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24547,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "T2-weighted sections in the sagittal plane were obtained as a series of multiple two-dimensional slices.",
+            "startOffset": 24443,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 27314,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 27313,
+                    "startOffset": 27310
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Our previous study demonstrated that NP-HIF-1\u2212/\u2212 mice display severe disc degeneration as well as decreased expression of ECM proteins such as type \u03a0 collagen and aggrecan [5].",
+            "startOffset": 27138,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in NPs"
+        },
+        {
+            "endOffset": 21987,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "In accordance with the Institutional Review Board guidelines of Shanghai Jiaotong University School of Medicine, human lumbar IVD tissue was obtained during surgery, with informed consent of the patient or relatives.",
+            "startOffset": 21771,
+            "title": "Human tissue collection and grading"
+        },
+        {
+            "endOffset": 24328,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Wild type and HIF-1\u03b1 KO mice at the age of 8 weeks (5 mice in each group) were examined in this experiment.",
+            "startOffset": 24221,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 22947,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Normal NPCs were isolated from 4 patients with lumbar fracture, degenerated NPCs were isolated from 5 patients with intervertebral disc herniation.",
+            "startOffset": 22800,
+            "title": "Cell isolation and culture conditions"
+        },
+        {
+            "endOffset": 34862,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Lastly, we found that activation of NOTCH1 signaling via expression of JAGGED1 in human NPCs isolated from degenerated IVDs restored collagen \u03a0 and aggrecan expression.",
+            "startOffset": 34694,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32937,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 32894,
+                    "startOffset": 32891
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Although our previous study demonstrated the critical role of HIF-1\u03b1 in NP for the homeostasis of ECM and protection of the IVD against degeneration in mice [5], the underlying mechanisms are less known.",
+            "startOffset": 32734,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21600,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In the present study, we set out to investigate the mechanisms by which HIF-1\u03b1 regulates ECM homeostasis in NPCs.",
+            "startOffset": 21487,
+            "title": "Background"
+        },
+        {
+            "endOffset": 31485,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "However, these changes in expression were significantly suppressed by the NOTCH1 inhibitor DAPT (Fig. 4c\u2013e).",
+            "startOffset": 31377,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 36578,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Whether HIF-1\u03b1 could regulate MMP3, ADAMTS4, and ADAMTS5 expression during IVD degeneration is a clear path for further investigation.",
+            "startOffset": 36444,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20159,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 20158,
+                    "startOffset": 20155
+                }
+            },
+            "secId": "sec1",
+            "sentence": "As a cellular adaptation, changes in oxygen levels will activate or inhibit a variety of homeostatic genes to support cell survival and accommodation, including the key hypoxia-inducible factor-1 (HIF-1) [5].",
+            "startOffset": 19951,
+            "title": "Background"
+        },
+        {
+            "endOffset": 28789,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Having observed that HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression in human NPCs, we next sought to elucidate the underlying mechanism of this regulation.",
+            "startOffset": 28624,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 36911,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The authors declare no competing financial interest.",
+            "startOffset": 36859,
+            "title": "Competing financial interest"
+        },
+        {
+            "endOffset": 36034,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although these in vitro results are promising, we would like to point out some potential limitations of our study.",
+            "startOffset": 35920,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24220,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "DH represents the disc height between adjacent vertebrae.",
+            "startOffset": 24163,
+            "title": "Imaging studies of mice skeletons and IVDs"
+        },
+        {
+            "endOffset": 19278,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Intervertebral discs (IVDs) are complex anatomical structures with a specific load-bearing organization that give the spine flexibility.",
+            "startOffset": 19142,
+            "title": "Background"
+        },
+        {
+            "endOffset": 26505,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The protein expression level was determined by densitometric analysis and normalized to the level of \u03b2-actin.",
+            "startOffset": 26396,
+            "title": "Western blot analysis"
+        },
+        {
+            "endOffset": 31249,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Real-time PCR and western blot analysis showed that HIF-1\u03b1 knockdown increased MMP1 and MMP13 expression, while also decreasing expression of the tissue inhibitor of metalloproteinase-1 (TIMP1).",
+            "startOffset": 31055,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 26975,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.10",
+            "sentence": "We did analyses of multiple groups by one-way ANOVA with Bonferroni post test of GraphPad prism version 5.",
+            "startOffset": 26869,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 19950,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 19949,
+                    "startOffset": 19946
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In the intervertebral disk, the NP is an avascular tissue in a hypoxic environment, taking nutrition diffused from the endplates [4].",
+            "startOffset": 19817,
+            "title": "Background"
+        },
+        {
+            "endOffset": 35531,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, direct evidence linking specific pathways to transcriptional activation of HIF-1\u03b1-regulated-MMPs and TIMP1 in human NPs is sparse.",
+            "startOffset": 35392,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29986,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Consistently, western blot analysis demonstrated that NOTCH1 activation is involved in HIF-1\u03b1-regulated type \u03a0 collagen and aggrecan expression, as DAPT significantly downregulated the effects of HIF-1\u03b1 overexpression or depletion on type \u03a0 collagen and aggrecan expression in human NPCs (Fig. 3c and d).",
+            "startOffset": 29682,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 24779,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The conditioned media were collected 24 h after being cultured under hypoxic conditions.",
+            "startOffset": 24691,
+            "title": "Enzyme-linked immunosorbent assay (ELISA)"
+        },
+        {
+            "endOffset": 31689,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Additionally, the ELISA results of MMP1 and MMP13 in the supernatant of NPCs culture medium further demonstrated the inhibitory effect of DAPT on HIF-1\u03b1 regulation of MMP1 and MMP13 expression (Fig. 4f).",
+            "startOffset": 31486,
+            "title": "HIF-1\u03b1 mediates MMP1 and MMP13 expression in human NPCs via NOTCH1 signaling"
+        },
+        {
+            "endOffset": 35813,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These changes were significantly suppressed by the NOTCH1 inhibitor DAPT.",
+            "startOffset": 35740,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30128,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Furthermore, we found that NOTCH1 activation by JAGGED1 significantly increased collagen \u03a0 and aggrecan expression in human NPCs (Fig. 3e\u2013f).",
+            "startOffset": 29987,
+            "title": "HIF-1\u03b1 regulates type \u03a0 collagen and aggrecan expression via NOTCH1 signaling in NPs"
+        },
+        {
+            "endOffset": 34563,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Further analysis revealed that increased expression of HIF-1\u03b1 increased the expression of NOTCH1, JAGGED1, and its target gene HES1, and also upregulated collagen \u03a0 and aggrecan expression in human NPCs.",
+            "startOffset": 34360,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X17309609",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Zhuochao",
+                "initial": "Z.",
+                "last": "Liu"
+            },
+            {
+                "email": null,
+                "first": "Changwei",
+                "initial": "C.",
+                "last": "Li"
+            },
+            {
+                "email": null,
+                "first": "Xiangchao",
+                "initial": "X.",
+                "last": "Meng"
+            },
+            {
+                "email": null,
+                "first": "Yunting",
+                "initial": "Y.",
+                "last": "Bai"
+            },
+            {
+                "email": null,
+                "first": "Jin",
+                "initial": "J.",
+                "last": "Qi"
+            },
+            {
+                "email": null,
+                "first": "Jun",
+                "initial": "J.",
+                "last": "Wang"
+            },
+            {
+                "email": null,
+                "first": "Qi",
+                "initial": "Q.",
+                "last": "Zhou"
+            },
+            {
+                "email": "zhangweibin10368@163.com",
+                "first": "Weibin",
+                "initial": "W.",
+                "last": "Zhang"
+            },
+            {
+                "email": "zxk68@hotmail.com",
+                "first": "Xingkai",
+                "initial": "X.",
+                "last": "Zhang"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.05.086",
+        "firstpage": "554",
+        "issn": "0006291X",
+        "keywords": [
+            "Aggrecan",
+            "Collagen \u03a0",
+            "HIF-l\u03b1",
+            "NOTCH1",
+            "Nucleus pulposus cells"
+        ],
+        "lastpage": "561",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Hypoxia-inducible factor-l\u03b1 mediates aggrecan and collagen \u03a0 expression via NOTCH1 signaling in nucleus pulposus cells during intervertebral disc degeneration"
+    }
+}

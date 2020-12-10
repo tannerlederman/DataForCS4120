@@ -1,0 +1,1833 @@
+{
+    "abstract": "This paper introduces a novel analytical method for determination of gear airborne noise under lightly loaded conditions, often promoting gear rattle of loose unengaged gear pairs. The system examined comprises a single gear pair, modelled through integrated contact tribology and inertial transient dynamics. Lubricant film thickness, structural vibration and airborne gear noise are predicted and correlated with experimental measurements undertaken in a semi-anechoic environment. Good agreement is noticed between the numerical predictions and the experimental measurements. The presented model is capable of estimating the airborne radiated gear noise levels and the dynamic behaviour of gear pairs under different operating conditions, with superimposed impulsive input speed harmonics.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Riccardo",
+                    "initial": "R.",
+                    "last": "Russo"
+                },
+                {
+                    "first": "Renato",
+                    "initial": "R.",
+                    "last": "Brancati"
+                },
+                {
+                    "first": "Ernesto",
+                    "initial": "E.",
+                    "last": "Rocca"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2008.10.008",
+            "firstpage": "647",
+            "issn": "0022460X",
+            "lastpage": "661",
+            "pub_year": 2009,
+            "title": "Experimental investigations about the influence of oil lubricant between teeth on the gear rattle phenomenon",
+            "volume": "321"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Jian Wei",
+                    "initial": "J.W.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Hao",
+                    "initial": "H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Fan Ling",
+                    "initial": "F.L.",
+                    "last": "Zeng"
+                },
+                {
+                    "first": "Alexander F.",
+                    "initial": "A.F.",
+                    "last": "Vakakis"
+                },
+                {
+                    "first": "Lawrence A.",
+                    "initial": "L.A.",
+                    "last": "Bergman"
+                }
+            ],
+            "doi": "10.1007/s11012-013-9803-y",
+            "firstpage": "429",
+            "issn": "00256455",
+            "lastpage": "440",
+            "pub_year": 2014,
+            "title": "Influence of system parameters on dynamic behavior of gear pair with stochastic backlash",
+            "volume": "49"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Theodossiades"
+                },
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Tangasawi"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2007.01.034",
+            "firstpage": "632",
+            "issn": "0022460X",
+            "lastpage": "658",
+            "pub_year": 2007,
+            "title": "Gear teeth impacts in hydrodynamic conjunctions promoting idle gear rattle",
+            "volume": "303"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Tangasawi"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Theodossiades"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2007.03.077",
+            "firstpage": "418",
+            "issn": "0022460X",
+            "lastpage": "430",
+            "pub_year": 2007,
+            "title": "Lightly loaded lubricated impacts: Idle gear rattle",
+            "volume": "308"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "S. N.",
+                    "initial": "S.N.",
+                    "last": "Do\u01e7an"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Ryborz"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Bertsche"
+                }
+            ],
+            "doi": "10.1243/14644193JMBD10",
+            "firstpage": "79",
+            "issn": "14644193",
+            "lastpage": "95",
+            "pub_year": 2006,
+            "title": "Design of low-noise manual automotive transmissions",
+            "volume": "220"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Z. G.",
+                    "initial": "Z.G.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Y. M.",
+                    "initial": "Y.M.",
+                    "last": "Shao"
+                },
+                {
+                    "first": "T. C.",
+                    "initial": "T.C.",
+                    "last": "Lim"
+                }
+            ],
+            "doi": "10.1007/s12239-012-0052-1",
+            "firstpage": "541",
+            "issn": "12299138",
+            "lastpage": "552",
+            "pub_year": 2012,
+            "title": "Non-linear dynamic simulation of gear response under the idling condition",
+            "volume": "13"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Ottewill"
+                },
+                {
+                    "first": "S. A.",
+                    "initial": "S.A.",
+                    "last": "Neild"
+                },
+                {
+                    "first": "R. E.",
+                    "initial": "R.E.",
+                    "last": "Wilson"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2010.03.014",
+            "firstpage": "3495",
+            "issn": "0022460X",
+            "lastpage": "3506",
+            "pub_year": 2010,
+            "title": "An investigation into the effect of tooth profile errors on gear rattle",
+            "volume": "329"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "De La Cruz"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Theodossiades"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                }
+            ],
+            "doi": "10.1243/14644193JMBD232",
+            "firstpage": "167",
+            "issn": "14644193",
+            "lastpage": "181",
+            "pub_year": 2010,
+            "title": "An investigation of manual transmission drive rattle",
+            "volume": "224"
+        },
+        "b0045": null,
+        "b0050": {
+            "authors": [
+                {
+                    "first": "O.",
+                    "initial": "O.",
+                    "last": "Tangasawi"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Theodossiades"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Kelly"
+                }
+            ],
+            "doi": "10.1243/09544062JMES922",
+            "firstpage": "1909",
+            "issn": "09544062",
+            "lastpage": "1923",
+            "pub_year": 2008,
+            "title": "Non-linear vibro-impact phenomenon belying transmission idle rattle",
+            "volume": "222"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Younes",
+                    "initial": "Y.",
+                    "last": "Kadmiri"
+                },
+                {
+                    "first": "Emmanuel",
+                    "initial": "E.",
+                    "last": "Rigaud"
+                },
+                {
+                    "first": "Jo\u00ebl",
+                    "initial": "J.",
+                    "last": "Perret-Liaudet"
+                },
+                {
+                    "first": "Laurence",
+                    "initial": "L.",
+                    "last": "Vary"
+                }
+            ],
+            "doi": "10.1016/j.jsv.2012.02.009",
+            "firstpage": "3144",
+            "issn": "0022460X",
+            "lastpage": "3157",
+            "pub_year": 2012,
+            "title": "Experimental and numerical analysis of automotive gearbox rattle noise",
+            "volume": "331"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Mehmet",
+                    "initial": "M.",
+                    "last": "Bozca"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Fietkau"
+                }
+            ],
+            "doi": "10.1016/j.mechmachtheory.2010.06.013",
+            "firstpage": "1599",
+            "issn": "0094114X",
+            "lastpage": "1612",
+            "pub_year": 2010,
+            "title": "Empirical model based optimization of gearbox geometric design parameters to reduce rattle noise in an automotive transmission",
+            "volume": "45"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Fietkau"
+                },
+                {
+                    "first": "Bernd",
+                    "initial": "B.",
+                    "last": "Bertsche"
+                }
+            ],
+            "doi": "10.1016/j.mechmachtheory.2013.06.007",
+            "firstpage": "303",
+            "issn": "0094114X",
+            "lastpage": "320",
+            "pub_year": 2013,
+            "title": "Influence of tribological and geometrical parameters on lubrication conditions and noise of gear transmissions",
+            "volume": "69"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Mohamed",
+                    "initial": "M.",
+                    "last": "Slim Abbes"
+                },
+                {
+                    "first": "Slim",
+                    "initial": "S.",
+                    "last": "Bouaziz"
+                },
+                {
+                    "first": "Fakher",
+                    "initial": "F.",
+                    "last": "Chaari"
+                },
+                {
+                    "first": "Mohamed",
+                    "initial": "M.",
+                    "last": "Maatar"
+                },
+                {
+                    "first": "Mohamed",
+                    "initial": "M.",
+                    "last": "Haddar"
+                }
+            ],
+            "doi": "10.1016/j.ijmecsci.2007.08.002",
+            "firstpage": "569",
+            "issn": "00207403",
+            "lastpage": "577",
+            "pub_year": 2008,
+            "title": "An acoustic-structural interaction modelling for the evaluation of a gearbox-radiated noise",
+            "volume": "50"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Emiliano",
+                    "initial": "E.",
+                    "last": "Mucchi"
+                },
+                {
+                    "first": "Alessandro",
+                    "initial": "A.",
+                    "last": "Rivola"
+                },
+                {
+                    "first": "Giorgio",
+                    "initial": "G.",
+                    "last": "Dalpiaz"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2013.10.007",
+            "firstpage": "99",
+            "issn": "0003682X",
+            "lastpage": "111",
+            "pub_year": 2014,
+            "title": "Modelling dynamic behaviour and noise generation in gear pumps: Procedure and validation",
+            "volume": "77"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "Y. Y.",
+                    "initial": "Y.Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "G. R.",
+                    "initial": "G.R.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "K. Y.",
+                    "initial": "K.Y.",
+                    "last": "Lam"
+                },
+                {
+                    "first": "K. P.",
+                    "initial": "K.P.",
+                    "last": "Quek"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Noguchi"
+                }
+            ],
+            "doi": "10.1006/jsvi.2000.3545",
+            "firstpage": "133",
+            "issn": "0022460X",
+            "lastpage": "150",
+            "pub_year": 2001,
+            "title": "Efficient modelling and prediction of meshing noise from chain drives",
+            "volume": "245"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Wang",
+                    "initial": "W.",
+                    "last": "Yufang"
+                },
+                {
+                    "first": "Tong",
+                    "initial": "T.",
+                    "last": "Zhongfang"
+                }
+            ],
+            "doi": "10.1016/0022-460X(92)90037-X",
+            "firstpage": "295",
+            "issn": "0022460X",
+            "lastpage": "303",
+            "pub_year": 1992,
+            "title": "Sound radiated from the impact of two cylinders",
+            "volume": "159"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                }
+            ],
+            "doi": "10.1016/0264-682X(85)90031-0",
+            "firstpage": "192",
+            "issn": "0264682X",
+            "lastpage": "197",
+            "pub_year": 1985,
+            "title": "Computational modelling of problems in contact dynamics",
+            "volume": "2"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Gohar"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                }
+            ],
+            "doi": "10.1142/P553",
+            "firstpage": "1",
+            "lastpage": "391",
+            "pub_year": 2008,
+            "title": "Fundamentals of tribology"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "D. W.",
+                    "initial": "D.W.",
+                    "last": "Dareing"
+                },
+                {
+                    "first": "K. L.",
+                    "initial": "K.L.",
+                    "last": "Johnson"
+                }
+            ],
+            "doi": "10.1243/JMES_JOUR_1975_017_031_02",
+            "firstpage": "214",
+            "lastpage": "218",
+            "pub_year": 1975,
+            "title": "FLUID FILM DAMPING OF ROLLING CONTACT VIBRATIONS.",
+            "volume": "17"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Mehdigoli"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Rahnejat"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Gohar"
+                }
+            ],
+            "doi": "10.1016/0043-1648(90)90206-P",
+            "firstpage": "1",
+            "issn": "00431648",
+            "lastpage": "15",
+            "pub_year": 1990,
+            "title": "Vibration response of wavy surfaced disc in elastohydrodynamic rolling contact",
+            "volume": "139"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 30516,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The numerical predictions show good agreement with the experimental measurements obtained from a single stage gearbox.",
+            "startOffset": 30398,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41334,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 6 shows the numerical and experimental output speed time histories of the loose gear wheel for test no. 4.",
+            "startOffset": 41223,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 39613,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 4 shows typical time histories of the input conditions used.",
+            "startOffset": 39548,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 46964,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Both time history plots appear to be quite similar, in terms of magnitude and frequency content.",
+            "startOffset": 46868,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 37444,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The input and output gearbox shafts\u2019 velocities are monitored using dual beam laser vibrometers (Table 1 provides hardware details).",
+            "startOffset": 37312,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 29040,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The use of BEM resulted in the prediction of the emitted noise levels.",
+            "startOffset": 28970,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44308,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "When the forcing frequency of 13\u201314 Hz is introduced in the input shaft signal (test no. 2 \u2013 Fig. 9c and d), this is evident in both the numerical and experimental spectra.",
+            "startOffset": 44136,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 42938,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 42937,
+                    "startOffset": 42932
+                },
+                "b0020": {
+                    "endOffset": 42937,
+                    "startOffset": 42932
+                },
+                "b0025": {
+                    "endOffset": 42937,
+                    "startOffset": 42932
+                }
+            },
+            "secId": "s0025",
+            "sentence": "This is the typical conditions encountered in vehicular transmission rattle [3\u20135].",
+            "startOffset": 42856,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 46125,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "An advantage of numerical analysis is in evaluating performance measures which are otherwise difficult to estimate using an experimental rig, such as lubricant film thickness in teeth pair conjunctions.",
+            "startOffset": 45923,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36649,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Calculation of the equivalent mass and the resulting acceleration, using Eqs. (5) and (8).",
+            "startOffset": 36559,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 29575,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Sound pressure levels at different locations on a virtual cylindrical surface around the chain were evaluated and validated against experimental measurements, showing good agreement.",
+            "startOffset": 29393,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47076,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This shows that the film thickness variation alone is insufficient to ascertain the level of ensuing vibration.",
+            "startOffset": 46965,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30075,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The method is based on rigid body dynamics, coupled with hydrodynamic lubricated contacts, as well as far field sound pressure calculations.",
+            "startOffset": 29935,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37311,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The input torque is measured using a torque transducer.",
+            "startOffset": 37256,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 28969,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The lumped parameter model comprised loaded bearings and gears, whilst the FEA was used for the casing and plates.",
+            "startOffset": 28855,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43111,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The radiated airborne sound as the result of the repetitive impacts can now be obtained and comparisons made between the numerical predictions and experimental measurements.",
+            "startOffset": 42938,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 29800,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 29652,
+                    "startOffset": 29648
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The work was based, to a large extent on that reported by Yufang et al. [17], where the radiated sound from the impact of two rigid cylinders was calculated through use of Hertzian impact theory, and verified experimentally.",
+            "startOffset": 29576,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32749,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 32748,
+                    "startOffset": 32739
+                },
+                "b0090": {
+                    "endOffset": 32748,
+                    "startOffset": 32739
+                },
+                "b0095": {
+                    "endOffset": 32748,
+                    "startOffset": 32739
+                }
+            },
+            "secId": "s0010",
+            "sentence": "More details regarding Eqs. (2)\u2013(4) are provided in Refs. [3,18,19].",
+            "startOffset": 32681,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 25391,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Automotive transmission gear noise has received increased attention in recent years.",
+            "startOffset": 25307,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37965,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "In this manner, a simple voltage signal with a clear alternating component can be used to produce the desired operating input speed for the experiment.",
+            "startOffset": 37814,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 40123,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is because of the experimental control mechanism and is not expected to cause significant variations in the physics of the examined system.",
+            "startOffset": 39979,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 32825,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "A brief description of the main variables can be found in the Nomenclature.",
+            "startOffset": 32750,
+            "title": "Methodology"
+        },
+        {
+            "endOffset": 36861,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Evaluation of radiated sound pressure from all the gear teeth pairs in simultaneous contact/impact.",
+            "startOffset": 36762,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 27333,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Much attention has been paid to the estimation of radiated noise from meshing gear pairs with the aim of determining a threshold for the onset of unacceptable gear rattle.",
+            "startOffset": 27162,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46867,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Therefore, establishing the degree of severity of gear impacts and sound emission becomes difficult, when compared with the film thickness time history of non-impulsive conditions of test no. 1 (with no harmonic input component).",
+            "startOffset": 46638,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 38040,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The AC component of up to 18 Hz can be applied under the set up condition.",
+            "startOffset": 37966,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 37098,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "A purpose built experimental rig is presented with a standard spur gear pair configuration, assembled in a semi-anechoic chamber, as shown in Fig. 3.",
+            "startOffset": 36949,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 45152,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "As a general trend it can be seen that the numerical model over-estimates the Leq values as a consequence of the severe meshing gear teeth impacts.",
+            "startOffset": 45005,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28360,
+            "parents": [],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 28359,
+                    "startOffset": 28355
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Radiated structure-borne noise from a gearbox was calculated using three-dimensional Finite Element Analysis (FEA) of the structure, combined with the Rayleigh integral method [14].",
+            "startOffset": 28179,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39500,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "In this manner gear vibration conditions of low and high severity can be studied in more detail.",
+            "startOffset": 39404,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 47319,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 47210,
+                    "startOffset": 47206
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Dareing and Johnson [20] demonstrated this characteristic of thin lubricant films in experiments with contacting wavy surfaced discs.",
+            "startOffset": 47186,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28750,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 28588,
+                    "startOffset": 28584
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Mucchi et al. [15] presented a method for determination of noise and vibration analysis of gear pumps, comprising a combination of numerical analysis and experimental measurements.",
+            "startOffset": 28570,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40645,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The comparison made in Fig. 5 depicts the degree of conformity of the numerical predictions with the actual measured torque using the experimental rig.",
+            "startOffset": 40494,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 38416,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The maximum nominal operating speed of the motor is 2700 rpm, which also falls within the required operating conditions.",
+            "startOffset": 38296,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 26586,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 26585,
+                    "startOffset": 26580
+                },
+                "b0035": {
+                    "endOffset": 26585,
+                    "startOffset": 26580
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Most analyses consider dry contact of meshing pairs, which is representative of highly loaded cases, where elastohydrodynamic conditions may be reasonably approximated by the classical Hertzian theory [6,7].",
+            "startOffset": 26379,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26829,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 26828,
+                    "startOffset": 26820
+                },
+                "b0040": {
+                    "endOffset": 26828,
+                    "startOffset": 26820
+                },
+                "b0045": {
+                    "endOffset": 26828,
+                    "startOffset": 26820
+                },
+                "b0050": {
+                    "endOffset": 26828,
+                    "startOffset": 26820
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Other analyses have included the effect of lubricant in the contact, which is particularly important for lightly loaded contacts, where a hydrodynamic regime of lubrication would be prevalent, such as in the case of idle gear rattle [1,8\u201310].",
+            "startOffset": 26587,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35987,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The procedure for the numerical calculations comprises:",
+            "startOffset": 35932,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 29392,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 29391,
+                    "startOffset": 29387
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A model relating the acceleration response of chain drive components (sprocket teeth against chain rollers) to the generated sound was developed using finite element techniques and numerical schemes by Zheng et al. [16].",
+            "startOffset": 29172,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44477,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The model predicts better (intense) teeth meshing conditions compared with the experiment, as is indicated by the energy carried by the forcing frequency in both cases.",
+            "startOffset": 44309,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36761,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Determination of sound pressure radiation from each impact site at the far sound field, using Eqs. (7) and (9).",
+            "startOffset": 36650,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 27764,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 27763,
+                    "startOffset": 27759
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Using a torsional vibration model, gear rattle noise was calculated for a 5-speed gearbox, employing the main design parameters and use of various empirical formulae [12].",
+            "startOffset": 27593,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39548,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Table 2 presents the employed tests conditions.",
+            "startOffset": 39501,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 46259,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 10 presents the lubricant film thickness for tests no. 1 and 2.",
+            "startOffset": 46191,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 42855,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "In this particular case, the meshing frequency contributes little because of improper meshing at low transmitted forces and repetitive impacts.",
+            "startOffset": 42712,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 39088,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Two nominal operating speeds are employed in the study; 675 and 1320 rpm.",
+            "startOffset": 39015,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 41223,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This hypothesis is further discussed when the sound pressure levels are investigated later.",
+            "startOffset": 41132,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 39978,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It is also noted that the same test exhibits a slightly higher nominal speed than the targeted 675 rpm.",
+            "startOffset": 39875,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 25856,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 25855,
+                    "startOffset": 25850
+                },
+                "b0010": {
+                    "endOffset": 25855,
+                    "startOffset": 25850
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The problem is also exacerbated by the oscillatory crankshaft vibration signal (engine order vibrations), which has a greater poignancy with the higher torque fluctuations of diesel engines at multiples of engine order vibration [1,2].",
+            "startOffset": 25621,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46637,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "However, double-sided impacts (as an indication of severe conditions) are not encountered between the impacting teeth pairs, as the backlash limit is just breached as shown in the figure.",
+            "startOffset": 46450,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30397,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The experimental configuration is then described, followed by analytical results and discussion.",
+            "startOffset": 30301,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42556,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is at 13\u201314 Hz, which is superimposed by the frequency generator.",
+            "startOffset": 42486,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48639,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 48638,
+                    "startOffset": 48635
+                }
+            },
+            "secId": "s0025",
+            "sentence": "This conclusion is in line with the findings presented in Ref. [9].",
+            "startOffset": 48572,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36929,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Transformation of the sound pressure levels in dB units (Eq. (10)).",
+            "startOffset": 36862,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 40493,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The generated contact reactions and the resisting torque are calculated using Eqs. (1) and (2) in an iterative manner.",
+            "startOffset": 40375,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 43962,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is unavoidably present in the input shaft rotational speed captured by the laser vibrometer (this is used as an input to the model, thus the presence of the mains frequency).",
+            "startOffset": 43783,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 43394,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 9 presents (indicative) FFT spectra of the numerical and experimental radiated sound pressure time histories for tests no. 1 and 2.",
+            "startOffset": 43258,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 40780,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The mean torque values obtained from the plots are given as 0.129 N m for the numerical predictions and 0.103 N m from the experiment.",
+            "startOffset": 40646,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 43713,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The numerical results for test no. 1 (Fig. 9a) show the gear teeth meshing frequency (at around 226 Hz), as well as its 2nd harmonic around 453 Hz.",
+            "startOffset": 43566,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 44135,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The meshing frequency, as well as its 2nd harmonic are evident in the experimental measurements, contaminated by heavy modulations due to the speed of the shafts (Fig. 9b).",
+            "startOffset": 43963,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30300,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In the following sections, the methodology for sound radiation predictions is presented initially, as well as a flowchart for the numerical calculations.",
+            "startOffset": 30147,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39874,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It can be noted that tests no. 1 and 2 show clearly distinct behaviours, characterised by the imposition of 13 Hz oscillations in test no. 2.",
+            "startOffset": 39733,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 46190,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is important in terms of potential wear and fatigue issues.",
+            "startOffset": 46126,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 40374,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The inputs to the model are the angular displacement and velocity of the pinion.",
+            "startOffset": 40294,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48129,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The contribution at 52 Hz is the mains contribution, captured by the input velocity measurement.",
+            "startOffset": 48033,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48320,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "In the FFT spectrum of test no. 2, the forcing frequency at 13 Hz is evident, whilst the contribution at the meshing frequency is clearly reduced, with the 2nd harmonic almost imperceptible.",
+            "startOffset": 48130,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 43565,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Although it can be observed that the experimental results contain significant noise, they exhibit the main expected phenomena (similar to those in the numerical results).",
+            "startOffset": 43395,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 42711,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The fact that no other major contributions are found is a sign of the model robustness, indicating that the physics of the system are adequately captured.",
+            "startOffset": 42557,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48992,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "A comparison between the numerical predictions and experimental measurements for a single stage gear pair exhibit similar qualitative trends in the frequency domain and also quantitatively by calculating the Equivalent Sound Pressure Levels.",
+            "startOffset": 48751,
+            "title": "Concluding remarks"
+        },
+        {
+            "endOffset": 27592,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 27512,
+                    "startOffset": 27508
+                }
+            },
+            "secId": "s0005",
+            "sentence": "These have been mostly experimental, often involving determination of coefficients of restitution to describe the effect of lubricant damping through its squeeze film motion [11], as well as any hysteretic elastic deformation of the impacting solid surfaces.",
+            "startOffset": 27334,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42485,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The main spectral contribution frequency is at the imposed forcing frequency of the gearbox input shaft, transmitted through impact of the resident pinion with the gear wheel.",
+            "startOffset": 42310,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28569,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A simplified gearbox, excited internally by the gear teeth meshing stiffness was used, where the vibro-acoustic coupling between the elastic housing, the air-cavity and the free acoustic field was considered.",
+            "startOffset": 28361,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39209,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "These span the idle and low speed, low gear creep (partially loaded) rattle conditions in small b-class modern vehicles.",
+            "startOffset": 39089,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 38643,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The data logging software was developed in the Labview environment, enabling simultaneous acquisition of the input torque, rotational speeds of the input and output shafts and the employed accelerometer and microphone readings.",
+            "startOffset": 38416,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 47829,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 11 presents the FFT spectra of the acceleration time history for tests no. 1 (non-impulsive) and 2 (impulsive).",
+            "startOffset": 47713,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48389,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is indicative of improper meshing caused by an impulsive input.",
+            "startOffset": 48321,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 47592,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 47434,
+                    "startOffset": 47430
+                },
+                "b0105": {
+                    "endOffset": 47341,
+                    "startOffset": 47337
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Mehdigoli et al. [21] carried out detailed numerical analysis of the same case as that of Dareing and Johnson [20] and found lubricant film damping is minimal with a decreasing film thickness and increasing contact force, yielding elastohydrodynamic regime of lubrication.",
+            "startOffset": 47320,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 25620,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "It is perceived as a vehicle built quality issue and is caused by impacts of the loose (unengaged) meshing gear teeth pairs through their backlash.",
+            "startOffset": 25473,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45336,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is in line with the previously stated remarks concerning the higher torques noted in the numerical results, which yield higher impact velocities and thus greater impact energies.",
+            "startOffset": 45153,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36368,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Calculation of teeth contact/impact and Petrov friction forces (Eqs. (2) and (4)).",
+            "startOffset": 36286,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 45004,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The Leq values are presented in Table 3.",
+            "startOffset": 44964,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 45602,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It can also be noted that for tests no. 1 and 3, the difference between the numerical and experimental results is slightly larger compared with the other two tests (as highlighted in the Leq values in Table 3).",
+            "startOffset": 45392,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 41582,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The first point to observe is the magnitude of the measured output values in comparison with those of numerical predictions, which are consistently higher than those measured.",
+            "startOffset": 41407,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 45391,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Thus, higher sound levels are predicted than measured.",
+            "startOffset": 45337,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 37255,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The gear pair is run under lightly loaded (unloaded) condition, where the only resisting loads are due to friction generated in the linear bearing supports.",
+            "startOffset": 37099,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 41662,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This can be related to the slightly higher values of the input torque (Fig. 5).",
+            "startOffset": 41583,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 49504,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "The analytical predictive tool can be used by design and development engineers for rapid prediction of gear noise of multi-speed transmissions for a variety of applications at the conceptual design stage.",
+            "startOffset": 49300,
+            "title": "Concluding remarks"
+        },
+        {
+            "endOffset": 28135,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This enabled direct determination of structure-borne noise for the rattling loose gear pairs, as well as for the loaded gear pairs.",
+            "startOffset": 28004,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47978,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It can be seen that in the case of the former there are spectral contributions at the 1st and 2nd harmonics of the teeth meshing frequency (227 Hz).",
+            "startOffset": 47830,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 37813,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The nominal and fluctuating speed components are controlled through a signal generator, capable of producing a fixed voltage offset (nominal speed \u2013 DC component) and a superimposed fluctuating sinusoidal component (representing engine order vibrations encountered in vehicular transmissions).",
+            "startOffset": 37520,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 48750,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "An analytical methodology to predict gear teeth airborne sound pressure levels is presented.",
+            "startOffset": 48658,
+            "title": "Concluding remarks"
+        },
+        {
+            "endOffset": 45923,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Nevertheless, the overall predictions and trends conform well with the measurements with small percentage deviations.",
+            "startOffset": 45806,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36231,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Calculation of gear geometric data: number of teeth pairs in simultaneous contact, radii of teeth contact and the speed of entraining motion of the lubricant into the rolling, sliding and normally approaching and departing meshing teeth pairs.",
+            "startOffset": 35988,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 38770,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 38769,
+                    "startOffset": 38766
+                }
+            },
+            "secId": "s0020",
+            "sentence": "This is similar to the software, data acquisition and monitoring of larger powertrain rigs presented in De la Cruz et al. [9].",
+            "startOffset": 38644,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 26970,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The contact stiffness under lightly loaded hydrodynamic conditions is well below that obtained through use of the classical Hertzian theory.",
+            "startOffset": 26830,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29172,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The experimental measurements included inertial acceleration and acoustic pressure, which were verified through simulation results.",
+            "startOffset": 29041,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27162,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 27161,
+                    "startOffset": 27153
+                },
+                "b0045": {
+                    "endOffset": 27161,
+                    "startOffset": 27153
+                },
+                "b0050": {
+                    "endOffset": 27161,
+                    "startOffset": 27153
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In addition, the temperature dependence of lubricant viscosity significantly affects its load carrying capacity, as well as its shear characteristics, thus influencing gear dynamics [3,9,10].",
+            "startOffset": 26971,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39732,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "These velocity time histories were experimentally obtained, using a dual beam laser vibrometer (as already described).",
+            "startOffset": 39614,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28854,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The numerical method included lumped parameters, integrated with FEA and Boundary Element Method (BEM).",
+            "startOffset": 28751,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36524,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 36523,
+                    "startOffset": 36519
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Solution of the equation of motion (Eq. (1)) through step-by-step integration algorithm, using Newmark\u2019s linear acceleration scheme, detailed in Ref. [18].",
+            "startOffset": 36369,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 49104,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "It is shown clearly that the presence of harmonics in the input shaft speed induce higher gear noise emissions.",
+            "startOffset": 48993,
+            "title": "Concluding remarks"
+        },
+        {
+            "endOffset": 26378,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A large volume of numerical analyses has been reported, particularly for parallel axis gearing systems.",
+            "startOffset": 26275,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43782,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The lower frequency observed (49 Hz) is the mains\u2019 supply frequency.",
+            "startOffset": 43714,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 48032,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is a characteristic response of orderly meshing.",
+            "startOffset": 47979,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 36558,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Calculation of t\u2032, using Eq. (6).",
+            "startOffset": 36525,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 38295,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "In practical terms the set up represents the second engine order vibration (twice the crankshaft speed) of a 4-stroke 4-cylinder engine, operating with the idle speed of approximately 800 rpm (13 Hz), which is representative of modern small size engines.",
+            "startOffset": 38041,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 40293,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Fig. 5 presents the experimentally measured torque time history at the location of the input shaft and its numerical equivalent, predicted by the gear pair dynamic model.",
+            "startOffset": 40123,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 45805,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It seems that once the sinusoidal harmonic is introduced in the input signal, the numerical model does not exhibit as large a difference in the level of output vibration as that observed experimentally.",
+            "startOffset": 45603,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 49299,
+            "parents": [],
+            "secId": "s0030",
+            "sentence": "Furthermore, the analysis proves the hypothesis that an orderly meshing pairs\u2019 vibration spectrum is dominated by their meshing frequency and its harmonics and result in lower gear noise levels.",
+            "startOffset": 49105,
+            "title": "Concluding remarks"
+        },
+        {
+            "endOffset": 43258,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Furthermore, comparison can be made between low and high levels of vibration, i.e. test no. 1 against test no. 2 or test no. 3 against test no. 4.",
+            "startOffset": 43112,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 26275,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 26274,
+                    "startOffset": 26271
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The accelerative nature of these impacts causes radiated noise, which is widely termed as gear rattle [5].",
+            "startOffset": 26169,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26168,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 26167,
+                    "startOffset": 26162
+                },
+                "b0020": {
+                    "endOffset": 26167,
+                    "startOffset": 26162
+                }
+            },
+            "secId": "s0005",
+            "sentence": "As the result, the engine torsional oscillations, resident on the transmission input shaft, exacerbate the teeth pair impacts through their lubricated conjunctions [3,4].",
+            "startOffset": 25998,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36285,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Estimation of lubricant film thickness using Eq. (3).",
+            "startOffset": 36232,
+            "title": "Numerical implementation and programming"
+        },
+        {
+            "endOffset": 46449,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 46448,
+                    "startOffset": 46445
+                }
+            },
+            "secId": "s0025",
+            "sentence": "One would expect a greater extent of variation in the film thickness under such conditions [9].",
+            "startOffset": 46354,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 25472,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The phenomenon is considered as a major noise source in the automotive industry.",
+            "startOffset": 25392,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38992,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The experimental set-up is used for simultaneous air- and structure-borne noise measurements, thus allowing for direct comparisons between the experimentally obtained values and those predicted through numerical analysis.",
+            "startOffset": 38771,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 29934,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this paper, an analytical method to predict the airborne radiated noise from the meshing gear teeth under light loads is presented.",
+            "startOffset": 29800,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27844,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Following an optimisation study, the gear noise was shown to be reduced by 14%.",
+            "startOffset": 27765,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46353,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Test no. 2 corresponds to a high impulsive vibration case with imposed harmonic input signal.",
+            "startOffset": 46260,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 39403,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 39402,
+                    "startOffset": 39395
+                },
+                "b0015": {
+                    "endOffset": 39402,
+                    "startOffset": 39395
+                },
+                "b0020": {
+                    "endOffset": 39402,
+                    "startOffset": 39395
+                },
+                "b0025": {
+                    "endOffset": 39402,
+                    "startOffset": 39395
+                }
+            },
+            "secId": "s0025",
+            "sentence": "In both cases the influence of harmonic excitations residing on the input gearbox shaft is also considered, as such oscillations have shown to adversely affect the propensity to rattle [1,3\u20135].",
+            "startOffset": 39210,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 28003,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 28002,
+                    "startOffset": 27998
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The influence of different parameters on lubrication conditions and structure-borne noise of gear transmissions was also studied by Fietkau and Bertsche [13].",
+            "startOffset": 27845,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28179,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The findings were validated experimentally.",
+            "startOffset": 28136,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37519,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The driving torque is introduced into the system by a small electric motor.",
+            "startOffset": 37444,
+            "title": "Experimental set-up"
+        },
+        {
+            "endOffset": 41406,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "These results are discussed in conjunction with those of Figs. 7 and 8.",
+            "startOffset": 41335,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 40983,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The higher predicted torque spikes may be as the result of instances where the assumed iso-viscous conditions embodied in Eq. (2) are momentarily breached (i.e. piezo-viscous hydrodynamics encountered).",
+            "startOffset": 40781,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 41131,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This can occur with the approaching meshing teeth flanks resulting in thinner lubricant films, which may be sustained under iso-viscous conditions.",
+            "startOffset": 40984,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 41882,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Nevertheless, these differences are within 2\u20133% and may be as the result of an assumed kinematic input condition to the numerical model, whereas in reality the input oscillatory behaviour has a transient dynamic nature.",
+            "startOffset": 41663,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 30146,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This analytical approach has not hitherto been reported in literature.",
+            "startOffset": 30076,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48571,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Therefore, a good measure of severity of radiated noise is the interruption of orderly meshing as perceived by reduced spectral dominance of the meshing frequency and its harmonics.",
+            "startOffset": 48390,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 25997,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Modern downsizing philosophy has led to compact transmissions, thus a greater tendency for the interactions of the loose meshing gear pairs.",
+            "startOffset": 25857,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47185,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The reason for this is the low damping of lubricant film, particularly when very thin films are encountered.",
+            "startOffset": 47077,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 44725,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "However, the same fundamental frequencies are observed in both cases (the meshing frequency and its harmonics, the forcing frequency and the mains frequency in the case of the model), which is an evidence for the robustness of the employed method.",
+            "startOffset": 44478,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 47713,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Therefore, it is necessary to study the accelerative motion of the gear wheel, which is a faster changing output signal.",
+            "startOffset": 47593,
+            "title": "Results and discussion"
+        }
+    ],
+    "docId": "S0003682X15001802",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "S.Theodossiades@lboro.ac.uk",
+                "first": "S.",
+                "initial": "S.",
+                "last": "Theodossiades"
+            },
+            {
+                "email": null,
+                "first": "M.",
+                "initial": "M.",
+                "last": "De La Cruz"
+            },
+            {
+                "email": null,
+                "first": "H.",
+                "initial": "H.",
+                "last": "Rahnejat"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2015.06.014",
+        "firstpage": "79",
+        "issn": "0003682X",
+        "keywords": [
+            "Gear dynamics",
+            "Gear noise prediction",
+            "Gear tribology"
+        ],
+        "lastpage": "86",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Prediction of airborne radiated noise from lightly loaded lubricated meshing gear teeth"
+    }
+}

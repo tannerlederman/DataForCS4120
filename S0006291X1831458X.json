@@ -1,0 +1,3416 @@
+{
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a major malignant phenotype in pancreatic cancer, which is one of the most death causes by cancer in the world. PDAC developed from pancreatic intra-epithelial neoplasms (PanINs) and poorly diagnosed at early stages. Beside of high drug resistance, metastasis is the great concern during pancreatic cancer treatment. SALL4 expression is inherent in the upregulations of endothelial mesenchymal transition (EMT) genes and therefore promoting cancer metastasis. Furthermore, some of evidences indicated reactive oxygen species (ROS) is also influent to metastasis and self-antioxidant capacity seems a gold standard for successful metastasis rate. In this study, we have found the role Spalt like protein 4 (SALL4) to PDAC proliferation, mobility and its regulation to mitochondrial ROS via FoxM1/Prx III axis. It is possible that SALL4 mainly induces endothelial-mesenchymal transition (EMT) phenotype and favors ROS loss to facilitate metastasis efficiency in PDAC cells. Therefore, SALL4 might be a promising marker for PDAC treatment and targeting SALL4 would benefit anti-proliferative and anti-metastasis therapies.",
+    "author_highlights": [
+        {
+            "endOffset": 15013,
+            "sentence": "SALL4 promotes stemness traits and metastatic phenotype in vitro.",
+            "startOffset": 14948
+        },
+        {
+            "endOffset": 15076,
+            "sentence": "SALL4 expression positively impacts PDAC-derived tumor growth.",
+            "startOffset": 15014
+        },
+        {
+            "endOffset": 15153,
+            "sentence": "SALL4 regulates intracellular ROS via FoxM1/Prx III by activation of ERK1/2.",
+            "startOffset": 15077
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Gulinnaz",
+                    "initial": "G.",
+                    "last": "Ercan"
+                },
+                {
+                    "first": "Ayfer",
+                    "initial": "A.",
+                    "last": "Karlitepe"
+                },
+                {
+                    "first": "Bulent",
+                    "initial": "B.",
+                    "last": "Ozpolat"
+                }
+            ],
+            "doi": "10.21873/anticanres.11628",
+            "firstpage": "2761",
+            "issn": "02507005",
+            "lastpage": "2775",
+            "pmid": "28551612",
+            "pub_year": 2017,
+            "title": "Pancreatic cancer stem cells and therapeutic approaches",
+            "volume": "37"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Tong Shin",
+                    "initial": "T.S.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Chun Seok",
+                    "initial": "C.S.",
+                    "last": "Cho"
+                },
+                {
+                    "first": "Sunjoo",
+                    "initial": "S.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Shiqin",
+                    "initial": "S.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Won Kang",
+                    "initial": "W.K.",
+                    "last": "Sang"
+                },
+                {
+                    "first": "Goo Rhee",
+                    "initial": "G.R.",
+                    "last": "Sue"
+                }
+            ],
+            "doi": "10.1074/jbc.M407707200",
+            "firstpage": "41975",
+            "issn": "00219258",
+            "lastpage": "41984",
+            "pmid": "15280382",
+            "pub_year": 2004,
+            "title": "Peroxiredoxin III, a mitochondrion-specific peroxidase, regulates apoptotic signaling by mitochondria",
+            "volume": "279"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "H. C.",
+                    "initial": "H.C.",
+                    "last": "Whitaker"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Patel"
+                },
+                {
+                    "first": "W. J.",
+                    "initial": "W.J.",
+                    "last": "Howat"
+                },
+                {
+                    "first": "A. Y.",
+                    "initial": "A.Y.",
+                    "last": "Warren"
+                },
+                {
+                    "first": "J. D.",
+                    "initial": "J.D.",
+                    "last": "Kay"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Sangan"
+                },
+                {
+                    "first": "J. C.",
+                    "initial": "J.C.",
+                    "last": "Marioni"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Mitchell"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Aldridge"
+                },
+                {
+                    "first": "H. J.",
+                    "initial": "H.J.",
+                    "last": "Luxton"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Massie"
+                },
+                {
+                    "first": "A. G.",
+                    "initial": "A.G.",
+                    "last": "Lynch"
+                },
+                {
+                    "first": "D. E.",
+                    "initial": "D.E.",
+                    "last": "Neal"
+                }
+            ],
+            "doi": "10.1038/bjc.2013.396",
+            "firstpage": "983",
+            "issn": "00070920",
+            "lastpage": "993",
+            "pmid": "23880827",
+            "pub_year": 2013,
+            "title": "Peroxiredoxin-3 is overexpressed in prostate cancer and promotes cancer cell survival by protecting cells from oxidative stress",
+            "volume": "109"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Lianqin",
+                    "initial": "L.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Yong Gang",
+                    "initial": "Y.G.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Chun Ling",
+                    "initial": "C.L.",
+                    "last": "Chen"
+                }
+            ],
+            "doi": "10.1016/j.fob.2012.12.002",
+            "firstpage": "51",
+            "issn": "22115463",
+            "lastpage": "54",
+            "pub_year": 2013,
+            "title": "Anti-apoptotic role of peroxiredoxin III in cervical cancer cells",
+            "volume": "3"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "In Sung",
+                    "initial": "I.S.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Yu Jeong",
+                    "initial": "Y.J.",
+                    "last": "Jeong"
+                },
+                {
+                    "first": "Young Jin",
+                    "initial": "Y.J.",
+                    "last": "Seo"
+                },
+                {
+                    "first": "Jung Mi",
+                    "initial": "J.M.",
+                    "last": "Byun"
+                },
+                {
+                    "first": "Young Nanm",
+                    "initial": "Y.N.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Dae Hoon",
+                    "initial": "D.H.",
+                    "last": "Jeong"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Han"
+                },
+                {
+                    "first": "Ki Tae",
+                    "initial": "K.T.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Sung Wuk",
+                    "initial": "S.W.",
+                    "last": "Jang"
+                }
+            ],
+            "doi": "10.18632/oncotarget.21580",
+            "firstpage": "92788",
+            "issn": "19492553",
+            "lastpage": "92800",
+            "pub_year": 2017,
+            "title": "Peroxiredoxin 3 maintains the survival of endometrial cancer stem cells by regulating oxidative stress",
+            "volume": "8"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Hua",
+                    "initial": "H.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Xuexia",
+                    "initial": "X.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Lei",
+                    "initial": "L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Peng",
+                    "initial": "P.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Jian",
+                    "initial": "J.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Xicheng",
+                    "initial": "X.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Guojun",
+                    "initial": "G.",
+                    "last": "Li"
+                }
+            ],
+            "doi": "10.18632/oncotarget.13838",
+            "firstpage": "3471",
+            "issn": "19492553",
+            "lastpage": "3480",
+            "pub_year": 2017,
+            "title": "Differential expression of peroxiredoxin 3 in laryngeal squamous cell carcinoma",
+            "volume": "8"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Hiro",
+                    "initial": "H.",
+                    "last": "Tatetsu"
+                },
+                {
+                    "first": "Nikki R.",
+                    "initial": "N.R.",
+                    "last": "Kong"
+                },
+                {
+                    "first": "Gao",
+                    "initial": "G.",
+                    "last": "Chong"
+                },
+                {
+                    "first": "Giovanni",
+                    "initial": "G.",
+                    "last": "Amabile"
+                },
+                {
+                    "first": "Daniel G.",
+                    "initial": "D.G.",
+                    "last": "Tenen"
+                },
+                {
+                    "first": "Li",
+                    "initial": "L.",
+                    "last": "Chai"
+                }
+            ],
+            "doi": "10.1016/j.gene.2016.02.019",
+            "firstpage": "111",
+            "issn": "03781119",
+            "lastpage": "119",
+            "pmid": "26892498",
+            "pub_year": 2016,
+            "title": "SALL4, the missing link between stem cells, development and cancer",
+            "volume": "584"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Xu",
+                    "initial": "X.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Xiao",
+                    "initial": "X.",
+                    "last": "Yuan"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Wenrong",
+                    "initial": "W.",
+                    "last": "Xu"
+                }
+            ],
+            "doi": "10.1016/j.canlet.2014.11.037",
+            "firstpage": "55",
+            "issn": "03043835",
+            "lastpage": "62",
+            "pmid": "25444934",
+            "pub_year": 2015,
+            "title": "SALL4: An emerging cancer biomarker and target",
+            "volume": "357"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Jaehong",
+                    "initial": "J.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Jongdoo",
+                    "initial": "J.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Jong Sup",
+                    "initial": "J.S.",
+                    "last": "Bae"
+                }
+            ],
+            "doi": "10.1038/emm.2016.119",
+            "issn": "12263613",
+            "pmid": "27811934",
+            "pub_year": 2016,
+            "title": "ROS homeostasis and metabolism: A critical liaison for cancer therapy",
+            "volume": "48"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Kristell Le",
+                    "initial": "K.L.",
+                    "last": "Gal"
+                },
+                {
+                    "first": "Mohamed X.",
+                    "initial": "M.X.",
+                    "last": "Ibrahim"
+                },
+                {
+                    "first": "Clotilde",
+                    "initial": "C.",
+                    "last": "Wiel"
+                },
+                {
+                    "first": "Volkan I.",
+                    "initial": "V.I.",
+                    "last": "Sayin"
+                },
+                {
+                    "first": "Murali K.",
+                    "initial": "M.K.",
+                    "last": "Akula"
+                },
+                {
+                    "first": "Christin",
+                    "initial": "C.",
+                    "last": "Karlsson"
+                },
+                {
+                    "first": "Martin G.",
+                    "initial": "M.G.",
+                    "last": "Dalin"
+                },
+                {
+                    "first": "Levent M.",
+                    "initial": "L.M.",
+                    "last": "Aky\u00fcrek"
+                },
+                {
+                    "first": "Per",
+                    "initial": "P.",
+                    "last": "Lindahl"
+                },
+                {
+                    "first": "Jonas",
+                    "initial": "J.",
+                    "last": "Nilsson"
+                },
+                {
+                    "first": "Martin O.",
+                    "initial": "M.O.",
+                    "last": "Bergo"
+                }
+            ],
+            "doi": "10.1126/scitranslmed.aad3740",
+            "issn": "19466234",
+            "pmid": "26446958",
+            "pub_year": 2015,
+            "title": "Antioxidants can increase melanoma metastasis in mice",
+            "volume": "7"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Piskounova"
+                },
+                {
+                    "first": "Michalis",
+                    "initial": "M.",
+                    "last": "Agathocleous"
+                },
+                {
+                    "first": "Malea M.",
+                    "initial": "M.M.",
+                    "last": "Murphy"
+                },
+                {
+                    "first": "Zeping",
+                    "initial": "Z.",
+                    "last": "Hu"
+                },
+                {
+                    "first": "Sara E.",
+                    "initial": "S.E.",
+                    "last": "Huddlestun"
+                },
+                {
+                    "first": "Zhiyu",
+                    "initial": "Z.",
+                    "last": "Zhao"
+                },
+                {
+                    "first": "A. Marilyn",
+                    "initial": "A.M.",
+                    "last": "Leitch"
+                },
+                {
+                    "first": "Timothy M.",
+                    "initial": "T.M.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Ralph J.",
+                    "initial": "R.J.",
+                    "last": "DeBerardinis"
+                },
+                {
+                    "first": "Sean J.",
+                    "initial": "S.J.",
+                    "last": "Morrison"
+                }
+            ],
+            "doi": "10.1038/nature15726",
+            "firstpage": "186",
+            "issn": "00280836",
+            "lastpage": "191",
+            "pmid": "26466563",
+            "pub_year": 2015,
+            "title": "Oxidative stress inhibits distant metastasis by human melanoma cells",
+            "volume": "527"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Mohammad Mahdi",
+                    "initial": "M.M.",
+                    "last": "Forghanifard"
+                },
+                {
+                    "first": "Meysam",
+                    "initial": "M.",
+                    "last": "Moghbeli"
+                },
+                {
+                    "first": "Reza",
+                    "initial": "R.",
+                    "last": "Raeisossadati"
+                },
+                {
+                    "first": "Alireza",
+                    "initial": "A.",
+                    "last": "Tavassoli"
+                },
+                {
+                    "first": "Afsaneh Javdani",
+                    "initial": "A.J.",
+                    "last": "Mallak"
+                },
+                {
+                    "first": "Samaneh",
+                    "initial": "S.",
+                    "last": "Boroumand-Noughabi"
+                },
+                {
+                    "first": "Mohammad Reza",
+                    "initial": "M.R.",
+                    "last": "Abbaszadegan"
+                }
+            ],
+            "doi": "10.1186/1423-0127-20-6",
+            "issn": "10217770",
+            "pmid": "23363002",
+            "pub_year": 2013,
+            "title": "Role of SALL4 in the progression and metastasis of colorectal cancer",
+            "volume": "20"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Aleksandra",
+                    "initial": "A.",
+                    "last": "Adamska"
+                },
+                {
+                    "first": "Alice",
+                    "initial": "A.",
+                    "last": "Domenichini"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Falasca"
+                }
+            ],
+            "doi": "10.3390/ijms18071338",
+            "issn": "16616596",
+            "pmid": "28640192",
+            "pub_year": 2017,
+            "title": "Pancreatic ductal adenocarcinoma: Current and evolving therapies",
+            "volume": "18"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Srustidhar",
+                    "initial": "S.",
+                    "last": "Das"
+                },
+                {
+                    "first": "Surinder K.",
+                    "initial": "S.K.",
+                    "last": "Batra"
+                }
+            ],
+            "doi": "10.2174/1381612821666141211115234",
+            "firstpage": "1249",
+            "issn": "13816128",
+            "lastpage": "1255",
+            "pmid": "25506899",
+            "pub_year": 2015,
+            "title": "Pancreatic cancer metastasis: Are we being pre-EMTed?",
+            "volume": "21"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Pimienta"
+                },
+                {
+                    "first": "Mouad",
+                    "initial": "M.",
+                    "last": "Edderkaoui"
+                },
+                {
+                    "first": "Ruoxiang",
+                    "initial": "R.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Pandol"
+                }
+            ],
+            "doi": "10.3389/fphys.2017.00381",
+            "issn": "1664042X",
+            "pub_year": 2017,
+            "title": "The potential for circulating tumor cells in pancreatic cancer management",
+            "volume": "8"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Yolanda",
+                    "initial": "Y.",
+                    "last": "Olmos"
+                },
+                {
+                    "first": "Francisco J.",
+                    "initial": "F.J.",
+                    "last": "S\u00e1nchez-G\u00f3mez"
+                },
+                {
+                    "first": "Brigitte",
+                    "initial": "B.",
+                    "last": "Wild"
+                },
+                {
+                    "first": "Nieves",
+                    "initial": "N.",
+                    "last": "Garc\u00eda-Quintans"
+                },
+                {
+                    "first": "Sof\u00eda",
+                    "initial": "S.",
+                    "last": "Cabezudo"
+                },
+                {
+                    "first": "Santiago",
+                    "initial": "S.",
+                    "last": "Lamas"
+                },
+                {
+                    "first": "Mar\u00eda",
+                    "initial": "M.",
+                    "last": "Monsalve"
+                }
+            ],
+            "doi": "10.1089/ars.2012.4713",
+            "firstpage": "1507",
+            "issn": "15230864",
+            "lastpage": "1521",
+            "pmid": "23461683",
+            "pub_year": 2013,
+            "title": "SirT1 regulation of antioxidant genes is dependent on the formation of a FoxO3a/PGC-1\u03b1 complex",
+            "volume": "19"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "In Sung",
+                    "initial": "I.S.",
+                    "last": "Song"
+                },
+                {
+                    "first": "Yu Jeong",
+                    "initial": "Y.J.",
+                    "last": "Jeong"
+                },
+                {
+                    "first": "Seung Hun",
+                    "initial": "S.H.",
+                    "last": "Jeong"
+                },
+                {
+                    "first": "Hye Jin",
+                    "initial": "H.J.",
+                    "last": "Heo"
+                },
+                {
+                    "first": "Hyoung Kyu",
+                    "initial": "H.K.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Ki Beom",
+                    "initial": "K.B.",
+                    "last": "Bae"
+                },
+                {
+                    "first": "Young Ho",
+                    "initial": "Y.H.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Sun Uk",
+                    "initial": "S.U.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Jin Man",
+                    "initial": "J.M.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Nari",
+                    "initial": "N.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Kyung Soo",
+                    "initial": "K.S.",
+                    "last": "Ko"
+                },
+                {
+                    "first": "Byoung Doo",
+                    "initial": "B.D.",
+                    "last": "Rhee"
+                },
+                {
+                    "first": "Jin",
+                    "initial": "J.",
+                    "last": "Han"
+                }
+            ],
+            "doi": "10.1053/j.gastro.2015.06.007",
+            "firstpage": "1006",
+            "issn": "00165085",
+            "lastpage": "1016.e9",
+            "pmid": "26091938",
+            "pub_year": 2015,
+            "title": "FOXM1-Induced PRX3 Regulates Stemness and Survival of Colon Cancer Cells via Maintenance of Mitochondrial Function",
+            "volume": "149"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Wenjie",
+                    "initial": "W.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "Jie",
+                    "initial": "J.",
+                    "last": "Min"
+                },
+                {
+                    "first": "Xiaohui",
+                    "initial": "X.",
+                    "last": "Sui"
+                },
+                {
+                    "first": "Yanyan",
+                    "initial": "Y.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "Ying",
+                    "initial": "Y.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Zhaojian",
+                    "initial": "Z.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Haibin",
+                    "initial": "H.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Xi",
+                    "initial": "X.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Yaoqin",
+                    "initial": "Y.",
+                    "last": "Gong"
+                }
+            ],
+            "doi": "10.3109/10428194.2014.924115",
+            "firstpage": "460",
+            "issn": "10428194",
+            "lastpage": "471",
+            "pmid": "24828865",
+            "pub_year": 2015,
+            "title": "MicroRNA-26a-5p and microRNA-23b-3p up-regulate peroxiredoxin III in acute myeloid leukemia",
+            "volume": "56"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Douglas S.",
+                    "initial": "D.S.",
+                    "last": "Micalizzi"
+                },
+                {
+                    "first": "Shyamala",
+                    "initial": "S.",
+                    "last": "Maheswaran"
+                },
+                {
+                    "first": "Daniel A.",
+                    "initial": "D.A.",
+                    "last": "Haber"
+                }
+            ],
+            "doi": "10.1101/gad.305805.117",
+            "firstpage": "1827",
+            "issn": "08909369",
+            "lastpage": "1840",
+            "pmid": "29051388",
+            "pub_year": 2017,
+            "title": "A conduit to metastasis: Circulating tumor cell biology",
+            "volume": "31"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Sagar",
+                    "initial": "S.",
+                    "last": "Regmi"
+                },
+                {
+                    "first": "Afu",
+                    "initial": "A.",
+                    "last": "Fu"
+                },
+                {
+                    "first": "Kathy Qian",
+                    "initial": "K.Q.",
+                    "last": "Luo"
+                }
+            ],
+            "doi": "10.1038/srep39975",
+            "issn": "20452322",
+            "pmid": "28054593",
+            "pub_year": 2017,
+            "title": "High Shear Stresses under Exercise Condition Destroy Circulating Tumor Cells in a Microfluidic System",
+            "volume": "7"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Kamarajugadda"
+                },
+                {
+                    "first": "Q.",
+                    "initial": "Q.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Nayak"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "He"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Ai"
+                },
+                {
+                    "first": "S. S.",
+                    "initial": "S.S.",
+                    "last": "Martin"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Lu"
+                }
+            ],
+            "doi": "10.1038/cddis.2013.20",
+            "issn": "20414889",
+            "pmid": "23429290",
+            "pub_year": 2013,
+            "title": "Manganese superoxide dismutase promotes anoikis resistance and tumor metastasis",
+            "volume": "4"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Ying",
+                    "initial": "Y.",
+                    "last": "Qu"
+                },
+                {
+                    "first": "Jinhua",
+                    "initial": "J.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Partha S.",
+                    "initial": "P.S.",
+                    "last": "Ray"
+                },
+                {
+                    "first": "Hua",
+                    "initial": "H.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Jian",
+                    "initial": "J.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Miyung",
+                    "initial": "M.",
+                    "last": "Shin-Sim"
+                },
+                {
+                    "first": "Bolanle A.",
+                    "initial": "B.A.",
+                    "last": "Bukoye"
+                },
+                {
+                    "first": "Bingya",
+                    "initial": "B.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Adrian V.",
+                    "initial": "A.V.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Xin",
+                    "initial": "X.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Peng",
+                    "initial": "P.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "John W.",
+                    "initial": "J.W.",
+                    "last": "Martens"
+                },
+                {
+                    "first": "Armando E.",
+                    "initial": "A.E.",
+                    "last": "Giuliano"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Ning Hui",
+                    "initial": "N.H.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Xiaojiang",
+                    "initial": "X.",
+                    "last": "Cui"
+                }
+            ],
+            "doi": "10.1172/JCI43144",
+            "firstpage": "212",
+            "issn": "00219738",
+            "lastpage": "225",
+            "pmid": "21123948",
+            "pub_year": 2011,
+            "title": "Thioredoxin-like 2 regulates human cancer cell growth and metastasis via redox homeostasis and NF-\u03baB signaling",
+            "volume": "121"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Junji",
+                    "initial": "J.",
+                    "last": "Itou"
+                },
+                {
+                    "first": "Yoshiaki",
+                    "initial": "Y.",
+                    "last": "Matsumoto"
+                },
+                {
+                    "first": "Kiyotsugu",
+                    "initial": "K.",
+                    "last": "Yoshikawa"
+                },
+                {
+                    "first": "Masakazu",
+                    "initial": "M.",
+                    "last": "Toi"
+                }
+            ],
+            "doi": "10.1016/j.febslet.2013.07.049",
+            "firstpage": "3115",
+            "issn": "00145793",
+            "lastpage": "3121",
+            "pmid": "23954296",
+            "pub_year": 2013,
+            "title": "Sal-like 4 (SALL4) suppresses CDH1 expression and maintains cell dispersion in basal-like breast cancer",
+            "volume": "587"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Xiufei",
+                    "initial": "X.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Min",
+                    "initial": "M.",
+                    "last": "Long"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Linlin",
+                    "initial": "L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Rui",
+                    "initial": "R.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Zheng"
+                },
+                {
+                    "first": "Xiaoyu",
+                    "initial": "X.",
+                    "last": "Liao"
+                },
+                {
+                    "first": "Yuren",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Qian",
+                    "initial": "Q.",
+                    "last": "Liao"
+                },
+                {
+                    "first": "Wenjie",
+                    "initial": "W.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Zili",
+                    "initial": "Z.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "Qiang",
+                    "initial": "Q.",
+                    "last": "Tong"
+                },
+                {
+                    "first": "Xiaocui",
+                    "initial": "X.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Fang",
+                    "initial": "F.",
+                    "last": "Fang"
+                },
+                {
+                    "first": "Montserrat Rojo",
+                    "initial": "M.R.",
+                    "last": "De La Vega"
+                },
+                {
+                    "first": "Qin",
+                    "initial": "Q.",
+                    "last": "Ouyang"
+                },
+                {
+                    "first": "Donna D.",
+                    "initial": "D.D.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Shicang",
+                    "initial": "S.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Hongting",
+                    "initial": "H.",
+                    "last": "Zheng"
+                }
+            ],
+            "doi": "10.1126/scitranslmed.aad6095",
+            "issn": "19466234",
+            "pmid": "27075625",
+            "pub_year": 2016,
+            "title": "NRF2 activation by antioxidant antidiabetic agents accelerates tumor metastasis",
+            "volume": "8"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Cai"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Mao"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Q.",
+                    "initial": "Q.",
+                    "last": "Shao"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Qian"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Xu"
+                }
+            ],
+            "doi": "10.1038/onc.2013.495",
+            "firstpage": "5491",
+            "issn": "09509232",
+            "lastpage": "5500",
+            "pmid": "24276240",
+            "pub_year": 2014,
+            "title": "SALL4, a novel marker for human gastric carcinogenesis and metastasis",
+            "volume": "33"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Jiao"
+                },
+                {
+                    "first": "K. J.",
+                    "initial": "K.J.",
+                    "last": "Yong"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Yan"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Srivastava"
+                },
+                {
+                    "first": "G. S.D.",
+                    "initial": "G.S.D.",
+                    "last": "Lim"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Tang"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "D. G.",
+                    "initial": "D.G.",
+                    "last": "Tenen"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Chai"
+                }
+            ],
+            "doi": "10.1038/onc.2013.529",
+            "firstpage": "63",
+            "issn": "09509232",
+            "lastpage": "72",
+            "pmid": "24336327",
+            "pub_year": 2015,
+            "title": "SALL4 is a new target in endometrial cancer",
+            "volume": "34"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Mario",
+                    "initial": "M.",
+                    "last": "Giuliano"
+                },
+                {
+                    "first": "Anum",
+                    "initial": "A.",
+                    "last": "Shaikh"
+                },
+                {
+                    "first": "Hin Ching",
+                    "initial": "H.C.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Grazia",
+                    "initial": "G.",
+                    "last": "Arpino"
+                },
+                {
+                    "first": "Sabino",
+                    "initial": "S.",
+                    "last": "De Placido"
+                },
+                {
+                    "first": "Xiang H.",
+                    "initial": "X.H.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Massimo",
+                    "initial": "M.",
+                    "last": "Cristofanilli"
+                },
+                {
+                    "first": "Rachel",
+                    "initial": "R.",
+                    "last": "Schiff"
+                },
+                {
+                    "first": "Meghana V.",
+                    "initial": "M.V.",
+                    "last": "Trivedi"
+                }
+            ],
+            "doi": "10.1158/0008-5472.CAN-17-2748",
+            "firstpage": "845",
+            "issn": "00085472",
+            "lastpage": "852",
+            "pmid": "29437766",
+            "pub_year": 2018,
+            "title": "Perspective on circulating tumor cell clusters: Why it takes a village to metastasize",
+            "volume": "78"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Jianrong",
+                    "initial": "J.",
+                    "last": "Lu"
+                },
+                {
+                    "first": "Ming",
+                    "initial": "M.",
+                    "last": "Tan"
+                },
+                {
+                    "first": "Qingsong",
+                    "initial": "Q.",
+                    "last": "Cai"
+                }
+            ],
+            "doi": "10.1016/j.canlet.2014.04.001",
+            "firstpage": "156",
+            "issn": "03043835",
+            "lastpage": "164",
+            "pmid": "24732809",
+            "pub_year": 2015,
+            "title": "The Warburg effect in tumor progression: Mitochondrial oxidative metabolism as an anti-metastasis mechanism",
+            "volume": "356"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Mi Hee",
+                    "initial": "M.H.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Miran",
+                    "initial": "M.",
+                    "last": "Jo"
+                },
+                {
+                    "first": "Yu Ri",
+                    "initial": "Y.R.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Chong Kil",
+                    "initial": "C.K.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Jin Tae",
+                    "initial": "J.T.",
+                    "last": "Hong"
+                }
+            ],
+            "doi": "10.1016/j.pharmthera.2016.03.018",
+            "firstpage": "1",
+            "issn": "01637258",
+            "lastpage": "23",
+            "pmid": "27130805",
+            "pub_year": 2016,
+            "title": "Roles of peroxiredoxins in cancer, neurodegenerative diseases and inflammatory diseases",
+            "volume": "163"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Lianqin",
+                    "initial": "L.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Ai Qun",
+                    "initial": "A.Q.",
+                    "last": "Yu"
+                }
+            ],
+            "doi": "10.1007/s00432-015-1916-3",
+            "firstpage": "2071",
+            "issn": "01715216",
+            "lastpage": "2077",
+            "pmid": "25875582",
+            "pub_year": 2015,
+            "title": "The functional role of peroxiredoxin 3 in reactive oxygen species, apoptosis, and chemoresistance of cancer cells",
+            "volume": "141"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 21164,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "For the cell invasion assay, all procedures carried out were the same as that in the migration assay, excepting that a Matrigel matrix growth factor reduced basement (BD Biosciences, NJ, US) (3.5 mg/mL) was coated on the upper chamber, according to the manufacturer's protocol.",
+            "startOffset": 20887,
+            "title": "In\u00a0vitro cell migration and invasion assays"
+        },
+        {
+            "endOffset": 26426,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In this study, we have examined the role of SALL4 to PDAC tumor growth.",
+            "startOffset": 26355,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 30795,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, silencing or overexpression of this gene enables modulating ROS status in PDAC cells.",
+            "startOffset": 30697,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23004,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The tumor sizes were measured every 7 days using calipers.",
+            "startOffset": 22946,
+            "title": "In\u00a0vivo evaluation"
+        },
+        {
+            "endOffset": 21393,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Before overnight staining with the primary antibodies of interest, cells were blocked by Phosphate Buffered Saline Tween-20 (PBST) 1X with 3% BSA.",
+            "startOffset": 21247,
+            "title": "Immunocytochemical staining"
+        },
+        {
+            "endOffset": 15506,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, tumor in endocrine pancreas is not popular.",
+            "startOffset": 15454,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31374,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 31372,
+                    "startOffset": 31370
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These facts compromised with the study of Piskounova et al. [19].",
+            "startOffset": 31309,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23248,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Statistical analysis was performed using the Graphpad Prism software (Version 6.02).",
+            "startOffset": 23164,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27164,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In this study, we have screened the expressions of Prx proteins among three PDAC cell lines.",
+            "startOffset": 27072,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 27885,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Downregulation of SALL4 by siRNA revealed the decreases of Prx III and FoxM1 via dephosphorylation of ERK1/2, as a result level of intracellular ROS was upregulated (Fig. 4D-E-F).",
+            "startOffset": 27706,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 19937,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In brief, optimem diluted siRNA and RNAimax reagent were mixed 1:1 ratio, followed by 5 min incubation at room temperature before transfection.",
+            "startOffset": 19794,
+            "title": "Downregulation and overexpression of SALL4"
+        },
+        {
+            "endOffset": 25721,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Next, we continued to check whether the overexpression of SALL4 in PDAC cell lines might change the stemness trait and metastatic phenotype.",
+            "startOffset": 25581,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 26576,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Results showed that knockdown and overexpression of SALL4 significantly affected PDAC tumor growth measured by tumor volumes and weights (Fig. 3H\u2013I).",
+            "startOffset": 26427,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 17949,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 17947,
+                    "startOffset": 17946
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prx III is one of protein member in Prx protein family, which are thiol-specific antioxidant enzymes catalyzing peroxide reduction of by their cysteine-containing core sites [8].",
+            "startOffset": 17771,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28442,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Present therapies including surgery, radiation, chemotherapy and immunotherapy are almost ineffective.",
+            "startOffset": 28340,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32990,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This event consequently incorporates with EMT markers and promote PDAC metastasis.",
+            "startOffset": 32908,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17223,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Due to the fast growth of cancer cells, glycolysis occurs stronger than in normal cells, which allows fast pyruvate production and limitation of pyruvate efflux to mitochondria.",
+            "startOffset": 17046,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29019,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 29017,
+                    "startOffset": 29015
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Besides, metastasis issue squeezes to PDAC management and recently circulating tumor cells (CTCs) are detected in mouse model and patient samples [22].",
+            "startOffset": 28868,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32067,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 32065,
+                    "startOffset": 32063
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Therefore, only few tumor cells can form new tumor [26].",
+            "startOffset": 32011,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33471,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "DKJ, THK and DLH designed the experiments.",
+            "startOffset": 33429,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 20693,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cells (2.5 \u00d7 104) in 0.5% FBS-DMEM were seeded in the upper chamber while the lower chamber was filled with 20% FBS.",
+            "startOffset": 20577,
+            "title": "In\u00a0vitro cell migration and invasion assays"
+        },
+        {
+            "endOffset": 31309,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This also explains why low expression of SALL4 induced higher ROS level in PANC-1 and AsPC-1 while lowered cell number migrating or invading.",
+            "startOffset": 31168,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17770,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Another possibility to reduce mt-ROS via Peroxiredoxin (Prx) III has been recently reported.",
+            "startOffset": 17678,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16109,
+            "parents": [],
+            "refoffsets": {
+                "bib2": {
+                    "endOffset": 16107,
+                    "startOffset": 16106
+                }
+            },
+            "secId": "sec1",
+            "sentence": "SALL4 expression is highly detected in lympho nodes\u2013metastasized colorectal tumor cells, especially in moderate-differentiated tumor samples [2].",
+            "startOffset": 15964,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27257,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Results showed that Prx III was expressed in all cell lines and highest at BxPC-3 (Fig. 4A).",
+            "startOffset": 27165,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 22239,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The bands were captured using an ImageQuant\u2122 LAS 4000 mini Fujifilm camera.",
+            "startOffset": 22164,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 16572,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, it is undeniable that SALL4 upregulates EMT related genes and therefore promotes metastasis rate of malignant cells.",
+            "startOffset": 16445,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20886,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "The number of migrating cells in the chamber was counted under a microscope in five random fields at 100 \u00d7.",
+            "startOffset": 20779,
+            "title": "In\u00a0vitro cell migration and invasion assays"
+        },
+        {
+            "endOffset": 17342,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Consequently, mitochondrial ROS (mt-ROS) derived from oxygen metabolism becomes low and promotes lactate fermentation.",
+            "startOffset": 17224,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17388,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 17386,
+                    "startOffset": 17385
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This progress called as \u201cWarburg effect\u201d [7].",
+            "startOffset": 17343,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24483,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These data primarily suggested that SALL4 might be hypothetically inherent to the cell proliferation and metastatic phenotype in PDAC cells.",
+            "startOffset": 24343,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 29934,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 29932,
+                    "startOffset": 29931
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In the context of fast growing and drug treatment-which may lead to the ROS production, the expressions of PRDXs family, for instance Prx III, are very important to favor malignant cell growth [8].",
+            "startOffset": 29737,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30347,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 30345,
+                    "startOffset": 30343
+                },
+                "bib9": {
+                    "endOffset": 30342,
+                    "startOffset": 30341
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Moreover, microRNAs are also involved in Prx III maintenance in cancer cells [9,25].",
+            "startOffset": 30263,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26831,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 26829,
+                    "startOffset": 26827
+                },
+                "bib8": {
+                    "endOffset": 26826,
+                    "startOffset": 26825
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Intracellular ROS homeostasis is mainly governed by oxidase enzymes, for instance Peroxiredoxins [8,17].",
+            "startOffset": 26727,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 24342,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Besides, there were the upregulation of EMT markers such as N-cad, CXCR4, Vimentin in BxPC-3 cells versus PANC-1 and AsPC-1 (Fig. 1D) and as a result, numbers of migrating and invading cells in BxPC-3 were highest (Fig. 1E\u2013F).",
+            "startOffset": 24116,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 27006,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Data above suggested SALL4 is tightly associated with metastatic phenotype in PDAC.",
+            "startOffset": 26923,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 15963,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "SALL4 expression implies to tumor metastasis or endothelial mesenchymal transition (EMT) progress in many types of tumors.",
+            "startOffset": 15841,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20576,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "A cell migration assay was performed using 8-\u03bcm pore-sized hanging cell-inserts (Merck Millipore, MA, US).",
+            "startOffset": 20470,
+            "title": "In\u00a0vitro cell migration and invasion assays"
+        },
+        {
+            "endOffset": 28212,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These data suggested that SALL4 might negatively regulate ROS homeostasis by activation of FoxM1/Prx III via ERK1/2 phosphorylation.",
+            "startOffset": 28080,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 27071,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Therefore, SALL4 might connect to ROS maintenance in PDAC cells.",
+            "startOffset": 27007,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 32559,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 32554,
+                    "startOffset": 32552
+                },
+                "bib30": {
+                    "endOffset": 32557,
+                    "startOffset": 32555
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Furthermore, administrations of antioxidant drugs seem to promote tumor metastasis [18,30].",
+            "startOffset": 32468,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16677,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 16673,
+                    "startOffset": 16672
+                },
+                "bib7": {
+                    "endOffset": 16675,
+                    "startOffset": 16674
+                }
+            },
+            "secId": "sec1",
+            "sentence": "However, other evidences showed that reactive oxygen species (ROS) also determines metastasis rate [6,7].",
+            "startOffset": 16572,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31016,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Upstreaming of Prx III, FoxM1 is one of trans-activator and regulated by SALL4 activity.",
+            "startOffset": 30928,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19249,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This study characterizes further SALL4 contributions to tumorigenesis and proposes new target in anti-spread of pancreatic cancer.",
+            "startOffset": 19119,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21814,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Proteins were separated on by 12% SDS-PAGE and transferred electrophoretically (Bio-Rad, CA, USA) onto polyvinylidene fluoride (PVDF) membrane.",
+            "startOffset": 21671,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 25141,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Western blotting showed the downregulations of stemness genes including Sox-2, Nanog and colony forming ability by SALL4 silencing (Fig. 2C-D-E).",
+            "startOffset": 24996,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 32829,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, SALL4 not only maintains stemness traits in PDAC phenotype but also regulates EMT markers, which are critical for early metastasis.",
+            "startOffset": 32683,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32391,
+            "parents": [],
+            "refoffsets": {
+                "bib28": {
+                    "endOffset": 32386,
+                    "startOffset": 32384
+                },
+                "bib29": {
+                    "endOffset": 32389,
+                    "startOffset": 32387
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Many evidences indicated that metastasis efficiency is correlated with peroxidase enzymes and the expressions of these enzymes enhance oxidative stress tolerance in CTCs during metastasis [28,29].",
+            "startOffset": 32195,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29406,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we have examined the role of SALL4 to PDAC phenotype and results showed that SALL4 gets tightly involved in the growth of pancreatic malignant cells in vitro and in vivo.",
+            "startOffset": 29221,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33098,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, inhibition of SALL4 might be a novel target in anti-metastasis and anti-proliferative therapies.",
+            "startOffset": 32991,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33579,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "ZJJ, NC, MG, MG and NK participated in the discussion.",
+            "startOffset": 33525,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 27608,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Immunocytochemistry staining also indicated the highest expressions of Prx III and FoxM1 in BxPC-3 (Fig. 4B).",
+            "startOffset": 27499,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 15569,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 15567,
+                    "startOffset": 15566
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Most of cases are pancreatic ductal adenocarcinoma (PDAC) [1].",
+            "startOffset": 15507,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20139,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Cells at log phase were transfected SALL4 pENTER vector and cells at 48 h post-transfection were used for further analysis.",
+            "startOffset": 20016,
+            "title": "Downregulation and overexpression of SALL4"
+        },
+        {
+            "endOffset": 28064,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Furthermore, overexpression of SALL4 enhanced the activation of ERK1/2, intensifying the FoxM1 and Prx III and subsequently significantly reduced intracellular ROS in PDAC cells.",
+            "startOffset": 27886,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 33784,
+            "parents": [],
+            "secId": "sec6",
+            "sentence": "The authors declare no conflict of interest.",
+            "startOffset": 33740,
+            "title": "Conflicts of interest"
+        },
+        {
+            "endOffset": 24766,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Results showed that level of SALL4 was attenuated after knockdown (Fig. 2A\u2013B).",
+            "startOffset": 24688,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 30562,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It seems like a trend of the maintenance of intracellular ROS homeostasis.",
+            "startOffset": 30488,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24878,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Furthermore, other cancer stem cells surface markers such as CD133, CD44 and CD24 were downregulated (Fig. 2B).",
+            "startOffset": 24767,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 17045,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 17043,
+                    "startOffset": 17042
+                }
+            },
+            "secId": "sec1",
+            "sentence": "These factors would trigger cell death (known as anoikis) in CTCs and as a result attenuate metastasis rate [7].",
+            "startOffset": 16933,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20015,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For SALL4 overexpression, PANC-1 and AsPC-1 cells were used for transfection.",
+            "startOffset": 19938,
+            "title": "Downregulation and overexpression of SALL4"
+        },
+        {
+            "endOffset": 32907,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, SALL4 also suppresses mt-ROS level via FoxM1/Prx III activities.",
+            "startOffset": 32830,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33603,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "YHP supplied chemicals.",
+            "startOffset": 33580,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 26251,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "For metastatic phenotype, results showed that overexpression of SALL4 facilitated PDAC migration and invasion while increasing Vimentin expression in cells (Fig. 3E-F-G).",
+            "startOffset": 26081,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 22370,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Cells were seeded into HTS 96 well-plate (Corning, NY, US) 24 h before further analysis.",
+            "startOffset": 22282,
+            "title": "Determination of reactive oxygen species"
+        },
+        {
+            "endOffset": 26354,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 26349,
+                    "startOffset": 26347
+                },
+                "bib16": {
+                    "endOffset": 26352,
+                    "startOffset": 26350
+                }
+            },
+            "secId": "sec3.3",
+            "sentence": "Many evidences showed that SALL4 plays important role to tumor growth in many types of cancer [15,16].",
+            "startOffset": 26252,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 22543,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Cells were washed three times by 1X PBS before adding 2\u2032,7\u2032\u2013dichlorofluorescin diacetate (DCF-DA) with final concentration 10 \u03bcmol/L and incubated for 30 min/37 \u00b0C in dark.",
+            "startOffset": 22371,
+            "title": "Determination of reactive oxygen species"
+        },
+        {
+            "endOffset": 24995,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To verify the effects of SALL4 knockdown to stemness properties, we performed western blotting and clonogenic assay.",
+            "startOffset": 24879,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 32467,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These evidences leave a question whether ROS scavenging enables metastasis.",
+            "startOffset": 32392,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23735,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To validate the link of SALL4 expression to cell clonogenicity and mobility in PDAC phenotype, we examined expression of SALL4 among PDAC cell lines (BxPC-3, PANC-1, AsPC-1).",
+            "startOffset": 23561,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 21670,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Cell lysates were determined by using the BCA assay.",
+            "startOffset": 21618,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 33667,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "TK and DKJ designed experiments and wrote the whole manuscript.",
+            "startOffset": 33604,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 31167,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It primarily concludes that SALL4 is not encouraging ROS accumulation via Prx III activity, however enhancing metastatic phenotype in PDAC cell lines.",
+            "startOffset": 31017,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28622,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 28620,
+                    "startOffset": 28618
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Recently, the Gemcitabine-based combination of multi-drugs became effective and gained some primary achievements such as lowering cancer symptoms or increasing survival rate [20].",
+            "startOffset": 28443,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30927,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, these evidences interpreted that lowest cellular ROS level in BxPC-3 cells is due to the activity of Prx III in mitochondria.",
+            "startOffset": 30796,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33182,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Many corners to explore SALL4 interactions to FoxM1/Prx III axis are still elusive.",
+            "startOffset": 33099,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25218,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Next, we further determined SALL4 knockdown effects to metastatic phenotype.",
+            "startOffset": 25142,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 33719,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "All authors read and approved the final manuscript.",
+            "startOffset": 33668,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 29737,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, SALL4 might be a novel factor mastering EMT and proliferation in PDAC cells.",
+            "startOffset": 29650,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23303,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Data were presented as mean \u00b1 standard deviation (SD).",
+            "startOffset": 23249,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 21599,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Cells were stained for 15 min with 4\u2032, 6-diamidino-2-phenylindole (DAPI) before microscopic observation.",
+            "startOffset": 21495,
+            "title": "Immunocytochemical staining"
+        },
+        {
+            "endOffset": 21494,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "After washing twice with PBST 1X, the secondary antibodies were added, followed by a 2-h incubation.",
+            "startOffset": 21394,
+            "title": "Immunocytochemical staining"
+        },
+        {
+            "endOffset": 23469,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "P values of <0.05 were considered to indicate statistically significant data.",
+            "startOffset": 23392,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 19118,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "SALL4 is not only crucial for cell proliferation and self-renewal capacity, but also critical for metastasis traits by lowering mt-ROS via FoxM1/Prx III axis.",
+            "startOffset": 18960,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20424,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "After 7 days of incubation in DMEM supplemented with 10% FBS, cells were fixed with 3.7% Paraformaldehyde (PFA) and stained with 0.05% Crystal violet, followed by washing with 1X PBS before observation.",
+            "startOffset": 20222,
+            "title": "Clonogenic assay"
+        },
+        {
+            "endOffset": 28868,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, better understanding in PDAC-related genes functions and precisely targeting these determinant oncogenes might be the promising goals.",
+            "startOffset": 28723,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22163,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Afterwards, membrane was blocked with 5% non-fat milk powder (w/v) in PBST 1X for 1 h at room temperature; this was followed by incubating the membrane with primary antibodies or with anti-GADPH mouse monoclonal antibody as an internal control overnight at 4 \u00b0C, and with appropriate HRP-conjugated secondary antibodies for 4 h at room temperature.",
+            "startOffset": 21815,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 31528,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Cancer cells from blood and metastatic sites represent higher level of ROS.",
+            "startOffset": 31453,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23391,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.9",
+            "sentence": "Experimental differences were evaluated by ANOVA and Student's t-tests, as appropriate.",
+            "startOffset": 23304,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 33524,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "DLH performed the experiments and analyzed the data.",
+            "startOffset": 33472,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 30696,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We checked the expressions of Prx protein family and we found that among Prx I-VI, there is only Prx III corresponding to this trend.",
+            "startOffset": 30563,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24115,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Results indicated that BxPC-3 formed colonies abundantly as compared to PANC-1 and AsPC-1 (Fig. 1B\u2013C).",
+            "startOffset": 24013,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 30262,
+            "parents": [],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 30260,
+                    "startOffset": 30258
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Prx III is also regulated by forkhead box protein 1 (FoxM1) in colon CSCs [24].",
+            "startOffset": 30183,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18356,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Many evidences have proved the promotions of Prx III to carcinogenesis.",
+            "startOffset": 18285,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18285,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 18283,
+                    "startOffset": 18281
+                },
+                "bib9": {
+                    "endOffset": 18209,
+                    "startOffset": 18208
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Located in mitochondrion and uses Thioredoxin 2 (Trx2) as electron donor for their activities [9], Prx III is believed as a main redox regulator of mitochondrial H2O2 [10].",
+            "startOffset": 18113,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25516,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These data suggested that SALL4 downregulation negatively impacts to stemness traits and metastatic phenotypes in PDAC cells.",
+            "startOffset": 25391,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 26080,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Furthermore, upregulations of Sox-2, Nanog were also observed and subsequently increased clonogenicity of PDAC (Fig. 3C\u2013D).",
+            "startOffset": 25957,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 32010,
+            "parents": [],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 32005,
+                    "startOffset": 32003
+                },
+                "bib27": {
+                    "endOffset": 32008,
+                    "startOffset": 32006
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Indeed, cells at late stage of EMT start leaving out of extracellular matrix (ECM) and have to face with many barriers including lower glucose supply, ATP depletion or oxidative stress [26,27].",
+            "startOffset": 31817,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29220,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These evidences urge to find new approaches to detect PDAC at early stage of metastasis, to define the major factors in EMT process and to discover novel inhibitor targeting effectively these factors.",
+            "startOffset": 29020,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31644,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, treatment with antioxidant N-acetyl-cysteine (NAC) enhances the presence of CTCs and metastasis phenotype.",
+            "startOffset": 31529,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18478,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 18476,
+                    "startOffset": 18474
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prx III affects cell proliferation and cell cycle in breast cancer cells and involved in prostate cancer resistance [11].",
+            "startOffset": 18357,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18828,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, there is no evidence of Prx III effects recording about pancreatic cancer.",
+            "startOffset": 18745,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15748,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The main obstacle is poor diagnostic tests at early stage of PDAC and as a result, most of patient cases are incurable and found at late stages with local or advanced metastasis.",
+            "startOffset": 15570,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29498,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 29496,
+                    "startOffset": 29494
+                }
+            },
+            "secId": "sec4",
+            "sentence": "These data are conformed to previous reports about SALL4 function in other cell lines [15].",
+            "startOffset": 29407,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15453,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Pancreas is composed of endocrine and exocrine ductal and both of them can exhibit cancer.",
+            "startOffset": 15363,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22739,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "For ROS measurement by flow cytometry, cells were washed three times by 1X PBS before harvesting.",
+            "startOffset": 22642,
+            "title": "Determination of reactive oxygen species"
+        },
+        {
+            "endOffset": 32194,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this case, some CTCs can self-modulate oxidative stress tolerance to adapt new environment during blood stream circulating.",
+            "startOffset": 32068,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16341,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 16339,
+                    "startOffset": 16338
+                }
+            },
+            "secId": "sec1",
+            "sentence": "SALL4 expression also implies high metastatic capacity in gastric cancer or in esophageal squamous cell carcinoma [4].",
+            "startOffset": 16223,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22945,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "5 \u00d7 106 cells were injected into the flanks of 6-week-old nude female BALB/c-nu mice.",
+            "startOffset": 22860,
+            "title": "In\u00a0vivo evaluation"
+        },
+        {
+            "endOffset": 18112,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 18110,
+                    "startOffset": 18109
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prx III acts as a 1-Cys and typical 2-Cys redox-active cysteine residue enzyme and is responsible for mitochondrial homeostasis and neoplastic transformation [8].",
+            "startOffset": 17950,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26671,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These data suggested that SALL4 expression promotes PDAC malignance both in vitro and in vivo.",
+            "startOffset": 26577,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 32683,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, targeting peroxidase induced-oxidative stress tolerance in PDAC can be an exit way in anti-metastasis vicious circle.",
+            "startOffset": 32560,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22641,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Afterwards, cells were washed with 1X PBS prior to being read by fluorescent reader (495\u2013535 nm).",
+            "startOffset": 22544,
+            "title": "Determination of reactive oxygen species"
+        },
+        {
+            "endOffset": 33409,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, it is necessary to define the mechanism of triangle SALL4/FoxM1 and Prx III, which might provide better understanding of SALL4 function in PDAC and bridge its novel therapeutic application to pancreatic cancer treatment.",
+            "startOffset": 33183,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15362,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Pancreatic cancer is one of the most death causes in United States due to its high mortality and inefficacy treatments.",
+            "startOffset": 15243,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20778,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After 48 h of incubation, cell-inserts were stained with 0.05% crystal violet (w/v).",
+            "startOffset": 20694,
+            "title": "In\u00a0vitro cell migration and invasion assays"
+        },
+        {
+            "endOffset": 28339,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 28334,
+                    "startOffset": 28332
+                },
+                "bib21": {
+                    "endOffset": 28337,
+                    "startOffset": 28335
+                }
+            },
+            "secId": "sec4",
+            "sentence": "PDAC phenotype is incurable due to two main causes: the more chemoresistant and highly metastatic phenotype [20,21].",
+            "startOffset": 28223,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16932,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 16930,
+                    "startOffset": 16929
+                }
+            },
+            "secId": "sec1",
+            "sentence": "During circulating in blood stream, tumor cells might face with various damaging factors which including shear force, lack of adhesion, glucose supply, immune-responsive cells and therefore create oxidative stresses in circulating tumor cells (CTCs) [6].",
+            "startOffset": 16678,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23141,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "Mice were sacrificed after day 35 of inoculation.",
+            "startOffset": 23092,
+            "title": "In\u00a0vivo evaluation"
+        },
+        {
+            "endOffset": 19611,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "AsPC-1, BxPC-3 and PANC-1 cells were purchased from American Type Culture Collection (ATCC) and cultured in DMEM or RPMI (Gibco, CA, US) supplemented with 10% FBS (Welgene, Korea) and 1% anti-mycotic agent, and maintained in a humidified atmosphere of 5% CO2 in the incubator at 37 \u00b0C; the cells were passaged twice per week.",
+            "startOffset": 19286,
+            "title": "Cell culture"
+        },
+        {
+            "endOffset": 16444,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 16442,
+                    "startOffset": 16441
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Moreover, SALL4 expression supposes to high invading and poor survival rate in endometrial cancer [5].",
+            "startOffset": 16342,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29649,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Results also indicated that SALL4 regulates strongly the metastatic phenotype in PDAC cell lines including migration, invasion or EMT protein markers.",
+            "startOffset": 29499,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24012,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Therefore, we performed clonogenic assays among PDAC cell lines.",
+            "startOffset": 23948,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 27498,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Next, we have investigated the upstreaming pathway of Prx III and we found that Forkhead box M1 (FoxM1) was consistent to Prx III expression (Fig. 4A).",
+            "startOffset": 27347,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 28722,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, these combinations depend on constitution of each patient and usually create side effects.",
+            "startOffset": 28623,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21246,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Cells after seeding 24 h, were fixed using 3.7% PFA.",
+            "startOffset": 21194,
+            "title": "Immunocytochemical staining"
+        },
+        {
+            "endOffset": 27346,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 27344,
+                    "startOffset": 27343
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "This protein localizes at mitochondria and regulated by some of upstreaming factors [9].",
+            "startOffset": 27258,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 20221,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Cells (1 \u00d7 103) were seeded onto 6-well plates at 37 \u00b0C/5% CO2.",
+            "startOffset": 20158,
+            "title": "Clonogenic assay"
+        },
+        {
+            "endOffset": 18595,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 18535,
+                    "startOffset": 18533
+                },
+                "bib9": {
+                    "endOffset": 18593,
+                    "startOffset": 18592
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prx III also protects cervical cancer from apoptosis [12] and responsible for drug resistance in ovarian cancer [9].",
+            "startOffset": 18479,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31452,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The study showed that high cellular ROS level is not critical for metastasis.",
+            "startOffset": 31375,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23845,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "We found that SALL4 expression was significantly higher in BxPC-3 as compared to PANC-1 and AsPC-1 (Fig. 1A).",
+            "startOffset": 23736,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 30487,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, results showed the involvement of SALL4 to ROS regulation and the level of ROS is ascendingly from BxPC-3, PANC-1 to AsPC-1.",
+            "startOffset": 30348,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18744,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 18742,
+                    "startOffset": 18740
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Furthermore, Prx III is upregulated in laryngeal squamous cell carcinoma [14].",
+            "startOffset": 18666,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23091,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.8",
+            "sentence": "The tumor volume (V = W \u00d7 L \u00d7 H/2) was evaluated by length (L), height (H), width (W).",
+            "startOffset": 23005,
+            "title": "In\u00a0vivo evaluation"
+        },
+        {
+            "endOffset": 27706,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, intracellular ROS level in BxPC-3 was lowest as compared to PANC-1 and AsPC-1 (Fig. 4C).",
+            "startOffset": 27609,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 26922,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 26917,
+                    "startOffset": 26915
+                },
+                "bib19": {
+                    "endOffset": 26920,
+                    "startOffset": 26918
+                },
+                "bib7": {
+                    "endOffset": 26914,
+                    "startOffset": 26913
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "Excessive ROS level in cells might lead to cell death and limit metastasis rate [7,18,19].",
+            "startOffset": 26832,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        },
+        {
+            "endOffset": 18665,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 18663,
+                    "startOffset": 18661
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Prx III is thought to maintain the survival of endometrial CSCs [13].",
+            "startOffset": 18596,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15841,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, inhibition of pancreatic cancer metastasis is one of urgent targets in treatment.",
+            "startOffset": 15749,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19793,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "For SALL4 downregulation, BxPC-3 cells in log phase reached 80% confluence before proceeding siRNA transfection by RNAimax Lipofectamine.",
+            "startOffset": 19656,
+            "title": "Downregulation and overexpression of SALL4"
+        },
+        {
+            "endOffset": 17678,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Therefore, these evidences suggested that antioxidant capacity in CTCs would tailor the metastasis rate.",
+            "startOffset": 17574,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31816,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "CTCs with lower oxidative stress tolerance would be died at multiple stages of metastasis and therefore metastasizing efficiency becomes low once oxidative stress is high.",
+            "startOffset": 31645,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25956,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In Fig. 3A\u2013B, level of SALL4 expression was increased in cells transfected SALL4 vector as compared to mock vector.",
+            "startOffset": 25841,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 16222,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 16220,
+                    "startOffset": 16219
+                }
+            },
+            "secId": "sec1",
+            "sentence": "SALL4 also positively modulates Zinc finger E-box binding homeobox 1 (ZEB1), leading to the E-cadherin loss [3].",
+            "startOffset": 16110,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30182,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 30180,
+                    "startOffset": 30178
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Sirtuin 1 (SIRT1), a class III histone deacetylase is able to drive expression of Prx III via the formation of PGC-1\u03b1/FoxO3a transcriptional complex in bovine aortic epithelial cells [23].",
+            "startOffset": 29994,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17573,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "By Warburg effect and avoiding ROS-excessive production in mitochondrial respiration during metastasizing, some of CTCs can survive by escaping from \u201canoikis\u201d and form new site tumors.",
+            "startOffset": 17389,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24687,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "To examine the SALL4 effects to stemness and metastatic phenotype, we knocked down the expression of SALL4 in BxPC-3 by siRNA.",
+            "startOffset": 24561,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 22839,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Next, cells were stained with 10 \u03bcmol/L DCF-DA 30 min before analyzing by Accuri C6 flow cytometry.",
+            "startOffset": 22740,
+            "title": "Determination of reactive oxygen species"
+        },
+        {
+            "endOffset": 25390,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Results indicated that SALL4 downregulation by siRNA affected the expression of EMT markers (Fig. 2F), followed by decreases of cells migrating and invading (Fig. 2G-H-I).",
+            "startOffset": 25219,
+            "title": "SALL4 knockdown suppresses stemness and metastatic phenotypes in PDAC cells"
+        },
+        {
+            "endOffset": 29993,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Many upstreaming activators of Prx III have been reported.",
+            "startOffset": 29935,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18959,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we aim to evaluate the role of SALL4 in pancreatic carcinogenesis and its effects to intracellular ROS homeostasis.",
+            "startOffset": 18829,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25840,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We transfected vector containing gene coding SALL4 and cells at 48 h post-transfection were used for further analysis.",
+            "startOffset": 25722,
+            "title": "SALL4 expression promotes PDAC malignance in\u00a0vitro and in\u00a0vivo"
+        },
+        {
+            "endOffset": 23947,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 23942,
+                    "startOffset": 23940
+                },
+                "bib16": {
+                    "endOffset": 23945,
+                    "startOffset": 23943
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Previous reports showed that SALL4 regulates stemness properties in various types of cancers [15,16].",
+            "startOffset": 23846,
+            "title": "SALL4 expression pertains to clonogenicity and metastatic phenotype in PDAC cells"
+        },
+        {
+            "endOffset": 28079,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "(Fig. 4G-H-I).",
+            "startOffset": 28065,
+            "title": "SALL4 modulates Prx III activity via FoxM1 activation"
+        }
+    ],
+    "docId": "S0006291X1831458X",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Do Luong",
+                "initial": "D.L.",
+                "last": "Huynh"
+            },
+            {
+                "email": null,
+                "first": "Jiao Jiao",
+                "initial": "J.J.",
+                "last": "Zhang"
+            },
+            {
+                "email": null,
+                "first": "Nisansala",
+                "initial": "N.",
+                "last": "Chandimali"
+            },
+            {
+                "email": null,
+                "first": "Mrinmoy",
+                "initial": "M.",
+                "last": "Ghosh"
+            },
+            {
+                "email": null,
+                "first": "Meeta",
+                "initial": "M.",
+                "last": "Gera"
+            },
+            {
+                "email": null,
+                "first": "Nameun",
+                "initial": "N.",
+                "last": "Kim"
+            },
+            {
+                "email": null,
+                "first": "Yang Ho",
+                "initial": "Y.H.",
+                "last": "Park"
+            },
+            {
+                "email": "taehokwonk@gmail.com",
+                "first": "Taeho",
+                "initial": "T.",
+                "last": "Kwon"
+            },
+            {
+                "email": "ngejeong@gmail.com",
+                "first": "Dong Kee",
+                "initial": "D.K.",
+                "last": "Jeong"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2018.06.145",
+        "firstpage": "2248",
+        "issn": "0006291X",
+        "keywords": [
+            "FoxM1",
+            "Metastasis",
+            "Pancreatic ductal adenocarcinoma",
+            "Peroxiredoxin III",
+            "SALL4"
+        ],
+        "lastpage": "2254",
+        "openaccess": "Full",
+        "pub_year": 2018,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "SALL4 suppresses reactive oxygen species in pancreatic ductal adenocarcinoma phenotype via FoxM1/Prx III axis"
+    }
+}

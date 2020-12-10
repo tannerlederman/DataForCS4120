@@ -1,0 +1,3198 @@
+{
+    "abstract": "Budding yeast mating is an excellent model for receptor-activated cell differentiation. Here we identify the related transcription factors Ecm22 and Upc2 as novel regulators of mating. Cells lacking both ECM22 and UPC2 display strong mating defects whereas deletion of either gene has no effect. Ecm22 and Upc2 positively regulate basal expression of PRM1 and PRM4. These genes are strongly induced in response to mating pheromone, which is also largely dependent on ECM22 and UPC2. We further show that deletion of PRM4 like PRM1 results in markedly reduced mating efficiency. Expression of PRM1 but not of PRM4 is also regulated by Ste12, a key transcription factor for mating. STE12 deletion lowers basal PRM1 expression, whereas STE12 overexpression strongly increases PRM1 levels. This regulation of PRM1 transcription is mediated through three Ste12-binding sites in the PRM1 promoter. Simultaneous deletion of ECM22 and UPC2 as well as mutation of the three Ste12-binding sites in the PRM1 promoter completely abolishes basal and pheromone-induced PRM1 expression, indicating that Ste12 and Ecm22/Upc2 control PRM1 transcription through distinct pathways. In summary, we propose a novel mechanism for budding yeast mating. We suggest that Ecm22 and Upc2 regulate mating through the induction of the mating genes PRM1 and PRM4.",
+    "author_highlights": [
+        {
+            "endOffset": 15629,
+            "sentence": "The transcription factors Ecm22 and Upc2 play a key role in budding yeast mating.",
+            "startOffset": 15548
+        },
+        {
+            "endOffset": 15710,
+            "sentence": "Ecm22 and Upc2 regulate basal and pheromone-induced expression of PRM1 and PRM4.",
+            "startOffset": 15630
+        },
+        {
+            "endOffset": 15783,
+            "sentence": "Deletion of the Ecm22/Upc2 target gene PRM4 results in defective mating.",
+            "startOffset": 15711
+        },
+        {
+            "endOffset": 15872,
+            "sentence": "PRM1 but not PRM4 expression is also regulated by the mating transcription factor Ste12.",
+            "startOffset": 15784
+        },
+        {
+            "endOffset": 15948,
+            "sentence": "Ecm22/Upc2 and Ste12 regulate PRM1 expression through independent pathways.",
+            "startOffset": 15873
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Laura",
+                    "initial": "L.",
+                    "last": "Merlini"
+                },
+                {
+                    "first": "Omaya",
+                    "initial": "O.",
+                    "last": "Dudin"
+                },
+                {
+                    "first": "Sophie G.",
+                    "initial": "S.G.",
+                    "last": "Martin"
+                }
+            ],
+            "doi": "10.1098/rsob.130008",
+            "issn": "20462441",
+            "pmid": "23466674",
+            "pub_year": 2013,
+            "title": "Mate and fuse: How yeast cells do it",
+            "volume": "3"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Ifeoluwapo Matthew",
+                    "initial": "I.M.",
+                    "last": "Joshua"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.3390/ijms18040772",
+            "issn": "16616596",
+            "pmid": "28379181",
+            "pub_year": 2017,
+            "title": "From lipid homeostasis to differentiation: Old and new functions of the zinc cluster proteins Ecm22, Upc2, Sut1 and Sut2",
+            "volume": "18"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "T. L.",
+                    "initial": "T.L.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "G. A.",
+                    "initial": "G.A.",
+                    "last": "Keesler"
+                },
+                {
+                    "first": "G. P.",
+                    "initial": "G.P.",
+                    "last": "Fenner"
+                },
+                {
+                    "first": "L. W.",
+                    "initial": "L.W.",
+                    "last": "Parks"
+                }
+            ],
+            "doi": "10.1002/yea.320040203",
+            "firstpage": "93",
+            "issn": "0749503X",
+            "lastpage": "106",
+            "pmid": "3059715",
+            "pub_year": 1988,
+            "title": "Pleiotropic mutations in Saccharomyces cerevisiae affecting sterol uptake and metabolism",
+            "volume": "4"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "\u00c5",
+                    "initial": "A.",
+                    "last": "Vik"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Rine"
+                }
+            ],
+            "doi": "10.1128/MCB.21.19.6395-6405.2001",
+            "firstpage": "6395",
+            "issn": "02707306",
+            "lastpage": "6405",
+            "pmid": "11533229",
+            "pub_year": 2001,
+            "title": "Upc2p and Ecm22p, dual regulators of sterol biosynthesis in Saccharomyces cerevisiae",
+            "volume": "21"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Lisa J.",
+                    "initial": "L.J.",
+                    "last": "Wilcox"
+                },
+                {
+                    "first": "Dina A.",
+                    "initial": "D.A.",
+                    "last": "Balderes"
+                },
+                {
+                    "first": "Brook",
+                    "initial": "B.",
+                    "last": "Wharton"
+                },
+                {
+                    "first": "Arthur H.",
+                    "initial": "A.H.",
+                    "last": "Tinkelenberg"
+                },
+                {
+                    "first": "Govinda",
+                    "initial": "G.",
+                    "last": "Rao"
+                },
+                {
+                    "first": "Stephen L.",
+                    "initial": "S.L.",
+                    "last": "Sturley"
+                }
+            ],
+            "doi": "10.1074/jbc.M204707200",
+            "firstpage": "32466",
+            "issn": "00219258",
+            "lastpage": "32472",
+            "pmid": "12077145",
+            "pub_year": 2002,
+            "title": "Transcriptional profiling identifies two members of the ATP-binding cassette transporter superfamily required for sterol uptake in yeast",
+            "volume": "277"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "Kelly",
+                    "initial": "K.",
+                    "last": "Woods"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1111/mmi.13244",
+            "firstpage": "512",
+            "issn": "0950382X",
+            "lastpage": "527",
+            "pmid": "26448198",
+            "pub_year": 2016,
+            "title": "The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways",
+            "volume": "99"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Paul J.",
+                    "initial": "P.J.",
+                    "last": "Cullen"
+                },
+                {
+                    "first": "George F.",
+                    "initial": "G.F.",
+                    "last": "Sprague"
+                }
+            ],
+            "doi": "10.1534/genetics.111.127456",
+            "firstpage": "23",
+            "issn": "00166731",
+            "lastpage": "49",
+            "pmid": "22219507",
+            "pub_year": 2012,
+            "title": "The regulation of filamentous growth in yeast",
+            "volume": "190"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Fr\u00e9d\u00e9rique",
+                    "initial": "F.",
+                    "last": "Ness"
+                },
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Bourot"
+                },
+                {
+                    "first": "Matthieu",
+                    "initial": "M.",
+                    "last": "R\u00e9gnacq"
+                },
+                {
+                    "first": "Roberto",
+                    "initial": "R.",
+                    "last": "Spagnoli"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "Berg\u00e8s"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Karst"
+                }
+            ],
+            "doi": "10.1046/j.1432-1327.2001.02029.x",
+            "firstpage": "1585",
+            "issn": "00142956",
+            "lastpage": "1595",
+            "pmid": "11248676",
+            "pub_year": 2001,
+            "title": "SUT1 is a putative Zn[II]2Cys6-transcription factor whose upregulation enhances both sterol uptake and synthesis in aerobically growing Saccharomyces cerevisiae cells",
+            "volume": "268"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Bourot"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Karst"
+                }
+            ],
+            "doi": "10.1016/0378-1119(95)00478-O",
+            "firstpage": "97",
+            "issn": "03781119",
+            "lastpage": "102",
+            "pmid": "7489925",
+            "pub_year": 1995,
+            "title": "Isolation and characterization of the Saccharomyces cerevisiae SUT1 gene involved in sterol uptake",
+            "volume": "165"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "R\u00fctzler"
+                },
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Reissaus"
+                },
+                {
+                    "first": "Magdalena",
+                    "initial": "M.",
+                    "last": "Budzowska"
+                },
+                {
+                    "first": "Wolfhard",
+                    "initial": "W.",
+                    "last": "Bandlow"
+                }
+            ],
+            "doi": "10.1111/j.1432-1033.2004.04034.x",
+            "firstpage": "1284",
+            "issn": "00142956",
+            "lastpage": "1291",
+            "pmid": "15030478",
+            "pub_year": 2004,
+            "title": "SUT2 is a novel multicopy suppressor of low activity of the cAMP/protein kinase A pathway in yeast",
+            "volume": "271"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Helen A.",
+                    "initial": "H.A.",
+                    "last": "Foster"
+                },
+                {
+                    "first": "Mingfei",
+                    "initial": "M.",
+                    "last": "Cui"
+                },
+                {
+                    "first": "Angel",
+                    "initial": "A.",
+                    "last": "Naveenathayalan"
+                },
+                {
+                    "first": "Heike",
+                    "initial": "H.",
+                    "last": "Unden"
+                },
+                {
+                    "first": "Ralf",
+                    "initial": "R.",
+                    "last": "Schwanbeck"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1128/EC.00214-12",
+            "firstpage": "244",
+            "issn": "15359778",
+            "lastpage": "253",
+            "pmid": "23223039",
+            "pub_year": 2013,
+            "title": "The zinc cluster protein Sut1 contributes to filamentation in Saccharomyces cerevisiae",
+            "volume": "12"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Christopher G.",
+                    "initial": "C.G.",
+                    "last": "Alvaro"
+                },
+                {
+                    "first": "Jeremy",
+                    "initial": "J.",
+                    "last": "Thorner"
+                }
+            ],
+            "doi": "10.1074/jbc.R116.714980",
+            "firstpage": "7785",
+            "issn": "00219258",
+            "lastpage": "7798",
+            "pmid": "26907689",
+            "pub_year": 2016,
+            "title": "Heterotrimeric G protein-coupled receptor signaling in yeast mating pheromone response",
+            "volume": "291"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Natalia E.",
+                    "initial": "N.E.",
+                    "last": "Abramova"
+                },
+                {
+                    "first": "Brian D.",
+                    "initial": "B.D.",
+                    "last": "Cohen"
+                },
+                {
+                    "first": "Odeniel",
+                    "initial": "O.",
+                    "last": "Sertil"
+                },
+                {
+                    "first": "Rachna",
+                    "initial": "R.",
+                    "last": "Kapoor"
+                },
+                {
+                    "first": "Kelvin J.A.",
+                    "initial": "K.J.A.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Charles V.",
+                    "initial": "C.V.",
+                    "last": "Lowry"
+                }
+            ],
+            "firstpage": "1169",
+            "issn": "00166731",
+            "lastpage": "1177",
+            "pmid": "11238402",
+            "pub_year": 2001,
+            "title": "Regulatory mechanisms controlling expression of the DAN/TIR mannoprotein genes during anaerobic remodeling of the cell wall in Saccharomyces cerevisiae",
+            "volume": "157"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "R\u00e9gnacq"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Alimardani"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "El Moudni"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Berg\u00e8s"
+                }
+            ],
+            "doi": "10.1046/j.1365-2958.2001.02450.x",
+            "firstpage": "1085",
+            "issn": "0950382X",
+            "lastpage": "1096",
+            "pmid": "11401714",
+            "pub_year": 2001,
+            "title": "Sut1p interaction with Cyc8p(Ssn6p) relieves hypoxic genes from Cyc8p-Tup1p repression in Saccharomyces cerevisiae",
+            "volume": "40"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Parissa",
+                    "initial": "P.",
+                    "last": "Alimardani"
+                },
+                {
+                    "first": "Matthieu",
+                    "initial": "M.",
+                    "last": "R\u00e9gnacq"
+                },
+                {
+                    "first": "Carole",
+                    "initial": "C.",
+                    "last": "Moreau-Vauzelle"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "Ferreira"
+                },
+                {
+                    "first": "Tristan",
+                    "initial": "T.",
+                    "last": "Rossignol"
+                },
+                {
+                    "first": "Bruno",
+                    "initial": "B.",
+                    "last": "Blondin"
+                },
+                {
+                    "first": "Thierry",
+                    "initial": "T.",
+                    "last": "Berg\u00e8s"
+                }
+            ],
+            "doi": "10.1042/BJ20040297",
+            "firstpage": "195",
+            "issn": "02646021",
+            "lastpage": "202",
+            "pmid": "15035656",
+            "pub_year": 2004,
+            "title": "SUT1-promoted sterol uptake involves the ABC transporter Aus1 and the mannoprotein Dan1 whose synergistic action is sufficient for this process",
+            "volume": "381"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Brandon S.J.",
+                    "initial": "B.S.J.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Helen S.",
+                    "initial": "H.S.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Jasper",
+                    "initial": "J.",
+                    "last": "Rine"
+                }
+            ],
+            "doi": "10.1128/MCB.25.16.7375-7385.2005",
+            "firstpage": "7375",
+            "issn": "02707306",
+            "lastpage": "7385",
+            "pmid": "16055745",
+            "pub_year": 2005,
+            "title": "Dual activators of the sterol biosynthetic pathway of Saccharomyces cerevisiae: Similar activation/regulatory domains but different response mechanisms",
+            "volume": "25"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Meng",
+                    "initial": "M.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Karlheinz",
+                    "initial": "K.",
+                    "last": "Grillitsch"
+                },
+                {
+                    "first": "G\u00fcnther",
+                    "initial": "G.",
+                    "last": "Daum"
+                },
+                {
+                    "first": "Ursula",
+                    "initial": "U.",
+                    "last": "Just"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1111/j.1742-4658.2009.07433.x",
+            "firstpage": "7253",
+            "issn": "1742464X",
+            "lastpage": "7264",
+            "pmid": "20050180",
+            "pub_year": 2009,
+            "title": "Modulation of sterol homeostasis by the Cdc42p effectors Cla4p and Ste20p in the yeast Saccharomyces cerevisiae",
+            "volume": "276"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Blanda"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2013.07.027",
+            "firstpage": "66",
+            "issn": "0006291X",
+            "lastpage": "70",
+            "pmid": "23872066",
+            "pub_year": 2013,
+            "title": "Regulation of mating in the budding yeast Saccharomyces cerevisiae by the zinc cluster proteins Sut1 and Sut2",
+            "volume": "438"
+        },
+        "bib26": {
+            "authors": [
+                {
+                    "first": "Achim",
+                    "initial": "A.",
+                    "last": "Wach"
+                }
+            ],
+            "doi": "10.1002/(SICI)1097-0061(19960315)12:3<259::AID-YEA901>3.0.CO;2-C",
+            "firstpage": "259",
+            "issn": "0749503X",
+            "lastpage": "265",
+            "pmid": "8904338",
+            "pub_year": 1996,
+            "title": "PCR-synthesis of marker cassettes with long flanking homology regions for gene disruptions in S. cerevisiae",
+            "volume": "12"
+        },
+        "bib27": {
+            "authors": [
+                {
+                    "first": "Mark S.",
+                    "initial": "M.S.",
+                    "last": "Longtine"
+                },
+                {
+                    "first": "Amos",
+                    "initial": "A.",
+                    "last": "McKenzie"
+                },
+                {
+                    "first": "Douglas J.",
+                    "initial": "D.J.",
+                    "last": "Demarini"
+                },
+                {
+                    "first": "Nirav G.",
+                    "initial": "N.G.",
+                    "last": "Shah"
+                },
+                {
+                    "first": "Achim",
+                    "initial": "A.",
+                    "last": "Wach"
+                },
+                {
+                    "first": "Arndt",
+                    "initial": "A.",
+                    "last": "Brachat"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Philippsen"
+                },
+                {
+                    "first": "John R.",
+                    "initial": "J.R.",
+                    "last": "Pringle"
+                }
+            ],
+            "doi": "10.1002/(SICI)1097-0061(199807)14:10<953::AID-YEA293>3.0.CO;2-U",
+            "firstpage": "953",
+            "issn": "0749503X",
+            "lastpage": "961",
+            "pmid": "9717241",
+            "pub_year": 1998,
+            "title": "Additional modules for versatile and economical PCR-based gene deletion and modification in Saccharomyces cerevisiae",
+            "volume": "14"
+        },
+        "bib28": {
+            "authors": [
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "Janke"
+                },
+                {
+                    "first": "Maria M.",
+                    "initial": "M.M.",
+                    "last": "Magiera"
+                },
+                {
+                    "first": "Nicole",
+                    "initial": "N.",
+                    "last": "Rathfelder"
+                },
+                {
+                    "first": "Christof",
+                    "initial": "C.",
+                    "last": "Taxis"
+                },
+                {
+                    "first": "Simone",
+                    "initial": "S.",
+                    "last": "Reber"
+                },
+                {
+                    "first": "Hiromi",
+                    "initial": "H.",
+                    "last": "Maekawa"
+                },
+                {
+                    "first": "Alexandra",
+                    "initial": "A.",
+                    "last": "Moreno-Borchart"
+                },
+                {
+                    "first": "Georg",
+                    "initial": "G.",
+                    "last": "Doenges"
+                },
+                {
+                    "first": "Etienne",
+                    "initial": "E.",
+                    "last": "Schwob"
+                },
+                {
+                    "first": "Elmar",
+                    "initial": "E.",
+                    "last": "Schiebel"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Knop"
+                }
+            ],
+            "doi": "10.1002/yea.1142",
+            "firstpage": "947",
+            "issn": "0749503X",
+            "lastpage": "962",
+            "pmid": "15334558",
+            "pub_year": 2004,
+            "title": "A versatile toolbox for PCR-based tagging of yeast genes: New fluorescent proteins, more markers and promoter substitution cassettes",
+            "volume": "21"
+        },
+        "bib29": {
+            "authors": [
+                {
+                    "first": "Alan M.",
+                    "initial": "A.M.",
+                    "last": "Myers"
+                },
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Tzagoloff"
+                },
+                {
+                    "first": "Dennis M.",
+                    "initial": "D.M.",
+                    "last": "Kinney"
+                },
+                {
+                    "first": "Carol J.",
+                    "initial": "C.J.",
+                    "last": "Lusty"
+                }
+            ],
+            "doi": "10.1016/0378-1119(86)90028-4",
+            "firstpage": "299",
+            "issn": "03781119",
+            "lastpage": "310",
+            "pmid": "3026915",
+            "pub_year": 1986,
+            "title": "Yeast shuttle and integrative vectors with multiple cloning sites suitable for construction of lacZ fusions",
+            "volume": "45"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Oguzhan",
+                    "initial": "O.",
+                    "last": "Atay"
+                },
+                {
+                    "first": "Jan M.",
+                    "initial": "J.M.",
+                    "last": "Skotheim"
+                }
+            ],
+            "doi": "10.1083/jcb.201609124",
+            "firstpage": "317",
+            "issn": "00219525",
+            "lastpage": "330",
+            "pmid": "28043970",
+            "pub_year": 2017,
+            "title": "Spatial and temporal signal processing and decision making by MAPK pathways",
+            "volume": "216"
+        },
+        "bib30": {
+            "authors": [
+                {
+                    "first": "Fernando Mart\u00ednez",
+                    "initial": "F.M.",
+                    "last": "Monta\u00f1\u00e9s"
+                },
+                {
+                    "first": "Amparo",
+                    "initial": "A.",
+                    "last": "Pascual-Ahuir"
+                },
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "Proft"
+                }
+            ],
+            "doi": "10.1111/j.1365-2958.2010.07502.x",
+            "firstpage": "1008",
+            "issn": "0950382X",
+            "lastpage": "1023",
+            "pmid": "21299653",
+            "pub_year": 2011,
+            "title": "Repression of ergosterol biosynthesis is essential for stress resistance and is mediated by the Hog1 MAP kinase and the Mot3 and Rox1 transcription factors",
+            "volume": "79"
+        },
+        "bib31": {
+            "authors": [
+                {
+                    "first": "Paul T.",
+                    "initial": "P.T.",
+                    "last": "Spellman"
+                },
+                {
+                    "first": "Gavin",
+                    "initial": "G.",
+                    "last": "Sherlock"
+                },
+                {
+                    "first": "Michael Q.",
+                    "initial": "M.Q.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Vishwanath R.",
+                    "initial": "V.R.",
+                    "last": "Iyer"
+                },
+                {
+                    "first": "Kirk",
+                    "initial": "K.",
+                    "last": "Anders"
+                },
+                {
+                    "first": "Michael B.",
+                    "initial": "M.B.",
+                    "last": "Eisen"
+                },
+                {
+                    "first": "Patrick O.",
+                    "initial": "P.O.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Botstein"
+                },
+                {
+                    "first": "Bruce",
+                    "initial": "B.",
+                    "last": "Futcher"
+                }
+            ],
+            "doi": "10.1091/mbc.9.12.3273",
+            "firstpage": "3273",
+            "issn": "10591524",
+            "lastpage": "3297",
+            "pmid": "9843569",
+            "pub_year": 1998,
+            "title": "Comprehensive identification of cell cycle-regulated genes of the yeast Saccharomyces cerevisiae by microarray hybridization",
+            "volume": "9"
+        },
+        "bib32": {
+            "authors": [
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Heiman"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Walter"
+                }
+            ],
+            "doi": "10.1083/jcb.151.3.719",
+            "firstpage": "719",
+            "issn": "00219525",
+            "lastpage": "730",
+            "pmid": "11062271",
+            "pub_year": 2000,
+            "title": "Prm1p, a pheromone-regulated multispanning membrane protein, facilitates plasma membrane fusion during yeast mating",
+            "volume": "151"
+        },
+        "bib33": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "Candice",
+                    "initial": "C.",
+                    "last": "Carlile"
+                },
+                {
+                    "first": "Scott",
+                    "initial": "S.",
+                    "last": "Nolan"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Grote"
+                }
+            ],
+            "doi": "10.1128/EC.3.6.1664-1673.2004",
+            "firstpage": "1664",
+            "issn": "15359778",
+            "lastpage": "1673",
+            "pmid": "15590839",
+            "pub_year": 2004,
+            "title": "Prm1 prevents contact-dependent lysis of yeast mating pairs",
+            "volume": "3"
+        },
+        "bib34": {
+            "authors": [
+                {
+                    "first": "Pablo S.",
+                    "initial": "P.S.",
+                    "last": "Aguilar"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Engel"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Walter"
+                }
+            ],
+            "doi": "10.1091/mbc.E06-09-0776",
+            "firstpage": "547",
+            "issn": "10591524",
+            "lastpage": "556",
+            "pmid": "17151357",
+            "pub_year": 2007,
+            "title": "The plasma membrane proteins Prm1 and Fig1 ascertain fidelity of membrane fusion during yeast mating",
+            "volume": "18"
+        },
+        "bib35": {
+            "authors": [
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Engel"
+                },
+                {
+                    "first": "Pablo S.",
+                    "initial": "P.S.",
+                    "last": "Aguilar"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Walter"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0010593",
+            "issn": "19326203",
+            "pmid": "20485669",
+            "pub_year": 2010,
+            "title": "The yeast cell fusion protein Prm1p requires covalent dimerization to promote membrane fusion",
+            "volume": "5"
+        },
+        "bib36": {
+            "authors": [
+                {
+                    "first": "Valerie N.",
+                    "initial": "V.N.",
+                    "last": "Olmo"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Grote"
+                }
+            ],
+            "doi": "10.1074/jbc.M109.068874",
+            "firstpage": "2274",
+            "issn": "00219258",
+            "lastpage": "2283",
+            "pmid": "19933274",
+            "pub_year": 2010,
+            "title": "Prm1 functions as a disulfide-linked complex in yeast mating",
+            "volume": "285"
+        },
+        "bib37": {
+            "authors": [
+                {
+                    "first": "Valerie N.",
+                    "initial": "V.N.",
+                    "last": "Olmo"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Grote"
+                }
+            ],
+            "doi": "10.1128/EC.00116-10",
+            "firstpage": "1538",
+            "issn": "15359778",
+            "lastpage": "1548",
+            "pmid": "20729291",
+            "pub_year": 2010,
+            "title": "Prm1 targeting to contact sites enhances fusion during mating in Saccharomyces cerevisiae",
+            "volume": "9"
+        },
+        "bib38": {
+            "authors": [
+                {
+                    "first": "D. C.",
+                    "initial": "D.C.",
+                    "last": "Hagen"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "McCaffrey"
+                },
+                {
+                    "first": "G. F.",
+                    "initial": "G.F.",
+                    "last": "Sprague"
+                }
+            ],
+            "doi": "10.1128/MCB.11.6.2952",
+            "firstpage": "2952",
+            "issn": "02707306",
+            "lastpage": "2961",
+            "pmid": "1903837",
+            "pub_year": 1991,
+            "title": "Pheromone response elements are necessary and sufficient for basal and pheromone-induced transcription of the FUS1 gene of Saccharomyces cerevisiae",
+            "volume": "11"
+        },
+        "bib39": {
+            "authors": [
+                {
+                    "first": "Yi Lu O.",
+                    "initial": "Y.L.O.",
+                    "last": "Yuan"
+                },
+                {
+                    "first": "Stanley",
+                    "initial": "S.",
+                    "last": "Fields"
+                }
+            ],
+            "doi": "10.1128/MCB.11.12.5910",
+            "firstpage": "5910",
+            "issn": "02707306",
+            "lastpage": "5918",
+            "pmid": "1944269",
+            "pub_year": 1991,
+            "title": "Properties of the DNA-Binding Domain of the Saccharomyces cerevisiae STE12 Protein",
+            "volume": "11"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "J. W.",
+                    "initial": "J.W.",
+                    "last": "Dolan"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Kirkman"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Fields"
+                }
+            ],
+            "doi": "10.1073/pnas.86.15.5703",
+            "firstpage": "5703",
+            "issn": "00278424",
+            "lastpage": "5707",
+            "pmid": "2668945",
+            "pub_year": 1989,
+            "title": "The yeast STE12 protein binds to the DNA sequence mediating pheromone induction.",
+            "volume": "86"
+        },
+        "bib40": {
+            "authors": [
+                {
+                    "first": "Leland H.",
+                    "initial": "L.H.",
+                    "last": "Hartwell"
+                }
+            ],
+            "doi": "10.1083/jcb.85.3.811",
+            "firstpage": "811",
+            "issn": "00219525",
+            "lastpage": "822",
+            "pmid": "6993497",
+            "pub_year": 1980,
+            "title": "Mutants of Saccharomyces Cerevisiae unresponsive to cell division control by polypeptide mating hormone",
+            "volume": "85"
+        },
+        "bib41": {
+            "authors": [
+                {
+                    "first": "Carlo",
+                    "initial": "C.",
+                    "last": "Randise-Hinchliff"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Coukos"
+                },
+                {
+                    "first": "Varun",
+                    "initial": "V.",
+                    "last": "Sood"
+                },
+                {
+                    "first": "Michael Chas",
+                    "initial": "M.C.",
+                    "last": "Sumner"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Zdraljevic"
+                },
+                {
+                    "first": "Lauren Meldi",
+                    "initial": "L.M.",
+                    "last": "Sholl"
+                },
+                {
+                    "first": "Donna Garvey",
+                    "initial": "D.G.",
+                    "last": "Brickner"
+                },
+                {
+                    "first": "Sara",
+                    "initial": "S.",
+                    "last": "Ahmed"
+                },
+                {
+                    "first": "Lauren",
+                    "initial": "L.",
+                    "last": "Watchmaker"
+                },
+                {
+                    "first": "Jason H.",
+                    "initial": "J.H.",
+                    "last": "Brickner"
+                }
+            ],
+            "doi": "10.1083/jcb.201508068",
+            "firstpage": "633",
+            "issn": "00219525",
+            "lastpage": "646",
+            "pmid": "26953353",
+            "pub_year": 2016,
+            "title": "Strategies to regulate transcription factor-mediated gene positioning and interchromosomal clustering at the nuclear periphery",
+            "volume": "212"
+        },
+        "bib42": {
+            "authors": [
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Bagnat"
+                },
+                {
+                    "first": "Kai",
+                    "initial": "K.",
+                    "last": "Simons"
+                }
+            ],
+            "doi": "10.1073/pnas.172517799",
+            "firstpage": "14183",
+            "issn": "00278424",
+            "lastpage": "14188",
+            "pmid": "12374868",
+            "pub_year": 2002,
+            "title": "Cell surface polarization during yeast mating",
+            "volume": "99"
+        },
+        "bib43": {
+            "authors": [
+                {
+                    "first": "Christopher",
+                    "initial": "C.",
+                    "last": "Tiedje"
+                },
+                {
+                    "first": "Daniel G.",
+                    "initial": "D.G.",
+                    "last": "Holland"
+                },
+                {
+                    "first": "Ursula",
+                    "initial": "U.",
+                    "last": "Just"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1242/jcs.009860",
+            "firstpage": "3613",
+            "issn": "00219533",
+            "lastpage": "3624",
+            "pmid": "17895367",
+            "pub_year": 2007,
+            "title": "Proteins involved in sterol synthesis interact with Ste20 and regulate cell polarity",
+            "volume": "120"
+        },
+        "bib44": {
+            "authors": [
+                {
+                    "first": "Hui",
+                    "initial": "H.",
+                    "last": "Jin"
+                },
+                {
+                    "first": "J. Michael",
+                    "initial": "J.M.",
+                    "last": "McCaffery"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Grote"
+                }
+            ],
+            "doi": "10.1083/jcb.200705076",
+            "firstpage": "813",
+            "issn": "00219525",
+            "lastpage": "826",
+            "pmid": "18299351",
+            "pub_year": 2008,
+            "title": "Ergosterol promotes pheromone signaling and plasma membrane fusion in mating yeast",
+            "volume": "180"
+        },
+        "bib45": {
+            "authors": [
+                {
+                    "first": "Pablo S.",
+                    "initial": "P.S.",
+                    "last": "Aguilar"
+                },
+                {
+                    "first": "Maxwell G.",
+                    "initial": "M.G.",
+                    "last": "Heiman"
+                },
+                {
+                    "first": "Tobias C.",
+                    "initial": "T.C.",
+                    "last": "Walther"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Engel"
+                },
+                {
+                    "first": "Dominik",
+                    "initial": "D.",
+                    "last": "Schwudke"
+                },
+                {
+                    "first": "Nathan",
+                    "initial": "N.",
+                    "last": "Gushwa"
+                },
+                {
+                    "first": "Teymuras",
+                    "initial": "T.",
+                    "last": "Kurzchalia"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Walter"
+                }
+            ],
+            "doi": "10.1073/pnas.0914094107",
+            "firstpage": "4170",
+            "issn": "00278424",
+            "lastpage": "4175",
+            "pmid": "20150508",
+            "pub_year": 2010,
+            "title": "Structure of sterol aliphatic chains affects yeast cell shape and cell fusion during mating",
+            "volume": "107"
+        },
+        "bib46": {
+            "authors": [
+                {
+                    "first": "Meng",
+                    "initial": "M.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Heike",
+                    "initial": "H.",
+                    "last": "Unden"
+                },
+                {
+                    "first": "Nicolas",
+                    "initial": "N.",
+                    "last": "Jacquier"
+                },
+                {
+                    "first": "Roger",
+                    "initial": "R.",
+                    "last": "Schneiter"
+                },
+                {
+                    "first": "Ursula",
+                    "initial": "U.",
+                    "last": "Just"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "H\u00f6fken"
+                }
+            ],
+            "doi": "10.1091/mbc.E09-01-0034",
+            "firstpage": "4826",
+            "issn": "10591524",
+            "lastpage": "4837",
+            "pmid": "19793923",
+            "pub_year": 2009,
+            "title": "The Cdc42 effectors Ste20, Cla4, and Skm1 down-regulate the expression of genes involved in sterol uptake by a mitogen-activated protein kinase-independent pathway",
+            "volume": "20"
+        },
+        "bib47": {
+            "authors": [
+                {
+                    "first": "Brandon S.J.",
+                    "initial": "B.S.J.",
+                    "last": "Davies"
+                },
+                {
+                    "first": "Jasper",
+                    "initial": "J.",
+                    "last": "Rine"
+                }
+            ],
+            "doi": "10.1534/genetics.106.059964",
+            "firstpage": "191",
+            "issn": "00166731",
+            "lastpage": "201",
+            "pmid": "16783004",
+            "pub_year": 2006,
+            "title": "A role for sterol levels in oxygen sensing in Saccharomyces cerevisiae",
+            "volume": "174"
+        },
+        "bib48": {
+            "authors": [
+                {
+                    "first": "Huiseon",
+                    "initial": "H.",
+                    "last": "Yang"
+                },
+                {
+                    "first": "Junsen",
+                    "initial": "J.",
+                    "last": "Tong"
+                },
+                {
+                    "first": "Chul Won",
+                    "initial": "C.W.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Subin",
+                    "initial": "S.",
+                    "last": "Ha"
+                },
+                {
+                    "first": "Soo Hyun",
+                    "initial": "S.H.",
+                    "last": "Eom"
+                },
+                {
+                    "first": "Young Jun",
+                    "initial": "Y.J.",
+                    "last": "Im"
+                }
+            ],
+            "doi": "10.1038/ncomms7129",
+            "issn": "20411723",
+            "pmid": "25655993",
+            "pub_year": 2015,
+            "title": "Structural mechanism of ergosterol regulation by fungal sterol transcription factor Upc2",
+            "volume": "6"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Errede"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Ammerer"
+                }
+            ],
+            "doi": "10.1101/gad.3.9.1349",
+            "firstpage": "1349",
+            "issn": "08909369",
+            "lastpage": "1361",
+            "pmid": "2558054",
+            "pub_year": 1989,
+            "title": "STE12, a protein involved in cell-type-specific transcription and signal transduction in yeast, is part of protein-DNA complexes.",
+            "volume": "3"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Christopher J.",
+                    "initial": "C.J.",
+                    "last": "Roberts"
+                },
+                {
+                    "first": "Bryce",
+                    "initial": "B.",
+                    "last": "Nelson"
+                },
+                {
+                    "first": "Matthew J.",
+                    "initial": "M.J.",
+                    "last": "Marton"
+                },
+                {
+                    "first": "Roland",
+                    "initial": "R.",
+                    "last": "Stoughton"
+                },
+                {
+                    "first": "Michael R.",
+                    "initial": "M.R.",
+                    "last": "Meyer"
+                },
+                {
+                    "first": "Holly A.",
+                    "initial": "H.A.",
+                    "last": "Bennett"
+                },
+                {
+                    "first": "Yudong D.",
+                    "initial": "Y.D.",
+                    "last": "He"
+                },
+                {
+                    "first": "Hongyue",
+                    "initial": "H.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Wynn L.",
+                    "initial": "W.L.",
+                    "last": "Walker"
+                },
+                {
+                    "first": "Timothy R.",
+                    "initial": "T.R.",
+                    "last": "Hughes"
+                },
+                {
+                    "first": "Mike",
+                    "initial": "M.",
+                    "last": "Tyers"
+                },
+                {
+                    "first": "Charles",
+                    "initial": "C.",
+                    "last": "Boone"
+                },
+                {
+                    "first": "Stephen H.",
+                    "initial": "S.H.",
+                    "last": "Friend"
+                }
+            ],
+            "doi": "10.1126/science.287.5454.873",
+            "firstpage": "873",
+            "issn": "00368075",
+            "lastpage": "880",
+            "pmid": "10657304",
+            "pub_year": 2000,
+            "title": "Signaling and circuitry of multiple MAPK pathways revealed by a matrix of global gene expression profiles",
+            "volume": "287"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Schjerling"
+                },
+                {
+                    "first": "Steen",
+                    "initial": "S.",
+                    "last": "Holmberg"
+                }
+            ],
+            "firstpage": "4599",
+            "issn": "03051048",
+            "lastpage": "4607",
+            "pmid": "8967907",
+            "pub_year": 1996,
+            "title": "Comparative amino acid sequence analysis of the C6 zinc cluster family of transcriptional regulators",
+            "volume": "24"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "James H.",
+                    "initial": "J.H.",
+                    "last": "Crowley"
+                },
+                {
+                    "first": "Frank W.",
+                    "initial": "F.W.",
+                    "last": "Leak"
+                },
+                {
+                    "first": "Kevin V.",
+                    "initial": "K.V.",
+                    "last": "Shianna"
+                },
+                {
+                    "first": "Shirley",
+                    "initial": "S.",
+                    "last": "Tove"
+                },
+                {
+                    "first": "Leo W.",
+                    "initial": "L.W.",
+                    "last": "Parks"
+                }
+            ],
+            "firstpage": "4177",
+            "issn": "00219193",
+            "lastpage": "4183",
+            "pmid": "9696767",
+            "pub_year": 1998,
+            "title": "A mutation in a purported regulatory gene affects control of sterol uptake in Saccharomyces cerevisiae",
+            "volume": "180"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "K. V.",
+                    "initial": "K.V.",
+                    "last": "Shianna"
+                },
+                {
+                    "first": "W. D.",
+                    "initial": "W.D.",
+                    "last": "Dotson"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Tove"
+                },
+                {
+                    "first": "L. W.",
+                    "initial": "L.W.",
+                    "last": "Parks"
+                }
+            ],
+            "doi": "10.1128/JB.183.3.830-834.2001",
+            "firstpage": "830",
+            "issn": "00219193",
+            "lastpage": "834",
+            "pmid": "11208779",
+            "pub_year": 2001,
+            "title": "Identification of a UPC2 homolog in Saccharomyces cerevisiae and its involvement in aerobic sterol uptake",
+            "volume": "183"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 17116,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17115,
+                    "startOffset": 17109
+                },
+                "bib7": {
+                    "endOffset": 17115,
+                    "startOffset": 17109
+                },
+                "bib8": {
+                    "endOffset": 17115,
+                    "startOffset": 17109
+                },
+                "bib9": {
+                    "endOffset": 17115,
+                    "startOffset": 17109
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Ecm22 and the closely related Upc2 are both members of the zinc cluster protein family [7\u201310].",
+            "startOffset": 17022,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19688,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "First, two PCR products were generated using primers PRM1-1 and PRM1-5 (ACGCACTTCAATTTATGTATAATTTATGTATAATTTATTATGTATTACCCGGACTC) and primers PRM1-2 and PRM1-6 (ACGCACTTCAATTTATGTATAATTTATGTATAATTTATTATGTATTACCCGGACTC) using chromosomal DNA as template.",
+            "startOffset": 19435,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 23236,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "This expression was not affected by deletion of either ECM22 or UPC2 but markedly reduced in the ecm22 upc2 double mutant (Fig. 2A and B).",
+            "startOffset": 23098,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19993,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The mutations were confirmed by DNA sequencing.",
+            "startOffset": 19946,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 22828,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We therefore examined whether Prm4 is actually involved in mating.",
+            "startOffset": 22762,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20502,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Densities of cell cultures were measured by optical density at 600 nm (A600).",
+            "startOffset": 20425,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 30529,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Control of UPC2 transcription is another important regulatory mechanism.",
+            "startOffset": 30457,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20129,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "3 \u00d7 106 exponentially growing cells of each mating type were mixed and collected on nitrocellulose filters.",
+            "startOffset": 20022,
+            "title": "Quantitative mating assays"
+        },
+        {
+            "endOffset": 25121,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We therefore mutated the three Ste12-binding sites in the PRM1 promoter (Fig. 4A) from TGTTTCA to ATAAATT.",
+            "startOffset": 25015,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29332,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, no Ste12-binding sites could be identified in the PRM4 promoter (data not shown).",
+            "startOffset": 29238,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30633,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 30572,
+                    "startOffset": 30565
+                },
+                "bib14": {
+                    "endOffset": 30632,
+                    "startOffset": 30628
+                },
+                "bib20": {
+                    "endOffset": 30572,
+                    "startOffset": 30565
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Upc2 stimulates its own expression [13,20] and UPC2 expression is also regulated by Sut1 and Sut2 [14].",
+            "startOffset": 30530,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29396,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, it seems unlikely that Ste12 controls PRM4 transcription.",
+            "startOffset": 29333,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29237,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, here we show that PRM4 expression is regulated by Ecm22 and Upc2, and PRM4 levels are not affected by STE12 deletion or overexpression.",
+            "startOffset": 29093,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18452,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib26": {
+                    "endOffset": 18451,
+                    "startOffset": 18444
+                },
+                "bib27": {
+                    "endOffset": 18451,
+                    "startOffset": 18444
+                },
+                "bib28": {
+                    "endOffset": 18451,
+                    "startOffset": 18444
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Yeast strains were constructed using PCR-amplified cassettes [26\u201328].",
+            "startOffset": 18383,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 29940,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This additive effect suggests that Ecm22/Upc2 and Ste12 regulate PRM1 through independent pathways.",
+            "startOffset": 29841,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22503,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 22502,
+                    "startOffset": 22498
+                }
+            },
+            "secId": "sec3",
+            "sentence": "It has been reported that cells carrying the constitutively active upc2-1 allele express PRM1 and PRM4 at increased levels [13].",
+            "startOffset": 22375,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26535,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In cells lacking both ECM22 and UPC2, expression from the mutated PRM1 promoter following pheromone treatment was not detectable (Fig. 3A).",
+            "startOffset": 26396,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28392,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 28391,
+                    "startOffset": 28384
+                },
+                "bib32": {
+                    "endOffset": 28391,
+                    "startOffset": 28384
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Since Prm4 is strongly upregulated in response to pheromone and because it contains a predicted transmembrane domain it is a good mating factor candidate [31,32].",
+            "startOffset": 28230,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25811,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These observations indicate that Ste12 controls PRM1 transcription through these three sites.",
+            "startOffset": 25718,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31288,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The author declares no conflicts of interest.",
+            "startOffset": 31243,
+            "title": "Conflicts of interest"
+        },
+        {
+            "endOffset": 29840,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the absence of ECM22, UPC2 and Ste12 sites in the PRM1 promoter, PRM1 expression is no longer detectable.",
+            "startOffset": 29732,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30783,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, transcriptional regulation can also be ruled out since expression of UPC2 and ECM22 is not affected by pheromone treatment (data not shown).",
+            "startOffset": 30634,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24074,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "The fact that induced PRM1 and PRM4 expression was strongly reduced but not completely abolished in the ecm22 upc2 double mutant (Fig. 3A and B) suggests that other factors also control the transcription of PRM1 and PRM4.",
+            "startOffset": 23853,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27481,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, expression of sterol biosynthesis genes does not change in response to pheromone (data not shown).",
+            "startOffset": 27374,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17021,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this study, we show that the transcription factors Ecm22 and Upc2 are novel regulators of mating.",
+            "startOffset": 16921,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24177,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 24176,
+                    "startOffset": 24171
+                },
+                "bib5": {
+                    "endOffset": 24176,
+                    "startOffset": 24171
+                },
+                "bib6": {
+                    "endOffset": 24176,
+                    "startOffset": 24171
+                }
+            },
+            "secId": "sec3",
+            "sentence": "The transcription factor Ste12 plays a leading role in the regulation of mating gene expression [4\u20136].",
+            "startOffset": 24075,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18787,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "To analyse gene expression in response to pheromone, cells were incubated with 10 \u03bcg/ml \u03b1-factor for 150 min.",
+            "startOffset": 18678,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 17596,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 17595,
+                    "startOffset": 17588
+                },
+                "bib17": {
+                    "endOffset": 17595,
+                    "startOffset": 17588
+                },
+                "bib18": {
+                    "endOffset": 17595,
+                    "startOffset": 17588
+                },
+                "bib19": {
+                    "endOffset": 17595,
+                    "startOffset": 17588
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Even though Sut1 and Sut2 are not related to Ecm22 and Upc2 they also control sterol uptake and filamentation [16\u201319].",
+            "startOffset": 17478,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23001,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next wanted to know whether Ecm22 and Upc2 mediate mating through regulation of PRM1 and PRM4 expression.",
+            "startOffset": 22893,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24882,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next wanted to know whether Ecm22 and Upc2 regulate PRM1 expression independently of Ste12.",
+            "startOffset": 24788,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22712,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                },
+                "bib33": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                },
+                "bib34": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                },
+                "bib35": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                },
+                "bib36": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                },
+                "bib37": {
+                    "endOffset": 22711,
+                    "startOffset": 22704
+                }
+            },
+            "secId": "sec3",
+            "sentence": "A role in membrane fusion during mating has been well established for Prm1 [32\u201337].",
+            "startOffset": 22629,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21386,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 21385,
+                    "startOffset": 21381
+                }
+            },
+            "secId": "sec3",
+            "sentence": "The zinc cluster proteins Ecm22, Upc2, Sut1 and Sut2 all play important roles in sterol uptake and filamentation [10].",
+            "startOffset": 21268,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27965,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We suggest that Ecm22 and Upc2 mediate mating through induction of PRM1 and PRM4.",
+            "startOffset": 27884,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28472,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here, we show here that Prm4 like Prm1 is indeed required for efficient mating.",
+            "startOffset": 28393,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19434,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The three Ste12-binding sites in the PRM1 promoter (from \u2212181 to \u2212175, from \u2212170 to \u2212164, and from \u2212159 to \u2212153) were changed from TGTTTCA to ATAAATT by a two-step site-directed mutagenesis.",
+            "startOffset": 19244,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 27373,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 27372,
+                    "startOffset": 27368
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Sterol biosynthesis genes are among the most important targets of Ecm22 and Upc2 [10].",
+            "startOffset": 27287,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22761,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In contrast, almost nothing is known about Prm4.",
+            "startOffset": 22713,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24453,
+            "parents": [],
+            "refoffsets": {
+                "bib38": {
+                    "endOffset": 24317,
+                    "startOffset": 24310
+                },
+                "bib39": {
+                    "endOffset": 24317,
+                    "startOffset": 24310
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Three consensus Ste12-binding sites [38,39] can be found in the PRM1 promoter (Fig. 4A) but to our knowledge it has not been tested whether Ste12 really regulates PRM1 expression.",
+            "startOffset": 24274,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30189,
+            "parents": [],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 30188,
+                    "startOffset": 30178
+                },
+                "bib47": {
+                    "endOffset": 30188,
+                    "startOffset": 30178
+                },
+                "bib48": {
+                    "endOffset": 30188,
+                    "startOffset": 30178
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Upc2 acts as a sterol sensor [23,47,48].",
+            "startOffset": 30149,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17859,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 17858,
+                    "startOffset": 17854
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We have previously shown that Sut1/Sut2 also regulate mating [25].",
+            "startOffset": 17793,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18382,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 18381,
+                    "startOffset": 18377
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "In this study, we used the \u03a31278b background because here the lack of ECM22 and UPC2 has no effect on the growth rate [14].",
+            "startOffset": 18259,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 25406,
+            "parents": [],
+            "refoffsets": {
+                "bib41": {
+                    "endOffset": 25286,
+                    "startOffset": 25282
+                }
+            },
+            "secId": "sec3",
+            "sentence": "These binding sites have been shown to be sufficient for the recruitment of the PRM1 gene to nuclear pores in response to pheromone in a Ste12-dependent manner [41] but to our knowledge it has not been demonstrated that Ste12 actually regulates PRM1 transcription through these sites.",
+            "startOffset": 25122,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21493,
+            "parents": [],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 21432,
+                    "startOffset": 21428
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Since Sut1 and Sut2 also regulate mating [25], we tested whether this is the case for Ecm22 and Upc2, too.",
+            "startOffset": 21387,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19945,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The resulting PCR product was digested with BamHI and HindIII, and then cloned into the BamHI and HindIII sites of YEp367.",
+            "startOffset": 19823,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 17793,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                },
+                "bib14": {
+                    "endOffset": 17792,
+                    "startOffset": 17785
+                },
+                "bib19": {
+                    "endOffset": 17792,
+                    "startOffset": 17785
+                },
+                "bib20": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                },
+                "bib21": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                },
+                "bib22": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                },
+                "bib23": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                },
+                "bib24": {
+                    "endOffset": 17714,
+                    "startOffset": 17704
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Interestingly, Ecm22/Upc2 and Sut1/Sut2 regulate sterol import by induction of a very similar set of genes [13,20\u201324], and they share some target genes for the regulation of filamentation [14,19].",
+            "startOffset": 17597,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24788,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, Ste12 positively regulates the transcription of PRM1 but not of PRM4.",
+            "startOffset": 24713,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19822,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "In a second PCR reaction the mutated PRM1 promoter was amplified using these PCR products as templates and primers PRM1-1 and PRM1-2.",
+            "startOffset": 19689,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 22164,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 22163,
+                    "startOffset": 22156
+                },
+                "bib30": {
+                    "endOffset": 22163,
+                    "startOffset": 22156
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Ecm22/Upc2-dependent regulation of expression of these genes is not only important for sterol homeostasis but also for other processes such as filamentation and the hyperosmotic shock response [14,30].",
+            "startOffset": 21963,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26038,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "As mentioned above, basal PRM1 levels were reduced in the ecm22 upc2 double mutant and when expressed from the PRM1 promoter lacking Ste12-binding sites but in both cases expression was readily detectable (Figs. 2A, 3A and 4B).",
+            "startOffset": 25811,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29092,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 29091,
+                    "startOffset": 29088
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Around 200 genes are induced in response to pheromone, and almost all mating genes seem to be regulated through the transcription factor Ste12 [6].",
+            "startOffset": 28945,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20671,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "0.1\u201310 ml of cells were harvested by centrifugation and resuspended in 1 ml Z buffer (100 mM sodium phosphate [pH 7.0], 10 mM KCl, 1 mM MgSO4, 50 mM \u03b2-mercaptoethanol).",
+            "startOffset": 20503,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 18062,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Here, we show that Ecm22 and Upc2 control mating through the regulation of expression of the genes PRM1 and PRM4 which are strongly upregulated during mating and which are required for efficient mating.",
+            "startOffset": 17860,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30148,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 30147,
+                    "startOffset": 30143
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Upc2 is regulated through sterol concentration and at the transcriptional level [10].",
+            "startOffset": 30063,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21121,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Samples were centrifuged and absorbance of the supernatant at 420 nm and 550 nm was determined.",
+            "startOffset": 21026,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 28945,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These observations suggest that Ecm22 and Upc2 regulate PRM1 and PRM4 specifically in mating and not during filamentation.",
+            "startOffset": 28823,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30062,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Very little is known about Ecm22 regulation.",
+            "startOffset": 30018,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16788,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This triggers the activation of a mitogen-activated protein kinase (MAPK) pathway which ultimately results in the induction of mating-specific genes, cell cycle arrest, polarized growth towards the mating partner and cell fusion.",
+            "startOffset": 16559,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28094,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In this study, we show that Ecm22 and Upc2 play an important role in basal and pheromone-induced transcription of PRM1 and PRM4.",
+            "startOffset": 27966,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16196,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 16195,
+                    "startOffset": 16190
+                },
+                "bib2": {
+                    "endOffset": 16195,
+                    "startOffset": 16190
+                },
+                "bib3": {
+                    "endOffset": 16195,
+                    "startOffset": 16190
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The mating response of the unicellular budding yeast Saccharomyces cerevisiae is an ideal model for the study of receptor-activated cell differentiation [1\u20133].",
+            "startOffset": 16037,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23475,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 23474,
+                    "startOffset": 23467
+                },
+                "bib32": {
+                    "endOffset": 23474,
+                    "startOffset": 23467
+                }
+            },
+            "secId": "sec3",
+            "sentence": "As mentioned above, PRM1 and PRM4 expression was strongly upregulated in response to pheromone (Fig. 3A and B) [31,32].",
+            "startOffset": 23356,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25014,
+            "parents": [],
+            "refoffsets": {
+                "bib40": {
+                    "endOffset": 25013,
+                    "startOffset": 25009
+                }
+            },
+            "secId": "sec3",
+            "sentence": "For these experiments, a STE12 deletion strain could not be used since ste12 mutants are completely unresponsive to pheromone [40].",
+            "startOffset": 24883,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22288,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "However, ERG3, ERG11, NCP1, AUS1, DAN1 and PDR11 levels did not change in response to pheromone treatment (data not shown).",
+            "startOffset": 22165,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21962,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 21900,
+                    "startOffset": 21893
+                },
+                "bib13": {
+                    "endOffset": 21961,
+                    "startOffset": 21951
+                },
+                "bib14": {
+                    "endOffset": 21900,
+                    "startOffset": 21893
+                },
+                "bib20": {
+                    "endOffset": 21961,
+                    "startOffset": 21951
+                },
+                "bib23": {
+                    "endOffset": 21961,
+                    "startOffset": 21951
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Both proteins control the expression of genes involved in sterol biosynthesis such as of ERG3, ERG11 and NCP1 [12\u201314], and sterol import including AUS1, DAN1 and PDR11 [13,20,23].",
+            "startOffset": 21783,
+            "title": "Results"
+        },
+        {
+            "endOffset": 28560,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 28559,
+                    "startOffset": 28555
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Ecm22 and Upc2 also play a role in filamentation, another differentiation process [14].",
+            "startOffset": 28473,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30456,
+            "parents": [],
+            "refoffsets": {
+                "bib46": {
+                    "endOffset": 30455,
+                    "startOffset": 30451
+                }
+            },
+            "secId": "sec4",
+            "sentence": "However, it is unlikely that this is a mechanism for Upc2 activation during mating because sterol levels do not change following pheromone treatment [46].",
+            "startOffset": 30302,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28229,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Unfortunately, very little is known about Prm4.",
+            "startOffset": 28182,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28647,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, deletion of PRM1 or PRM4 does not affect filamentous growth (data not shown).",
+            "startOffset": 28561,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21782,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "We next wanted to know how Ecm22 and Upc2 regulate mating.",
+            "startOffset": 21724,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30017,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "It remains unknown how Ecm22 and Upc2 are activated in response to pheromone.",
+            "startOffset": 29940,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22628,
+            "parents": [],
+            "refoffsets": {
+                "bib31": {
+                    "endOffset": 22627,
+                    "startOffset": 22620
+                },
+                "bib32": {
+                    "endOffset": 22627,
+                    "startOffset": 22620
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Prm1 and Prm4 have been identified as transmembrane proteins that are strongly upregulated in response to pheromone [31,32].",
+            "startOffset": 22504,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23356,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "These data suggest that both Ecm22 and Upc2 play an important role in the control of basal expression of PRM1 and PRM4.",
+            "startOffset": 23237,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20748,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Cells were permeabilized by addition of 20 \u03bcl chloroform and 20 \u03bcl 0.1% SDS.",
+            "startOffset": 20672,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 21260,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "\u03b2-Galactosidase activity was calculated in Miller units as 1000 \u00d7 [A420 - (1.75 \u00d7 A550)]/reaction time (min) \u00d7 culture volume (ml) \u00d7 A600.",
+            "startOffset": 21122,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 21639,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Deletion of either ECM22 or UPC2 had no effect on mating efficiency, whereas cells lacking both genes displayed a strong mating defect (Fig. 1A).",
+            "startOffset": 21494,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18181,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All yeast strains used in this study are listed in Table 1.",
+            "startOffset": 18122,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 17477,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 17476,
+                    "startOffset": 17467
+                },
+                "bib16": {
+                    "endOffset": 17476,
+                    "startOffset": 17467
+                },
+                "bib7": {
+                    "endOffset": 17476,
+                    "startOffset": 17467
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Sut1 and its paralog Sut2 are also transcription factors of the zinc cluster protein family [7,10,16].",
+            "startOffset": 17375,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20312,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Filters were then suspended in water and serial dilutions were plated on selective medium to determine the number of diploids.",
+            "startOffset": 20186,
+            "title": "Quantitative mating assays"
+        },
+        {
+            "endOffset": 18677,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "For STE12 overexpression, yeast cells were grown in medium with 2% galactose and 3% raffinose instead of glucose.",
+            "startOffset": 18564,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 28822,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 28741,
+                    "startOffset": 28734
+                },
+                "bib19": {
+                    "endOffset": 28741,
+                    "startOffset": 28734
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Furthermore, unlike target genes of Ecm22 and Upc2 that are involved in filamentation [14,19], PRM1 and PRM4 expression does not change during filamentation (data not shown).",
+            "startOffset": 28648,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18563,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Yeast strains were grown in 1% yeast extract, 2% peptone, 2% dextrose (YPD) or synthetic complete (SC) medium.",
+            "startOffset": 18453,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 28181,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                },
+                "bib33": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                },
+                "bib34": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                },
+                "bib35": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                },
+                "bib36": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                },
+                "bib37": {
+                    "endOffset": 28180,
+                    "startOffset": 28173
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The role of Prm1 in membrane fusion during mating has been well characterized [32\u201337].",
+            "startOffset": 28095,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27184,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This suggests that the related proteins Ecm22 and Upc2 have overlapping functions in mating.",
+            "startOffset": 27092,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21025,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "After 15 min incubation at 30 \u00b0C the reaction was started by addition of 140 \u03bcl o-nitrophenyl-\u03b2-d-galactopyranoside (4 mg/ml in 100 mM sodium phosphate, pH 7.0), incubated at 30 \u00b0C until the solution became yellow and the reaction was stopped by addition of 400 \u03bcl 1 M Na2CO3.",
+            "startOffset": 20749,
+            "title": "\u03b2-Galactosidase assays"
+        },
+        {
+            "endOffset": 26395,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Using the PRM1 promoter lacking Ste12-binding sites, pheromone induction was greatly reduced compared to the wild type (from 14.5-fold to 3-fold).",
+            "startOffset": 26249,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26870,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 26869,
+                    "startOffset": 26865
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The transcription factors Ecm22 and Upc2 have an important and well established role in sterol biosynthesis and sterol uptake [10].",
+            "startOffset": 26739,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27091,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Deletion of either ECM22 or UPC2 alone has no effect on mating efficiency or expression of mating genes, whereas cells lacking both genes exhibit strong phenotypes.",
+            "startOffset": 26927,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21724,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, Ecm22 and Upc2 combined have an important and hitherto unknown role in mating.",
+            "startOffset": 21640,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23750,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "PRM1 and PRM4 induction in ECM22 and UPC2 single deletion strains was comparable to the wild type, in contrast to ecm22\u0394 upc2\u0394 cells in which PRM1 and PRM4 induction was considerably reduced (from 14.5- to 3.7-fold for PRM1 and from 7.3- to 2-fold for PRM4) (Fig. 3A and B).",
+            "startOffset": 23476,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31222,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Further research will show whether Ecm22 and Upc2 have other target genes, what functions these targets have, and how Ecm22 and Upc2 are regulated during mating.",
+            "startOffset": 31061,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17253,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 17220,
+                    "startOffset": 17212
+                },
+                "bib12": {
+                    "endOffset": 17252,
+                    "startOffset": 17245
+                },
+                "bib13": {
+                    "endOffset": 17252,
+                    "startOffset": 17245
+                },
+                "bib8": {
+                    "endOffset": 17220,
+                    "startOffset": 17212
+                },
+                "bib9": {
+                    "endOffset": 17220,
+                    "startOffset": 17212
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Initially, these transcription factors have been identified as key regulators of sterol import [8,9,11] and sterol biosynthesis [12,13].",
+            "startOffset": 17117,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26728,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Taken together, these data suggest that Ecm22/Upc2 and Ste12 are equally important for basal and pheromone-induced PRM1 expression, and that Ecm22/Upc2 and Ste12 act through separate pathways.",
+            "startOffset": 26536,
+            "title": "Results"
+        },
+        {
+            "endOffset": 24273,
+            "parents": [],
+            "refoffsets": {
+                "bib38": {
+                    "endOffset": 24272,
+                    "startOffset": 24265
+                },
+                "bib39": {
+                    "endOffset": 24272,
+                    "startOffset": 24265
+                }
+            },
+            "secId": "sec3",
+            "sentence": "It binds to pheromone-responsive elements (PREs) in the promoter region of its targets [38,39].",
+            "startOffset": 24178,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20400,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Mating efficiency was calculated as the percentage of input cells that formed diploids.",
+            "startOffset": 20313,
+            "title": "Quantitative mating assays"
+        },
+        {
+            "endOffset": 29481,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Instead, basal and pheromone-induced PRM4 expression is regulated by Ecm22 and Upc2.",
+            "startOffset": 29397,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16558,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The two haploid cell types secrete different peptide pheromones (a-factor and \u03b1-factor) which bind to a G protein-coupled receptor in the plasma membrane of the opposite cell type.",
+            "startOffset": 16378,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26926,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here, we show that Ecm22 and Upc2 also regulate mating.",
+            "startOffset": 26871,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19243,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib29": {
+                    "endOffset": 19242,
+                    "startOffset": 19238
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The promoter regions of PRM1 (from \u2212461 to +3) and PRM4 (from \u2212453 to +3) were amplified from chromosomal DNA using primers PRM1-1 (CGCGGATCCTACAAGGTCTATCTGATA), PRM1-2 (CCCAAGCTTCATATCATCAACGTTCAC), PRM4-1 (CGCGGATCCAATGATTAGGTGAGGGTC) and PRM4-2 (CCCAAGCTTCATCTTTAACTGTTATTT), digested with BamHI and HindIII, and then cloned into the BamHI and HindIII sites of YEp367 [29].",
+            "startOffset": 18867,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 29597,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "For PRM1 we could show that its basal expression and pheromone induction is under control of Ste12, Ecm22 and Upc2.",
+            "startOffset": 29482,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20185,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The filters were placed on YPD plates for 5 h at 30 \u00b0C.",
+            "startOffset": 20130,
+            "title": "Quantitative mating assays"
+        },
+        {
+            "endOffset": 29731,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Mutation of Ste12-binding sites in the PRM1 promoter or simultaneous deletion of ECM22 and UPC2 both markedly reduce PRM1 expression.",
+            "startOffset": 29598,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24712,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In contrast, STE12 deletion or overexpression had no effect on PRM4 levels (Figs. 2B and 4C).",
+            "startOffset": 24619,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27287,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 27286,
+                    "startOffset": 27282
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Such a Ecm22-Upc2 redundancy has previously been shown for other processes such as filamentation [14].",
+            "startOffset": 27185,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23853,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Thus, Ecm22 and Upc2 are required for both basal and pheromone-induced transcription of PRM1 and PRM4.",
+            "startOffset": 23751,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16377,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "When two cells of these opposite mating are in close proximity they can fuse to become diploid.",
+            "startOffset": 16282,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16921,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 16920,
+                    "startOffset": 16915
+                },
+                "bib5": {
+                    "endOffset": 16920,
+                    "startOffset": 16915
+                },
+                "bib6": {
+                    "endOffset": 16920,
+                    "startOffset": 16915
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The transcription factor Ste12 plays a key role in the increased expression of mating-specific genes in response to pheromone [4\u20136].",
+            "startOffset": 16789,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31060,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, we have established that Ecm22 and Upc2 are novel mating factors that seem to act independently of Ste12 inducing expression of the mating genes PRM1 and PRM4.",
+            "startOffset": 30886,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18258,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 18257,
+                    "startOffset": 18254
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Simultaneous deletion of ECM22 and UPC2 is lethal in some yeast strains [9].",
+            "startOffset": 18182,
+            "title": "Yeast strains and growth conditions"
+        },
+        {
+            "endOffset": 17375,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 17334,
+                    "startOffset": 17330
+                },
+                "bib15": {
+                    "endOffset": 17374,
+                    "startOffset": 17370
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Later it has been shown that Ecm22 and Upc2 also control filamentous growth [14], a response to nutrient limitation [15].",
+            "startOffset": 17254,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25602,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "Basal expression from the PRM1 promoter with mutated Ste12-binding sites was strongly reduced and comparable to expression from the wild type PRM1 promoter in the STE12 deletion strain (Fig. 4B).",
+            "startOffset": 25407,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27884,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 27806,
+                    "startOffset": 27802
+                },
+                "bib30": {
+                    "endOffset": 27883,
+                    "startOffset": 27879
+                }
+            },
+            "secId": "sec4",
+            "sentence": "During filamentation sterol biosynthesis genes and as a consequence sterol levels are upregulated [14], whereas the reverse can be observed in response to hyperosmotic stress [30].",
+            "startOffset": 27704,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18866,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "All plasmids used in this study are listed in Table 1.",
+            "startOffset": 18812,
+            "title": "Generation of plasmids"
+        },
+        {
+            "endOffset": 26248,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "In contrast, expression from the PRM1 promoter without Ste12-binding sites in ecm22\u0394 upc2\u0394 cells was completely abolished (Fig. 3A), suggesting that Ecm22/Upc2 and Ste12 regulate PRM1 expression independently.",
+            "startOffset": 26039,
+            "title": "Results"
+        },
+        {
+            "endOffset": 27703,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This is different from other processes regulated by Ecm22 and Upc2.",
+            "startOffset": 27636,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27635,
+            "parents": [],
+            "refoffsets": {
+                "bib42": {
+                    "endOffset": 27575,
+                    "startOffset": 27568
+                },
+                "bib43": {
+                    "endOffset": 27575,
+                    "startOffset": 27568
+                },
+                "bib44": {
+                    "endOffset": 27575,
+                    "startOffset": 27568
+                },
+                "bib45": {
+                    "endOffset": 27575,
+                    "startOffset": 27568
+                },
+                "bib46": {
+                    "endOffset": 27634,
+                    "startOffset": 27630
+                }
+            },
+            "secId": "sec4",
+            "sentence": "This is in line with observations that while sterol composition is crucial for mating [42\u201345], sterol levels do not change in response to pheromone [46].",
+            "startOffset": 27482,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22893,
+            "parents": [],
+            "refoffsets": {
+                "bib32": {
+                    "endOffset": 22843,
+                    "startOffset": 22839
+                }
+            },
+            "secId": "sec3",
+            "sentence": "Like PRM1 [32], PRM4 is required for efficient mating (Fig. 1B).",
+            "startOffset": 22829,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16281,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Two different haploid cell types of budding yeast exist, termed a cells and \u03b1 cells.",
+            "startOffset": 16197,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24618,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "STE12 deletion resulted in a strong decrease of basal PRM1 expression (Fig. 4B), whereas overexpression of STE12 led to a massive increase of PRM1 levels (Fig. 4C).",
+            "startOffset": 24454,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25717,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "STE12 overexpression had no effect on expression from the PRM1 promoter lacking the Ste12-binding sites (Fig. 4C).",
+            "startOffset": 25603,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22375,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "It therefore seems that Ecm22 and Upc2 regulate mating through different target genes.",
+            "startOffset": 22289,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23097,
+            "parents": [],
+            "secId": "sec3",
+            "sentence": "PRM1 and PRM4 were both expressed at low levels in exponentially growing cells (Fig. 2A and B).",
+            "startOffset": 23002,
+            "title": "Results"
+        },
+        {
+            "endOffset": 30301,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When sterol levels drop, Upc2 translocates from the cytoplasm to the nucleus where it controls gene expression.",
+            "startOffset": 30190,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30886,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "During mating Ecm22 and Upc2 therefore seem to be regulated through a different yet unknown mechanism.",
+            "startOffset": 30784,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X17319678",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": "thomas.hoefken@brunel.ac.uk",
+                "first": "Thomas",
+                "initial": "T.",
+                "last": "H\u00f6fken"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2017.10.005",
+        "firstpage": "1485",
+        "issn": "0006291X",
+        "keywords": [
+            "Budding yeast",
+            "Ecm22",
+            "Mating",
+            "Transcription factor",
+            "Upc2",
+            "Zinc cluster protein"
+        ],
+        "lastpage": "1490",
+        "openaccess": "Full",
+        "pub_year": 2017,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Ecm22 and Upc2 regulate yeast mating through control of expression of the mating genes PRM1 and PRM4"
+    }
+}

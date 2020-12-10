@@ -1,0 +1,2543 @@
+{
+    "abstract": "Rheumatoid arthritis (RA) is an autoimmune inflammatory disease exhibited most commonly in joints. We found that the expression of C1qtnf3, which encodes C1q/TNF-related protein 3 (CTRP3), was highly increased in two mouse RA models with different etiology. To elucidate the pathogenic roles of CTRP3 in the development of arthritis, we generated C1qtnf3-/- mice and examined the development of collagen-induced arthritis in these mice. We found that the incidence and severity score was higher in C1qtnf3-/- mice compared with wild-type (WT) mice. Histopathology of the joints was also more severe in C1qtnf3-/- mice. The levels of antibodies against type II collagen and pro-inflammatory cytokine mRNAs in C1qtnf3-/- mice were higher than WT mice. These observations indicate that CTRP3 plays an important role in the development of autoimmune arthritis, suggesting CTRP3 as a possible medicine to treat RA. \u00a9 2013 The Authors.",
+    "author_highlights": [
+        {
+            "endOffset": 34122,
+            "sentence": "C1qtnf3 is highly expressed gene in two rheumatoid arthritis models.",
+            "startOffset": 34054
+        },
+        {
+            "endOffset": 34172,
+            "sentence": "C1qtnf3 encodes C1qTNF-related protein 3 (CTRP3).",
+            "startOffset": 34123
+        },
+        {
+            "endOffset": 34244,
+            "sentence": "We generated C1qtnf3 KO mice to elucidate the pathogenic role of CTRP3.",
+            "startOffset": 34173
+        },
+        {
+            "endOffset": 34320,
+            "sentence": "The severity score of arthritis was higher in C1qtnf3 KO mice than WT mice.",
+            "startOffset": 34245
+        },
+        {
+            "endOffset": 34405,
+            "sentence": "Our observation suggests CTRP3 as a possible medicine to treat autoimmune arthritis.",
+            "startOffset": 34321
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Feldmann"
+                },
+                {
+                    "first": "Sir Ravinder N.",
+                    "initial": "S.R.N.",
+                    "last": "Maini"
+                }
+            ],
+            "doi": "10.1111/j.1600-065X.2008.00626.x",
+            "firstpage": "7",
+            "issn": "01052896",
+            "lastpage": "19",
+            "pmid": "18613827",
+            "pub_year": 2008,
+            "title": "Role of cytokines in rheumatoid arthritis: An education in pathophysiology and therapeutics",
+            "volume": "223"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Tadamitsu",
+                    "initial": "T.",
+                    "last": "Kishimoto"
+                }
+            ],
+            "doi": "10.1093/intimm/dxq030",
+            "firstpage": "347",
+            "issn": "09538178",
+            "lastpage": "352",
+            "pmid": "20410258",
+            "pub_year": 2010,
+            "title": "IL-6: From its discovery to clinical applications",
+            "volume": "22"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "J. C.W.",
+                    "initial": "J.C.W.",
+                    "last": "Edwards"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Cambridge"
+                }
+            ],
+            "doi": "10.1093/rheumatology/40.2.205",
+            "firstpage": "205",
+            "issn": "14620324",
+            "lastpage": "211",
+            "pmid": "11257159",
+            "pub_year": 2001,
+            "title": "Sustained improvement in rheumatoid arthritis following a protocol designed to deplete B lymphocytes",
+            "volume": "40"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Iwakura"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Tosu"
+                },
+                {
+                    "first": "Emi",
+                    "initial": "E.",
+                    "last": "Yoshida"
+                },
+                {
+                    "first": "Masafumi",
+                    "initial": "M.",
+                    "last": "Takiguchi"
+                },
+                {
+                    "first": "Kazuto",
+                    "initial": "K.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Isao",
+                    "initial": "I.",
+                    "last": "Kitajima"
+                },
+                {
+                    "first": "Kusuki",
+                    "initial": "K.",
+                    "last": "Nishioka"
+                },
+                {
+                    "first": "Kazuhiko",
+                    "initial": "K.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Toshio",
+                    "initial": "T.",
+                    "last": "Takeda"
+                },
+                {
+                    "first": "Masakazu",
+                    "initial": "M.",
+                    "last": "Hatanaka"
+                },
+                {
+                    "first": "Hiroaki",
+                    "initial": "H.",
+                    "last": "Yamamoto"
+                },
+                {
+                    "first": "Toyozo",
+                    "initial": "T.",
+                    "last": "Sekiguchi"
+                }
+            ],
+            "doi": "10.1126/science.1887217",
+            "firstpage": "1026",
+            "issn": "00368075",
+            "lastpage": "1028",
+            "pmid": "1887217",
+            "pub_year": 1991,
+            "title": "Induction of inflammatory arthropathy resembling rheumatoid arthritis in mice transgenic for HTLV-I",
+            "volume": "253"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Reiko",
+                    "initial": "R.",
+                    "last": "Horai"
+                },
+                {
+                    "first": "Shinobu",
+                    "initial": "S.",
+                    "last": "Saijo"
+                },
+                {
+                    "first": "Hidetoshi",
+                    "initial": "H.",
+                    "last": "Tanioka"
+                },
+                {
+                    "first": "Susumu",
+                    "initial": "S.",
+                    "last": "Nakae"
+                },
+                {
+                    "first": "Katsuko",
+                    "initial": "K.",
+                    "last": "Sudo"
+                },
+                {
+                    "first": "Akihiko",
+                    "initial": "A.",
+                    "last": "Okahara"
+                },
+                {
+                    "first": "Toshimi",
+                    "initial": "T.",
+                    "last": "Ikuse"
+                },
+                {
+                    "first": "Masahide",
+                    "initial": "M.",
+                    "last": "Asano"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Iwakura"
+                }
+            ],
+            "doi": "10.1084/jem.191.2.313",
+            "firstpage": "313",
+            "issn": "00221007",
+            "lastpage": "320",
+            "pmid": "10637275",
+            "pub_year": 2000,
+            "title": "Development of chronic inflammatory arthropathy resembling rheumatoid arthritis in interleukin I receptor antagonist-deficient mice",
+            "volume": "191"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Noriyuki",
+                    "initial": "N.",
+                    "last": "Fujikado"
+                },
+                {
+                    "first": "Shinobu",
+                    "initial": "S.",
+                    "last": "Saijo"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Iwakura"
+                }
+            ],
+            "doi": "10.1186/ar1985",
+            "issn": "14786354",
+            "pmid": "16805906",
+            "pub_year": 2006,
+            "title": "Identification of arthritis-related gene clusters by microarray analysis of two independent mouse models for rheumatoid arthritis",
+            "volume": "8"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Rohit",
+                    "initial": "R.",
+                    "last": "Ghai"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Waters"
+                },
+                {
+                    "first": "Lubka T.",
+                    "initial": "L.T.",
+                    "last": "Roumenina"
+                },
+                {
+                    "first": "Mihaela",
+                    "initial": "M.",
+                    "last": "Gadjeva"
+                },
+                {
+                    "first": "Mihaela S.",
+                    "initial": "M.S.",
+                    "last": "Kojouharova"
+                },
+                {
+                    "first": "Kenneth B.M.",
+                    "initial": "K.B.M.",
+                    "last": "Reid"
+                },
+                {
+                    "first": "Robert B.",
+                    "initial": "R.B.",
+                    "last": "Sim"
+                },
+                {
+                    "first": "Uday",
+                    "initial": "U.",
+                    "last": "Kishore"
+                }
+            ],
+            "doi": "10.1016/j.imbio.2006.11.001",
+            "firstpage": "253",
+            "issn": "01712985",
+            "lastpage": "266",
+            "pmid": "17544811",
+            "pub_year": 2007,
+            "title": "C1q and its growing family",
+            "volume": "212"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Akitoshi",
+                    "initial": "A.",
+                    "last": "Jikko"
+                },
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Abe"
+                },
+                {
+                    "first": "Tamaki",
+                    "initial": "T.",
+                    "last": "Yokohama-Tamaki"
+                },
+                {
+                    "first": "Hironori",
+                    "initial": "H.",
+                    "last": "Akiyama"
+                },
+                {
+                    "first": "Souhei",
+                    "initial": "S.",
+                    "last": "Furukawa"
+                },
+                {
+                    "first": "Masaharu",
+                    "initial": "M.",
+                    "last": "Takigawa"
+                },
+                {
+                    "first": "Satoshi",
+                    "initial": "S.",
+                    "last": "Wakisaka"
+                }
+            ],
+            "doi": "10.1002/jcp.20493",
+            "firstpage": "537",
+            "issn": "00219541",
+            "lastpage": "544",
+            "pmid": "16155912",
+            "pub_year": 2006,
+            "title": "Cartducin, a paralog of Acrp30/adiponectin, is induced during chondrogenic differentiation and promotes proliferation of chondrogenic precursors and chondrocytes",
+            "volume": "206"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Kopp"
+                },
+                {
+                    "first": "Margarita",
+                    "initial": "M.",
+                    "last": "Bala"
+                },
+                {
+                    "first": "Christa",
+                    "initial": "C.",
+                    "last": "Buechler"
+                },
+                {
+                    "first": "Werner",
+                    "initial": "W.",
+                    "last": "Falk"
+                },
+                {
+                    "first": "Philipp",
+                    "initial": "P.",
+                    "last": "Gross"
+                },
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "Neumeier"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "Sch\u00f6lmerich"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Sch\u00e4ffler"
+                }
+            ],
+            "doi": "10.1210/en.2010-0571",
+            "firstpage": "5267",
+            "issn": "00137227",
+            "lastpage": "5278",
+            "pmid": "20739398",
+            "pub_year": 2010,
+            "title": "C1q/TNF-related protein-3 represents a novel and endogenous lipopolysaccharide antagonist of the adipose tissue",
+            "volume": "151"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Johanna",
+                    "initial": "J.",
+                    "last": "Weigert"
+                },
+                {
+                    "first": "Markus",
+                    "initial": "M.",
+                    "last": "Neumeier"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Sch\u00e4ffler"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Fleck"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "Sch\u00f6lmerich"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Sch\u00fctz"
+                },
+                {
+                    "first": "Christa",
+                    "initial": "C.",
+                    "last": "Buechler"
+                }
+            ],
+            "doi": "10.1016/j.febslet.2005.09.022",
+            "firstpage": "5565",
+            "issn": "00145793",
+            "lastpage": "5570",
+            "pmid": "16213490",
+            "pub_year": 2005,
+            "title": "The adiponectin paralog CORS-26 has anti-inflammatory properties and is produced by human monocytic cells",
+            "volume": "579"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Claudia",
+                    "initial": "C.",
+                    "last": "Hofmann"
+                },
+                {
+                    "first": "Ning",
+                    "initial": "N.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Florian",
+                    "initial": "F.",
+                    "last": "Obermeier"
+                },
+                {
+                    "first": "Gisela",
+                    "initial": "G.",
+                    "last": "Paul"
+                },
+                {
+                    "first": "Christa",
+                    "initial": "C.",
+                    "last": "B\u00fcchler"
+                },
+                {
+                    "first": "Andrea",
+                    "initial": "A.",
+                    "last": "Kopp"
+                },
+                {
+                    "first": "Werner",
+                    "initial": "W.",
+                    "last": "Falk"
+                },
+                {
+                    "first": "Andreas",
+                    "initial": "A.",
+                    "last": "Sch\u00e4ffler"
+                }
+            ],
+            "doi": "10.1002/ibd.21647",
+            "firstpage": "2462",
+            "issn": "10780998",
+            "lastpage": "2471",
+            "pmid": "21351204",
+            "pub_year": 2011,
+            "title": "C1q/TNF-related protein-3 (CTRP-3) is secreted by visceral adipose tissue and exerts antiinflammatory and antifibrotic effects in primary human colonic fibroblasts",
+            "volume": "17"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Fujihara"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Kaseda"
+                },
+                {
+                    "first": "Naokazu",
+                    "initial": "N.",
+                    "last": "Inoue"
+                },
+                {
+                    "first": "Masahito",
+                    "initial": "M.",
+                    "last": "Ikawa"
+                },
+                {
+                    "first": "Masaru",
+                    "initial": "M.",
+                    "last": "Okabe"
+                }
+            ],
+            "doi": "10.1007/s11248-012-9635-x",
+            "firstpage": "195",
+            "issn": "09628819",
+            "lastpage": "200",
+            "pmid": "22826106",
+            "pub_year": 2013,
+            "title": "Production of mouse pups from germline transmission-failed knockout chimeras",
+            "volume": "22"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Reiko",
+                    "initial": "R.",
+                    "last": "Horai"
+                },
+                {
+                    "first": "Masahide",
+                    "initial": "M.",
+                    "last": "Asano"
+                },
+                {
+                    "first": "Katsuko",
+                    "initial": "K.",
+                    "last": "Sudo"
+                },
+                {
+                    "first": "Hirotaka",
+                    "initial": "H.",
+                    "last": "Kanuka"
+                },
+                {
+                    "first": "Masatoshi",
+                    "initial": "M.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Masugi",
+                    "initial": "M.",
+                    "last": "Nishihara"
+                },
+                {
+                    "first": "Michio",
+                    "initial": "M.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Iwakura"
+                }
+            ],
+            "doi": "10.1084/jem.187.9.1463",
+            "firstpage": "1463",
+            "issn": "00221007",
+            "lastpage": "1475",
+            "pmid": "9565638",
+            "pub_year": 1998,
+            "title": "Production of mice deficient in genes for interleukin (IL)-1\u03b1, IL-1\u03b2, IL-1\u03b1/\u03b2, and IL-1 receptor antagonist shows that IL-1\u03b2 is crucial in turpentine-induced fever development and glucocorticoid secretion",
+            "volume": "187"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "M. A.",
+                    "initial": "M.A.",
+                    "last": "Seelen"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Roos"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Wieslander"
+                },
+                {
+                    "first": "T. E.",
+                    "initial": "T.E.",
+                    "last": "Mollnes"
+                },
+                {
+                    "first": "A. G.",
+                    "initial": "A.G.",
+                    "last": "Sj\u00f6holm"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Wurzner"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Loos"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Tedesco"
+                },
+                {
+                    "first": "R. B.",
+                    "initial": "R.B.",
+                    "last": "Sim"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Garred"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Alexopoulos"
+                },
+                {
+                    "first": "M. W.",
+                    "initial": "M.W.",
+                    "last": "Turner"
+                },
+                {
+                    "first": "M. R.",
+                    "initial": "M.R.",
+                    "last": "Daha"
+                }
+            ],
+            "doi": "10.1016/j.jim.2004.11.016",
+            "firstpage": "187",
+            "issn": "00221759",
+            "lastpage": "198",
+            "pmid": "15680163",
+            "pub_year": 2005,
+            "title": "Functional analysis of the classical, alternative, and MBL pathways of the complement system: Standardization and validation of a simple ELISA",
+            "volume": "296"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Yuko",
+                    "initial": "Y.",
+                    "last": "Kimura"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Miwa"
+                },
+                {
+                    "first": "Lin",
+                    "initial": "L.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "Wen Chao",
+                    "initial": "W.C.",
+                    "last": "Song"
+                }
+            ],
+            "doi": "10.1182/blood-2007-05-089821",
+            "firstpage": "732",
+            "issn": "00064971",
+            "lastpage": "740",
+            "pmid": "17916747",
+            "pub_year": 2008,
+            "title": "Activator-specific requirement of properdin in the initiation and amplification of the alternative pathway complement",
+            "volume": "111"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Julia J.",
+                    "initial": "J.J.",
+                    "last": "Inglis"
+                },
+                {
+                    "first": "Egle",
+                    "initial": "E.",
+                    "last": "\u0160imelyte"
+                },
+                {
+                    "first": "Fiona E.",
+                    "initial": "F.E.",
+                    "last": "McCann"
+                },
+                {
+                    "first": "Gabriel",
+                    "initial": "G.",
+                    "last": "Criado"
+                },
+                {
+                    "first": "Richard O.",
+                    "initial": "R.O.",
+                    "last": "Williams"
+                }
+            ],
+            "doi": "10.1038/nprot.2008.19",
+            "firstpage": "612",
+            "issn": "17542189",
+            "lastpage": "618",
+            "pmid": "18388943",
+            "pub_year": 2008,
+            "title": "Protocol for the induction of arthritis in C57BL/6 mice",
+            "volume": "3"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Noriyuki",
+                    "initial": "N.",
+                    "last": "Fujikado"
+                },
+                {
+                    "first": "Shinobu",
+                    "initial": "S.",
+                    "last": "Saijo"
+                },
+                {
+                    "first": "Tomo",
+                    "initial": "T.",
+                    "last": "Yonezawa"
+                },
+                {
+                    "first": "Kazusuke",
+                    "initial": "K.",
+                    "last": "Shimamori"
+                },
+                {
+                    "first": "Akina",
+                    "initial": "A.",
+                    "last": "Ishii"
+                },
+                {
+                    "first": "Sho",
+                    "initial": "S.",
+                    "last": "Sugai"
+                },
+                {
+                    "first": "Hayato",
+                    "initial": "H.",
+                    "last": "Kotaki"
+                },
+                {
+                    "first": "Katsuko",
+                    "initial": "K.",
+                    "last": "Sudo"
+                },
+                {
+                    "first": "Masato",
+                    "initial": "M.",
+                    "last": "Nose"
+                },
+                {
+                    "first": "Yoichiro",
+                    "initial": "Y.",
+                    "last": "Iwakura"
+                }
+            ],
+            "doi": "10.1038/nm1697",
+            "firstpage": "176",
+            "issn": "10788956",
+            "lastpage": "180",
+            "pmid": "18204462",
+            "pub_year": 2008,
+            "title": "Dcir deficiency causes development of autoimmune diseases in mice due to excess expansion of dendritic cells",
+            "volume": "14"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Samuel",
+                    "initial": "S.",
+                    "last": "Garc\u00eda"
+                },
+                {
+                    "first": "Jer\u00f3nimo",
+                    "initial": "J.",
+                    "last": "Forteza"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "L\u00f3pez-Otin"
+                },
+                {
+                    "first": "Juan J.",
+                    "initial": "J.J.",
+                    "last": "G\u00f3mez-Reino"
+                },
+                {
+                    "first": "Antonio",
+                    "initial": "A.",
+                    "last": "Gonz\u00e1lez"
+                },
+                {
+                    "first": "Carmen",
+                    "initial": "C.",
+                    "last": "Conde"
+                }
+            ],
+            "doi": "10.1186/ar3211",
+            "issn": "14786354",
+            "pmid": "21190566",
+            "pub_year": 2010,
+            "title": "Matrix metalloproteinase-8 deficiency increases joint inflammation and bone erosion in the K/BxN serum-transfer arthritis model",
+            "volume": "12"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Tamaki",
+                    "initial": "T.",
+                    "last": "Yokohama-Tamaki"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Tetsuya S.",
+                    "initial": "T.S.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Shunichi",
+                    "initial": "S.",
+                    "last": "Shibata"
+                }
+            ],
+            "doi": "10.1111/j.1469-7580.2011.01354.x",
+            "firstpage": "517",
+            "issn": "00218782",
+            "lastpage": "533",
+            "pmid": "21371032",
+            "pub_year": 2011,
+            "title": "Functional analysis of CTRP3/cartducin in Meckel's cartilage and developing condylar cartilage in the fetal mouse mandible",
+            "volume": "218"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Kwok Man",
+                    "initial": "K.M.",
+                    "last": "Tong"
+                },
+                {
+                    "first": "Chao Ping",
+                    "initial": "C.P.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Kui Chou",
+                    "initial": "K.C.",
+                    "last": "Huang"
+                },
+                {
+                    "first": "Dong Chen",
+                    "initial": "D.C.",
+                    "last": "Shieh"
+                },
+                {
+                    "first": "Hsu Chen",
+                    "initial": "H.C.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Chung Yuh",
+                    "initial": "C.Y.",
+                    "last": "Tzeng"
+                },
+                {
+                    "first": "Kun Hui",
+                    "initial": "K.H.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Yung Cheng",
+                    "initial": "Y.C.",
+                    "last": "Chiu"
+                },
+                {
+                    "first": "Chih Hsin",
+                    "initial": "C.H.",
+                    "last": "Tang"
+                }
+            ],
+            "doi": "10.1002/jcb.23059",
+            "firstpage": "1431",
+            "issn": "07302312",
+            "lastpage": "1440",
+            "pmid": "21321996",
+            "pub_year": 2011,
+            "title": "Adiponectin increases MMP-3 expression in human chondrocytes through adipor1 signaling pathway",
+            "volume": "112"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Philip W.",
+                    "initial": "P.W.",
+                    "last": "Peake"
+                },
+                {
+                    "first": "Yvonne",
+                    "initial": "Y.",
+                    "last": "Shen"
+                },
+                {
+                    "first": "Alexandra",
+                    "initial": "A.",
+                    "last": "Walther"
+                },
+                {
+                    "first": "John A.",
+                    "initial": "J.A.",
+                    "last": "Charlesworth"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2007.12.161",
+            "firstpage": "560",
+            "issn": "0006291X",
+            "lastpage": "565",
+            "pmid": "18179772",
+            "pub_year": 2008,
+            "title": "Adiponectin binds C1q and activates the classical pathway of complement",
+            "volume": "367"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Philip",
+                    "initial": "P.",
+                    "last": "Peake"
+                },
+                {
+                    "first": "Yvonne",
+                    "initial": "Y.",
+                    "last": "Shen"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2010.05.132",
+            "firstpage": "361",
+            "issn": "0006291X",
+            "lastpage": "366",
+            "pmid": "20513355",
+            "pub_year": 2010,
+            "title": "Factor H binds to the N-terminus of adiponectin and modulates complement activation",
+            "volume": "397"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 40505,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "10% serum was incubated on plates at 37 \u00b0C for 1 h and the reaction was stopped by cold 20 mM EDTA/PBS.",
+            "startOffset": 40402,
+            "title": "In vitro complement activation assay"
+        },
+        {
+            "endOffset": 39687,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Mice were kept under SPF conditions in the clean rooms at the Center for Experimental Medicine and Systems Biology, Institute of Medical Science, University of Tokyo and the Research Institute for Biomedical Sciences, Tokyo University of Science.",
+            "startOffset": 39441,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 45863,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "C1q domain is highly conserved between humans and mice (Fig. 1C), Thus, we generated C1qtnf3\u2212/\u2212 mice by deletion the C1q domain-encoding exon 4 (Fig. 1D).",
+            "startOffset": 45709,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 46404,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The incidence and the clinical score of arthritis of C1qtnf3\u2212/\u2212 mice was markedly increased compared to WT mice (Fig. 2A and B).",
+            "startOffset": 46276,
+            "title": "C1qtnf3\u2212/\u2212 mice are susceptible to CIA"
+        },
+        {
+            "endOffset": 46784,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "In contrast, that of C1qtnf3\u2212/\u2212 mice showed much severe changes, including proliferation of synovial lining cells, infiltration of inflammatory cells, and bone destruction associated with pannus formation (Fig. 2C and D).",
+            "startOffset": 46563,
+            "title": "C1qtnf3\u2212/\u2212 mice are susceptible to CIA"
+        },
+        {
+            "endOffset": 40764,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "We immunized female mice with 100 \u03bcl of 2 mg/ml type II collagen (IIC) (Sigma, USA) emulsified with complete Freund\u2019s adjuvant (CFA).",
+            "startOffset": 40631,
+            "title": "Collagen-induced arthritis (CIA)"
+        },
+        {
+            "endOffset": 49706,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Furthermore, we examined the effect of CTRP3 on neutrophil activation because C1qtnf3 was expressed in neutrophils (Fig. 1B).",
+            "startOffset": 49581,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 48654,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "We found that T cell and B cell was increased in LNs of C1qtnf3\u2212/\u2212 mice than that of WT mice at day 42 after the IIC/CFA-immunization, but the cell population was unchanged (Fig. 4A and B).",
+            "startOffset": 48465,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 45050,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Incidence of CIA was evaluated by the \u03c72 test, and the severity score by the Mann\u2013Whitney U-test.",
+            "startOffset": 44953,
+            "title": "Statics"
+        },
+        {
+            "endOffset": 44351,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Splenic B cells were purified by anti-mouse B220 microbeads, according to manufacture\u2019s instructions (Miltenyi Biotec, Germany).",
+            "startOffset": 44223,
+            "title": "In vitro B cell proliferation assay"
+        },
+        {
+            "endOffset": 43033,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 43032,
+                    "startOffset": 43028
+                }
+            },
+            "secId": "s0045",
+            "sentence": "For flow cytometry, cells were stained with Pacific-Blue-, FITC-, and APC-conjugated monoclonal antibodies (mAbs), as previously described [17].",
+            "startOffset": 42889,
+            "title": "Flow cytometric analysis"
+        },
+        {
+            "endOffset": 50965,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "However, we detected no abnormality in recall proliferative response against IIC in T cells from mutant mice.",
+            "startOffset": 50856,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 49016,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "IFN-\u03b3 production after IIC re-stimulation was also comparable between C1qtnf3\u2212/\u2212 and WT LN cell cultures (Fig. 4D).",
+            "startOffset": 48901,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 47244,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The result showed C3a and C5a levels in C1qtnf3\u2212/\u2212 mice were similar to that in C1qtnf3+/+ mice (Fig. 3A and B).",
+            "startOffset": 47132,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 46562,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "Also, histological examination of the ankle joints of WT mice at day 42 after first IIC/CFA-immunization under this regimen showed mild pathological changes.",
+            "startOffset": 46405,
+            "title": "C1qtnf3\u2212/\u2212 mice are susceptible to CIA"
+        },
+        {
+            "endOffset": 47416,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "These observations indicate that CTRP3 is not complement regulator.",
+            "startOffset": 47349,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 50151,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "These observations suggest that CTRP3 plays an important role in the development of autoimmune arthritis by regulating antibody production.",
+            "startOffset": 50012,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 38881,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 38880,
+                    "startOffset": 38876
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Chimeric mice were generated by an aggregation method [13].",
+            "startOffset": 38822,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 52938,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "However, it is difficult to elucidate the exact roles of CTRP3 in antibody production, because the receptor for CTRP3 as well as the receptor expressing cells has not been identified yet.",
+            "startOffset": 52751,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 45125,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Two-sided Student\u2019s t-test was used for all other statistical evaluations.",
+            "startOffset": 45051,
+            "title": "Statics"
+        },
+        {
+            "endOffset": 51515,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 51405,
+                    "startOffset": 51401
+                }
+            },
+            "secId": "s0100",
+            "sentence": "Although CTRP3 is reported to suppress inflammatory cytokine release in human monocytes [10], CTRP3 did not suppress the cytokine production in synovial resident/infiltrated cells from arthritic joints.",
+            "startOffset": 51313,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48900,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "We found that recall T cell proliferation response was comparable between C1qtnf3\u2212/\u2212 mice and WT mice (Fig. 4C).",
+            "startOffset": 48788,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 52562,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "However, we detected no abnormalities of the complement system in C1qtnf3\u2212/\u2212 mice, suggesting that CTRP3 is not involved in the complement system.",
+            "startOffset": 52416,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35515,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Rheumatoid arthritis (RA) is an autoimmune disease that causes inflammation and bone destruction most commonly in joints.",
+            "startOffset": 35394,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53016,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "Clearly, it remains to be elucidated how CTRP3 regulates antibody production.",
+            "startOffset": 52939,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37409,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The C1q domain may be important for the binding to the receptor, although the receptor has not been identified yet, because the C1q domain of complement C1q and adiponectin, one of CTRP family members, is important for the recognition and binding to their receptors.",
+            "startOffset": 37143,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40596,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "We detected the deposition of C3b by rat monoclonal antibody against mouse C3 (Abcam, UK).",
+            "startOffset": 40506,
+            "title": "In vitro complement activation assay"
+        },
+        {
+            "endOffset": 51948,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "However, we detected no obvious skeletal abnormalities in C1qtnf3\u2212/\u2212 mice; they were fertile and were born in the expected Mendelian ratios without any obvious skeletal deformity.",
+            "startOffset": 51769,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40274,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 40273,
+                    "startOffset": 40266
+                },
+                "b0075": {
+                    "endOffset": 40273,
+                    "startOffset": 40266
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Plates (Nunc, Denmark) were coated with OVA/anti-OVA immune complex (OVA: Sigma, USA, and anti-OVA Ab: Millipore, Germany), 50 \u03bcg/ml mannans (Sigma, USA), or 200 \u03bcg/ml LPS (Sigma, USA) for the assay of complement activation of the classical pathway (CP), lectin pathway (LP) and alternative pathway (AP), respectively [14,15].",
+            "startOffset": 39948,
+            "title": "In vitro complement activation assay"
+        },
+        {
+            "endOffset": 45473,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We confirmed the augmentation of C1qtnf3 expression in the joints of RA models using qPCR techniques.",
+            "startOffset": 45372,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 43781,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Then cells were harvested with Micro 96 cell harvester (Skatron, Norway) and radioactivity was measured with Micro Beta (Pharmacia Biotech, USA).",
+            "startOffset": 43636,
+            "title": "IIC-specific lymph node (LN) cell response"
+        },
+        {
+            "endOffset": 44942,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Neutrophils were cultured with C5a (0, 0, 1 and 1 \u03bcg/ml) (R&D Systems, USA) for 1 h. Then, IL-1\u03b2 levels in the supernatants were measured by Mouse IL-1\u03b2 ELISA MAX\u2122 Standard (Biolegend, USA).",
+            "startOffset": 44752,
+            "title": "In vitro neutrophil activation"
+        },
+        {
+            "endOffset": 49193,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Next, we examined production of IIC-specific IgG in C1qtnf3\u2212/\u2212 mice at day 42 after IIC/CFA-immunization.",
+            "startOffset": 49088,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 49328,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "The results showed that IIC-specific IgG levels in sera from C1qtnf3\u2212/\u2212 mice were significantly higher than that of WT mice (Fig. 4E).",
+            "startOffset": 49194,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 49831,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Neutrophils from bone marrows were stimulated with C5a, and IL-1\u03b2 levels in the culture supernatants were measured by ELISA.",
+            "startOffset": 49707,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 52415,
+            "parents": [],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 52353,
+                    "startOffset": 52349
+                },
+                "b0110": {
+                    "endOffset": 52414,
+                    "startOffset": 52410
+                }
+            },
+            "secId": "s0100",
+            "sentence": "Involvement of CTRP family members in the regulation of the complement system is also suggested, because adiponectin is involved in the regulation of the complement CP by activating C1q [21] and of the AP in collaboration with complement factor H [22].",
+            "startOffset": 52163,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44616,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "B220+ cells were cultured with anti-mouse IgM F(ab)\u20192 fragment (0, 1, 5 and 10 \u03bcg/ml) (Jackson ImmunoResearch, USA) for 72 h, followed by incorporation of [3H] thymidine (0.25 \u03bcCi/ml) (Amersham, UK) for 6 h. Then, the radioactivity in harvested cells was measured.",
+            "startOffset": 44352,
+            "title": "In vitro B cell proliferation assay"
+        },
+        {
+            "endOffset": 38696,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The targeting vector was electroporated into ES cells and G418-resistant clones were selected (Nacalai Tesque, Japan).",
+            "startOffset": 38578,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 46854,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "These results suggested that CTRP3 suppresses the development of CIA.",
+            "startOffset": 46785,
+            "title": "C1qtnf3\u2212/\u2212 mice are susceptible to CIA"
+        },
+        {
+            "endOffset": 37768,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 37767,
+                    "startOffset": 37761
+                },
+                "b0050": {
+                    "endOffset": 37767,
+                    "startOffset": 37761
+                },
+                "b0055": {
+                    "endOffset": 37767,
+                    "startOffset": 37761
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Recently, it was reported that CTRP3 inhibits LPS-induced inflammatory cytokine production from human adipocytes, monocytes and fibroblasts [9\u201311].",
+            "startOffset": 37621,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46275,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "To assess the role of CTRP3 in the development of autoimmune arthritis, we next examined the development of CIA in C1qtnf3\u2212/\u2212 mice.",
+            "startOffset": 46144,
+            "title": "C1qtnf3\u2212/\u2212 mice are susceptible to CIA"
+        },
+        {
+            "endOffset": 45708,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Then, to elucidate the pathogenic roles of CTRP3 in the development of autoimmune arthritis, we have generated C1qtnf3\u2212/\u2212 mice.",
+            "startOffset": 45581,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 44184,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "IIC-specific IgG levels were measured in sera from mice on day 42 after IIC/CFA-immunization by ELISA using 20 \u03bcg/ml IIC-coated plates and alkaline phosphatase-conjugated polyclonal rabbit antibodies to mouse IgG (Zymed, USA).",
+            "startOffset": 43958,
+            "title": "IIC-specific antibody titration"
+        },
+        {
+            "endOffset": 47946,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "We cultured synoviocytes from joints, and after stimulation with IL-1\u03b1, IL-6 levels in the supernatants of the culture were measured by ELISA.",
+            "startOffset": 47804,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 38577,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "For the negative selection, a diphtheria toxin (DT) A gene under the MC1 promoter was ligated to the 3\u2032 end of the targeting vector.",
+            "startOffset": 38445,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 42743,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Cells were stimulated with IL-1\u03b1 (0, 1, 5 and 10 pg/ml) for 24 h in the absence or presence of 1 ng/ml human recombinant CTRP3 (Adipobioscience, USA).",
+            "startOffset": 42593,
+            "title": "Synoviocyte culture"
+        },
+        {
+            "endOffset": 37142,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 37141,
+                    "startOffset": 37138
+                }
+            },
+            "secId": "s0005",
+            "sentence": "CTRP3 belongs to a member of C1q/TNF-related protein (CTRP) family, having a crystal structure resembling TNF and complement C1q [7].",
+            "startOffset": 37009,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37620,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 37499,
+                    "startOffset": 37496
+                },
+                "b0040": {
+                    "endOffset": 37619,
+                    "startOffset": 37616
+                }
+            },
+            "secId": "s0005",
+            "sentence": "CTRP family members are involved in host defense, inflammation and glucose metabolism [7], and CTRP3 is identified as a growth factor, and promotes proliferation of chondrogenic precursors and chondrocytes [8].",
+            "startOffset": 37410,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 47131,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "We measured the levels of complement active product C3a and C5a in plasma at day 7 after IIC/CFA-immunization.",
+            "startOffset": 47021,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 42407,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "C3a and C5a levels in plasma were measured by ELISA with the capture antibody\u2013coated plates and detection antibodies against C3a or C5a (BD Pharmingen, USA), using 10 mM EDTA-chelated sera from female mice (8\u201310 weeks of age).",
+            "startOffset": 42181,
+            "title": "C3a and C5a titration"
+        },
+        {
+            "endOffset": 41352,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 41351,
+                    "startOffset": 41347
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Arthritis development in each paw was graded as follows: 0 = no change; 1 = mild swelling; 2 = obvious joint swelling; 3 = severe joint swelling and ankylotic changes [16].",
+            "startOffset": 41180,
+            "title": "Collagen-induced arthritis (CIA)"
+        },
+        {
+            "endOffset": 48121,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The result showed that IL-6 from synoviocyte of C1qtnf3\u2212/\u2212 mice was similar to that of WT mice, and exogenous CTRP3 did not suppress IL-6 release from synoviocytes (Fig. 3D).",
+            "startOffset": 47947,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 47625,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The result showed that cytokine production was enhanced in C1qtnf3\u2212/\u2212 mice than WT mice (Fig. 3D).",
+            "startOffset": 47527,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 50675,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "We found that antibody production against IIC was significantly increased in C1qtnf3\u2212/\u2212 mice after induction of CIA.",
+            "startOffset": 50559,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35877,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 35876,
+                    "startOffset": 35873
+                }
+            },
+            "secId": "s0005",
+            "sentence": "As high titers of autoantibodies are detected in the serum of RA patients, antibodies against B cells are also useful for the treatment of RA [3].",
+            "startOffset": 35731,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42592,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The primary synoviocytes were harvested from synovium of knee and ankle and were cultured in DMEM medium (Gibco) containing 10% FBS and 1% penicillin-streptomycin.",
+            "startOffset": 42429,
+            "title": "Synoviocyte culture"
+        },
+        {
+            "endOffset": 53249,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "Nonetheless, our observations clearly demonstrate that CTRP3 can alleviate the development of autoimmune arthritis, suggesting that CTRP3 is a possible candidate of the medicine for the treatment of RA and other autoimmune diseases.",
+            "startOffset": 53017,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41179,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "We judged the development of arthritis by macroscopic evaluation.",
+            "startOffset": 41114,
+            "title": "Collagen-induced arthritis (CIA)"
+        },
+        {
+            "endOffset": 36522,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Because multiple genes are implicated in the development of autoimmune diseases, we searched for novel disease-related genes using DNA microarray techniques.",
+            "startOffset": 36365,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49400,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Then, we examined the effect of CTRP3 on B cell proliferation in vitro.",
+            "startOffset": 49329,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 47348,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Furthermore, we found that CTRP3 deficiency did not influence complement activation in vitro (Fig. 3C).",
+            "startOffset": 47245,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 43924,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "IFN-\u03b3 levels in the culture supernatants from the proliferation assay after 72 h were measured with Mouse IFN-gamma DuoSet (R&D Systems, USA).",
+            "startOffset": 43782,
+            "title": "IIC-specific lymph node (LN) cell response"
+        },
+        {
+            "endOffset": 36118,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, because some patients are refractory to these treatments or become refractory during these treatments, the development of new therapeutics is still awaited.",
+            "startOffset": 35953,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43172,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "We purchased rat or hamster mAbs to mouse CD3 (145-2C11) and B220 (RA3-6B2) from Biolegend (USA) and CD11c (HL3) from BD Pharmingen (USA).",
+            "startOffset": 43034,
+            "title": "Flow cytometric analysis"
+        },
+        {
+            "endOffset": 37008,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "CTRP3 is a soluble secreted protein consisted of a short N-terminal variable region, collagen domain and C-terminal C1q domain.",
+            "startOffset": 36881,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36364,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 36363,
+                    "startOffset": 36358
+                },
+                "b0025": {
+                    "endOffset": 36363,
+                    "startOffset": 36358
+                }
+            },
+            "secId": "s0005",
+            "sentence": "We previously generated two RA models; one is human T-cell leukemia virus type I (HTLV-I) transgenic (Tg) mice and the other is IL-1 receptor antagonist (IL-1Ra) deficient (KO) mice, both of which spontaneously develop autoimmune arthritis [4,5].",
+            "startOffset": 36118,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 51676,
+            "parents": [],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 51675,
+                    "startOffset": 51672
+                }
+            },
+            "secId": "s0100",
+            "sentence": "CTRP3 is also implicated in chondrogenesis, because the proliferation of chondrogenic precursor cells and chondrocytes was enhanced by this protein in vitro [8].",
+            "startOffset": 51515,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 41113,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "On day 21, mice were given booster injections near the former injection sites with same amount of IIC/CFA intradermally.",
+            "startOffset": 40993,
+            "title": "Collagen-induced arthritis (CIA)"
+        },
+        {
+            "endOffset": 43348,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Cells were stained according to standard techniques, and analyzed by a FACS Canto II cytometer and either CellQuest (BectonDickinson, USA) or FlowJo software (Tree Star, USA).",
+            "startOffset": 43173,
+            "title": "Flow cytometric analysis"
+        },
+        {
+            "endOffset": 49581,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "However, the B cell proliferation induced by anti-IgM was comparable between C1qtnf3\u2212/\u2212 B cells and WT B cells, and exogenous CTRP3 did not suppress B cell proliferation (Fig. 4F).",
+            "startOffset": 49401,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 38821,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Homologous recombinant ES clones were screened by PCR and Southern blotting using primers and probes as indicated in Fig. 1.",
+            "startOffset": 38697,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 35952,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These approaches have significantly improved the efficacy of RA treatment.",
+            "startOffset": 35878,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50856,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "Because antibody production against IIC is crucial for the development of arthritis, this deficiency is suggested to be responsible for the suppression of CIA in these mutant mice.",
+            "startOffset": 50676,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 42157,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 42156,
+                    "startOffset": 42152
+                }
+            },
+            "secId": "s0030",
+            "sentence": "Arthritis index of the ankle joint was estimated from the average grade of talus and around bones including tibia and calcaneum of each mouse [16].",
+            "startOffset": 42010,
+            "title": "Histopathology"
+        },
+        {
+            "endOffset": 39909,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "All experiments were approved by the institutional animal use committees and were conducted according to the institutional ethical guidelines for animal experiments and safety guidelines for gene manipulation experiments.",
+            "startOffset": 39688,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 47803,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Because these cytokines are supported to be released from synoviocytes, we examined whether CTRP3 deficiency directly affected inflammatory cytokine production from these cells.",
+            "startOffset": 47626,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 42009,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Each joint was graded on a scale of 0\u20133, where 0 = normal, 1 = thickening and proliferation of the synovial lining, with slight inflammatory cell infiltration, 2 = grade 1 changes plus granulomatous lesions in the synovial sublining tissue, and 3 = grade 2 changes plus pannus formation and bone destruction.",
+            "startOffset": 41701,
+            "title": "Histopathology"
+        },
+        {
+            "endOffset": 51312,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "Furthermore, cytokine production after neutrophil activation with complement component C5a was normal, suggesting that neutrophils, one of high CTRP3 producers, are not responsible for the elevated inflammation in joints.",
+            "startOffset": 51091,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36734,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 36733,
+                    "startOffset": 36730
+                }
+            },
+            "secId": "s0005",
+            "sentence": "As a result of comprehensive gene expression analysis between RA models and wild-type (WT) mice, we identified 554 genes of which expression changed more than 3 times in both RA models compared with WT mice [6].",
+            "startOffset": 36523,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36881,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The C1qtnf3 gene, which encodes CTRP3 (also named CORS-26, cartducin and cartnectin), is one of such genes and is highly expressed in both models.",
+            "startOffset": 36735,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39359,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The lack of C1qtnf3 transcripts was confirmed by RT-PCR using the following PCR primers: 5\u2032-CTTCAGCATGTACAGCTATG-3\u2032 and 5\u2032-GTTGCCCATTCTTAGCCAGACT-3\u2032.",
+            "startOffset": 39210,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 44751,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Neutrophils were purified from bone marrow by anti-mouse Ly-6G microbeads (Miltenyi Biotec, Germany).",
+            "startOffset": 44650,
+            "title": "In vitro neutrophil activation"
+        },
+        {
+            "endOffset": 50011,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "The results showed that IL-1\u03b2 production from C1qtnf3\u2212/\u2212 neutrophils was similar to that of WT mice, and exogenous CTRP3 did not suppress IL-1\u03b2 release from neutrophils (Fig. 4F).",
+            "startOffset": 49832,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 41518,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Mice were sacrificed under ether anesthesia and ankle joints of hind limbs were removed, fixed, decalcified and paraffin embedded for histopathology.",
+            "startOffset": 41369,
+            "title": "Histopathology"
+        },
+        {
+            "endOffset": 42862,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "IL-6 levels in the culture supernatants after 24 h were measured with Mouse IL-6 ELISA MAX\u2122 Standard (BioLegend, USA).",
+            "startOffset": 42744,
+            "title": "Synoviocyte culture"
+        },
+        {
+            "endOffset": 48787,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Then, LN cells were harvested from mice at day 7 after IIC/CFA-immunization and the proliferative response against IIC was examined.",
+            "startOffset": 48655,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 35730,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 35729,
+                    "startOffset": 35724
+                },
+                "b0010": {
+                    "endOffset": 35729,
+                    "startOffset": 35724
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Inflammatory cytokines such as IL-1, IL-6, TNF-\u03b1, and IL-17 play important roles for the development of RA, and antibodies and inhibitors against these cytokines are successfully used for the treatment of RA [1,2].",
+            "startOffset": 35516,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45967,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We confirmed correct targeting of the C1qtnf3 locus and the lack of C1qtnf3 transcript (Fig. 1E and F).",
+            "startOffset": 45864,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 45371,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 45370,
+                    "startOffset": 45367
+                }
+            },
+            "secId": "s0080",
+            "sentence": "We previously identified C1qtnf3 as a candidate for autoimmune related gene based on the comprehensive gene expression analysis using DNA microarrays of two RA models; HTLV-I Tg mice and IL-1Ra KO mice [6].",
+            "startOffset": 45165,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 52162,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 52161,
+                    "startOffset": 52157
+                }
+            },
+            "secId": "s0100",
+            "sentence": "It is possible that the effects of CTRP3-deficiency are compensated by other CTRP family members, because other CTRP family members, such as adiponectin, are also involved in the regulation of chondrogenesis [20].",
+            "startOffset": 51949,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48464,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Infiltration of T cells and B cells into synovial lining and periarticular space is commonly observed in RA patients as well as RA models.",
+            "startOffset": 48326,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 47526,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Next, we examined the expression of inflammatory cytokines in the joints at day 42 after IIC/CFA-immunization.",
+            "startOffset": 47416,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 37991,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this study, we have generated C1qtnf3\u2212/\u2212 mice, and investigated the effect of CTRP3 deficiency on the development of autoimmune arthritis.",
+            "startOffset": 37850,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40992,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "CFA consisted of incomplete Freund\u2019s adjuvant (Thermo Scientific, USA) and 1.65 mg/ml heat-killed Mycobacterium tuberculosis (H37Ra; Difco, USA), and was injected intradermally at three sites near the base of the tail on day 0.",
+            "startOffset": 40765,
+            "title": "Collagen-induced arthritis (CIA)"
+        },
+        {
+            "endOffset": 41700,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The lesions, including the calcaneus bone and anterior and posterior synovial tissues of the ankle joints, were evaluated histopathologically.",
+            "startOffset": 41558,
+            "title": "Histopathology"
+        },
+        {
+            "endOffset": 39440,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "We used 8\u201310 week-old C57BL/6 background mice of the same sex in all experiments.",
+            "startOffset": 39359,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 46103,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "C1qtnf3\u2212/\u2212 mice were fertile, and were born in the expected Mendelian ratios, and showed no obvious abnormalities before 1 year of age.",
+            "startOffset": 45968,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 37849,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, the physiological roles of CTRP3 in vivo still remain to be elucidated.",
+            "startOffset": 37769,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38444,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The targeting vector was constructed by replacing a 170 bp genomic fragment containing the exon 4 of the C1qtnf3 gene, which encodes the C1q domain, with the 1.7 Kb DNA fragment containing neomycin resistance gene (Neor) under the PGK1 promoter which was flanked by the loxP sequences.",
+            "startOffset": 38159,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 39091,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The genotyping of C1qtnf3-deficient mice was carried out using the following PCR primers: primer 1, 5\u2032-GATGCAGAGCAATATCACACAG-3\u2032; primer 2, 5\u2032-GTTGATTCTTGCATCTCACCTG-3\u2032; primer 3, 5\u2032-GCTCGGTACCCATCAAGCTTAT-3\u2032.",
+            "startOffset": 38882,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 50558,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "We showed that the development of CIA was greatly exacerbated in C1qtnf3\u2212/\u2212 mice, suggesting a regulatory role for CTRP3 in the development of autoimmune arthritis.",
+            "startOffset": 50394,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43459,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "LN cells were harvested from mice at day 7 after IIC-immunization.",
+            "startOffset": 43393,
+            "title": "IIC-specific lymph node (LN) cell response"
+        },
+        {
+            "endOffset": 48264,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "These observations suggest that infiltrated immune cells in the joints are responsible for the suppression of inflammation in C1qtnf3\u2212/\u2212 mice.",
+            "startOffset": 48122,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 43635,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "LN cells were cultured in the absence or presence of 100 or 200 \u03bcg/ml denatured IIC for 72 h, followed by incorporation of [3H] thymidine (0.25 \u03bcCi/ml) (Amersham, UK) for 6 h.",
+            "startOffset": 43460,
+            "title": "IIC-specific lymph node (LN) cell response"
+        },
+        {
+            "endOffset": 51090,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "B cell intrinsic function was also normal, because B cell proliferative response was normal after stimulation with anti-IgM.",
+            "startOffset": 50966,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47020,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Because CTRP3 has C1q domain, we examined the possibility that CTRP3 is involved in the complement system.",
+            "startOffset": 46914,
+            "title": "Inflammation is enhanced in the joints of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 52750,
+            "parents": [],
+            "secId": "s0100",
+            "sentence": "Thus, probably excessive proliferation of T cells and B cells found in C1qtnf3\u2212/\u2212 mice may be responsible for the increased antibody production and exacerbation of arthritis in these mice.",
+            "startOffset": 52562,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51768,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 51767,
+                    "startOffset": 51763
+                }
+            },
+            "secId": "s0100",
+            "sentence": "The involvement in the development of mandibular condylar cartilage is also suggested [19].",
+            "startOffset": 51677,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38158,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 38157,
+                    "startOffset": 38153
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Table 1 Genomic DNA containing C1qtnf3 gene was isolated from EGR-101 ES cells derived from C57BL/6 embryos [12].",
+            "startOffset": 38045,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 39209,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Primer 1 and 2 were used to detect WT-allele (336 bp), and primer 1 and 3 were used to detect mutant-allele (195 bp).",
+            "startOffset": 39092,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 49088,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "These results suggest that T cell priming in C1qtnf3\u2212/\u2212 mice is normal.",
+            "startOffset": 49017,
+            "title": "IIC-specific B cell response is enhanced in C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 40401,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Serum was diluted with GVB++ buffer for the assay of the CP and LP activity and with GVB/Mg2+ EGTA buffer for the AP activity.",
+            "startOffset": 40275,
+            "title": "In vitro complement activation assay"
+        },
+        {
+            "endOffset": 45581,
+            "parents": [
+                {
+                    "id": "s0075",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We also found that the C1qtnf3 mRNA was expressed in neutrophils and dendritic cells (DCs) (Fig. 1A and B).",
+            "startOffset": 45474,
+            "title": "Generation of C1qtnf3\u2212/\u2212 mice"
+        },
+        {
+            "endOffset": 41557,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Serial sections were stained with H&E.",
+            "startOffset": 41519,
+            "title": "Histopathology"
+        },
+        {
+            "endOffset": 50393,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 50392,
+                    "startOffset": 50388
+                }
+            },
+            "secId": "s0100",
+            "sentence": "In this report, we have generated C1qtnf3\u2212/\u2212 mice and examined the development of CIA in these mice, because C1qtnf3 expression is highly enhanced in the joints of three RA models; HTLV-I Tg mice, Il1rn\u2212/\u2212 mice and K/BxN mice [18].",
+            "startOffset": 50162,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0006291X13019220",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Masanori A.",
+                "initial": "M.A.",
+                "last": "Murayama"
+            },
+            {
+                "email": null,
+                "first": "Shigeru",
+                "initial": "S.",
+                "last": "Kakuta"
+            },
+            {
+                "email": null,
+                "first": "Takumi",
+                "initial": "T.",
+                "last": "Maruhashi"
+            },
+            {
+                "email": null,
+                "first": "Kenji",
+                "initial": "K.",
+                "last": "Shimizu"
+            },
+            {
+                "email": null,
+                "first": "Akimasa",
+                "initial": "A.",
+                "last": "Seno"
+            },
+            {
+                "email": null,
+                "first": "Sachiko",
+                "initial": "S.",
+                "last": "Kubo"
+            },
+            {
+                "email": null,
+                "first": "Nozomi",
+                "initial": "N.",
+                "last": "Sato"
+            },
+            {
+                "email": null,
+                "first": "Shinobu",
+                "initial": "S.",
+                "last": "Saijo"
+            },
+            {
+                "email": null,
+                "first": "Masahira",
+                "initial": "M.",
+                "last": "Hattori"
+            },
+            {
+                "email": "iwakura@rs.tus.ac.jp",
+                "first": "Yoichiro",
+                "initial": "Y.",
+                "last": "Iwakura"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2013.11.040",
+        "firstpage": "42",
+        "issn": "0006291X",
+        "keywords": [
+            "CTRP3",
+            "Collagen-induced arthritis",
+            "Rheumatoid arthritis"
+        ],
+        "lastpage": "48",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "CTRP3 plays an important role in the development of collagen-induced arthritis in mice"
+    }
+}

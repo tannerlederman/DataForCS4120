@@ -1,0 +1,3696 @@
+{
+    "abstract": "Thermoacoustic heat engines convert thermal power into acoustic power with no-moving parts, while the latter can be converted to electricity using linear alternators. Such thermoacoustic electricity generators can be a means of providing inexpensive electricity to developing countries using the simplest fabrication approaches. This paper shows a detailed study of a prototype waste-heat-driven, two-stage, looped-tube, travelling-wave thermoacoustic electricity generator with a branched linear alternator and tuning stub for acoustic impedance matching purposes. The generator was modelled and designed using DeltaEC. To keep the costs down, the working medium was atmospheric air, many resonator components were made of PVC pipes and fittings, heat exchangers were made of automotive parts, while the linear alternator was a commercially available loudspeaker. The prototype generated 14.2 W of electrical power to a load of 9 \u03a9. The effects of matching stub length, variable resistive loads and heat inputs were investigated. The simulations and measurement results are presented and discussed in detail.",
+    "author_highlights": [
+        {
+            "endOffset": 21882,
+            "sentence": "Low-cost approach to thermoacoustic electricity generator for rural communities.",
+            "startOffset": 21802
+        },
+        {
+            "endOffset": 21962,
+            "sentence": "Numerical study of two-stage system with loudspeaker as linear alternator made.",
+            "startOffset": 21883
+        },
+        {
+            "endOffset": 22043,
+            "sentence": "Laboratory demonstrator producing ca. 14 W of electricity tested experimentally.",
+            "startOffset": 21963
+        },
+        {
+            "endOffset": 22124,
+            "sentence": "Demonstrated waste heat recovery from cooking activities through use of hot air.",
+            "startOffset": 22044
+        }
+    ],
+    "bib_entries": {
+        "b0005": null,
+        "b0010": null,
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Peter H.",
+                    "initial": "P.H.",
+                    "last": "Ceperley"
+                }
+            ],
+            "doi": "10.1121/1.383505",
+            "firstpage": "1508",
+            "issn": "00014966",
+            "lastpage": "1513",
+            "pub_year": 1979,
+            "title": "A pistonless Stirling engine\u2014The traveling wave heat engine",
+            "volume": "66"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Peter H.",
+                    "initial": "P.H.",
+                    "last": "Ceperley"
+                }
+            ],
+            "doi": "10.1121/1.392191",
+            "firstpage": "1239",
+            "issn": "00014966",
+            "lastpage": "1244",
+            "pub_year": 1985,
+            "title": "Gain and efficiency of a short traveling wave heat engine",
+            "volume": "77"
+        },
+        "b0025": null,
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Kees",
+                    "initial": "K.",
+                    "last": "De Blok"
+                }
+            ],
+            "doi": "10.1115/FEDSM-ICNMM2010-30527",
+            "firstpage": "73",
+            "issn": "08888116",
+            "lastpage": "79",
+            "pub_year": 2010,
+            "title": "Novel 4-stage traveling wave thermoacoustic power generator",
+            "volume": "2"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Nikolaus",
+                    "initial": "N.",
+                    "last": "Rott"
+                }
+            ],
+            "doi": "10.1007/BF01595562",
+            "firstpage": "230",
+            "issn": "00442275",
+            "lastpage": "243",
+            "pub_year": 1969,
+            "title": "Damped and thermally driven acoustic oscillations in wide and narrow tubes",
+            "volume": "20"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Nikolaus",
+                    "initial": "N.",
+                    "last": "Rott"
+                }
+            ],
+            "doi": "10.1007/BF01596277",
+            "firstpage": "43",
+            "issn": "00442275",
+            "lastpage": "49",
+            "pub_year": 1975,
+            "title": "Thermally driven acoustic oscillations, part III: Second-order heat flux",
+            "volume": "26"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "G. W.",
+                    "initial": "G.W.",
+                    "last": "Swift"
+                }
+            ],
+            "doi": "10.1121/1.403896",
+            "firstpage": "1551",
+            "issn": "00014966",
+            "lastpage": "1563",
+            "pub_year": 1992,
+            "title": "Analysis and performance of a large thermoacoustic engine",
+            "volume": "92"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yazaki"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Iwata"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Maekawa"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Tominaga"
+                }
+            ],
+            "doi": "10.1103/PhysRevLett.81.3128",
+            "firstpage": "3128",
+            "issn": "00319007",
+            "lastpage": "3131",
+            "pub_year": 1998,
+            "title": "Traveling wave thermoacoustic engine in a looped tube",
+            "volume": "81"
+        },
+        "b0055": null,
+        "b0060": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Backhaus"
+                },
+                {
+                    "first": "G. W.",
+                    "initial": "G.W.",
+                    "last": "Swift"
+                }
+            ],
+            "doi": "10.1121/1.429343",
+            "firstpage": "3148",
+            "issn": "00014966",
+            "lastpage": "3166",
+            "pub_year": 2000,
+            "title": "A thermoacoustic-stirling heat engine: Detailed study",
+            "volume": "107"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Zhang Hua",
+                    "initial": "Z.H.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Man",
+                    "initial": "M.",
+                    "last": "Man"
+                },
+                {
+                    "first": "Er Cang",
+                    "initial": "E.C.",
+                    "last": "Luo"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Yuan",
+                    "initial": "Y.",
+                    "last": "Zhou"
+                }
+            ],
+            "doi": "10.1007/s11434-011-4504-1",
+            "firstpage": "1975",
+            "issn": "10016538",
+            "lastpage": "1977",
+            "pub_year": 2011,
+            "title": "Experimental investigation of a 500 W traveling-wave thermoacoustic electricity generator",
+            "volume": "56"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Zhanghua",
+                    "initial": "Z.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Man",
+                    "initial": "M.",
+                    "last": "Man"
+                },
+                {
+                    "first": "Ercang",
+                    "initial": "E.",
+                    "last": "Luo"
+                }
+            ],
+            "doi": "10.1016/j.solener.2012.05.010",
+            "firstpage": "2376",
+            "issn": "0038092X",
+            "lastpage": "2382",
+            "pub_year": 2012,
+            "title": "A solar-powered traveling-wave thermoacoustic electricity generator",
+            "volume": "86"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Backhaus"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Tward"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Petach"
+                }
+            ],
+            "doi": "10.1063/1.1781739",
+            "firstpage": "1085",
+            "issn": "00036951",
+            "lastpage": "1087",
+            "pub_year": 2004,
+            "title": "Traveling-wave thermoacoustic electric generator",
+            "volume": "85"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Kees",
+                    "initial": "K.",
+                    "last": "De Blok"
+                }
+            ],
+            "firstpage": "1573",
+            "lastpage": "1580",
+            "pub_year": 2012,
+            "title": "Multi-stage traveling wave thermoacoustics in practice",
+            "volume": "2"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Zhanghua",
+                    "initial": "Z.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Guoyao",
+                    "initial": "G.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Limin",
+                    "initial": "L.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "Wei",
+                    "initial": "W.",
+                    "last": "Dai"
+                },
+                {
+                    "first": "Ercang",
+                    "initial": "E.",
+                    "last": "Luo"
+                }
+            ],
+            "doi": "10.1016/j.apenergy.2014.04.105",
+            "firstpage": "866",
+            "issn": "03062619",
+            "lastpage": "872",
+            "pub_year": 2014,
+            "title": "Development of a 3kW double-acting thermoacoustic Stirling electric generator",
+            "volume": "136"
+        },
+        "b0090": null,
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Huifang",
+                    "initial": "H.",
+                    "last": "Kang"
+                },
+                {
+                    "first": "Peng",
+                    "initial": "P.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Zhibin",
+                    "initial": "Z.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Hongfei",
+                    "initial": "H.",
+                    "last": "Zheng"
+                }
+            ],
+            "doi": "10.1016/j.apenergy.2014.09.090",
+            "firstpage": "9",
+            "issn": "03062619",
+            "lastpage": "17",
+            "pub_year": 2015,
+            "title": "A two-stage traveling-wave thermoacoustic electric generator with loudspeakers as alternators",
+            "volume": "137"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Zhibin",
+                    "initial": "Z.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Patcharin",
+                    "initial": "P.",
+                    "last": "Saechan"
+                },
+                {
+                    "first": "Artur J.",
+                    "initial": "A.J.",
+                    "last": "Jaworski"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2010.11.011",
+            "firstpage": "260",
+            "issn": "0003682X",
+            "lastpage": "267",
+            "pub_year": 2011,
+            "title": "A method of characterising performance of audio loudspeakers for linear alternator applications in low-cost thermoacoustic electricity generators",
+            "volume": "72"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Kalid O.A.",
+                    "initial": "K.O.A.",
+                    "last": "Abdoulla-Latiwish"
+                },
+                {
+                    "first": "Xiaoan",
+                    "initial": "X.",
+                    "last": "Mao"
+                },
+                {
+                    "first": "Artur J.",
+                    "initial": "A.J.",
+                    "last": "Jaworski"
+                }
+            ],
+            "doi": "10.1016/j.energy.2017.05.029",
+            "firstpage": "1107",
+            "issn": "03605442",
+            "lastpage": "1120",
+            "pub_year": 2017,
+            "title": "Thermoacoustic micro-electricity generator for rural dwellings in developing countries driven by waste heat from cooking activities",
+            "volume": "134"
+        },
+        "b0110": null,
+        "b0115": null,
+        "b0120": null,
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Andrew M.",
+                    "initial": "A.M.",
+                    "last": "Fusco"
+                },
+                {
+                    "first": "William C.",
+                    "initial": "W.C.",
+                    "last": "Ward"
+                },
+                {
+                    "first": "Gregory W.",
+                    "initial": "G.W.",
+                    "last": "Swift"
+                }
+            ],
+            "doi": "10.1121/1.403656",
+            "firstpage": "2229",
+            "issn": "00014966",
+            "lastpage": "2235",
+            "pmid": "1597611",
+            "pub_year": 1992,
+            "title": "Two-sensor power measurements in lossy ducts",
+            "volume": "91"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Z.",
+                    "initial": "Z.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "A. J.",
+                    "initial": "A.J.",
+                    "last": "Jaworski"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Backhaus"
+                }
+            ],
+            "doi": "10.1243/09576509JPE864",
+            "firstpage": "787",
+            "issn": "09576509",
+            "lastpage": "795",
+            "pub_year": 2010,
+            "title": "A low-cost electricity generator for rural areas using a travelling-wave looped-tube thermoacoustic engine",
+            "volume": "224"
+        },
+        "b0135": null,
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Zhibin",
+                    "initial": "Z.",
+                    "last": "Yu"
+                },
+                {
+                    "first": "Artur J.",
+                    "initial": "A.J.",
+                    "last": "Jaworski"
+                },
+                {
+                    "first": "Scott",
+                    "initial": "S.",
+                    "last": "Backhaus"
+                }
+            ],
+            "doi": "10.1016/j.apenergy.2012.04.046",
+            "firstpage": "135",
+            "issn": "03062619",
+            "lastpage": "145",
+            "pub_year": 2012,
+            "title": "Travelling-wave thermoacoustic electricity generator using an ultra-compliant alternator for utilization of low-grade thermal energy",
+            "volume": "99"
+        },
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Patcharin",
+                    "initial": "P.",
+                    "last": "Saechan"
+                },
+                {
+                    "first": "Artur J.",
+                    "initial": "A.J.",
+                    "last": "Jaworski"
+                }
+            ],
+            "doi": "10.1016/j.renene.2019.02.059",
+            "firstpage": "600",
+            "issn": "09601481",
+            "lastpage": "610",
+            "pub_year": 2019,
+            "title": "Numerical studies of co-axial travelling-wave thermoacoustic cooler powered by standing-wave thermoacoustic engine",
+            "volume": "139"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 29255,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The generator filled with helium at 18 bar could produces 204 W of electricity at a thermal-to-electric efficiency of 3.41%.",
+            "startOffset": 29131,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 34519,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Furthermore, the electric resistance connected to the alternator that dissipates the generated electric power is targeted by guessing the electric current in the alternator.",
+            "startOffset": 34346,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 68920,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The design includes two identical stages, a side-branched linear alternator (a commercially available loudspeaker) and an acoustic matching stub.",
+            "startOffset": 68775,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 33098,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The loop also includes a second branch for the impedance matching \u2013 \u201cStub 2\u201d.",
+            "startOffset": 33021,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 42703,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Similarly, P3 and P4 are placed in FBP 2 to measure the acoustic power flow between second and first stages and also to use P4 to estimate the drive ratio of the first stage.",
+            "startOffset": 42529,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 51112,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The remaining 57.3 W is fed into the cold end of REG 1.",
+            "startOffset": 51057,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 43682,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Six thermocouples to measure the heat flux absorbed by the HHXs were distributed along the hot air flow: two at the bottom of first stage, two at the top of first stage and two at the top of second stage.",
+            "startOffset": 43478,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 39727,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The HHXs have a shell-and-tube configuration and are connected to TBTs on one side and the rectangular channel containing REG and AHX on the other.",
+            "startOffset": 39580,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 69019,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The experimental work on the two-stage generator has been conducted, covering a number of aspects.",
+            "startOffset": 68921,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 29806,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This paper presents the design and experimental evaluation of an inexpensive two-stage thermoacoustic electric generator for remote rural communities in developing countries, which uses waste heat from daily cooking activities to produce small quantities of electricity.",
+            "startOffset": 29536,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 41072,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This does not apply to the actual AHXs and REGs as they are insulated in the simulation and well-insulated in reality, with a 50 mm thick ceramic fibre blanket as shown in the experimental set-up in Fig. 4.",
+            "startOffset": 40866,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 43215,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Type-K thermocouples (TC-Direct model 408-119) are distributed in the loop as shown in Fig. 3.",
+            "startOffset": 43121,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 53391,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The temperature distributions are measured in three points of a regenerator: both ends and in the middle.",
+            "startOffset": 53286,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 39821,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Fig. 5 shows the construction of the HHX as a \u201cbundle\u201d of 13 stainless steel flattened tubes.",
+            "startOffset": 39728,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 47225,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 6a shows the pressure amplitude distribution along the system.",
+            "startOffset": 47158,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 35435,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The solution of the linear equations is achieved when all targets and guesses are met.",
+            "startOffset": 35349,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 48414,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can also be seen that the volumetric velocity increases significantly more in the REG 1 than in the REG 2.",
+            "startOffset": 48305,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 66152,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "It is also seen from the graph that both measured and calculated results of the alternator efficiency fall onto a relatively flat horizontal line when plotting their dependence on the pressure drive ratio.",
+            "startOffset": 65947,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 68774,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The design, construction and experimental evaluation of a two-stage looped-tube travelling wave thermoacoustic electricity generator, driven by hot gases, has been presented and discussed.",
+            "startOffset": 68586,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 69906,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The results showed that the prototype could generate electrical power of 14.2 W to be consumed by a load resistance of 9 \u03a9 at a stub length of 1070 mm (experimental) and a heating temperature of the hot air gun of 550 \u00b0C (maximum value used).",
+            "startOffset": 69664,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 66839,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Fig. 10b shows a comparison between the calculated and measured effects of the drive ratio on the extracted acoustic power and produced electric power by the alternator.",
+            "startOffset": 66670,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 67011,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The graph clearly shows that both the calculated and measured results of the acoustic power extraction and electric power production increase as the drive ratio increases.",
+            "startOffset": 66840,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 23500,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 23499,
+                    "startOffset": 23496
+                }
+            },
+            "secId": "s0005",
+            "sentence": "More than 2 billion people in remote and rural areas of developing countries have no access to the national electricity grid [1].",
+            "startOffset": 23371,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 23612,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A large proportion of these people use biomass as fuel to cook their food, as well as for heating and lighting.",
+            "startOffset": 23501,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 69247,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "It was found that the acoustic streaming exists in the loop and it increases particularly with the increase of the stub lengths.",
+            "startOffset": 69119,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 47805,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 6b shows the distribution of volumetric velocity along the system.",
+            "startOffset": 47734,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 65266,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "It should be noted that for convenience of DeltaEC modelling it is possible to establish an experimental link between the heat input and the drive ratio measured at location P4.",
+            "startOffset": 65089,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 69663,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "These included the stub length, the load resistance and the heating power input.",
+            "startOffset": 69583,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 39499,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The regenerator length was 30 mm; the mesh layers were piled up into a stainless steel \u201ccasing\u201d with wall thickness of 2 mm.",
+            "startOffset": 39375,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 63960,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "As a result of the falling acoustic power extraction (Fig. 9b), the measured engine efficiency drops to 2.79% and the calculated efficiency falls slightly to 4.2% with increases of the load.",
+            "startOffset": 63770,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 36223,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "However, the AHXs, HHXs and the cross-sectional area of the thermoacoustic core including the regenerator (REG) are excluded from the optimisation because they are defined already by a premanufactured \u201ctwin\u201d HHX unit and available automotive matrices for AHX.",
+            "startOffset": 35964,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 40444,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Hot air flows around the outer surface of HHXs and is extracted via a ventilation hood; the working gas inside the thermoacoustic device oscillates inside the \u201cbundle\u201d.",
+            "startOffset": 40276,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 68040,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "It should be noted that the discrepancies between measured and calculated (usually overestimated) values are most likely an artefact of DeltaEC calculations where the simplistic heat transfer models do not allow to consider losses such as conduction losses along the duct.",
+            "startOffset": 67768,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 69479,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Although, the solution was achieved by the debugging process by placing a flexible membrane in the loop, a second type of streaming occurred in the regenerators which could be attributed to the uneven heat distribution in the HHXs.",
+            "startOffset": 69248,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 59080,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The impact of the stub length could be also seen in Fig. 8c where the calculated acoustic impedance values at the cold end of both regenerators are influenced by the change of the stub length and particularly at the first stage.",
+            "startOffset": 58852,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 47353,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The calculated pressure amplitude is denoted by the solid line, whereas the measured amplitude is represented by black squares.",
+            "startOffset": 47226,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 68409,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Therefore, a technique of enhancing heat transfer to the oscillating gas is required.",
+            "startOffset": 68324,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 37934,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The inset at the top of Fig. 3 shows the top view of the second stage.",
+            "startOffset": 37864,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 51487,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The remaining acoustic power is amplified in REG 2 to 70.2 W and other components of second stage (HHX 2 and TBT 2 and FBP 2) dissipate 10 W.",
+            "startOffset": 51346,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 54689,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In Fig. 7a and b, the streaming starts to increase temperatures in the centre of both REGs at short stub lengths.",
+            "startOffset": 54576,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 35160,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The working frequency of the system is assumed to be variable and it is controlled by the dimensions of the loop and the other parts of the system.",
+            "startOffset": 35013,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 35658,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The optimisation of dimensions of all components increases the predicted output of electricity.",
+            "startOffset": 35563,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 43325,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The temperature profiles in REGs are measured using three thermocouples (two at the ends, one in the middle).",
+            "startOffset": 43216,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 32935,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Fig. 2 shows the block diagram of the device used in further modelling.",
+            "startOffset": 32864,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 38158,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "As can be seen, the circular cross section of FBP meets a square aperture of a conical expansion section that in turn connects to a rectangular cross section \u201cchamber\u201d containing the thermoacoustic core (AHX, REG, and HHX).",
+            "startOffset": 37935,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 48304,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "As one of the design strategies, the viscous loss in the regenerator is reduced by introducing small volumetric velocity within the REGs.",
+            "startOffset": 48167,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 59457,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "From Fig. 8a and b, the performance of the alternator is critically influenced by the stub length.",
+            "startOffset": 59359,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 42847,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "All pressure sensors are PCB PIEZOTRONICS model 112A2 with resolution of 7 Pa and used with an ICP(R) sensor signal conditioner (Model 480B21).",
+            "startOffset": 42704,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 25642,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 25518,
+                    "startOffset": 25513
+                },
+                "b0040": {
+                    "endOffset": 25518,
+                    "startOffset": 25513
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The theoretical foundations of the operation of thermoacoustic devices have been derived by Rott [7,8] who used a linear theory to describe the interactions between sound wave and the porous medium with a temperature gradient.",
+            "startOffset": 25416,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 27091,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 27010,
+                    "startOffset": 27007
+                }
+            },
+            "secId": "s0005",
+            "sentence": "To eliminate acoustic streaming, an elastic membrane was installed next to the ambient heat exchanger [5] and two flow straighteners were placed on both sides of the thermal buffer tube.",
+            "startOffset": 26905,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 65835,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The calculations and measurements have a similar trend of a linear increase of the coil displacement.",
+            "startOffset": 65734,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 52203,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Moreover, the acoustic-to-electric efficiency is 51.9% (the alternator efficiency), and thermal-to-electric efficiency is 2.53% (the total efficiency of the generator).",
+            "startOffset": 52035,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 52785,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In this case, the acoustic streaming in the loop was observed.",
+            "startOffset": 52723,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 68323,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Regarding the practical HHX design, it appears that due to the spacing of 8 mm between the inner walls of the HHXs, a proportion of the heating power is lost by conduction and the heat transfer from the walls to the oscillating gas is generally poor.",
+            "startOffset": 68073,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 67425,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Fig. 10c shows the effect of the heat input on the relationship between the pressure ratio of the first stage on one hand and the engine and the overall efficiency on the other hand.",
+            "startOffset": 67243,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 39374,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Each REG was formed from 94 layers of rectangular stainless-steel mesh screens, with mesh number 34 and the wire diameter of 0.16 mm.",
+            "startOffset": 39241,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 61500,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The measured alternator efficiency increases gradually to reach 68.9% with the increase of the load resistance, while the calculated efficiency increases to 57.5% over the load range 1\u201312 \u03a9.",
+            "startOffset": 61310,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 33260,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 33210,
+                    "startOffset": 33206
+                }
+            },
+            "secId": "s0010",
+            "sentence": "In order to achieve the modelling of one wavelength travelling wave system with two branches using DeltaEC [22], a number of boundary conditions must be defined.",
+            "startOffset": 33099,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 38898,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The AHXs were fitted into the rectangular-shaped \u201cchambers\u201d.",
+            "startOffset": 38838,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 38534,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In what is to follow the main components of the generator will be described.",
+            "startOffset": 38458,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 47862,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "There are also two maxima and two minima along the loop.",
+            "startOffset": 47806,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 32317,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In the present work, a slight variation is proposed, namely using \u201cflattened tubes\u201d which provide high aspect ratio channels thus decreasing their hydraulic radius, in an attempt to increase the heat transfer area between the flue gas and oscillating gases inside the thermoacoustic loop, as well as to increase the porosity of the HHX.",
+            "startOffset": 31981,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 55826,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, it can be found that the acoustic streaming at short stub lengths is local streaming and it still exists in the REG even after installing the elastic membrane.",
+            "startOffset": 55658,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 47456,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "There are two maxima and two minima of pressure amplitude along the loop and two sharp pressure drops.",
+            "startOffset": 47354,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 60428,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "At the beginning the load resistance was set to 1 \u03a9 and it took around 9 min for the temperature to become stabilised.",
+            "startOffset": 60310,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 35562,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "At this point of the simulation, the level of the calculated electrical output is low due to the need of optimising the model.",
+            "startOffset": 35436,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 39026,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Each heat exchanger contains 13 flat tubes with vertical spacing of 8 mm and fin spacing of 1 mm with a core porosity of 63.3%.",
+            "startOffset": 38899,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 43952,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Data acquisition card OMEGA OMB-Daq Temp, Model 14, is used to record the pressure sensor and thermocouple signals.",
+            "startOffset": 43837,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 55575,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In Fig. 7c and d, the temperatures in the middle of both REGs start to rise at short stub length, while the temperature profiles are linear at longer stub lengths.",
+            "startOffset": 55412,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 27398,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "As a result, the engine could produce 710 W of acoustic power with a thermal-to-acoustic efficiency of 30%.",
+            "startOffset": 27291,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 69118,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Firstly, the encountered problem of the harmful acoustic streaming in the loop has been evaluated.",
+            "startOffset": 69020,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 48959,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Along all other parts, the volumetric velocity changes smoothly.",
+            "startOffset": 48895,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 69582,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Subsequently, a number of factors influencing the performance of the generator have been investigated.",
+            "startOffset": 69480,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 23946,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The small-scale electricity production could be sufficient to power LED lamps, mobile phone chargers, or laptops, thus improving the quality of life of rural communities.",
+            "startOffset": 23776,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 28569,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 28491,
+                    "startOffset": 28487
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Wu et al. [17] have proposed a three-stage looped-tube thermoacoustic electricity generator.",
+            "startOffset": 28477,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 51345,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The alternator extracts 26.9 W of acoustic power whereas the HHX 1, TBT 1, FBP 1 and AHX 2 dissipate 20.7 W.",
+            "startOffset": 51237,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 50964,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 6e shows the acoustic power flow along the system.",
+            "startOffset": 50909,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 58250,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "This may be due to the error in measuring the actual heating power input because of the heat leaks in the system.",
+            "startOffset": 58137,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 49923,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This is clear from Fig. 6c where \u201cStub 2\u201d counteracts the increase of the acoustic impedance caused by \u201cStub 1\u201d to match the acoustic impedance of the loop.",
+            "startOffset": 49767,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 60073,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Generator performance is investigated as a function of the load resistance.",
+            "startOffset": 59998,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 65089,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The flow rate of air provided by the compressor was set at 1965 l/min and the water flow rate was fixed at 1.2 l/min.",
+            "startOffset": 64972,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 48683,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be noted that there is a sudden decrease at (x = 0.88 m) where \u201cStub 1\u201d is located and a sudden increase at (x = 1.32 m) where \u201cStub 2\u201d is located.",
+            "startOffset": 48529,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 28477,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 28476,
+                    "startOffset": 28472
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The acoustic impedance should be high enough to overcome viscous dissipation by increasing the cross-sectional area of the regenerators compared to the FBPs [16].",
+            "startOffset": 28315,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 40585,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "TBTs are 358 mm long transition pieces between the rectangular cross section of the HHXs and the circular cross-section of the PVC resonator.",
+            "startOffset": 40444,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 61163,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "However, the difference between the measured and calculated results increases when the load is further increased.",
+            "startOffset": 61050,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 67551,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Both simulated and measured results show similar trends when the drive ratio increases (in response to increased heat input).",
+            "startOffset": 67426,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 29377,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "However, at this stage of the development, the prototypes described would not be feasible for application in rural areas.",
+            "startOffset": 29256,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 35823,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This is performed by increasing and decreasing the dimension of each component individually in order to find the optimal value that increases the electrical output.",
+            "startOffset": 35659,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 41608,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Here F is the loudspeaker resonance frequency, Bl is force factor, Le is electric inductance, Re is electric resistance, Mm is moving mass, Km is stiffness, Rm is the mechanical resistance, X is diaphragm displacement and Aalt is the effective area of the loudspeaker.",
+            "startOffset": 41340,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 67767,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Finally, at maximum drive ratio of 3.2%, the corresponding measured and calculated engine efficiencies are 4.3 and 4.7%, and the analogous measured and calculated overall efficiencies are 2.1 and 2.5%, respectively.",
+            "startOffset": 67552,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 44081,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "An in-house built LABVIEW programme is used to pre-process the data and calculate the phase difference between pressure signals.",
+            "startOffset": 43953,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 27744,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "At the mean pressure of 35.4 bar, the device could produce 451 W of electricity at maximum thermal-to-electric efficiency of 15%.",
+            "startOffset": 27615,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 53175,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In these experiments, the load resistance that is connected to the alternator is 8 \u03a9 and the heating temperature of the heat-gun was fixed to 530 \u00b0C at a fixed flow rate of air of 1935 l/min and a fixed flow rate of water at 1.2 l/min.",
+            "startOffset": 52940,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 52582,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The measurements in this section are divided into two parts.",
+            "startOffset": 52522,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 50450,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "There is clear change in acoustic phasing at the T-junctions of \u201cStub 1\u201d (drop from 36\u00b0 to 18\u00b0) and \u201cStub 2\u201d (rise from 18\u00b0 to 56\u00b0).",
+            "startOffset": 50318,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 58851,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Further increases of the stub length decrease the engine and overall efficiencies.",
+            "startOffset": 58769,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 60621,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 9 shows the effect of setting different levels of load resistance on the generator performance.",
+            "startOffset": 60521,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 41790,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "As shown in the photograph in Fig. 4, the loudspeaker is enclosed in a compliance volume connected to \u201cStub 1\u201d through a short 2-inch pipe section to improve the impedance matching.",
+            "startOffset": 41609,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 40167,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The ends of the flattened channels are inserted into two 8 mm thick stainless-steel plates and welded along the perimeter to form the HHX.",
+            "startOffset": 40029,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 43477,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "In each stage, one thermocouple is placed in the centre of the HHX to measure the gas temperature and one thermocouple is placed at the end of the TBT.",
+            "startOffset": 43326,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 49766,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 49765,
+                    "startOffset": 49761
+                }
+            },
+            "secId": "s0025",
+            "sentence": "The function of the matching stub is to improve the matching of acoustic impedance between the loop and the alternator as explained in [26].",
+            "startOffset": 49626,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 23991,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This is the motivation for current research.",
+            "startOffset": 23947,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 32469,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "It is perhaps worth commenting that in the current configuration the woven mesh screens used as regenerators (REG) would constitute a significant cost.",
+            "startOffset": 32318,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 53958,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, in Fig. 7c, the temperature of the hot side of REG 1 drops to 354 \u00b0C.",
+            "startOffset": 53880,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 28135,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 28075,
+                    "startOffset": 28071
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The looped-tube configuration is more efficient than the standing wave [10], while offering the same level of configuration simplicity.",
+            "startOffset": 28000,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 59787,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 59704,
+                    "startOffset": 59697
+                },
+                "b0140": {
+                    "endOffset": 59704,
+                    "startOffset": 59697
+                }
+            },
+            "secId": "s0030",
+            "sentence": "The benefits of the stub are the cancelations of the acoustic reflections caused by the alternator as well as the tuning of the acoustic phasing to the travelling wave mode and reduction of acoustic losses particularly in the regenerators [26,28] and this is also clearly seen in Fig. 6b\u2013d when the stub is at its optimal length.",
+            "startOffset": 59458,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 34654,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In addition, the phasing of the electric current of the alternator is guessed to target the phasing of the electric impedance at 180\u00b0.",
+            "startOffset": 34520,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 30822,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "There is only a limited choice of readily available linear alternators.",
+            "startOffset": 30751,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 24506,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Fig. 1a is a simplified schematic of the operation of a travelling-wave engine, where the thermal input through hot and ambient heat exchangers leads to establishing a sufficient thermal gradient in the porous medium (regenerator) to set up and subsequently amplify the travelling wave in the resonator.",
+            "startOffset": 24203,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 31550,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Other design choices, driven mainly by simplicity and cost of final systems include the ambient heat exchanger (AHX) and hot heat exchanger (HHX) configurations.",
+            "startOffset": 31389,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 53612,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Fig. 7a and b show the temperature gradient in REG 1 and REG 2 with the streaming present, whereas Fig. 7c and d display the temperature gradient after installing a flexible membrane in the loop (near AHX 1, cf. Fig. 3).",
+            "startOffset": 53392,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 25730,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Subsequently, many works focused on practical implementation of theoretical principles.",
+            "startOffset": 25643,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 56621,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In this case and because of differences in temperature gradient in the two REGs and the pressure amplitude between the two stages, it might be difficult to identify the nature of the streaming.",
+            "startOffset": 56428,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 57709,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Then a sudden fall in the measured electricity appears when the length is increased further from the optimal length.",
+            "startOffset": 57593,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 59997,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The alternator is connected to a variable load resistance which dissipates the extracted electric power (cf. a blue \u201cbox\u201d in Fig. 4 that sets a resistance value between 1 and 100 \u03a9).",
+            "startOffset": 59815,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 27614,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 27546,
+                    "startOffset": 27539
+                },
+                "b0070": {
+                    "endOffset": 27546,
+                    "startOffset": 27539
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Wu et al. [13,14] built and tested a torus type thermoacoustic electricity generator.",
+            "startOffset": 27529,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 26759,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Helium at 40 bar was used as working fluid.",
+            "startOffset": 26716,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 34793,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The working gas is air at atmospheric pressure.",
+            "startOffset": 34746,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 35012,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Furthermore, the solid temperatures of the AHXs are assumed to be fixed at 300 K which matches the average of the cooling water temperature, whereas the flue gas temperature at the HHXs is assumed to be fixed at 800 K.",
+            "startOffset": 34794,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 55411,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 55410,
+                    "startOffset": 55406
+                }
+            },
+            "secId": "s0030",
+            "sentence": "It is clear that the increase of the stub length reduces the phase difference between the acoustic pressure and acoustic velocity in the regenerators which helps to increase the heat-to-acoustic power conversion [27].",
+            "startOffset": 55194,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 56427,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "On the other hand, there is only one elastic membrane in the loop, and it was installed near AHX 1.",
+            "startOffset": 56328,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 64180,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "From Fig. 9b, it is clear that increasing the load will increase the overall efficiency.",
+            "startOffset": 64092,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 46351,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Results presented here include a mixture of modelling and experimental results and in particular look at the impact of acoustic streaming, the matching stub length, load resistance, and heat input on the performance of the generator.",
+            "startOffset": 46118,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 57228,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The optimal stub length is close to 1090 mm (experimentally identified as 1070, cf. Fig. 8a).",
+            "startOffset": 57135,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 24812,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The useful acoustic power produced by the engine can be extracted and converted into electricity by connecting to the loop (in series or branched) an acoustic-to-electric transducer (an alternator).",
+            "startOffset": 24614,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 56979,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The graph shows the calculated results as solid and dash lines while measured results are presented in black diamond and triangular symbols for the acoustic and electrical powers respectively.",
+            "startOffset": 56787,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 38273,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The HHXs of first and second stage are aligned above one another so that a common \u201cchimney\u201d duct connects the two.",
+            "startOffset": 38159,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 25416,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 25415,
+                    "startOffset": 25412
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In addition, they have the ability to utilize low temperature heat sources such as solar energy, waste heat from industrial processes, or hot flue gases from combustion activities [6].",
+            "startOffset": 25232,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 56162,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "This is due to the hot air provided by the heat-gun from the bottom in a vertical direction.",
+            "startOffset": 56070,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 54576,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "As seen in Fig. 7a and b, the streaming has a negative effect on the performance of the engine because a considerable fraction of heat to be transferred to the heat exchangers is taken away by non-zero mass flow rate which in turn will decrease heat-to-acoustic conversion.",
+            "startOffset": 54303,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 66413,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "There is a relatively good agreement between the simulation and the measurements.",
+            "startOffset": 66332,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 26715,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 26511,
+                    "startOffset": 26507
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Tijani et al. [11] designed and built a thermoacoustic Stirling engine where a short torus configuration is used for travelling wave energy conversion, while a standing wave side resonator controls the operating frequency.",
+            "startOffset": 26493,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 54827,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, at longer stub lengths, the acoustic streaming changes its direction where the temperature in the middle of REGs starts to drop.",
+            "startOffset": 54690,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 30751,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Here, an unavoidable downside would be a drop in thermodynamic performance (low efficiencies) as well as low power levels.",
+            "startOffset": 30629,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 46426,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Comparison between the simulations and experimental results are discussed.",
+            "startOffset": 46352,
+            "title": "Results and discussion"
+        },
+        {
+            "endOffset": 23775,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Thermoacoustic energy conversion processes can be used to recover some of the waste heat contained in flue gases to generate electricity as by-product of cooking.",
+            "startOffset": 23613,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 28779,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 28778,
+                    "startOffset": 28774
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Another three-stage generator was developed by Bi et al. [18].",
+            "startOffset": 28717,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 42101,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Five pressure sensors (microphones), marked as P1 to P5 in Fig. 3, have been installed in the rig.",
+            "startOffset": 42003,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 55657,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It is seen that the membrane stopped the Gedeon streaming completely in the loop.",
+            "startOffset": 55576,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 61640,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 61533,
+                    "startOffset": 61529
+                }
+            },
+            "secId": "s0035",
+            "sentence": "By referring to Eq. (14) in [20], the maximum acoustic-to-electric efficiency (the alternator efficiency) can be achieved when RL = 21.7 \u03a9.",
+            "startOffset": 61501,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 65946,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The increase of the measured pressure ratio to 3.2% causes a gradual rise in the coil displacement to 6.73 mm.",
+            "startOffset": 65836,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 28314,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 28207,
+                    "startOffset": 28203
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In addition, they lend themselves to multi-stage design approaches [16], which results in increased power, lower onset temperatures and reduced losses in the feedback pipe (FBP).",
+            "startOffset": 28136,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 64535,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "From the graph, the optimal load is 9 \u03a9 at which point the calculated efficiency is 2.5% and measured efficiency is 2%.",
+            "startOffset": 64416,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 60309,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Here, the stub length was fixed to the optimal length of 1090 mm and the heating temperature of the heat-gun was changed gradually from zero to 530 \u00b0C at a fixed flow rate of air of 1929 l/min and fixed flow rate of water of 1.2 l/min.",
+            "startOffset": 60074,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 64415,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Therefore, within increasing the load, the efficiency steadily improves as seen in Fig. 9c. However, when the load resistance reaches 9 \u03a9, both measured and calculated overall efficiencies reach their maximum values and start to fall.",
+            "startOffset": 64181,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 69960,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "The achieved thermal-to-electric efficiency was 2.1%.",
+            "startOffset": 69907,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 70097,
+            "parents": [],
+            "secId": "s0045",
+            "sentence": "Further work will look at increasing the electrical output and efficiency further by improving the heat transfer mechanisms within HHXs.",
+            "startOffset": 69961,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 29535,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "They rely on pressurised helium, which is generally not available, and which also makes costs of resonators and engine internal components unacceptably high.",
+            "startOffset": 29378,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 64709,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In this set of experiments, the goal was to investigate the effect of the heating power input to the HHXs on the performance of the generator.",
+            "startOffset": 64567,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 30431,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In particular, the use of atmospheric air as working medium would be especially desirable so that some parts of the resonator could be implemented in plastic tubing.",
+            "startOffset": 30266,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 43042,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "A laser displacement sensor (Keyence LK-G152), with stand-off distance of 150 mm and measuring range of \u00b140 mm, is installed at the back of the alternator to measure the stroke of the diaphragm.",
+            "startOffset": 42848,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 35963,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The main optimised parameters were the hydraulic radius, porosity and the length of the regenerator and the diameter and length of the FBP.",
+            "startOffset": 35824,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 39241,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Plastic tubing was used to feed cooling water through the AHXs.",
+            "startOffset": 39178,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 32668,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "It is possible that in the long run \u201crandom\u201d materials such as stainless-steel \u201cscourers\u201d could be used as regenerator material.",
+            "startOffset": 32540,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 51609,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "In this simulation, the alternator produces 13.9 W of electric power.",
+            "startOffset": 51540,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 26904,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The engine generated 190 W of acoustic power at a drive ratio of 7.1% and with an efficiency of 22.5% corresponding to 36% of Carnot efficiency.",
+            "startOffset": 26760,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 50018,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 6d shows the phase difference between pressure and velocity oscillations along the system.",
+            "startOffset": 49923,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 66575,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "At high pressure amplitudes, the actual coil of the alternator has high displacement and comes out of the magnetic gap which is not considered in the simulation.",
+            "startOffset": 66414,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 25034,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 25033,
+                    "startOffset": 25030
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Thermoacoustic technology is seen attractive because the devices use environmentally friendly working fluids: usually noble gases which are non-toxic, and non-flammable, and air can be used in inexpensive applications [5].",
+            "startOffset": 24812,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 39580,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The calculated porosity and hydraulic radius are 83.3% and 198 \u03bcm, respectively.",
+            "startOffset": 39500,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 42003,
+            "parents": [],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 42001,
+                    "startOffset": 41997
+                }
+            },
+            "secId": "s0015",
+            "sentence": "The 2-inch pipe is introduced to increase the acoustic impedance and reduce the acoustic dissipation (further details of a mixture of experiments and modelling leading to this configuration can be found in [24]).",
+            "startOffset": 41791,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 64971,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The heating temperature of the heat gun was changed gradually from zero to 530 \u00b0C.",
+            "startOffset": 64889,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 26129,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 26128,
+                    "startOffset": 26125
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In standing wave devices, the correct pressure-velocity phase is achieved through the imperfect thermal contact between the oscillating gas and solid boundaries which in turn leads to low conversion efficiency [4].",
+            "startOffset": 25915,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 57421,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, at further length increases the alternator stops extracting more acoustic power which falls rapidly to 19.9 W. Similar strong effect appears in electricity produced by the alternator.",
+            "startOffset": 57229,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 58555,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In addition, the limited displacement of the diaphragm in the experiments can obviously impact the agreement between the measured and calculated overall efficiency at the optimal length of the stub where the acoustic velocity amplitudes are high, and the alternator coil vibrates out of the magnetic gap.",
+            "startOffset": 58251,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 30628,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "In addition, low pressures put less stringent demands on sizes of pores in heat exchangers and regenerators; the use of relatively low frequencies would further relax such dimensional limitations.",
+            "startOffset": 30432,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 53285,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The effect of different lengths of \u201cStub 2\u201d on the temperature profile along both REGs is presented in Fig. 7.",
+            "startOffset": 53175,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 65733,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Fig. 10a shows a comparison between the simulation and the measurements related to the effect of the pressure ratio of stage 1 (|P4|/|Pm|) on the coil displacement and the efficiency of the alternator.",
+            "startOffset": 65532,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 50652,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The reason is that there is more acoustic power transferring into \u201cStub 1\u201d where the alternator is located than \u201cStub 2\u201d.",
+            "startOffset": 50531,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 26492,
+            "parents": [],
+            "refoffsets": {
+                "b0050": {
+                    "endOffset": 26491,
+                    "startOffset": 26487
+                }
+            },
+            "secId": "s0005",
+            "sentence": "However, the low acoustic impedance of the oscillating media in such engine can reduce the thermal-to-acoustic efficiency due to high viscous dissipation [10].",
+            "startOffset": 26333,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 39177,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Gaps between the casings and the AHXs were filled with high temperature silicone sealant to force the flow through the aperture of the heat exchanger.",
+            "startOffset": 39027,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 60520,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "This procedure was repeated for load resistance between 1 and 12 \u03a9 with an interval of 1 \u03a9.",
+            "startOffset": 60429,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 24202,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 24201,
+                    "startOffset": 24198
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Thermoacoustic effects rely on heat transfer interactions between gas experiencing acoustic excitation and porous medium with a temperature gradient imposed in the direction of the acoustic wave propagation [2].",
+            "startOffset": 23991,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 49077,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be seen that the acoustic impedance is highest at REG 2.",
+            "startOffset": 49014,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 52939,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In the second part, the membrane was placed in the loop (cf. Fig. 3) to suppress the acoustic streaming and the effects of the stub length were observed.",
+            "startOffset": 52786,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 47734,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "As P2 and P4 were targeted in the simulation, they are in very good agreement with measured values.",
+            "startOffset": 47635,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 57991,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Fig. 8b presents the influence of the stub length on the engine efficiency (the ratio of the extracted acoustic power to total heat input) and the overall efficiency (the ratio of the produced electric power to total heat input) of the prototype for both simulation and experiments.",
+            "startOffset": 57709,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 58136,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "From the graph, the optimal stub lengths corresponding to the maximum efficiencies for the measurements and calculations are slightly different.",
+            "startOffset": 57992,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 68575,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This could be done by adding more tortuous and/or vortex inducing pathways for fluid elements, for instance by introducing spring-like inserts into the HHX channels.",
+            "startOffset": 68410,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 50317,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The phasing in REG 2 appears more preferable due to near-zero phasing at the centre, which is one of the design strategies.",
+            "startOffset": 50194,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 26332,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 26331,
+                    "startOffset": 26326
+                },
+                "b0015": {
+                    "endOffset": 26331,
+                    "startOffset": 26326
+                }
+            },
+            "secId": "s0005",
+            "sentence": "On the other hand, in travelling wave devices, the thermal contact between the oscillating gas and regenerative porous medium is perfect and a thermodynamic cycle is similar to the Stirling-cycle [2,3].",
+            "startOffset": 26130,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 38362,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Below the HHX of first stage, there is a hot air gun to mimic the combustion flue gases.",
+            "startOffset": 38274,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 36346,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "When the extracted electric power is at maximum, the optimisation is completed, and the optimal dimensions are considered.",
+            "startOffset": 36224,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 43121,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The sampling frequency was 50 kHz, and the displacement resolution was 0.5 \u03bcm.",
+            "startOffset": 43043,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 43836,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Similarly, thermocouples were used to measure the inlet and outlet cooling water temperature in order to estimate heat rejected in the AHX of each stage.",
+            "startOffset": 43683,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 55052,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 55051,
+                    "startOffset": 55047
+                }
+            },
+            "secId": "s0030",
+            "sentence": "It is clear that the acoustic streaming exists in the loop even at short stub lengths and this is due to the sharp cross-sectional area changes between the thermoacoustic cores and the FBPs that causes flow separations [27].",
+            "startOffset": 54828,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 28716,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Using helium pressurised to 50 bar, the generator produced a maximum electric power of 1.57 kW at maximum thermal-to-electric efficiency of 16.8%.",
+            "startOffset": 28570,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 66670,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As a result, the acoustic-to-electric efficiency drops to 48.5% at a coil displacement 6.7 mm.",
+            "startOffset": 66576,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 50530,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The phasing at \u201cStub 1\u201d is closer to the travelling wave mode than at \u201cStub 2\u201d.",
+            "startOffset": 50451,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 56327,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The regenerator streaming might be attributed to this as the viscosity and the displacement of the oscillating gas varies with the varying temperature distribution.",
+            "startOffset": 56163,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 57592,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "There is a sharp increase in the measured electric power to reach its peak value at 13.8 W, while the calculated electricity jumps to 14.55 W, when the length is optimum.",
+            "startOffset": 57422,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 59359,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It is also noticed that the difference between the acoustic impedances is relatively small when the length of the stub is optimal.",
+            "startOffset": 59229,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 32539,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This choice was made for practical reasons of laboratory experiments.",
+            "startOffset": 32470,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 60773,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 9a shows the calculated and measured effects of increasing the electrical resistance on the coil displacement and the efficiency of the alternator.",
+            "startOffset": 60621,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 28997,
+            "parents": [],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 28996,
+                    "startOffset": 28992
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A two-stage electricity generator has been recently proposed by Kang et al. [19].",
+            "startOffset": 28916,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 33020,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The loudspeaker is located in a branched tube (\u201cStub 1\u201d) just after the first stage.",
+            "startOffset": 32936,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 40719,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "TBTs are defined in the simulations as well-insulated, and any heat rejection is only through a \u201cdummy\u201d secondary AHX of 1 mm length.",
+            "startOffset": 40586,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 48166,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "One minimum of the volumetric velocity is at the cold end of REG 1, while the other is located at the cold side of REG 2.",
+            "startOffset": 48045,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 31104,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 31103,
+                    "startOffset": 31099
+                }
+            },
+            "secId": "s0010",
+            "sentence": "These include commercial products based on various flexure bearing suspension designs, which offer outstanding acoustic-to-electric efficiencies in the 80\u201390% range, but which are also too expensive for this application \u2013 with their prices exceeding $5,000 per 100\u2013200 W unit [20].",
+            "startOffset": 30823,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 49349,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The impedance drops quickly because the pressure amplitude decreases while the volumetric velocity increases sharply from the cold to the hot end for both regenerators.",
+            "startOffset": 49181,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 55924,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The temperature profiles of the HHX and the hot side of the REG of both stages are not identical.",
+            "startOffset": 55827,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 52034,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This is represented as the acoustic power extracted by the alternator to the total heating power input.",
+            "startOffset": 51931,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 52521,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "After the prototype of the two-stage generator has been constructed, the first measurements have been conducted to evaluate the effects of the matching stub on the performance of the prototype and also to find the optimal length of the matching stub.",
+            "startOffset": 52271,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 49013,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Fig. 6c shows the acoustic impedance along the system.",
+            "startOffset": 48959,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 38837,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The AHXs were made of car heater matrices of a Land Rover Freelander (1997 model) made out of aluminium alloy, with the effective heat exchanger dimensions 230 mm by 120 mm (aperture) and 49 mm depth (the overall dimensions are 280 mm by 125 mm by 60 mm including the casing and water hose connections).",
+            "startOffset": 38534,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 27185,
+            "parents": [],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 27115,
+                    "startOffset": 27111
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Backhaus and Swift [12] conducted a detailed study of a torus thermoacoustic Stirling engine.",
+            "startOffset": 27092,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 28915,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Using helium pressurised to 60 bar, their generator was capable of producing 3.46 kW of electricity at the overall efficiency of 18.4%.",
+            "startOffset": 28780,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 31205,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Piezoelectric units, on the other hand, although very cheap, also suffer from very low efficiencies.",
+            "startOffset": 31105,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 51056,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be found that 60.2 W of acoustic power is fed into the AHX 1 which dissipates 2.9 W.",
+            "startOffset": 50965,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 53879,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "As the length of \u201cStub 2\u201d increases, the temperature of the hot side of REG 1 falls to 318 \u00b0C when streaming is present (Fig. 7a).",
+            "startOffset": 53749,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 42528,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 42460,
+                    "startOffset": 42456
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Sensors P1 and P2 are placed in FBP 1 with a distance of 700 mm to measure the acoustic power flow between first and second stages, using two-microphone method [25] and also to use P2 to estimate the drive ratio of the second stage.",
+            "startOffset": 42296,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 57134,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "As the stub length increases to 1090 mm, the measured extraction of the acoustic power rises to 25.6 W while the calculated extraction improves to 28.1 W.",
+            "startOffset": 56980,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 27290,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This design was able to reduce viscous losses by increasing the acoustic impedance near the regenerator.",
+            "startOffset": 27186,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 41175,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The FBPs are made of standard 5-inch PVC pipe sections, T-connections and 90\u00b0 elbows as seen in Fig. 4.",
+            "startOffset": 41072,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 49451,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "At \u201cStub 1\u201d, there is a sudden rise whereas at \u201cStub 2\u201d there is a sudden fall in acoustic impedance.",
+            "startOffset": 49350,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 49625,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This is because the volumetric velocity has been shunted from the loop to \u201cStub 1\u201d and from \u201cStub 2\u201d to the loop, while the pressure amplitude at both junctions is constant.",
+            "startOffset": 49452,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 58768,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "From the graph, a clear growth can be seen in the engine efficiency when the length of the stub rises while the measured overall efficiency goes up sharply to reach its peak value of 2.1%, at a length of 1020 mm.",
+            "startOffset": 58556,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 51540,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The rest is fed again into AHX 1 at the first stage.",
+            "startOffset": 51488,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 32863,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "The two-stage electricity generator discussed in this paper includes two identical thermoacoustic cores that produce acoustic power delivered to one acoustic-to-electric transducer (loudspeaker).",
+            "startOffset": 32668,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 25823,
+            "parents": [],
+            "refoffsets": {
+                "b0045": {
+                    "endOffset": 25740,
+                    "startOffset": 25737
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Swift [9] tested a standing wave engine which contained helium at 1.38 MPa as working fluid.",
+            "startOffset": 25731,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 51930,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "However, the calculated thermal-to-acoustic efficiency of the entire generator is 4.87%.",
+            "startOffset": 51842,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 61049,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The displacement and the efficiency are proportional to load resistance and both the measured and calculated results have a similar trend; there is a particularly good agreement between the calculated and the experimental results for the coil displacement at loads 1 and 2 \u03a9.",
+            "startOffset": 60774,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 66331,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "At the optimal load resistance, the calculated results have a fixed value of 54% while the measurements fluctuate between 59.2 and 55.4% along the increase of the pressure ratio.",
+            "startOffset": 66153,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 54302,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It is clear that the acoustic streaming takes place when no membrane is present and (in contrast to the case when the membrane is installed) it causes the temperatures of the hot ends of both REGs to drop for longer \u201cStub 2\u201d lengths.",
+            "startOffset": 54069,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 65532,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Therefore, the graphs discussed below have the horizontal axis of (|P4|/|Pm|) in lieu of heat input values for convenience of simulation targets.",
+            "startOffset": 65387,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 40275,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "This allows for the effective HHX length of 104 mm; the porosity is 40% and the hydraulic radius is 4.3 mm.",
+            "startOffset": 40168,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 51693,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The heating power input into HHX 1 and HHX 2 are 405.6 W and 146.1 W, respectively.",
+            "startOffset": 51610,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 52722,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The first part investigates the effect of the stub length on the generator performance when the elastic membrane is not placed in the loop.",
+            "startOffset": 52583,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 59228,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It is clearly seen that the increase of the stub length will sharply decrease the acoustic impedance to reach steady values at higher stub lengths.",
+            "startOffset": 59081,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 40028,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "These were originally 80 mm O/D, 1 mm wall thickness, tubes which have been formed into \u201cchannels\u201d of 10 mm width, 120 mm height, and with the radius of both curved ends of 5 mm, and total length of 120 mm.",
+            "startOffset": 39822,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 48528,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This is due to the temperature gradient along the REG 1 being sharper than the temperature gradient in the REG 2.",
+            "startOffset": 48415,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 54068,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In REG 2, the temperature of the hot end drops to 241.2 \u00b0C in Fig. 7b, whereas it falls to 291 \u00b0C in Fig. 7d.",
+            "startOffset": 53959,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 47571,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Both REGs are located near the maxima of pressure amplitude and their flow resistance causes clear pressure drops.",
+            "startOffset": 47457,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 56786,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The calculated and measured relationships between the stub length and the acoustic power absorbed and the electric power produced by the ALT are compared in Fig. 8a.",
+            "startOffset": 56621,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 61309,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 61289,
+                    "startOffset": 61285
+                },
+                "b0120": {
+                    "endOffset": 61209,
+                    "startOffset": 61205
+                }
+            },
+            "secId": "s0035",
+            "sentence": "These effects are discussed in detail in [24] based on the fundamental loudspeaker equations \u2013 cf. Eqs. (14) and (15) in [20], not repeated here.",
+            "startOffset": 61164,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 29130,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The novel design includes two loudspeakers; one is branched while the other inserted in the loop to suppress any acoustic streaming.",
+            "startOffset": 28998,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 36759,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Similarly, a compromise between porosity and hydraulic radius needs to be found for the stainless-steel mesh screens.",
+            "startOffset": 36642,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 41220,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The lengths of the two FBPs are 2.36 m each.",
+            "startOffset": 41176,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 61751,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Unfortunately, the load cannot be adjusted to this value due to the limitation of the alternator displacement.",
+            "startOffset": 61641,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 65386,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0095": {
+                    "endOffset": 65385,
+                    "startOffset": 65381
+                },
+                "b0120": {
+                    "endOffset": 65298,
+                    "startOffset": 65294
+                }
+            },
+            "secId": "s0040",
+            "sentence": "The detail is explained in [24] (with reference to Fig. 4.72b) and this follows a similar practice established in [19].",
+            "startOffset": 65267,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 24613,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 24612,
+                    "startOffset": 24607
+                },
+                "b0020": {
+                    "endOffset": 24612,
+                    "startOffset": 24607
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Fig. 1b shows some detail of heat transfer interactions on the level of an individual fluid element [3,4].",
+            "startOffset": 24507,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 31981,
+            "parents": [],
+            "refoffsets": {
+                "b0105": {
+                    "endOffset": 31755,
+                    "startOffset": 31751
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Abdoulla et al. [21] have already shown a viable HHX design (essentially a welded \u201cbundle of tubes\u201d) to capture waste heat from cooking activities that can be manufactured by simple \u201cblacksmithing\u201d methods, based on standard stainless pipe sizes.",
+            "startOffset": 31735,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 51236,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Within REG 1, the acoustic power is amplified to 104.9 W which is the level of acoustic power flowing out from the hot end.",
+            "startOffset": 51113,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 42296,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Sensors P1 to P4 are distributed in the loop to measure the amplitude and phase of pressure oscillations within the loop, while P5 is placed near the end of \u201cStub 1\u201d in front of the loudspeaker.",
+            "startOffset": 42102,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 36525,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Of course, some of the optimal parameter values cannot be utilised in the system due to fabrication limitations as well as the standard sizes of materials available on the market.",
+            "startOffset": 36346,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 55193,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Nevertheless, the streaming rate is higher and increases as the acoustic pressure amplitudes increase with the increase of the stub lengths.",
+            "startOffset": 55053,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 27528,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Adding a linear alternator to the thermoacoustic engine enables converting the produced acoustic power into useful electric power.",
+            "startOffset": 27398,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 63769,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Fig. 9c shows the effect of the load on the efficiencies of the engine and generator.",
+            "startOffset": 63684,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 64091,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "There is a relatively good agreement between calculations and measurements at small loads and a clear discrepancy at higher loads.",
+            "startOffset": 63961,
+            "title": "Effect of load resistance"
+        },
+        {
+            "endOffset": 51841,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "As a result, the calculated thermal-to-acoustic efficiency of the first and second stages (calculated separately) is 11.6% and 8.85%, respectively.",
+            "startOffset": 51694,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 38457,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "The setup provides variable heating power, temperature and flow rate which is described later.",
+            "startOffset": 38363,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 50774,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Therefore, the travelling wave ratio, on which the acoustic power transfer relies in \u201cStub 1\u201d is better than in \u201cStub 2\u201d.",
+            "startOffset": 50653,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 30265,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "It is clear from the above discussion that the design approaches for rural communities of developing countries would need to take into account the simplicity of construction and costs of components and working media.",
+            "startOffset": 30049,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 34746,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This is to ensure that the load is entirely resistive and can dissipate all electric power.",
+            "startOffset": 34655,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 31734,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "Some suitable AHX options include off-the-shelf automotive heater matrices, which allow high porosity and high surface area per unit volume to be obtained for effective heat transfer.",
+            "startOffset": 31551,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 36641,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "For example, standard PVC pipes have specific sizes and it is necessary to select the closest available dimensions.",
+            "startOffset": 36526,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 41339,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "Table 2 lists the properties of the loudspeaker used here as the linear alternator (8-inch B&C sub-woofer type 8BG51).",
+            "startOffset": 41221,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 53748,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Comparing the temperature distribution in REG 1 before and after introducing the membrane (Fig. 7a and c), there is a clear difference.",
+            "startOffset": 53613,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 30019,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The idea behind the two-stage configuration is to enable a better heat recovery as the flue gasses are gradually cooled down over two stages that are thus exposed to smaller transverse temperature gradients each.",
+            "startOffset": 29807,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 35348,
+            "parents": [],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 35347,
+                    "startOffset": 35343
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The solution of thermoacoustic linear equations with the above boundary conditions is carried out using the shooting method in order to meet the guessed parameters with their targets [23].",
+            "startOffset": 35160,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 27999,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 27998,
+                    "startOffset": 27994
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Although, the torus-type travelling wave engines can be used to generate electricity with relatively high efficiencies, their configurations are quite complex, while their acoustic resonance is affected by the mechanical resonance of the alternator [15].",
+            "startOffset": 27745,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 67243,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The increase of drive ratio to 3.2%, increases the measured extraction of the acoustic power to the maximum value of 29.27 W and electric power to 14.2 W. Generally, the calculated results agree very well with the measured results.",
+            "startOffset": 67012,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 68073,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 68072,
+                    "startOffset": 68068
+                }
+            },
+            "secId": "s0040",
+            "sentence": "This has been discussed in [29].",
+            "startOffset": 68041,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 40865,
+            "parents": [],
+            "secId": "s0015",
+            "sentence": "However, in the experimental apparatus, the TBTs are not thermally insulated and there are no secondary AHXs; they are cooled by the ambient air.",
+            "startOffset": 40720,
+            "title": "Experimental apparatus"
+        },
+        {
+            "endOffset": 48044,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "One maximum is located in the FBP 1, about 530 mm away from the T-junction of \u201cStub 2\u201d, and the other is located in the FBP 2 where the minimum of the pressure amplitude is located.",
+            "startOffset": 47863,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 50193,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Phase differences of both REGs are close to travelling-wave.",
+            "startOffset": 50133,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 48894,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The first reduction in the volumetric velocity is due to shifting some volume into the alternator branch while the sudden increase is due to compensating the reduction by volume, available in the matching stub.",
+            "startOffset": 48684,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 50909,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Furthermore, increasing the length of \u201cStub 2\u201d tunes the acoustic impedance at the cold side of both REGs to the travelling wave mode.",
+            "startOffset": 50775,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 56069,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The temperature distributions decrease along the vertical axis (from the bottom to the top of REGs and HHXs) and vary along the horizontal axis.",
+            "startOffset": 55925,
+            "title": "Effects of acoustic streaming and the length of the matching stub"
+        },
+        {
+            "endOffset": 31389,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 31388,
+                    "startOffset": 31381
+                },
+                "b0105": {
+                    "endOffset": 31388,
+                    "startOffset": 31381
+                }
+            },
+            "secId": "s0010",
+            "sentence": "As a cost vs. performance compromise, commercial loudspeakers seem a viable option, with costs of tens of US dollars and acoustic-to-electric efficiencies in the 40\u201350% range [20,21].",
+            "startOffset": 31206,
+            "title": "Design strategy and modelling"
+        },
+        {
+            "endOffset": 49180,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "This is due to the low volumetric velocity caused by the lower temperature gradient compared to REG 1.",
+            "startOffset": 49078,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 64888,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "During these experiments, the stub length was fixed to the optimal length of 1090 mm and load resistance was fixed to the optimal value of 9 \u03a9 (as given in the previous section).",
+            "startOffset": 64710,
+            "title": "Effect of heating power input"
+        },
+        {
+            "endOffset": 25231,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "They have no moving parts in the thermodynamic part of the energy conversion process, which reduces potential maintenance costs, and use non-lubricated alternators for electrical power extraction.",
+            "startOffset": 25035,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 50132,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "It can be seen that REG 1 works in the region of (5\u00b0 < \u03d5 < 21\u00b0) whereas REG 2 works in the region (11\u00b0 < \u03d5 < 6\u00b0).",
+            "startOffset": 50019,
+            "title": "Distribution of acoustic field in the loop"
+        },
+        {
+            "endOffset": 25914,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "At thermal-to-acoustic efficiency of 9%, the device could produce acoustic power of 630 W.",
+            "startOffset": 25824,
+            "title": "Introduction and background"
+        },
+        {
+            "endOffset": 47634,
+            "parents": [
+                {
+                    "id": "s0020",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The pressure amplitude changes smoothly along all other parts.",
+            "startOffset": 47572,
+            "title": "Distribution of acoustic field in the loop"
+        }
+    ],
+    "docId": "S0003682X18308545",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Kalid O.A.",
+                "initial": "K.O.A.",
+                "last": "Abdoulla-Latiwish"
+            },
+            {
+                "email": "a.jaworski@hud.ac.uk",
+                "first": "Artur J.",
+                "initial": "A.J.",
+                "last": "Jaworski"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2019.03.010",
+        "firstpage": "87",
+        "issn": "0003682X",
+        "keywords": [
+            "Developing countries",
+            "Electricity generator",
+            "Low cost",
+            "Thermoacoustic engine",
+            "Travelling wave",
+            "Two-stage"
+        ],
+        "lastpage": "98",
+        "openaccess": "Full",
+        "pub_year": 2019,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Two-stage travelling-wave thermoacoustic electricity generator for rural areas of developing countries"
+    }
+}

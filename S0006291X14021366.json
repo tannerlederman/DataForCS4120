@@ -1,0 +1,1507 @@
+{
+    "abstract": "CRACR2A protein is described in T cells as an EF-hand-containing modulator of calcium-release-activated calcium (CRAC) channels. Here we sought relevance to calcium entry of endothelial cells. Unexpectedly, short interfering RNA designed to deplete CRACR2A had no effect on CRAC channels in endothelial cells but reduced the abundance of a protein with about twice the mass of CRACR2A. Reference to gene sequence data indicated the potential for a variant transcript encoding a C-terminal Rab GTPase extension of CRACR2A. Full-length cloning demonstrated expression of the long variant in endothelial cells. It was designated CRACR2A-L. Sequence analysis suggested it to be a previously unrecognised member of the Rab GTPase family. It made a positive contribution to endothelial tube formation. The data suggest that endothelial cells contain a long variant of CRACR2A which is an EF-hand-containing Rab protein that lacks impact on CRAC channels.",
+    "author_highlights": [
+        {
+            "endOffset": 11291,
+            "sentence": "Knockdown of CRACR2A lacks effect on CRAC channels in endothelial cells.",
+            "startOffset": 11219
+        },
+        {
+            "endOffset": 11358,
+            "sentence": "Knockdown of CRACR2A depletes a protein twice the mass of CRACR2A.",
+            "startOffset": 11292
+        },
+        {
+            "endOffset": 11425,
+            "sentence": "A long variant of CRACR2A, CRACR2A-L, occurs in endothelial cells.",
+            "startOffset": 11359
+        },
+        {
+            "endOffset": 11495,
+            "sentence": "CRACR2A-L is a previously unrecognised EF-hand-containing Rab GTPase.",
+            "startOffset": 11426
+        },
+        {
+            "endOffset": 11556,
+            "sentence": "CRACR2A-L has a positive role in endothelial tube formation.",
+            "startOffset": 11496
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Feske"
+                },
+                {
+                    "first": "Yousang",
+                    "initial": "Y.",
+                    "last": "Gwack"
+                },
+                {
+                    "first": "Murali",
+                    "initial": "M.",
+                    "last": "Prakriya"
+                },
+                {
+                    "first": "Sonal",
+                    "initial": "S.",
+                    "last": "Srikanth"
+                },
+                {
+                    "first": "Sven Holger",
+                    "initial": "S.H.",
+                    "last": "Puppel"
+                },
+                {
+                    "first": "Bogdan",
+                    "initial": "B.",
+                    "last": "Tanasa"
+                },
+                {
+                    "first": "Patrick G.",
+                    "initial": "P.G.",
+                    "last": "Hogan"
+                },
+                {
+                    "first": "Richard S.",
+                    "initial": "R.S.",
+                    "last": "Lewis"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Daly"
+                },
+                {
+                    "first": "Anjana",
+                    "initial": "A.",
+                    "last": "Rao"
+                }
+            ],
+            "doi": "10.1038/nature04702",
+            "firstpage": "179",
+            "issn": "00280836",
+            "lastpage": "185",
+            "pmid": "16582901",
+            "pub_year": 2006,
+            "title": "A mutation in Orai1 causes immune deficiency by abrogating CRAC channel function",
+            "volume": "441"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Brad S.",
+                    "initial": "B.S.",
+                    "last": "Rothberg"
+                },
+                {
+                    "first": "Youjun",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Donald L.",
+                    "initial": "D.L.",
+                    "last": "Gill"
+                }
+            ],
+            "doi": "10.1126/scisignal.2003971",
+            "firstpage": "pe9",
+            "issn": "19450877",
+            "pmid": "23512988",
+            "pub_year": 2013,
+            "title": "Orai channel pore properties and gating by STIM: Implications from the orai crystal structure",
+            "volume": "6"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Sonal",
+                    "initial": "S.",
+                    "last": "Srikanth"
+                },
+                {
+                    "first": "Hea Jin",
+                    "initial": "H.J.",
+                    "last": "Jung"
+                },
+                {
+                    "first": "Kyun Do",
+                    "initial": "K.D.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Puneet",
+                    "initial": "P.",
+                    "last": "Souda"
+                },
+                {
+                    "first": "Julian",
+                    "initial": "J.",
+                    "last": "Whitelegge"
+                },
+                {
+                    "first": "Yousang",
+                    "initial": "Y.",
+                    "last": "Gwack"
+                }
+            ],
+            "doi": "10.1038/ncb2045",
+            "firstpage": "436",
+            "issn": "14657392",
+            "lastpage": "446",
+            "pmid": "20418871",
+            "pub_year": 2010,
+            "title": "A novel EF-hand protein, CRACR2A, is a cytosolic Ca2+ sensor that stabilizes CRAC channels in T cells",
+            "volume": "12"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Jing",
+                    "initial": "J.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Richard M.",
+                    "initial": "R.M.",
+                    "last": "Cubbon"
+                },
+                {
+                    "first": "Lesley A.",
+                    "initial": "L.A.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Mohamed S.",
+                    "initial": "M.S.",
+                    "last": "Amer"
+                },
+                {
+                    "first": "Lynn",
+                    "initial": "L.",
+                    "last": "McKeown"
+                },
+                {
+                    "first": "Bing",
+                    "initial": "B.",
+                    "last": "Hou"
+                },
+                {
+                    "first": "Yasser",
+                    "initial": "Y.",
+                    "last": "Majeed"
+                },
+                {
+                    "first": "Sarka",
+                    "initial": "S.",
+                    "last": "Tumova"
+                },
+                {
+                    "first": "Victoria A.L.",
+                    "initial": "V.A.L.",
+                    "last": "Seymour"
+                },
+                {
+                    "first": "Hilary",
+                    "initial": "H.",
+                    "last": "Taylor"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Stacey"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "O'Regan"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "Foster"
+                },
+                {
+                    "first": "Karen E.",
+                    "initial": "K.E.",
+                    "last": "Porter"
+                },
+                {
+                    "first": "Mark T.",
+                    "initial": "M.T.",
+                    "last": "Kearney"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Beech"
+                }
+            ],
+            "doi": "10.1161/CIRCRESAHA.111.243352",
+            "firstpage": "1190",
+            "issn": "00097330",
+            "lastpage": "1198",
+            "pmid": "21441136",
+            "pub_year": 2011,
+            "title": "Orai1 and CRAC channel dependence of VEGF-activated Ca2+ entry and endothelial tube formation",
+            "volume": "108"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Colicelli"
+                }
+            ],
+            "doi": "10.1126/stke.2502004re13",
+            "firstpage": "RE13",
+            "issn": "15258882",
+            "pmid": "15367757",
+            "pub_year": 2004,
+            "title": "Human RAS superfamily proteins and related GTPases.",
+            "volume": "2004"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Yoan",
+                    "initial": "Y.",
+                    "last": "Diekmann"
+                },
+                {
+                    "first": "Elsa",
+                    "initial": "E.",
+                    "last": "Seixas"
+                },
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Gouw"
+                },
+                {
+                    "first": "Filipe",
+                    "initial": "F.",
+                    "last": "Tavares-Cadete"
+                },
+                {
+                    "first": "Miguel C.",
+                    "initial": "M.C.",
+                    "last": "Seabra"
+                },
+                {
+                    "first": "Jos\u00e9 B.",
+                    "initial": "J.B.",
+                    "last": "Pereira-Leal"
+                }
+            ],
+            "doi": "10.1371/journal.pcbi.1002217",
+            "issn": "1553734X",
+            "pmid": "22022256",
+            "pub_year": 2011,
+            "title": "Thousands of Rab GTPases for the cell biologist",
+            "volume": "7"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "Samantha L.",
+                    "initial": "S.L.",
+                    "last": "Schwartz"
+                },
+                {
+                    "first": "Canhong",
+                    "initial": "C.",
+                    "last": "Cao"
+                },
+                {
+                    "first": "Olena",
+                    "initial": "O.",
+                    "last": "Pylypenko"
+                },
+                {
+                    "first": "Alexey",
+                    "initial": "A.",
+                    "last": "Rak"
+                },
+                {
+                    "first": "Angela",
+                    "initial": "A.",
+                    "last": "Wandinger-Ness"
+                }
+            ],
+            "doi": "10.1242/jcs.015909",
+            "firstpage": "3905",
+            "issn": "00219533",
+            "lastpage": "3910",
+            "pmid": "17989088",
+            "pub_year": 2007,
+            "title": "Rab GTPases at a glance",
+            "volume": "120"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Mami",
+                    "initial": "M.",
+                    "last": "Shintani"
+                },
+                {
+                    "first": "Minoru",
+                    "initial": "M.",
+                    "last": "Tada"
+                },
+                {
+                    "first": "Tetsuo",
+                    "initial": "T.",
+                    "last": "Kobayashi"
+                },
+                {
+                    "first": "Hiroaki",
+                    "initial": "H.",
+                    "last": "Kajiho"
+                },
+                {
+                    "first": "Kenji",
+                    "initial": "K.",
+                    "last": "Kontani"
+                },
+                {
+                    "first": "Toshiaki",
+                    "initial": "T.",
+                    "last": "Katada"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2007.03.206",
+            "firstpage": "661",
+            "issn": "0006291X",
+            "lastpage": "667",
+            "pmid": "17448446",
+            "pub_year": 2007,
+            "title": "Characterization of Rab45/RASEF containing EF-hand domain and a coiled-coil motif as a self-associating GTPase",
+            "volume": "357"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 14747,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The change (\u0394) in intracellular Ca2+ concentration was indicated as the ratio of fura-2 emission intensities for 340 nm and 380 nm excitation (\u0394F ratio).",
+            "startOffset": 14594,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 14987,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "HUVECs were transfected at 90% confluence with 20 nmol/L of CRACR2A siRNA or Orai1 siRNA (Applied Biosystems/Ambion) using Lipofectamine 2000 in OptiMEM according to the manufacturer\u2019s instructions (Invitrogen).",
+            "startOffset": 14776,
+            "title": "Short interfering (si) RNA"
+        },
+        {
+            "endOffset": 17613,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Normal Human Dermal Fibroblasts were seeded into a 96 well plate (Greiner) at a density of 2 \u00d7 103 cells/well and incubated at 37 \u00b0C in a 5% CO2 incubator for 72 h.",
+            "startOffset": 17449,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 18987,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Peroxidase-conjugated AffiniPure donkey anti-rabbit IgG (H+L) (705-035-003) from Jackson ImmunoResearch Labs Inc. was used at 1:10,000.",
+            "startOffset": 18852,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 22809,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The data suggest that CRACR2A-L is a functional protein of endothelial cells.",
+            "startOffset": 22732,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23118,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "It is encoded by the same gene as CRACR2A, a protein expressed in T cells and regulating CRAC channels, but alternative splicing enables a long C-terminal extension and total protein of about twice the size of CRACR2A.",
+            "startOffset": 22900,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21258,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Alignment of the predicted amino acid sequences of the short (CRACR2A) and long (CRACR2A-L) variants revealed that the N-terminal components are identical but that CRACR2A-L contains a distinct long C-terminus bearing little or no similarity to CRACR2A (Fig. S1).",
+            "startOffset": 20995,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25315,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Additional functions of CRACR2A-L can be expected to emerge, however, and it would be premature to suggest that regulation of endothelial cell remodelling is its primary function.",
+            "startOffset": 25136,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14260,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "SBS contained (mM): NaCl 130, KCl 5, MgCl2 1.2, CaCl2 1.5, d-glucose 8, HEPES 10; Osmolality adjusted to 290 mOsm with NaCl; pH titrated to 7.4 with 4 M NaOH.",
+            "startOffset": 14102,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 14487,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Cells were washed three times with SBS before measurements were made at room temperature (21 \u00b1 2 \u00b0C) on a 96-well fluorescence plate reader (FlexStation II384, Molecular Devices).",
+            "startOffset": 14308,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 15247,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "CRACR2A siRNA 1 was (5\u2032\u20133\u2032) CAACAAAUCAAAAGUGAGAtt, CRACR2A siRNA 2 was GGAGUUCACUACUGGAUUUtt, and Orai1 siRNA was GGGAAGAGGAUUUUUAUAAtt.",
+            "startOffset": 15111,
+            "title": "Short interfering (si) RNA"
+        },
+        {
+            "endOffset": 17140,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "PCR reaction conditions were: 95 \u00b0C for 2 min (initial denaturation stage) followed by 40 cycles of: 95 \u00b0C for 30 s, 53 \u00b0C for 30 s, 73 \u00b0C for 2.5 min followed by a final extension at 73 \u00b0C for 5 min.",
+            "startOffset": 16940,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 24124,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "We speculate therefore that CRACR2A-L might be a mechanism for coupling cytosolic Ca2+ elevation to protein trafficking which in turn impacts on endothelial tube formation and potentially other as yet unidentified downstream processes.",
+            "startOffset": 23889,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15391,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Control siRNA was a 19-bp scrambled sequence with no significant homology to human gene sequences (Silencer Negative Control number 1, Ambion).",
+            "startOffset": 15248,
+            "title": "Short interfering (si) RNA"
+        },
+        {
+            "endOffset": 15067,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "4\u20136 h later, transfection reagents were removed and 2 mL of EGM-2 medium added.",
+            "startOffset": 14988,
+            "title": "Short interfering (si) RNA"
+        },
+        {
+            "endOffset": 14101,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "HUVECs were seeded in non-coated 96-well plates (NUNC) and incubated for 1 h in 2 \u03bcM fura-2 AM in standard bath solution (SBS) at 37 \u00b0C in the presence of 0.01% pluronic acid (Invitrogen).",
+            "startOffset": 13913,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 18777,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "\u03b2-Actin (C4) mouse monoclonal IgG1 antibody (sc-47778) and bovine anti-mouse IgG-HRP (sc-2371) antibody were from Santa Cruz Biotechnology and used at 1:2000 and 1:10,000 respectively.",
+            "startOffset": 18593,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 17919,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Co-cultures were incubated for 7 days then fixed with ice-cold methanol for 10 min.",
+            "startOffset": 17836,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 18486,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Fura-2 AM and Lipofectamine 2000 were obtained from Invitrogen.",
+            "startOffset": 18423,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 24270,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "It would be challenging to test this idea through studies of tube formation because the impact of CRACR2A-L on this process was relatively small.",
+            "startOffset": 24125,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18260,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "After 3 washes in PBS a secondary Alexa Fluor 488 antibody was added for 1 h at room temperature.",
+            "startOffset": 18163,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 13880,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Other endothelial cells were from PromoCell and maintained similarly to HUVECs.",
+            "startOffset": 13801,
+            "title": "Cell culture"
+        },
+        {
+            "endOffset": 20217,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The data suggest that CRACR2A is unimportant for CRAC channels in these cells.",
+            "startOffset": 20139,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16373,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Reverse transcription using Reverse Transcriptase (Applied Biosystems), followed by real-time PCR using SYBR green was performed using a LightCycler (Roche).",
+            "startOffset": 16216,
+            "title": "RT-PCR"
+        },
+        {
+            "endOffset": 19305,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For FlexStation experiments data are presented as n/N, which indicates the number of independent experiments (n) and the number of individual wells (replicates) in the 96-well plate.",
+            "startOffset": 19123,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 15110,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Cells were used in experiments 72 h later.",
+            "startOffset": 15068,
+            "title": "Short interfering (si) RNA"
+        },
+        {
+            "endOffset": 21483,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "To determine if endothelial cells express transcript encoding CRACR2A-L we performed full-length cloning based on the predicted sequence and using HUVEC mRNA.",
+            "startOffset": 21325,
+            "title": "Results"
+        },
+        {
+            "endOffset": 17835,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The cell culture medium was removed and HUVECs at a density of 5.4 \u00d7 104 cells/well were seeded on top of the fibroblasts in endothelial cell growth medium containing 3 ng/mL vascular endothelial growth factor and 2% FBS.",
+            "startOffset": 17614,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 16657,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Reverse transcription of HUVEC total RNA was performed using Superscript II Reverse Transcriptase (Invitrogen) and a CRAC2RA-L gene specific primer (5\u2032 GGTATGGCTGACCTTGTAGGACCCTATCA).",
+            "startOffset": 16474,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 21671,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Sequencing showed the clone to be identical to the sequence predicted to encode CRACR2A-L except for one codon for an additional amino acid between serine 424 and glutamine 425 (Fig. S1).",
+            "startOffset": 21484,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13697,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Human umbilical vein endothelial cells (HUVECs) (Lonza) were maintained in endothelial growth medium (EGM-2) supplemented with 2% foetal calf serum (FCS) and growth factor bullet kit (Lonza).",
+            "startOffset": 13506,
+            "title": "Cell culture"
+        },
+        {
+            "endOffset": 19371,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For Western blot data n is the number of independent experiments.",
+            "startOffset": 19306,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 24625,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 24624,
+                    "startOffset": 24621
+                }
+            },
+            "secId": "s0065",
+            "sentence": "It is intriguing why the gene encoding this CRACR2A-L protein would also be capable of generating the shorter CRACR2A protein which regulates the Ca2+-permeable CRAC channels [3].",
+            "startOffset": 24446,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15624,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Transfected HUVECs were harvested in PBS and lysed in buffer containing 0.5% NP40, 10 ml Tris (pH 8), 150 mM NaCl, 0.5 mM EDTA, protease inhibitor cocktail (Fermentas) and 1 mM phenylmethanesulfonylfluoride (PMSF).",
+            "startOffset": 15410,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 17273,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "CRAC2RA-L sequence was further amplified by a second round of PCR using the high fidelity DNA polymerase Phusion (Thermoscientific).",
+            "startOffset": 17141,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 21943,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The data suggest that the long variant, CRACR2A-L, is the variant of endothelial cells.",
+            "startOffset": 21856,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25041,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "In such contexts, CRACR2A would be expected to have a positive effect on CRAC channels, elevating the cytosolic Ca2+ concentration and potentially modulating the function of CRACR2A-L, integrating Ca2+-signalling and protein trafficking via a single gene.",
+            "startOffset": 24786,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23187,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The N-terminus is identical to CRACR2A.",
+            "startOffset": 23148,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23346,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "CRACR2A-L is expressed in endothelial cells, whereas CRACR2A is not.",
+            "startOffset": 23278,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20994,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "To obtain an explanation for the larger mass we searched genome sequence databases and found that the gene encoding CRACR2A, EFCAB4B, is predicted to be alternatively spliced to give two variants.",
+            "startOffset": 20798,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15882,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Products were transferred onto PVDF membranes and incubated overnight with primary anti-CRACR2A antibody and anti-\u03b2-actin antibody used at 1:800 and 1:2000 dilution respectively.",
+            "startOffset": 15704,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 17357,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Constructs were generated using the kanamycin resistant eGFP-C1 plasmid (Clontech).",
+            "startOffset": 17274,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 18009,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Nonspecific binding sites were blocked with 5% donkey serum (in PBS) for 30 min at 37 \u00b0C.",
+            "startOffset": 17920,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 20410,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 20409,
+                    "startOffset": 20406
+                }
+            },
+            "secId": "s0060",
+            "sentence": "Indeed, anti-CRACR2A antibody failed to detect protein of \u223c45 kDa (Fig. 2A), which is the expected mass of CRACR2A [3].",
+            "startOffset": 20291,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19559,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "P < 0.05 indicated statistically significant difference (*).",
+            "startOffset": 19499,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 20798,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The data suggest that CRACR2A is expressed in endothelial cells but that it occurs at about twice the expected molecular mass.",
+            "startOffset": 20672,
+            "title": "Results"
+        },
+        {
+            "endOffset": 21855,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The extra codon was also detected in human dermal microvascular endothelial cells and RT-PCR detected mRNA encoding CRACR2A-L in endothelial cells from 6 additional sources (Fig. 2C).",
+            "startOffset": 21672,
+            "title": "Results"
+        },
+        {
+            "endOffset": 19498,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Paired data sets were compared using two-tailed Student\u2019s t-tests and expressed as mean \u00b1 standard error of the mean (s.e.m.).",
+            "startOffset": 19372,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 23494,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "CRACR2A-L has no effect on CRAC channels in these cells and so we assume that the C-terminal sequence directs the protein away from these channels.",
+            "startOffset": 23347,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19973,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Unexpectedly, transfection with short interfering RNA (siRNA) targeted to CRACR2A failed to affect Ca2+ release or Ca2+ entry (Fig. 1A and B).",
+            "startOffset": 19831,
+            "title": "Results"
+        },
+        {
+            "endOffset": 25135,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "We observed mild but significant positive impact of CRACR2A-L on endothelial cell remodelling.",
+            "startOffset": 25041,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20138,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In contrast, siRNA targeted to Orai1 suppressed Ca2+ entry but not Ca2+ release, consistent with Orai1-dependent CRAC channels mediating Ca2+ entry (Fig. 1C and D).",
+            "startOffset": 19974,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13800,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Cells were maintained at 37 \u00b0C in a 5% CO2 incubator.",
+            "startOffset": 13747,
+            "title": "Cell culture"
+        },
+        {
+            "endOffset": 21325,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The analysis suggests that the \u223c95 kDa protein might be CRACR2A-L.",
+            "startOffset": 21259,
+            "title": "Results"
+        },
+        {
+            "endOffset": 20579,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "However, a doublet around 95 kDa was labelled by the antibody and the lower of these two bands was depleted by two different siRNAs targeted to CRACR2A (Fig. 2A and B).",
+            "startOffset": 20411,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23888,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "As in CRACR2A-L the extra length appears to exist for incorporation of EF-hands and thus Ca2+ regulation.",
+            "startOffset": 23783,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23782,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 23781,
+                    "startOffset": 23776
+                },
+                "b0040": {
+                    "endOffset": 23781,
+                    "startOffset": 23776
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Rab44 and Rab45 are, by contrast, similar in size to CRACR2A-L at 108 and 83 kDa [5,8].",
+            "startOffset": 23695,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14307,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Ca2+ free solution was SBS without added Ca2+.",
+            "startOffset": 14261,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 22899,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "The results suggest a previously unrecognized protein of the Rab GTPase family.",
+            "startOffset": 22820,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13374,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 13373,
+                    "startOffset": 13370
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In endothelial cells, a positive role has been suggested in cell migration induced by the key mediator vascular endothelial growth factor [4].",
+            "startOffset": 13232,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17415,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Constructs were verified by sequencing (Beckman Coulter).",
+            "startOffset": 17358,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 24446,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Therefore, it will be important to identify specific downstream effectors and other downstream implications of CRACR2A-L in order to understand its suggested integrative role.",
+            "startOffset": 24271,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14593,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Readings were made every 10 s.",
+            "startOffset": 14563,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 13469,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Here we sought the relevance of CRACR2A to endothelial cells and CRAC channels of these cells.",
+            "startOffset": 13375,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18162,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "HUVEC tubes were visualised by staining with a primary monoclonal mouse anti-human CD31 antibody (1:500 in 1% donkey serum for 1 h at room temperature).",
+            "startOffset": 18010,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 13746,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Experiments were performed on passage 2\u20138 cells.",
+            "startOffset": 13698,
+            "title": "Cell culture"
+        },
+        {
+            "endOffset": 18397,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Plates were imaged using an IncuCyte (Essen Bioscience) and tube formation was quantified using the IncuCyte angiogenesis v2.0 software.",
+            "startOffset": 18261,
+            "title": "Co-culture tube formation assay"
+        },
+        {
+            "endOffset": 18592,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Polyclonal rabbit anti-CRACR2A-L antibody (15206-1-AP) from Proteintech group was used at 1:800 dilution.",
+            "startOffset": 18487,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 19122,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Data were analysed and figures prepared using Origin 7.5 software (OriginLab Corporation).",
+            "startOffset": 19032,
+            "title": "Data analysis"
+        },
+        {
+            "endOffset": 19830,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Intracellular Ca2+ was recorded from human umbilical vein endothelial cells (HUVECs) to observe Ca2+ release evoked by thapsigargin (TG) in the absence of extracellular Ca2+ and then CRAC channel-mediated Ca2+ entry as extracellular Ca2+ was added back (Fig. 1A).",
+            "startOffset": 19567,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16939,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "CRACR2A-L sequence was amplified from the enriched cDNA using GoTaq Green (Promega) and cloning primers (Forward: 5\u2032 GATCCGCTAGCGCTACACCATGGCTGCCCCTGACGGG, reverse: 5\u2032 GGTATGGCTGACCTTGTAGGACCCTATCA) designed to be compatible with the GFP vector using Infusion-HD enzyme (Clontech).",
+            "startOffset": 16658,
+            "title": "Cloning"
+        },
+        {
+            "endOffset": 16162,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "ImageJ was used to quantify protein band densities.",
+            "startOffset": 16111,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 24785,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "Although there was only CRACR2A-L in endothelial cells, regulation of alternative splicing may lead to co-expression of CRACR2A and CRACR2A-L in some contexts.",
+            "startOffset": 24626,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20290,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "An explanation for the above data could be that CRACR2A is not expressed.",
+            "startOffset": 20217,
+            "title": "Results"
+        },
+        {
+            "endOffset": 18851,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Goat anti-rabbit HRP-conjugated antibody from Sigma was used at 1:10,000.",
+            "startOffset": 18778,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 14562,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Fura-2 was excited at 340 and 380 nm and emission was collected at 510 nm.",
+            "startOffset": 14488,
+            "title": "Intracellular Ca2+ measurement"
+        },
+        {
+            "endOffset": 22211,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Construction of a dendrogram placed CRACR2A-L as a previously unrecognised member of the large Rab protein family (Fig. S2).",
+            "startOffset": 22087,
+            "title": "Results"
+        },
+        {
+            "endOffset": 16464,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The forward primer was (5\u2032\u20133\u2032) CGTCATGTACGATCTCAC and the reverse primer GTGACCAGAGTAGGCG.",
+            "startOffset": 16374,
+            "title": "RT-PCR"
+        },
+        {
+            "endOffset": 23625,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 23624,
+                    "startOffset": 23619
+                },
+                "b0030": {
+                    "endOffset": 23624,
+                    "startOffset": 23619
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Rab proteins comprise the largest sub-group of the RAS superfamily and are best known for roles in intracellular trafficking [5,6].",
+            "startOffset": 23494,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23277,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "It is the additional C-terminal sequence that makes it a member of the Rab GTPase family.",
+            "startOffset": 23188,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23694,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 23661,
+                    "startOffset": 23658
+                }
+            },
+            "secId": "s0065",
+            "sentence": "Most Rab proteins are 20\u201325 kDa [7] and thus smaller than CRACR2A-L.",
+            "startOffset": 23626,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12963,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12962,
+                    "startOffset": 12957
+                },
+                "b0010": {
+                    "endOffset": 12962,
+                    "startOffset": 12957
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Ca2+-release-activated Ca2+ (CRAC) channels arising from Orai1 proteins mediate store-operated Ca2+ entry when STIM1 proteins sense Ca2+-depletion of the smooth endoplasmic reticulum [1,2].",
+            "startOffset": 12774,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22731,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Depletion of CRACR2A-L did not prevent tube formation but reduced the overall length of tubes and the number of branch points (Fig. 4B and C).",
+            "startOffset": 22589,
+            "title": "Results"
+        },
+        {
+            "endOffset": 15703,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Equal protein amounts were loaded on 10% gels and resolved by electrophoresis.",
+            "startOffset": 15625,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 16110,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Anti-CRACR2A was visualised using horse radish peroxidase conjugated goat anti-rabbit secondary antibody and anti-actin was visualised with anti-mouse secondary antibody and SuperSignal Femto detection reagent (PerBio Science).",
+            "startOffset": 15883,
+            "title": "Western blotting"
+        },
+        {
+            "endOffset": 22588,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "To determine if CRACR2A-L has functional significance in endothelial cells we performed an assay in which HUVECs form tube, capillary-like, structures on a bed of fibroblasts, mimicking aspects of angiogenesis (Fig. 4A).",
+            "startOffset": 22368,
+            "title": "Results"
+        },
+        {
+            "endOffset": 22086,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Analysis of the distinct long C-terminus of CRACR2A-L indicated G boxes and other sequence similarities characteristic of Rab GTPases (Fig. 3).",
+            "startOffset": 21943,
+            "title": "Results"
+        },
+        {
+            "endOffset": 13231,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Orai1 and STIM1 proteins are widely expressed and Ca2+ entry mediated by CRAC channels is suggested to be functionally important in many cell types.",
+            "startOffset": 13083,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16215,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "RNA was extracted using TRI reagent (Sigma).",
+            "startOffset": 16171,
+            "title": "RT-PCR"
+        },
+        {
+            "endOffset": 13083,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 13082,
+                    "startOffset": 13079
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A modulator of CRAC channels in T cells is CRACR2A, a 46 kDa cytosolic protein with functional N-terminal EF-hands [3].",
+            "startOffset": 12964,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19016,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Thapsigargin was from Sigma.",
+            "startOffset": 18988,
+            "title": "Reagents and antibodies"
+        },
+        {
+            "endOffset": 20671,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The upper band may reflect an unrelated protein, labelled non-specifically by the antibody.",
+            "startOffset": 20580,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23147,
+            "parents": [],
+            "secId": "s0065",
+            "sentence": "We refer to it as CRACR2A-L.",
+            "startOffset": 23119,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22368,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 22367,
+                    "startOffset": 22364
+                }
+            },
+            "secId": "s0060",
+            "sentence": "It is relatively unusual amongst the Rab proteins in containing EF hands (Fig. 3), Ca2+-binding motifs that have been shown to be functional in CRACR2A [3].",
+            "startOffset": 22212,
+            "title": "Results"
+        }
+    ],
+    "docId": "S0006291X14021366",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Lesley A.",
+                "initial": "L.A.",
+                "last": "Wilson"
+            },
+            {
+                "email": null,
+                "first": "Lynn",
+                "initial": "L.",
+                "last": "McKeown"
+            },
+            {
+                "email": null,
+                "first": "Sarka",
+                "initial": "S.",
+                "last": "Tumova"
+            },
+            {
+                "email": null,
+                "first": "Jing",
+                "initial": "J.",
+                "last": "Li"
+            },
+            {
+                "email": "d.j.beech@leeds.ac.uk",
+                "first": "David J.",
+                "initial": "D.J.",
+                "last": "Beech"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.11.095",
+        "firstpage": "398",
+        "issn": "0006291X",
+        "keywords": [
+            "Angiogenesis",
+            "Calcium channel",
+            "Endothelial cell",
+            "G protein",
+            "Store-operated calcium entry"
+        ],
+        "lastpage": "402",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Expression of a long variant of CRACR2A that belongs to the Rab GTPase protein family in endothelial cells"
+    }
+}

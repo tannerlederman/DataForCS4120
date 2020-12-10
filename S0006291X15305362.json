@@ -1,0 +1,2885 @@
+{
+    "abstract": "Osteoarthritis (OA) is a chronic degenerative joint disorder commonly associated with metabolic syndrome. As ageing and obesity has a great impact on the initiation/severity of OA, herein we sought to investigate the involvement of Sirt6 in the crosstalk between ageing and metabolic syndrome/OA. Sirt6 haploinsufficiency in mice promoted the expression of inflammatory cytokines in the IPFP. Enhanced inflammation of the IPFP in the aged Sirt6 \u00b1 HFD group was paralleled with accelerated OA change, including osteophyte growth and chondrocyte hypertrophy. Conversely, mesenchyme-specific Sirt6-deficient mice revealed both attenuated chondrocyte hypertrophy and proteoglycan synthesis, although chondrocyte senescence was enhanced as shown in the aged WT mice. Thus Sirt6 has key roles in the relationship among ageing, metabolic syndrome, and OA.",
+    "author_highlights": [
+        {
+            "endOffset": 11942,
+            "sentence": "Sirt6 \u00b1 mice fed HFD demonstrated promoted inflammation of the IPFP together with impaired glucose tolerance.",
+            "startOffset": 11833
+        },
+        {
+            "endOffset": 12040,
+            "sentence": "Enhanced inflammation of the IPFP was associated with accelerated OA progression in Sirt6 \u00b1 mice.",
+            "startOffset": 11943
+        },
+        {
+            "endOffset": 12123,
+            "sentence": "Endogenous Sirt6 was required for glycosaminoglycan expression in the chondrocyte.",
+            "startOffset": 12041
+        },
+        {
+            "endOffset": 12213,
+            "sentence": "PAI-1 protein expression in the articular chondrocytes was increased by Sirt6 deficiency.",
+            "startOffset": 12124
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Odile",
+                    "initial": "O.",
+                    "last": "Gabay"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Hall"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Berenbaum"
+                },
+                {
+                    "first": "Yves",
+                    "initial": "Y.",
+                    "last": "Henrotin"
+                },
+                {
+                    "first": "Christelle",
+                    "initial": "C.",
+                    "last": "Sanchez"
+                }
+            ],
+            "doi": "10.1016/j.jbspin.2008.07.011",
+            "firstpage": "675",
+            "issn": "1297319X",
+            "lastpage": "679",
+            "pmid": "19022697",
+            "pub_year": 2008,
+            "title": "Osteoarthritis and obesity: Experimental models",
+            "volume": "75"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Sanshiro",
+                    "initial": "S.",
+                    "last": "Hashimoto"
+                },
+                {
+                    "first": "Robert L.",
+                    "initial": "R.L.",
+                    "last": "Ochs"
+                },
+                {
+                    "first": "Setsuro",
+                    "initial": "S.",
+                    "last": "Komiya"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Lotz"
+                }
+            ],
+            "doi": "10.1002/1529-0131(199809)41:9<1632::AID-ART14>3.0.CO;2-A",
+            "firstpage": "1632",
+            "issn": "00043591",
+            "lastpage": "1638",
+            "pmid": "9751096",
+            "pub_year": 1998,
+            "title": "Linkage of chondrocyte apoptosis and cartilage degradation in human osteoarthritis",
+            "volume": "41"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Sudha B.",
+                    "initial": "S.B.",
+                    "last": "Biddinger"
+                },
+                {
+                    "first": "Katrine",
+                    "initial": "K.",
+                    "last": "Almind"
+                },
+                {
+                    "first": "Makoto",
+                    "initial": "M.",
+                    "last": "Miyazaki"
+                },
+                {
+                    "first": "Efi",
+                    "initial": "E.",
+                    "last": "Kokkotou"
+                },
+                {
+                    "first": "James M.",
+                    "initial": "J.M.",
+                    "last": "Ntambi"
+                },
+                {
+                    "first": "C. Ronald",
+                    "initial": "C.R.",
+                    "last": "Kahn"
+                }
+            ],
+            "doi": "10.2337/diabetes.54.5.1314",
+            "firstpage": "1314",
+            "issn": "00121797",
+            "lastpage": "1323",
+            "pmid": "15855315",
+            "pub_year": 2005,
+            "title": "Effects of diet and genetic background on sterol regulatory element-binding protein-1c, stearoyl-CoA desaturase 1, and the development of the metabolic syndrome",
+            "volume": "54"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Boris V.",
+                    "initial": "B.V.",
+                    "last": "Shlopov"
+                },
+                {
+                    "first": "Marina L.",
+                    "initial": "M.L.",
+                    "last": "Gumanovskaya"
+                },
+                {
+                    "first": "Karen A.",
+                    "initial": "K.A.",
+                    "last": "Hasty"
+                }
+            ],
+            "doi": "10.1002/1529-0131(200001)43:1<195::AID-ANR24>3.0.CO;2-G",
+            "firstpage": "195",
+            "issn": "00043591",
+            "lastpage": "205",
+            "pmid": "10643716",
+            "pub_year": 2000,
+            "title": "Autocrine regulation of collagenase 3 (matrix metalloproteinase 13) during osteoarthritis",
+            "volume": "43"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Wei"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zhou"
+                },
+                {
+                    "first": "X.",
+                    "initial": "X.",
+                    "last": "Wei"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Zhang"
+                },
+                {
+                    "first": "B. C.",
+                    "initial": "B.C.",
+                    "last": "Fleming"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Terek"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Pei"
+                },
+                {
+                    "first": "Q.",
+                    "initial": "Q.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Wei"
+                }
+            ],
+            "doi": "10.1016/j.joca.2012.03.010",
+            "firstpage": "755",
+            "issn": "10634584",
+            "lastpage": "763",
+            "pmid": "22469853",
+            "pub_year": 2012,
+            "title": "Activation of Indian hedgehog promotes chondrocyte hypertrophy and upregulation of MMP-13 in human osteoarthritic cartilage",
+            "volume": "20"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Clockaerts"
+                },
+                {
+                    "first": "Y. M.",
+                    "initial": "Y.M.",
+                    "last": "Bastiaansen-Jenniskens"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Runhaar"
+                },
+                {
+                    "first": "G. J.V.M.",
+                    "initial": "G.J.V.M.",
+                    "last": "Van Osch"
+                },
+                {
+                    "first": "J. F.",
+                    "initial": "J.F.",
+                    "last": "Van Offel"
+                },
+                {
+                    "first": "J. A.N.",
+                    "initial": "J.A.N.",
+                    "last": "Verhaar"
+                },
+                {
+                    "first": "L. S.",
+                    "initial": "L.S.",
+                    "last": "De Clerck"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Somville"
+                }
+            ],
+            "doi": "10.1016/j.joca.2010.03.014",
+            "firstpage": "876",
+            "issn": "10634584",
+            "lastpage": "882",
+            "pmid": "20417297",
+            "pub_year": 2010,
+            "title": "The infrapatellar fat pad should be considered as an active osteoarthritic joint tissue: A narrative review",
+            "volume": "18"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Ushiyama"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Chano"
+                },
+                {
+                    "first": "K.",
+                    "initial": "K.",
+                    "last": "Inoue"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Matsusue"
+                }
+            ],
+            "doi": "10.1136/ard.62.2.108",
+            "firstpage": "108",
+            "issn": "00034967",
+            "lastpage": "112",
+            "pmid": "12525378",
+            "pub_year": 2003,
+            "title": "Cytokine production in the infrapatellar fat pad: Another source of cytokines in knee synovial fluids",
+            "volume": "62"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Yariv",
+                    "initial": "Y.",
+                    "last": "Kanfi"
+                },
+                {
+                    "first": "Shoshana",
+                    "initial": "S.",
+                    "last": "Naiman"
+                },
+                {
+                    "first": "Gail",
+                    "initial": "G.",
+                    "last": "Amir"
+                },
+                {
+                    "first": "Victoria",
+                    "initial": "V.",
+                    "last": "Peshti"
+                },
+                {
+                    "first": "Guy",
+                    "initial": "G.",
+                    "last": "Zinman"
+                },
+                {
+                    "first": "Liat",
+                    "initial": "L.",
+                    "last": "Nahum"
+                },
+                {
+                    "first": "Ziv",
+                    "initial": "Z.",
+                    "last": "Bar-Joseph"
+                },
+                {
+                    "first": "Haim Y.",
+                    "initial": "H.Y.",
+                    "last": "Cohen"
+                }
+            ],
+            "doi": "10.1038/nature10815",
+            "firstpage": "218",
+            "issn": "00280836",
+            "lastpage": "221",
+            "pmid": "22367546",
+            "pub_year": 2012,
+            "title": "The sirtuin SIRT6 regulates lifespan in male mice",
+            "volume": "483"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Jean Philippe",
+                    "initial": "J.P.",
+                    "last": "Bastard"
+                },
+                {
+                    "first": "Mustapha",
+                    "initial": "M.",
+                    "last": "Maachi"
+                },
+                {
+                    "first": "Claire",
+                    "initial": "C.",
+                    "last": "Lagathu"
+                },
+                {
+                    "first": "Min Ji",
+                    "initial": "M.J.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Martine",
+                    "initial": "M.",
+                    "last": "Caron"
+                },
+                {
+                    "first": "Hubert",
+                    "initial": "H.",
+                    "last": "Vidal"
+                },
+                {
+                    "first": "Jacqueline",
+                    "initial": "J.",
+                    "last": "Capeau"
+                },
+                {
+                    "first": "Bruno",
+                    "initial": "B.",
+                    "last": "Feve"
+                }
+            ],
+            "firstpage": "4",
+            "issn": "11485493",
+            "lastpage": "12",
+            "pmid": "16613757",
+            "pub_year": 2006,
+            "title": "Recent advances in the relationship between obesity, inflammation, and insulin resistance",
+            "volume": "17"
+        },
+        "bib18": {
+            "authors": [
+                {
+                    "first": "Cuiying",
+                    "initial": "C.",
+                    "last": "Xiao"
+                },
+                {
+                    "first": "Rui Hong",
+                    "initial": "R.H.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Tyler J.",
+                    "initial": "T.J.",
+                    "last": "Lahusen"
+                },
+                {
+                    "first": "Ogyi",
+                    "initial": "O.",
+                    "last": "Park"
+                },
+                {
+                    "first": "Adeline",
+                    "initial": "A.",
+                    "last": "Bertola"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Maruyama"
+                },
+                {
+                    "first": "Della",
+                    "initial": "D.",
+                    "last": "Reynolds"
+                },
+                {
+                    "first": "Qiang",
+                    "initial": "Q.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Xiaoling",
+                    "initial": "X.",
+                    "last": "Xu"
+                },
+                {
+                    "first": "Howard A.",
+                    "initial": "H.A.",
+                    "last": "Young"
+                },
+                {
+                    "first": "Wan Jun",
+                    "initial": "W.J.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Bin",
+                    "initial": "B.",
+                    "last": "Gao"
+                },
+                {
+                    "first": "Chu Xia",
+                    "initial": "C.X.",
+                    "last": "Deng"
+                }
+            ],
+            "doi": "10.1074/jbc.M112.415182",
+            "firstpage": "41903",
+            "issn": "00219258",
+            "lastpage": "41913",
+            "pmid": "23076146",
+            "pub_year": 2012,
+            "title": "Progression of chronic liver inflammation and fibrosis driven by activation of c-JUN signaling in Sirt6 mutant mice",
+            "volume": "287"
+        },
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Hong",
+                    "initial": "H.",
+                    "last": "Jiang"
+                },
+                {
+                    "first": "Saba",
+                    "initial": "S.",
+                    "last": "Khan"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Wang"
+                },
+                {
+                    "first": "Guillaume",
+                    "initial": "G.",
+                    "last": "Charron"
+                },
+                {
+                    "first": "Bin",
+                    "initial": "B.",
+                    "last": "He"
+                },
+                {
+                    "first": "Carlos",
+                    "initial": "C.",
+                    "last": "Sebastian"
+                },
+                {
+                    "first": "Jintang",
+                    "initial": "J.",
+                    "last": "Du"
+                },
+                {
+                    "first": "Ray",
+                    "initial": "R.",
+                    "last": "Kim"
+                },
+                {
+                    "first": "Eva",
+                    "initial": "E.",
+                    "last": "Ge"
+                },
+                {
+                    "first": "Raul",
+                    "initial": "R.",
+                    "last": "Mostoslavsky"
+                },
+                {
+                    "first": "Howard C.",
+                    "initial": "H.C.",
+                    "last": "Hang"
+                },
+                {
+                    "first": "Quan",
+                    "initial": "Q.",
+                    "last": "Hao"
+                },
+                {
+                    "first": "Hening",
+                    "initial": "H.",
+                    "last": "Lin"
+                }
+            ],
+            "doi": "10.1038/nature12038",
+            "firstpage": "110",
+            "issn": "00280836",
+            "lastpage": "113",
+            "pmid": "23552949",
+            "pub_year": 2013,
+            "title": "SIRT6 regulates TNF-\u03b1 secretion through hydrolysis of long-chain fatty acyl lysine",
+            "volume": "496"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Jennifer J.",
+                    "initial": "J.J.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "David T.",
+                    "initial": "D.T.",
+                    "last": "Felson"
+                }
+            ],
+            "doi": "10.1093/oxfordjournals.aje.a114939",
+            "firstpage": "179",
+            "issn": "00029262",
+            "lastpage": "189",
+            "pmid": "3381825",
+            "pub_year": 1988,
+            "title": "Factors associated with osteoarthritis of the knee in the first national health and nutrition examination survey (Hanes I): Evidence for an association with overweight, race, and physical demands of work",
+            "volume": "128"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "R. E.",
+                    "initial": "R.E.",
+                    "last": "Frans\u00e8s"
+                },
+                {
+                    "first": "D. F.",
+                    "initial": "D.F.",
+                    "last": "McWilliams"
+                },
+                {
+                    "first": "P. I.",
+                    "initial": "P.I.",
+                    "last": "Mapp"
+                },
+                {
+                    "first": "D. A.",
+                    "initial": "D.A.",
+                    "last": "Walsh"
+                }
+            ],
+            "doi": "10.1016/j.joca.2009.11.015",
+            "firstpage": "563",
+            "issn": "10634584",
+            "lastpage": "571",
+            "pmid": "20060952",
+            "pub_year": 2010,
+            "title": "Osteochondral angiogenesis and increased protease inhibitor expression in OA",
+            "volume": "18"
+        },
+        "bib21": {
+            "authors": [
+                {
+                    "first": "Tamara",
+                    "initial": "T.",
+                    "last": "Tchkonia"
+                },
+                {
+                    "first": "Yi",
+                    "initial": "Y.",
+                    "last": "Zhu"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Van Deursen"
+                },
+                {
+                    "first": "Judith",
+                    "initial": "J.",
+                    "last": "Campisi"
+                },
+                {
+                    "first": "James L.",
+                    "initial": "J.L.",
+                    "last": "Kirkland"
+                }
+            ],
+            "doi": "10.1172/JCI64098",
+            "firstpage": "966",
+            "issn": "00219738",
+            "lastpage": "972",
+            "pmid": "23454759",
+            "pub_year": 2013,
+            "title": "Cellular senescence and the senescent secretory phenotype: Therapeutic opportunities",
+            "volume": "123"
+        },
+        "bib22": {
+            "authors": [
+                {
+                    "first": "Richard F.",
+                    "initial": "R.F.",
+                    "last": "Loeser"
+                }
+            ],
+            "doi": "10.1097/BOR.0b013e3283494005",
+            "firstpage": "492",
+            "issn": "10408711",
+            "lastpage": "496",
+            "pmid": "21709557",
+            "pub_year": 2011,
+            "title": "Aging and osteoarthritis",
+            "volume": "23"
+        },
+        "bib23": {
+            "authors": [
+                {
+                    "first": "Yusuke",
+                    "initial": "Y.",
+                    "last": "Tozuka"
+                },
+                {
+                    "first": "Etsuko",
+                    "initial": "E.",
+                    "last": "Wada"
+                },
+                {
+                    "first": "Keiji",
+                    "initial": "K.",
+                    "last": "Wada"
+                }
+            ],
+            "doi": "10.1096/fj.08-124784",
+            "firstpage": "1920",
+            "issn": "08926638",
+            "lastpage": "1934",
+            "pmid": "19158155",
+            "pub_year": 2009,
+            "title": "Diet-induced obesity in female mice leads to peroxidized lipid accumulations and impairment of hippocampal neurogenesis during the early life of their offspring",
+            "volume": "23"
+        },
+        "bib24": {
+            "authors": [
+                {
+                    "first": "Marjolaine",
+                    "initial": "M.",
+                    "last": "Gosset"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Berenbaum"
+                },
+                {
+                    "first": "Sylvie",
+                    "initial": "S.",
+                    "last": "Thirion"
+                },
+                {
+                    "first": "Claire",
+                    "initial": "C.",
+                    "last": "Jacques"
+                }
+            ],
+            "doi": "10.1038/nprot.2008.95",
+            "firstpage": "1253",
+            "issn": "17542189",
+            "lastpage": "1260",
+            "pmid": "18714293",
+            "pub_year": 2008,
+            "title": "Primary culture and phenotyping of murine chondrocytes",
+            "volume": "3"
+        },
+        "bib25": {
+            "authors": [
+                {
+                    "first": "S. S.",
+                    "initial": "S.S.",
+                    "last": "Glasson"
+                },
+                {
+                    "first": "M. G.",
+                    "initial": "M.G.",
+                    "last": "Chambers"
+                },
+                {
+                    "first": "W. B.",
+                    "initial": "W.B.",
+                    "last": "Van Den Berg"
+                },
+                {
+                    "first": "C. B.",
+                    "initial": "C.B.",
+                    "last": "Little"
+                }
+            ],
+            "doi": "10.1016/j.joca.2010.05.025",
+            "firstpage": "S17",
+            "issn": "10634584",
+            "lastpage": "S23",
+            "pmid": "20864019",
+            "pub_year": 2010,
+            "title": "The OARSI histopathology initiative - recommendations for histological assessments of osteoarthritis in the mouse",
+            "volume": "18"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Dahaghin"
+                },
+                {
+                    "first": "S. M.A.",
+                    "initial": "S.M.A.",
+                    "last": "Bierma-Zeinstra"
+                },
+                {
+                    "first": "B. W.",
+                    "initial": "B.W.",
+                    "last": "Koes"
+                },
+                {
+                    "first": "J. M.W.",
+                    "initial": "J.M.W.",
+                    "last": "Hazes"
+                },
+                {
+                    "first": "H. A.P.",
+                    "initial": "H.A.P.",
+                    "last": "Pols"
+                }
+            ],
+            "doi": "10.1136/ard.2005.045724",
+            "firstpage": "916",
+            "issn": "00034967",
+            "lastpage": "920",
+            "pmid": "17314121",
+            "pub_year": 2007,
+            "title": "Do metabolic factors add to the effect of overweight on hand osteoarthritis? The Rotterdam Study",
+            "volume": "66"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "Yvonne M.",
+                    "initial": "Y.M.",
+                    "last": "Bastiaansen-Jenniskens"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Clockaerts"
+                },
+                {
+                    "first": "Carola",
+                    "initial": "C.",
+                    "last": "Feijt"
+                },
+                {
+                    "first": "Anne Marie",
+                    "initial": "A.M.",
+                    "last": "Zuurmond"
+                },
+                {
+                    "first": "Vedrana",
+                    "initial": "V.",
+                    "last": "Stojanovic-Susulic"
+                },
+                {
+                    "first": "Chris",
+                    "initial": "C.",
+                    "last": "Bridts"
+                },
+                {
+                    "first": "Luc",
+                    "initial": "L.",
+                    "last": "De Clerck"
+                },
+                {
+                    "first": "Jeroen",
+                    "initial": "J.",
+                    "last": "DeGroot"
+                },
+                {
+                    "first": "Jan A.N.",
+                    "initial": "J.A.N.",
+                    "last": "Verhaar"
+                },
+                {
+                    "first": "Margreet",
+                    "initial": "M.",
+                    "last": "Kloppenburg"
+                },
+                {
+                    "first": "Gerjo J.V.M.",
+                    "initial": "G.J.V.M.",
+                    "last": "Van Osch"
+                }
+            ],
+            "doi": "10.1136/ard.2011.153858",
+            "firstpage": "288",
+            "issn": "00034967",
+            "lastpage": "294",
+            "pmid": "21998115",
+            "pub_year": 2012,
+            "title": "Infrapatellar fat pad of patients with end-stage osteoarthritis inhibits catabolic mediators in cartilage",
+            "volume": "71"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "Munetaka",
+                    "initial": "M.",
+                    "last": "Iwata"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Ochi"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Hara"
+                },
+                {
+                    "first": "Masahiro",
+                    "initial": "M.",
+                    "last": "Tagawa"
+                },
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Koga"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Okawa"
+                },
+                {
+                    "first": "Yoshinori",
+                    "initial": "Y.",
+                    "last": "Asou"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0060706",
+            "issn": "19326203",
+            "pmid": "23593289",
+            "pub_year": 2013,
+            "title": "Initial Responses of Articular Tissues in a Murine High-Fat Diet-Induced Osteoarthritis Model: Pivotal Role of the IPFP as a Cytokine Fountain",
+            "volume": "8"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "Gil",
+                    "initial": "G.",
+                    "last": "Blander"
+                },
+                {
+                    "first": "Leonard",
+                    "initial": "L.",
+                    "last": "Guarente"
+                }
+            ],
+            "doi": "10.1146/annurev.biochem.73.011303.073651",
+            "firstpage": "417",
+            "issn": "00664154",
+            "lastpage": "435",
+            "pmid": "15189148",
+            "pub_year": 2004,
+            "title": "The Sir2 family of protein deacetylases",
+            "volume": "73"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Shin Ichiro",
+                    "initial": "S.I.",
+                    "last": "Imai"
+                },
+                {
+                    "first": "Leonard",
+                    "initial": "L.",
+                    "last": "Guarente"
+                }
+            ],
+            "doi": "10.1016/j.tips.2010.02.003",
+            "firstpage": "212",
+            "issn": "01656147",
+            "lastpage": "220",
+            "pmid": "20226541",
+            "pub_year": 2010,
+            "title": "Ten years of NAD-dependent SIR2 family deacetylases: Implications for metabolic diseases",
+            "volume": "31"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Jinying",
+                    "initial": "J.",
+                    "last": "Piao"
+                },
+                {
+                    "first": "Kunikazu",
+                    "initial": "K.",
+                    "last": "Tsuji"
+                },
+                {
+                    "first": "Hiroki",
+                    "initial": "H.",
+                    "last": "Ochi"
+                },
+                {
+                    "first": "Munetaka",
+                    "initial": "M.",
+                    "last": "Iwata"
+                },
+                {
+                    "first": "Daisuke",
+                    "initial": "D.",
+                    "last": "Koga"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Okawa"
+                },
+                {
+                    "first": "Sadao",
+                    "initial": "S.",
+                    "last": "Morita"
+                },
+                {
+                    "first": "Shu",
+                    "initial": "S.",
+                    "last": "Takeda"
+                },
+                {
+                    "first": "Yoshinori",
+                    "initial": "Y.",
+                    "last": "Asou"
+                }
+            ],
+            "doi": "10.1038/srep03022",
+            "issn": "20452322",
+            "pmid": "24149372",
+            "pub_year": 2013,
+            "title": "Sirt6 regulates postnatal growth plate differentiation and proliferation via Ihh signaling",
+            "volume": "3"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "Yariv",
+                    "initial": "Y.",
+                    "last": "Kanfi"
+                },
+                {
+                    "first": "Victoria",
+                    "initial": "V.",
+                    "last": "Peshti"
+                },
+                {
+                    "first": "Reuven",
+                    "initial": "R.",
+                    "last": "Gil"
+                },
+                {
+                    "first": "Shoshana",
+                    "initial": "S.",
+                    "last": "Naiman"
+                },
+                {
+                    "first": "Liat",
+                    "initial": "L.",
+                    "last": "Nahum"
+                },
+                {
+                    "first": "Eran",
+                    "initial": "E.",
+                    "last": "Levin"
+                },
+                {
+                    "first": "Noga",
+                    "initial": "N.",
+                    "last": "Kronfeld-Schor"
+                },
+                {
+                    "first": "Haim Y.",
+                    "initial": "H.Y.",
+                    "last": "Cohen"
+                }
+            ],
+            "doi": "10.1111/j.1474-9726.2009.00544.x",
+            "firstpage": "162",
+            "issn": "14749718",
+            "lastpage": "173",
+            "pmid": "20047575",
+            "pub_year": 2010,
+            "title": "SIRT6 protects against pathological damage caused by diet-induced obesity",
+            "volume": "9"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 19074,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The protein expression of type X collagen (ColX), Matrix Metalloproteinase-13 (MMP-13), Sirt6 and Plasminogen activator inhibitor-1 (PAI-1) was determined by immunohistochemistry using anti-ColX antibody (LSL, Japan), anti- MMP-13 (Abcam Biochemicals, Cambridge, UK), anti-Sirt6 (Abcam Biochemicals, Cambridge, UK) and anti-PAI-1 (Abcam Biochemicals, Cambridge, UK) respectively, according to the manufacturer's instructions.",
+            "startOffset": 18649,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 22798,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Safranin-O staining revealed glycosaminoglycan (GAG) concentration was markedly reduced in Prx-1Cre;Sirt6f/f mice (Fig. 2a).",
+            "startOffset": 22674,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 25113,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Furthermore, Sirt6 \u00b1 mice exhibited spontaneous increased apoptotic cells even in the ND group (Fig. 4a, b).",
+            "startOffset": 25005,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 15387,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Sirt6 \u00b1 mice on a 129X1/SvJ background were obtained from Jackson Laboratory (Bar Harbor, ME, USA).",
+            "startOffset": 15288,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 28419,
+            "parents": [],
+            "refoffsets": {
+                "bib13": {
+                    "endOffset": 28309,
+                    "startOffset": 28305
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Given that positive regulation of MMP13 expression by Ihh was previously reported [13], we believe that Ihh is also likely to contribute to the unchanged MMP13 expression in Prx1cre;Sirt6f/f mice.",
+            "startOffset": 28223,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21289,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 21202,
+                    "startOffset": 21199
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Although Sirt6 overexpression has been reported to have protective roles against diet-induced metabolic diseases [9], the roles of Sirt6 in the fat tissue depot response to HFD have yet to be elucidated.",
+            "startOffset": 21086,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 24043,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These findings indicated endogenous Sirt6 deletion in the chondrocytes did not accelerate the expression of MMP-13 and ColX.",
+            "startOffset": 23919,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 12867,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 12866,
+                    "startOffset": 12861
+                },
+                "bib2": {
+                    "endOffset": 12866,
+                    "startOffset": 12861
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Obesity and high body mass index are associated with a higher incidence of OA [1,2].",
+            "startOffset": 12783,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16569,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The cartilage pieces were then incubated in 0.5 mg/ml type I collagenase at 37 \u00b0C in a thermal incubator with 5% CO2 overnight.",
+            "startOffset": 16442,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 17033,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The target sequence of Sirt6 siRNA was 5\u2032GAAGCUCCCAAUGCAAUAAAU3\u2032(forward) and 5\u2032UUAUUGCAUUGGGAGCUUCUG3\u2032 (reverse).",
+            "startOffset": 16919,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 15979,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib23": {
+                    "endOffset": 15951,
+                    "startOffset": 15947
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "Tokyo, Japan) [23] from the age of six months.",
+            "startOffset": 15933,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 26745,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Second, enhanced inflammation of the IPFP was associated with accelerated OA progression in Sirt6 \u00b1 mice.",
+            "startOffset": 26640,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28116,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 28115,
+                    "startOffset": 28112
+                }
+            },
+            "secId": "sec4",
+            "sentence": "In our previous study, we revealed Sirt6 deletion inhibits the expression of ColX through the inhibition of Indian hedgehog (Ihh) by suppressing the affinity of ATF4 to the Ihh promoter [8].",
+            "startOffset": 27926,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21058,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These data suggest that Sirt6 \u00b1 mice fed an HFD were more susceptible to metabolic syndrome than WT mice.",
+            "startOffset": 20953,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 30771,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 30770,
+                    "startOffset": 30767
+                }
+            },
+            "secId": "sec4",
+            "sentence": "We previously reported the expression of senescence marker genes are increased in epiphyseal chondrocytes from young Sirt6\u2212/\u2212 mice [8].",
+            "startOffset": 30636,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30117,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 30116,
+                    "startOffset": 30112
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Macrophages derived from the bone marrow of Sirt6-deficient mice exhibit increased MCP-1, IL-6, and TNF\u03b1 expression levels and are hypersensitive to LPS stimulation through activation of c-JUN signaling [18].",
+            "startOffset": 29909,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31563,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In conclusion, our results provide clues that Sirt6 prevents articular cartilage degradation and IPFP inflammation caused by metabolic syndrome.",
+            "startOffset": 31419,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26219,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "First, Sirt6 haploinsufficiency promoted the expression of inflammatory cytokines in the IPFP in association with impaired glucose tolerance.",
+            "startOffset": 26078,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13331,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "The infrapatellar fat pad (IPFP) is a unique fat depot that is located intracapsularly and extrasynovially in the joint and is in close contact with articular cartilage.",
+            "startOffset": 13162,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28222,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This result is consistent with the aforementioned inhibition of ColX expression in Prx1cre;Sirt6f/f mice.",
+            "startOffset": 28117,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19585,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Statistical analysis was performed with the Mann\u2013Whitney U test or Tukey\u2013Kramer test.",
+            "startOffset": 19500,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 31010,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 31009,
+                    "startOffset": 31006
+                }
+            },
+            "secId": "sec4",
+            "sentence": "We previously revealed the expression of these cytokines was enhanced in Sirt6\u2212/\u2212 chondrocytes [8].",
+            "startOffset": 30911,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12647,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "It is well known that individuals suffering from metabolic syndrome display a characteristic imbalance in their adipokine profile, which leads to profound changes in insulin sensitivity and other biochemical alterations of metabolites.",
+            "startOffset": 12412,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24764,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These findings suggested inflammation triggered by global haploinsufficiency of Sirt6 was further enhanced by HFD.",
+            "startOffset": 24650,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 17329,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Whole knee joints were removed by dissection, fixed in 4% paraformaldehyde, and decalcified in EDTA.",
+            "startOffset": 17229,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 31854,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "We believe these findings imply that, in humans, the risk of knee osteoarthritis increases as the level of Sirt6 activity decreases with age and that the combination of senility and obesity makes the elderly more susceptible to the worsening of knee osteoarthritis as compared to the young.",
+            "startOffset": 31564,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12411,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Metabolic syndrome is a common phenotype associated with an increased risk of cardiovascular disease or diabetes.",
+            "startOffset": 12298,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32185,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Wrote the paper: YA, MA.",
+            "startOffset": 32161,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 17902,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Briefly, the medial part of the sections, in which the central region of the medial meniscus was continuous, were selected and the protruded region, which stained green by Safranin-O staining, at the anterior edge of the tibial plateau was defined as bony osteophyte and quantified using ImageJ software (Media Cybernetics, Carlsbad, CA).",
+            "startOffset": 17564,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 29656,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Many inflammatory cytokines, including TNF-\u03b1, are implicated in HFD-induced inflammation of the fat tissues.",
+            "startOffset": 29548,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13441,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 13440,
+                    "startOffset": 13437
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Recently, the endocrine function of the IPFP has been implicated in the initiation and progression of OA [4].",
+            "startOffset": 13332,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13687,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 13686,
+                    "startOffset": 13683
+                }
+            },
+            "secId": "sec1",
+            "sentence": "This model reveales that adipocyte hypertrophy closely links OA progression through secretion of inflammatory cytokines [5].",
+            "startOffset": 13563,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24649,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The osteophyte formation was further enhanced by HFD in Sirt6 \u00b1 mice (Fig. 3a, b) in association with further hypertrophy of the synovial tissues (Fig. 3c, d, e).",
+            "startOffset": 24487,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 29141,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In other words, the co-existence of Sirt6 haploinsufficiency and obesity worsens the inflammation in the IPFP.",
+            "startOffset": 29031,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22102,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Next, the knee joints were histologically investigated.",
+            "startOffset": 22047,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 18118,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib25": {
+                    "endOffset": 18117,
+                    "startOffset": 18113
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "For the evaluation of OA severity, representative sections were selected from the medial tibial plateau and medial femoral plateau, and scored with osteoarthritis research society international (OARSI) scoring [25].",
+            "startOffset": 17903,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 14864,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "This study sought to investigate the involvement of Sirt6 in the ageing of articular tissues and in the development of HFD-induced OA by using a murine HFD-induced osteoarthritis model.",
+            "startOffset": 14679,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24912,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 24911,
+                    "startOffset": 24907
+                }
+            },
+            "secId": "sec3.5",
+            "sentence": "Chondrocyte apoptosis is increased in OA cartilage and is anatomically linked to proteoglycan depletion [10].",
+            "startOffset": 24803,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 23210,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "We next evaluated the expression of the markers of OA in articular cartilage by immunohistochemistry (Fig. 2d, f).",
+            "startOffset": 23096,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 27673,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The expression levels of ColX and MMP13 were also spontaneously enhanced in Sirt6 \u00b1 mice, in which the expression of TNF-\u03b1 was enhanced in the IPFP.",
+            "startOffset": 27525,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29547,
+            "parents": [],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 29546,
+                    "startOffset": 29542
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Overexpression of SIRT6 in mice renders protection from various metabolic disorders caused by HFD-induced obesity [16].",
+            "startOffset": 29428,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31419,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, in the normal diet groups, both increased inflammation in the IPFP and increased PAI-1 expression in chondrocytes contributed to the progression of cartilage degeneration in Sir6 \u00b1 mice.",
+            "startOffset": 31227,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30416,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Combined with our data, Sirt6 may function as an anti-inflammatory factor in the course of HFD-induced OA development through the action on the macrophages in the IPFP.",
+            "startOffset": 30248,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20742,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In ND group, fasting blood glucose level was lower in Sirt6 \u00b1 mice at 90 and 120 min following glucose injection than in WT mice (Fig. 1(b)a).",
+            "startOffset": 20600,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 25966,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "These results indicates enhanced PAI-1 expression in Sirt6 \u00b1 mice and Prx-1Cre+;Sirt6f/f mice may mimic the ageing process of the joint cartilage.",
+            "startOffset": 25820,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 26521,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 26520,
+                    "startOffset": 26516
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The 129 strain is reported to develop features of metabolic syndrome, such as obesity, hyperinsulinemia, and glucose intolerance, after being fed a high-fat diet (HFD) for over 18 weeks [11].",
+            "startOffset": 26330,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13161,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Adipose tissue has been characterized as an active endocrine organ.",
+            "startOffset": 13094,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16628,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The next day, cell aggregates were dispersed by pipetting.",
+            "startOffset": 16570,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 26329,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "With the background of 129sv, we performed a glucose tolerance test (GTT) on wild-type (WT) and Sirt6 \u00b1 mice.",
+            "startOffset": 26220,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14602,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "These facts suggest possible roles of Sirt6 in the maintenance of the articular cartilage.",
+            "startOffset": 14512,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26926,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In Sirt6 \u00b1 mice, advanced degeneration of the articular cartilage (Fig. 2) and increased apoptosis (Fig. 4a, b) were observed, in many cases, irrespective of administration of HFD.",
+            "startOffset": 26746,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23668,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The expression of MMP-13, a matrix protease implicated in the OA process, was also significantly increased at the superficial layer of articular cartilage in Sirt6 \u00b1 ND and Sirt6 \u00b1 HFD groups compared to WT or control, respectively (Fig. 2f, g).",
+            "startOffset": 23423,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 16760,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The cells were cultured in 12-well plates seeded with 5 \u00d7 104 cells per well in DMEM/F12 medium containing 10% FBS and antibiotics.",
+            "startOffset": 16629,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 25241,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "On the other hand, in Prx-1Cre+;Sirt6f/f mice, TUNEL positive cells were not increased in the articular cartilage (Fig. 4a, b).",
+            "startOffset": 25114,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 29240,
+            "parents": [],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 29239,
+                    "startOffset": 29235
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The IPFP contains adipocytes and immune cells such as lymphocytes, monocytes and granulocytes [14].",
+            "startOffset": 29141,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17228,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Prx-1Cre+;Sirt6f/f mice (n = 6) were sacrificed at 6 months of age.",
+            "startOffset": 17161,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 27524,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The enhancement of the inflammatory cytokines in the IPFP was observed only in Sirt6 \u00b1 mice and not in Prx-1Cre+;Sirt6f/f mice, as Sirt6 expression was comparative in the IPFP of Prx-1Cre+;Sirt6f/f mice (Fig. 1d).",
+            "startOffset": 27311,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27153,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 27152,
+                    "startOffset": 27149
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Whereas TNF-\u03b1 and IL-6 induce apoptosis in chondrocytes, we previously reported Sirt6 had no effect on chondrocyte apoptosis [8].",
+            "startOffset": 27024,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19852,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Body weights of Sirt6 \u00b1 mice in 129X1/SvJ strains were comparable to WT littermates at six and nine months of age (Fig. 1a).",
+            "startOffset": 19728,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 16252,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib24": {
+                    "endOffset": 16251,
+                    "startOffset": 16247
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "Primary epiphyseal chondrocytes were isolated from 5-day-old mice as previously reported [24].",
+            "startOffset": 16158,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 22368,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Histological investigation of the femorotibial joints of nine-month-old mice frequently revealed vertical clefts down to the layer immediately below the superficial layer in association with moderate reduction of Safranin-O intensity only in Sirt6 \u00b1 mice (Fig. 2a).",
+            "startOffset": 22103,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 25579,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "Both Sirt6 \u00b1 mice at 9 months of age and Prx-1Cre+;Sirt6f/f demonstrated higher levels of PAI-1 expression (Fig. 4c, d).",
+            "startOffset": 25459,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 12990,
+            "parents": [],
+            "refoffsets": {
+                "bib3": {
+                    "endOffset": 12989,
+                    "startOffset": 12986
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Recent studies have revealed that a metabolic syndrome rather than obesity itself is implicated in the etiology of OA [3].",
+            "startOffset": 12868,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29030,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These findings imply that the expression levels of inflammatory cytokines such as TNF-\u03b1 and IL-6 in the IPFP are higher in HFD-fed Sirt6 \u00b1 mice than in ND-fed Sirt6 \u00b1 mice.",
+            "startOffset": 28858,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30635,
+            "parents": [],
+            "refoffsets": {
+                "bib20": {
+                    "endOffset": 30634,
+                    "startOffset": 30630
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Consistently, PAI-1 expression is increased in the human OA cartilage [20].",
+            "startOffset": 30560,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15932,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Sirt6 heterozygous mice (Sirt6 \u00b1 mice) or littermate mice (WT mice) were fed a diet containing 32% fat for the high fat diet group (HFD) or 4.8% fat for the normal diet group (ND) (HFD32 and CE-2; CLEA Japan, Inc.",
+            "startOffset": 15719,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 27925,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In contrast, in Prx1cre;Sirt6f/f mice, the expression levels of ColX and MMP13 were decreased or unaffected.",
+            "startOffset": 27817,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31956,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "These results support a potential therapeutic application of a SIRT6 agonist in the IPFP in human OA.",
+            "startOffset": 31855,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15078,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Furthermore, we compared the phenotype of the articular tissues between Sirt6 global haploinsufficient mice and mesenchyme-specific Sirt6 deficient mice to evaluate the critical roles of Sirt6 in the chondrocytes.",
+            "startOffset": 14865,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20599,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To explore the role of Sirt6 insufficiency in glucose homeostasis and insulin sensitivity, glucose tolerance tests (GTTs) was performed for WT and Sirt6 \u00b1 mice (Fig. 1b).",
+            "startOffset": 20429,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 14320,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 14319,
+                    "startOffset": 14316
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Sirt6 is implicated in the regulation of life span and ageing through the regulation of NF\u03baB function [7].",
+            "startOffset": 14214,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15287,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All animal experiments were approved by the Animal Care and Use Committee of Tokyo Medical and Dental University and were carried out in accordance with the approval guidelines.",
+            "startOffset": 15110,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 29908,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, locally present macrophages may play important roles in the elevated expression levels of these cytokines.",
+            "startOffset": 29796,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 23801,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On the other hand, ColX expression and the number of hypertrophic chondrocytes were reduced in Prx-1Cre+;Sirt6f/f mice (Fig. 2d, e).",
+            "startOffset": 23669,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 24107,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Osteophyte formation is among the characteristic features of OA.",
+            "startOffset": 24043,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 18416,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Mice were fasted overnight (18 h) before GTT was performed, by an intraperitoneal injection of glucose (0.5 g/kg; Sigma\u2013Aldrich, St. Louis, MO) to assess glucose clearance.",
+            "startOffset": 18244,
+            "title": "Glucose tolerance test (GTT)"
+        },
+        {
+            "endOffset": 32019,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Conceived and designed the experiments: YA.",
+            "startOffset": 31976,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 17563,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 17562,
+                    "startOffset": 17559
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "Quantitative osteophyte determination was made as mentioned previously [5].",
+            "startOffset": 17488,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 20013,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To investigate the role of Sirt6 in obesity-induced OA, Sirt6 \u00b1 mice and the littermates were fed HFD or normal diet (ND) for three months from 6 months of age.",
+            "startOffset": 19853,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 22940,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "When Sirt6 was knocked down in the epiphyseal primary chondrocyte by Sirt6 siRNA, aggrecan transcript was significantly suppressed (Fig. 2c).",
+            "startOffset": 22799,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 30910,
+            "parents": [],
+            "refoffsets": {
+                "bib21": {
+                    "endOffset": 30909,
+                    "startOffset": 30905
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Senescent cells secrete inflammatory cytokines as a result of a behavior termed the senescence-associated secretory phenotype (SASP) [21].",
+            "startOffset": 30772,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21397,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus we monitored the mRNA expression levels of inflammatory cytokines/adipokines of the IPFP at sacrifice.",
+            "startOffset": 21290,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 21629,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Real-time RT-PCR analysis revealed the expression of inflammatory cytokines, such as TNF-\u03b1 and IL-6, were spontaneously enhanced in the IPFP in Sirt6 \u00b1 mice whereas this effect was not observed in Prx-1Cre+;Sirt6f/f mice (Fig. 1c).",
+            "startOffset": 21398,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 30559,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Third, we demonstrated PAI-1 protein expression was dominantly observed at the superficial layer of the articular chondrocytes of Sirt6 \u00b1 mice.",
+            "startOffset": 30416,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19638,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "P values less than 0.05 were considered significant.",
+            "startOffset": 19586,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 27722,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 27721,
+                    "startOffset": 27717
+                }
+            },
+            "secId": "sec4",
+            "sentence": "TNF-\u03b1 induces IL-6 mRNA in OA chondrocytes [12].",
+            "startOffset": 27674,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19499,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.7",
+            "sentence": "Data are expressed as the mean \u00b1 1 SD.",
+            "startOffset": 19461,
+            "title": "Statistical analysis"
+        },
+        {
+            "endOffset": 26077,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Here we revealed the roles of Sirt6 in the etiology of metabolic syndrome, including osteoarthritis.",
+            "startOffset": 25977,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27023,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In Sirt6 \u00b1 mice, the expression level of inflammatory cytokines increased in the IPFP (Fig. 1c).",
+            "startOffset": 26927,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32160,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Contributed reagents/materials/analysis tools: YH, DK, AO, SM.",
+            "startOffset": 32098,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 25819,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "PAI-1 expression in the chondrocytes was significantly increased in WT aged mice (Fig. 4c, d), suggesting that PAI-1 expression in chondrocytes increases with age.",
+            "startOffset": 25656,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 12782,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Osteoarthritis (OA) is a chronic degenerative joint disorder characterized by articular cartilage destruction and osteophyte formation.",
+            "startOffset": 12647,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22561,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "When HFD was applied to these mice, the histological features of OA were observed both in WT and Sirt6 \u00b1 mice, although the histological alteration was more apparent in Sirt6 \u00b1 mice (Fig. 2a).",
+            "startOffset": 22369,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 19438,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Apoptotic cells in the articular cartilage were detected by a TUNEL detection kit according to the manufacturer's instructions (Takara Shuzo, Kyoto, Japan).",
+            "startOffset": 19282,
+            "title": "TUNEL assay"
+        },
+        {
+            "endOffset": 32097,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Analyzed the data: MA, YA, JP.",
+            "startOffset": 32067,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 13900,
+            "parents": [],
+            "refoffsets": {
+                "bib6": {
+                    "endOffset": 13899,
+                    "startOffset": 13896
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The stress-response and chromatin-silencing factor Sir2, a yeast sirtuin, is a NAD+-dependent histone deacetylase and is involved in controlling ageing [6].",
+            "startOffset": 13744,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18213,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Two representative sections from each mouse were blindly evaluated by three different readers.",
+            "startOffset": 18119,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 15718,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "The mice were sacrificed and analyzed at six months of age.",
+            "startOffset": 15659,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 16441,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "Briefly, cartilage tissues, including the femoral heads, femoral condyles and tibial plateau, were cut into small pieces and digested twice for 45 min each with 3 mg/ml type I collagenase.",
+            "startOffset": 16253,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 22673,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The OA severity based on OARSI score indicated Sirt6 \u00b1 mice scored higher compared to WT littermates (Fig. 2b).",
+            "startOffset": 22562,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 13562,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 13561,
+                    "startOffset": 13558
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We previously disclosed that the murine IPFP secretes inflammatory cytokines within twelve weeks of exposure to HFD [5].",
+            "startOffset": 13442,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28638,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Considering these facts, the increased ColX, MMP-13 expression and apoptotic activity in Sirt6 \u00b1 chondrocytes may be caused by enhanced IPFP inflammation and not as the result of chondrocyte cell autonomous regulation.",
+            "startOffset": 28420,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20119,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Both WT and Sirt6 \u00b1 mice fed the HFD weighed 20% more after twelve weeks on the diet (Fig. 1a, p > 0.05).",
+            "startOffset": 20014,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 13094,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the reasons why there is such a correlation between metabolic syndrome and OA remains elusive.",
+            "startOffset": 12991,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 27816,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 27815,
+                    "startOffset": 27811
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Treatment of OA chondrocytes with IL-6 results in enhanced production of MMP-13 protein [12].",
+            "startOffset": 27723,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20952,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "However, after being fed HFD for 12 weeks, Sirt6 \u00b1 mice showed significantly higher blood glucose levels at 30 and 60 min following glucose injection as compared to those in the other littermates (Fig. 1(b)b).",
+            "startOffset": 20743,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 29795,
+            "parents": [],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 29794,
+                    "startOffset": 29790
+                }
+            },
+            "secId": "sec4",
+            "sentence": "TNF-\u03b1 is produced by macrophages, lymphocytes, and also by adipose tissue, although its expression level is relatively low in humans [17].",
+            "startOffset": 29657,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18519,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Blood samples were taken from the tail vein before and 30, 60, 90 and 120 min following the injection.",
+            "startOffset": 18417,
+            "title": "Glucose tolerance test (GTT)"
+        },
+        {
+            "endOffset": 14213,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 14212,
+                    "startOffset": 14209
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Among them, SIRT6 is localized to the nucleus and is involved in transcriptional silencing, genome stability, and longevity [7].",
+            "startOffset": 14085,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20428,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Body weights of Prx-1Cre;Sirt6f/f mice were comparable to the controls at six months of age (Fig. 1a).",
+            "startOffset": 20326,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 25655,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The HFD caused a more notable increase in PAI-1 expression in Sirt6 \u00b1 mice.",
+            "startOffset": 25580,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 26640,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "From the result of our GTT, we confirmed Sirt6 \u00b1 mice were more susceptible to metabolic syndrome after being fed HFD.",
+            "startOffset": 26522,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19268,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "The signal was visualized using peroxidase-conjugated avidin and diaminobenzidine from a Vectastain kit, according to the manufacturer's instructions (Vector Laboratories, Burlingame, CA, USA).",
+            "startOffset": 19075,
+            "title": "Immunohistochemistry"
+        },
+        {
+            "endOffset": 24322,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Sirt6 haploinsufficiency was associated with enhanced osteophyte formation at the anterior edge of the sagittal section of the tibial plateau, whereas osteophytes were hardly observed in WT ND mice (Fig. 3a, b, c).",
+            "startOffset": 24108,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 28857,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When Sir6 \u00b1 mice were fed HFD, an increase was observed in osteophyte and synovium formations (Fig. 3a), in addition to a further increase in the expression level of the cartilage degeneration marker MMP13 (Fig. 2f, g).",
+            "startOffset": 28638,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21739,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "When Sirt6 \u00b1 and the littermate mice were fed HFD, leptin mRNA was similarly increased in the IPFP (Fig. 1c).",
+            "startOffset": 21630,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 23051,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "These results indicated Sirt6 was required for the expression of glycosaminoglycan in the articular cartilage.",
+            "startOffset": 22941,
+            "title": "Histological analysis of the femorotibial joints"
+        },
+        {
+            "endOffset": 13743,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Ageing is also a pivotal risk factor for osteoarthritis.",
+            "startOffset": 13687,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21836,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The expression of TNF-\u03b1 and IL-6 in the IPFP was the highest in the Sirt6 \u00b1 HFD group (Fig. 1c).",
+            "startOffset": 21740,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 21996,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Sirt6 mRNA was deleted in the chondrocytes of Prx-1Cre;Sirt6f/f mice, whereas the expression level of Sirt6 in the IPFP was comparable in these mice (Fig. 1d).",
+            "startOffset": 21837,
+            "title": "mRNA profiles in the IPFP"
+        },
+        {
+            "endOffset": 15473,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Prx1-Cre (B6.Cg-Tg[Prx1-Cre]1Cjt/J) mice were kindly supplied by Dr. Hiroshi Asahara.",
+            "startOffset": 15388,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 32066,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "Performed the experiments: MA, ZA, MI, JP, YA.",
+            "startOffset": 32020,
+            "title": "Author contributions"
+        },
+        {
+            "endOffset": 17160,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Sirt6 \u00b1 mice and the littermates were sacrificed at twelve weeks after initiating the diet (n = 7).",
+            "startOffset": 17061,
+            "title": "Assessment of OA severity"
+        },
+        {
+            "endOffset": 14084,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In mammals the sirtuin family contains seven genes (SIRT1\u2013SIRT7) encoding sirtuin proteins that differ in tissue specificity, subcellular localization, enzymatic activity and targets.",
+            "startOffset": 13901,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14678,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the precise role of Sirt6 in OA pathogenesis is poorly understood.",
+            "startOffset": 14603,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18626,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Blood glucose level was measured using Glutest neo alpha (Sanwa kagaku kenkyusho CO., LTD, Nagoya, Japan).",
+            "startOffset": 18520,
+            "title": "Glucose tolerance test (GTT)"
+        },
+        {
+            "endOffset": 16078,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "All of the animals were allowed unrestricted activity and were provided food and water ad libitum.",
+            "startOffset": 15980,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 14511,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 14510,
+                    "startOffset": 14507
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We previously disclosed that Sirt6 is expressed in chondrocytes and controls proliferation and differentiation of chondrocytes through the regulation of Indian hedgehog (Ihh) expression [8].",
+            "startOffset": 14321,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23918,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Furthermore, the expression of MMP-13 in Prx-1Cre+;Sirt6f/f mice was similar compared to the control mice (Fig. 2f).",
+            "startOffset": 23802,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 16918,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The cells were transfected with 50 nM Sirt6 siRNA or scrambled siRNA with HiPerFect (Qiagen, Valencia, CA, USA) in medium supplemented with 10% FBS for 24 h.",
+            "startOffset": 16761,
+            "title": "Cell culture conditions"
+        },
+        {
+            "endOffset": 29325,
+            "parents": [],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 29324,
+                    "startOffset": 29320
+                }
+            },
+            "secId": "sec4",
+            "sentence": "The IPFPs from OA patients contain increased amounts of inflammatory cytokines [15].",
+            "startOffset": 29241,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30247,
+            "parents": [],
+            "refoffsets": {
+                "bib19": {
+                    "endOffset": 30246,
+                    "startOffset": 30242
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Furthermore, Sirt6 was reported to directly promote the secretion of TNF-\u03b1 by removing the fatty acyl modification of TNF-\u03b1 [19].",
+            "startOffset": 30118,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15658,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Sirt6f/f mice (FVB.129S6(Cg)-Sirt6tm1.1Cxd/J) and Prx1-Cre mice were crossed to generate Prx1-Cre; Sirt6f/+ mice, and their progeny were intercrossed to obtain Prx1-Cre; Sirt6f/f mice.",
+            "startOffset": 15474,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 29427,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, the IPFP has been shown to play an important role in the initiation and progression of knee-OA.",
+            "startOffset": 29326,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 25458,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "PAI-1 positive chondrocytes were rarely observed in 2-month-old mice (Fig. 4d).",
+            "startOffset": 25379,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 25378,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "To address the role of Sirt6 in articular chondrocyte senescence, the expression of PAI-1 protein was evaluated by immunohistochemistry.",
+            "startOffset": 25242,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 20325,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "To evaluate the limb mesenchymal cell-specific function of Sirt6, we developed the conditional Sirt6 deletion mice carrying floxed Sirt6 alleles bred with Prx1-cre transgenic mice (Prx-1Cre;Sirt6f/f mice).",
+            "startOffset": 20120,
+            "title": "Impact of Sirt6 haploinsufficiency with or without HFD on the insulin tolerance"
+        },
+        {
+            "endOffset": 25004,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.5",
+            "sentence": "The number of TUNEL positive cells was elevated by HFD in WT and Sirt6 \u00b1 mice (Fig. 4a, b).",
+            "startOffset": 24913,
+            "title": "Chondrocyte apoptosis and senescence"
+        },
+        {
+            "endOffset": 24486,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Simultaneously, hypertrophy of the synovium accompanied by infiltration of inflammatory cells (Fig. 3c arrows) was also enhanced in the Sirt6 \u00b1 ND (Fig. 3c, d, e).",
+            "startOffset": 24323,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 27310,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "This phenotype is consistent with that of Prx-1Cre+;Sirt6f/f mice, in which TUNEL positive cells were not increased in the articular chondrocytes (Fig. 4a).",
+            "startOffset": 27154,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16132,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "None of the mice died during the experimental period.",
+            "startOffset": 16079,
+            "title": "Animals"
+        },
+        {
+            "endOffset": 23422,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Staining for type X collagen (ColX), an extracellular matrix marker for chondrocyte hypertrophy, was enhanced at the deep layer of the articular cartilage in WT HFD, Sirt6 \u00b1 ND, and Sirt6 \u00b1 HFD groups (Fig. 2d).",
+            "startOffset": 23211,
+            "title": "Immunohistological analysis for OA markers"
+        },
+        {
+            "endOffset": 31226,
+            "parents": [],
+            "refoffsets": {
+                "bib22": {
+                    "endOffset": 31093,
+                    "startOffset": 31089
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Considering the fact that the SASP contributes to the onset of osteoarthritis [22], we believe that, in aged mice, increased expression of PAI-1 in chondrocytes contributes to the progression of knee osteoarthritis.",
+            "startOffset": 31011,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17487,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 17486,
+                    "startOffset": 17483
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "After dehydration and paraffin embedding, serial 5-\u03bcm sagittal sections were made from the whole medial compartment of the joint as mentioned previously [5].",
+            "startOffset": 17330,
+            "title": "Assessment of OA severity"
+        }
+    ],
+    "docId": "S0006291X15305362",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Maierhaba",
+                "initial": "M.",
+                "last": "Ailixiding"
+            },
+            {
+                "email": null,
+                "first": "Zulipiya",
+                "initial": "Z.",
+                "last": "Aibibula"
+            },
+            {
+                "email": null,
+                "first": "Munetaka",
+                "initial": "M.",
+                "last": "Iwata"
+            },
+            {
+                "email": null,
+                "first": "Jinying",
+                "initial": "J.",
+                "last": "Piao"
+            },
+            {
+                "email": null,
+                "first": "Yasushi",
+                "initial": "Y.",
+                "last": "Hara"
+            },
+            {
+                "email": null,
+                "first": "Daisuke",
+                "initial": "D.",
+                "last": "Koga"
+            },
+            {
+                "email": null,
+                "first": "Atsushi",
+                "initial": "A.",
+                "last": "Okawa"
+            },
+            {
+                "email": null,
+                "first": "Sadao",
+                "initial": "S.",
+                "last": "Morita"
+            },
+            {
+                "email": "aso.orth@tmd.ac.jp",
+                "first": "Yoshinori",
+                "initial": "Y.",
+                "last": "Asou"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2015.09.019",
+        "firstpage": "319",
+        "issn": "0006291X",
+        "keywords": [
+            "Ageing",
+            "Infrapatellar fat pad",
+            "Metabolic syndrome",
+            "Osteoarthritis",
+            "Sirt6"
+        ],
+        "lastpage": "326",
+        "openaccess": "Full",
+        "pub_year": 2015,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Pivotal role of Sirt6 in the crosstalk among ageing, metabolic syndrome and osteoarthritis"
+    }
+}

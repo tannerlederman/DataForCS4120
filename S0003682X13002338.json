@@ -1,0 +1,1901 @@
+{
+    "abstract": "Maximum sound pressure levels are commonly used for environmental noise and building acoustics measurements. This paper investigates the signal processing errors due to Fast or Slow time-weighting detectors when combined with octave band filters, one-third octave band filters or an A-weighting filter. For 6th order Butterworth CPB filters the inherent time delay caused by the phase response of filters is quantified using three different approaches to establish the following rules-of-thumb: (1) time-to-gradient/amplitude matching occurs when Bt \u2248 1, (2) time-to-peak matching occurs when Bt \u2248 2 and (3) time-to-settle matching occurs when Bt \u2248 4 for octave band filters, and when Bt \u2248 3 for one-third octave band filters. Four different commercially- available sound level meters are used to quantify the variation in measured maximum levels using tone bursts, half-sine pulses, ramped noise and recorded transients. Tone bursts indicate that Slow time-weighting is inappropriate for maximum level measurements due to the large bias error. The results also show that there is more variation between sound level meters when considering Fast time-weighted maximum levels in octave bands or one-third octave bands than with A-weighted levels. To reduce the variation between measurements with different sound level meters, it is proposed that limits could be prescribed on the phase response for CPB filters and A-weighting filters. \u00a9 2013 Elsevier Ltd. All rights reserved.",
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Gunn Marit",
+                    "initial": "G.M.",
+                    "last": "Aasvang"
+                },
+                {
+                    "first": "Bo",
+                    "initial": "B.",
+                    "last": "Engdahl"
+                },
+                {
+                    "first": "Karin",
+                    "initial": "K.",
+                    "last": "Rothschild"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2006.04.013",
+            "firstpage": "970",
+            "issn": "0003682X",
+            "lastpage": "981",
+            "pub_year": 2007,
+            "title": "Annoyance and self-reported sleep disturbances due to structurally radiated noise from railway tunnels",
+            "volume": "68"
+        },
+        "b0010": null,
+        "b0015": {
+            "authors": [
+                {
+                    "first": "R. D.",
+                    "initial": "R.D.",
+                    "last": "Horonjeff"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Fidell"
+                },
+                {
+                    "first": "S. R.",
+                    "initial": "S.R.",
+                    "last": "Teffeteller"
+                },
+                {
+                    "first": "D. M.",
+                    "initial": "D.M.",
+                    "last": "Green"
+                }
+            ],
+            "doi": "10.1016/0022-460X(82)90481-3",
+            "firstpage": "327",
+            "issn": "0022460X",
+            "lastpage": "336",
+            "pub_year": 1982,
+            "title": "Behavioral awakening as functions of duration and detectability of noise intrusions in the home",
+            "volume": "84"
+        },
+        "b0020": null,
+        "b0025": null,
+        "b0030": null,
+        "b0035": null,
+        "b0040": null,
+        "b0045": null,
+        "b0050": null,
+        "b0055": null,
+        "b0060": null,
+        "b0065": null,
+        "b0070": null
+    },
+    "body_text": [
+        {
+            "endOffset": 24429,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The meter comprises the following components; input filters, CPB filters, and a time-weighted level detector (see Fig. 1).",
+            "startOffset": 24307,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 22053,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Inside buildings there are numerous transient sounds from footsteps, dropped objects on floors, building machinery, doors slamming, plumbing systems and wall-mounted sockets which can be assessed using maximum sound pressure levels.",
+            "startOffset": 21821,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 33480,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These detectors have a deterministic time response, in that their behaviour with respect to the time response of a given signal is predefined.",
+            "startOffset": 33338,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 31283,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "It is shown that the widely-quoted requirement of Bt \u2248 1 is based on time-to-gradient/amplitude matching.",
+            "startOffset": 31178,
+            "title": "Results"
+        },
+        {
+            "endOffset": 32427,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "For this reason, this section investigates how the combination of the time-weighted level detector with CPB or A-weighting filters affects the measurement of maximum sound pressure levels using the four different sound level meters.",
+            "startOffset": 32195,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 30938,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "This indicates that with respect to normalised time each parameter is frequency-independent; hence the results for 6th order Butterworth CPB filters can be summarised using the following rules-of-thumb: (1) time-to-gradient/amplitude matching occurs when Bt \u2248 1, (2) time-to-peak matching occurs when Bt \u2248 2 and (3) time-to-settle matching occurs when Bt \u2248 4 for octave band filters, and when Bt \u2248 3 for one-third octave band filters.",
+            "startOffset": 30504,
+            "title": "Results"
+        },
+        {
+            "endOffset": 38632,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The variation observed in the Z-weighted maximum level for the two measured transients can be expected to result in some variation in the A-weighted maximum level.",
+            "startOffset": 38469,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 21300,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Maximum sound pressure levels are commonly measured with a sound level meter when assessing environmental noise and building acoustics.",
+            "startOffset": 21165,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42167,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Figs. 11 and 12 allow comparison of the frequency spectra of the two measured transients using the software-based sound level meter along with the relative LFmax from the four commercially-available sound level meters in octave bands and one-third octave bands.",
+            "startOffset": 41906,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 31068,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The differences between the Bt products for octave and one-third octave band filters is due to their different impulse responses.",
+            "startOffset": 30939,
+            "title": "Results"
+        },
+        {
+            "endOffset": 46246,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "All four sound level meters complied with the relevant standards at the time of manufacture; hence the main uncontrolled variable for all meters is the phase response of the CPB filters and A-weighting filter.",
+            "startOffset": 46037,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27314,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This time delay is most conveniently investigated here with a steady-state sinusoidal signal which will then provide a basis on which to consider tone bursts as a simple form of transient in Section 4.1.",
+            "startOffset": 27111,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 22287,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 22286,
+                    "startOffset": 22283
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Maximum levels are also required for the measurement of vehicle noise emissions in Directive 97/24/EC [6].",
+            "startOffset": 22181,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35271,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The results show that when presented with short tone bursts there is a negative bias error for both Fast and Slow time-weighted level detectors.",
+            "startOffset": 35127,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 29715,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Note that the RMS detector is not used for matching parameter (1) and is only used for parameters (2) and (3).",
+            "startOffset": 29605,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 29028,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Time-to-peak matching using the detector output signal.",
+            "startOffset": 28973,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 25498,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 25497,
+                    "startOffset": 25491
+                },
+                "b0040": {
+                    "endOffset": 25423,
+                    "startOffset": 25417
+                },
+                "b0050": {
+                    "endOffset": 25423,
+                    "startOffset": 25417
+                },
+                "b0055": {
+                    "endOffset": 25497,
+                    "startOffset": 25491
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The four meters complied with the standards that applied at their time of manufacture for the general specification [8,10] and the octave band and one-third octave band filter specification [7,11].",
+            "startOffset": 25301,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 44125,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The time delay caused by the phase response of 6th order Butterworth filters has been quantified using three different approaches.",
+            "startOffset": 43995,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 32047,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "The maximum sound pressure level that is determined with a sound level meter is not just affected by the filters but by the combination of the filters and the detector.",
+            "startOffset": 31879,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 25214,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "To assess the signal processing in commercially-available sound level meters, four meters were chosen.",
+            "startOffset": 25112,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 26519,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Octave band and one-third octave band filters have an inherent time delay in their response and this has the potential to affect the measurement of maximum levels.",
+            "startOffset": 26356,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 27110,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Due to the inverse relationship between the time and frequency domains, the time delay increases as the roll-off in the filter magnitude response becomes steeper.",
+            "startOffset": 26948,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 44447,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "For 6th order Butterworth CPB filters the following rules-of-thumb have been established: (1) Time-to-gradient/amplitude matching occurs when Bt \u2248 1, (2) time-to-peak matching occurs when Bt \u2248 2 and (3) time-to-settle matching occurs when Bt \u2248 4 for octave band filters, and when Bt \u2248 3 for one-third octave band filters.",
+            "startOffset": 44126,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 22180,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Quantifying the error in the measurement of maximum sound pressure level is therefore important for standards and regulations.",
+            "startOffset": 22054,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25714,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The meters do not allow access to the AC filter output signal and therefore all errors were reported using either the Fast or Slow time-weighted maximum sound pressure levels, denoted as LFmax or LSmax respectively.",
+            "startOffset": 25499,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 41567,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Normalisation is required to define a relative LFmax in decibels for the comparison of different measured transients.",
+            "startOffset": 41450,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 34132,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Hence whilst there is always a zero crossing at the beginning of each tone burst there is only a zero crossing at the end of the tone burst when the centre frequency multiplied by the tone burst length is an integer value.",
+            "startOffset": 33910,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 45780,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "In general, with Fast time-weighting there is much greater variation of maximum sound pressure levels for octave bands and one-third octave bands than there is for A-weighted maximum sound pressure levels.",
+            "startOffset": 45575,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 38212,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This indicates that the half-sine pulse might be an overly demanding test.",
+            "startOffset": 38138,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 35508,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The bias error varies between the different meters and this variation is attributed to different phase responses for their CPB filters.",
+            "startOffset": 35373,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 39725,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Normalisation is required to define a relative LFmax in decibels for the comparison of different ramped noise signals.",
+            "startOffset": 39607,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 42292,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For transients No.1 and No.2 there are significant differences between the four meters below 500 Hz and 125 Hz respectively.",
+            "startOffset": 42168,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 29605,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The final stage is to identify the first sample in the normalised \u2018gradient signal\u2019 with <1% difference between consecutive gradients; this defines the time-to-settle.",
+            "startOffset": 29438,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 32709,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "These input signals are: tone bursts, idealised transients formed by half-sine pulses, ramped pink noise and real (i.e. measured) transients.",
+            "startOffset": 32568,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 45082,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "This bias error increases as the time constant becomes similar to the length of the tone burst.",
+            "startOffset": 44987,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 30328,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "As indicated by the red lines, time-to-gradient/amplitude matching occurs before time-to-peak matching which occurs before time-to-settle matching.",
+            "startOffset": 30181,
+            "title": "Results"
+        },
+        {
+            "endOffset": 45574,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "These large differences do not occur with ramped noise or real transients although differences up to 8 dB can still occur in an individual frequency band.",
+            "startOffset": 45420,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 46796,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The first is to prescribe limits on the phase response for CPB filters and the A-weighting filter to limit the variation between sound level meters.",
+            "startOffset": 46648,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 28006,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Time-weighted detectors average the response over time; hence they cannot be used to measure a filter\u2019s response time.",
+            "startOffset": 27888,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 27774,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "To test the applicability of this rule, three different parameters are used to assess the response time of CPB filters using the 6th order Butterworth filters in the software-based sound level meter.",
+            "startOffset": 27575,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 38468,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The A-weighted and Z-weighted maximum levels in decibels of the half-sine pulses are shown in Table 2 for the four sound level meters.",
+            "startOffset": 38334,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 40578,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The spread in results is sufficiently large to indicate that the combined response of the detector and CPB filters needs tighter specification to reduce the variation between sound level meters.",
+            "startOffset": 40384,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 46036,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "However as access to the AC filter output signal is not possible, the reason cannot be definitively identified.",
+            "startOffset": 45925,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 40383,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "These variations are more pronounced with one-third octave bands than octave bands.",
+            "startOffset": 40300,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 36218,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This is because the Slow detector has a longer time constant, as a result the peaks in the time domain are smeared more aggressively.",
+            "startOffset": 36085,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 22773,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Typical architecture for a sound level meter is shown in Fig. 1.",
+            "startOffset": 22709,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37444,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Figs. 7 and 8 show the frequency responses of the four sound level meters for the different half-sine pulses in octave bands and one-third octave bands respectively.",
+            "startOffset": 37279,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 24778,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 24686,
+                    "startOffset": 24683
+                }
+            },
+            "secId": "s0015",
+            "sentence": "These were validated according to EN 61260 [7] by checking the magnitude response of the filters against maximum and minimum requirements.",
+            "startOffset": 24640,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 36084,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The bias error associated with the Slow detector is always larger than that for the Fast detector for a given tone burst length.",
+            "startOffset": 35956,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 43534,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Using the difference between the Z-weighted and A-weighted maximum levels for the four meters indicates that differences between meters will be significant for some real transient signals (transient No.1) and negligible for others (transient No.2).",
+            "startOffset": 43286,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 46647,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "On the basis that the undefined phase response is the cause of the significant differences in the measured maximum sound pressure levels, two approaches are proposed to reduce the uncertainty involved in the measurement of maximum sound pressure levels.",
+            "startOffset": 46394,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 22584,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 22475,
+                    "startOffset": 22472
+                },
+                "b0040": {
+                    "endOffset": 22542,
+                    "startOffset": 22539
+                }
+            },
+            "secId": "s0005",
+            "sentence": "These are input filters to remove unwanted frequencies from the signal that is being measured, Constant Percentage Bandwidth (CPB) filters [7], an A-weighting filter [8], and a time-weighted level detector [8] to convert an AC signal into a DC signal.",
+            "startOffset": 22333,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 44986,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Using tone bursts indicates a bias error (underestimate) when measuring the Fast or Slow time-weighted maximum sound pressure level in octave bands or one-third octave bands.",
+            "startOffset": 44812,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 33257,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "It investigates the effect of the length of the tone burst when using Fast or Slow time-weighting.",
+            "startOffset": 33159,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 35654,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "However, as access to the AC filter output signal is not possible in these commercially-available meters, this cannot be definitively identified.",
+            "startOffset": 35509,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 38334,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In Sections 4.3 and 4.4 it will be shown that these large errors tend not to occur with more realistic transient signals.",
+            "startOffset": 38213,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 38773,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Therefore to identify significant differences between the meters it is useful to compare the level differences, LZFmax \u2212 LAFmax in decibels.",
+            "startOffset": 38633,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 45419,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Using half-sine pulses, the relative maximum levels vary considerably at different frequencies other than in the band containing the half-sine frequency.",
+            "startOffset": 45266,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 25068,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 24893,
+                    "startOffset": 24888
+                },
+                "b0045": {
+                    "endOffset": 24893,
+                    "startOffset": 24888
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Similarly the Fast and Slow time-weighted level detectors were validated according to EN 61672 Parts 1 and 2 [8,9] using a 4 kHz tone burst of various lengths and then checking the level response from the detectors, with shorter tone bursts giving lower level responses from the detectors.",
+            "startOffset": 24779,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 23696,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "All signal processing was carried out using either a software-based sound level meter or commercially-available sound level meters.",
+            "startOffset": 23565,
+            "title": "Equipment used for the signal processing"
+        },
+        {
+            "endOffset": 24539,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The meter was used to simulate the individual responses of the CPB filters and time-weighted level detectors.",
+            "startOffset": 24430,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 30503,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "To estimate the time at which matching occurs more accurately, the time delay is now assessed for a range of octave band and one-third octave band filters as shown in Fig. 3.",
+            "startOffset": 30329,
+            "title": "Results"
+        },
+        {
+            "endOffset": 45924,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The bias error varies between the different sound level meters and is most likely to be attributed to different phase responses for the filters.",
+            "startOffset": 45780,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 22708,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The final stages involve statistical, time-based averaging or peak detection components to determine the desired parameter.",
+            "startOffset": 22585,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28424,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Time-to-gradient/amplitude matching using the filter\u2019s AC output before the detector.",
+            "startOffset": 28339,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 22332,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "A sound level meter has four main components.",
+            "startOffset": 22287,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39215,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Some environmental sources can be idealised as a broadband signal with intermittent increases in level.",
+            "startOffset": 39112,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 26338,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This requires normalisation procedures that depend upon the type of transient excitation and these are described in Section 4.",
+            "startOffset": 26212,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 44811,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Four commercially-available sound level meters have been used to look at the maximum levels that are measured for tone bursts, half-sine pulses, ramped noise and real transient signals.",
+            "startOffset": 44626,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 35126,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Figs. 5 and 6 show the filter and detector level responses for the four sound level meters with tone burst excitation in octave bands and one-third octave bands respectively.",
+            "startOffset": 34952,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 46393,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "It is noteworthy that no single sound level meter was consistently different from the others for the different transient signals that were tested.",
+            "startOffset": 46247,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26874,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is because filter design is focused on the attenuation of frequencies outside the pass-band rather than the effect this has on the phase.",
+            "startOffset": 26732,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 33781,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "To assess the error in filter and detector combinations over the entire frequency range an input signal of tone bursts (uniform sine wave) at each filter band centre frequency are used.",
+            "startOffset": 33596,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 29107,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is determined by finding the maximum level in the detector output signal.",
+            "startOffset": 29029,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 24042,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "A software-based sound level meter has been implemented in the software package Matlab.",
+            "startOffset": 23955,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 34952,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The normalisation used to define a relative Lmax in decibels for the comparison of different tone bursts is the difference between the detector output and the RMS level of a uniform sine-wave.",
+            "startOffset": 34760,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 21605,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 21604,
+                    "startOffset": 21601
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Current guidelines from the World Health Organisation identify a threshold for sleep disturbance using the A-weighted maximum sound pressure level [4].",
+            "startOffset": 21454,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31692,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "For time-to-peak matching, absolute values for the filter time delay based on Bt = 2 would be 45 ms and 0.71 ms for the 63 Hz and 4 kHz octave bands and 173 ms and 1.73 ms for the 50 Hz and 5 kHz one-third octave bands.",
+            "startOffset": 31473,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33337,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The Fast and Slow detectors have time constants of 125 ms and 1 s respectively.",
+            "startOffset": 33258,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 35793,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "For this reason it is not possible to explain the differences that occur between different sound level meters with one-third octave bands.",
+            "startOffset": 35655,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 39607,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "To simulate such signals, two types of ramped noise are considered as shown in Fig. 4, these are: (1) 10 s of pink noise followed by 125 ms of pink noise increasing linearly by 10 dB followed by 125 ms of pink noise decreasing linearly by 10 dB, and (2) 10 s of pink noise followed by 1 s of pink noise increasing linearly by 10 dB followed by 1 s of pink noise decreasing linearly by 10 dB.",
+            "startOffset": 39216,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 40220,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In general, the meters are within 1 dB of each other in the mid-frequency range.",
+            "startOffset": 40140,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 28970,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Time-to-gradient/amplitude matching is defined using a 1% tolerance; hence the first sample is identified where there is <1% difference for both gradient and amplitude matching.",
+            "startOffset": 28793,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 29167,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Time-to-settle matching using the detector output signal.",
+            "startOffset": 29110,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 43713,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The variation in the A-weighted maximum sound pressure level is due to both the A-weighting filter and the fundamental differences in the Z-weighted maximum sound pressure level.",
+            "startOffset": 43535,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 40299,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, the differences are up to 2 dB in the low- and high-frequency ranges.",
+            "startOffset": 40221,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 33039,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The first stage considers the response to tone burst excitation in octave bands and one-third octave bands for the four sound level meters.",
+            "startOffset": 32900,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 23359,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The frequency range under consideration corresponds to the building acoustics frequency range which covers one-third octave bands from 50 Hz to 5 kHz.",
+            "startOffset": 23209,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41731,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The relative LFmax is calculated by normalising the LFmax for each sound level meter to the LFmax from the software-based sound level meter in each frequency band.",
+            "startOffset": 41568,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 31472,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "However, for maximum levels it is the time-to-peak matching that is of greater relevance; hence this may be more appropriate to quantify the time delay from different types of CPB filters.",
+            "startOffset": 31284,
+            "title": "Results"
+        },
+        {
+            "endOffset": 33909,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Two lengths of tone bursts are used that correspond exactly to the Fast and Slow time constants of 125 ms and 1 s respectively.",
+            "startOffset": 33782,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 42605,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, differences up to 8 dB can still occur in an individual band (see Fig. 11, 63 Hz octave band for transient No.2).",
+            "startOffset": 42483,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 29304,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is determined by calculating the gradient between the last point in the detector output signal and every other point in the signal.",
+            "startOffset": 29168,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 41187,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Transient No. 1 is a door slamming (measured at a distance of 2 m in a large corridor).",
+            "startOffset": 41100,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 25300,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "These meters are referred to as A, B, C and D and their details are given in Table 1.",
+            "startOffset": 25215,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 41383,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 41382,
+                    "startOffset": 41378
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Transient No. 2 is a single impact on a concrete floor in the lower room of a transmission suite (reverberation time between 1 and 2 s) from the ISO rubber ball dropped from a height of 1 m [14].",
+            "startOffset": 41188,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 28579,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This is determined by finding the time at which the gradients and amplitudes of the filter input and output signals are equal within a specific tolerance.",
+            "startOffset": 28425,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 28792,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It requires finding the normalised difference between the input and output instantaneous gradients across the whole signal and the normalised difference in the input and output amplitudes across the whole signal.",
+            "startOffset": 28580,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 28169,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "For this reason, an RMS detector is implemented that gives an instantaneous response with no phase shift so that it can accurately measure the filter\u2019s behaviour.",
+            "startOffset": 28007,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 32194,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "For the latter it should be noted that any time-weighted level detector has a level response that is a function of the length of the input signal.",
+            "startOffset": 32048,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 36469,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Considering the filter and detector responses for all the sound level meters it is clear that the Slow detector is not appropriate to measure maximum levels of short transient events; hence Slow time-weighting is not considered further in this paper.",
+            "startOffset": 36219,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 37911,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Given that all the sound level meters comply with the requirements on the filter magnitude, the filter\u2019s phase responses are likely to be responsible for this variation.",
+            "startOffset": 37742,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 32567,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "Fig. 4 shows the transient signals that are used to assess the variation in the measured maximum sound pressure levels from the four meters.",
+            "startOffset": 32427,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 40708,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The A-weighted and Z-weighted maximum levels in decibels of the ramped noise are shown in Table 3 for the four sound level meters.",
+            "startOffset": 40578,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 31840,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "In the next section, tone bursts are used to make a link between the steady-state sinusoidal signal analysed in this section, and transient signals.",
+            "startOffset": 31692,
+            "title": "Results"
+        },
+        {
+            "endOffset": 31177,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "For steady-state signals, it is shown that matching does not occur until Bt has a value between one and four.",
+            "startOffset": 31068,
+            "title": "Results"
+        },
+        {
+            "endOffset": 29987,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "This indicates that the filter output signal takes a finite amount of time to equal the input signal.",
+            "startOffset": 29886,
+            "title": "Results"
+        },
+        {
+            "endOffset": 26078,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "This requires bypassing the microphone capsule for sound level meters A, C and D. Hence for these experiments it is necessary to use all four meters without a calibrated input transducer.",
+            "startOffset": 25891,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 42482,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In comparison with the results from the idealised transients (Section 4.2), the measured transients have lower differences; these are often negligible in the mid- and high-frequency ranges.",
+            "startOffset": 42293,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 26211,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "For this reason, absolute values for LFmax or LSmax are not available and only relative values in decibels are shown in the results.",
+            "startOffset": 26079,
+            "title": "Commercially-available sound level meters"
+        },
+        {
+            "endOffset": 37741,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In the adjacent frequency bands, all four meters are within a few decibels of each other but there is significant variation in the other frequency bands up to 30 dB or more.",
+            "startOffset": 37568,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 28251,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The input signal is a sinusoid corresponding to the filter band centre frequency.",
+            "startOffset": 28170,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 40139,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Figs. 9 and 10 show the frequency response of the two types of ramped noise for the four sound level meters in octave bands and one-third octave bands respectively.",
+            "startOffset": 39975,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 26947,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "It is this phase response that determines the time delay in CPB filters.",
+            "startOffset": 26875,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 35955,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As expected, the error is smallest (i.e. <0.01 dB) for the 1 s tone burst with Fast time-weighting and largest for the 125 ms tone burst with Slow time-weighting.",
+            "startOffset": 35793,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 45265,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The error is shown to be sufficiently large for the Slow time-weighting that consideration should be given to only using Fast time-weighting to measure maximum sound pressure levels.",
+            "startOffset": 45083,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 41099,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "At this stage, two measured transients are used to assess whether similar differences occur; these signals are shown on Fig. 4.",
+            "startOffset": 40972,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 21453,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 21452,
+                    "startOffset": 21447
+                },
+                "b0010": {
+                    "endOffset": 21452,
+                    "startOffset": 21447
+                },
+                "b0015": {
+                    "endOffset": 21452,
+                    "startOffset": 21447
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The A-weighted maximum sound pressure level is of particular relevance to environmental noise because links have been made with sleep disturbance [1\u20133].",
+            "startOffset": 21301,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21820,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 21819,
+                    "startOffset": 21816
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In building acoustics, measurement of impact sound insulation using a heavy impact source such as the rubber ball require measurements of maximum sound pressure levels in octave bands or one-third octave bands [5].",
+            "startOffset": 21606,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23920,
+            "parents": [],
+            "secId": "s0010",
+            "sentence": "This paper considers the errors in the signal processing and not the transducer; hence the findings are equally applicable to the measurement of maximum vibration levels that use the same combination of filter and detector.",
+            "startOffset": 23697,
+            "title": "Equipment used for the signal processing"
+        },
+        {
+            "endOffset": 27887,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "Note that these parameters are not based on a detector output, only on the AC input and AC output of the filter.",
+            "startOffset": 27775,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 28336,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "The following three matching parameters are used to assess the filter output signal:",
+            "startOffset": 28252,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 38137,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "There is evidence that although the sound level meters comply with the various standards that describe the CPB filters and time-weighting level detectors, the maximum levels vary significantly with different half-sine pulses.",
+            "startOffset": 37912,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 24306,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "A particular advantage of this software-based meter is that the output signal from each component can be analysed, specifically the AC output signal from the filter can be accessed before it reaches the detector to allow an assessment of the filter time response.",
+            "startOffset": 24043,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 24639,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Octave band and one-third octave band filters were implemented using 6th order Butterworth filters.",
+            "startOffset": 24540,
+            "title": "Software-based sound level meter"
+        },
+        {
+            "endOffset": 43129,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "For this reason, half-sine pulses are unlikely to be appropriate as a benchmark test for sound level meters because they are over-demanding as a test of the filter and the detector.",
+            "startOffset": 42948,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 35372,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The bias error is smallest when the time constant is much shorter than the length of the tone burst.",
+            "startOffset": 35272,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 23030,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The focus of this paper concerns signal processing errors in the measurement of maximum sound pressure levels, specifically due to the time-weighted level detector (Fast or Slow time-weighting) and CPB filters (octave band or one-third octave band filters).",
+            "startOffset": 22773,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29437,
+            "parents": [],
+            "secId": "s0025",
+            "sentence": "This \u2018gradient signal\u2019 is divided by the maximum gradient found in order to normalise the gradient signal to values between 0 and 1.",
+            "startOffset": 29305,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 33595,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Although these two detectors have a defined time response, this is only for an input signal at a single frequency.",
+            "startOffset": 33481,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 39085,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The variation in the A-weighted maximum level is due to both the A-weighting filter and the underlying differences in the Z-weighted maximum level.",
+            "startOffset": 38938,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 41906,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Note that the software-based sound level meter is purely being used as an arbitrary reference to allow a fair comparison of the variation between the four sound level meters.",
+            "startOffset": 41732,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 43994,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "Experiments have been carried out to investigate signal processing errors that occur in the measurement of maximum sound pressure levels, specifically those due to the time-weighted level detector (Fast or Slow time-weighting) with CPB filters or an A-weighting filter.",
+            "startOffset": 43725,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 47049,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The second is to investigate designs of CPB filters and A-weighting filters that are zero-phase; this would remove the variation due to the phase response of the filters and therefore correct the bias error when measuring maximum sound pressure levels.",
+            "startOffset": 46797,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 26731,
+            "parents": [],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 26666,
+                    "startOffset": 26663
+                },
+                "b0060": {
+                    "endOffset": 26730,
+                    "startOffset": 26726
+                }
+            },
+            "secId": "s0025",
+            "sentence": "Given the nature of filter design it is possible to create filters with the same magnitude response which satisfy the requirements of EN 61260 [7] but which result in filters with different phase responses [12].",
+            "startOffset": 26520,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 32874,
+            "parents": [],
+            "secId": "s0035",
+            "sentence": "This range of transient signals is sufficiently broad to represent different transient events that occur in environmental noise and building acoustics measurements.",
+            "startOffset": 32710,
+            "title": "Combined filter and detector responses"
+        },
+        {
+            "endOffset": 40971,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Previously in Section 4.2, idealised transients were used to investigate the combined filter and detector response of different sound level meters.",
+            "startOffset": 40824,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 30180,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "At a point in time before the output signal settles at the same level as the input signal it reaches a level greater than unity before settling, indicating an overshoot in the filter response.",
+            "startOffset": 29988,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23208,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Experimental work is conducted on the CPB filters and the time-weighted level detectors of a software-based sound level meter and four commercially-available sound level meters.",
+            "startOffset": 23031,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39975,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The first step is to normalise the LFmax for each sound level meter to an Leq of the initial 10 s of pink noise, then identify the sound level meter with the highest LFmax value in a band, set this to zero and normalise all other values accordingly.",
+            "startOffset": 39726,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 42947,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "However, there is evidence that the large differences between sound level meters that were observed with the idealised transients are unlikely to occur in practice.",
+            "startOffset": 42783,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 34760,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "For the lowest value of B (corresponding to the 50 Hz one-third octave band), Bt \u2248 1.4 for 125 ms and Bt \u2248 11.5 for 1 s. Based on the filter time delays identified for a sinusoid in Section 3.1 it is reasonable to expect that (a) the errors will be smallest for the 1 s tone burst with Fast time-weighting because the filters will introduce negligible time delay compared to the length of the tone burst and there is ample signal length for the Fast detector and (b) the errors will be largest for the 125 ms tone burst with Slow time-weighting because the Slow detector is averaging whilst the filters are starting to respond.",
+            "startOffset": 34133,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 42782,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "It is reasonable to assume that the differing phase responses of the filters remain the cause of the low-frequency variation in Fast time-weighted maximum sound pressure level.",
+            "startOffset": 42606,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 40790,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In contrast to the half-sine pulses there is negligible variation between meters.",
+            "startOffset": 40709,
+            "title": "Response to ramped noise"
+        },
+        {
+            "endOffset": 37567,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The frequency band with the highest relative LFmax (i.e. 0 dB) always corresponds to the frequency of the half-sine pulse.",
+            "startOffset": 37445,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 43285,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The A-weighted and Z-weighted maximum sound pressure levels in decibels of the two measured transients are shown in Table 4 for the four sound level meters.",
+            "startOffset": 43129,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 33158,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Each frequency band is assessed using a tone burst where the frequency of the tone equals the filter centre frequency.",
+            "startOffset": 33040,
+            "title": "Response to tone bursts"
+        },
+        {
+            "endOffset": 37279,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The normalisation used to define a relative LFmax in decibels for the comparison of different half-sine pulses is the LFmax normalised to the highest LFmax in any frequency band in the frequency range under investigation (i.e. 50 Hz to 5 kHz).",
+            "startOffset": 37036,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 44626,
+            "parents": [],
+            "secId": "s0060",
+            "sentence": "The most relevant approach for transient signals is time-to-peak matching which uses the time taken for the maximum level in the detector output signal to equal the input signal.",
+            "startOffset": 44448,
+            "title": "Conclusions"
+        },
+        {
+            "endOffset": 27574,
+            "parents": [],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 27573,
+                    "startOffset": 27569
+                }
+            },
+            "secId": "s0025",
+            "sentence": "For a steady-state sinusoidal signal, the time, t, in seconds for a filter to respond, i.e. the time for the amplitude of the filter output signal to reach that of the input signal, is often quoted as occurring when Bt = 1 where B is the filter bandwidth [13].",
+            "startOffset": 27314,
+            "title": "Filter time delay"
+        },
+        {
+            "endOffset": 29885,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Filter time delay"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Fig. 2 shows the sinusoidal input signal and the filter output signal for each of the three parameters using a 1 kHz one-third octave band filter as an example.",
+            "startOffset": 29725,
+            "title": "Results"
+        },
+        {
+            "endOffset": 23524,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In addition, consideration is given to errors in the A-weighted maximum level due to the combination of the A-weighting filter and the time-weighted level detector.",
+            "startOffset": 23360,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 41450,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The signals are recorded using a sampling frequency of 65.536 kHz.",
+            "startOffset": 41384,
+            "title": "Response to measured transients"
+        },
+        {
+            "endOffset": 38937,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Combined filter and detector responses"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "These indicate that the difference between meters is 3.1 dB for the 4 ms half-sine compared with only 0.3 and 0.4 dB for the 1 and 0.25 ms half-sines respectively.",
+            "startOffset": 38774,
+            "title": "Response to idealised transients"
+        },
+        {
+            "endOffset": 25890,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Equipment used for the signal processing"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The filter and detector response of the sound level meters is assessed by supplying the pre-amp with a voltage from the signal generator that produces the transient excitation.",
+            "startOffset": 25714,
+            "title": "Commercially-available sound level meters"
+        }
+    ],
+    "docId": "S0003682X13002338",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "M.",
+                "initial": "M.",
+                "last": "Robinson"
+            },
+            {
+                "email": "carl.hopkins@liverpool.ac.uk",
+                "first": "C.",
+                "initial": "C.",
+                "last": "Hopkins"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2013.09.017",
+        "firstpage": "11",
+        "issn": "0003682X",
+        "keywords": [
+            "Impulse",
+            "Maximum sound pressure level",
+            "Signal processing",
+            "Sound level meter",
+            "Transient"
+        ],
+        "lastpage": "19",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Effects of signal processing on the measurement of maximum sound pressure levels"
+    }
+}

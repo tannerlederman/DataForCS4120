@@ -1,0 +1,4619 @@
+{
+    "abstract": "Echinostomes are a diverse group of digenetic trematodes that are globally distributed. The diversity of echinostomes in Africa remains largely unknown, particularly in analyses using molecular markers. Therefore, we were interested in the composition and host usage patterns of African echinostomes, especially those that also use schistosome transmitting snails as intermediate hosts. We collected adults and larval stages of echinostomes from 19 different localities in East Africa (1 locality in Uganda and 18 in Kenya). In this study we provide locality information, host use, museum vouchers, and genetic data for two loci (28S and nad1) from 98 samples of echinostomes from East Africa. Combining morphological features, host use information, and phylogenetic analyses we found 17 clades of echinostomes in East Africa. Four clades were found to use more than one genus of freshwater snails as their first intermediate hosts. We also determined at least partial life cycles (2 of the 3) of four clades using molecular markers. Of the 17 clades, 13 use Biomphalaria or Bulinus as a first intermediate host. The overlap in host usage creates opportunities for competition, including against human schistosomes. Thus, our study can be used as a foundation for future studies to ascertain the interactions between schistosomes and echinostomes in their respective intermediate hosts.",
+    "author_highlights": [
+        {
+            "endOffset": 22650,
+            "sentence": "17 different clades of echinostomes were found in East Africa.",
+            "startOffset": 22588
+        },
+        {
+            "endOffset": 22734,
+            "sentence": "The majority (13/17) of clades use Biomphalaria or Bulinus as an intermediate host.",
+            "startOffset": 22651
+        },
+        {
+            "endOffset": 22793,
+            "sentence": "For four clades partial life cycles (2/3) were determined.",
+            "startOffset": 22735
+        }
+    ],
+    "bib_entries": {
+        "bib0005": {
+            "authors": [
+                {
+                    "first": "C. C.",
+                    "initial": "C.C.",
+                    "last": "Appleton"
+                },
+                {
+                    "first": "F. A.",
+                    "initial": "F.A.",
+                    "last": "Donnelly"
+                },
+                {
+                    "first": "I. M.",
+                    "initial": "I.M.",
+                    "last": "Eriksson"
+                }
+            ],
+            "doi": "10.1080/02541858.1983.11447833",
+            "firstpage": "320",
+            "issn": "02541858",
+            "lastpage": "325",
+            "pub_year": 1983,
+            "title": "The life-cycle and seasonal abundance of Echinoparyphium montgomeriana n. sp. ( Trematoda: Echinostomatidae) in Natal, South Africa.",
+            "volume": "18"
+        },
+        "bib0010": {
+            "authors": [
+                {
+                    "first": "F. A.H.",
+                    "initial": "F.A.H.",
+                    "last": "Bayer"
+                }
+            ],
+            "doi": "10.1016/0035-9203(54)90142-X",
+            "firstpage": "414",
+            "issn": "00359203",
+            "lastpage": "418",
+            "pmid": "13216945",
+            "pub_year": 1954,
+            "title": "Larval trematodes found in some fresh-water snails: A suggested biological method of bilharzia control",
+            "volume": "48"
+        },
+        "bib0015": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Bisseru"
+                }
+            ],
+            "doi": "10.1017/S0022149X00004417",
+            "firstpage": "173",
+            "issn": "0022149X",
+            "lastpage": "186",
+            "pmid": "13475761",
+            "pub_year": 1957,
+            "title": "On Three Known Trematodes from African Birds, with Notes on the Genera Typhlocoelum, Paryphostomum and Petasiger",
+            "volume": "31"
+        },
+        "bib0020": {
+            "authors": [
+                {
+                    "first": "Sara V.",
+                    "initial": "S.V.",
+                    "last": "Brant"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.1645/GE-1870.1",
+            "firstpage": "941",
+            "issn": "00223395",
+            "lastpage": "963",
+            "pmid": "20049999",
+            "pub_year": 2009,
+            "title": "Molecular systematics of the avian schistosome genus trichobilharzia (Trematoda: Schistosomatidae) in North America",
+            "volume": "95"
+        },
+        "bib0025": null,
+        "bib0030": null,
+        "bib0035": null,
+        "bib0040": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Campbell"
+                },
+                {
+                    "first": "C. S.",
+                    "initial": "C.S.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "A. E.",
+                    "initial": "A.E.",
+                    "last": "Lockyer"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Hughes"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Brown"
+                },
+                {
+                    "first": "L. R.",
+                    "initial": "L.R.",
+                    "last": "Noble"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Rollinson"
+                }
+            ],
+            "doi": "10.1098/rspb.2000.1291",
+            "firstpage": "2351",
+            "issn": "09628452",
+            "lastpage": "2358",
+            "pub_year": 2000,
+            "title": "Molecular evidence supports an African affinity of the Neotropical freshwater gastropod, Biomphalaria glabrata, Say 1818, an intermediate host for Schistosoma mansoni",
+            "volume": "267"
+        },
+        "bib0045": {
+            "authors": [
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Civitello"
+                },
+                {
+                    "first": "Jeremy",
+                    "initial": "J.",
+                    "last": "Cohen"
+                },
+                {
+                    "first": "Hiba",
+                    "initial": "H.",
+                    "last": "Fatima"
+                },
+                {
+                    "first": "Neal T.",
+                    "initial": "N.T.",
+                    "last": "Halstead"
+                },
+                {
+                    "first": "Josue",
+                    "initial": "J.",
+                    "last": "Liriano"
+                },
+                {
+                    "first": "Taegan A.",
+                    "initial": "T.A.",
+                    "last": "McMahon"
+                },
+                {
+                    "first": "C. Nicole",
+                    "initial": "C.N.",
+                    "last": "Ortega"
+                },
+                {
+                    "first": "Erin Louise",
+                    "initial": "E.L.",
+                    "last": "Sauer"
+                },
+                {
+                    "first": "Tanya",
+                    "initial": "T.",
+                    "last": "Sehgal"
+                },
+                {
+                    "first": "Suzanne",
+                    "initial": "S.",
+                    "last": "Young"
+                },
+                {
+                    "first": "Jason R.",
+                    "initial": "J.R.",
+                    "last": "Rohr"
+                }
+            ],
+            "doi": "10.1073/pnas.1506279112",
+            "firstpage": "8667",
+            "issn": "00278424",
+            "lastpage": "8671",
+            "pmid": "26069208",
+            "pub_year": 2015,
+            "title": "Biodiversity inhibits parasites: Broad evidence for the dilution effect",
+            "volume": "112"
+        },
+        "bib0050": {
+            "authors": [
+                {
+                    "first": "Diego",
+                    "initial": "D.",
+                    "last": "Darriba"
+                },
+                {
+                    "first": "Guillermo L.",
+                    "initial": "G.L.",
+                    "last": "Taboada"
+                },
+                {
+                    "first": "Rama",
+                    "initial": "R.",
+                    "last": "Doallo"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Posada"
+                }
+            ],
+            "doi": "10.1038/nmeth.2109",
+            "firstpage": "772",
+            "issn": "15487091",
+            "pmid": "22847109",
+            "pub_year": 2012,
+            "title": "JModelTest 2: More models, new heuristics and parallel computing",
+            "volume": "9"
+        },
+        "bib0055": {
+            "authors": [
+                {
+                    "first": "Randall J.",
+                    "initial": "R.J.",
+                    "last": "Dejong"
+                },
+                {
+                    "first": "Jess A.T.",
+                    "initial": "J.A.T.",
+                    "last": "Morgan"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Lobato Paraense"
+                },
+                {
+                    "first": "Jean Pierre",
+                    "initial": "J.P.",
+                    "last": "Pointier"
+                },
+                {
+                    "first": "Manuel",
+                    "initial": "M.",
+                    "last": "Amarista"
+                },
+                {
+                    "first": "Patrick F.K.",
+                    "initial": "P.F.K.",
+                    "last": "Ayeh-Kumi"
+                },
+                {
+                    "first": "Ahmed",
+                    "initial": "A.",
+                    "last": "Babiker"
+                },
+                {
+                    "first": "Constan\u00e7a S.",
+                    "initial": "C.S.",
+                    "last": "Barbosa"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Br\u00e9mond"
+                },
+                {
+                    "first": "Andr\u00e9s Pedro",
+                    "initial": "A.P.",
+                    "last": "Canese"
+                },
+                {
+                    "first": "Cecilia Pereira",
+                    "initial": "C.P.",
+                    "last": "De Souza"
+                },
+                {
+                    "first": "Claudio",
+                    "initial": "C.",
+                    "last": "Dominguez"
+                },
+                {
+                    "first": "Sharon",
+                    "initial": "S.",
+                    "last": "File"
+                },
+                {
+                    "first": "Alfredo",
+                    "initial": "A.",
+                    "last": "Gutierrez"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Nino Incani"
+                },
+                {
+                    "first": "Toshie",
+                    "initial": "T.",
+                    "last": "Kawano"
+                },
+                {
+                    "first": "Francis",
+                    "initial": "F.",
+                    "last": "Kazibwe"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Kpikpi"
+                },
+                {
+                    "first": "Nicholas J.S.",
+                    "initial": "N.J.S.",
+                    "last": "Lwambo"
+                },
+                {
+                    "first": "Remy",
+                    "initial": "R.",
+                    "last": "Mimpfoundi"
+                },
+                {
+                    "first": "Flobert",
+                    "initial": "F.",
+                    "last": "Njiokou"
+                },
+                {
+                    "first": "Jean No\u00ebl",
+                    "initial": "J.N.",
+                    "last": "Poda"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Sene"
+                },
+                {
+                    "first": "Luz Elena",
+                    "initial": "L.E.",
+                    "last": "Vel\u00e1squez"
+                },
+                {
+                    "first": "Mary",
+                    "initial": "M.",
+                    "last": "Yong"
+                },
+                {
+                    "first": "Coen M.",
+                    "initial": "C.M.",
+                    "last": "Adema"
+                },
+                {
+                    "first": "Bruce V.",
+                    "initial": "B.V.",
+                    "last": "Hofkin"
+                },
+                {
+                    "first": "Gerald M.",
+                    "initial": "G.M.",
+                    "last": "Mkoji"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.1093/oxfordjournals.molbev.a003769",
+            "firstpage": "2225",
+            "issn": "07374038",
+            "lastpage": "2239",
+            "pmid": "11719572",
+            "pub_year": 2001,
+            "title": "Evolutionary relationships and biogeography of Biomphalaria (Gastropoda: Planorbidae) with implications regarding its role as host of the human bloodfluke, Schistosoma mansoni",
+            "volume": "18"
+        },
+        "bib0060": {
+            "authors": [
+                {
+                    "first": "Jillian T.",
+                    "initial": "J.T.",
+                    "last": "Detwiler"
+                },
+                {
+                    "first": "David H.",
+                    "initial": "D.H.",
+                    "last": "Bos"
+                },
+                {
+                    "first": "Dennis J.",
+                    "initial": "D.J.",
+                    "last": "Minchella"
+                }
+            ],
+            "doi": "10.1016/j.ympev.2010.01.004",
+            "firstpage": "611",
+            "issn": "10557903",
+            "lastpage": "620",
+            "pmid": "20064622",
+            "pub_year": 2010,
+            "title": "Revealing the secret lives of cryptic species: Examining the phylogenetic relationships of echinostome parasites in North America",
+            "volume": "55"
+        },
+        "bib0065": {
+            "authors": [
+                {
+                    "first": "Ramesh",
+                    "initial": "R.",
+                    "last": "Devkota"
+                },
+                {
+                    "first": "Sara V.",
+                    "initial": "S.V.",
+                    "last": "Brant"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2015.07.008",
+            "firstpage": "857",
+            "issn": "00207519",
+            "lastpage": "870",
+            "pmid": "26385438",
+            "pub_year": 2015,
+            "title": "The Schistosoma indicum species group in Nepal: Presence of a new lineage of schistosome and use of the Indoplanorbis exustus species complex of snail hosts",
+            "volume": "45"
+        },
+        "bib0070": null,
+        "bib0075": null,
+        "bib0080": null,
+        "bib0085": {
+            "authors": [
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Falt\u00fdnkov\u00e1"
+                },
+                {
+                    "first": "David I.",
+                    "initial": "D.I.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "Aneta",
+                    "initial": "A.",
+                    "last": "Kostadinova"
+                }
+            ],
+            "doi": "10.1007/s11230-008-9136-8",
+            "firstpage": "159",
+            "issn": "01655752",
+            "lastpage": "183",
+            "pmid": "18535788",
+            "pub_year": 2008,
+            "title": "A revision of Patagifer Dietz, 1909 (Digenea: Echinostomatidae) and a key to its species",
+            "volume": "70"
+        },
+        "bib0090": null,
+        "bib0095": {
+            "authors": [
+                {
+                    "first": "Mar\u00eda Virginia",
+                    "initial": "M.V.",
+                    "last": "Fern\u00e1ndez"
+                },
+                {
+                    "first": "Monika In\u00e9s",
+                    "initial": "M.I.",
+                    "last": "Hamann"
+                },
+                {
+                    "first": "Margarita Ostrowski De",
+                    "initial": "M.O.D.",
+                    "last": "N\u00fa\u00f1ez"
+                }
+            ],
+            "doi": "10.7550/rmb.43875",
+            "firstpage": "1024",
+            "issn": "18703453",
+            "lastpage": "1031",
+            "pub_year": 2014,
+            "title": "Echinocercarias de Biomphalaria straminea (Mollusca: Planorbidae) en un campo de arroz del noreste de Argentina",
+            "volume": "85"
+        },
+        "bib0100": {
+            "authors": [
+                {
+                    "first": "Mar\u00eda Virginia",
+                    "initial": "M.V.",
+                    "last": "Fern\u00e1ndez"
+                },
+                {
+                    "first": "Monika In\u00e9s",
+                    "initial": "M.I.",
+                    "last": "Hamann"
+                },
+                {
+                    "first": "Margarita Ostrowski",
+                    "initial": "M.O.",
+                    "last": "De N\u00fa\u00f1ez"
+                }
+            ],
+            "doi": "10.1515/ap-2016-0064",
+            "firstpage": "471",
+            "issn": "12302821",
+            "lastpage": "492",
+            "pmid": "27447210",
+            "pub_year": 2016,
+            "title": "New larval trematodes in Biomphalaria species (Planorbidae) from Northeastern Argentina",
+            "volume": "61"
+        },
+        "bib0105": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Frandsen"
+                },
+                {
+                    "first": "N. O.",
+                    "initial": "N.O.",
+                    "last": "Christensen"
+                }
+            ],
+            "firstpage": "181",
+            "issn": "0001706X",
+            "lastpage": "202",
+            "pmid": "6206702",
+            "pub_year": 1984,
+            "title": "An introductory guide to the identification of cercariae from African freshwater snails with special reference to cercariae of trematode species of medical and veterinary importance",
+            "volume": "41"
+        },
+        "bib0110": {
+            "authors": [
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                }
+            ],
+            "doi": "10.1016/S0065-308X(01)49040-3",
+            "firstpage": "163",
+            "issn": "0065308X",
+            "lastpage": "210",
+            "pmid": "11461031",
+            "pub_year": 2001,
+            "title": "Biology of echinostomes except Echinostoma",
+            "volume": "49"
+        },
+        "bib0115": {
+            "authors": [
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Fried"
+                },
+                {
+                    "first": "P. M.",
+                    "initial": "P.M.",
+                    "last": "Manger"
+                }
+            ],
+            "doi": "10.1017/S0022149X00014620",
+            "firstpage": "238",
+            "issn": "0022149X",
+            "lastpage": "240",
+            "pmid": "1280664",
+            "pub_year": 1992,
+            "title": "Use of an aceto-carmine procedure to examine the excysted metacercariae of Echinostoma caproni and E. trivolvis",
+            "volume": "66"
+        },
+        "bib0120": {
+            "authors": [
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                },
+                {
+                    "first": "Rafael",
+                    "initial": "R.",
+                    "last": "Toledo"
+                }
+            ],
+            "doi": "10.1007/978-0-387-09577-6",
+            "firstpage": "1",
+            "lastpage": "333",
+            "pub_year": 2009,
+            "title": "The biology of echinostomes: From the molecule to the community"
+        },
+        "bib0125": {
+            "authors": [
+                {
+                    "first": "Ana E.",
+                    "initial": "A.E.",
+                    "last": "Garcia-Vedrenne"
+                },
+                {
+                    "first": "Anastasia C.E.",
+                    "initial": "A.C.E.",
+                    "last": "Quintana"
+                },
+                {
+                    "first": "Andrea M.",
+                    "initial": "A.M.",
+                    "last": "Derogatis"
+                },
+                {
+                    "first": "Kayla",
+                    "initial": "K.",
+                    "last": "Martyn"
+                },
+                {
+                    "first": "Armand M.",
+                    "initial": "A.M.",
+                    "last": "Kuris"
+                },
+                {
+                    "first": "Ryan F.",
+                    "initial": "R.F.",
+                    "last": "Hechinger"
+                }
+            ],
+            "doi": "10.1645/15-853",
+            "firstpage": "11",
+            "issn": "00223395",
+            "lastpage": "20",
+            "pmid": "26560890",
+            "pub_year": 2016,
+            "title": "Social Organization in Parasitic Flatworms-Four Additional Echinostomoid Trematodes Have a Soldier Caste and One Does Not",
+            "volume": "102"
+        },
+        "bib0130": {
+            "authors": [
+                {
+                    "first": "Thaddeus K.",
+                    "initial": "T.K.",
+                    "last": "Graczyk"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                }
+            ],
+            "doi": "10.4269/ajtmh.1998.58.501",
+            "firstpage": "501",
+            "issn": "00029637",
+            "lastpage": "504",
+            "pmid": "9574799",
+            "pub_year": 1998,
+            "title": "Echinostomiasis: A common but forgotten food-borne disease",
+            "volume": "58"
+        },
+        "bib0135": {
+            "authors": [
+                {
+                    "first": "Ryan F.",
+                    "initial": "R.F.",
+                    "last": "Hechinger"
+                },
+                {
+                    "first": "Alan C.",
+                    "initial": "A.C.",
+                    "last": "Wood"
+                },
+                {
+                    "first": "Armand M.",
+                    "initial": "A.M.",
+                    "last": "Kuris"
+                }
+            ],
+            "doi": "10.1098/rspb.2010.1753",
+            "firstpage": "656",
+            "issn": "09628452",
+            "lastpage": "665",
+            "pub_year": 2011,
+            "title": "Social organization in a flatworm: Trematode parasites form soldier and reproductive castes",
+            "volume": "278"
+        },
+        "bib0140": null,
+        "bib0145": {
+            "authors": [
+                {
+                    "first": "E. P.",
+                    "initial": "E.P.",
+                    "last": "Hoberg"
+                },
+                {
+                    "first": "P. A.",
+                    "initial": "P.A.",
+                    "last": "Pilitt"
+                },
+                {
+                    "first": "K. E.",
+                    "initial": "K.E.",
+                    "last": "Galbreath"
+                }
+            ],
+            "doi": "10.1645/GE-1823.1",
+            "firstpage": "490",
+            "issn": "00223395",
+            "lastpage": "501",
+            "pmid": "19593896",
+            "pub_year": 2009,
+            "title": "Why museums matter: A tale of pinworms (Oxyuroidea: Heteroxynematidae) among pikas (Ochotona princeps and O. collaris) in the American west",
+            "volume": "95"
+        },
+        "bib0150": {
+            "authors": [
+                {
+                    "first": "Jane E.",
+                    "initial": "J.E.",
+                    "last": "Huffman"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                }
+            ],
+            "doi": "10.1016/S0065-308X(08)60107-4",
+            "firstpage": "215",
+            "issn": "0065308X",
+            "lastpage": "269",
+            "pmid": "2181828",
+            "pub_year": 1990,
+            "title": "Echinostoma and Echinostomiasis",
+            "volume": "29"
+        },
+        "bib0155": {
+            "authors": [
+                {
+                    "first": "Pieter T.J.",
+                    "initial": "P.T.J.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Daniel R.",
+                    "initial": "D.R.",
+                    "last": "Sutherland"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Kinsella"
+                },
+                {
+                    "first": "Kevin B.",
+                    "initial": "K.B.",
+                    "last": "Lunde"
+                }
+            ],
+            "doi": "10.1016/S0065-308X(04)57003-3",
+            "firstpage": "191",
+            "issn": "0065308X",
+            "lastpage": "253",
+            "pmid": "15504539",
+            "pub_year": 2004,
+            "title": "Review of the trematode genus Ribeiroia (Psilostomidae): Ecology, life history and pathogenesis with special emphasis on the amphibian malformation problem",
+            "volume": "57"
+        },
+        "bib0160": {
+            "authors": [
+                {
+                    "first": "Ivan",
+                    "initial": "I.",
+                    "last": "Kanev"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                },
+                {
+                    "first": "Valentin",
+                    "initial": "V.",
+                    "last": "Radev"
+                }
+            ],
+            "doi": "10.1007/s00436-009-1475-0",
+            "firstpage": "921",
+            "issn": "09320113",
+            "lastpage": "927",
+            "pmid": "19468754",
+            "pub_year": 2009,
+            "title": "Collar spine models in the genus Echinostoma (Trematoda: Echinostomatidae)",
+            "volume": "105"
+        },
+        "bib0165": {
+            "authors": [
+                {
+                    "first": "Pieter H.",
+                    "initial": "P.H.",
+                    "last": "King"
+                },
+                {
+                    "first": "J. G.",
+                    "initial": "J.G.",
+                    "last": "Van As"
+                }
+            ],
+            "firstpage": "312",
+            "issn": "00223395",
+            "lastpage": "318",
+            "pmid": "10780551",
+            "pub_year": 2000,
+            "title": "Morphology and life history of Petasiger variospinosus (Trematoda: Echinostomatidae) in the Free State, South Africa",
+            "volume": "86"
+        },
+        "bib0170": null,
+        "bib0175": {
+            "authors": [
+                {
+                    "first": "Aneta",
+                    "initial": "A.",
+                    "last": "Kostadinova"
+                },
+                {
+                    "first": "David I.",
+                    "initial": "D.I.",
+                    "last": "Gibson"
+                }
+            ],
+            "doi": "10.1023/A:1015789703396",
+            "firstpage": "205",
+            "issn": "01655752",
+            "lastpage": "217",
+            "pmid": "12075152",
+            "pub_year": 2002,
+            "title": "Isthmiophora L\u00fche, 1909 and Euparyphium Dietz, 1909 (Digenea: Echinostomatidae) re-defined, with comments on their nominal species",
+            "volume": "52"
+        },
+        "bib0180": null,
+        "bib0185": {
+            "authors": [
+                {
+                    "first": "Sudhir",
+                    "initial": "S.",
+                    "last": "Kumar"
+                },
+                {
+                    "first": "Glen",
+                    "initial": "G.",
+                    "last": "Stecher"
+                },
+                {
+                    "first": "Koichiro",
+                    "initial": "K.",
+                    "last": "Tamura"
+                }
+            ],
+            "doi": "10.1093/molbev/msw054",
+            "firstpage": "1870",
+            "issn": "15371719",
+            "lastpage": "1874",
+            "pmid": "27004904",
+            "pub_year": 2016,
+            "title": "MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets",
+            "volume": "33"
+        },
+        "bib0190": null,
+        "bib0195": {
+            "authors": [
+                {
+                    "first": "K. D.",
+                    "initial": "K.D.",
+                    "last": "Lafferty"
+                },
+                {
+                    "first": "D. T.",
+                    "initial": "D.T.",
+                    "last": "Sammond"
+                },
+                {
+                    "first": "A. M.",
+                    "initial": "A.M.",
+                    "last": "Kuris"
+                }
+            ],
+            "doi": "10.2307/1940883",
+            "firstpage": "2275",
+            "issn": "00129658",
+            "lastpage": "2285",
+            "pub_year": 1994,
+            "title": "Analysis of larval trematode communities",
+            "volume": "75"
+        },
+        "bib0200": {
+            "authors": [
+                {
+                    "first": "Martina R.",
+                    "initial": "M.R.",
+                    "last": "Laidemitt"
+                },
+                {
+                    "first": "Eva T.",
+                    "initial": "E.T.",
+                    "last": "Zawadzki"
+                },
+                {
+                    "first": "Sara V.",
+                    "initial": "S.V.",
+                    "last": "Brant"
+                },
+                {
+                    "first": "Martin W.",
+                    "initial": "M.W.",
+                    "last": "Mutuku"
+                },
+                {
+                    "first": "Gerald M.",
+                    "initial": "G.M.",
+                    "last": "Mkoji"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.1017/S0031182016001827",
+            "firstpage": "131",
+            "issn": "00311820",
+            "lastpage": "147",
+            "pmid": "27762185",
+            "pub_year": 2017,
+            "title": "Loads of trematodes: Discovering hidden diversity of paramphistomoids in Kenyan ruminants",
+            "volume": "144"
+        },
+        "bib0205": {
+            "authors": [
+                {
+                    "first": "Hok Kan",
+                    "initial": "H.K.",
+                    "last": "Lim"
+                },
+                {
+                    "first": "Donald",
+                    "initial": "D.",
+                    "last": "Heyneman"
+                }
+            ],
+            "doi": "10.1016/S0065-308X(08)60175-X",
+            "firstpage": "191",
+            "issn": "0065308X",
+            "lastpage": "268",
+            "pmid": "4559144",
+            "pub_year": 1972,
+            "title": "Intramolluscan Inter-trematode Antagonism: A Review of Factors Influencing the Host-parasite System and its Possible Role in Biological Control",
+            "volume": "10"
+        },
+        "bib0210": null,
+        "bib0215": null,
+        "bib0220": {
+            "authors": [
+                {
+                    "first": "E. B.E.",
+                    "initial": "E.B.E.",
+                    "last": "Moema"
+                },
+                {
+                    "first": "P. H.",
+                    "initial": "P.H.",
+                    "last": "King"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Baker"
+                }
+            ],
+            "firstpage": "215",
+            "issn": "00302465",
+            "lastpage": "223",
+            "pmid": "19040136",
+            "pub_year": 2008,
+            "title": "Cercariae developing in Lymnaea natalensis Krauss, 1848 collected in the vicinity of Pretoria, Gauteng Province, South Africa",
+            "volume": "75"
+        },
+        "bib0225": {
+            "authors": [
+                {
+                    "first": "J. A.T.",
+                    "initial": "J.A.T.",
+                    "last": "Morgan"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Blair"
+                }
+            ],
+            "doi": "10.1017/S0031182097002217",
+            "firstpage": "289",
+            "issn": "00311820",
+            "lastpage": "297",
+            "pmid": "9550222",
+            "pub_year": 1998,
+            "title": "Relative merits of nuclear ribosomal internal transcribed spacers and mitochondrial CO1 and ND1 genes for distinguishing among Echinostoma species (Trematoda)",
+            "volume": "116"
+        },
+        "bib0230": null,
+        "bib0235": null,
+        "bib0240": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Pleijel"
+                },
+                {
+                    "first": "U.",
+                    "initial": "U.",
+                    "last": "Jondelius"
+                },
+                {
+                    "first": "E.",
+                    "initial": "E.",
+                    "last": "Norlinder"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Nygren"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Oxelman"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Schander"
+                },
+                {
+                    "first": "P.",
+                    "initial": "P.",
+                    "last": "Sundberg"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Thollesson"
+                }
+            ],
+            "doi": "10.1016/j.ympev.2008.03.024",
+            "firstpage": "369",
+            "issn": "10557903",
+            "lastpage": "371",
+            "pmid": "18424089",
+            "pub_year": 2008,
+            "title": "Phylogenies without roots? A plea for the use of vouchers in molecular phylogenetic studies",
+            "volume": "48"
+        },
+        "bib0245": {
+            "authors": [
+                {
+                    "first": "J. P.",
+                    "initial": "J.P.",
+                    "last": "Pointier"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Jourdane"
+                }
+            ],
+            "doi": "10.1016/S0001-706X(00)00123-6",
+            "firstpage": "53",
+            "issn": "0001706X",
+            "lastpage": "60",
+            "pmid": "10996120",
+            "pub_year": 2000,
+            "title": "Biological control of the snail hosts of schistosomiasis in areas of low transmission: The example of the Caribbean area",
+            "volume": "77"
+        },
+        "bib0250": null,
+        "bib0255": {
+            "authors": [
+                {
+                    "first": "A. A.",
+                    "initial": "A.A.",
+                    "last": "Rashed"
+                }
+            ],
+            "firstpage": "775",
+            "issn": "02535890",
+            "lastpage": "784",
+            "pmid": "12512810",
+            "pub_year": 2002,
+            "title": "Biological studies on the snail intermediate hosts of schistosomiasis with a special emphasis on using larval echinostomes as biocontrol agent against larval schistosomes and snails.",
+            "volume": "32"
+        },
+        "bib0260": {
+            "authors": [
+                {
+                    "first": "Aditya",
+                    "initial": "A.",
+                    "last": "Reddy"
+                },
+                {
+                    "first": "Bernard",
+                    "initial": "B.",
+                    "last": "Fried"
+                }
+            ],
+            "doi": "10.1016/S0020-7519(96)80006-3",
+            "firstpage": "1081",
+            "issn": "00207519",
+            "lastpage": "1085",
+            "pmid": "8982788",
+            "pub_year": 1996,
+            "title": "In vitro studies on intraspecific and interspecific chemical attraction in daughter rediae of Echinostoma trivolvis and E. caproni",
+            "volume": "26"
+        },
+        "bib0265": {
+            "authors": [
+                {
+                    "first": "Fredrik",
+                    "initial": "F.",
+                    "last": "Ronquist"
+                },
+                {
+                    "first": "John P.",
+                    "initial": "J.P.",
+                    "last": "Huelsenbeck"
+                }
+            ],
+            "doi": "10.1093/bioinformatics/btg180",
+            "firstpage": "1572",
+            "issn": "13674803",
+            "lastpage": "1574",
+            "pmid": "12912839",
+            "pub_year": 2003,
+            "title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+            "volume": "19"
+        },
+        "bib0270": {
+            "authors": [
+                {
+                    "first": "Gregory J.",
+                    "initial": "G.J.",
+                    "last": "Sandland"
+                },
+                {
+                    "first": "Jenna K.",
+                    "initial": "J.K.",
+                    "last": "Rodgers"
+                },
+                {
+                    "first": "Dennis J.",
+                    "initial": "D.J.",
+                    "last": "Minchella"
+                }
+            ],
+            "doi": "10.1016/j.jip.2007.02.005",
+            "firstpage": "43",
+            "issn": "00222011",
+            "lastpage": "47",
+            "pmid": "17400242",
+            "pub_year": 2007,
+            "title": "Interspecific antagonism and virulence in hosts exposed to two parasite species",
+            "volume": "96"
+        },
+        "bib0275": {
+            "authors": [
+                {
+                    "first": "Kelli K.",
+                    "initial": "K.K.",
+                    "last": "Sapp"
+                },
+                {
+                    "first": "Kirsten A.",
+                    "initial": "K.A.",
+                    "last": "Meyer"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.2307/3226848",
+            "firstpage": "20",
+            "issn": "10778306",
+            "lastpage": "28",
+            "pub_year": 1998,
+            "title": "Intramolluscan development of the digenean Echinostoma paraensei: Rapid production of a unique mother redia that adversely affects development of conspecific parasites",
+            "volume": "117"
+        },
+        "bib0280": null,
+        "bib0285": {
+            "authors": [
+                {
+                    "first": "Wayne P.",
+                    "initial": "W.P.",
+                    "last": "Sousa"
+                }
+            ],
+            "doi": "10.2307/2937176",
+            "firstpage": "103",
+            "issn": "00129615",
+            "lastpage": "128",
+            "pub_year": 1993,
+            "title": "Interspecific antagonism and species coexistence in a diverse guild of larval trematode parasites",
+            "volume": "63"
+        },
+        "bib0290": {
+            "authors": [
+                {
+                    "first": "J. R.",
+                    "initial": "J.R.",
+                    "last": "Stothard"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "Llewellyn-Hughes"
+                },
+                {
+                    "first": "C. E.",
+                    "initial": "C.E.",
+                    "last": "Griffin"
+                },
+                {
+                    "first": "S. J.",
+                    "initial": "S.J.",
+                    "last": "Hubbard"
+                },
+                {
+                    "first": "T. K.",
+                    "initial": "T.K.",
+                    "last": "Kristensen"
+                },
+                {
+                    "first": "D.",
+                    "initial": "D.",
+                    "last": "Rollinson"
+                }
+            ],
+            "doi": "10.1590/S0074-02762002000900008",
+            "firstpage": "31",
+            "issn": "00740276",
+            "lastpage": "36",
+            "pmid": "12426591",
+            "pub_year": 2002,
+            "title": "Identification of snails within the Bulinus africanus group from East Africa by multiplex SnaPshot\u2122 analysis of single nucleotide polymorphisms within the cytochrome oxidase subunit I",
+            "volume": "97"
+        },
+        "bib0295": {
+            "authors": [
+                {
+                    "first": "Vasyl V.",
+                    "initial": "V.V.",
+                    "last": "Tkach"
+                },
+                {
+                    "first": "Olena",
+                    "initial": "O.",
+                    "last": "Kudlai"
+                },
+                {
+                    "first": "Aneta",
+                    "initial": "A.",
+                    "last": "Kostadinova"
+                }
+            ],
+            "doi": "10.1016/j.ijpara.2015.11.001",
+            "firstpage": "171",
+            "issn": "00207519",
+            "lastpage": "185",
+            "pmid": "26699402",
+            "pub_year": 2016,
+            "title": "Molecular phylogeny and systematics of the Echinostomatoidea Looss, 1899 (Platyhelminthes: Digenea)",
+            "volume": "46"
+        },
+        "bib0300": {
+            "authors": [
+                {
+                    "first": "Gediminas",
+                    "initial": "G.",
+                    "last": "Valkiunas"
+                },
+                {
+                    "first": "Carter T.",
+                    "initial": "C.T.",
+                    "last": "Atkinson"
+                },
+                {
+                    "first": "Staffan",
+                    "initial": "S.",
+                    "last": "Bensch"
+                },
+                {
+                    "first": "Ravinder N.M.",
+                    "initial": "R.N.M.",
+                    "last": "Sehgal"
+                },
+                {
+                    "first": "Robert E.",
+                    "initial": "R.E.",
+                    "last": "Ricklefs"
+                }
+            ],
+            "doi": "10.1016/j.pt.2008.03.004",
+            "firstpage": "247",
+            "issn": "14714922",
+            "lastpage": "248",
+            "pmid": "18440865",
+            "pub_year": 2008,
+            "title": "Parasite misidentifications in GenBank: how to minimize their number?",
+            "volume": "24"
+        },
+        "bib0305": {
+            "authors": [
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Vilas"
+                },
+                {
+                    "first": "C. D.",
+                    "initial": "C.D.",
+                    "last": "Criscione"
+                },
+                {
+                    "first": "M. S.",
+                    "initial": "M.S.",
+                    "last": "Blouin"
+                }
+            ],
+            "doi": "10.1017/S0031182005008437",
+            "firstpage": "839",
+            "issn": "00311820",
+            "lastpage": "846",
+            "pmid": "16336737",
+            "pub_year": 2005,
+            "title": "A comparison between mitochondrial DNA and the ribosomal internal transcribed regions in prospecting for cryptic species of platyhelminth parasites",
+            "volume": "131"
+        },
+        "bib0310": {
+            "authors": [
+                {
+                    "first": "James C.",
+                    "initial": "J.C.",
+                    "last": "Wilgenbusch"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Swofford"
+                }
+            ],
+            "firstpage": "6.4",
+            "issn": "1934340X",
+            "pmid": "18428704",
+            "pub_year": 2003,
+            "title": "Inferring evolutionary trees with PAUP*.",
+            "volume": "6"
+        },
+        "bib0315": {
+            "authors": [
+                {
+                    "first": "Wade D.",
+                    "initial": "W.D.",
+                    "last": "Wilson"
+                },
+                {
+                    "first": "Pieter T.J.",
+                    "initial": "P.T.J.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "Daniel R.",
+                    "initial": "D.R.",
+                    "last": "Sutherland"
+                },
+                {
+                    "first": "H\u00e9l\u00e8ne",
+                    "initial": "H.",
+                    "last": "Mon\u00e9"
+                },
+                {
+                    "first": "Eric S.",
+                    "initial": "E.S.",
+                    "last": "Loker"
+                }
+            ],
+            "doi": "10.1645/GE-465R.1",
+            "firstpage": "1040",
+            "issn": "00223395",
+            "lastpage": "1045",
+            "pmid": "16419746",
+            "pub_year": 2005,
+            "title": "A molecular phylogenetic study of the genus Ribeiroia (Digenea): Trematodes known to cause limb malformations in amphibians",
+            "volume": "91"
+        },
+        "bib0320": {
+            "authors": [
+                {
+                    "first": "David S.",
+                    "initial": "D.S.",
+                    "last": "Woodruff"
+                },
+                {
+                    "first": "Margaret",
+                    "initial": "M.",
+                    "last": "Mulvey"
+                }
+            ],
+            "doi": "10.1006/bijl.1996.0116",
+            "firstpage": "505",
+            "issn": "00244066",
+            "lastpage": "516",
+            "pub_year": 1997,
+            "title": "Neotropical schistosomiasis: African affinities of the host snail Biomphalaria glabrata (Gastropoda: Planorbidae)",
+            "volume": "60"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 38269,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 38267,
+                    "startOffset": 38247
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "ML and BI analyses were run using the GTR + I+G model of nucleotide substitution by the Alkaike Infromation Criterion (AIC) jModelTest 2.1 (Darriba et al., 2012).",
+            "startOffset": 38107,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 31576,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Samples were chosen based on host usage, locality, and sampling year.",
+            "startOffset": 31507,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 37378,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "ML and BI topologies were identical and overall the BI analysis had higher nodal support than the ML analysis.",
+            "startOffset": 37268,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 59156,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Clade 9 was composed of cercariae from B. sudanica and B. pfeifferi which grouped with metacercariae from B. sudanica.",
+            "startOffset": 59038,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 62214,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "This study provides the first survey list of putative candidates and their relationships to snails to pursue in the control of S. mansoni as well as broadening our understanding of parasite community dynamics.",
+            "startOffset": 62005,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35155,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0265": {
+                    "endOffset": 35140,
+                    "startOffset": 35110
+                },
+                "bib0310": {
+                    "endOffset": 35088,
+                    "startOffset": 35058
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "ML and BI analyses were carried out using PAUP* 4.0 b10 (Wilgenbusch and Swofford, 2003) and MrBayes v 3.12 (Ronquist and Huelsenbeck, 2003) respectively.",
+            "startOffset": 35001,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 43194,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Clade 6 was represented by a single sample of cercariae (PE73) from Ceratophallus natalensis, designated Echinostomatidae sp. 3.",
+            "startOffset": 43066,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 53858,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "One possibility is that the spines in the spine pocket function as a light-harvesting organ to facilitate orientation to light by cercariae once they leave their snail host.",
+            "startOffset": 53685,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39638,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "We sequenced representatives of each life cycle stage for clade 2 and found them to be identical or to differ by less than 1.0% from one another.",
+            "startOffset": 39493,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 55209,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "A fifth type, represented by Clade 10, also possessed an identifiable oval structure lying in a comparable position to that seen for C. lileta, but it lacked any distinctive coloration.",
+            "startOffset": 55024,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43523,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "These cercariae also had approximately 60 small excretory granules in each main canal of the excretory system.",
+            "startOffset": 43413,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 25499,
+            "parents": [],
+            "refoffsets": {
+                "bib0110": {
+                    "endOffset": 25444,
+                    "startOffset": 25433
+                },
+                "bib0120": {
+                    "endOffset": 25497,
+                    "startOffset": 25475
+                },
+                "bib0180": {
+                    "endOffset": 25473,
+                    "startOffset": 25446
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Echinostomes are characterized by having a distinctive cephalic crown of collar spines, a ventral sucker larger than the oral sucker, two testes tandemly or symmetrically arranged, a pretesticular ovary, and a cirrus sac (Fried, 2001; Kostadinova and Jones, 2005; Fried and Toledo, 2009).",
+            "startOffset": 25211,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 53974,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "As discussed further below, cercariae with spine pockets have also been recovered from South American echinostomes.",
+            "startOffset": 53859,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44883,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 44881,
+                    "startOffset": 44861
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Five samples from our dataset grouped into three clades of Ribeiroia flukes that typically use birds as definitive hosts, planorbids as first intermediate hosts, and amphibians as second intermediate hosts, where they have been reported to cause limb deformities in amphibians (Johnson et al., 2004).",
+            "startOffset": 44583,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 35382,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Heuristic searchers were utilized for ML analyses and 1000 bootstrap replicates were run for each dataset.",
+            "startOffset": 35276,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 55785,
+            "parents": [],
+            "refoffsets": {
+                "bib0055": {
+                    "endOffset": 55783,
+                    "startOffset": 55764
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Several phylogenetic studies of the genus Biomphalaria have indicated that it originated in the Neotropics and later colonized Africa (DeJong et al., 2001).",
+            "startOffset": 55629,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 26691,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "The focus of this study is to uncover the diversity of echinostomes transmitted in Africa as part of a larger focus in how biodiversity can influence disease transmission.",
+            "startOffset": 26520,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35578,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "For BI analyses the parameters were unlinked: In both datasets the trees were sampled every 100 cycles, and the first 25% of trees with pre-asymptotic likelihood scores were discarded as burn-in.",
+            "startOffset": 35383,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 54049,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Four more peculiar structures were found just posterior to the oral sucker.",
+            "startOffset": 53974,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37567,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Clades were color coded (Figs. 2 and 3) based on intraclade nad1 p-distance value of less than 1.5% (see below).",
+            "startOffset": 37455,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 31855,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Genomic DNA was extracted using the QIAamp DNA Micro Kit following the manufacturer\u2019s instructions, with a final elution volume of 35 \u03bcl (Qiagen, Valencia, CA).",
+            "startOffset": 31695,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 42421,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Clades 4\u20136 did not group closely with any other specimens in GenBank, in either the 28S or the nad1 trees.",
+            "startOffset": 42315,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 50704,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "For instance, using p-distance values from the nad1 gene we could distinguish two distinct species of Patagifer (7.7% difference), whereas this distinction was not apparent in our 28S tree or distance matrix.",
+            "startOffset": 50496,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 44293,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "Two species, E. elegans and E. ralphaudyi were known to be transmitted by Bulinus from Africa but there are no samples represented in GenBank and no adult specimens are available for genetic study.",
+            "startOffset": 44096,
+            "title": "Clade 7 (Echinoparyphium)"
+        },
+        {
+            "endOffset": 62975,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "The content for this paper is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.",
+            "startOffset": 62813,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 29269,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Towards this end, we collected and characterized different species of echinostomes that are transmitted in East Africa, primarily from western Kenya, with an emphasis on species that use Biomphalaria or Bulinus as their first intermediate hosts.",
+            "startOffset": 29024,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42637,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Four specimens formed clade 4 and were transmitted by both Ceratophallus natalensis and Segmentorbis kanisaensis.",
+            "startOffset": 42524,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 46134,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Clade 8 (Ribeiroia sp. 1, Fig. 3H) was from a single snail (PE19) collected 15 years ago in west Kenya.",
+            "startOffset": 46031,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 52490,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Even though these studies used B. glabrata (Neotropical snail), this species is from Africa and uses African Biomphalaria as intermediate hosts in nature.",
+            "startOffset": 52336,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40252,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "These cercariae were also noteworthy for possessing diverticuli (greater than 16/side) along the length of their major excretory canals and for possessing numerous calcareous corpuscles (90\u2013100 granules/side) in each major excretory canal (Fig. 3B).",
+            "startOffset": 40003,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 28324,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Even meticulous species descriptions of adult morphology alone can lead to confusion in their systematics.",
+            "startOffset": 28218,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36074,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "We collected echinostome adults and larva between 2002\u20132017 from 19 localities (Table 1).",
+            "startOffset": 35985,
+            "title": "Samples"
+        },
+        {
+            "endOffset": 41524,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 41445,
+                    "startOffset": 41423
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Appleton et al. (1983) established the life cycle of Echinoparyphium montgomeriana from South Africa.",
+            "startOffset": 41423,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 53341,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "A role for the spines in the spine pocket as holdfast structures does not seem likely.",
+            "startOffset": 53255,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34333,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Both strands were sequenced using an Applied Biosystems 3130 automated sequencer and BigDye terminator cycle sequencing kit Version 3.1 (Applied Biosystems, Foster City, CA).",
+            "startOffset": 34159,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 42945,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Ten specimens formed clade 5 with only B. pfeifferi from a single locality to be shedding this cercaria (Fig. 3C).",
+            "startOffset": 42831,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 52335,
+            "parents": [],
+            "refoffsets": {
+                "bib0270": {
+                    "endOffset": 52333,
+                    "startOffset": 52312
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Also, E. caproni was dominant against S. mansoni in co-infections in B. glabrata, and E. caproni had enhanced virulence when B. glabrata were exposed to both parasites (Sandland et al., 2007).",
+            "startOffset": 52143,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47541,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 47539,
+                    "startOffset": 47516
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "Cercariae representing all six of the clades we identified had 27 collar spines, which was considered a trait of the genus (Faltynkova et al., 2008).",
+            "startOffset": 47392,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 49914,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0165": {
+                    "endOffset": 49912,
+                    "startOffset": 49891
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "The life cycle was completed by experimentally exposing laboratory raised reed cormorants (Microcarbo africanus) to metacercariae from Xenopus that had been experimentally exposed to cercariae from B. tropicus (King and Van As, 2000).",
+            "startOffset": 49680,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 48611,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "The nad1 p-distance value between these two specimens was 0.014, suggesting that these two specimens were the same species.",
+            "startOffset": 48488,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 55023,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 54848,
+                    "startOffset": 54837
+                },
+                "bib0315": {
+                    "endOffset": 54997,
+                    "startOffset": 54977
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Fain (1953) observed a distinctive oval-shaped rose-colored organ just posterior to the oral sucker, the presence of which was confirmed by Wilson et al. (2005) and in the present study.",
+            "startOffset": 54837,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35967,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0020": {
+                    "endOffset": 35918,
+                    "startOffset": 35897
+                },
+                "bib0060": {
+                    "endOffset": 35941,
+                    "startOffset": 35920
+                },
+                "bib0200": {
+                    "endOffset": 35965,
+                    "startOffset": 35943
+                },
+                "bib0305": {
+                    "endOffset": 35895,
+                    "startOffset": 35877
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "We followed other studies in using a p-distance value >5% in mtDNA markers to provisionally designate our specimens as distinct species (Vilas et al., 2005; Brant and Loker, 2009; Detwiler et al., 2010; Laidemitt et al., 2017).",
+            "startOffset": 35740,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 45381,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0315": {
+                    "endOffset": 45379,
+                    "startOffset": 45360
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Based on ITS2 sequences (tree not shown), our cercariae in clade 9 also grouped with sequences derived from cercariae from B. sudanica (GenBank AY761143) that also resembled Cercaria lileta and possessed the rose-colored organ (Wilson et al., 2005).",
+            "startOffset": 45132,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 25211,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 25209,
+                    "startOffset": 25187
+                },
+                "bib0195": {
+                    "endOffset": 25166,
+                    "startOffset": 25145
+                },
+                "bib0205": {
+                    "endOffset": 25130,
+                    "startOffset": 25108
+                },
+                "bib0275": {
+                    "endOffset": 25185,
+                    "startOffset": 25168
+                },
+                "bib0285": {
+                    "endOffset": 25143,
+                    "startOffset": 25132
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Echinostomes are also known to actively influence the establishment of pre-existing infections in snail first intermediate hosts, thus are considered important components to community composition over time and space (Lim and Heyneman, 1972; Sousa, 1993; Lafferty et al., 1994; Sapp et al., 1998; Hechinger et al., 2011).",
+            "startOffset": 24891,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34844,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0185": {
+                    "endOffset": 34842,
+                    "startOffset": 34824
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Non-redundant sequences were aligned by eye and edited in MEGA7 (Kumar et al., 2016).",
+            "startOffset": 34759,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 50001,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Only one cercaria (PE4) obtained from Bulinus sp. comprised clade 17 (Petasiger sp. 6).",
+            "startOffset": 49914,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 50111,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "This specimen was from a preserved specimen and it was difficult to make out distinct morphological features.",
+            "startOffset": 50002,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 32268,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 32267,
+                    "startOffset": 32248
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "PCR cycles were followed according to Tkach et al. (2016).",
+            "startOffset": 32210,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 41140,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Samples from Kazinga Channel in Uganda also grouped into this clade and clade 3.",
+            "startOffset": 41060,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 53478,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 53364,
+                    "startOffset": 53342
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Appleton et al. (1983) found the spine pocket of cercariae from Bulinus africanus to be lost once the cercariae encyst as metacercariae.",
+            "startOffset": 53342,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51690,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Therefore, we did not putatively designate a genus for these clades.",
+            "startOffset": 51622,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30269,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "The tissue culture plates were placed in natural light for two hours to induce shedding of cercariae.",
+            "startOffset": 30168,
+            "title": "Sampling"
+        },
+        {
+            "endOffset": 35275,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 35192,
+                    "startOffset": 35172
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "jModelTest 2.0 (Darriba et al., 2012) was used to find the best fit model of substitution for BI and ML for both genes.",
+            "startOffset": 35156,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 52904,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Clades 2 and 3 have a distinctive concentration of spines that appear mid-ventrally, a short distance posterior to the posterior margin of the oral sucker in what we have termed a spine pocket.",
+            "startOffset": 52711,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31312,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "We sequenced the nad1 gene to provide additional resolution for some of the more-closely related representatives we obtained.",
+            "startOffset": 31187,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 30924,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0115": {
+                    "endOffset": 30923,
+                    "startOffset": 30900
+                }
+            },
+            "secId": "sec0020",
+            "sentence": "To maintain a connection between the morphological voucher and the genetic voucher, part of the posterior portion of the adult was severed and used for molecular work and the remaining part was stained according to Fried and Manger (1992).",
+            "startOffset": 30685,
+            "title": "Staining adult worms"
+        },
+        {
+            "endOffset": 58903,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "We sequenced life cycle stages (cercariae, metacercariae, or adults) and compared them to one another and if two life cycle stages fell into the same clade in the nad1 tree (less than 1.5% pairwise difference) we considered them to be conspecifics.",
+            "startOffset": 58655,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 58654,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "However, using molecular markers we were able to connect at least two hosts (2/3) in the life cycles for four clades of echinostomes.",
+            "startOffset": 58521,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 62004,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "The use of indigenous echinostome species for control of human schistosomes deserves further consideration, and supplemental studies are needed to ascertain how these African species may affect schistosome abundance.",
+            "startOffset": 61788,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30477,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0025": {
+                    "endOffset": 30388,
+                    "startOffset": 30378
+                },
+                "bib0030": {
+                    "endOffset": 30429,
+                    "startOffset": 30418
+                },
+                "bib0035": {
+                    "endOffset": 30416,
+                    "startOffset": 30390
+                },
+                "bib0080": {
+                    "endOffset": 30376,
+                    "startOffset": 30366
+                },
+                "bib0105": {
+                    "endOffset": 30461,
+                    "startOffset": 30431
+                },
+                "bib0280": {
+                    "endOffset": 30475,
+                    "startOffset": 30463
+                }
+            },
+            "secId": "sec0015",
+            "sentence": "Available keys were used for preliminary identification of African snails and their trematodes (Fain, 1953; Brown 1984; Brown and Kristensen, 1989; Brown, 1994; Frandsen and Christensen, 1984; Schell, 1985).",
+            "startOffset": 30270,
+            "title": "Sampling"
+        },
+        {
+            "endOffset": 42275,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Lie and Umathevy (1966) described cercariae of Echinostoma hystricosum from the lymnaeid snail, Radix (Lymnaea) rubiginosa as having 60 collar spines and a spine pocket as well, but excretory diverticuli were not present.",
+            "startOffset": 42054,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 27440,
+            "parents": [],
+            "refoffsets": {
+                "bib0125": {
+                    "endOffset": 27438,
+                    "startOffset": 27410
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "There is growing evidence for some species that echinostome rediae are specialized for the purpose of attacking and killing the larvae of competing digenean species within the body of their molluscan hosts, while other rediae are more specialized for reproduction (Garcia-Vedrenne et al., 2016).",
+            "startOffset": 27145,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 59278,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "We collected an adult from a reed cormorant which grouped with cercariae from B. sudanica and B. pfeifferi from clade 15.",
+            "startOffset": 59157,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43630,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "A single specimen of a cercaria from Bulinus tropicus (PE68) comprised clade 7.",
+            "startOffset": 43551,
+            "title": "Clade 7 (Echinoparyphium)"
+        },
+        {
+            "endOffset": 43866,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "The specimen was preserved in ethanol and not maintained in adequate shape to determine the number of collar spines or other morphological features; however, it grouped within sampled identified as Echinoparyphium from GenBank samples.",
+            "startOffset": 43631,
+            "title": "Clade 7 (Echinoparyphium)"
+        },
+        {
+            "endOffset": 32022,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The 28S gene was amplified using forward primer, dig12 (5\u2032-AAG CAT ATC ACT AAGCGG-3\u2032) and reverse primer 1500R (5\u2032-GCT ATC CTG AGGGAA ACT TCG-3\u2032) (Tkach et al., 2003).",
+            "startOffset": 31855,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 56644,
+            "parents": [],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 56642,
+                    "startOffset": 56611
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Their cercariae are remarkably similar to, though distinct from echinostome cercariae from Biomphalaria straminea in South America (Ostrowski-de N\u00fa\u00f1ez et al., 1997).",
+            "startOffset": 56479,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36192,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Cercariae or rediae were collected from 9 species of snail hosts and adults were collected from two species of birds.",
+            "startOffset": 36075,
+            "title": "Samples"
+        },
+        {
+            "endOffset": 33126,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The volume of each PCR reaction was 25 \u03bcl with 1 \u03bcl of 100 ng of DNA, 0.8 mM/l dNTPs, 2.5 mM/l MgCl2, 0.25 units of Ex Taq DNA (Clontech, Mountain View, CA), and 0.4 \u03bcM/L of each primer PCR cycles were performed on Eppendorf Mastercycler epigradient machines which were programmed as follows: 2 min denaturation at 94 \u00b0C; 94 \u00b0C for 1 min, 54 \u00b0C for 30 s and 72 \u00b0C for 1 min for three cycles; 94 \u00b0C for 1 min, 53 \u00b0C for 30 s, and 72 \u00b0C for 1 min for three cycles; 94 \u00b0C for 1 min, 52 \u00b0C for 30 s and 72 \u00b0C for 1 min for three cycles; 94 \u00b0C for 1 min, 51 \u00b0C for 30 s and 72 \u00b0C for 1 min for 20 cycles, and followed by an extension step for 7 min at 72 \u00b0C.",
+            "startOffset": 32473,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 49470,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 49468,
+                    "startOffset": 49458
+                },
+                "bib0165": {
+                    "endOffset": 49435,
+                    "startOffset": 49414
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "Clade 16 (Petasiger sp. 5) likely corresponded to what was described as Petasiger variospinosus (King and Van As, 2000) and Cercaria decora (Fain, 1953).",
+            "startOffset": 49317,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 60977,
+            "parents": [],
+            "refoffsets": {
+                "bib0205": {
+                    "endOffset": 60975,
+                    "startOffset": 60953
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Although it is well known that a single snail species can be utilized by multiple different species of digeneans, double infections are rare in nature, and some digenean species interfere with one another\u2019s development within the same intermediate host (Lim and Heyneman, 1972).",
+            "startOffset": 60699,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47011,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0175": {
+                    "endOffset": 47009,
+                    "startOffset": 46981
+                }
+            },
+            "secId": "sec0080",
+            "sentence": "One sample, (PE30) of cercariae from Radix natalensis grouped with GenBank records for the genus Isthmiophora, which infected small mammals, use molluscs, including lymnaeids, as first intermediate hosts and fish or amphibians as second intermediate hosts (Kostadinova and Gibson, 2002).",
+            "startOffset": 46724,
+            "title": "Clade 11 (Isthmiophora)"
+        },
+        {
+            "endOffset": 51075,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "From our analyses, three of the 17 clades (4\u20136) did not group with any GenBank records.",
+            "startOffset": 50988,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29376,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "These two snail genera host Schistosoma mansoni, and S. haematobium and its close relatives, respectively.",
+            "startOffset": 29270,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 59902,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "With respect to transmission of human schistosomiasis, 15 of the 17 clades we found were transmitted by planorbids, suggesting that planorbids are being heavily exploited by these echinostomes even though we collected other snail families including Physidae, Viviparidae, Thiaridae and Bithyniidae for which we did not find any infected with echinostomes.",
+            "startOffset": 59547,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 56211,
+            "parents": [],
+            "refoffsets": {
+                "bib0320": {
+                    "endOffset": 56209,
+                    "startOffset": 56184
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Given that many echinostome species are hosted by aquatic birds, they may have provided a conduit for dispersal of Neotropical echinostomes to Africa and vice versa (Woodruff and Mulvey, 1997).",
+            "startOffset": 56018,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37829,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Four of the Ribeiroia samples did not amplify or the quality of the sequences was poor.",
+            "startOffset": 37742,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 46698,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "However, this organ lacked the distinctive rose color observed in the cercariae that grouped in clade 9 (Fig. 3G).",
+            "startOffset": 46584,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 61179,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 61177,
+                    "startOffset": 61155
+                },
+                "bib0190": {
+                    "endOffset": 61153,
+                    "startOffset": 61142
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Dominance hierarchies among digenean species have been documented and certain species of echinostomes have been shown to be dominant among other trematode species (Kuris, 1990; Hechinger et al., 2011).",
+            "startOffset": 60978,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27614,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "An important first step in understanding echinostome-schistosome interactions is the characterization of the biodiversity and host use of echinostome species in East Africa.",
+            "startOffset": 27441,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 43412,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Tail fins were not prominent, and many small lipid drops were evident in the body.",
+            "startOffset": 43330,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 26929,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "One of our motivations is to learn how other digenean species, particularly echinostomes, can influence schistosomiasis transmission in Sub-Saharan Africa by competing with schistosome sporocysts for access to their required snail hosts.",
+            "startOffset": 26692,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34758,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "The analysis included 47 specimens from NCBI-GenBank for 28S and 41 for nad1.",
+            "startOffset": 34681,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 41809,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 41808,
+                    "startOffset": 41789
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "He found this species to be transmitted by Bulinus africanus and reported it to have 48\u201354 collar spines and a brush of spines posterior to the oral sucker and was placed in the genus Echinoparyphium, which does not correspond to that genus as defined recently by Tkach et al. (2016).",
+            "startOffset": 41525,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 30167,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "All field-collected aquatic snails were brought to the lab and were placed individually into 12-well tissue culture plates in 3 ml of aged tap water.",
+            "startOffset": 30018,
+            "title": "Sampling"
+        },
+        {
+            "endOffset": 60106,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Seven clades are transmitted by Biomphalaria and 6 of the clades are transmitted by Bulinus.",
+            "startOffset": 60014,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 39215,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "We completed the life cycle of worms from clade 2.",
+            "startOffset": 39165,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 34680,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "28S and nad1 sequences were used in phylogenetic analyses using Maximum Likelihood (ML) and Bayesian interferences (BI).",
+            "startOffset": 34560,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 37922,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Therefore, 94 samples were used in the original analyses and to determine p-distance values.",
+            "startOffset": 37830,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 47088,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0080",
+            "sentence": "To our knowledge, this was the first genetic evidence of the genus in Africa",
+            "startOffset": 47012,
+            "title": "Clade 11 (Isthmiophora)"
+        },
+        {
+            "endOffset": 33551,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Therefore, for the cercariae where we did not have the snail host, we used snail cox1 primers to generate amplicons from those cercariae, particularly those shed from Bulinus.",
+            "startOffset": 33376,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 54518,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "A third type of refractile structure is exhibited by clades 13\u201316, also which have an enclosed structure located just posterior to the oral sucker.",
+            "startOffset": 54371,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 62812,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "We gratefully acknowledge the following agencies for their financial support: The National Institute of Health (NIH) grant R37AI101438, the Fogarty International Center and National Institute of Mental Health, NIH award number D43 TW010543, and the Bill and Melinda Gates Foundation, Seattle, WA (OPP1098449) for the Grand Challenges Explorations Initiative grant.",
+            "startOffset": 62448,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 26098,
+            "parents": [],
+            "refoffsets": {
+                "bib0170": {
+                    "endOffset": 26096,
+                    "startOffset": 26079
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Delineation of genera has traditionally been based extensively on characteristics of adult worms and has included consideration of definitive host use, the morphology of the cephalic collar, number and arrangement of the collar spines, position of the testes and ovary, and location and structure of the vitellaria (Kostadinova, 2005).",
+            "startOffset": 25763,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 34054,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "PCR fragments were separated by agarose gel electrophoresis and visualized with 0.5% GelRed\u2122 Nucleic acid gel stain (Biotium, Hayward, CA, USA).",
+            "startOffset": 33910,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 53684,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Perhaps these spines are somehow moved to a position on the collar to replace spines lost during subsequent encystment as metacercariae or when excysted worms develop into adults in their definitive hosts.",
+            "startOffset": 53479,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 46299,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Clade 10 was also represented by a single snail (PE52) of cercariae.",
+            "startOffset": 46231,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 49679,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Such cercariae had 27 collar spines, two large granules posterior to the oral sucker, and 19\u201320 calcareous corpuscles in each main excretory canal.",
+            "startOffset": 49532,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 53254,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "They appear refractile as do the associated collar spines, but the number of collar spines (54\u201362) for both clades is much greater.",
+            "startOffset": 53123,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38106,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 38104,
+                    "startOffset": 38086
+                }
+            },
+            "secId": "sec0050",
+            "sentence": "Fasciolopsis buski (EF612501) was used as the outgroup instead of Caballerotrema sp. because nad1 sequences for Caballerotrema sp. are not represented in GenBank (Tkach et al., 2016).",
+            "startOffset": 37923,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 38376,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "The ML and BI topologies were identical and overall the BI tree had higher nodal support than the ML tree.",
+            "startOffset": 38270,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 63044,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "This paper was published with the approval of the Director of KEMRI.",
+            "startOffset": 62976,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 27144,
+            "parents": [],
+            "refoffsets": {
+                "bib0135": {
+                    "endOffset": 27142,
+                    "startOffset": 27120
+                },
+                "bib0205": {
+                    "endOffset": 27118,
+                    "startOffset": 27096
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Studies have shown that when multiple species of digenetic trematodes colonize the same snail host, echinostomes have usually proven to be dominant to other species (Lim and Heyneman, 1972; Hechinger et al., 2011).",
+            "startOffset": 26930,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 48326,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "These cercariae had 7\u201310 calcareous corpuscles per main excretory canal, a small oral sucker and two refractile granules posterior to the oral sucker (Fig. 3F).",
+            "startOffset": 48166,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 39861,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "The larvae also possessed a structure we termed the spine pocket containing approximately 20 spines that was located mid-ventrally just posterior to the oral sucker.",
+            "startOffset": 39696,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 51177,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Specimens from clades 4 and 5 possessed 33 collar spines and those from clade 6 had 36 collar spines.",
+            "startOffset": 51076,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 52710,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "One surprising and previously unappreciated aspect of echinostome biology that emerged from examining a broad spectrum of cercariae was the presence of a variety of peculiar structures lying posterior to the oral sucker.",
+            "startOffset": 52490,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48060,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "It had been preserved for many years in ethanol and it was difficult to make out many of its morphological features for comparison to other specimens in this study or from other published works.",
+            "startOffset": 47866,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 56366,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "This idea is supported by the fact that similar cercariae from opposite sides of the Atlantic use related, but distinct species of avian definitive hosts.",
+            "startOffset": 56212,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27826,
+            "parents": [],
+            "refoffsets": {
+                "bib0045": {
+                    "endOffset": 27824,
+                    "startOffset": 27802
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "With these data, we can relate our results to the growing body of research that highlights the relevance between biodiversity and human disease transmission (Johnson and Thieltges, 2010; Civitello et al., 2015).",
+            "startOffset": 27615,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49222,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Sequences from these cercariae also matched those from an adult worm (PE38) recovered from a reed cormorant (Microcarbo africanus).",
+            "startOffset": 49091,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 50987,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "To help reduce discrepancies between our collected specimens and those in GenBank we used ML and BI analyses to determine how our specimens grouped relative to each other and to echinostomes represented in GenBank and then putatively assigned them a name based on where they grouped.",
+            "startOffset": 50704,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57286,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Additionally, such studies can be extended to understand how to manage co-occurring disease-causing parasites, such as Schistosoma mansoni.",
+            "startOffset": 57147,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27987,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "However, very little is known about African echinostomes with respect to biogeography, phylogenetic placement (especially using molecular markers), and host use.",
+            "startOffset": 27826,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31186,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 31185,
+                    "startOffset": 31166
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "We sequenced the 28S gene because such data are available for many of the echinostomes listed in GenBank and can thus provide a broader taxonomic comparison of our specimens into genera according to the scheme of Tkach et al. (2016).",
+            "startOffset": 30953,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 57859,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Using molecular markers, we confirmed that four clades (2, 4, 13, and 14) use more than one genus of snail (and sometimes multiple families of snails) as first intermediate hosts.",
+            "startOffset": 57680,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 43066,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "We also collected an adult worm from a hadada ibis (Bostrychia hagedash) that matched the cercariae samples in sequence.",
+            "startOffset": 42946,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 28217,
+            "parents": [],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 28196,
+                    "startOffset": 28175
+                },
+                "bib0015": {
+                    "endOffset": 28173,
+                    "startOffset": 28160
+                },
+                "bib0070": {
+                    "endOffset": 28103,
+                    "startOffset": 28092
+                },
+                "bib0075": {
+                    "endOffset": 28158,
+                    "startOffset": 28145
+                },
+                "bib0090": {
+                    "endOffset": 28130,
+                    "startOffset": 28119
+                },
+                "bib0140": {
+                    "endOffset": 28143,
+                    "startOffset": 28132
+                },
+                "bib0230": {
+                    "endOffset": 28117,
+                    "startOffset": 28105
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The majority of echinostome descriptions from Africa are of adults that use birds as a definitive host (Dietz, 1909; Odhner, 1910; Faust, 1921; Hilmy, 1949; Dollfus, 1950; Bisseru, 1957; Appleton et al., 1983; King and As, 2000).",
+            "startOffset": 27988,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38716,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0225": {
+                    "endOffset": 38714,
+                    "startOffset": 38692
+                }
+            },
+            "secId": "sec0055",
+            "sentence": "Two of our specimens (PE79 and PE89) were representatives of Echinostoma caproni (p-distance value 0.005) based on GenBank accession number, AF025829 from Madagascar (Morgan and Blair, 1998).",
+            "startOffset": 38525,
+            "title": "Clade 1 (Echinostoma caproni)"
+        },
+        {
+            "endOffset": 47865,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Clade 12 (Petasiger sp. 1) was represented by one cercaria (PE36), from R. natalensis occurring in central Kenya.",
+            "startOffset": 47752,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 60013,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Of the 17 clades, 13 use the same (first) intermediate hosts as human schistosomes (Biomphalaria and Bulinus).",
+            "startOffset": 59903,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57146,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Exploring the relationships among trematode species that use more than one species and/or genus of intermediate host, for example, is key to understanding the how parasite evolve and persist over time and space.",
+            "startOffset": 56935,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 37267,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 37265,
+                    "startOffset": 37247
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "(Tkach et al., 2016).",
+            "startOffset": 37246,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 52142,
+            "parents": [],
+            "refoffsets": {
+                "bib0260": {
+                    "endOffset": 52140,
+                    "startOffset": 52119
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "It is of interest that this species was found because many studies have been done on the immunobiology of Biomphalaria and E. caproni and others that have shown E. caproni rediae move toward intramolluscan stages of other trematodes (Reddy and Fried, 1996).",
+            "startOffset": 51885,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30554,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0015",
+            "sentence": "Cercariae and rediae were fixed in 95% ethanol for later molecular analysis.",
+            "startOffset": 30478,
+            "title": "Sampling"
+        },
+        {
+            "endOffset": 36397,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Although we attempted to sequence nad1 from all 98 samples, 4 samples would not amplify using the nad1 primers.",
+            "startOffset": 36286,
+            "title": "Samples"
+        },
+        {
+            "endOffset": 54127,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "The second type of peculiar refractile structure was found in clades 4 and 5.",
+            "startOffset": 54050,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 58310,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "In both cases, this diversity of interspecific relationships was not revealed without the use of comparative molecular phylogenetic.",
+            "startOffset": 58178,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29024,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "This effort allowed us to link certain life cycle stages across space and time to better differentiate clades of echinostomes and understand host usage patterns and how they relate to disease transmission in East Africa.",
+            "startOffset": 28804,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 38979,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Many of our samples (43) grouped into clades 2 and 3, including 2 samples from Uganda.",
+            "startOffset": 38893,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 42523,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "Clades 4 and 5 (Echinostomatidae sp. 1\u20132) did not have prominent tail fins and have 33 collar spines.",
+            "startOffset": 42422,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 39695,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Clade 2 cercariae had tail fins and 58\u201362 collar spines.",
+            "startOffset": 39639,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 54836,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 54835,
+                    "startOffset": 54824
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "A fourth type is found in clade 9, a species of Ribeiroia with its cercaria corresponding to C. lileta of Fain (1953).",
+            "startOffset": 54718,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48437,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Two specimens, PE39 and PE5 from R. natalensis and Bulinus sp., respectively formed clade 14 (Petasiger sp. 3).",
+            "startOffset": 48326,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 39492,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "We then used cercariae from successful experimental infections to expose B. sudanica to obtain metacercariae.",
+            "startOffset": 39383,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 40402,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 40400,
+                    "startOffset": 40377
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Clade 2 closely grouped with a 28S GenBank sample of an adult Patagifer vioscai (KT956946) worm which had 53 collar spines (Faltynkova et al., 2008).",
+            "startOffset": 40253,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 33910,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Many of samples yielded amplicons; however, in some cases, we were unable to amplify snail DNA from the cercariae samples, therefore we could not designate a species.",
+            "startOffset": 33744,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 40002,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 39941,
+                    "startOffset": 39920
+                },
+                "bib0235": {
+                    "endOffset": 40000,
+                    "startOffset": 39969
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Other descriptions called this unit a \u201cbrush of needles\u201d (Appleton et al., 1983) or a \u201crosette of spines\u201d (Ostrowski-de N\u00fa\u00f1ez et al., 1997).",
+            "startOffset": 39862,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 53122,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "The 20\u201330 spines contained in the pocket are similar in size and appearance to the collar spines and are arranged with their bases overlapping centrally and with their sharp distal tips fanning outward and anteriorly.",
+            "startOffset": 52905,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 34158,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "PCR products were purified using the Illustra ExoProStar (GE Healthcare Life Sciences, Pittsburgh, PA).",
+            "startOffset": 34055,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 37245,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Caballerotrema sp. was used as the outgroup because it is the most closely related family to Echinostomatidae that has GenBank records.",
+            "startOffset": 37110,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 26520,
+            "parents": [],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 26410,
+                    "startOffset": 26392
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "A recent molecular phylogenetic study focused on 28S rRNA sequences and incorporated a broad array of echinostome species has provided a new framework to organize our thinking about echinostomes (Tkach et al., 2016); however, while most continents have some representative taxa, echinostomes from Africa are largely lacking.",
+            "startOffset": 26196,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 39164,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "There was a 0.077 (7.7%) p-distance value between these two clades.",
+            "startOffset": 39097,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 31694,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "One or two cercariae, one rediae, or a partial portion of the posterior end of an adult were used for DNA extraction.",
+            "startOffset": 31577,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 33375,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0065": {
+                    "endOffset": 33373,
+                    "startOffset": 33353
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "Cercariae can often have adherent snail tissue on them that can be amplified with snail specific primers (Devkota et al., 2015).",
+            "startOffset": 33247,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 36818,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Because some of our resulting clades had multiple representatives, we chose two or three specimens per clade to simplify the presentation of echinostome diversity.",
+            "startOffset": 36655,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 48870,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Cercariae from both snail hosts had two large granules just posterior to the oral sucker.",
+            "startOffset": 48781,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 60246,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Approximately 44% of the specimens we collected fell into clades 2 and 3 and these clades were transmitted by B. pfeifferi and B. sudanica.",
+            "startOffset": 60107,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 60501,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Even though many clades were found to be transmitted by planorbids, we also found 3 of the clades to be transmitted by Radix natalensis which is an intermediate host for Fasciola gigantica and F. hepatica, which causes fascioliasis (Correa et al., 2010).",
+            "startOffset": 60247,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33743,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0290": {
+                    "endOffset": 33741,
+                    "startOffset": 33720
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "This was done in attempt to verify the Bulinus species from which the cercariae were shed, because identification based only on snail keys is difficult for this genus (Stothard et al., 2002).",
+            "startOffset": 33552,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 36654,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Forty-seven samples from GenBank and 98 specimens from this study were used in phylogenetic analyses to determine how the samples were related.",
+            "startOffset": 36511,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 47702,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Cercariae representing these clades had two conspicuous refractile granules situated immediately posterior to the oral sucker, an inflated gut and no tail fins.",
+            "startOffset": 47542,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 49531,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Cercariae in this clade were both recovered from Bulinus sp.",
+            "startOffset": 49471,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 54370,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 54329,
+                    "startOffset": 54318
+                },
+                "bib0095": {
+                    "endOffset": 54369,
+                    "startOffset": 54346
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "The enclosed structure lying just posterior to the oral sucker contains a cluster of granules (20\u201324), some of which are fused and this feature is similar to other cercariae descriptions by Fain (1953), Lie (1963) and Fernandez et al. (2014).",
+            "startOffset": 54128,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28496,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Likewise, descriptions other life cycle stages like cercariae or metacercariae by themselves may also prove difficult or unreliable as a basis for species identifications.",
+            "startOffset": 28325,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 35674,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0185": {
+                    "endOffset": 35672,
+                    "startOffset": 35654
+                }
+            },
+            "secId": "sec0030",
+            "sentence": "Uncorrected pairwise distance values (p-distance) were calculated in MEGA7 (Kumar et al., 2016).",
+            "startOffset": 35578,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 49090,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "The cercariae comprising clade 15 (Petasiger sp. 4) that were recovered from B. pfeifferi and B. sudanica also had two granules just posterior to the oral sucker and 17 calcareous corpuscles in each main excretory canal.",
+            "startOffset": 48870,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 43329,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "These cercariae had approximately 18 collar spines on each side and a cluster of about 30 small granules posterior to the oral sucker.",
+            "startOffset": 43195,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 47190,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "We found six different clades that likely belonged to the genus Petasiger.",
+            "startOffset": 47116,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 47752,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "None of these clades matched any GenBank records.",
+            "startOffset": 47703,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 34929,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "A total of 1143 bases were used for 28S alignment and 493 bases for nad1 alignments.",
+            "startOffset": 34845,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 29985,
+            "parents": [],
+            "refoffsets": {
+                "bib0145": {
+                    "endOffset": 29779,
+                    "startOffset": 29760
+                },
+                "bib0240": {
+                    "endOffset": 29734,
+                    "startOffset": 29714
+                },
+                "bib0300": {
+                    "endOffset": 29758,
+                    "startOffset": 29736
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "It is also critical for the evolutionary characterization of organisms to have a permanent museum voucher (Pleijel et al., 2008; Valkiunas et al., 2008; Hoberg et al., 2009), thus we provide vouchered materials that include locality information, sequence data, provisional species identification, and host use information for the African echinostome adults and larvae collected.",
+            "startOffset": 29607,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30684,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0020",
+            "sentence": "Adult worms were preserved in 95% ethanol and then were placed into 70% ethanol for 24 h prior to staining.",
+            "startOffset": 30577,
+            "title": "Staining adult worms"
+        },
+        {
+            "endOffset": 35739,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Data were summarized within and between groups (Tables 3 and 4).",
+            "startOffset": 35675,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 41059,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 41057,
+                    "startOffset": 41035
+                },
+                "bib0215": {
+                    "endOffset": 40884,
+                    "startOffset": 40861
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "We also note of interest that our cercariae in clade 2 resembled cercariae from two South American species of Biomphalaria: 1) cercariae of B. tenagophila from the Uruguay River that transmitted an echinostome cercaria with 58 spines and 16 excretory diverticuli/side (Martorelli et al., 2013), and 2) cercariae from Biomphalaria straminea from Argentina have been reported with 53\u201354 collar spines, a spine pocket, diverticuli and tail fins (Fernandez et al., 2014).",
+            "startOffset": 40592,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 48165,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Eight specimens from this study were cercariae from Bulinus that grouped into clade 13 (Petasiger sp. 2).",
+            "startOffset": 48060,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 24506,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Here we focus on taxa from one of the families the Echinostomatidae, referred to hereafter as echinostomes.",
+            "startOffset": 24399,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45706,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0075": {
+                    "endOffset": 45683,
+                    "startOffset": 45670
+                },
+                "bib0080": {
+                    "endOffset": 45547,
+                    "startOffset": 45537
+                },
+                "bib0315": {
+                    "endOffset": 45704,
+                    "startOffset": 45685
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "Our clade 9 samples were from B. pfeifferi and B. sudanica from central and west Kenya, which resemble earlier descriptions of cercariae from B. sudanica (Fain, 1953) and R. congolensis which was transmitted by the goliath heron (Ardea goliath) from the Democratic Republic of the Congo (Dollfus, 1950; Wilson et al., 2005).",
+            "startOffset": 45382,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 46230,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "It had fewer granules in the excretory system than did cercariae of clade 10 (Ribeiroia sp. 3).",
+            "startOffset": 46135,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 51884,
+            "parents": [],
+            "refoffsets": {
+                "bib0225": {
+                    "endOffset": 51882,
+                    "startOffset": 51860
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "From the addition of our specimens from our survey work in East Africa, we confirmed that E. caproni (37-collar-spined group) has a broad distribution throughout Africa (Morgan and Blair, 1998).",
+            "startOffset": 51690,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36285,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "We sequenced 28S and nad1 from 92 different cercariae, 4 metacercariae, and 2 adult samples.",
+            "startOffset": 36193,
+            "title": "Samples"
+        },
+        {
+            "endOffset": 59037,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "For example, in clade 5, we collected an adult worm from a hadada ibis which fell into the same clade as cercariae from B. pfeifferi.",
+            "startOffset": 58904,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 58520,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "In many cases, it is difficult to complete parasite life cycles because collecting all necessary hosts in a life cycle and experimentally exposing those hosts is most often logistically difficult in most areas.",
+            "startOffset": 58310,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 38493,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Nad1 sequences revealed two additional clades that were not found from the 28S analysis (see below under Patagifer).",
+            "startOffset": 38377,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 55629,
+            "parents": [],
+            "refoffsets": {
+                "bib0095": {
+                    "endOffset": 55562,
+                    "startOffset": 55540
+                },
+                "bib0215": {
+                    "endOffset": 55538,
+                    "startOffset": 55515
+                },
+                "bib0235": {
+                    "endOffset": 55513,
+                    "startOffset": 55482
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Similar structures have not been described from the many putative species of echinostome cercariae described from North America or Eurasia; however, there are striking morphological similarities between cercariae transmitted by Biomphalaria from Africa and South America (Ostrowski-de N\u00fa\u00f1ez et al., 1997; Martorelli et al., 2013; Fernandez et al., 2014) that suggests a historical connection in the southern hemisphere.",
+            "startOffset": 55210,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 48780,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0220": {
+                    "endOffset": 48778,
+                    "startOffset": 48760
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "The cercaria from R. natalensis resembled that of an echinostome cercariae described from South Africa also transmitted by R. (Lymnaea) natalensis (Moema et al., 2008).",
+            "startOffset": 48612,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 25762,
+            "parents": [],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 25760,
+                    "startOffset": 25742
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The family Echinostomatidae (the recent reclassification now includes taxa that belonged to the former Rhopaliidae, Looss, 1899; Cathaemasiidae Fuhrmann, 1928; and Ribeiroiinae Travassos, 1951) is the most speciose family in the superfamily (Tkach et al., 2016).",
+            "startOffset": 25500,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 37741,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0050",
+            "sentence": "Forty-one samples from GenBank and the same specimens from this study were used to generate the 28S tree in this study were used in the analysis.",
+            "startOffset": 37596,
+            "title": "nad1 Phylogenetic analyses"
+        },
+        {
+            "endOffset": 57505,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Another interesting aspect among the relationships of the echinostomes and their hosts is the involvement of other planorbid genera and species from both Africa and South America as additional first intermediate hosts.",
+            "startOffset": 57287,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 33246,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "For some of the samples, only the cercariae (after shedding of snails) were saved, but its snail host was not preserved.",
+            "startOffset": 33126,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 39096,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Thirty-one specimens grouped into clade 2 (Patagifer sp. 1) and 12 specimens grouped into clade 3 (Patagifer sp. 2).",
+            "startOffset": 38980,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 49317,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0100": {
+                    "endOffset": 49316,
+                    "startOffset": 49294
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "Morphologically this specimen is similar to the Petasiger described in Fernandez et al., 2016.",
+            "startOffset": 49223,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 54717,
+            "parents": [],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 54645,
+                    "startOffset": 54635
+                },
+                "bib0165": {
+                    "endOffset": 54691,
+                    "startOffset": 54670
+                },
+                "bib0220": {
+                    "endOffset": 54715,
+                    "startOffset": 54697
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "But in the case of clades 13\u201316, the structure contains only two larger granules, similar to what was described by (Fain, 1953; King and Van as, 1996; King and Van As, 2000, and Moema et al., 2008).",
+            "startOffset": 54519,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 56935,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "There are very few GenBank records of South American echinostomes and further comparisons of sequence data among morphologically similar cercariae between the two continents will help to unravel patterns of intercontinental dispersal or to provide insight if they were part of Gondwanaland.",
+            "startOffset": 56645,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28803,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Therefore, to characterize the species diversity of echinostomes in Kenya and surrounding areas, particularly in the Lake Victoria Basin which encompasses multiple East African countries, molecular markers were used in combination with morphological features to identify the life cycle stages we collected.",
+            "startOffset": 28497,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57679,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Some of our species of echinostomes recovered from African Biomphalaria were sometimes also recovered in another important schistosome-transmitting planorbid genus, Bulinus.",
+            "startOffset": 57506,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 36959,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "Sequences (1243 bp) were obtained for all 98 samples of which 1143 bp were used for Maximum Likelihood (Fig. 1) and BI (not shown) analyses.",
+            "startOffset": 36819,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 34513,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "DNA sequences were verified by aligning reads from the 5\u2032 and 3\u2032 directions using Sequencher 5.0 and manually corrected for ambiguous base calls (Gene Codes, Ann Arbor, Michigan).",
+            "startOffset": 34334,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 37109,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0050": {
+                    "endOffset": 37107,
+                    "startOffset": 37087
+                }
+            },
+            "secId": "sec0045",
+            "sentence": "Analyses were run using the G + I+F model of nucleotide substitution by the Akaike Information Criterion (AIC) jModelTest 2.1 (Darriba et al., 2012).",
+            "startOffset": 36960,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 58177,
+            "parents": [],
+            "refoffsets": {
+                "bib0060": {
+                    "endOffset": 58175,
+                    "startOffset": 58154
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "This finding is in line with another study that also confirmed some echinostomes to have broad first (and second) intermediate host specificity (using multiple genera and families of snails) (Detwiler et al., 2010).",
+            "startOffset": 57962,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24890,
+            "parents": [],
+            "refoffsets": {
+                "bib0130": {
+                    "endOffset": 24888,
+                    "startOffset": 24865
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "Echinostomes are known to cause disease in humans, mostly in southeast Asia where raw second intermediate hosts are consumed (Graczyk and Fried, 1998).",
+            "startOffset": 24739,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 36483,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0040",
+            "sentence": "Our specimens were deposited as vouchers in the Museum of Southwestern Biology (MSB).",
+            "startOffset": 36398,
+            "title": "Samples"
+        },
+        {
+            "endOffset": 32209,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "The volume of each PCR reaction was 25 \u03bcl with 1 \u03bcl of 100 ng of DNA, 0.8 mM/l dNTPs, 2.5 mM/l MgCl2, 0.25 units of Ex Taq DNA (Clontech, Mountain View, CA), and 0.4 \u03bcM/L of each primer.",
+            "startOffset": 32023,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 38892,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 38890,
+                    "startOffset": 38867
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Species of Patagifer were known to use ibises as definitive hosts and snails as both the first and second intermediate hosts (Faltynkova et al., 2008).",
+            "startOffset": 38741,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 39382,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "We acquired eggs from fecal samples from a sacred ibis (Threskiornis aethiopicus), hatched the eggs and experimentally exposed Biomphalaria sudanica to the miracidia.",
+            "startOffset": 39216,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 44557,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0070",
+            "sentence": "It is possible that our specimen was one of these two previously described bulinid-transmitted species based on geography and host-use, but molecular sequences of the two species would be required and finding adults at our study sites to validate this hypothesis.",
+            "startOffset": 44294,
+            "title": "Clade 7 (Echinoparyphium)"
+        },
+        {
+            "endOffset": 31506,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0025",
+            "sentence": "Partial sequences of the 28S ribosomal gene and nicotinamide adenine dinucleotide dehydrogenase subunit 1 (nad1) from 98 echinostome specimens were amplified by polymerase chain reaction (PCR).",
+            "startOffset": 31313,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 61787,
+            "parents": [],
+            "refoffsets": {
+                "bib0010": {
+                    "endOffset": 61712,
+                    "startOffset": 61701
+                },
+                "bib0205": {
+                    "endOffset": 61736,
+                    "startOffset": 61714
+                },
+                "bib0245": {
+                    "endOffset": 61785,
+                    "startOffset": 61758
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Because certain echinostome species can be dominant, particularly against human schistosomes, it has been suggested that other larval digeneans can be integrated into schistosome control programs (Bayer, 1954; Lim and Heyneman, 1972; Banes et al., 1974; Pointier and Jourdane, 2000).",
+            "startOffset": 61504,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 24738,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Echinostomes are globally distributed and have a multi-host life cycle that involves a vertebrate definitive host, a molluscan first intermediate host, and a second intermediate host that is typically a mollusc, amphibian, or fish.",
+            "startOffset": 24507,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45131,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0080": {
+                    "endOffset": 44967,
+                    "startOffset": 44954
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "The cercariae from B. sudanica in clade 9 (Ribeiroia sp. 2) resembled Fain\u2019s (1953) description of Cercaria lileta from Biomphalaria stanleyi, notable for its possession of a distinctive rose-colored organ placed just posterior to the oral sucker.",
+            "startOffset": 44884,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 42830,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0065",
+            "sentence": "The cercariae in clade 4 have a cluster of approximately 20 granules just posterior to the oral sucker and approximately forty calcareous corpuscles within each main excretory canal (Fig. 3D).",
+            "startOffset": 42638,
+            "title": "Clades 4\u20136 (Echinostomatidae sp. 1\u20133)"
+        },
+        {
+            "endOffset": 56017,
+            "parents": [],
+            "refoffsets": {
+                "bib0040": {
+                    "endOffset": 55994,
+                    "startOffset": 55973
+                },
+                "bib0055": {
+                    "endOffset": 56015,
+                    "startOffset": 55996
+                },
+                "bib0320": {
+                    "endOffset": 55971,
+                    "startOffset": 55946
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "The presence of Biomphalaria in South America probably dates to 55\u201365 million years ago (MYA), whereas its appearance in Africa is relatively recent, <1-5 MYA (Woodruff and Mulvey, 1997; Campbell et al., 2000; DeJong et al., 2001).",
+            "startOffset": 55786,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 40591,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Acquisition of nad1 sequences for P. vioscai from the American white ibis (Eudocimus albus), which is endemic to the Americas, would help clarify the relationship to our clade 2 specimens.",
+            "startOffset": 40403,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 48487,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0085",
+            "sentence": "Both specimens were collected from central Kenya.",
+            "startOffset": 48438,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 32472,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib0225": {
+                    "endOffset": 32346,
+                    "startOffset": 32324
+                }
+            },
+            "secId": "sec0025",
+            "sentence": "The nad1 gene was amplified using forward primer NDJ11 (Morgan and Blair, 1998) (5\u2032 -AGA TTCGTA AGG GGC CTA ATA-3\u2032) and the reverse primer NDJ2a (5\u2032-CTT CAG CCT CAG CAT AAT-3\u2032) (Kostadinova et al., 2003).",
+            "startOffset": 32268,
+            "title": "Molecular characterization"
+        },
+        {
+            "endOffset": 60698,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "The presence of echinostomes in these snails creates opportunities for competition between other trematode species.",
+            "startOffset": 60583,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 50318,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Analysis of 98 East African echinostome specimens, mostly of cercariae, using 28S and nad1 molecular markers revealed 17 clades from 5 genera of freshwater gastropods collected from 19 localities.",
+            "startOffset": 50122,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 62447,
+            "parents": [],
+            "secId": "sec0095",
+            "sentence": "Technical assistance at the University of New Mexico Molecular Biology Facility was supported by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number P30GM110907.",
+            "startOffset": 62231,
+            "title": "Financial support"
+        },
+        {
+            "endOffset": 44095,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0005": {
+                    "endOffset": 44093,
+                    "startOffset": 44072
+                }
+            },
+            "secId": "sec0070",
+            "sentence": "There were multiple species descriptions in the literature of Echinoparyphium from Bulinus from Africa; however, some of the descriptions matched more closely species in Patagifer than in Echinoparyphium (Appleton et al., 1983).",
+            "startOffset": 43867,
+            "title": "Clade 7 (Echinoparyphium)"
+        },
+        {
+            "endOffset": 26195,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Characteristics of the larval stages, especially of cercariae, have received less consideration.",
+            "startOffset": 26099,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 45966,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0155": {
+                    "endOffset": 45964,
+                    "startOffset": 45944
+                }
+            },
+            "secId": "sec0075",
+            "sentence": "In addition, we collected metacercariae (no other larval stages were present) from B. sudanica that grouped within clade 9 and that was unexpected because species of Ribeiroia are not known for using snails as second intermediate hosts (Johnson et al., 2004).",
+            "startOffset": 45707,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 46510,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "These cercariae had a small pharynx and over 120 large, densely packed calcareous corpuscles in each main excretory canal, with some of the corpuscles appearing to be composed of two partially fused corpuscles.",
+            "startOffset": 46300,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 46583,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "These cercariae also had a peculiar organ just posterior to the pharynx.",
+            "startOffset": 46511,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 24398,
+            "parents": [],
+            "refoffsets": {
+                "bib0295": {
+                    "endOffset": 24396,
+                    "startOffset": 24378
+                }
+            },
+            "secId": "sec0005",
+            "sentence": "The Echinostomatoidea is a diverse superfamily of trematodes that includes nine families and 105 genera (Tkach et al., 2016).",
+            "startOffset": 24273,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 60583,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "Further investigations should be done on their interactions within R. natalensis.",
+            "startOffset": 60502,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 56478,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "For example, members of clade 2 from Biomphalaria in Africa are known to use sacred ibises as definitive hosts.",
+            "startOffset": 56367,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51406,
+            "parents": [],
+            "refoffsets": {
+                "bib0070": {
+                    "endOffset": 51264,
+                    "startOffset": 51253
+                },
+                "bib0160": {
+                    "endOffset": 51324,
+                    "startOffset": 51306
+                },
+                "bib0210": {
+                    "endOffset": 51288,
+                    "startOffset": 51266
+                },
+                "bib0250": {
+                    "endOffset": 51304,
+                    "startOffset": 51290
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "There are few previous descriptions of echinostomes with 33 collar spines (Dietz, 1909; Lumsden and Hugg, 1965; Premvati, 1968; Kanev et al., 2009), some of which placed 33-spined echinostomes in either Echinostoma or Petasiger.",
+            "startOffset": 51178,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 51621,
+            "parents": [],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 51539,
+                    "startOffset": 51516
+                },
+                "bib0150": {
+                    "endOffset": 51478,
+                    "startOffset": 51455
+                },
+                "bib0295": {
+                    "endOffset": 51619,
+                    "startOffset": 51601
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "However, species of Echinostoma have 37 spines (Huffman and Fried, 1990) and Petasiger has 27 collar spines (Faltynkova et al., 2008), but our 33-spined samples did not group with either genus (Tkach et al., 2016).",
+            "startOffset": 51407,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 57961,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "For example, clade 2 was composed of cercariae samples from Ceratophallus, Bulinus, and Biomphalaria.",
+            "startOffset": 57860,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 61503,
+            "parents": [],
+            "refoffsets": {
+                "bib0205": {
+                    "endOffset": 61467,
+                    "startOffset": 61445
+                },
+                "bib0255": {
+                    "endOffset": 61501,
+                    "startOffset": 61489
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "Since 13 of the 17 clades of echinostomes use the same intermediate hosts (first) as human schistosomes, this creates problems for schistosomes to establish in snails because echinostomes (redia) have been shown to be strong competitors against human schistosomes (Lim and Heyneman, 1972; Banes et al., 1974; Rashed, 2002).",
+            "startOffset": 61180,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 35000,
+            "parents": [
+                {
+                    "id": "sec0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "sec0030",
+            "sentence": "Sequences generated in this study were submitted to GenBank (Table 2).",
+            "startOffset": 34930,
+            "title": "Sequence alignment and phylogenetic analyses"
+        },
+        {
+            "endOffset": 42053,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0235": {
+                    "endOffset": 41842,
+                    "startOffset": 41810
+                }
+            },
+            "secId": "sec0060",
+            "sentence": "Ostrowski de Nunez et al. (1997) described a similar cercaria (that included a spine pocket) transmitted by Biomphalaria orbignyi from Argentina with 50 collar spines and less than 16 diverticuli/side associated with each main excretory canal.",
+            "startOffset": 41810,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 46030,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0075",
+            "sentence": "Cercariae representing clades 8 and 10 developed in B. sudanica.",
+            "startOffset": 45966,
+            "title": "Clades 8\u201310 (Ribeiroia)"
+        },
+        {
+            "endOffset": 37454,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0045",
+            "sentence": "These analyses revealed 17 clades, the names for which are shown in Fig. 1.",
+            "startOffset": 37379,
+            "title": "28S Phylogenetic analyses"
+        },
+        {
+            "endOffset": 41422,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec0060",
+            "sentence": "Clade 3 cercariae have tail fins, 54 collar spines, a spine pocket posterior to the oral sucker containing a cluster of 25 spines (Fig. 3 A2), fewer diverticuli (less than 16/side) along each major excretory canal, and less than 60 calcareous corpuscles within each excretory canal.",
+            "startOffset": 41140,
+            "title": "Clades 2\u20133 (Patagifer)"
+        },
+        {
+            "endOffset": 29606,
+            "parents": [],
+            "secId": "sec0005",
+            "sentence": "Our goal here is to detail how many echinostome species use these snail hosts to provide context for future experiments to determine their ability to compete with and prey upon the sporocysts of schistosomes in their snail hosts.",
+            "startOffset": 29377,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50495,
+            "parents": [],
+            "refoffsets": {
+                "bib0305": {
+                    "endOffset": 50493,
+                    "startOffset": 50475
+                }
+            },
+            "secId": "sec0090",
+            "sentence": "The boundaries we used to delineate the 17 clades were intraspecific p-distance values less 1.5% (nad1 gene) and interspecific differences greater than 5% (Vilas et al., 2005).",
+            "startOffset": 50319,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 47391,
+            "parents": [
+                {
+                    "id": "sec0035",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib0085": {
+                    "endOffset": 47389,
+                    "startOffset": 47366
+                }
+            },
+            "secId": "sec0085",
+            "sentence": "Members of this genus are known for using snails as first intermediate hosts, fish or tadpoles as second intermediate hosts and birds (mainly cormorants) as definitive hosts (Faltynkova et al., 2008).",
+            "startOffset": 47191,
+            "title": "Clades 12\u201317 (Petasiger)"
+        },
+        {
+            "endOffset": 59547,
+            "parents": [],
+            "secId": "sec0090",
+            "sentence": "While we do not have complete life cycles for all of the species, we have accumulated life cycle data on the naturally cycling hosts, rather than lab hosts, and we also know that some species can actually use more than one species or family of snail intermediate host.",
+            "startOffset": 59279,
+            "title": "Discussion"
+        }
+    ],
+    "docId": "S0001706X18314360",
+    "metadata": {
+        "asjc": [
+            "1109",
+            "2405",
+            "2725",
+            "3401"
+        ],
+        "authors": [
+            {
+                "email": "mlaidemitt@unm.edu",
+                "first": "Martina R.",
+                "initial": "M.R.",
+                "last": "Laidemitt"
+            },
+            {
+                "email": "sbrant@unm.edu",
+                "first": "Sara V.",
+                "initial": "S.V.",
+                "last": "Brant"
+            },
+            {
+                "email": "mmutuku@kemri.org",
+                "first": "Martin W.",
+                "initial": "M.W.",
+                "last": "Mutuku"
+            },
+            {
+                "email": "gmkoji@kemri.org",
+                "first": "Gerald M.",
+                "initial": "G.M.",
+                "last": "Mkoji"
+            },
+            {
+                "email": "esloker@unm.edu",
+                "first": "Eric S.",
+                "initial": "E.S.",
+                "last": "Loker"
+            }
+        ],
+        "doi": "10.1016/j.actatropica.2019.01.025",
+        "firstpage": "38",
+        "issn": "0001706X",
+        "keywords": [
+            "Biodiversity",
+            "DNA barcode",
+            "Echinostomatidae",
+            "Echinostomiasis",
+            "Schistosoma"
+        ],
+        "lastpage": "49",
+        "openaccess": "Full",
+        "pub_year": 2019,
+        "subjareas": [
+            "AGRI",
+            "IMMU",
+            "MEDI",
+            "VETE"
+        ],
+        "title": "The diverse echinostomes from East Africa: With a focus on species that use Biomphalaria and Bulinus as intermediate hosts"
+    }
+}

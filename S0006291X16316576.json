@@ -1,0 +1,3033 @@
+{
+    "abstract": "When the technology for constructing human antibody (Ab) libraries using a phage-display system was developed, many researchers in Ab-related fields anticipated that it would be widely applied to the development of pharmaceutical drugs against various diseases, including cancers. However, successful examples of such applications are very limited. Moreover, researchers who utilize phage-display technology now show divergent ways of thinking about phage Ab libraries. For example, there is debate about what should be the source of VH and VL genes for the construction of libraries to cover the whole repertoire of Abs present in the human body. In the immune system, the introduction of mutations into V genes followed by selection based on binding activity, termed Ab maturation, is required for the production of Abs exhibiting high affinity to the antigen (Ag). Therefore, introduction of mutations and selection are required for isolation of Abs with high affinity after isolation of clones from phage Ab libraries. We constructed a large human Ab library termed AIMS, developed a screening method termed ICOS, and succeeded in isolating many human monoclonal Abs (mAbs) that specifically and strongly bind to various tumor-associated Ags. Eight anti-EGFR mAbs were included, which we characterized. These mAbs showed various different activities against EGFR-expressing cancer cells. In this paper, we describe these data and discuss the possibility and necessity that the mAbs isolated from the AIMS library might be developed as therapeutic drugs against cancers without introduction of mutations.",
+    "author_highlights": [
+        {
+            "endOffset": 11610,
+            "sentence": "In order to develop therapeutic Abs against various malignancies, Abs that show strong binding to the Ag and induce various activities in the target cells are required in the initial stage.",
+            "startOffset": 11421
+        },
+        {
+            "endOffset": 11772,
+            "sentence": "In the present study we presented data regarding the characteristics of eight kinds of anti-EGFR mAb that were isolated from the human Ab library we constructed.",
+            "startOffset": 11611
+        },
+        {
+            "endOffset": 11949,
+            "sentence": "We also discussed the possibility that such Abs might be developed as drugs against cancers, and the necessity for these mAbs to be developed without introduction of mutations.",
+            "startOffset": 11773
+        }
+    ],
+    "bib_entries": {
+        "bib1": {
+            "authors": [
+                {
+                    "first": "Paul",
+                    "initial": "P.",
+                    "last": "Carter"
+                },
+                {
+                    "first": "Len",
+                    "initial": "L.",
+                    "last": "Presta"
+                },
+                {
+                    "first": "Cornelia M.",
+                    "initial": "C.M.",
+                    "last": "Gorman"
+                },
+                {
+                    "first": "John B.B.",
+                    "initial": "J.B.B.",
+                    "last": "Ridgway"
+                },
+                {
+                    "first": "Dennis",
+                    "initial": "D.",
+                    "last": "Henner"
+                },
+                {
+                    "first": "Wai Lee T.",
+                    "initial": "W.L.T.",
+                    "last": "Wong"
+                },
+                {
+                    "first": "Ann M.",
+                    "initial": "A.M.",
+                    "last": "Rowland"
+                },
+                {
+                    "first": "Claire",
+                    "initial": "C.",
+                    "last": "Kotts"
+                },
+                {
+                    "first": "Monique E.",
+                    "initial": "M.E.",
+                    "last": "Carver"
+                },
+                {
+                    "first": "H. Michael",
+                    "initial": "H.M.",
+                    "last": "Shepard"
+                }
+            ],
+            "doi": "10.1073/pnas.89.10.4285",
+            "firstpage": "4285",
+            "issn": "00278424",
+            "lastpage": "4289",
+            "pmid": "1350088",
+            "pub_year": 1992,
+            "title": "Humanization of an anti-p185HER2 antibody for human cancer therapy",
+            "volume": "89"
+        },
+        "bib10": {
+            "authors": [
+                {
+                    "first": "Kazuhiko",
+                    "initial": "K.",
+                    "last": "Morino"
+                },
+                {
+                    "first": "Harue",
+                    "initial": "H.",
+                    "last": "Katsumi"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Akahori"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Midori",
+                    "initial": "M.",
+                    "last": "Shinohara"
+                },
+                {
+                    "first": "Yoshinori",
+                    "initial": "Y.",
+                    "last": "Ukai"
+                },
+                {
+                    "first": "Yuji",
+                    "initial": "Y.",
+                    "last": "Kohara"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1016/S0022-1759(01)00462-8",
+            "firstpage": "175",
+            "issn": "00221759",
+            "lastpage": "184",
+            "pmid": "11687251",
+            "pub_year": 2001,
+            "title": "Antibody fusions with fluorescent proteins: A versatile reagent for profiling protein expression",
+            "volume": "257"
+        },
+        "bib11": {
+            "authors": [
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Akahori"
+                },
+                {
+                    "first": "Gene",
+                    "initial": "G.",
+                    "last": "Kurosawa"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Sumitomo"
+                },
+                {
+                    "first": "Miwa",
+                    "initial": "M.",
+                    "last": "Morita"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Muramatsu"
+                },
+                {
+                    "first": "Keiko",
+                    "initial": "K.",
+                    "last": "Eguchi"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Mototaka",
+                    "initial": "M.",
+                    "last": "Sugiura"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Sugioka"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1016/j.bbrc.2008.11.129",
+            "firstpage": "832",
+            "issn": "0006291X",
+            "lastpage": "835",
+            "pmid": "19071089",
+            "pub_year": 2009,
+            "title": "Isolation of antigen/antibody complexes through organic solvent (ICOS) method",
+            "volume": "378"
+        },
+        "bib12": {
+            "authors": [
+                {
+                    "first": "Gene",
+                    "initial": "G.",
+                    "last": "Kurosawa"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Akahori"
+                },
+                {
+                    "first": "Miwa",
+                    "initial": "M.",
+                    "last": "Morita"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Sumitomo"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Muramatsu"
+                },
+                {
+                    "first": "Keiko",
+                    "initial": "K.",
+                    "last": "Eguchi"
+                },
+                {
+                    "first": "Kazuki",
+                    "initial": "K.",
+                    "last": "Matsuda"
+                },
+                {
+                    "first": "Akihiko",
+                    "initial": "A.",
+                    "last": "Takasaki"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Susumu",
+                    "initial": "S.",
+                    "last": "Hamada-Tsutsumi"
+                },
+                {
+                    "first": "Yoshinori",
+                    "initial": "Y.",
+                    "last": "Ukai"
+                },
+                {
+                    "first": "Mamoru",
+                    "initial": "M.",
+                    "last": "Shiraishi"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Maiko",
+                    "initial": "M.",
+                    "last": "Kurosawa"
+                },
+                {
+                    "first": "Sally",
+                    "initial": "S.",
+                    "last": "Fujiyama"
+                },
+                {
+                    "first": "Nobuhiro",
+                    "initial": "N.",
+                    "last": "Takahashi"
+                },
+                {
+                    "first": "Ryoichi",
+                    "initial": "R.",
+                    "last": "Kato"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Mizoguchi"
+                },
+                {
+                    "first": "Mikihiro",
+                    "initial": "M.",
+                    "last": "Shamoto"
+                },
+                {
+                    "first": "Hiroyuki",
+                    "initial": "H.",
+                    "last": "Tsuda"
+                },
+                {
+                    "first": "Mototaka",
+                    "initial": "M.",
+                    "last": "Sugiura"
+                },
+                {
+                    "first": "Yoshinobu",
+                    "initial": "Y.",
+                    "last": "Hattori"
+                },
+                {
+                    "first": "Shuichi",
+                    "initial": "S.",
+                    "last": "Miyakawa"
+                },
+                {
+                    "first": "Ryoichi",
+                    "initial": "R.",
+                    "last": "Shiroki"
+                },
+                {
+                    "first": "Kiyotaka",
+                    "initial": "K.",
+                    "last": "Hoshinaga"
+                },
+                {
+                    "first": "Nobuhiro",
+                    "initial": "N.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Sugioka"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1073/pnas.0712202105",
+            "firstpage": "7287",
+            "issn": "00278424",
+            "lastpage": "7292",
+            "pmid": "18474866",
+            "pub_year": 2008,
+            "title": "Comprehensive screening for antigens overexpressed on carcinomas via isolation of human mAbs that may be therapeutic",
+            "volume": "105"
+        },
+        "bib13": {
+            "authors": [
+                {
+                    "first": "Gene",
+                    "initial": "G.",
+                    "last": "Kurosawa"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Sumitomo"
+                },
+                {
+                    "first": "Yoshinori",
+                    "initial": "Y.",
+                    "last": "Ukai"
+                },
+                {
+                    "first": "Juvy",
+                    "initial": "J.",
+                    "last": "Subere"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Muramatsu"
+                },
+                {
+                    "first": "Keiko",
+                    "initial": "K.",
+                    "last": "Eguchi"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Tanaka-Hashiba"
+                },
+                {
+                    "first": "Mai",
+                    "initial": "M.",
+                    "last": "Sugiura"
+                },
+                {
+                    "first": "Misaki",
+                    "initial": "M.",
+                    "last": "Ando"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Miwa",
+                    "initial": "M.",
+                    "last": "Morita"
+                },
+                {
+                    "first": "Kazuki",
+                    "initial": "K.",
+                    "last": "Inaba"
+                },
+                {
+                    "first": "Satoko",
+                    "initial": "S.",
+                    "last": "Morigaki"
+                },
+                {
+                    "first": "Akihiko",
+                    "initial": "A.",
+                    "last": "Takasaki"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Akahori"
+                },
+                {
+                    "first": "Shuichi",
+                    "initial": "S.",
+                    "last": "Miyakawa"
+                },
+                {
+                    "first": "Ichiro",
+                    "initial": "I.",
+                    "last": "Uyama"
+                },
+                {
+                    "first": "Koutarou",
+                    "initial": "K.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Ryoichi",
+                    "initial": "R.",
+                    "last": "Shiroki"
+                },
+                {
+                    "first": "Kiyotaka",
+                    "initial": "K.",
+                    "last": "Hoshinaga"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Mizoguchi"
+                },
+                {
+                    "first": "Yoshinobu",
+                    "initial": "Y.",
+                    "last": "Hattori"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Sugioka"
+                },
+                {
+                    "first": "Mototaka",
+                    "initial": "M.",
+                    "last": "Sugiura"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1111/j.1349-7006.2010.01739.x",
+            "firstpage": "175",
+            "issn": "13479032",
+            "lastpage": "181",
+            "pmid": "21040215",
+            "pub_year": 2011,
+            "title": "Selection and analysis of anti-cancer antibodies for cancer therapy obtained from antibody phage library",
+            "volume": "102"
+        },
+        "bib14": {
+            "authors": [
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "firstpage": "20668",
+            "issn": "00219258",
+            "lastpage": "20675",
+            "pmid": "8376416",
+            "pub_year": 1993,
+            "title": "Development of an artificial antibody system with multiple valency using an Fv fragment fused to a fragment of protein A",
+            "volume": "268"
+        },
+        "bib15": {
+            "authors": [
+                {
+                    "first": "Dominic A.",
+                    "initial": "D.A.",
+                    "last": "Scudiero"
+                },
+                {
+                    "first": "Robert H.",
+                    "initial": "R.H.",
+                    "last": "Shoemaker"
+                },
+                {
+                    "first": "Kenneth D.",
+                    "initial": "K.D.",
+                    "last": "Paull"
+                },
+                {
+                    "first": "Anne",
+                    "initial": "A.",
+                    "last": "Monks"
+                },
+                {
+                    "first": "Siobhan",
+                    "initial": "S.",
+                    "last": "Tierney"
+                },
+                {
+                    "first": "Thomas H.",
+                    "initial": "T.H.",
+                    "last": "Nofziger"
+                },
+                {
+                    "first": "Michael J.",
+                    "initial": "M.J.",
+                    "last": "Currens"
+                },
+                {
+                    "first": "Donna",
+                    "initial": "D.",
+                    "last": "Seniff"
+                },
+                {
+                    "first": "Michael R.",
+                    "initial": "M.R.",
+                    "last": "Boyd"
+                }
+            ],
+            "firstpage": "4827",
+            "issn": "00085472",
+            "lastpage": "4833",
+            "pmid": "3409223",
+            "pub_year": 1988,
+            "title": "Evaluation of a Soluble Tetrazolium/Formazan Assay for Cell Growth and Drug Sensitivity in Culture Using Human and Other Tumor Cell Lines",
+            "volume": "48"
+        },
+        "bib16": {
+            "authors": [
+                {
+                    "first": "Gene",
+                    "initial": "G.",
+                    "last": "Kurosawa"
+                },
+                {
+                    "first": "Mariko",
+                    "initial": "M.",
+                    "last": "Sumitomo"
+                },
+                {
+                    "first": "Yasushi",
+                    "initial": "Y.",
+                    "last": "Akahori"
+                },
+                {
+                    "first": "Kazuki",
+                    "initial": "K.",
+                    "last": "Matsuda"
+                },
+                {
+                    "first": "Chiho",
+                    "initial": "C.",
+                    "last": "Muramatsu"
+                },
+                {
+                    "first": "Akihiko",
+                    "initial": "A.",
+                    "last": "Takasaki"
+                },
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Keiko",
+                    "initial": "K.",
+                    "last": "Eguchi"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Kazuhiro",
+                    "initial": "K.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "Miwa",
+                    "initial": "M.",
+                    "last": "Morita"
+                },
+                {
+                    "first": "Noriko",
+                    "initial": "N.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Mototaka",
+                    "initial": "M.",
+                    "last": "Sugiura"
+                },
+                {
+                    "first": "Atsushi",
+                    "initial": "A.",
+                    "last": "Sugioka"
+                },
+                {
+                    "first": "Nobuhiro",
+                    "initial": "N.",
+                    "last": "Hayashi"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1016/j.jim.2009.09.003",
+            "firstpage": "1",
+            "issn": "00221759",
+            "lastpage": "12",
+            "pmid": "19766650",
+            "pub_year": 2009,
+            "title": "Methods for comprehensive identification of membrane proteins recognized by a large number of monoclonal antibodies",
+            "volume": "351"
+        },
+        "bib17": {
+            "authors": [
+                {
+                    "first": "Angela",
+                    "initial": "A.",
+                    "last": "Graness"
+                },
+                {
+                    "first": "Sabine",
+                    "initial": "S.",
+                    "last": "Hanke"
+                },
+                {
+                    "first": "Frank D.",
+                    "initial": "F.D.",
+                    "last": "Boehmer"
+                },
+                {
+                    "first": "Peter",
+                    "initial": "P.",
+                    "last": "Presek"
+                },
+                {
+                    "first": "Claus",
+                    "initial": "C.",
+                    "last": "Liebmann"
+                }
+            ],
+            "doi": "10.1042/0264-6021:3470441",
+            "firstpage": "441",
+            "issn": "02646021",
+            "lastpage": "447",
+            "pmid": "10749673",
+            "pub_year": 2000,
+            "title": "Protein-tyrosine-phosphatase-mediated epidermal growth factor (EGF) receptor transinactivation and EGF receptor-independent stimulation of mitogen-activated protein kinase by bradykinin in A431 cells",
+            "volume": "347"
+        },
+        "bib18": null,
+        "bib19": {
+            "authors": [
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Wataru",
+                    "initial": "W.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1016/S0378-1119(97)00101-7",
+            "firstpage": "35",
+            "issn": "03781119",
+            "lastpage": "46",
+            "pmid": "9266670",
+            "pub_year": 1997,
+            "title": "Expression vectors for the introduction of highly diverged sequences into the six complementarity-determining regions of an antibody",
+            "volume": "194"
+        },
+        "bib2": {
+            "authors": [
+                {
+                    "first": "Janice M.",
+                    "initial": "J.M.",
+                    "last": "Reichert"
+                },
+                {
+                    "first": "Viia E.",
+                    "initial": "V.E.",
+                    "last": "Valge-Archer"
+                }
+            ],
+            "doi": "10.1038/nrd2241",
+            "firstpage": "349",
+            "issn": "14741776",
+            "lastpage": "356",
+            "pmid": "17431406",
+            "pub_year": 2007,
+            "title": "Development trends for monoclonal antibody cancer therapeutics",
+            "volume": "6"
+        },
+        "bib20": {
+            "authors": [
+                {
+                    "first": "Yoshitaka",
+                    "initial": "Y.",
+                    "last": "Iba"
+                },
+                {
+                    "first": "Yoshikazu",
+                    "initial": "Y.",
+                    "last": "Kurosawa"
+                }
+            ],
+            "doi": "10.1038/icb.1997.33",
+            "firstpage": "217",
+            "issn": "08189641",
+            "lastpage": "221",
+            "pmid": "9107580",
+            "pub_year": 1997,
+            "title": "Comparison of strategies for the construction of libraries of artificial antibodies",
+            "volume": "75"
+        },
+        "bib3": {
+            "authors": [
+                {
+                    "first": "Mark X.",
+                    "initial": "M.X.",
+                    "last": "Sliwkowski"
+                },
+                {
+                    "first": "Ira",
+                    "initial": "I.",
+                    "last": "Mellman"
+                }
+            ],
+            "doi": "10.1126/science.1241145",
+            "firstpage": "1192",
+            "issn": "00368075",
+            "lastpage": "1198",
+            "pub_year": 2013,
+            "title": "Antibody therapeutics in cancer",
+            "volume": "341"
+        },
+        "bib4": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "K\u00f6hler"
+                },
+                {
+                    "first": "C.",
+                    "initial": "C.",
+                    "last": "Milstein"
+                }
+            ],
+            "doi": "10.1038/256495a0",
+            "firstpage": "495",
+            "issn": "00280836",
+            "lastpage": "497",
+            "pmid": "1172191",
+            "pub_year": 1975,
+            "title": "Continuous cultures of fused cells secreting antibody of predefined specificity",
+            "volume": "256"
+        },
+        "bib5": {
+            "authors": [
+                {
+                    "first": "S. L.",
+                    "initial": "S.L.",
+                    "last": "Morrison"
+                },
+                {
+                    "first": "M. J.",
+                    "initial": "M.J.",
+                    "last": "Johnson"
+                },
+                {
+                    "first": "L. A.",
+                    "initial": "L.A.",
+                    "last": "Herzenberg"
+                },
+                {
+                    "first": "V. T.",
+                    "initial": "V.T.",
+                    "last": "Oi"
+                }
+            ],
+            "doi": "10.1073/pnas.81.21.6851",
+            "firstpage": "6851",
+            "issn": "00278424",
+            "lastpage": "6855",
+            "pmid": "6436822",
+            "pub_year": 1984,
+            "title": "Chimeric human antibody molecules: Mouse antigen-binding domains with human constant region domains",
+            "volume": "81"
+        },
+        "bib6": {
+            "authors": [
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Hale"
+                },
+                {
+                    "first": "M. R.",
+                    "initial": "M.R.",
+                    "last": "Clark"
+                },
+                {
+                    "first": "R.",
+                    "initial": "R.",
+                    "last": "Marcus"
+                },
+                {
+                    "first": "G.",
+                    "initial": "G.",
+                    "last": "Winter"
+                },
+                {
+                    "first": "M. J.S.",
+                    "initial": "M.J.S.",
+                    "last": "Dyer"
+                },
+                {
+                    "first": "J. M.",
+                    "initial": "J.M.",
+                    "last": "Phillips"
+                },
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Riechmann"
+                },
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Waldmann"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(88)90588-0",
+            "firstpage": "1394",
+            "issn": "01406736",
+            "lastpage": "1399",
+            "pmid": "2904526",
+            "pub_year": 1988,
+            "title": "REMISSION INDUCTION IN NON-HODGKIN LYMPHOMA WITH RESHAPED HUMAN MONOCLONAL ANTIBODY CAMPATH-1H",
+            "volume": "332"
+        },
+        "bib7": {
+            "authors": [
+                {
+                    "first": "Kazuma",
+                    "initial": "K.",
+                    "last": "Tomizuka"
+                },
+                {
+                    "first": "Tokuyuki",
+                    "initial": "T.",
+                    "last": "Shinohara"
+                },
+                {
+                    "first": "Hitoshi",
+                    "initial": "H.",
+                    "last": "Yoshida"
+                },
+                {
+                    "first": "Hiroshi",
+                    "initial": "H.",
+                    "last": "Uejima"
+                },
+                {
+                    "first": "Atsuko",
+                    "initial": "A.",
+                    "last": "Ohguma"
+                },
+                {
+                    "first": "Sonoko",
+                    "initial": "S.",
+                    "last": "Tanaka"
+                },
+                {
+                    "first": "Kaoru",
+                    "initial": "K.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Mitsuo",
+                    "initial": "M.",
+                    "last": "Oshimura"
+                },
+                {
+                    "first": "Isao",
+                    "initial": "I.",
+                    "last": "Ishida"
+                }
+            ],
+            "doi": "10.1073/pnas.97.2.722",
+            "firstpage": "722",
+            "issn": "00278424",
+            "lastpage": "727",
+            "pmid": "10639146",
+            "pub_year": 2000,
+            "title": "Double trans-chromosomic mice: Maintenance of two individual human chromosome fragments containing Ig heavy and \u03ba loci and expression of fully human antibodies",
+            "volume": "97"
+        },
+        "bib8": {
+            "authors": [
+                {
+                    "first": "Tara Beers",
+                    "initial": "T.B.",
+                    "last": "Gibson"
+                },
+                {
+                    "first": "Aarati",
+                    "initial": "A.",
+                    "last": "Ranganathan"
+                },
+                {
+                    "first": "Axel",
+                    "initial": "A.",
+                    "last": "Grothey"
+                }
+            ],
+            "doi": "10.3816/CCC.2006.n.01",
+            "firstpage": "29",
+            "issn": "15330028",
+            "lastpage": "31",
+            "pub_year": 2006,
+            "title": "Randomized phase III trial results of Panitumumab, a fully human anti-epidermal growth factor receptor monoclonal antibody, in metastatic colorectal cancer",
+            "volume": "6"
+        },
+        "bib9": {
+            "authors": [
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "McCafferty"
+                },
+                {
+                    "first": "Andrew D.",
+                    "initial": "A.D.",
+                    "last": "Griffiths"
+                },
+                {
+                    "first": "Greg",
+                    "initial": "G.",
+                    "last": "Winter"
+                },
+                {
+                    "first": "David J.",
+                    "initial": "D.J.",
+                    "last": "Chiswell"
+                }
+            ],
+            "doi": "10.1038/348552a0",
+            "firstpage": "552",
+            "issn": "00280836",
+            "lastpage": "554",
+            "pmid": "2247164",
+            "pub_year": 1990,
+            "title": "Phage antibodies: filamentous phage displaying antibody variable domains",
+            "volume": "348"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 20390,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "On the other hand, B cells from umbilical cord blood and bone marrow should be naive cells.",
+            "startOffset": 20299,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 28125,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "As shown in Supplementary Fig. 2, the expression of EGFR on the surface of of the tumor cells was clearly detected by the 048-006 Ab.",
+            "startOffset": 27992,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 23604,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Erbitux and Vectibix were also used for comparison.",
+            "startOffset": 23553,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 25079,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "As shown in Fig. 3(B), the mode of the inhibitory effects of these Abs on the growth of ACHN cells appeared to be different from that on the growth of A431 cells.",
+            "startOffset": 24917,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 22331,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The anti-tumor activity of mAbs 048-006 and 059\u2013152 was examined in cancer-bearing athymic mice.",
+            "startOffset": 22235,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 19254,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The EGFR was one of the 29 TAAs identified.",
+            "startOffset": 19211,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 12282,
+            "parents": [],
+            "refoffsets": {
+                "bib1": {
+                    "endOffset": 12281,
+                    "startOffset": 12276
+                },
+                "bib2": {
+                    "endOffset": 12281,
+                    "startOffset": 12276
+                },
+                "bib3": {
+                    "endOffset": 12281,
+                    "startOffset": 12276
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Since the development of a method to produce monoclonal antibodies (mAbs), numerous scientists have tried to identify appropriate target antigens (Ags) and isolate mAbs that could be used for immunotherapy against various malignancies [1\u20133].",
+            "startOffset": 12041,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23041,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The dissociation constant (Kd) of the Ag/Ab complex was 0.025 nM.",
+            "startOffset": 22976,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 23479,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "We analyzed the effects of the anti-EGFR mAbs on the in vitro growth of cancer cells, using six kinds of cell lines: A431, CCF-RC1, ACHN, PC-14, EBC-1 and HT-29, all of which express the EGFR at high levels.",
+            "startOffset": 23272,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 30564,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the human body Ab-producing cells are distributed in organs of the human body as follows.",
+            "startOffset": 30472,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30885,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The largest organ is the spleen.",
+            "startOffset": 30853,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 32120,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Although the contribution of the L chain to the formation of an Ag-binding site is equally important as that of the H chain, the contribution of the H chain to the generation of an extremely large repertoire is huge because of the effects of random nucleotide insertion by terminal transferase.",
+            "startOffset": 31826,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12489,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Usually a tumor-associated antigen (TAA) is the target.",
+            "startOffset": 12434,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30792,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "After maturation of the B lymphocytes, they are then distributed throughout the whole body, mainly through a lymphatic vessel, but also partly through the blood vessels.",
+            "startOffset": 30623,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18177,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 18176,
+                    "startOffset": 18172
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Development of a screening method, termed ICOS, allowed us to comprehensively isolate mAbs that bind to molecules on the cell surface [11].",
+            "startOffset": 18038,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 26689,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the present study we examined the antitumor activity in athymic mice of five mAbs: 048-006, 059\u2013152, 057\u2013091, 048-040, and 059\u2013173, and five kinds of cell lines: CCF-RC1, ACHN, PC-14, EBC-1 and HT-29.",
+            "startOffset": 26486,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 19728,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The 29 mAbs consisted of 8 different clones as follows: clone 048-006 was isolated 13 times; 048-040, 6 times; 059\u2013152, 4 times; 057-09 twice; and the other 4 clones were isolated only once.",
+            "startOffset": 19538,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 19537,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Twenty-nine anti-EGFR mAbs were included in the 20 screenings shown in Table 1, which were obtained from screening using 49 kinds of different cell lines of 11 kinds of cancer, and two clinical samples.",
+            "startOffset": 19335,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 12935,
+            "parents": [],
+            "refoffsets": {
+                "bib7": {
+                    "endOffset": 12934,
+                    "startOffset": 12931
+                }
+            },
+            "secId": "sec1",
+            "sentence": "One method uses transgenic mice that encode human immunoglobulin (Ig) genes [7].",
+            "startOffset": 12855,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22102,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This order was not observed in the case of the other cell lines, suggesting that the epitopes recognized by these five clones are heterogeneous.",
+            "startOffset": 21958,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 14756,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Eight anti-EGFR Abs were included among these Abs.",
+            "startOffset": 14706,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17120,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Frozen specimens were cut into 3\u20135 \u03bcm thick sections and stained with primary Ab using anti-human IgG at a concentration of 1 \u03bcg/ml for 60 min, followed by the secondary Ab, rabbit anti-human \u03b3 chain (2 \u03bcg/ml for 60 min) and then the final Ab, HRP Polymer-conjugated anti-Rabbit IgG (DAKO).",
+            "startOffset": 16830,
+            "title": "Immunohistochemical (IHC) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 32770,
+            "parents": [],
+            "secId": "sec5",
+            "sentence": "The authors declare that they have no competing financial interests.",
+            "startOffset": 32702,
+            "title": "Conflict of interest"
+        },
+        {
+            "endOffset": 31281,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Our screening method termed ICOS did not seem to be appropriate in the case where the target Ag is pre-determined.",
+            "startOffset": 31167,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 19211,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 19210,
+                    "startOffset": 19203
+                },
+                "bib13": {
+                    "endOffset": 19210,
+                    "startOffset": 19203
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "In this way, we succeeded in identifying 29 kinds of TAAs and in isolating 488 mAbs that bind to one of these TAAs in a relatively short period of time [12,13].",
+            "startOffset": 19051,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 27260,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On day 22 the mass of cells including the tumor-growing portion was excised and cut into slices, and one slice was immunohistochemically stained with an Ab that can detect human Abs.",
+            "startOffset": 27078,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 22234,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 22233,
+                    "startOffset": 22229
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "Before describing further characterization of these Abs, here, we briefly summarize the results reported in our previous paper [12].",
+            "startOffset": 22102,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 24701,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Judging from the MFI values shown in Fig. 1, the amount of the 059\u2013152 mAb that was bound to the surface of A431 appeared to be greater than that of mAb 048-006.",
+            "startOffset": 24540,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 23708,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "None of the Abs, including Erbitux and Vectibix, inhibited the growth of CCF-RC1, EBC-1 or HT-29 cells.",
+            "startOffset": 23605,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 30472,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Most of the artificially diversified V genes did not supply a useful Ag-binding site.",
+            "startOffset": 30387,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 22975,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In the present paper, the raw data regarding the binding of 048-006 with EGFR as measured using the BIA core instrument is shown in Supplementary Fig. 1.",
+            "startOffset": 22822,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 29891,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, in the beginning, at least several candidate mAbs should be prepared that show functional differences.",
+            "startOffset": 29778,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14282,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "We initially used a conventional panning method in the screening of the library.",
+            "startOffset": 14202,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15894,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "The number of living cells was counted using the Cell Proliferation Kit II (XTT) (Roche, Basel, Switzerland).",
+            "startOffset": 15785,
+            "title": "Inhibition of cancer cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 31565,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The results suggested that the molecules that were artificially expressed on the cell surface did not function as good Ags in the ICOS method by unknown reason.",
+            "startOffset": 31405,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 14559,
+            "parents": [],
+            "refoffsets": {
+                "bib11": {
+                    "endOffset": 14558,
+                    "startOffset": 14554
+                }
+            },
+            "secId": "sec1",
+            "sentence": "We subsequently developed a method termed ICOS for comprehensive isolation of mAbs bound to molecules on the cell surface [11].",
+            "startOffset": 14432,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16423,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "HT-29 cells (5 \u00d7 106 cells) were injected subcutaneously into the athymic mice.",
+            "startOffset": 16344,
+            "title": "Inhibition of cancer cell growth in athymic mice"
+        },
+        {
+            "endOffset": 25283,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Thus, in the case of A431, inhibitory effects were initially observed at Ab concentrations between 0.06 and 0.6 nM, and a very sharp curve of antibody concentration dependence of inhibition was observed.",
+            "startOffset": 25080,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 18612,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Subsequently, the Ags recognized by those clones were identified by mass spectrometry (MS).",
+            "startOffset": 18521,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 22422,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "These mAbs completely inhibited the growth of A431 cells similar to the effect of Erbitux.",
+            "startOffset": 22332,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 15340,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.1",
+            "sentence": "Single-chain Fv (ScFv) was converted to IgG1 and was used in experiments aimed at examination of the activities of growth inhibition of cancer cells in vitro and in vivo.",
+            "startOffset": 15170,
+            "title": "Cells and Abs"
+        },
+        {
+            "endOffset": 24442,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Since the Kd of the Ag/Ab complex of mAb 048-006 was 0.025 nM as described in the previous section, these results indicated that the binding of this mAb to the cell surface effectively inhibits cell growth.",
+            "startOffset": 24236,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 16605,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Tumor size was measured.",
+            "startOffset": 16581,
+            "title": "Inhibition of cancer cell growth in athymic mice"
+        },
+        {
+            "endOffset": 28719,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The form of the EGFR molecule detected by the 048-006 mAb and by ERBITUX may differ.",
+            "startOffset": 28635,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 26177,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "However, as long as inhibition was observed, the 048-006 and 059\u2013152 mAbs showed strong inhibitory effects on the growth of cancer cells at an extremely low concentration that was comparable to the inhibition of Erbitux and Vectibix.",
+            "startOffset": 25944,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 13627,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "(2) In the naive repertoire of human Abs, are there Abs that bind to proteins that are naturally present on the normal cell surface?",
+            "startOffset": 13495,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24539,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The inhibitory effect of mAb 059\u2013152 was several times weaker than that of the other three mAbs.",
+            "startOffset": 24443,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 20670,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "As shown in Fig. 2, four of these antibodies, 067\u2013176, 054\u2013101, 059\u2013152, and 048-040, were encoded by the same set of germline genes, VH4-39 and VL3-3 h, without mutation.",
+            "startOffset": 20499,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 15552,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The extracellular part of the EGFR was synthesized and chemically coupled to the support on a biosensor chip.",
+            "startOffset": 15443,
+            "title": "BIAcore analysis"
+        },
+        {
+            "endOffset": 18435,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "All of the isolated clones were classified by sequencing, and different clones were individually screened by immunostaining.",
+            "startOffset": 18311,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 20498,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The sequences of the VH and VL genes of the eight anti-EGFR Abs were compared with those of germline genes.",
+            "startOffset": 20391,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 31601,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Each Ab is formed by H and L chains.",
+            "startOffset": 31565,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13412,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Although more than twenty years have passed since this technology was developed, the researchers who are currently using phage-display technology have not reached a consensus about the following issues.",
+            "startOffset": 13210,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 32480,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In the immune system, introduction of mutations into V genes followed by selection on the basis of binding activity, which is called the Ab maturation step, is required for production of Abs with high affinity to the Ag.",
+            "startOffset": 32260,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28486,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, after the cells were cultivated and passaged twice, both the 048-006 mAb and ERBITUX detected molecules at the same level on the cell surface as shown in Supplementary Fig. 2.",
+            "startOffset": 28302,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 15442,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.2",
+            "sentence": "The dissociation constant of Ag/Ab complexes was measured using the BIAcore system.",
+            "startOffset": 15359,
+            "title": "BIAcore analysis"
+        },
+        {
+            "endOffset": 13079,
+            "parents": [],
+            "refoffsets": {
+                "bib8": {
+                    "endOffset": 13078,
+                    "startOffset": 13075
+                }
+            },
+            "secId": "sec1",
+            "sentence": "To date, panitumumab, an anti-EGFR Ab, is the only successful example of a human anti-TAA Ab approved as a therapeutic drug against cancer [8].",
+            "startOffset": 12936,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24060,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Since an IgG type of Ab was used in this experiment, an Ab concentration of 10\u22121 \u03bcg/ml corresponds to 0.6 nM.",
+            "startOffset": 23951,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 32260,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Therefore, when an Ab library is being constructed, the size of the H chain library and that of the L chain should be carefully considered.",
+            "startOffset": 32121,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18848,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib16": {
+                    "endOffset": 18847,
+                    "startOffset": 18843
+                }
+            },
+            "secId": "sec3.1",
+            "sentence": "Since we obtained several hundred clones whose target Ags were unknown, we developed a new strategy for determination of these Ags [16].",
+            "startOffset": 18712,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 27817,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In order to understand why 048-006 and Erbitux had different effects on HT-29 cells grown in athymic mice, the following experiment was performed.",
+            "startOffset": 27671,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 13209,
+            "parents": [],
+            "refoffsets": {
+                "bib9": {
+                    "endOffset": 13208,
+                    "startOffset": 13205
+                }
+            },
+            "secId": "sec1",
+            "sentence": "The second technology to produce fully human Abs is the construction of a human Ab library by using phage-display technology [9].",
+            "startOffset": 13080,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 31404,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The target Ag was artificially overexpressed on the cell surface and screening was performed according to the ICOS method.",
+            "startOffset": 31282,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 18520,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The clones that preferentially and strongly stained the malignant cells were chosen.",
+            "startOffset": 18436,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 15960,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib15": {
+                    "endOffset": 15959,
+                    "startOffset": 15955
+                }
+            },
+            "secId": "sec2.3",
+            "sentence": "The principle of this assay system was described previously [15].",
+            "startOffset": 15895,
+            "title": "Inhibition of cancer cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 29324,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "As shown in this paper, however, Abs against the same Ag show a huge variety in terms of epitope recognition, binding activity and function.",
+            "startOffset": 29184,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 16580,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Treatments consisted of twice weekly i.p. injections of Ab (0.25 mg in 0.5 ml PBS/body) for three weeks.",
+            "startOffset": 16476,
+            "title": "Inhibition of cancer cell growth in athymic mice"
+        },
+        {
+            "endOffset": 27991,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The tumor cells were then excised and analyzed using FCM.",
+            "startOffset": 27934,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 17961,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The total number of B lymphocytes collected was estimated to be around 1010.",
+            "startOffset": 17885,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 13864,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Do Abs in such a combinatorial Ab library reflect the original combination of H and L chains?",
+            "startOffset": 13771,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21291,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "These results indicated that the size of the naive repertoire that is generated by the simple joining of VH-D-JH, and of VL-JL, in a human body is enormous, and that the Ab repertoire formed in the AIMS library well covers the in vivo repertoire.",
+            "startOffset": 21045,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 28634,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These observations could be interpreted as follows.",
+            "startOffset": 28583,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 30852,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Most of the B lymphocytes stay in various lymphatic organs.",
+            "startOffset": 30793,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 21957,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "In the previous section, we pointed out that the order of the MFI value in the case of PC-114 and HT-29 cells was matched to the order of the isolated number of clones.",
+            "startOffset": 21789,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 26984,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "While none of the five anti-EGFR mAbs inhibited the growth of HT-29 cells in vitro, two of the mAbs, 048-006 and 057\u2013091, strongly inhibited the growth of these cells when injected into athymic mice as shown in Fig. 4.",
+            "startOffset": 26766,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 23854,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In the case of PC-14 cells, three mAbs, Erbitux, Vectibix and 048-006, exerted inhibitory effects, but the degree of inhibition was rather small.",
+            "startOffset": 23709,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 28801,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "HT-29 cells might express both forms of the EGFR under normal growing conditions.",
+            "startOffset": 28720,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 14105,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "It should be difficult to directly isolate Abs with high affinity to the target Ag from phage Ab libraries.",
+            "startOffset": 13998,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16158,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "After mAb was added, the cells were incubated for 5 days at 37 \u00b0C.",
+            "startOffset": 16092,
+            "title": "Inhibition of cancer cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 23552,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Five mAbs: 048-006, 059\u2013152, 057\u2013091, 048-040 and 059\u2013173 were examined.",
+            "startOffset": 23480,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 15741,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib14": {
+                    "endOffset": 15660,
+                    "startOffset": 15656
+                }
+            },
+            "secId": "sec2.2",
+            "sentence": "The single-chain Fv form of an anti-EGFR Ab linked to the PP form that had been described in our paper [14] was purified and applied to the system according to the manufacturer's protocol.",
+            "startOffset": 15553,
+            "title": "BIAcore analysis"
+        },
+        {
+            "endOffset": 26485,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "The strength of inhibition was similar to that of Erbitux.",
+            "startOffset": 26427,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 17556,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "After two passages the cultured cells were used for FCM.",
+            "startOffset": 17500,
+            "title": "Flow cytometric (FCM) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 19833,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Fig. 1 shows FCM analysis of five different cell lines with five different anti-EGFR clones and Erbitux.",
+            "startOffset": 19729,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 13770,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "(3) When a phage Ab library is constructed, the H chain library and the L chain library are separately constructed and then randomly combined.",
+            "startOffset": 13628,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21521,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib17": {
+                    "endOffset": 21520,
+                    "startOffset": 21516
+                }
+            },
+            "secId": "sec3.2",
+            "sentence": "It is well known that A431 cells express the EGFR at an extremely high level [17].",
+            "startOffset": 21439,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 20856,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The sequence of the H chain of 048-006 and that of 059\u2013173 was the same as that of the germline sequence.",
+            "startOffset": 20751,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 21788,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Differences in MFI values among the clones reflected not only differences in Ab binding activity but also differences in the epitope recognized by each Ab.",
+            "startOffset": 21633,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 31738,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When a phage Ab library is constructed, an H chain library and an L chain library are separately constructed and then randomly combined.",
+            "startOffset": 31602,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31166,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Using more than 1010 B lymphocytes derived from various organs from more than thirty people, a large Ab library composed of 1011 independent clones was constructed in 1998.",
+            "startOffset": 30994,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 31825,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "The important point regarding the formation of a large Ab repertoire is the following.",
+            "startOffset": 31739,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 17470,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "Half of each mouse tumor was processed into single cell suspensions, which were then stained for FCM.",
+            "startOffset": 17369,
+            "title": "Flow cytometric (FCM) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 25633,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "On the other hand, the curve showing the concentration dependence of inhibition was much more gentle than that for A431 cells.",
+            "startOffset": 25507,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 26765,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Here, we show one example where clear but unexpected results were obtained.",
+            "startOffset": 26690,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 24916,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Thus, these Abs may inhibit cell growth via highly divergent mechanisms.",
+            "startOffset": 24844,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 19050,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Once an Ag was identified by MS, a polypeptide corresponding to the extracellular portion of the membrane protein was prepared and used to identify if any of the other isolated clones bound to this Ag.",
+            "startOffset": 18849,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 29777,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, the effects modulated by anti-EGR mAbs should also be very heterogeneous.",
+            "startOffset": 29691,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 13494,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "(1) What is the best source of VH and VL genes for the construction of libraries.",
+            "startOffset": 13413,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16225,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "After 5 days of incubation the number of living cells was counted.",
+            "startOffset": 16159,
+            "title": "Inhibition of cancer cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 17269,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "HT-29 cells were injected subcutaneously into athymic nude mice (n = 4).",
+            "startOffset": 17197,
+            "title": "Flow cytometric (FCM) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 16732,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Tumor tissues were resected from treated mice.",
+            "startOffset": 16686,
+            "title": "Immunohistochemical (IHC) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 14431,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "However, the quality of the majority of the clones isolated by this panning method was very poor in terms of specificity, affinity and even variety.",
+            "startOffset": 14283,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17884,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "For construction of the human Ab library termed AIMS, we used the following organs as the source of human Ig genes: tonsils and umbilical cord blood, each from approximately ten people, peripheral blood from several people, and bone marrow cells from one person.",
+            "startOffset": 17622,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 22729,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Thus, mechanisms of antitumor activity mediated by 048-006 and 059\u2013152 are likely to be different from each other.",
+            "startOffset": 22615,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 14201,
+            "parents": [],
+            "refoffsets": {
+                "bib10": {
+                    "endOffset": 14200,
+                    "startOffset": 14196
+                }
+            },
+            "secId": "sec1",
+            "sentence": "In 1998, we constructed a human Ab library, termed AIMS, by using the phage-display system [10].",
+            "startOffset": 14105,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21632,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Judging from the MFI values obtained, the other four cell lines tested also expressed the EGFR at high levels.",
+            "startOffset": 21522,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 23950,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The results of experiments using A431 and ACHN cells are shown in Fig. 3(A), (B), respectively.",
+            "startOffset": 23855,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 27508,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On the other hand, the mass of cells from the mouse to which Erbitux was applied was not stained, indicating the absence of human Abs.",
+            "startOffset": 27374,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 30386,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, the quality of the library turned out to be very poor and the isolated mAbs were useless.",
+            "startOffset": 30288,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12600,
+            "parents": [],
+            "refoffsets": {
+                "bib4": {
+                    "endOffset": 12599,
+                    "startOffset": 12596
+                }
+            },
+            "secId": "sec1",
+            "sentence": "Once the target is chosen, mouse mAbs that bind to this target are isolated by using hybridoma technology [4].",
+            "startOffset": 12490,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17499,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "The other half was cultured.",
+            "startOffset": 17471,
+            "title": "Flow cytometric (FCM) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 18310,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "According to our original strategy we randomly isolated a large number of mAbs by using 49 kinds of tumor-derived cell lines as Ags.",
+            "startOffset": 18178,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 29183,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "When therapeutic mAbs are being developed against cancer, the target molecule must be determined at the first step.",
+            "startOffset": 29068,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 29553,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "While our data suggested that Erbitux and the 048-006 mAb are very similar in terms of the above three points, it turned out that these two mAbs had different effects on cell growth in athymic mice, as typically shown in Fig. 4.",
+            "startOffset": 29325,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 15029,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "In this article, we show data regarding the characterization of these clones, we describe the variety of clones obtained and we discuss the possibility that the Abs isolated from the AIMS library could be candidates for therapeutic drugs without introduction of mutations.",
+            "startOffset": 14757,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 29057,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "These different forms of the EGFR would explain why ERBITUX did not inhibit HT-29 cell growth in athymic mice, but the 048-006 mAb did.",
+            "startOffset": 28922,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 25785,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Thus, even if the cells express EGFR on the cell surface at an extremely high level, anti-EGFR mAbs do not necessarily inhibit the growth of the cells.",
+            "startOffset": 25634,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 21438,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "As described above, Fig. 1 shows FCM analysis of five cell lines with six anti-EGFR mAbs including Erbitux.",
+            "startOffset": 21331,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 19334,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Table 1 provides details of screenings in which anti-EGFR clones were isolated.",
+            "startOffset": 19255,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 21044,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In our project, many kinds of Abs were isolated against respective Ags of more than twenty TAAs, and the sequences of these Abs were also the same as the germline sequences in most cases.",
+            "startOffset": 20857,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 22536,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "While 048-006 completely inhibited the binding of EGF to the EGFR, 059\u2013152 only partially inhibited this binding.",
+            "startOffset": 22423,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 28301,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On the other hand, ERBITUX did not detect any signal on the cell surface.",
+            "startOffset": 28228,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 16091,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.3",
+            "sentence": "Cells were suspended at a concentration of 1.0 \u00d7 104 cells/ml, and 100 \u03bcl portions were inoculated in each well of 96-well plates.",
+            "startOffset": 15961,
+            "title": "Inhibition of cancer cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 23221,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "This value reaches the best level of binding reported for anti-EGFR Abs, even among mAbs that were isolated by the common hybridoma technology after immunization of mice with Ags.",
+            "startOffset": 23042,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 28583,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "Binding of the 048-006 monoclonal antibody with the EGFR, measured using the BIAcore instrument.",
+            "startOffset": 28487,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 30014,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "In order to construct a human Ab library by using phage-display technology, a large number of VH and VL genes are required.",
+            "startOffset": 29891,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30287,
+            "parents": [],
+            "refoffsets": {
+                "bib18": {
+                    "endOffset": 30286,
+                    "startOffset": 30279
+                },
+                "bib19": {
+                    "endOffset": 30286,
+                    "startOffset": 30279
+                },
+                "bib20": {
+                    "endOffset": 30286,
+                    "startOffset": 30279
+                }
+            },
+            "secId": "sec4",
+            "sentence": "Since a large sequence diversity can be generated into hypervariable regions of VH and VL domains by utilizing mixed codons and PCR, we previously designed an artificial V gene set that mimics the human V gene repertoire and made an Ab library using this gene set [18\u201320].",
+            "startOffset": 30015,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 30622,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Development of B lymphocytes proceeds in the bone marrow.",
+            "startOffset": 30565,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 28227,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "6(A), the expression of EGFR on the surface of the tumor cells was clearly detected by the 048-006 Ab.",
+            "startOffset": 28125,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 14705,
+            "parents": [],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 14704,
+                    "startOffset": 14697
+                },
+                "bib13": {
+                    "endOffset": 14704,
+                    "startOffset": 14697
+                }
+            },
+            "secId": "sec1",
+            "sentence": "By using this method, we succeeded in identifying 29 TAAs, and we isolated 488 human mAbs that specifically bind to one of these 29 TAAs [12,13].",
+            "startOffset": 14560,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22614,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "The inhibitory ability of 048-006 appeared to be the same as that of Erbitux.",
+            "startOffset": 22537,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 16829,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.5",
+            "sentence": "Tumor tissue was fixed with 4% paraformaldehyde in PBS for 5 min, and was then frozen at \u221280 \u00b0C.",
+            "startOffset": 16733,
+            "title": "Immunohistochemical (IHC) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 13997,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "(4) In the immune system, introduction of mutations into V genes is required for the production of Abs with high affinity to the Ag.",
+            "startOffset": 13865,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18711,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In general, determination of the target Ag of each Ab by using MS is laborious and time consuming.",
+            "startOffset": 18613,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 12433,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "According to the standard procedure for the development of a therapeutic Ab against cancers, the target molecule should be selected at the first step.",
+            "startOffset": 12283,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15169,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 15168,
+                    "startOffset": 15161
+                },
+                "bib13": {
+                    "endOffset": 15168,
+                    "startOffset": 15161
+                }
+            },
+            "secId": "sec2.1",
+            "sentence": "The cancer-derived cell lines and mAbs used in this study are described in our previous papers [12,13].",
+            "startOffset": 15066,
+            "title": "Cells and Abs"
+        },
+        {
+            "endOffset": 26426,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "refoffsets": {
+                "bib12": {
+                    "endOffset": 26298,
+                    "startOffset": 26294
+                }
+            },
+            "secId": "sec3.4",
+            "sentence": "As mentioned above, in a previous paper [12] we reported that mAbs 048-006 and 059\u2013152 showed a strong antitumor activity against A431 cells in cancer-bearing athymic mice.",
+            "startOffset": 26254,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 32682,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "However, the data presented in this study indicated that, if the repertoire size of the Ab library is huge, it can be expected that Abs with strong affinity to the target Ag are present in the library.",
+            "startOffset": 32481,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 12854,
+            "parents": [],
+            "secId": "sec1",
+            "sentence": "Two methods have been developed for producing fully human mAbs.",
+            "startOffset": 12791,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17368,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.6",
+            "sentence": "When the tumor volume reached over 200 mm3, the tumor lump was surgically removed from each mouse.",
+            "startOffset": 17270,
+            "title": "Flow cytometric (FCM) analysis after resection of tumors from athymic mice"
+        },
+        {
+            "endOffset": 24235,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The 048-006, Erbitux and Vectibix mAbs strongly inhibited the growth of A431 cells, with the minimum Ab concentration showing growth inhibition being between 0.06 and 0.6 nM.",
+            "startOffset": 24061,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 25506,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "In the case of ACHN cells, on the one hand, 40% inhibition of cell growth was observed even at Ab concentrations that were several tens of times lower than the concentrations at which inhibition was observed in A431 cells.",
+            "startOffset": 25284,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 18037,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "The total number of independent clones in the constructed library was 1011.",
+            "startOffset": 17962,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 20750,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Among these Abs, differences were found only in the CDR3 region of the H chain.",
+            "startOffset": 20671,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 25943,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "Thus, the mechanism of EGFR involvement in cell growth is heterogeneous, and the mechanism by which anti-EGFR mAbs inhibit cell growth is also heterogeneous.",
+            "startOffset": 25786,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 24843,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.3",
+            "sentence": "The inhibitory effect of 057\u2013091 was weaker again than that of mAb 059\u2013152, although the MFI value of 057\u2013091 was similar to that of 059\u2013152.",
+            "startOffset": 24702,
+            "title": "Effects of anti-EGFR Abs on cell growth in\u00a0vitro"
+        },
+        {
+            "endOffset": 12791,
+            "parents": [],
+            "refoffsets": {
+                "bib5": {
+                    "endOffset": 12768,
+                    "startOffset": 12765
+                },
+                "bib6": {
+                    "endOffset": 12790,
+                    "startOffset": 12787
+                }
+            },
+            "secId": "sec1",
+            "sentence": "After examination of the anti-tumor activity of individual clones, the most promising clone is selected and the Ab is converted to either a mouse/human chimeric Ab [5] or a humanized Ab [6].",
+            "startOffset": 12601,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16343,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "BALB/c athymic mice at 5 weeks of age were used in this experiment.",
+            "startOffset": 16276,
+            "title": "Inhibition of cancer cell growth in athymic mice"
+        },
+        {
+            "endOffset": 27373,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In the cases of 048-006 and 057\u2013091, the tumor cells were clearly stained, indicating the presence of human Abs.",
+            "startOffset": 27261,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 30993,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Furthermore, many lymph nodes are distributed throughout the whole body; the tonsil is one such lymph node.",
+            "startOffset": 30886,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 20142,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "In the cases of the PC-14 and HT-29 cell lines, the order of mean fluorescence intensity (MFI) for the five clones was perfectly matched to the order of the isolation number for each clone, suggesting that clones with stronger binding activity to the target Ag are more easily isolated in our cloning method.",
+            "startOffset": 19834,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 20298,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.1",
+            "sentence": "Based on the Ig gene source of the AIMS library, we might expect that B cells from tonsils and peripheral blood cells would mainly consist of matured cells.",
+            "startOffset": 20142,
+            "title": "Isolation of eight kinds of human mAbs against the EGFR"
+        },
+        {
+            "endOffset": 22821,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.2",
+            "sentence": "Additionally, 048-006 showed the strongest EGFR binding activity among the clones isolated.",
+            "startOffset": 22730,
+            "title": "Characterization of the anti-EGFR Abs"
+        },
+        {
+            "endOffset": 27077,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "On the other hand, the other four mAbs including Erbitux did not have any inhibitory effect.",
+            "startOffset": 26985,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 28921,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "However, in the athymic mice the EGFR might be present predominantly in the form that is detectable by the 048-006 mAb.",
+            "startOffset": 28802,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 29690,
+            "parents": [],
+            "secId": "sec4",
+            "sentence": "Thus, even if only one molecule such as the EGFR is overexpressed, this overexpressed EGFR exerts a large variety of cellular functions.",
+            "startOffset": 29554,
+            "title": "Discussion"
+        },
+        {
+            "endOffset": 27670,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "In this experimental system, the presence of human Abs in the tumor-growing portion indicates the localization of anti-EGFR mAbs injected into the athymic mouse.",
+            "startOffset": 27509,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        },
+        {
+            "endOffset": 16475,
+            "parents": [
+                {
+                    "id": "sec2",
+                    "title": "Material and methods"
+                }
+            ],
+            "secId": "sec2.4",
+            "sentence": "Ab therapy was begun the day after tumor injection.",
+            "startOffset": 16424,
+            "title": "Inhibition of cancer cell growth in athymic mice"
+        },
+        {
+            "endOffset": 27933,
+            "parents": [
+                {
+                    "id": "sec3",
+                    "title": "Results"
+                }
+            ],
+            "secId": "sec3.4",
+            "sentence": "HT-29 cells were grown in athymic mice without the addition of any mAb until the tumor volume reached over 200 mm3.",
+            "startOffset": 27818,
+            "title": "Effects of anti-EGFR Abs on the growth of tumor cells in athymic nude mice"
+        }
+    ],
+    "docId": "S0006291X16316576",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Gene",
+                "initial": "G.",
+                "last": "Kurosawa"
+            },
+            {
+                "email": null,
+                "first": "Mariko",
+                "initial": "M.",
+                "last": "Kondo"
+            },
+            {
+                "email": "kurosawa@fujita-hu.ac.jp",
+                "first": "Yoshikazu",
+                "initial": "Y.",
+                "last": "Kurosawa"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2016.10.002",
+        "firstpage": "94",
+        "issn": "0006291X",
+        "keywords": [
+            "Ab repertoire",
+            "Anti-EGFR Ab",
+            "Mutation",
+            "Phage-display Ab library",
+            "Therapeutic Ab"
+        ],
+        "lastpage": "100",
+        "openaccess": "Full",
+        "pub_year": 2016,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "A variety of human monoclonal antibodies against epidermal growth factor receptor isolated from a phage antibody library"
+    }
+}

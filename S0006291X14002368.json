@@ -1,0 +1,1563 @@
+{
+    "abstract": "Here we report a new method for oxosteroid identification utilizing \"tandem mass tag hydrazine\" (TMTH) carbonyl-reactive derivatisation reagent. TMTH is a reagent with a chargeable tertiary amino group attached through a linker to a carbonyl-reactive hydrazine group. Thirty oxosteroids were analysed after derivatisation with TMTH by electrospray ionization mass spectrometry (ESI-MS) and were found to give high ion-currents compared to underivatised molecules. ESI-tandem mass spectrometry (MS/MS) analysis of the derivatives yielded characteristic fragmentation patterns with specific mass reporter ions derived from the TMT group. A shotgun ESI-MS method incorporating TMTH derivatisation was applied to a urine sample. \u00a9 2014 The Authors. Published by Elsevier Inc.",
+    "author_highlights": [
+        {
+            "endOffset": 8926,
+            "sentence": "New derivatisation method for oxosteroids.",
+            "startOffset": 8884
+        },
+        {
+            "endOffset": 8967,
+            "sentence": "Enhanced signal in ESI-MS and ESI-MS/MS.",
+            "startOffset": 8927
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Chawta"
+                },
+                {
+                    "first": "J. J.",
+                    "initial": "J.J.",
+                    "last": "Repa"
+                },
+                {
+                    "first": "R. M.",
+                    "initial": "R.M.",
+                    "last": "Evans"
+                },
+                {
+                    "first": "D. J.",
+                    "initial": "D.J.",
+                    "last": "Mangelsdorf"
+                }
+            ],
+            "doi": "10.1126/science.294.5548.1866",
+            "firstpage": "1866",
+            "issn": "00368075",
+            "lastpage": "1870",
+            "pmid": "11729302",
+            "pub_year": 2001,
+            "title": "Nuclear receptors and lipid physiology: Opening the x-files",
+            "volume": "294"
+        },
+        "b0010": null,
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Andrew",
+                    "initial": "A.",
+                    "last": "Thompson"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "Sch\u00e4fer"
+                },
+                {
+                    "first": "Karsten",
+                    "initial": "K.",
+                    "last": "Kuhn"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Kienle"
+                },
+                {
+                    "first": "Josef",
+                    "initial": "J.",
+                    "last": "Schwarz"
+                },
+                {
+                    "first": "G\u00fcnter",
+                    "initial": "G.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Thomas",
+                    "initial": "T.",
+                    "last": "Neumann"
+                },
+                {
+                    "first": "Christian",
+                    "initial": "C.",
+                    "last": "Hamon"
+                }
+            ],
+            "doi": "10.1021/ac0262560",
+            "firstpage": "1895",
+            "issn": "00032700",
+            "lastpage": "1904",
+            "pmid": "12713048",
+            "pub_year": 2003,
+            "title": "Tandem mass tags: A novel quantification strategy for comparative analysis of complex protein mixtures by MS/MS",
+            "volume": "75"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Suya",
+                    "initial": "S.",
+                    "last": "Liu"
+                },
+                {
+                    "first": "Jan",
+                    "initial": "J.",
+                    "last": "Sj\u00f6vall"
+                },
+                {
+                    "first": "William J.",
+                    "initial": "W.J.",
+                    "last": "Griffiths"
+                }
+            ],
+            "doi": "10.1021/ac0346297",
+            "firstpage": "5835",
+            "issn": "00032700",
+            "lastpage": "5846",
+            "pub_year": 2003,
+            "title": "Neurosteroids in Rat Brain: Extraction, Isolation, and Analysis by Nanoscale Liquid Chromatography-Electrospray Mass Spectrometry",
+            "volume": "75"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 25655,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "By fragmenting the [M+H-176]+ ions generated in the ESI source in a pseudo MS/MS/MS experiment and comparing the resulting spectra to those of the unconjugated standards it was possible to identify the steroids present to be glucuronides of androsterone and/or etiocholanolone, hydroxylated androsterone and or hydroxylated etiocholanolone, tetrahydrodeoxycortisol and/or tetrahydrocorticosterone, tetrahydrocortisone and tetrahydrocortisol and/or cortolone.",
+            "startOffset": 25197,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 24897,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "In this preliminary study we used the shotgun ESI-MS and ESI-MS/MS method for evaluating abundances of steroid metabolites in human urine.",
+            "startOffset": 24759,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 11913,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The TMTH reagent (Fig. 1) consists of a carbonyl-reactive hydrazine group connected through a linker to a readily protonated tertiary amino group.",
+            "startOffset": 11767,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19820,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The dominant fragments ions present in the MS/MS spectra of derivatised steroids consist of the steroid skeleton with remnants of TMTH attached, and in the low m/z range fragment-ions of the TMTH derivatising group (Fig. 1).",
+            "startOffset": 19596,
+            "title": "ESI-MS/MS analysis"
+        },
+        {
+            "endOffset": 23379,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "THF has one extra hydroxyl group compared to THS and THB.",
+            "startOffset": 23322,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 16789,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Before the drying was complete, 50 \u03bcL of underivatised steroid extract was subtracted for direct ESI-MS analysis of the underivatised steroids by negative ion-ESI.",
+            "startOffset": 16626,
+            "title": "Preparation and analysis of urine"
+        },
+        {
+            "endOffset": 14846,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The mixture was vortex mixed and warmed at 70 \u00b0C for 30 min on block heater.",
+            "startOffset": 14770,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 17282,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In our initial protocol 5 mg of TMTH (0.02 mmole) was used to quantitatively derivatise the steroid standards (i.e. 0.1\u20131 \u03bcg, 0.35\u20133.5 nmole for testosterone) and there was no evidence for any unreacted steroids in the resultant ESI-MS spectra recorded.",
+            "startOffset": 17029,
+            "title": "Amount of TMTH reagent required for effective derivatisation"
+        },
+        {
+            "endOffset": 17714,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In an initial experiment with testosterone and nandrolone at 10 \u03bcg of each steroid, 20 \u03bcg in total (70 nmole), and the TMTH concentration reduced to 0.1 mg (0.4 \u03bcmole TMTH, TMTH/steroid mole ratio 5.7:1), the yield of derivatised steroids was found to be the same as when 5 mg TMTH was used.",
+            "startOffset": 17423,
+            "title": "Amount of TMTH reagent required for effective derivatisation"
+        },
+        {
+            "endOffset": 12025,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "TMTH has an exact mass 256.19 Da and introduces a mass shift to the derivatised molecule of 238.18 Da (Fig. 1).",
+            "startOffset": 11914,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23455,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The MS/MS spectrum of THF shows loss of one, two and three water molecules.",
+            "startOffset": 23380,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 24149,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Analogous fragment ions are observed in the spectrum of THS at m/z 273 and 255 where there is one less double bond in the ring system.",
+            "startOffset": 24015,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 21965,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "C21 progestagens showed consistent fragmentation patterns with abundant neutral losses similar to those observed in the androgens (\u2212153, \u2212170, \u2212224, \u2212241 Da) with additional, but less abundant, neutral losses of 113, 188, and 300 Da.",
+            "startOffset": 21732,
+            "title": "MS/MS of progestagens derivatised with TMTH (Table S3)"
+        },
+        {
+            "endOffset": 14239,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Acetic acid 100% AnalaR Normapur was from VWR International S.A.S, (Baire, France).",
+            "startOffset": 14156,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 19049,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The limit of detection of TMTH derivatised steroids was determined at a signal to noise ratio of 3:1 to be in the range of 2.5\u20135 pg/\u03bcL.",
+            "startOffset": 18914,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 19298,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Improvement in sensitivity, compared to underivatised steroid standards, upon ESI analysis in the positive mode ranged from 14-fold for androstenedione to 1457-fold for dehydroepiandrosterone and up to 2755-fold for dehydroepiandrosterone sulphate.",
+            "startOffset": 19050,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 12958,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Androstenedione (AD) was from Fluka (Germany).",
+            "startOffset": 12912,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 17422,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "We thus investigated if the TMTH/steroid ratio of >5000:1 (mole ratio) could be reduced while still maintaining high derivatisation yields.",
+            "startOffset": 17283,
+            "title": "Amount of TMTH reagent required for effective derivatisation"
+        },
+        {
+            "endOffset": 15232,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The sorbent was washed with 6 mL 100% methanol followed by an equilibration rinse with 6 mL of 10% methanol.",
+            "startOffset": 15124,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 13442,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Sodium DHEA-3-sulphate (DHEA-S) was from TCI (Tokyo, Japan).",
+            "startOffset": 13382,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 13867,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "For steroid structures see Supplementary Fig. S1.",
+            "startOffset": 13818,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 18256,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Mono TMTH derivatives of oxosteroids give an [M+H]+ ion upon ESI (Fig. 2).",
+            "startOffset": 18182,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 10572,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This steroid is subsequently metabolised further by a number of enzymes to the classical steroid hormones.",
+            "startOffset": 10466,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14769,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "10 \u03bcL of steroid working solution (about 3.5 or 0.35 nmole) was added, followed by 20 \u03bcL of water (HPLC grade) and 10 \u03bcL of glacial acetic acid.",
+            "startOffset": 14625,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 18372,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "When steroids with multiple oxo groups were analysed, single and/or double TMTH derivatives were observed (Fig. 2).",
+            "startOffset": 18257,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 24704,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "Considering the mono-derivatives, the MS/MS spectra are more compatible with the derivative being at the C-3 position (cf. testosterone) than at the C-20 position (e.g. THDOC) in that the dominant fragment ions are due to the neutral losses of 153, 170, 224 and 241 Da derived from the loss of portions of TMTH as neutral fragments opposed to being fragment-ions of TMTH itself (Table S5).",
+            "startOffset": 24315,
+            "title": "Cortisol (F) and cortisone (E, Table S5)"
+        },
+        {
+            "endOffset": 14333,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The derivatisation reagent TMTH (Fig. 1) was supplied by Proteome Sciences plc. (Surrey, UK).",
+            "startOffset": 14240,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 15612,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Mono-derivatives were present predominantly in the first and second fractions.",
+            "startOffset": 15534,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 12522,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The method has been applied to profile steroid metabolites in urine.",
+            "startOffset": 12454,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 11202,
+            "parents": [],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 11201,
+                    "startOffset": 11198
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The analysis of steroid molecules by mass spectrometry (MS) presents a number of challenges: they are mostly involatile, thermally labile molecules and require derivatisation prior to gas-chromatography (GC)-MS analysis; many are hydrophobic and poorly soluble in aqueous solvents making liquid chromatography (LC) separations difficult; unconjugated steroids are neutral molecules and thus not optimal for atmospheric pressure ionisation (API)-MS; and regulatory steroids may be present in biological samples at very low levels [2].",
+            "startOffset": 10669,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18078,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "When 1 \u03bcg of both nandrolone and of testosterone (2 \u03bcg total, 7 nmole) was used and the amount of TMTH reduced to 0.005 mg (20 nmole, TMTH/steroid mole ratio 2.8:1) the yield of derivatised steroid was the same as when 5 mg of TMTH was used indicating that a TMTH/steroid mole ratio of about 3:1 is sufficient for quantitative derivatisation in 100 \u03bcL of solvent.",
+            "startOffset": 17715,
+            "title": "Amount of TMTH reagent required for effective derivatisation"
+        },
+        {
+            "endOffset": 11766,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Here we apply carbonyl-reactive TMTH in the analysis of oxosteroids.",
+            "startOffset": 11698,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25196,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The major steroids were characterised as glucuronides by the neutral loss of 176 Da (Fig. 4).",
+            "startOffset": 25103,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 20255,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Weaker fragments are formed from loss of 241 Da (C12H23N3O2) and of 259 Da (C12H25N3O3).",
+            "startOffset": 20167,
+            "title": "3-Oxo-4-ene (nandrolone, testosterone) and 3-oxo (dihydrotestosterone) steroids"
+        },
+        {
+            "endOffset": 10465,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The initial step in steroid hormone biosynthesis is cleavage of the bond between C-20 and C-22 of the cholesterol side-chain in a reaction catalysed by the enzyme P450scc (CYP11A1) to give pregnenolone.",
+            "startOffset": 10263,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20872,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "These latter two neutral-losses are characteristic TMTH derivatised 17-oxo steroids and can be used to differentiate between derivatives at the 17-oxo and 3-oxo groups.",
+            "startOffset": 20704,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 23797,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "As was the case with THS and THB multiple fragment ions derived from the neutral loss of portions of the TMTH group accompanied by loss of water are observed i.e. \u2212189 (C9H15NO + 2 \u00d7 H2O), \u2212206 (C9H18N2O + 2 \u00d7 H2O), \u2212224 Da (either loss of C12H20N2O2 or of C9H18N2O + 3 \u00d7 H2O) and \u2212242 Da (loss of C12H20N2O2 + H2O or of C9H18N2O + 4 \u00d7 H2O).",
+            "startOffset": 23456,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 25029,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "TOF-MS and MS/MS analysis of human urine samples revealed abundant peaks corresponding to protonated TMTH derivatised glucuronides.",
+            "startOffset": 24898,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 24314,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0085",
+            "sentence": "The presence of more than one oxo group on these molecules results in the formation of both mono- and bis derivatives.",
+            "startOffset": 24196,
+            "title": "Cortisol (F) and cortisone (E, Table S5)"
+        },
+        {
+            "endOffset": 14624,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The derivatisation procedure was as follows: 5 mg of TMTH (0.02 mmole) was dissolved in 60 \u03bcL of ethanol.",
+            "startOffset": 14519,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 25102,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "The identifications were based on exact mass and fragmentation patterns.",
+            "startOffset": 25030,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 19595,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The parent [M+H]+ ion was submitted to collision-induced dissociation (CID) with argon gas at a collision energy of 30\u201340 eV, resulting in characteristic fragmentation patterns (Fig. 3).",
+            "startOffset": 19409,
+            "title": "ESI-MS/MS analysis"
+        },
+        {
+            "endOffset": 19408,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "ESI-MS/MS was used to investigate the fragmentation profile of TMTH derivatised steroids.",
+            "startOffset": 19319,
+            "title": "ESI-MS/MS analysis"
+        },
+        {
+            "endOffset": 24014,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "These probably correspond the ABCD ring structure with one hydroxyl and two double bonds and to the ring structure with three double bonds, respectively.",
+            "startOffset": 23861,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 25779,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "In conclusion, we present a simple, mild and fast derivatisation method for oxosteroid analysis by shotgun ESI-MS and MS/MS.",
+            "startOffset": 25655,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 16625,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "After washing with 3 mL of HPLC water, steroids were eluted with 4 mL of methanol and dried using a scanspeed vacuum concentrator.",
+            "startOffset": 16495,
+            "title": "Preparation and analysis of urine"
+        },
+        {
+            "endOffset": 12453,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Thirty oxosteroids including androgens, endogenous and exogenous corticosteroids, estrogens and progestagens, were analysed following derivatisation by direct infusion ESI-MS and ESI-tandem mass spectrometry (MS/MS) using a quadrupole \u2013 time-of-flight (Q-TOF) instrument.",
+            "startOffset": 12182,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18472,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The abundances of doubly derivatised steroids varied, depending on structure of the parent steroid.",
+            "startOffset": 18373,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 15319,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Derivatised steroids reconstituted in 1 mL of 10% methanol were applied to the column.",
+            "startOffset": 15233,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 20406,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Fragment ions derived from the TMTH tag are observed at m/z 126 (C8H16N)+, 171 (C9H19N2O)+, 183 (C10H19N2O+) and 225 (C12H21N2O2)+ (Table S2, Fig. 1).",
+            "startOffset": 20256,
+            "title": "3-Oxo-4-ene (nandrolone, testosterone) and 3-oxo (dihydrotestosterone) steroids"
+        },
+        {
+            "endOffset": 25938,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "We applied the method to thirty oxosteroids, whose ionization efficiencies increased from 14 up to 2755-fold when compared to their underivatised equivalents.",
+            "startOffset": 25780,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 18181,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The derivatisation protocol was tested on thirty oxosteroids (Supplementary Fig. S1).",
+            "startOffset": 18096,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 16415,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "An SPE cartridge (200 mg Sep-Pak tC18), was washed with 4 mL of ethanol, followed by 4 mL of methanol and conditioned with 4 mL of HPLC water.",
+            "startOffset": 16273,
+            "title": "Preparation and analysis of urine"
+        },
+        {
+            "endOffset": 18758,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Most steroids with carbonyl groups at C-3 and C-17, or C-3 and C-20 give a mixture of single and double derivatives (Table S1), but in the case of betamethasone and beclomethasone double derivatives were not abundant despite the parent structure having carbonyl groups at C-3 and C-20.",
+            "startOffset": 18473,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 10262,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Steroid hormones are small molecules synthesized from cholesterol, mainly in cells of the adrenal cortex, the gonads, and the placenta.",
+            "startOffset": 10127,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22697,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In addition to the above fragments THDOC shows fragment ions at m/z 385 and 367 resulting from the neutral losses of 188 Da (C9H18N2O + H2O) and 206 Da (C9H18N2O + 2 \u00d7 H2O) and at m/z 314 formed by the neutral loss of 259 Da (C12H23N3O2 + H2O).",
+            "startOffset": 22453,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 21673,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The fragmentation pattern of androstenedione is very similar to that of both testosterone (3-oxo) and DHEA (17-oxo), the fragment ions at m/z 251 (\u2212274 Da) and 269 (\u2212256 Da) indicate that the 17-oxo group is derivatised to some extent.",
+            "startOffset": 21438,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 16958,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The fully dried extract was then derivatised with 5 mg of TMTH dissolved in 70 \u03bcL of ethanol, 20 \u03bcL water (HPLC grade) and 10 \u03bcL glacial acetic acid as described above.",
+            "startOffset": 16790,
+            "title": "Preparation and analysis of urine"
+        },
+        {
+            "endOffset": 16069,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The ESI-MS and MS/MS conditions were as follows: spray voltage, 1.8 kV; collision gas, argon; collision voltage from 5 V for MS, 30\u201340 V for MS/MS; LM from 10 to 15; HM from 10 to 15; ion polarity, positive.",
+            "startOffset": 15862,
+            "title": "ESI-MS and -MS/MS analysis of derivatised oxosteroids"
+        },
+        {
+            "endOffset": 18913,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This is due to steric hindrance provided by the \u03b2-methyl group on C-16, not allowing sufficient space for a second TMTH tag to be attached to the steroid.",
+            "startOffset": 18759,
+            "title": "ESI-MS analysis"
+        },
+        {
+            "endOffset": 15533,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The column was washed with 6 mL of 10% methanol (to remove excess of derivatisation reagent) and steroid-hydrazones eluted using 3\u00d7 or 4 \u00d7 1 mL of 100% methanol (depending on the steroid), producing fractions 1\u20134.",
+            "startOffset": 15320,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 23860,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "A major pair of fragment ions are observed at m/z 271 and 253.",
+            "startOffset": 23798,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 13525,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "5\u03b1-Androsterone glucuronide (A-GlcA) was from LGC Standards GmbH (Wesel, Germany).",
+            "startOffset": 13443,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 20166,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The dominant fragment ions are formed by loss of 153 (C9H15NO), 170 (C9H18N2O) and 224 Da (C12H20N2O2).",
+            "startOffset": 20063,
+            "title": "3-Oxo-4-ene (nandrolone, testosterone) and 3-oxo (dihydrotestosterone) steroids"
+        },
+        {
+            "endOffset": 19921,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In the following the MS/MS spectra of the different structural classes of oxosteroids are described.",
+            "startOffset": 19821,
+            "title": "ESI-MS/MS analysis"
+        },
+        {
+            "endOffset": 21199,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "The major fragment ions of DHEA-sulphate result from the loss of the 80 (SO3) and 98 (H2SO4) Da from the sulphuric acid conjugating group.",
+            "startOffset": 21061,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 22094,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Fragment ions derived from TMTH at m/z of 126, 171, 183, and 225 were observed as in the MS/MS spectra similar to the androgens.",
+            "startOffset": 21966,
+            "title": "MS/MS of progestagens derivatised with TMTH (Table S3)"
+        },
+        {
+            "endOffset": 14155,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Solvents were from Fisher-Scientific (Loughborough, Leicestershire, UK) of HPLC or Analytical grade.",
+            "startOffset": 14055,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 23322,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The isomers can be differentiated by the enhanced abundance of peaks at m/z 365 (\u2212224 Da either loss of C12H20N2O2 or C9H18N2O \u2212 3 \u00d7 H2O) and 300 in the spectrum of THB, while peaks at m/z 302 and 384 are more abundant in the spectrum of THS.",
+            "startOffset": 23080,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 14518,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "1 mg of each steroid was dissolved in 1 mL ethanol and vortex mixed, then diluted with ethanol to give working solutions of 0.1 and 0.01 \u03bcg/\u03bcL.",
+            "startOffset": 14375,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 21438,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Androsterone glucuronide shows the classical neutral loss of 176 Da for a steroid glucuronide giving the [M+H-176]+ ion as the major fragment ion.",
+            "startOffset": 21292,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 22777,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The isomers THS and THB give similar MS/MS spectra, but they are not identical.",
+            "startOffset": 22698,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 11593,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This strategy is applicable to the analysis of both free and intact steroid conjugates, such as steroid sulphates and glucuronides which require hydrolysis before GC\u2013MS analysis.",
+            "startOffset": 11415,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 10668,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 10667,
+                    "startOffset": 10664
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Steroid hormones have important biological functions regulating development and metabolism [1].",
+            "startOffset": 10573,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21060,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "DHEA gives an essentially similar fragmentation pattern to androsterone, but the steroid ring containing fragment ions are 2 Da lighter as a consequence of the unsaturated B ring in DHEA.",
+            "startOffset": 20873,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 13381,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Dehydroepiandrosterone (DHEA) was from Avanti Polar Lipids (Alabaster, AL, USA).",
+            "startOffset": 13301,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 23079,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Both loose water more readily than THDOC and this is reflected by the presence of multiple fragment ions derived from the neutral loss of portions of the TMTH group accompanied by loss of water i.e. \u2212171 Da (C9H15NO + H2O), \u2212188 (C9H18N2O + H2O), \u2212206 (C9H18N2O + 2 \u00d7 H2O), \u2212242 Da (C12H20N2O2 + H2O).",
+            "startOffset": 22778,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 20703,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "As with the 3-oxosterods the MS/MS spectrum of androsterone is dominated by the neutral losses of 153, 170 and 224 Da, with weaker fragment ions formed by neutral loss of 256 (C12H24N4O2) and 274 Da (C12H26N4O3).",
+            "startOffset": 20491,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 15123,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A Sep-Pak C18 cartridge was attached to Agilent Manifold Processing Station (Agilent Technologies, Inc., Wilmington, USA) and vacuum applied.",
+            "startOffset": 14982,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 12911,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Steroid standards nandrolone (19-nortestosterone, N), testosterone (T), betamethasone (Bet), prednisolone (Pred), dexamethasone (Dex), flumethasone (Flu), beclomethasone (Bec), cortisol (hydrocortisone, F), cortisone (E), estrone (E1), 5\u03b1-dihydrotestosterone (DHT) and pregnenolone (3\u03b2-hydroxypregn-5-en-20-one) were from Sigma\u2013Aldrich (Poole, Dorset, UK).",
+            "startOffset": 12555,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 16237,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "The Q-TOF was calibrated externally by MS/MS using a [Glu1] Fibrinopeptide solution (1 pmol/\u03bcL in 60% acetonitrile, 0.1% formic acid) prior to each analytical session.",
+            "startOffset": 16070,
+            "title": "ESI-MS and -MS/MS analysis of derivatised oxosteroids"
+        },
+        {
+            "endOffset": 26042,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "TMTH tags were tested on urine samples, showing that direct analysis of steroid conjugates is possible.",
+            "startOffset": 25939,
+            "title": "Analysis of TMTH derivatised steroids in human urine"
+        },
+        {
+            "endOffset": 12181,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "The aim of this study was to develop an electrospray ionization (ESI)-MS \u201cshotgun\u201d method for analysis of oxosteroids using the TMTH derivatisation reagent.",
+            "startOffset": 12025,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 22452,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0075",
+                    "title": "MS/MS of endogenous corticosteroids derivatised with TMTH"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "These four compounds are each derivatised at C-20 and all give a fragment ion at m/z 242 (C12H24N3O2)+ as the dominant peak in the MS/MS spectrum with other TMTH fragment ions being observed at m/z 225, 183, 171 and 126 (Table S4).",
+            "startOffset": 22221,
+            "title": "Tetrahydrocorticosteroids (THDOC, THS, THB, THF, Table S4)"
+        },
+        {
+            "endOffset": 21291,
+            "parents": [
+                {
+                    "id": "s0035",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0050",
+                    "title": "ESI-MS/MS analysis"
+                },
+                {
+                    "id": "s0055",
+                    "title": "MS/MS of androgens derivatised with TMTH (Table S2)"
+                }
+            ],
+            "secId": "s0065",
+            "sentence": "Subsequent fragmentation of the [M+H-98]+ ion gives ions characteristic of a 17-oxosteroid.",
+            "startOffset": 21200,
+            "title": "17-Oxosteroids (androsterone, dehydroepiandrosterone, DHEA, and DHEA-sulphate)"
+        },
+        {
+            "endOffset": 15684,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Double derivatives were present also in the third and fourth fractions.",
+            "startOffset": 15613,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 13817,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 13816,
+                    "startOffset": 13813
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Other steroids, 3\u03b1-hydroxy-5\u03b2-pregnan-20-one, 3\u03b2-hydroxy-5\u03b2-pregnan-20-one, 3\u03b1-hydroxy-5\u03b1-pregnan-20-one, [11,11-2H2]-3\u03b2-hydroxy-5\u03b1-pregnan-20-one, 3\u03b2-hydroxypregn-4-en-20-one, 3\u03b2-hydroxypregn-5,16-dien-20-one, [3,4-13C2]-progesterone (pregn-4-ene-3,20-dione) were from previous studies [4].",
+            "startOffset": 13526,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 14982,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "The sample mixture was dried using Scanspeed vacuum concentrator (Coolsafe, West Sussex, UK) and reconstituted in 1 mL of 10% methanol.",
+            "startOffset": 14847,
+            "title": "Derivatisation of oxosteroids with TMTH"
+        },
+        {
+            "endOffset": 11414,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "To overcome some of these challenges we have adopted a strategy where oxosteroids are derivatised with the \u201ctandem mass tag hydrazine\u201d (TMTH) reagent making them suitable for subsequent API-MS analysis (Fig. 1).",
+            "startOffset": 11203,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 16494,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "100 \u03bcL of urine was diluted with 1 mL of HPLC water and applied to the column.",
+            "startOffset": 16416,
+            "title": "Preparation and analysis of urine"
+        },
+        {
+            "endOffset": 14054,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Solid phase extraction (SPE) cartridges, certified Sep-Pak C18, 3cc, 200 mg were from Waters Inc. (Milford, Massachusetts, USA), Leur Lock syringes were from BD Biosciences, (Oxford, UK).",
+            "startOffset": 13867,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 11697,
+            "parents": [],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 11696,
+                    "startOffset": 11693
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Thomson et al. originally developed amine-reactive tandem mass tags (TMT) for labelling of peptides [3].",
+            "startOffset": 11593,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15861,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "ESI-MS and ESI-MS/MS analysis was performed on a Q-TOF (Waters, UK) using nano-ESI needles (EconoTips12, Presearch Ltd.).",
+            "startOffset": 15740,
+            "title": "ESI-MS and -MS/MS analysis of derivatised oxosteroids"
+        },
+        {
+            "endOffset": 13134,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Tetrahydrodeoxycortisol (THS), tetrahydrodeoxycorticosterone (THDOC), tetrahydrocorticosterone (THB) and tetrahydrocortisol (THF), were from Steraloids Inc (Newport, RI, USA).",
+            "startOffset": 12959,
+            "title": "Reagents and standards"
+        },
+        {
+            "endOffset": 13300,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "5\u03b1-Androsterone (A), estrone sodium sulphate (E1-S) and 17-hydroxypregnenolone (3\u03b2,17\u03b1-dihydroxypregn-5-en-20-one) were purchased from Makaira Ltd (London, England).",
+            "startOffset": 13135,
+            "title": "Reagents and standards"
+        }
+    ],
+    "docId": "S0006291X14002368",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "K.",
+                "initial": "K.",
+                "last": "Rigdova"
+            },
+            {
+                "email": null,
+                "first": "Y.",
+                "initial": "Y.",
+                "last": "Wang"
+            },
+            {
+                "email": null,
+                "first": "M.",
+                "initial": "M.",
+                "last": "Ward"
+            },
+            {
+                "email": "w.j.griffiths@swansea.ac.uk",
+                "first": "W. J.",
+                "initial": "W.J.",
+                "last": "Griffiths"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.01.190",
+        "firstpage": "762",
+        "issn": "0006291X",
+        "keywords": [
+            "Derivatisation",
+            "Steroid glucuronides",
+            "Steroids",
+            "Tandem mass spectrometry",
+            "Urine"
+        ],
+        "lastpage": "767",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "A new derivative for oxosteroid analysis by mass spectrometry"
+    }
+}

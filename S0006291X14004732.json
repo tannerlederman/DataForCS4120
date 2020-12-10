@@ -1,0 +1,2979 @@
+{
+    "abstract": "The mreB gene family encodes actin-like proteins that determine cell shape by directing cell wall synthesis and often exists in one to three copies in the genomes of non-spherical bacteria. Intriguingly, while most wall-less bacteria do not have this gene, five to seven mreB homologs are found in Spiroplasma and Haloplasma, which are both characterized by cell contractility. To investigate the molecular evolution of this gene family in wall-less bacteria, we sampled the available genome sequences from these two genera and other related lineages for comparative analysis the gene phylogenies indicated that the mreB homologs in Haloplasma are more closely related to those in Firmicutes, whereas those in Spiroplasma form a separate clade. This finding suggests that the gene family expansions in these two lineages are the results of independent ancient duplications. Moreover, the Spiroplasma mreB homologs can be classified into five clades, of which the genomic positions are largely conserved the inference of gene gains and losses suggests that there has been an overall trend to retain only one homolog from each of the five mreB clades in the evolutionary history of Spiroplasma. \u00a9 2014 Elsevier Inc. All rights reserved.",
+    "author_highlights": [
+        {
+            "endOffset": 10370,
+            "sentence": "Actin-like MreB proteins determine cell shape by directing cell wall synthesis.",
+            "startOffset": 10291
+        },
+        {
+            "endOffset": 10466,
+            "sentence": "Absent in most wall-less bacteria, mreB has five to seven copies in Spiroplasma and Haloplasma.",
+            "startOffset": 10371
+        },
+        {
+            "endOffset": 10538,
+            "sentence": "Independent expansions of the mreB gene family appear to have occurred.",
+            "startOffset": 10467
+        },
+        {
+            "endOffset": 10621,
+            "sentence": "Spiroplasma mreB can be divided into five clades with conserved genomic positions.",
+            "startOffset": 10539
+        }
+    ],
+    "bib_entries": {
+        "b0005": {
+            "authors": [
+                {
+                    "first": "Laura J.F.",
+                    "initial": "L.J.F.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "Rut",
+                    "initial": "R.",
+                    "last": "Carballido-L\u00f3pez"
+                },
+                {
+                    "first": "Jeffery",
+                    "initial": "J.",
+                    "last": "Errington"
+                }
+            ],
+            "doi": "10.1016/S0092-8674(01)00287-2",
+            "firstpage": "913",
+            "issn": "00928674",
+            "lastpage": "922",
+            "pmid": "11290328",
+            "pub_year": 2001,
+            "title": "Control of cell shape in bacteria: Helical, actin-like filaments in Bacillus subtilis",
+            "volume": "104"
+        },
+        "b0010": {
+            "authors": [
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Van den Ent"
+                },
+                {
+                    "first": "L. A.",
+                    "initial": "L.A.",
+                    "last": "Amos"
+                },
+                {
+                    "first": "J.",
+                    "initial": "J.",
+                    "last": "L\u00f6we"
+                }
+            ],
+            "doi": "10.1038/35092500",
+            "firstpage": "39",
+            "issn": "00280836",
+            "lastpage": "44",
+            "pmid": "11544518",
+            "pub_year": 2001,
+            "title": "Prokaryotic origin of the actin cytoskeleton",
+            "volume": "413"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Matthew T.",
+                    "initial": "M.T.",
+                    "last": "Cabeen"
+                },
+                {
+                    "first": "Christine",
+                    "initial": "C.",
+                    "last": "Jacobs-Wagner"
+                }
+            ],
+            "doi": "10.1038/nrmicro1205",
+            "firstpage": "601",
+            "issn": "17401526",
+            "lastpage": "610",
+            "pmid": "16012516",
+            "pub_year": 2005,
+            "title": "Bacterial cell shape",
+            "volume": "3"
+        },
+        "b0020": {
+            "authors": [
+                {
+                    "first": "Rut",
+                    "initial": "R.",
+                    "last": "Carballido-L\u00f3pez"
+                }
+            ],
+            "doi": "10.1128/MMBR.00014-06",
+            "firstpage": "888",
+            "issn": "10922172",
+            "lastpage": "909",
+            "pmid": "17158703",
+            "pub_year": 2006,
+            "title": "The bacterial actin-like cytoskeleton",
+            "volume": "70"
+        },
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Rut",
+                    "initial": "R.",
+                    "last": "Carballido-L\u00f3pez"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Formstone"
+                },
+                {
+                    "first": "Ying",
+                    "initial": "Y.",
+                    "last": "Li"
+                },
+                {
+                    "first": "S. Dusko",
+                    "initial": "S.D.",
+                    "last": "Ehrlich"
+                },
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Noirot"
+                },
+                {
+                    "first": "Jeff",
+                    "initial": "J.",
+                    "last": "Errington"
+                }
+            ],
+            "doi": "10.1016/j.devcel.2006.07.017",
+            "firstpage": "399",
+            "issn": "15345807",
+            "lastpage": "409",
+            "pmid": "16950129",
+            "pub_year": 2006,
+            "title": "Actin Homolog MreBH Governs Cell Morphogenesis by Localization of the Cell Wall Hydrolase LytE",
+            "volume": "11"
+        },
+        "b0030": {
+            "authors": [
+                {
+                    "first": "Yu Ling",
+                    "initial": "Y.L.",
+                    "last": "Shih"
+                },
+                {
+                    "first": "Lawrence",
+                    "initial": "L.",
+                    "last": "Rothfield"
+                }
+            ],
+            "doi": "10.1128/MMBR.00017-06",
+            "firstpage": "729",
+            "issn": "10922172",
+            "lastpage": "754",
+            "pmid": "16959967",
+            "pub_year": 2006,
+            "title": "The bacterial cytoskeleton",
+            "volume": "70"
+        },
+        "b0035": {
+            "authors": [
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Doi"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Wachi"
+                },
+                {
+                    "first": "F.",
+                    "initial": "F.",
+                    "last": "Ishino"
+                },
+                {
+                    "first": "S.",
+                    "initial": "S.",
+                    "last": "Tomioka"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Ito"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Sakagami"
+                },
+                {
+                    "first": "A.",
+                    "initial": "A.",
+                    "last": "Suzuki"
+                },
+                {
+                    "first": "M.",
+                    "initial": "M.",
+                    "last": "Matsuhashi"
+                }
+            ],
+            "doi": "10.1128/jb.170.10.4619-4624.1988",
+            "firstpage": "4619",
+            "issn": "00219193",
+            "lastpage": "4624",
+            "pmid": "3049542",
+            "pub_year": 1988,
+            "title": "Determinations of the DNA sequence of the mreB gene and of the gene products of the mre region that function in formation of the rod shape of Escherichia coli cells.",
+            "volume": "170"
+        },
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Rainer M.",
+                    "initial": "R.M.",
+                    "last": "Figge"
+                },
+                {
+                    "first": "Arun V.",
+                    "initial": "A.V.",
+                    "last": "Divakaruni"
+                },
+                {
+                    "first": "James W.",
+                    "initial": "J.W.",
+                    "last": "Gober"
+                }
+            ],
+            "doi": "10.1111/j.1365-2958.2003.03936.x",
+            "firstpage": "1321",
+            "issn": "0950382X",
+            "lastpage": "1332",
+            "pmid": "14982627",
+            "pub_year": 2004,
+            "title": "MreB, the cell shape-determining bacterial actin homologue, co-ordinates cell wall morphogenesis in Caulobacter crescentus",
+            "volume": "51"
+        },
+        "b0045": {
+            "authors": [
+                {
+                    "first": "Richard A.",
+                    "initial": "R.A.",
+                    "last": "Daniel"
+                },
+                {
+                    "first": "Jeff",
+                    "initial": "J.",
+                    "last": "Errington"
+                }
+            ],
+            "doi": "10.1016/S0092-8674(03)00421-5",
+            "firstpage": "767",
+            "issn": "00928674",
+            "lastpage": "776",
+            "pmid": "12809607",
+            "pub_year": 2003,
+            "title": "Control of cell morphogenesis in bacteria: Two distinct ways to make a rod-shaped cell",
+            "volume": "113"
+        },
+        "b0050": {
+            "authors": [
+                {
+                    "first": "Archana",
+                    "initial": "A.",
+                    "last": "Varma"
+                },
+                {
+                    "first": "Kevin D.",
+                    "initial": "K.D.",
+                    "last": "Young"
+                }
+            ],
+            "doi": "10.1128/JB.01812-08",
+            "firstpage": "3526",
+            "issn": "00219193",
+            "lastpage": "3533",
+            "pmid": "19346310",
+            "pub_year": 2009,
+            "title": "In Escherichia coli, MreB and FtsZ direct the synthesis of lateral cell wall via independent pathways that require PBP 2",
+            "volume": "191"
+        },
+        "b0055": {
+            "authors": [
+                {
+                    "first": "Patricia",
+                    "initial": "P.",
+                    "last": "Carle"
+                },
+                {
+                    "first": "Colette",
+                    "initial": "C.",
+                    "last": "Saillard"
+                },
+                {
+                    "first": "Nathalie",
+                    "initial": "N.",
+                    "last": "Carr\u00e8re"
+                },
+                {
+                    "first": "S\u00e9bastien",
+                    "initial": "S.",
+                    "last": "Carr\u00e8re"
+                },
+                {
+                    "first": "Sybille",
+                    "initial": "S.",
+                    "last": "Duret"
+                },
+                {
+                    "first": "Sandrine",
+                    "initial": "S.",
+                    "last": "Eveillard"
+                },
+                {
+                    "first": "Patrice",
+                    "initial": "P.",
+                    "last": "Gaurivaud"
+                },
+                {
+                    "first": "G\u00e9raldine",
+                    "initial": "G.",
+                    "last": "Gourgues"
+                },
+                {
+                    "first": "J\u00e9rome",
+                    "initial": "J.",
+                    "last": "Gouzy"
+                },
+                {
+                    "first": "Pascal",
+                    "initial": "P.",
+                    "last": "Salar"
+                },
+                {
+                    "first": "Eric",
+                    "initial": "E.",
+                    "last": "Verdin"
+                },
+                {
+                    "first": "Marc",
+                    "initial": "M.",
+                    "last": "Breton"
+                },
+                {
+                    "first": "Alain",
+                    "initial": "A.",
+                    "last": "Blanchard"
+                },
+                {
+                    "first": "Fr\u00e9d\u00e9ric",
+                    "initial": "F.",
+                    "last": "Laigret"
+                },
+                {
+                    "first": "Joseph Marie",
+                    "initial": "J.M.",
+                    "last": "Bov\u00e9"
+                },
+                {
+                    "first": "Joel",
+                    "initial": "J.",
+                    "last": "Renaudin"
+                },
+                {
+                    "first": "Xavier",
+                    "initial": "X.",
+                    "last": "Foissac"
+                }
+            ],
+            "doi": "10.1128/AEM.02954-09",
+            "firstpage": "3420",
+            "issn": "00992240",
+            "lastpage": "3426",
+            "pmid": "20363791",
+            "pub_year": 2010,
+            "title": "Partial chromosome sequence of Spiroplasma citri reveals extensive viral invasion and important gene decay",
+            "volume": "76"
+        },
+        "b0060": {
+            "authors": [
+                {
+                    "first": "Dmitry",
+                    "initial": "D.",
+                    "last": "Alexeev"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Kostrjukova"
+                },
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Aliper"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Popenko"
+                },
+                {
+                    "first": "Nikolay",
+                    "initial": "N.",
+                    "last": "Bazaleev"
+                },
+                {
+                    "first": "Alexander",
+                    "initial": "A.",
+                    "last": "Tyakht"
+                },
+                {
+                    "first": "Oksana",
+                    "initial": "O.",
+                    "last": "Selezneva"
+                },
+                {
+                    "first": "Tatyana",
+                    "initial": "T.",
+                    "last": "Akopian"
+                },
+                {
+                    "first": "Elena",
+                    "initial": "E.",
+                    "last": "Prichodko"
+                },
+                {
+                    "first": "Ilya",
+                    "initial": "I.",
+                    "last": "Kondratov"
+                },
+                {
+                    "first": "Mikhail",
+                    "initial": "M.",
+                    "last": "Chukin"
+                },
+                {
+                    "first": "Irina",
+                    "initial": "I.",
+                    "last": "Demina"
+                },
+                {
+                    "first": "Maria",
+                    "initial": "M.",
+                    "last": "Galyamina"
+                },
+                {
+                    "first": "Dmitri",
+                    "initial": "D.",
+                    "last": "Kamashev"
+                },
+                {
+                    "first": "Anna",
+                    "initial": "A.",
+                    "last": "Vanyushkina"
+                },
+                {
+                    "first": "Valentina",
+                    "initial": "V.",
+                    "last": "Ladygina"
+                },
+                {
+                    "first": "Sergei",
+                    "initial": "S.",
+                    "last": "Levitskii"
+                },
+                {
+                    "first": "Vasily",
+                    "initial": "V.",
+                    "last": "Lazarev"
+                },
+                {
+                    "first": "Vadim",
+                    "initial": "V.",
+                    "last": "Govorun"
+                }
+            ],
+            "doi": "10.1021/pr2008626",
+            "firstpage": "224",
+            "issn": "15353893",
+            "lastpage": "236",
+            "pmid": "22129229",
+            "pub_year": 2012,
+            "title": "Application of spiroplasma melliferum proteogenomic profiling for the discovery of virulence factors and pathogenicity mechanisms in host-associated spiroplasmas",
+            "volume": "11"
+        },
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Wen Sui",
+                    "initial": "W.S.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Wan Chia",
+                    "initial": "W.C.",
+                    "last": "Chung"
+                },
+                {
+                    "first": "Gail E.",
+                    "initial": "G.E.",
+                    "last": "Gasparich"
+                },
+                {
+                    "first": "Chih Horng",
+                    "initial": "C.H.",
+                    "last": "Kuo"
+                }
+            ],
+            "doi": "10.1186/1471-2164-14-22",
+            "issn": "14712164",
+            "pmid": "23324436",
+            "pub_year": 2013,
+            "title": "Comparative genome analysis of Spiroplasma melliferum IPMB4A, a honeybee-associated bacterium",
+            "volume": "14"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Antunes"
+                },
+                {
+                    "first": "Intikhab",
+                    "initial": "I.",
+                    "last": "Alam"
+                },
+                {
+                    "first": "Hamza E.",
+                    "initial": "H.E.",
+                    "last": "El Dorry"
+                },
+                {
+                    "first": "Rania",
+                    "initial": "R.",
+                    "last": "Siam"
+                },
+                {
+                    "first": "Anthony",
+                    "initial": "A.",
+                    "last": "Robertson"
+                },
+                {
+                    "first": "Vladimir B.",
+                    "initial": "V.B.",
+                    "last": "Bajic"
+                },
+                {
+                    "first": "Ulrich",
+                    "initial": "U.",
+                    "last": "Stingl"
+                }
+            ],
+            "doi": "10.1128/JB.05461-11",
+            "firstpage": "4551",
+            "issn": "00219193",
+            "lastpage": "4552",
+            "pmid": "21705599",
+            "pub_year": 2011,
+            "title": "Genome sequence of Haloplasma contractile, an unusual contractile bacterium from a deep-sea anoxic brine lake",
+            "volume": "193"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Shlomo",
+                    "initial": "S.",
+                    "last": "Trachtenberg"
+                },
+                {
+                    "first": "Rami",
+                    "initial": "R.",
+                    "last": "Gilad"
+                }
+            ],
+            "doi": "10.1046/j.1365-2958.2001.02527.x",
+            "firstpage": "827",
+            "issn": "0950382X",
+            "lastpage": "848",
+            "pmid": "11532147",
+            "pub_year": 2001,
+            "title": "A bacterial linear motor: Cellular and molecular organization of the contractile cytoskeleton of the helical bacterium Spiroplasma melliferum BC3",
+            "volume": "41"
+        },
+        "b0080": {
+            "authors": [
+                {
+                    "first": "Andr\u00e9",
+                    "initial": "A.",
+                    "last": "Antunes"
+                },
+                {
+                    "first": "Fred A.",
+                    "initial": "F.A.",
+                    "last": "Rainey"
+                },
+                {
+                    "first": "Gerhard",
+                    "initial": "G.",
+                    "last": "Wanner"
+                },
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Taborda"
+                },
+                {
+                    "first": "J\u00fcrgen",
+                    "initial": "J.",
+                    "last": "P\u00e4tzold"
+                },
+                {
+                    "first": "M. Fernanda",
+                    "initial": "M.F.",
+                    "last": "Nobre"
+                },
+                {
+                    "first": "Milton S.",
+                    "initial": "M.S.",
+                    "last": "Da Costa"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Huber"
+                }
+            ],
+            "doi": "10.1128/JB.01860-07",
+            "firstpage": "3580",
+            "issn": "00219193",
+            "lastpage": "3587",
+            "pmid": "18326567",
+            "pub_year": 2008,
+            "title": "A new lineage of halophilic, wall-less, contractile bacteria from a brine-filled deep of the Red Sea",
+            "volume": "190"
+        },
+        "b0085": {
+            "authors": [
+                {
+                    "first": "Julia",
+                    "initial": "J.",
+                    "last": "K\u00fcrner"
+                },
+                {
+                    "first": "Achilleas S.",
+                    "initial": "A.S.",
+                    "last": "Frangakis"
+                },
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Baumeister"
+                }
+            ],
+            "doi": "10.1126/science.1104031",
+            "firstpage": "436",
+            "issn": "00368075",
+            "lastpage": "438",
+            "pmid": "15662018",
+            "pub_year": 2005,
+            "title": "Cryo-electron tomography reveals the cytoskeletal structure of Spiroplasma melliferum",
+            "volume": "307"
+        },
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Ku"
+                },
+                {
+                    "first": "Wen Sui",
+                    "initial": "W.S.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Chih Horng",
+                    "initial": "C.H.",
+                    "last": "Kuo"
+                }
+            ],
+            "doi": "10.1093/gbe/evt084",
+            "firstpage": "1151",
+            "issn": "17596653",
+            "lastpage": "1164",
+            "pmid": "23711669",
+            "pub_year": 2013,
+            "title": "Completegenomesoftwodipteran-associatedspiroplasmas provided insights into the origin, dynamics, and impacts of viral invasion in Spiroplasma",
+            "volume": "5"
+        },
+        "b0095": {
+            "authors": [
+                {
+                    "first": "Wen Sui",
+                    "initial": "W.S.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Ku"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Tean Hsu",
+                    "initial": "T.H.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Chih Horng",
+                    "initial": "C.H.",
+                    "last": "Kuo"
+                }
+            ],
+            "doi": "10.1093/gbe/evt108",
+            "firstpage": "1512",
+            "issn": "17596653",
+            "lastpage": "1523",
+            "pmid": "23873917",
+            "pub_year": 2013,
+            "title": "Comparison of metabolic capacities and inference of gene content evolution in mosquito-associated Spiroplasma diminutum and S. taiwanense",
+            "volume": "5"
+        },
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Ku"
+                },
+                {
+                    "first": "Wen Sui",
+                    "initial": "W.S.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Chih Horng",
+                    "initial": "C.H.",
+                    "last": "Kuo"
+                }
+            ],
+            "doi": "10.1128/genomeA.e01151-13",
+            "issn": "21698287",
+            "pub_year": 2014,
+            "title": "Complete genome sequence of Spiroplasma apis B31T (ATCC 33834), a bacterium associated with May disease of honeybees (Apis mellifera)",
+            "volume": "2"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "Tean Hsu",
+                    "initial": "T.H.",
+                    "last": "Chang"
+                },
+                {
+                    "first": "Wen Sui",
+                    "initial": "W.S.",
+                    "last": "Lo"
+                },
+                {
+                    "first": "Chuan",
+                    "initial": "C.",
+                    "last": "Ku"
+                },
+                {
+                    "first": "Ling Ling",
+                    "initial": "L.L.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Chih Horng",
+                    "initial": "C.H.",
+                    "last": "Kuo"
+                }
+            ],
+            "doi": "10.1093/gbe/evu033",
+            "firstpage": "500",
+            "issn": "17596653",
+            "lastpage": "509",
+            "pmid": "24534435",
+            "pub_year": 2014,
+            "title": "Molecular evolution of the substrate utilization strategies and putative virulence factors in mosquito-associated Spiroplasma species",
+            "volume": "6"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Gail E.",
+                    "initial": "G.E.",
+                    "last": "Gasparich"
+                },
+                {
+                    "first": "Robert F.",
+                    "initial": "R.F.",
+                    "last": "Whitcomb"
+                },
+                {
+                    "first": "Deborah",
+                    "initial": "D.",
+                    "last": "Dodge"
+                },
+                {
+                    "first": "Frank E.",
+                    "initial": "F.E.",
+                    "last": "French"
+                },
+                {
+                    "first": "John",
+                    "initial": "J.",
+                    "last": "Glass"
+                },
+                {
+                    "first": "David L.",
+                    "initial": "D.L.",
+                    "last": "Williamson"
+                }
+            ],
+            "doi": "10.1099/ijs.0.02688-0",
+            "firstpage": "893",
+            "issn": "14665026",
+            "lastpage": "918",
+            "pmid": "15143041",
+            "pub_year": 2004,
+            "title": "The genus Spiroplasma and its non-helical descendants: Phylogenetic classification, correlation with phenotype and roots of the Mycoplasma mycoides clade",
+            "volume": "54"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "L.",
+                    "initial": "L.",
+                    "last": "Li"
+                },
+                {
+                    "first": "Christian J.",
+                    "initial": "C.J.",
+                    "last": "Stoeckert"
+                },
+                {
+                    "first": "David S.",
+                    "initial": "D.S.",
+                    "last": "Roos"
+                }
+            ],
+            "doi": "10.1101/gr.1224503",
+            "firstpage": "2178",
+            "issn": "10889051",
+            "lastpage": "2189",
+            "pmid": "12952885",
+            "pub_year": 2003,
+            "title": "OrthoMCL: Identification of ortholog groups for eukaryotic genomes",
+            "volume": "13"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Minoru",
+                    "initial": "M.",
+                    "last": "Kanehisa"
+                },
+                {
+                    "first": "Susumu",
+                    "initial": "S.",
+                    "last": "Goto"
+                }
+            ],
+            "firstpage": "27",
+            "issn": "03051048",
+            "lastpage": "30",
+            "pmid": "10592173",
+            "pub_year": 2000,
+            "title": "KEGG: Kyoto Encyclopedia of Genes and Genomes",
+            "volume": "28"
+        },
+        "b0125": {
+            "authors": [
+                {
+                    "first": "Minoru",
+                    "initial": "M.",
+                    "last": "Kanehisa"
+                },
+                {
+                    "first": "Susumu",
+                    "initial": "S.",
+                    "last": "Goto"
+                },
+                {
+                    "first": "Miho",
+                    "initial": "M.",
+                    "last": "Furumichi"
+                },
+                {
+                    "first": "Mao",
+                    "initial": "M.",
+                    "last": "Tanabe"
+                },
+                {
+                    "first": "Mika",
+                    "initial": "M.",
+                    "last": "Hirakawa"
+                }
+            ],
+            "doi": "10.1093/nar/gkp896",
+            "firstpage": "D355",
+            "issn": "03051048",
+            "lastpage": "D360",
+            "pmid": "19880382",
+            "pub_year": 2010,
+            "title": "KEGG for representation and analysis of molecular networks involving diseases and drugs",
+            "volume": "38"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Krzywinski"
+                },
+                {
+                    "first": "Jacqueline",
+                    "initial": "J.",
+                    "last": "Schein"
+                },
+                {
+                    "first": "Inan\u00e7",
+                    "initial": "I.",
+                    "last": "Birol"
+                },
+                {
+                    "first": "Joseph",
+                    "initial": "J.",
+                    "last": "Connors"
+                },
+                {
+                    "first": "Randy",
+                    "initial": "R.",
+                    "last": "Gascoyne"
+                },
+                {
+                    "first": "Doug",
+                    "initial": "D.",
+                    "last": "Horsman"
+                },
+                {
+                    "first": "Steven J.",
+                    "initial": "S.J.",
+                    "last": "Jones"
+                },
+                {
+                    "first": "Marco A.",
+                    "initial": "M.A.",
+                    "last": "Marra"
+                }
+            ],
+            "doi": "10.1101/gr.092759.109",
+            "firstpage": "1639",
+            "issn": "10889051",
+            "lastpage": "1645",
+            "pmid": "19541911",
+            "pub_year": 2009,
+            "title": "Circos: An information aesthetic for comparative genomics",
+            "volume": "19"
+        },
+        "b0135": {
+            "authors": [
+                {
+                    "first": "Robert C.",
+                    "initial": "R.C.",
+                    "last": "Edgar"
+                }
+            ],
+            "doi": "10.1093/nar/gkh340",
+            "firstpage": "1792",
+            "issn": "03051048",
+            "lastpage": "1797",
+            "pmid": "15034147",
+            "pub_year": 2004,
+            "title": "MUSCLE: Multiple sequence alignment with high accuracy and high throughput",
+            "volume": "32"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Guindon"
+                },
+                {
+                    "first": "Olivier",
+                    "initial": "O.",
+                    "last": "Gascuel"
+                }
+            ],
+            "doi": "10.1080/10635150390235520",
+            "firstpage": "696",
+            "issn": "10635157",
+            "lastpage": "704",
+            "pmid": "14530136",
+            "pub_year": 2003,
+            "title": "A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by Maximum Likelihood",
+            "volume": "52"
+        },
+        "b0145": null,
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Mikita",
+                    "initial": "M.",
+                    "last": "Suyama"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Torrents"
+                },
+                {
+                    "first": "Peer",
+                    "initial": "P.",
+                    "last": "Bork"
+                }
+            ],
+            "doi": "10.1093/nar/gkl315",
+            "firstpage": "W609",
+            "issn": "03051048",
+            "lastpage": "W612",
+            "pmid": "16845082",
+            "pub_year": 2006,
+            "title": "PAL2NAL: Robust conversion of protein sequence alignments into the corresponding codon alignments",
+            "volume": "34"
+        },
+        "b0155": {
+            "authors": [
+                {
+                    "first": "Alan I.",
+                    "initial": "A.I.",
+                    "last": "Derman"
+                },
+                {
+                    "first": "Eric C.",
+                    "initial": "E.C.",
+                    "last": "Becker"
+                },
+                {
+                    "first": "Bao D.",
+                    "initial": "B.D.",
+                    "last": "Truong"
+                },
+                {
+                    "first": "Akina",
+                    "initial": "A.",
+                    "last": "Fujioka"
+                },
+                {
+                    "first": "Timothy M.",
+                    "initial": "T.M.",
+                    "last": "Tucey"
+                },
+                {
+                    "first": "Marcella L.",
+                    "initial": "M.L.",
+                    "last": "Erb"
+                },
+                {
+                    "first": "Paula C.",
+                    "initial": "P.C.",
+                    "last": "Patterson"
+                },
+                {
+                    "first": "Joe",
+                    "initial": "J.",
+                    "last": "Pogliano"
+                }
+            ],
+            "doi": "10.1111/j.1365-2958.2009.06771.x",
+            "firstpage": "534",
+            "issn": "0950382X",
+            "lastpage": "552",
+            "pmid": "19602153",
+            "pub_year": 2009,
+            "title": "Phylogenetic analysis identifies many uncharacterized actin-like proteins (Alps) in bacteria: Regulated polymerization, dynamic instability and treadmilling in Alp7A",
+            "volume": "73"
+        },
+        "b0160": {
+            "authors": [
+                {
+                    "first": "Dongying",
+                    "initial": "D.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Philip",
+                    "initial": "P.",
+                    "last": "Hugenholtz"
+                },
+                {
+                    "first": "Konstantinos",
+                    "initial": "K.",
+                    "last": "Mavromatis"
+                },
+                {
+                    "first": "R\u00fcdiger",
+                    "initial": "R.",
+                    "last": "Pukall"
+                },
+                {
+                    "first": "Eileen",
+                    "initial": "E.",
+                    "last": "Dalin"
+                },
+                {
+                    "first": "Natalia N.",
+                    "initial": "N.N.",
+                    "last": "Ivanova"
+                },
+                {
+                    "first": "Victor",
+                    "initial": "V.",
+                    "last": "Kunin"
+                },
+                {
+                    "first": "Lynne",
+                    "initial": "L.",
+                    "last": "Goodwin"
+                },
+                {
+                    "first": "Martin",
+                    "initial": "M.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Brian J.",
+                    "initial": "B.J.",
+                    "last": "Tindall"
+                },
+                {
+                    "first": "Sean D.",
+                    "initial": "S.D.",
+                    "last": "Hooper"
+                },
+                {
+                    "first": "Amrita",
+                    "initial": "A.",
+                    "last": "Pati"
+                },
+                {
+                    "first": "Athanasios",
+                    "initial": "A.",
+                    "last": "Lykidis"
+                },
+                {
+                    "first": "Stefan",
+                    "initial": "S.",
+                    "last": "Spring"
+                },
+                {
+                    "first": "Iain J.",
+                    "initial": "I.J.",
+                    "last": "Anderson"
+                },
+                {
+                    "first": "Patrik",
+                    "initial": "P.",
+                    "last": "Dhaeseleer"
+                },
+                {
+                    "first": "Adam",
+                    "initial": "A.",
+                    "last": "Zemla"
+                },
+                {
+                    "first": "Mitchell",
+                    "initial": "M.",
+                    "last": "Singer"
+                },
+                {
+                    "first": "Alla",
+                    "initial": "A.",
+                    "last": "Lapidus"
+                },
+                {
+                    "first": "Matt",
+                    "initial": "M.",
+                    "last": "Nolan"
+                },
+                {
+                    "first": "Alex",
+                    "initial": "A.",
+                    "last": "Copeland"
+                },
+                {
+                    "first": "Cliff",
+                    "initial": "C.",
+                    "last": "Han"
+                },
+                {
+                    "first": "Feng",
+                    "initial": "F.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Jan Fang",
+                    "initial": "J.F.",
+                    "last": "Cheng"
+                },
+                {
+                    "first": "Susan",
+                    "initial": "S.",
+                    "last": "Lucas"
+                },
+                {
+                    "first": "Cheryl",
+                    "initial": "C.",
+                    "last": "Kerfeld"
+                },
+                {
+                    "first": "Elke",
+                    "initial": "E.",
+                    "last": "Lang"
+                },
+                {
+                    "first": "Sabine",
+                    "initial": "S.",
+                    "last": "Gronow"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Chain"
+                },
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Bruce"
+                },
+                {
+                    "first": "Edward M.",
+                    "initial": "E.M.",
+                    "last": "Rubin"
+                },
+                {
+                    "first": "Nikos C.",
+                    "initial": "N.C.",
+                    "last": "Kyrpides"
+                },
+                {
+                    "first": "Hans Peter",
+                    "initial": "H.P.",
+                    "last": "Klenk"
+                },
+                {
+                    "first": "Jonathan A.",
+                    "initial": "J.A.",
+                    "last": "Eisen"
+                }
+            ],
+            "doi": "10.1038/nature08656",
+            "firstpage": "1056",
+            "issn": "00280836",
+            "lastpage": "1060",
+            "pmid": "20033048",
+            "pub_year": 2009,
+            "title": "A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea",
+            "volume": "462"
+        },
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Jenna Morgan",
+                    "initial": "J.M.",
+                    "last": "Lang"
+                },
+                {
+                    "first": "Aaron E.",
+                    "initial": "A.E.",
+                    "last": "Darling"
+                },
+                {
+                    "first": "Jonathan A.",
+                    "initial": "J.A.",
+                    "last": "Eisen"
+                }
+            ],
+            "doi": "10.1371/journal.pone.0062510",
+            "issn": "19326203",
+            "pmid": "23638103",
+            "pub_year": 2013,
+            "title": "Phylogeny of Bacterial and Archaeal Genomes Using Conserved Genes: Supertrees and Supermatrices",
+            "volume": "8"
+        },
+        "b0170": {
+            "authors": [
+                {
+                    "first": "D. L.",
+                    "initial": "D.L.",
+                    "last": "Williamson"
+                }
+            ],
+            "firstpage": "904",
+            "issn": "00219193",
+            "lastpage": "906",
+            "pmid": "4129997",
+            "pub_year": 1974,
+            "title": "Unusual fibrils from the spirochete like Sex Ratio Organism",
+            "volume": "117"
+        },
+        "b0175": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Popp"
+                },
+                {
+                    "first": "Akihiro",
+                    "initial": "A.",
+                    "last": "Narita"
+                },
+                {
+                    "first": "Kayo",
+                    "initial": "K.",
+                    "last": "Maeda"
+                },
+                {
+                    "first": "Tetsuro",
+                    "initial": "T.",
+                    "last": "Fujisawa"
+                },
+                {
+                    "first": "Umesh",
+                    "initial": "U.",
+                    "last": "Ghoshdastider"
+                },
+                {
+                    "first": "Mitsusada",
+                    "initial": "M.",
+                    "last": "Iwasa"
+                },
+                {
+                    "first": "Yuichiro",
+                    "initial": "Y.",
+                    "last": "Ma\u00e9da"
+                },
+                {
+                    "first": "Robert C.",
+                    "initial": "R.C.",
+                    "last": "Robinson"
+                }
+            ],
+            "doi": "10.1074/jbc.M109.095901",
+            "firstpage": "15858",
+            "issn": "00219258",
+            "lastpage": "15865",
+            "pmid": "20223832",
+            "pub_year": 2010,
+            "title": "Filament structure, organization, and dynamics in MreB sheets",
+            "volume": "285"
+        },
+        "b0180": {
+            "authors": [
+                {
+                    "first": "David",
+                    "initial": "D.",
+                    "last": "Popp"
+                },
+                {
+                    "first": "Robert C.",
+                    "initial": "R.C.",
+                    "last": "Robinson"
+                }
+            ],
+            "doi": "10.1002/cm.21006",
+            "firstpage": "71",
+            "issn": "19493584",
+            "lastpage": "87",
+            "pmid": "22232062",
+            "pub_year": 2012,
+            "title": "Supramolecular cellular filament systems: How and why do they form?",
+            "volume": "69"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 13997,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "These Spiroplasma genomes, together with those of other Mollicutes (Mycoplasma, Mesoplasma, and Acholeplasma), Haloplasma, and two representatives of Firmicutes (Table 1), were examined for their gene repertoire of mreB homologs.",
+            "startOffset": 13768,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 24564,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 24512,
+                    "startOffset": 24508
+                }
+            },
+            "secId": "s0055",
+            "sentence": "In contrast, MreB filaments, which possibly form a third cytoskeletal ribbon between the two fibril ones [17], have never been isolated from living spiroplasmas.",
+            "startOffset": 24403,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 16471,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 16470,
+                    "startOffset": 16466
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Bootstrap supports were estimated from 1000 samples of alignment generated by the SEQBOOT program of PHYLIP v3.69 [29].",
+            "startOffset": 16352,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 22472,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Despite the overall tendency to lose homologs, a minimum of five mreB homologs are maintained at relatively conserved positions of the genome.",
+            "startOffset": 22330,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 12428,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12427,
+                    "startOffset": 12420
+                },
+                "b0035": {
+                    "endOffset": 12427,
+                    "startOffset": 12420
+                },
+                "b0040": {
+                    "endOffset": 12427,
+                    "startOffset": 12420
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In both Gram-positive and Gram-negative bacteria such as Bacillus subtilis, Escherichia coli, and Caulobacter crescentus, the mutation or depletion of actin-like MreB proteins resulted in disrupted cell shapes [1,7,8].",
+            "startOffset": 12210,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 15259,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "One representative from each of the two major Firmicutes classes was selected: B. subtilis (Bacilli) and Clostridium botulinum (Clostridia).",
+            "startOffset": 15119,
+            "title": "Taxon sampling for phylogenetic analyses"
+        },
+        {
+            "endOffset": 15737,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Multiple homologs of mreB in Spiroplasma were numbered according to their order in the chromosome (starting from dnaA).",
+            "startOffset": 15618,
+            "title": "Identification of mreB homologs"
+        },
+        {
+            "endOffset": 25798,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "In Spiroplasma, the different homologs may have assumed different functions and at least five homologs are maintained throughout their evolutionary history.",
+            "startOffset": 25642,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 24402,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0170": {
+                    "endOffset": 24401,
+                    "startOffset": 24397
+                }
+            },
+            "secId": "s0055",
+            "sentence": "The fibril ribbons are elastic, relatively stable, and were first isolated only one year after the discovery of spiroplasmas [34].",
+            "startOffset": 24272,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 19373,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Nucleotide sequences were used to provide better resolution.",
+            "startOffset": 19313,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 12889,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In Spiroplasma and Haloplasma, two bacterial genera without a cell wall, high copy numbers of mreB homologs have been identified.",
+            "startOffset": 12760,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19480,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This nucleotide sequence phylogeny (Fig. 1b) is largely congruent with that based on amino acid sequences.",
+            "startOffset": 19374,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 20302,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In terms of the relative positions from dnaA (the first gene downstream of the chromosome replication origin), the last four (five in S. culicicola and S. diminutum) homologs are located in a segment with positive GC-skew just upstream of dnaA.",
+            "startOffset": 20058,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 17090,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Protein-coding genes were clustered using OrthoMCL as described above.",
+            "startOffset": 17020,
+            "title": "Species phylogeny"
+        },
+        {
+            "endOffset": 17259,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Amino acid sequences of shared single-copy genes were extracted, aligned with MUSCLE, concatenated, and used for PhyML phylogenetic analyses with the WAG + I + G model.",
+            "startOffset": 17091,
+            "title": "Species phylogeny"
+        },
+        {
+            "endOffset": 16883,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Bootstrap supports were estimated as described above.",
+            "startOffset": 16830,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 18508,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0155": {
+                    "endOffset": 18507,
+                    "startOffset": 18503
+                }
+            },
+            "secId": "s0040",
+            "sentence": "This phylogenetic tree was rooted using the single-copy gene ftsA, the bacterial actin homolog most closely related to mreB [31].",
+            "startOffset": 18379,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 23227,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Although the function of this homolog is unknown, the release from selective constraint appears to be a plausible explanation for these observations.",
+            "startOffset": 23078,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 21869,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "We noted that the Citri-Chrysopicola clade has not retained a Clade I mreB homolog.",
+            "startOffset": 21786,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 22094,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, at approximately the same genomic position as in the Apis clade, the Citri-Chrysopicola clade has gained a Clade IV homolog, which is presumably a duplicate of the original Clade IV homolog located upstream of dnaA.",
+            "startOffset": 21870,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 24686,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 24685,
+                    "startOffset": 24679
+                },
+                "b0155": {
+                    "endOffset": 24685,
+                    "startOffset": 24679
+                }
+            },
+            "secId": "s0055",
+            "sentence": "It indicates the instability of the MreB filaments, which is consistent with the dynamic nature of actin homologs [7,31].",
+            "startOffset": 24565,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 14180,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 14179,
+                    "startOffset": 14175
+                }
+            },
+            "secId": "s0005",
+            "sentence": "A species phylogeny based on shared single-copy genes was reconstructed for Mollicutes, Haloplasma, and Firmicutes, which are closely related taxonomic groups based on 16S rRNA [16].",
+            "startOffset": 13998,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21785,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In total, we inferred two duplications and seven losses in Spiroplasma lineages.",
+            "startOffset": 21705,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 22329,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "The replacement by a duplicate of the closest homolog suggests that there is functional divergence between different mreB clades.",
+            "startOffset": 22200,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 26365,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Whether each of the Spiroplasma filaments is composed of one or more specific MreB homologs remains to be investigated.",
+            "startOffset": 26246,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 16162,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "A maximum likelihood phylogeny was inferred from amino acid sequences with the ftsA gene from S. melliferum, S. apis, and B. subtilis as the outgroup.",
+            "startOffset": 16012,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 17794,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In M. florum, a gene (Mfl003) with the product description \u201cactin-like protein\u201d was identified as an mreB homolog.",
+            "startOffset": 17680,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 12019,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "For a long time, the existence of actin or actin-like proteins in prokaryotic cells had remained questionable.",
+            "startOffset": 11909,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 25324,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "A possible mechanism for the alteration between contracted and relaxed states may be the regulation of MreB polymer structure by small molecules.",
+            "startOffset": 25179,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 14720,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 14571,
+                    "startOffset": 14567
+                },
+                "b0065": {
+                    "endOffset": 14666,
+                    "startOffset": 14662
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Because the two S. melliferum strains, IPMB4A [13] and KC3 [12], are 99.9% identical at the nucleotide sequence level in single-copy protein-coding genes [13], only the IPMB4A genome was used as a representative.",
+            "startOffset": 14508,
+            "title": "Taxon sampling for phylogenetic analyses"
+        },
+        {
+            "endOffset": 16599,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Another maximum likelihood phylogeny was inferred for mreB nucleotide sequences of all eight Spiroplasma species and M. florum.",
+            "startOffset": 16472,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 20935,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "By comparing the phylogeny of the mreB homologs (Fig. 1) and their genomic positions, we found that the order of members from the five mreB clades is also relatively conserved.",
+            "startOffset": 20759,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 22857,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 22856,
+                    "startOffset": 22852
+                }
+            },
+            "secId": "s0050",
+            "sentence": "This coincided with the loss of helical cell morphology and the fibril protein (fib), the constituent of a Spiroplasma-specific cytoskeletal filament [15].",
+            "startOffset": 22702,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 18164,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In comparison, the Firmicutes representatives, B. subtilis and C. botulinum, have only three and two mreB homologs, respectively.",
+            "startOffset": 18035,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 26553,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Using the six complete Spiroplasma genome sequences as a guide, the functional role of these mreB homologs shall be testable with genetic manipulations involving deletion and replacement.",
+            "startOffset": 26366,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 15416,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 15374,
+                    "startOffset": 15370
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Homologous gene clusters among the genome analyzed were inferred by OrthoMCL [23] with the e-value cutoff set to 1 \u00d7 10\u221215.",
+            "startOffset": 15293,
+            "title": "Identification of mreB homologs"
+        },
+        {
+            "endOffset": 23790,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Therefore, MreB may play different roles in walled and wall-less bacteria.",
+            "startOffset": 23716,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 15912,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0130": {
+                    "endOffset": 15911,
+                    "startOffset": 15907
+                }
+            },
+            "secId": "s0015",
+            "sentence": "For visualization of the chromosomal locations of these mreB homologs, the circular genome maps of the six complete Spiroplasma genome sequences were drawn using Circos [26].",
+            "startOffset": 15738,
+            "title": "Identification of mreB homologs"
+        },
+        {
+            "endOffset": 16351,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 16286,
+                    "startOffset": 16282
+                }
+            },
+            "secId": "s0020",
+            "sentence": "A gene tree was inferred using PhyML v3.0 [28] with the WAG + I + G model and six substitution rate categories.",
+            "startOffset": 16240,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 23541,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 23330,
+                    "startOffset": 23327
+                },
+                "b0080": {
+                    "endOffset": 23540,
+                    "startOffset": 23536
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Although MreB was first demonstrated as a cell-shape determining protein in bacteria [1], the major role of MreB seems not to be maintenance of a fixed shape in Haloplasma, which has a pleomorphic cell body with one or two protrusions that change drastically between straight and helical forms [16].",
+            "startOffset": 23242,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 12652,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12651,
+                    "startOffset": 12641
+                },
+                "b0015": {
+                    "endOffset": 12651,
+                    "startOffset": 12641
+                },
+                "b0040": {
+                    "endOffset": 12651,
+                    "startOffset": 12641
+                },
+                "b0045": {
+                    "endOffset": 12651,
+                    "startOffset": 12641
+                },
+                "b0050": {
+                    "endOffset": 12651,
+                    "startOffset": 12641
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Experimental evidence demonstrated that MreB homologs form helical filaments beneath the cell envelope that encircle the cell along its length and determine cell shapes through the control of cell wall synthesis [1,3,8\u201310].",
+            "startOffset": 12429,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17368,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Bootstrap supports were estimated from 1000 samples of alignment generated by the SEQBOOT program of PHYLIP.",
+            "startOffset": 17260,
+            "title": "Species phylogeny"
+        },
+        {
+            "endOffset": 22199,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "This is intriguing because Clade IV and Clade I are strongly supported as a monophyletic group (Fig. 1).",
+            "startOffset": 22095,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 25641,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Phylogenetic analyses indicate that the multiple mreB homologs in Spiroplasma and Haloplasma are the products of independent ancient duplications (Fig. 2).",
+            "startOffset": 25486,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 12991,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12990,
+                    "startOffset": 12985
+                },
+                "b0045": {
+                    "endOffset": 12990,
+                    "startOffset": 12985
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In all the other bacterial taxa characterized to date, at most three mreB homologs are present [1,9].",
+            "startOffset": 12890,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19162,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 19161,
+                    "startOffset": 19151
+                },
+                "b0095": {
+                    "endOffset": 19161,
+                    "startOffset": 19151
+                },
+                "b0110": {
+                    "endOffset": 19161,
+                    "startOffset": 19151
+                }
+            },
+            "secId": "s0040",
+            "sentence": "The observation that the Mesoplasma mreB is nested within a subclade of Spiroplasma mreB is consistent with the species phylogeny [18,19,22].",
+            "startOffset": 19021,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 20057,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The examination of four additional species indicated that this positional conservation exists in the more diverse Apis clade as well (Supplemental Fig. S1).",
+            "startOffset": 19901,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 21241,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Using the S. taiwanense genome as a reference, where a single member from each clade is found, the five clades can be named after their genomic position using Roman numerals, which are distinguished from the Arabic numbers in gene names that indicate the order of homologs in respective genomes (Fig. 1b).",
+            "startOffset": 20936,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 12209,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                },
+                "b0010": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                },
+                "b0015": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                },
+                "b0020": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                },
+                "b0025": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                },
+                "b0030": {
+                    "endOffset": 12208,
+                    "startOffset": 12203
+                }
+            },
+            "secId": "s0005",
+            "sentence": "It was only since the beginning of this century that the presence of diverse bacterial actin homologs and their crucial roles in cell shape determination have been widely appreciated [1\u20136].",
+            "startOffset": 12020,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 17019,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0025",
+            "sentence": "Two species phylogenies were reconstructed, one of which included E. coli K12 (Table 1) as the outgroup for rooting.",
+            "startOffset": 16903,
+            "title": "Species phylogeny"
+        },
+        {
+            "endOffset": 12760,
+            "parents": [],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 12759,
+                    "startOffset": 12754
+                },
+                "b0045": {
+                    "endOffset": 12759,
+                    "startOffset": 12754
+                }
+            },
+            "secId": "s0005",
+            "sentence": "This MreB-dependent mechanism of cell-shape determination is phylogenetically widespread in bacteria [1,9].",
+            "startOffset": 12653,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20415,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This segment is prominent in the second half of these chromosomes, where most other parts have negative GC-skew.",
+            "startOffset": 20303,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 23715,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 23714,
+                    "startOffset": 23704
+                },
+                "b0025": {
+                    "endOffset": 23714,
+                    "startOffset": 23704
+                },
+                "b0040": {
+                    "endOffset": 23714,
+                    "startOffset": 23704
+                },
+                "b0045": {
+                    "endOffset": 23714,
+                    "startOffset": 23704
+                },
+                "b0050": {
+                    "endOffset": 23714,
+                    "startOffset": 23704
+                }
+            },
+            "secId": "s0055",
+            "sentence": "More recent works have shown that MreB filaments control cell shapes mainly through guiding cell wall synthesis and do not have any structural role by themselves [3,5,8\u201310].",
+            "startOffset": 23542,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 26003,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 25927,
+                    "startOffset": 25923
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Since cryo-electron tomography revealed only one putative MreB ribbon in S. melliferum, which is composed of nine filaments [17], it is likely that all different MreB homologs are involved in this ribbon.",
+            "startOffset": 25799,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 24018,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Based on the similar motility and the presence of multiple mreB homologs in both Spiroplasma and Haloplasma, we argue that the major role of MreB proteins in these bacteria is related to motility rather than shape determination.",
+            "startOffset": 23790,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 18034,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 18033,
+                    "startOffset": 18028
+                },
+                "b0045": {
+                    "endOffset": 18033,
+                    "startOffset": 18028
+                }
+            },
+            "secId": "s0035",
+            "sentence": "Seven copies were found in S. culicicola and H. contractile, which is the highest number reported among the bacteria genomes examined [1,9].",
+            "startOffset": 17894,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 24823,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 24822,
+                    "startOffset": 24818
+                }
+            },
+            "secId": "s0055",
+            "sentence": "The dynamics of the MreB filaments may contribute to spiroplasmas\u2019 ability to lengthen or shorten the pitch of their helical cells [15].",
+            "startOffset": 24687,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 22563,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "However, the functional significance of this conservation in genomic locations is unclear.",
+            "startOffset": 22473,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 17679,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "In Acholeplasma and Mycoplasma, no mreB homolog was found, which is consistent with the original genome annotations.",
+            "startOffset": 17563,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 18378,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "To understand the relationships among the mreB homologs of Mollicutes, Haloplasma, and Firmicutes, we first reconstructed a gene tree based on the amino acid sequences (Fig. 1a).",
+            "startOffset": 18200,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 19603,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Five clades of Spiroplasma mreB homologs can be identified in both trees, which mainly differ in the placement of Clade V.",
+            "startOffset": 19481,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 24271,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 24270,
+                    "startOffset": 24263
+                },
+                "b0085": {
+                    "endOffset": 24270,
+                    "startOffset": 24263
+                }
+            },
+            "secId": "s0055",
+            "sentence": "The characteristic helical shape of Spiroplasma cells is likely attributed to their unique cytoskeletal element, the fibril protein, which is the building block for two helical cytoskeletal ribbons attached to the cell membrane from underneath [15,17].",
+            "startOffset": 24019,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 13767,
+            "parents": [],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 13733,
+                    "startOffset": 13726
+                },
+                "b0095": {
+                    "endOffset": 13733,
+                    "startOffset": 13726
+                },
+                "b0100": {
+                    "endOffset": 13733,
+                    "startOffset": 13726
+                },
+                "b0105": {
+                    "endOffset": 13733,
+                    "startOffset": 13726
+                }
+            },
+            "secId": "s0005",
+            "sentence": "To investigate the molecular evolution of the mreB gene family in wall-less bacteria, we took advantage of the recent availability of multiple complete genome sequences spanning most of the phylogenetic diversity within the genus Spiroplasma [18\u201321] to perform phylogenomic analysis.",
+            "startOffset": 13484,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 13342,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 13247,
+                    "startOffset": 13243
+                },
+                "b0080": {
+                    "endOffset": 13267,
+                    "startOffset": 13263
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In addition to being wall-less, these two genera are both characterized by their contractile helical cells [15] or protrusions [16], which are suggestive of the involvement of helical cytoskeletal elements.",
+            "startOffset": 13136,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 14507,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 14438,
+                    "startOffset": 14434
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Genome sequences of one Haloplasma species (the only species in this monotypic genus [16]) and eight Spiroplasma species were obtained from GenBank (Table 1).",
+            "startOffset": 14349,
+            "title": "Taxon sampling for phylogenetic analyses"
+        },
+        {
+            "endOffset": 21704,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "By integrating this species tree and the mreB gene tree (Fig. 1b), we reconstructed the most probable history of gene duplications and losses (Fig. 2).",
+            "startOffset": 21553,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 25486,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0175": {
+                    "endOffset": 25485,
+                    "startOffset": 25478
+                },
+                "b0180": {
+                    "endOffset": 25485,
+                    "startOffset": 25478
+                }
+            },
+            "secId": "s0055",
+            "sentence": "For example, it has been shown that in the presence of ATP/GTP or ADP/GDP, Thermotoga maritima MreB forms helical or linear protofilaments, respectively [35,36].",
+            "startOffset": 25325,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 14284,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This species phylogeny provides a framework for our inference of the gains and losses of mreB homologs.",
+            "startOffset": 14181,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 20759,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This relationship is disrupted only in S. melliferum and S. citri, where viral and other sequences are found between ppa and the mreB homolog.",
+            "startOffset": 20617,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 24968,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 24967,
+                    "startOffset": 24963
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Similarly, it may enable Haloplasma to alternate between a straight form and a contracted helical form with a period of only a few seconds [16].",
+            "startOffset": 24824,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 18660,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 18645,
+                    "startOffset": 18638
+                },
+                "b0095": {
+                    "endOffset": 18645,
+                    "startOffset": 18638
+                }
+            },
+            "secId": "s0040",
+            "sentence": "To avoid overrepresentation of the Spiroplasma sequences (44 out of 57), only those from the four more distantly related species [18,19] were included.",
+            "startOffset": 18509,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 21552,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 21424,
+                    "startOffset": 21417
+                },
+                "b0165": {
+                    "endOffset": 21424,
+                    "startOffset": 21417
+                }
+            },
+            "secId": "s0050",
+            "sentence": "Although the deep phylogenetic relationships between Mollicutes and Firmicutes remain largely uncertain [32,33], our genome-wide phylogenies point out that Mollicutes form a clade distinct from Haloplasma (Fig. 2 and Supplemental Fig. S2).",
+            "startOffset": 21313,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 16011,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "secId": "s0020",
+            "sentence": "Sequences of mreB homologs were parsed from the genomes.",
+            "startOffset": 15955,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 19312,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "We then utilized all the mreB homologs from Spiroplasma and Mesoplasma to build a phylogeny, which was rooted at the point inferred in the first tree.",
+            "startOffset": 19162,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 15118,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0090": {
+                    "endOffset": 15007,
+                    "startOffset": 15003
+                },
+                "b0110": {
+                    "endOffset": 14893,
+                    "startOffset": 14889
+                }
+            },
+            "secId": "s0070",
+            "sentence": "Other Mollicutes taxa that cover the diversity of this group were also included: four Mycoplasma species and Mesoplasma florum in the Mycoides-Entomoplasmataceae clade [22], two Mycoplasma species belonging to two clades outside of the Spiroplasma-Entomoplasmataceae-Mycoides clade [18], and Acholeplasma laidlawii (representing the Acholeplasmatales-Anaeroplasma-Phytoplasma clade of Mollicutes).",
+            "startOffset": 14721,
+            "title": "Taxon sampling for phylogenetic analyses"
+        },
+        {
+            "endOffset": 22701,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "In the common ancestor of the Mycoides-Entomoplasmataceae clade, all mreB genes, except for one Clade III homolog, had been lost (Fig. 2).",
+            "startOffset": 22563,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 13135,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 13086,
+                    "startOffset": 13082
+                },
+                "b0060": {
+                    "endOffset": 13109,
+                    "startOffset": 13102
+                },
+                "b0065": {
+                    "endOffset": 13109,
+                    "startOffset": 13102
+                },
+                "b0070": {
+                    "endOffset": 13134,
+                    "startOffset": 13130
+                }
+            },
+            "secId": "s0005",
+            "sentence": "However, five to seven mreB homologs were found in the draft genome sequences of S. citri [11], S. melliferum [12,13], and H. contractile [14].",
+            "startOffset": 12992,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19900,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 19876,
+                    "startOffset": 19872
+                },
+                "b0065": {
+                    "endOffset": 19899,
+                    "startOffset": 19895
+                },
+                "b0090": {
+                    "endOffset": 19684,
+                    "startOffset": 19680
+                }
+            },
+            "secId": "s0045",
+            "sentence": "In our previous study [18], we found that the chromosomal locations of mreB homologs are highly conserved in S. chrysopicola and S. syrphidicola, and even in the highly rearranged virus-invaded genomes of S. citri [11] and S. melliferum [13].",
+            "startOffset": 19658,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 17893,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "It is notable that all Spiroplasma genomes characterized to date have at least five mreB homologs.",
+            "startOffset": 17795,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 25178,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Given the distant relationship between Spiroplasma and Haloplasma (Fig. 2) and the independent mreB gene family expansions (Fig. 1a), their similarity in motility may have resulted from functional convergence.",
+            "startOffset": 24969,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 26733,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Additionally, investigations at the RNA and protein levels may provide insights into the expression levels of different homologs and their relative proportions in the MreB ribbon.",
+            "startOffset": 26554,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 23077,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0050",
+            "sentence": "Two features of the remaining mreB homolog in M. florum are worth noting: (1) the sequence divergence is extremely high (Fig. 1), and (2) the position had changed to the downstream of dnaN (near the replication origin).",
+            "startOffset": 22858,
+            "title": "Duplications and losses of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 16239,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 16212,
+                    "startOffset": 16208
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The sequences were aligned using MUSCLE v3.8 [27] with the default settings.",
+            "startOffset": 16163,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 17562,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "A total of 57 mreB homologs in the selected taxa were identified by a BLAST-based approach (Supplemental Table S1).",
+            "startOffset": 17447,
+            "title": "Numbers of mreB homologs in Spiroplasma and relatives"
+        },
+        {
+            "endOffset": 16829,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0150": {
+                    "endOffset": 16738,
+                    "startOffset": 16734
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The amino acid sequences from these nine species were aligned using MUSCLE, converted into nucleotide sequence alignment with PAL2NAL [30], and analyzed using PhyML with the GTR + I + G model and six substitution rate categories.",
+            "startOffset": 16600,
+            "title": "Molecular phylogeny of the mreB homologs"
+        },
+        {
+            "endOffset": 20516,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The first (second in S. culicicola) homolog is located about one third of the chromosome after dnaA.",
+            "startOffset": 20416,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        },
+        {
+            "endOffset": 19020,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This result indicates that despite the similar motility observed in Spiroplasma and Haloplasma, their multiple mreB homologs may have originated from independent gene family expansions.",
+            "startOffset": 18835,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 26245,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 26244,
+                    "startOffset": 26241
+                }
+            },
+            "secId": "s0055",
+            "sentence": "Such an association among different MreB homologs has been observed in B. subtilis, where all three homologs (MreB, Mbl, and MreBH) are almost completely co-localized, indicating they lie in close proximity in a single helical structure [5].",
+            "startOffset": 26004,
+            "title": "Implications"
+        },
+        {
+            "endOffset": 15617,
+            "parents": [
+                {
+                    "id": "s0010",
+                    "title": "Materials and methods"
+                }
+            ],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 15458,
+                    "startOffset": 15451
+                },
+                "b0125": {
+                    "endOffset": 15458,
+                    "startOffset": 15451
+                }
+            },
+            "secId": "s0015",
+            "sentence": "Genes that were assigned the KEGG [24,25] Orthology (KO) number K03569 (mreB) and other genes that were clustered in the same orthologous groups were regarded as mreB homologs (Supplemental Table S1).",
+            "startOffset": 15417,
+            "title": "Identification of mreB homologs"
+        },
+        {
+            "endOffset": 13484,
+            "parents": [],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 13483,
+                    "startOffset": 13479
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Based on cryo-electron tomography, it has been proposed that MreB possibly forms a helical ribbon along the length of Spiroplasma cells [17].",
+            "startOffset": 13343,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18834,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "The mreB homologs from Mollicutes, Haloplasma, and Firmicutes form three separate clades, among which the Haloplasma clade and the Firmicutes clade are more closely related.",
+            "startOffset": 18661,
+            "title": "Relationships among mreB homologs"
+        },
+        {
+            "endOffset": 20616,
+            "parents": [
+                {
+                    "id": "s0030",
+                    "title": "Results and discussion"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This homolog is invariably within 8 kb downstream of ppa (coding for an inorganic pyrophosphatase).",
+            "startOffset": 20517,
+            "title": "Genomic organization of mreB homologs in Spiroplasma"
+        }
+    ],
+    "docId": "S0006291X14004732",
+    "metadata": {
+        "asjc": [
+            "1303",
+            "1304",
+            "1307",
+            "1312"
+        ],
+        "authors": [
+            {
+                "email": null,
+                "first": "Chuan",
+                "initial": "C.",
+                "last": "Ku"
+            },
+            {
+                "email": null,
+                "first": "Wen Sui",
+                "initial": "W.S.",
+                "last": "Lo"
+            },
+            {
+                "email": "chk@gate.sinica.edu.tw",
+                "first": "Chih Horng",
+                "initial": "C.H.",
+                "last": "Kuo"
+            }
+        ],
+        "doi": "10.1016/j.bbrc.2014.03.039",
+        "firstpage": "927",
+        "issn": "0006291X",
+        "keywords": [
+            "Cytoskeleton",
+            "Haloplasma",
+            "Mollicutes",
+            "Spiroplasma",
+            "Wall-less bacteria",
+            "mreB"
+        ],
+        "lastpage": "932",
+        "openaccess": "Full",
+        "pub_year": 2014,
+        "subjareas": [
+            "BIOC"
+        ],
+        "title": "Molecular evolution of the actin-like MreB protein gene family in wall-less bacteria"
+    }
+}

@@ -1,0 +1,4689 @@
+{
+    "abstract": "The auditory and non-auditory effects of noise on health are today well known. A number of studies have recently shown that cyclists represent a population that is especially strongly exposed to noise in urban environments, particularly because of their proximity to road traffic. These studies have however very rarely examined the case of the cities of the South, despite the fact that these cities are known to have higher levels of exposure to noise. The objective of this article is therefore to analyze variations in cyclists\u2019 levels of noise exposure in Ho Chi Minh City (Vietnam) by integrating three dimensions: that is, the characteristics of the trip, neighbourhood effects, and the temporal dimension. Three participants cycled more than 1000 km in the city, equipped with noise dosimeters and GPS watches, for a total of 3300 one-minute segments, each of which measured noise intensity (LAeq dB(A)). It is not surprising that the levels of exposure registered were particularly high (average 78.8 dB(A)), notably compared with earlier studies conducted in Europe and North America. The use of generalized additive models in particular made it possible to highlight the effect of the complex interaction between the slope and the cyclists\u2019 speed on the levels of noise exposure, the effect and duration of the morning and afternoon rush hour periods, and the spatial distribution of residual environmental noise. One of the main findings was that in sectors with the highest levels of exposure to noise (central neighbourhoods or areas near the airport), these levels are up to four times higher than in more peripheral or rural areas.",
+    "author_highlights": [
+        {
+            "endOffset": 13475,
+            "sentence": "Worrisome levels of exposure to noise for cyclists were recorded (mean = 78.8 dB(A)).",
+            "startOffset": 13390
+        },
+        {
+            "endOffset": 13559,
+            "sentence": "The exposure vary spatially and temporally, following trends identified with a GAM.",
+            "startOffset": 13476
+        },
+        {
+            "endOffset": 13642,
+            "sentence": "The central areas exhibit higher levels of noise (\u223c6 dB(A)) than peripheral areas.",
+            "startOffset": 13560
+        },
+        {
+            "endOffset": 13726,
+            "sentence": "Noise exposure is more than twice higher on primary roads than residential streets.",
+            "startOffset": 13643
+        }
+    ],
+    "bib_entries": {
+        "b0005": null,
+        "b0010": {
+            "authors": [
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Apparicio"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Carrier"
+                },
+                {
+                    "first": "J\u00e9r\u00e9my",
+                    "initial": "J.",
+                    "last": "Gelb"
+                },
+                {
+                    "first": "Anne Marie",
+                    "initial": "A.M.",
+                    "last": "S\u00e9guin"
+                },
+                {
+                    "first": "Simon",
+                    "initial": "S.",
+                    "last": "Kingham"
+                }
+            ],
+            "doi": "10.1016/j.jtrangeo.2016.09.014",
+            "firstpage": "63",
+            "issn": "09666923",
+            "lastpage": "69",
+            "pub_year": 2016,
+            "title": "Cyclists\u2019 exposure to air pollution and road traffic noise in central city neighbourhoods of Montreal",
+            "volume": "57"
+        },
+        "b0015": {
+            "authors": [
+                {
+                    "first": "Philippe",
+                    "initial": "P.",
+                    "last": "Apparicio"
+                },
+                {
+                    "first": "J\u00e9r\u00e9my",
+                    "initial": "J.",
+                    "last": "Gelb"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Carrier"
+                },
+                {
+                    "first": "Marie \u00c8ve",
+                    "initial": "M.\u00c8.",
+                    "last": "Mathieu"
+                },
+                {
+                    "first": "Simon",
+                    "initial": "S.",
+                    "last": "Kingham"
+                }
+            ],
+            "doi": "10.1016/j.jtrangeo.2018.06.007",
+            "firstpage": "182",
+            "issn": "09666923",
+            "lastpage": "192",
+            "pub_year": 2018,
+            "title": "Exposure to noise and air pollution by mode of transportation during rush hours in Montreal",
+            "volume": "70"
+        },
+        "b0020": null,
+        "b0025": {
+            "authors": [
+                {
+                    "first": "Mathias",
+                    "initial": "M.",
+                    "last": "Basner"
+                },
+                {
+                    "first": "Wolfgang",
+                    "initial": "W.",
+                    "last": "Babisch"
+                },
+                {
+                    "first": "Adrian",
+                    "initial": "A.",
+                    "last": "Davis"
+                },
+                {
+                    "first": "Mark",
+                    "initial": "M.",
+                    "last": "Brink"
+                },
+                {
+                    "first": "Charlotte",
+                    "initial": "C.",
+                    "last": "Clark"
+                },
+                {
+                    "first": "Sabine",
+                    "initial": "S.",
+                    "last": "Janssen"
+                },
+                {
+                    "first": "Stephen",
+                    "initial": "S.",
+                    "last": "Stansfeld"
+                }
+            ],
+            "doi": "10.1016/S0140-6736(13)61613-X",
+            "firstpage": "1325",
+            "issn": "01406736",
+            "lastpage": "1332",
+            "pmid": "24183105",
+            "pub_year": 2014,
+            "title": "Auditory and non-auditory effects of noise on health",
+            "volume": "383"
+        },
+        "b0030": null,
+        "b0035": null,
+        "b0040": {
+            "authors": [
+                {
+                    "first": "Hanna",
+                    "initial": "H.",
+                    "last": "Boogaard"
+                },
+                {
+                    "first": "Frank",
+                    "initial": "F.",
+                    "last": "Borgman"
+                },
+                {
+                    "first": "Jaap",
+                    "initial": "J.",
+                    "last": "Kamminga"
+                },
+                {
+                    "first": "Gerard",
+                    "initial": "G.",
+                    "last": "Hoek"
+                }
+            ],
+            "doi": "10.1016/j.atmosenv.2009.05.035",
+            "firstpage": "4234",
+            "issn": "13522310",
+            "lastpage": "4242",
+            "pub_year": 2009,
+            "title": "Exposure to ultrafine and fine particles and noise during cycling and driving in 11 Dutch cities",
+            "volume": "43"
+        },
+        "b0045": null,
+        "b0050": null,
+        "b0055": null,
+        "b0060": null,
+        "b0065": {
+            "authors": [
+                {
+                    "first": "Luc",
+                    "initial": "L.",
+                    "last": "Dekoninck"
+                },
+                {
+                    "first": "Dick",
+                    "initial": "D.",
+                    "last": "Botteldooren"
+                },
+                {
+                    "first": "Luc",
+                    "initial": "L.",
+                    "last": "Int Panis"
+                }
+            ],
+            "doi": "10.1016/j.envint.2015.07.001",
+            "firstpage": "192",
+            "issn": "01604120",
+            "lastpage": "201",
+            "pmid": "26177149",
+            "pub_year": 2015,
+            "title": "Using city-wide mobile noise assessments to estimate bicycle trip annual exposure to Black Carbon",
+            "volume": "83"
+        },
+        "b0070": {
+            "authors": [
+                {
+                    "first": "Carsten",
+                    "initial": "C.",
+                    "last": "F. Dormann"
+                },
+                {
+                    "first": "Jana",
+                    "initial": "J.",
+                    "last": "M. McPherson"
+                },
+                {
+                    "first": "Miguel",
+                    "initial": "M.",
+                    "last": "B. Ara\u00fajo"
+                },
+                {
+                    "first": "Roger",
+                    "initial": "R.",
+                    "last": "Bivand"
+                },
+                {
+                    "first": "Janine",
+                    "initial": "J.",
+                    "last": "Bolliger"
+                },
+                {
+                    "first": "Gudrun",
+                    "initial": "G.",
+                    "last": "Carl"
+                },
+                {
+                    "first": "Richard",
+                    "initial": "R.",
+                    "last": "G. Davies"
+                },
+                {
+                    "first": "Alexandre",
+                    "initial": "A.",
+                    "last": "Hirzel"
+                },
+                {
+                    "first": "Walter",
+                    "initial": "W.",
+                    "last": "Jetz"
+                },
+                {
+                    "first": "W.",
+                    "initial": "W.",
+                    "last": "Daniel Kissling"
+                },
+                {
+                    "first": "Ingolf",
+                    "initial": "I.",
+                    "last": "K\u00fchn"
+                },
+                {
+                    "first": "Ralf",
+                    "initial": "R.",
+                    "last": "Ohlem\u00fcller"
+                },
+                {
+                    "first": "Pedro",
+                    "initial": "P.",
+                    "last": "R. Peres-Neto"
+                },
+                {
+                    "first": "Bj\u00f6rn",
+                    "initial": "B.",
+                    "last": "Reineking"
+                },
+                {
+                    "first": "Boris",
+                    "initial": "B.",
+                    "last": "Schr\u00f6der"
+                },
+                {
+                    "first": "Frank",
+                    "initial": "F.",
+                    "last": "M. Schurr"
+                },
+                {
+                    "first": "Robert",
+                    "initial": "R.",
+                    "last": "Wilson"
+                }
+            ],
+            "doi": "10.1111/j.2007.0906-7590.05171.x",
+            "firstpage": "609",
+            "issn": "09067590",
+            "lastpage": "628",
+            "pub_year": 2007,
+            "title": "Methods to account for spatial autocorrelation in the analysis of species distributional data: A review",
+            "volume": "30"
+        },
+        "b0075": {
+            "authors": [
+                {
+                    "first": "Nigel K.",
+                    "initial": "N.K.",
+                    "last": "Downes"
+                },
+                {
+                    "first": "Harry",
+                    "initial": "H.",
+                    "last": "Storch"
+                },
+                {
+                    "first": "Michael",
+                    "initial": "M.",
+                    "last": "Schmidt"
+                },
+                {
+                    "first": "Thi Cam",
+                    "initial": "T.C.",
+                    "last": "Van Nguyen"
+                },
+                {
+                    "first": "Le Canh",
+                    "initial": "L.C.",
+                    "last": "Dinh"
+                },
+                {
+                    "first": "Thong Nhat",
+                    "initial": "T.N.",
+                    "last": "Tran"
+                },
+                {
+                    "first": "Le Thanh",
+                    "initial": "L.T.",
+                    "last": "Hoa"
+                }
+            ],
+            "doi": "10.1007/978-3-319-04615-0_6",
+            "firstpage": "89",
+            "lastpage": "116",
+            "pub_year": 2015,
+            "title": "Understanding Ho Chi Minh City\u2019s urban structures for urban land-use monitoring and risk-adapted land-use planning"
+        },
+        "b0080": null,
+        "b0085": null,
+        "b0090": {
+            "authors": [
+                {
+                    "first": "Mordechai",
+                    "initial": "M.",
+                    "last": "Haklay"
+                },
+                {
+                    "first": "Patrick",
+                    "initial": "P.",
+                    "last": "Weber"
+                }
+            ],
+            "doi": "10.1109/MPRV.2008.80",
+            "firstpage": "12",
+            "issn": "15361268",
+            "lastpage": "18",
+            "pub_year": 2008,
+            "title": "OpenStreet map: User-generated street maps",
+            "volume": "7"
+        },
+        "b0095": null,
+        "b0100": {
+            "authors": [
+                {
+                    "first": "Du",
+                    "initial": "D.",
+                    "last": "Huynh"
+                }
+            ],
+            "doi": "10.1016/j.habitatint.2015.03.007",
+            "firstpage": "11",
+            "issn": "01973975",
+            "lastpage": "19",
+            "pub_year": 2015,
+            "title": "The misuse of urban planning in Ho Chi Minh City",
+            "volume": "48"
+        },
+        "b0105": {
+            "authors": [
+                {
+                    "first": "H.",
+                    "initial": "H.",
+                    "last": "Ising"
+                },
+                {
+                    "first": "B.",
+                    "initial": "B.",
+                    "last": "Kruppa"
+                }
+            ],
+            "firstpage": "5",
+            "issn": "14631741",
+            "lastpage": "13",
+            "pmid": "15070524",
+            "pub_year": 2004,
+            "title": "Health effects caused by noise: Evidence in the literature from the past 25 years",
+            "volume": "6"
+        },
+        "b0110": {
+            "authors": [
+                {
+                    "first": "Kim",
+                    "initial": "K.",
+                    "last": "Jraiw"
+                }
+            ],
+            "doi": "10.3141/1846-04",
+            "firstpage": "19",
+            "issn": "03611981",
+            "lastpage": "25",
+            "pub_year": 2003,
+            "title": "Urban road transport in Asia's developing countries: Safety and efficiency strategy"
+        },
+        "b0115": {
+            "authors": [
+                {
+                    "first": "Jibran",
+                    "initial": "J.",
+                    "last": "Khan"
+                },
+                {
+                    "first": "Matthias",
+                    "initial": "M.",
+                    "last": "Ketzel"
+                },
+                {
+                    "first": "Konstantinos",
+                    "initial": "K.",
+                    "last": "Kakosimos"
+                },
+                {
+                    "first": "Mette",
+                    "initial": "M.",
+                    "last": "S\u00f8rensen"
+                },
+                {
+                    "first": "Steen Solvang",
+                    "initial": "S.S.",
+                    "last": "Jensen"
+                }
+            ],
+            "doi": "10.1016/j.scitotenv.2018.03.374",
+            "firstpage": "661",
+            "issn": "00489697",
+            "lastpage": "676",
+            "pmid": "29642048",
+            "pub_year": 2018,
+            "title": "Road traffic air and noise pollution exposure assessment \u2013 A review of tools and techniques",
+            "volume": "634"
+        },
+        "b0120": {
+            "authors": [
+                {
+                    "first": "Ming Yeng",
+                    "initial": "M.Y.",
+                    "last": "Lin"
+                },
+                {
+                    "first": "Yi Xin",
+                    "initial": "Y.X.",
+                    "last": "Guo"
+                },
+                {
+                    "first": "Yu Cheng",
+                    "initial": "Y.C.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Wei Ting",
+                    "initial": "W.T.",
+                    "last": "Chen"
+                },
+                {
+                    "first": "Li Hao",
+                    "initial": "L.H.",
+                    "last": "Young"
+                },
+                {
+                    "first": "Kuo Jung",
+                    "initial": "K.J.",
+                    "last": "Lee"
+                },
+                {
+                    "first": "Zhu You",
+                    "initial": "Z.Y.",
+                    "last": "Wu"
+                },
+                {
+                    "first": "Perng Jy",
+                    "initial": "P.J.",
+                    "last": "Tsai"
+                }
+            ],
+            "doi": "10.1016/j.scitotenv.2018.04.248",
+            "firstpage": "1139",
+            "issn": "00489697",
+            "lastpage": "1148",
+            "pmid": "29913576",
+            "pub_year": 2018,
+            "title": "An instantaneous spatiotemporal model for predicting traffic-related ultrafine particle concentration through mobile noise measurements",
+            "volume": "636"
+        },
+        "b0125": {
+            "authors": [],
+            "doi": "10.1136/bmj.2.5462.605",
+            "firstpage": "605",
+            "issn": "00071447",
+            "pmid": "14331617",
+            "pub_year": 1965,
+            "title": "Noise and its Effects",
+            "volume": "2"
+        },
+        "b0130": {
+            "authors": [
+                {
+                    "first": "P. A.",
+                    "initial": "P.A.",
+                    "last": "MORAN"
+                }
+            ],
+            "doi": "10.1093/biomet/37.1-2.17",
+            "firstpage": "17",
+            "issn": "00063444",
+            "lastpage": "23",
+            "pmid": "15420245",
+            "pub_year": 1950,
+            "title": "Notes on continuous stochastic phenomena.",
+            "volume": "37"
+        },
+        "b0135": {
+            "authors": [
+                {
+                    "first": "T. L.",
+                    "initial": "T.L.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "H. Q.",
+                    "initial": "H.Q.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Nishimura"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "T.",
+                    "initial": "T.",
+                    "last": "Morihara"
+                },
+                {
+                    "first": "Y.",
+                    "initial": "Y.",
+                    "last": "Hashimoto"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2012.04.005",
+            "firstpage": "952",
+            "issn": "0003682X",
+            "lastpage": "959",
+            "pub_year": 2012,
+            "title": "Comparison of models to predict annoyance from combined noise in Ho Chi Minh City and Hanoi",
+            "volume": "73"
+        },
+        "b0140": {
+            "authors": [
+                {
+                    "first": "Thanh Bao",
+                    "initial": "T.B.",
+                    "last": "Nguyen"
+                },
+                {
+                    "first": "D. Ary A.",
+                    "initial": "D.A.A.",
+                    "last": "Samsura"
+                },
+                {
+                    "first": "Erwin",
+                    "initial": "E.",
+                    "last": "van der Krabben"
+                },
+                {
+                    "first": "Anh Duc",
+                    "initial": "A.D.",
+                    "last": "Le"
+                }
+            ],
+            "doi": "10.1016/j.cities.2015.08.007",
+            "firstpage": "16",
+            "issn": "02642751",
+            "lastpage": "27",
+            "pub_year": 2016,
+            "title": "Saigon-Ho Chi Minh City",
+            "volume": "50"
+        },
+        "b0145": {
+            "authors": [
+                {
+                    "first": "Enembe O.",
+                    "initial": "E.O.",
+                    "last": "Okokon"
+                },
+                {
+                    "first": "Tarja",
+                    "initial": "T.",
+                    "last": "Yli-Tuomi"
+                },
+                {
+                    "first": "Anu W.",
+                    "initial": "A.W.",
+                    "last": "Turunen"
+                },
+                {
+                    "first": "Pekka",
+                    "initial": "P.",
+                    "last": "Taimisto"
+                },
+                {
+                    "first": "Arto",
+                    "initial": "A.",
+                    "last": "Pennanen"
+                },
+                {
+                    "first": "Ilias",
+                    "initial": "I.",
+                    "last": "Vouitsis"
+                },
+                {
+                    "first": "Zissis",
+                    "initial": "Z.",
+                    "last": "Samaras"
+                },
+                {
+                    "first": "Marita",
+                    "initial": "M.",
+                    "last": "Voogt"
+                },
+                {
+                    "first": "Menno",
+                    "initial": "M.",
+                    "last": "Keuken"
+                },
+                {
+                    "first": "Timo",
+                    "initial": "T.",
+                    "last": "Lanki"
+                }
+            ],
+            "doi": "10.1016/j.envres.2016.12.012",
+            "firstpage": "181",
+            "issn": "00139351",
+            "lastpage": "189",
+            "pmid": "28088011",
+            "pub_year": 2017,
+            "title": "Particulates and noise exposure during bicycle, bus and car commuting: A study in three European cities",
+            "volume": "154"
+        },
+        "b0150": {
+            "authors": [
+                {
+                    "first": "Marco",
+                    "initial": "M.",
+                    "last": "Paviotti"
+                },
+                {
+                    "first": "Konstantinos",
+                    "initial": "K.",
+                    "last": "Vogiatzis"
+                }
+            ],
+            "doi": "10.1016/j.scitotenv.2012.05.010",
+            "firstpage": "223",
+            "issn": "00489697",
+            "lastpage": "230",
+            "pmid": "22659285",
+            "pub_year": 2012,
+            "title": "On the outdoor annoyance from scooter and motorbike noise in the urban environment",
+            "volume": "430"
+        },
+        "b0155": {
+            "authors": [
+                {
+                    "first": "Hai Anh Thi",
+                    "initial": "H.A.T.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "Hai Yen Thi",
+                    "initial": "H.Y.T.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Tsuyoshi",
+                    "initial": "T.",
+                    "last": "Nishimura"
+                },
+                {
+                    "first": "Tetsumi",
+                    "initial": "T.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Yoritaka",
+                    "initial": "Y.",
+                    "last": "Hashimoto"
+                }
+            ],
+            "doi": "10.1250/ast.30.327",
+            "firstpage": "327",
+            "issn": "13463969",
+            "lastpage": "337",
+            "pub_year": 2009,
+            "title": "Annoyance caused by road traffic noise with and without horn sounds",
+            "volume": "30"
+        },
+        "b0160": {
+            "authors": [
+                {
+                    "first": "Hai Yen Thi",
+                    "initial": "H.Y.T.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "Tetsumi",
+                    "initial": "T.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Tsuyoshi",
+                    "initial": "T.",
+                    "last": "Nishimura"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2009.11.008",
+            "firstpage": "479",
+            "issn": "0003682X",
+            "lastpage": "485",
+            "pub_year": 2010,
+            "title": "Characteristics of road traffic noise in Hanoi and Ho Chi Minh City, Vietnam",
+            "volume": "71"
+        },
+        "b0165": {
+            "authors": [
+                {
+                    "first": "Hai Yen Thi",
+                    "initial": "H.Y.T.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Takashi",
+                    "initial": "T.",
+                    "last": "Yano"
+                },
+                {
+                    "first": "Hai Anh Thi",
+                    "initial": "H.A.T.",
+                    "last": "Phan"
+                },
+                {
+                    "first": "Tsuyoshi",
+                    "initial": "T.",
+                    "last": "Nishimura"
+                },
+                {
+                    "first": "Tetsumi",
+                    "initial": "T.",
+                    "last": "Sato"
+                },
+                {
+                    "first": "Yoritaka",
+                    "initial": "Y.",
+                    "last": "Hashimoto"
+                }
+            ],
+            "doi": "10.1016/j.apacoust.2009.08.004",
+            "firstpage": "107",
+            "issn": "0003682X",
+            "lastpage": "114",
+            "pub_year": 2010,
+            "title": "Community responses to road traffic noise in Hanoi and Ho Chi Minh City",
+            "volume": "71"
+        },
+        "b0170": {
+            "authors": [
+                {
+                    "first": "Martina S.",
+                    "initial": "M.S.",
+                    "last": "Ragettli"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Goudreau"
+                },
+                {
+                    "first": "C\u00e9line",
+                    "initial": "C.",
+                    "last": "Plante"
+                },
+                {
+                    "first": "Michel",
+                    "initial": "M.",
+                    "last": "Fournier"
+                },
+                {
+                    "first": "Marianne",
+                    "initial": "M.",
+                    "last": "Hatzopoulou"
+                },
+                {
+                    "first": "St\u00e9phane",
+                    "initial": "S.",
+                    "last": "Perron"
+                },
+                {
+                    "first": "Audrey",
+                    "initial": "A.",
+                    "last": "Smargiassi"
+                }
+            ],
+            "doi": "10.1038/jes.2015.82",
+            "firstpage": "597",
+            "issn": "15590631",
+            "lastpage": "605",
+            "pmid": "26732373",
+            "pub_year": 2016,
+            "title": "Statistical modeling of the spatial variability of environmental noise levels in Montreal, Canada, using noise measurements and land use characteristics",
+            "volume": "26"
+        },
+        "b0175": null,
+        "b0180": {
+            "authors": [
+                {
+                    "first": "Stephen A.",
+                    "initial": "S.A.",
+                    "last": "Stansfeld"
+                },
+                {
+                    "first": "Mark P.",
+                    "initial": "M.P.",
+                    "last": "Matheson"
+                }
+            ],
+            "doi": "10.1093/bmb/ldg033",
+            "firstpage": "243",
+            "issn": "00071420",
+            "lastpage": "257",
+            "pmid": "14757721",
+            "pub_year": 2003,
+            "title": "Noise pollution: Non-auditory effects on health",
+            "volume": "68"
+        },
+        "b0185": {
+            "authors": [
+                {
+                    "first": "Quentin M.",
+                    "initial": "Q.M.",
+                    "last": "Tenailleau"
+                },
+                {
+                    "first": "Nadine",
+                    "initial": "N.",
+                    "last": "Bernard"
+                },
+                {
+                    "first": "Sophie",
+                    "initial": "S.",
+                    "last": "Pujol"
+                },
+                {
+                    "first": "Anne Laure",
+                    "initial": "A.L.",
+                    "last": "Parmentier"
+                },
+                {
+                    "first": "Mathieu",
+                    "initial": "M.",
+                    "last": "Boilleaut"
+                },
+                {
+                    "first": "H\u00e9l\u00e8ne",
+                    "initial": "H.",
+                    "last": "Houot"
+                },
+                {
+                    "first": "Daniel",
+                    "initial": "D.",
+                    "last": "Joly"
+                },
+                {
+                    "first": "Fr\u00e9d\u00e9ric",
+                    "initial": "F.",
+                    "last": "Mauny"
+                }
+            ],
+            "doi": "10.1016/j.envpol.2016.04.082",
+            "firstpage": "767",
+            "issn": "02697491",
+            "lastpage": "775",
+            "pmid": "27155094",
+            "pub_year": 2016,
+            "title": "Do outdoor environmental noise and atmospheric NO2 levels spatially overlap in urban areas?",
+            "volume": "214"
+        },
+        "b0190": null,
+        "b0195": {
+            "authors": [
+                {
+                    "first": "Simon N.",
+                    "initial": "S.N.",
+                    "last": "Wood"
+                }
+            ],
+            "doi": "10.1111/j.1467-9868.2010.00749.x",
+            "firstpage": "3",
+            "issn": "13697412",
+            "lastpage": "36",
+            "pub_year": 2011,
+            "title": "Fast stable restricted maximum likelihood and marginal likelihood estimation of semiparametric generalized linear models",
+            "volume": "73"
+        },
+        "b0200": {
+            "authors": [
+                {
+                    "first": "Simon N.",
+                    "initial": "S.N.",
+                    "last": "Wood"
+                },
+                {
+                    "first": "Natalya",
+                    "initial": "N.",
+                    "last": "Pya"
+                },
+                {
+                    "first": "Benjamin",
+                    "initial": "B.",
+                    "last": "S\u00e4fken"
+                }
+            ],
+            "doi": "10.1080/01621459.2016.1180986",
+            "firstpage": "1548",
+            "issn": "01621459",
+            "lastpage": "1563",
+            "pub_year": 2016,
+            "title": "Smoothing Parameter and Model Selection for General Smooth Models",
+            "volume": "111"
+        },
+        "b0205": null,
+        "b0210": null,
+        "b0215": null,
+        "b0220": {
+            "authors": [
+                {
+                    "first": "Christopher M.K.L.",
+                    "initial": "C.M.K.L.",
+                    "last": "Yao"
+                },
+                {
+                    "first": "Andrew K.",
+                    "initial": "A.K.",
+                    "last": "Ma"
+                },
+                {
+                    "first": "Sharon L.",
+                    "initial": "S.L.",
+                    "last": "Cushing"
+                },
+                {
+                    "first": "Vincent Y.W.",
+                    "initial": "V.Y.W.",
+                    "last": "Lin"
+                }
+            ],
+            "doi": "10.1186/s40463-017-0239-6",
+            "issn": "19160216",
+            "pmid": "29166946",
+            "pub_year": 2017,
+            "title": "Noise exposure while commuting in Toronto - A study of personal and public transportation in Toronto",
+            "volume": "46"
+        }
+    },
+    "body_text": [
+        {
+            "endOffset": 32754,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As for the speed of the cyclist\u2019s travel, this can be considered as a complementary proxy to traffic.",
+            "startOffset": 32653,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 43226,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "By observing the values of the intercepts and the standard deviations of their estimates (Fig. 3, the 0 represent the global intercept of the model), it can be clearly seen that the exposure levels are lower in peripheral areas (02, 07, TD, and 01 neighbourhoods, and rural areas) than in central neighbourhoods (09, TB, GV, 11, and 10).",
+            "startOffset": 42889,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 20619,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "If we refer to the thresholds established by the WHO, these results are worrisome.",
+            "startOffset": 20537,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 22874,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Finally, noise exposure levels were highest on arterial roads and lowest on off-street bicycle paths.",
+            "startOffset": 22773,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 22468,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The independent variables considered include the windspeed, day of the week, time of day, type of street taken, vegetation, density of the built environment, green spaces, and diversity of land uses.",
+            "startOffset": 22269,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 53702,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Secondly, using a typology of roads as a traffic indicator does not enable one to distinguish between the effect of the traffic and the effect of the type of road.",
+            "startOffset": 53539,
+            "title": "Limitations of the study"
+        },
+        {
+            "endOffset": 24116,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The example of the time of day is proof of this.",
+            "startOffset": 24068,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 55963,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "They reported in particular aircraft noise exposure indicators (LAeq, day 7:00 a.m.\u22127:00 p.m.) ranging from 52.0 dB to 65.8 dB in the ten locations studied, and road traffic noise exposure indicators varying from 69.3 dB to 76.9 dB, for combined totals ranging from 69.4 dB to 76.9 dB.",
+            "startOffset": 55678,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 24815,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In addition to this is the fact that the distance to the noise sources plays a part in exponentially reducing noise intensity, since noise spreads in space in the form of a sphere, with the intensity of noise distributed over the entire surface of this sphere.",
+            "startOffset": 24555,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 49987,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "For the time of day, we find that noise exposure levels are especially high between 7:00 a.m. and 9:00 a.m., which corresponds to the morning rush hour period (Fig. 6).",
+            "startOffset": 49819,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 49819,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "For each of these terms, we intend to analyze the values predicted by the model, in keeping all other variables at their mean value and in using Monday as the day of the week, with 30 s spent on a primary road and 30 s on a secondary road.",
+            "startOffset": 49580,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 22152,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This study also proposed a linear modelling exercise, with the level of noise measured with a dosimeter as the dependent variable.",
+            "startOffset": 22022,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 16713,
+            "parents": [],
+            "refoffsets": {
+                "b0115": {
+                    "endOffset": 16653,
+                    "startOffset": 16649
+                }
+            },
+            "secId": "s0005",
+            "sentence": "But in a recent systematic review of exposure to air and noise pollution stemming from road traffic, Khan et al. [23] note that the cities of the South have been little studied.",
+            "startOffset": 16536,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 42546,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "This indicates a substantial effect of the random part of the model, and thus a real variation in terms of noise exposure from one neighbourhood to another, all other things being equal.",
+            "startOffset": 42360,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 23556,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "First, they do not take into account or distinguish between spatial and temporal autocorrelation, which may lead to bias in the estimation of their parameters.",
+            "startOffset": 23397,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 24554,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The traditional response to this problem is to add dummy variables for each period of the day, but this means making an arbitrary division that is not easy to justify.",
+            "startOffset": 24387,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 54920,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 54857,
+                    "startOffset": 54854
+                },
+                "b0040": {
+                    "endOffset": 54835,
+                    "startOffset": 54832
+                },
+                "b0145": {
+                    "endOffset": 54919,
+                    "startOffset": 54915
+                }
+            },
+            "secId": "s0095",
+            "sentence": "It is interesting to compare the noise levels recorded here to those found in other European and North American cities: from 63 to 65 dB(A) in eleven Dutch cities [8], 70.5 in Montreal [2], 70 in Rotterdam, 73 in Helsinki, and 75 in Thessaloniki [29].",
+            "startOffset": 54669,
+            "title": "Worrisome noise levels"
+        },
+        {
+            "endOffset": 25560,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "With 8.4 million inhabitants and a density of nearly 4,000 inhabitants per km2 in 2016, HCMC is the largest city in Vietnam.",
+            "startOffset": 25436,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 38495,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "If not, they are considered as spatially or temporally dependent.",
+            "startOffset": 38430,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 50844,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The graph reveals several interesting findings.",
+            "startOffset": 50797,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 20827,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0035": {
+                    "endOffset": 20826,
+                    "startOffset": 20823
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Indeed, levels higher than 55 dB(A) during the day and evening are considered as a serious annoyance; and levels higher than 70 dB(A) may have significant impacts on health, including hearing impairment [7].",
+            "startOffset": 20620,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 18777,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Road traffic is the most important source of environmental noise.",
+            "startOffset": 18712,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 46983,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "And, second (Fig. 4b), the residuals are very close to a normal distribution (skewness = 0.008, and kurtosis = 3.078, p-value with the Shapiro test = 0.53).",
+            "startOffset": 46827,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 51123,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Second, when the speed increases (25 km/h and over), noise levels also tend to rise.",
+            "startOffset": 51039,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 51812,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Finally, to illustrate the spatial pattern of noise exposure, the spatial term of the model can be mapped (Fig. 8).",
+            "startOffset": 51697,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 20979,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In the second stream of studies, it is a matter of analyzing the characteristics of the trip that together increase or reduce cyclists\u2019 exposure levels.",
+            "startOffset": 20827,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 17162,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This is all the more surprising in that many cities in the South, especially those in East and Southeast Asia, are currently experiencing major changes, the combined effects of which are increasing noise levels.",
+            "startOffset": 16951,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46360,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "A direct comparison based on the R2 values of these two models is however difficult, as the second includes an AR1 temporal autocorrelation structure.",
+            "startOffset": 46210,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 24869,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "The aim of the study is twofold.",
+            "startOffset": 24837,
+            "title": "Research objectives"
+        },
+        {
+            "endOffset": 56832,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "This means that in the central sectors or areas near the airport, noise exposure levels are up to four times higher than in rural or less dense environments.",
+            "startOffset": 56675,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 22613,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Notably, the models revealed that noise varied significantly depending on the time of day and was at its maximum between 7:00 a.m. and 9:00 a.m.",
+            "startOffset": 22469,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 43780,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Although interesting, this GAMM model presents a problem of both spatial and temporal dependence.",
+            "startOffset": 43683,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 51516,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "This could perhaps be explained by motorists\u2019 more frequent use of the horn when traffic is congested in HCMC.",
+            "startOffset": 51406,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 29907,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Three participants cycled through the streets of the city Monday to Saturday from July 8 to July 20, 2017.",
+            "startOffset": 29801,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 20351,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0145": {
+                    "endOffset": 20086,
+                    "startOffset": 20082
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Similarly, Okokon et al. [29] reported higher noise exposure levels for cyclists than for public transport users or motorists in Helsinki, Finland (73, 71, and 67 dB(A) respectively), Thessaloniki, Greece (75, 74, 71 dB(A)), and Rotterdam, the Netherlands (70, 71, not available for motorists).",
+            "startOffset": 20057,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 44462,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "a (left side) clearly shows that the model is poorly adjusted for these extreme values (lower than 70 dB(A) or higher than 90 dB(A)).",
+            "startOffset": 44329,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 32009,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "For each one-minute segment, we decided to introduce variables relating to the number of intersections crossed, types of roads taken, travel speed and slope (trip characteristics), day of the week and time of day (temporal dimension), and district (spatial dimension).",
+            "startOffset": 31741,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 56089,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "These sectors thus seemed to be noisier than the rest of the city, which the spatial term was also able to show in our model.",
+            "startOffset": 55964,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 36016,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "refoffsets": {
+                "b0065": {
+                    "endOffset": 35920,
+                    "startOffset": 35916
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Dekoninck et al. [13] had also performed the same exercise, but, in this case, for the concentration of black carbon.",
+            "startOffset": 35899,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 38120,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "As with Moran\u2019s I, a negative value corresponds to a negative temporal autocorrelation, that is, a dissimilarity between successive observations.",
+            "startOffset": 37975,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 56962,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The mapping of the spatial term is particularly interesting here because it can be used for planning and decision-making purposes.",
+            "startOffset": 56832,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 52073,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "This map must be read in relative rather than absolute terms since, aside from space, all other terms are kept at their previously described values.",
+            "startOffset": 51925,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 28966,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Their data show peaks of vehicle circulation between 7:00 a.m. and 10:00 a.m., and between 4:00 p.m. and 6:00 p.m.",
+            "startOffset": 28852,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 53061,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Sectors with the highest exposure levels are found around the airport area and in the central neighbourhoods, characterized by strong population densities and dense built environments.",
+            "startOffset": 52877,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 44641,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Levels below 70 dB(A) would thus be less than eight times lower than the mean for the entire set of data.",
+            "startOffset": 44536,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 53818,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Indeed, noise is better disseminated in wide streets, whereas narrow streets mean it is more likely to reverberate.",
+            "startOffset": 53703,
+            "title": "Limitations of the study"
+        },
+        {
+            "endOffset": 46732,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Aside from a better quality of adjustment, this latter model offers two other important improvements.",
+            "startOffset": 46631,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 39811,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The model then attempts to find a drape between the points of this space in three dimensions.",
+            "startOffset": 39718,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 25227,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "First, it is a question of analyzing variations in cyclists\u2019 levels of noise exposure in Ho Chi Minh City by integrating three dimensions: the characteristics of the trip, neighbourhood effects, and the temporal dimension, in paying particular attention to the day and time of the cyclist\u2019s travel, the type of road, and the number of intersections crossed.",
+            "startOffset": 24870,
+            "title": "Research objectives"
+        },
+        {
+            "endOffset": 42110,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "With this first GAMM, we obtain an adjusted R2 of 0.428.",
+            "startOffset": 42054,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 23328,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This research made it possible to better understand the factors of the urban environment that contribute to cyclists\u2019 exposure to noise pollution.",
+            "startOffset": 23182,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 40908,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The results of this first descriptive analysis show that there are important temporal and spatial variations (by neighbourhood) that must then be controlled for in the subsequent regression models.",
+            "startOffset": 40711,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 53354,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Even though we travelled over more than 1000 km, some sectors of the city were less well covered or little covered.",
+            "startOffset": 53239,
+            "title": "Limitations of the study"
+        },
+        {
+            "endOffset": 46826,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "First, the spatial and temporal dependence observed in the first model is corrected (Fig. 5).",
+            "startOffset": 46733,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 15492,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Noise is a problem inherent to cities, linked to their concentration of population and activities.",
+            "startOffset": 15394,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 52440,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "This term can thus be analyzed as an estimation of residual environmental noise that would have been measured by the dosimeters, presenting a spatial structure, but not explained by the other covariates in the model.",
+            "startOffset": 52224,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 32539,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "These were mainly minor, residential, or informal streets.",
+            "startOffset": 32481,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 40195,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "a), Monday and Wednesday were the noisiest days (means of 79.56 dB(A) and 79.17 dB(A) respectively) and Saturday the least noisy day (77.72 dB(A)).",
+            "startOffset": 40048,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 26656,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The liberalization process launched in 1986 (the Doi Moi program) affected urban planning, which had previously been a highly centralized area of responsibility in Vietnam.",
+            "startOffset": 26484,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 42359,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The addition of a different intercept for each neighbourhood helps to explain 4.63% of the total deviance and significantly improves the model without the random effect (AIC difference: 224.75; p-value of the chi2 test on the fREML scores: >0.001).",
+            "startOffset": 42111,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 53538,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "Consequently, other data collections could conceivably be carried out with more participants and more trips in order to produce a more comprehensive profile of noise exposure in HCMC.",
+            "startOffset": 53355,
+            "title": "Limitations of the study"
+        },
+        {
+            "endOffset": 28124,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Road traffic in HCMC is typical of that in other major Southeast Asian cities.",
+            "startOffset": 28046,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 27237,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "HCMC is thus a very active city experiencing strong development, and with a complex structure.",
+            "startOffset": 27143,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 22772,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The number of intersections crossed tended to decrease noise exposure, as did the fact of passing through a park or travelling in more densely built-up areas.",
+            "startOffset": 22614,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 57393,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "They also made it possible to define the complexity of the interaction between speed and slope regarding noise exposure.",
+            "startOffset": 57273,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 44977,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Although this model is informative as to the effect of the neighbourhoods, we will not describe the other parameters in any greater detail as the model is not adequately adjusted; we will however do this for the model in the next section.",
+            "startOffset": 44739,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 27350,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The colonial grid layouts are still present in the central sectors where skyscrapers have recently been erected.",
+            "startOffset": 27238,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 55677,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 55542,
+                    "startOffset": 55538
+                }
+            },
+            "secId": "s0100",
+            "sentence": "Second, Nguyen et al. [27] indicated that \u201call sites exposed to aircraft noise around the main airports in [HCMC] were also exposed to heavy road traffic noise.\u201d",
+            "startOffset": 55516,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 49579,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "So this is the term with the most complex pattern.",
+            "startOffset": 49529,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 57803,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "They thus provide a common nomenclature for types of roads in these cities.",
+            "startOffset": 57728,
+            "title": "Pertinence of OSM data"
+        },
+        {
+            "endOffset": 16237,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In urban areas, the major portion of environmental noise is generated by transportation, and by road traffic in particular.",
+            "startOffset": 16114,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 26966,
+            "parents": [],
+            "refoffsets": {
+                "b0100": {
+                    "endOffset": 26965,
+                    "startOffset": 26958
+                },
+                "b0140": {
+                    "endOffset": 26965,
+                    "startOffset": 26958
+                }
+            },
+            "secId": "s0020",
+            "sentence": "From a morphological viewpoint, there is no separation between residential and commercial or industrial areas because of the lack of a truly restrictive zoning plan [20,28].",
+            "startOffset": 26793,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 44329,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Moreover, the scatter plot in Fig. 4.",
+            "startOffset": 44292,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 49286,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The results obtained for the three non-linear predictors are reported in Table 1 (non-linear terms).",
+            "startOffset": 49186,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 41953,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "We will only analyze here the random part of the model and its validity criteria.",
+            "startOffset": 41872,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 47413,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Only one variable was found not to be significant: the number of intersections crossed.",
+            "startOffset": 47326,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 47161,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "Also, rather than removing the previously mentioned extreme values, we decided to change the conditional distribution of the model for a scaled t-distribution (see methodology).",
+            "startOffset": 46984,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 52876,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "These environments correspond to spaces that are as yet little developed, and even agricultural.",
+            "startOffset": 52780,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 53201,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Added to this is a second sector with high exposure levels to the northeast of the city, where there has been a resurgence of urbanization.",
+            "startOffset": 53062,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 18219,
+            "parents": [],
+            "refoffsets": {
+                "b0175": {
+                    "endOffset": 18116,
+                    "startOffset": 18112
+                }
+            },
+            "secId": "s0005",
+            "sentence": "If bicycles were a very widespread mode of transport in Eastern Pacific Asia during the 1990s [35], this rising level of vehicle ownership has helped to reduce the modal share of active transportation.",
+            "startOffset": 18018,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21145,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0040": {
+                    "endOffset": 21067,
+                    "startOffset": 21064
+                }
+            },
+            "secId": "s0010",
+            "sentence": "In a pioneering work, Boogaard et al. [8] studied cyclists\u2019 exposure to noise and air pollution in eleven Dutch cities.",
+            "startOffset": 21026,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 31321,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "The first part of our analysis will be essentially descriptive and will compare the mean levels of noise exposure recorded by day of the week, time of day, and district.",
+            "startOffset": 31152,
+            "title": "Methods of analysis"
+        },
+        {
+            "endOffset": 41871,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Added to this are two non-linear parameters: the time of day, and the interaction between the slope of the segment travelled and travel speed.",
+            "startOffset": 41729,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 48687,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Moreover, there is no significant difference between noise exposure on a residential street and on a street with an unknown typology, which indicates that these streets probably resemble residential streets.",
+            "startOffset": 48480,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 49131,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "This leads one to believe that, in terms of noise exposure, service roads are close to streets with an unknown typology, and, by extension, residential streets.",
+            "startOffset": 48971,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 55073,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "It is also interesting to note that our results corroborate the findings of earlier studies conducted in HCMC.",
+            "startOffset": 54963,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 34010,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "We can then expect to observe peaks of noise exposure during the morning and evening rush hour periods.",
+            "startOffset": 33907,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 48970,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The difference, compared with streets with an unknown typology, is not however very significant given the number of observations (p = 0.017, n = 3300).",
+            "startOffset": 48819,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 31690,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "Then, in keeping with the first objective, various regression models will be constructed, with the measure of noise exposure (dB(A)) as the dependent variable and the trip characteristics and spatial and temporal dimensions as the explanatory variables.",
+            "startOffset": 31437,
+            "title": "Methods of analysis"
+        },
+        {
+            "endOffset": 35898,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "refoffsets": {
+                "b0120": {
+                    "endOffset": 35715,
+                    "startOffset": 35711
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Lin et al. [24] also employed this method to model the concentration of fine particles according to environmental noise (collected by a moving electric vehicle) and several meteorological variables.",
+            "startOffset": 35700,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 38257,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "Conversely, a positive value corresponds to a positive temporal autocorrelation, that is, a resemblance between successive observations.",
+            "startOffset": 38121,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 48818,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Finally, service roads are the roads with the lowest levels of exposure, which is explained by the fact that they are little used.",
+            "startOffset": 48688,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 43940,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Indeed, the model residuals are significantly autocorrelated with a maximum Moran\u2019s I value of 0.177 (p < 0.001), obtained with a matrix of proximity of 400 m.",
+            "startOffset": 43781,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 27143,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "More generally, the master plan is said to serve more as a negotiating tool with the central government.",
+            "startOffset": 27039,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 52223,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "So the map can be read as representing environments where, on average, all other things in the model being equal, noise exposure levels were highest.",
+            "startOffset": 52074,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 27552,
+            "parents": [],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 27416,
+                    "startOffset": 27412
+                }
+            },
+            "secId": "s0020",
+            "sentence": "The map of HCMC\u2019s urban structure developed by Downes et al. [15] in fact notes the presence of a central business district, surrounded by a strong density of shophouses and a few rare and small parks.",
+            "startOffset": 27351,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 19264,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Cyclists\u2019 noise exposure is however less often examined than is their exposure to air pollution.",
+            "startOffset": 19168,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 28612,
+            "parents": [],
+            "refoffsets": {
+                "b0150": {
+                    "endOffset": 28611,
+                    "startOffset": 28607
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Scooters are also known to be noisy vehicles that particularly affect the feelings of discomfort experienced by impacted populations [30].",
+            "startOffset": 28474,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 30339,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "We will be looking in particular at the LAeq measurement, that is, the average noise intensity at a one-minute time resolution.",
+            "startOffset": 30212,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 43333,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The differences observed here are of course smaller than those seen with the descriptive analyses (Fig. 2.",
+            "startOffset": 43227,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 42888,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The fixed part of the model is of course more explanatory, as noise exposure is an immediate phenomenon that is more influenced by micro-characteristics (trucks passing, horns blowing, the density and fluidity of traffic, etc.) than by meso-characteristics (density of the neighbourhood, level of activity, presence of infrastructure, etc.).",
+            "startOffset": 42547,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 28046,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "One can thus expect to see higher noise levels in the central sectors, as well as near the airport, and lower levels in the peripheral areas (villas and agricultural areas).",
+            "startOffset": 27873,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 29800,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "For the purposes of this study, we directly collected new data on cyclists\u2019 exposure to noise in HCMC.",
+            "startOffset": 29698,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 19652,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In studies focusing on urban cyclists\u2019 noise exposure, one can distinguish between two streams.",
+            "startOffset": 19557,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 18551,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this context, it is especially relevant to examine the question of the environmental noise exposure of urban populations in East and Southeast Asia.",
+            "startOffset": 18400,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 57509,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The models could be applied in other cities and for other types of nuisances (air pollution, road accidents, etc.).",
+            "startOffset": 57394,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 18400,
+            "parents": [],
+            "refoffsets": {
+                "b0055": {
+                    "endOffset": 18316,
+                    "startOffset": 18312
+                },
+                "b0190": {
+                    "endOffset": 18399,
+                    "startOffset": 18395
+                }
+            },
+            "secId": "s0005",
+            "sentence": "The latter, however, still plays an important role due to its accessibility and flexibility [11] and represents, for example, more than 7% of urban travel in Ho Chi Minh City [38].",
+            "startOffset": 18220,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 50234,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The levels of exposure then diminish as of 10:00 a.m., to reach their mean minimum level around 1:00p.m. By 2:00p.m., noise exposure levels again increase, reaching levels comparable to those in the morning rush hour between 5:00p.m. and 6:00p.m.",
+            "startOffset": 49988,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 17740,
+            "parents": [],
+            "refoffsets": {
+                "b0020": {
+                    "endOffset": 17652,
+                    "startOffset": 17649
+                }
+            },
+            "secId": "s0005",
+            "sentence": "In the same vein, the Asian Development Bank [4] estimates that the fleet of motor vehicles has doubled about every five to seven years.",
+            "startOffset": 17604,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19442,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "This is notably explained by the fact that cyclists\u2019 increased physical activity does not mechanically increase their noise exposure, as it does their exposure to air pollution.",
+            "startOffset": 19265,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 33624,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "As for the slope, we can hypothesize that it has a direct impact on the noise generated by vehicle engines: when vehicles ascend a slope, noise exposure levels should be higher, and, conversely, when vehicles descend, noise levels should be lower, as there is less demand on vehicle engines.",
+            "startOffset": 33333,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 16951,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "Indeed, out of 57 articles selected, European and North American cities were clearly overrepresented compared to cities in the South, which only included four case studies (Macau and Beijing in China, Seoul in Korea, and Delhi in India).",
+            "startOffset": 16714,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 49528,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "In examining the estimated degrees of freedom (edf), it is not surprising to see that the spatial term shows more \u201cwiggliness\u201d than the interaction between slope and speed and the time of day.",
+            "startOffset": 49336,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 54668,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "And their levels of exposure are probably even higher than those that we measured due to their continuous proximity to their own engines.",
+            "startOffset": 54531,
+            "title": "Worrisome noise levels"
+        },
+        {
+            "endOffset": 55516,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "This thus corresponds to the temporal tendencies shown in Fig. 6.",
+            "startOffset": 55451,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 56574,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "In both cases, these are peripheral areas of low density (in terms of population and the built environment), comprised of rural areas, villas, or sites under development.",
+            "startOffset": 56404,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 58868,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "On a methodological level, the use of generalized additive models proved to be very effective in showing temporal variations, spatial variations, and the complexity of the interaction between slope and speed regarding noise levels.",
+            "startOffset": 58637,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 17462,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "At the same time, motor vehicle ownership and road traffic have also skyrocketed during this period.",
+            "startOffset": 17362,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 23728,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Nor do they consider the existence of spatial tendencies related to noise (systematic differences between neighbourhoods, dense sectors, effects of infrastructures, etc.).",
+            "startOffset": 23557,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 56268,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0075": {
+                    "endOffset": 56233,
+                    "startOffset": 56229
+                }
+            },
+            "secId": "s0100",
+            "sentence": "Third, it is possible to relate the spatial term of the model to the map of the spatial organization of the city developed by Downes et al. [15] and described in the introduction.",
+            "startOffset": 56089,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 17603,
+            "parents": [],
+            "refoffsets": {
+                "b0110": {
+                    "endOffset": 17473,
+                    "startOffset": 17469
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Jraiw [22] estimates that traffic volume per square mile in the much denser Asian urban areas is about 80% higher than in the United States.",
+            "startOffset": 17463,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 28760,
+            "parents": [],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 28647,
+                    "startOffset": 28643
+                }
+            },
+            "secId": "s0020",
+            "sentence": "In September 2007, Phan et al. [32] carried out an acoustic survey in HCMC and made 24-hour recordings of noise levels along several major roadways.",
+            "startOffset": 28612,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 33165,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Along the same lines, a greater number of intersections crossed may mean slower and possibly less noisy traffic.",
+            "startOffset": 33053,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 40231,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Concerning the time of day (Fig. 2.",
+            "startOffset": 40196,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 51330,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 51329,
+                    "startOffset": 51326
+                },
+                "b0040": {
+                    "endOffset": 51304,
+                    "startOffset": 51301
+                }
+            },
+            "secId": "s0080",
+            "sentence": "The same effect was notably found by Boogaard et al. [8] and Apparicio et al. [2].",
+            "startOffset": 51248,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 17850,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "This sharp increase in the number of motor vehicles mainly involves two- or three-wheeled mopeds or scooters.",
+            "startOffset": 17741,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 56403,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "Sectors where noise exposure was systematically lower are concentrated around the Saigon River and to the south of the Khen Do\u00ef canal.",
+            "startOffset": 56269,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 28473,
+            "parents": [],
+            "refoffsets": {
+                "b0190": {
+                    "endOffset": 28472,
+                    "startOffset": 28468
+                }
+            },
+            "secId": "s0020",
+            "sentence": "In a recent survey of 1,248 people, 75% of respondents stated that scooters were their most regular means of transportation, 7% rode bicycles, 7% walked, and only 4% used cars and 4% took public transportation [38].",
+            "startOffset": 28258,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 32653,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Overall, we expected that noise levels would decrease from the trunk category to the residential street category.",
+            "startOffset": 32540,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 40048,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "Regarding the days of the week (Fig. 2.",
+            "startOffset": 40009,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 51247,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We can thus surmise that in very fluid traffic, vehicles are moving faster and their engines therefore generate more noise.",
+            "startOffset": 51124,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 57727,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "OSM data are available for almost all big cities around the world.",
+            "startOffset": 57661,
+            "title": "Pertinence of OSM data"
+        },
+        {
+            "endOffset": 31130,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Some 1035 km were travelled through the city in this manner, for a total of 55 h of collection, corresponding to 3300 observations (Fig. 1).",
+            "startOffset": 30990,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 52691,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "This map shows that lower levels of exposure were recorded to the south and along the Saigon River.",
+            "startOffset": 52592,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 27666,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Agricultural areas directly encompass the city, invaded (mainly to the east and south) by new urban developments.",
+            "startOffset": 27553,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 28257,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Scooters are by far the most popular mode of transport, due to their low cost and ability to weave in and out of very dense traffic.",
+            "startOffset": 28125,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 50329,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "If night trips had been taken, the function would probably have then diminished after 6:00p.m.",
+            "startOffset": 50235,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 25897,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "HCMC has been characterized by strong demographic growth, as the population increased from 4.64 million inhabitants in 1995 to 8.4 million in 2016, due in particular to a very high level of migration from rural areas.",
+            "startOffset": 25680,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 21888,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0185": {
+                    "endOffset": 21653,
+                    "startOffset": 21649
+                }
+            },
+            "secId": "s0010",
+            "sentence": "This variability in correlation was moreover corroborated by Tenailleau et al. [37], who noted that the discrepancies between environmental noise exposure and exposure to air pollution (in this case, nitrogen dioxide \u2013 NO2) had a certain structure associated with the local morphological and socio-spatial environment.",
+            "startOffset": 21570,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 35699,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "refoffsets": {
+                "b0085": {
+                    "endOffset": 35673,
+                    "startOffset": 35669
+                },
+                "b0170": {
+                    "endOffset": 35698,
+                    "startOffset": 35694
+                }
+            },
+            "secId": "s0045",
+            "sentence": "Of note is the fact that several studies modelling noise according to the characteristics of the urban environment have already used GAM models such as land use regression, by Goudreau et al. [17] and Ragettli et al. [34].",
+            "startOffset": 35477,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 18018,
+            "parents": [],
+            "refoffsets": {
+                "b0080": {
+                    "endOffset": 18017,
+                    "startOffset": 18013
+                }
+            },
+            "secId": "s0005",
+            "sentence": "For example, the latter are said to represent \u201chalf of all vehicles in India\u2019s five major cities, three quarters in Bangalor, and two-thirds in Ho Chi Minh City\u201d [16].",
+            "startOffset": 17851,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 18656,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "In this paper, we will focus in particular on cyclists\u2019 exposure to noise in Ho Chi Minh City (Vietnam).",
+            "startOffset": 18552,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 30038,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "They were accompanied by local guides so that they could travel through many different areas in the various districts of the city.",
+            "startOffset": 29908,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 35185,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "To do this, it is a matter of making this term vary within its interval while keeping all other variables at fixed values and of representing the values predicted by the model.",
+            "startOffset": 35009,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 47631,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Regarding the days of the week, the coefficients show that Saturdays were the days with the lowest mean noise exposure, and that Mondays and Wednesdays were the days with the highest levels: 2.15 dB(A) higher for both.",
+            "startOffset": 47413,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 16392,
+            "parents": [],
+            "refoffsets": {
+                "b0125": {
+                    "endOffset": 16264,
+                    "startOffset": 16260
+                }
+            },
+            "secId": "s0005",
+            "sentence": "According to McCallum [25], the intensification of the latter is moreover the main cause of the increase in noise levels and in the population\u2019s exposure.",
+            "startOffset": 16238,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 19167,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Since the early 2000s, studies on cyclists\u2019 exposure to noise have proliferated.",
+            "startOffset": 19087,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 23396,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Despite their relevance, these studies present several limitations.",
+            "startOffset": 23329,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 40538,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "We found that meannoise levels varied significantly from one neighbourhood to another (Fig. 2.",
+            "startOffset": 40444,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 54530,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Even though cycling is not the most popular mode of transportation in HCMC, it should be emphasized that scooter users are also concerned because they do not have any cabin either to isolate them from noise.",
+            "startOffset": 54323,
+            "title": "Worrisome noise levels"
+        },
+        {
+            "endOffset": 24067,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Finally, they only model linear relations between dependent and independent variables, which probably does not constitute a valid hypothesis for all the predictors.",
+            "startOffset": 23903,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 26346,
+            "parents": [],
+            "refoffsets": {
+                "b0030": {
+                    "endOffset": 26327,
+                    "startOffset": 26324
+                }
+            },
+            "secId": "s0020",
+            "sentence": "\u201cUntil 1945, development of the urban fabric occurred along roads connecting the two central cores; over the next twenty years, intensive occupation of the central areas continued both legally and illegally\u201d [6] [our translation].",
+            "startOffset": 26116,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 43683,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "It should be remembered that a difference of 3 dB(A) corresponds to a doubling of noise intensity, which means here that in rural areas, the mean noise exposure is already nearly twice as low as in neighbourhood 09, regardless of the time of day or type of road that the cyclist is travelling on.",
+            "startOffset": 43387,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 30619,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Higher frequency (more high-pitched) sounds correspond to higher dB(A) levels since the human ear reacts more strongly to high-pitched than low-pitched sounds.",
+            "startOffset": 30460,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 50581,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "It is interesting to note that the differences between the upper and lower limits of the confidence intervals rise to more than two decibels between the time of day when noise exposure was highest (81 dB(A)) and the time when it was lowest (79 dB(A)).",
+            "startOffset": 50330,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 54322,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "Indeed, a mean of 78.5 dB(A) directly raises the question of the impacts on health, since, as of 75 dB(A), the threshold of discomfort is largely surpassed, and 80 dB(A) is the level at which direct damage to hearing appears.",
+            "startOffset": 54097,
+            "title": "Worrisome noise levels"
+        },
+        {
+            "endOffset": 46434,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "refoffsets": {
+                "b0195": {
+                    "endOffset": 46433,
+                    "startOffset": 46429
+                }
+            },
+            "secId": "s0070",
+            "sentence": "So it is preferable to compare the values of their respective fREML [39].",
+            "startOffset": 46361,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 27872,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Finally, groups of villas stand on the periphery, not far from the newly developing areas.",
+            "startOffset": 27782,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 44535,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The mean level of noise exposure in our sample is approximately 79 dB(A).",
+            "startOffset": 44462,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 25388,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0015",
+            "sentence": "Second, once these dimensions have been controlled for, it is then a matter of identifying the spatial pattern of the noise exposure over the entire study area.",
+            "startOffset": 25228,
+            "title": "Research objectives"
+        },
+        {
+            "endOffset": 53972,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0090",
+            "sentence": "To our knowledge, there is however no set of data that includes, for example, building footprints that would allow us to derive complementary indicators.",
+            "startOffset": 53819,
+            "title": "Limitations of the study"
+        },
+        {
+            "endOffset": 19832,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In the first stream, it is a question of comparing cyclists\u2019 exposure levels to those seen with other modes of transport, mainly in the case of motorists and public transit users.",
+            "startOffset": 19653,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 44738,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Similarly, levels above 90 dB(A) would be more than sixteen times higher than the mean observed.",
+            "startOffset": 44642,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 58636,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "The temporal dimension is also important, with significant variations according to the day of the week (Monday being the noisiest), and the time of day (especially the morning and evening rush hours).",
+            "startOffset": 58436,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 30989,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "The observations therefore correspond to one-minute segments for which we know the average noise exposure level, as well as a series of other indicators that we will describe in greater detail further on in this section.",
+            "startOffset": 30769,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 39717,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "To picture this term, one has to imagine the dependent variable as a third dimension \u201cof relief\u201d above the geographic coordinates.",
+            "startOffset": 39587,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 23182,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "It is interesting to note as well that this study reported a very weak correlation between noise exposure and exposure to air pollution (in this case, NO2).",
+            "startOffset": 23026,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 28851,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "They also used cameras to count the number of vehicles passing near the measuring devices.",
+            "startOffset": 28761,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 43387,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "c), since all the other parameters are controlled for.",
+            "startOffset": 43333,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 20536,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0220": {
+                    "endOffset": 20376,
+                    "startOffset": 20372
+                }
+            },
+            "secId": "s0010",
+            "sentence": "Finally, Yao et al. [44] observed even greater discrepancies in Toronto, with an average of 81.8 dB(A) for cyclists, 78.1 for bus riders, 79.8 for subway users, and 67.6 for motorists.",
+            "startOffset": 20352,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 50796,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We decided to mask sectors of interaction for which we had no data (in white on the figure; for example, a speed of 30 km/h with a positive slope of 3%).",
+            "startOffset": 50643,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 17361,
+            "parents": [],
+            "refoffsets": {
+                "b0205": {
+                    "endOffset": 17360,
+                    "startOffset": 17356
+                }
+            },
+            "secId": "s0005",
+            "sentence": "For example, the East Asia and Pacific region is undergoing particularly strong urban growth, with the population rising from more than 605 million city-dwellers in 1990 to 1.3 billion in 2016 [41].",
+            "startOffset": 17163,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 46209,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "The adjusted R2 of the final model is 0.41, that is, slightly below that of the preceding model (0.428).",
+            "startOffset": 46105,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 25981,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "HCMC is today comprised of 23 districts, of which 17 are urban and 6 rural (Fig. 1).",
+            "startOffset": 25897,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 32901,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "This indicator can provide certain information on the traffic, as vehicles around the cyclist are subjected to the same constraints as the latter.",
+            "startOffset": 32755,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 39465,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In order to take spatial autocorrelation and the presence of spatial tendency into account, we introduce a further term into the model, that is, a surface estimated by the model between the X and Y coordinates of the segments\u2019 centroids: that is, s(x,y).",
+            "startOffset": 39211,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 21569,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "They unfortunately did not apply the same method for noise exposure, and only its correlation (moderate, 0.21\u20130.60) with air pollution was reported.",
+            "startOffset": 21421,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 44087,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "As for the ACF temporal correlation coefficient, it is highest (0.469) when the correlation with the previous observation is calculated (lag = 1).",
+            "startOffset": 43941,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 29657,
+            "parents": [],
+            "refoffsets": {
+                "b0165": {
+                    "endOffset": 29375,
+                    "startOffset": 29371
+                }
+            },
+            "secId": "s0020",
+            "sentence": "Phan et al. [33] also conducted a survey of 1,503 HCMC residents and recorded average exposure levels of between 75 and 83 dB (Lden): \u201cIt indicates that the respondents in both Hanoi and Ho Chi Minh City\u2014especially those of the latter city\u2014were more exposed to high levels of noise than Europeans.\u201d",
+            "startOffset": 29359,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 47876,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "The design of this study does not enable us to state that noise exposure levels were systematically higher on Mondays and Wednesdays or lower on Saturdays because we do not have a long enough range of time in our study to make these inferences.",
+            "startOffset": 47632,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 24386,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In this context, the relationship between the time of day and the noise level is certainly not linear.",
+            "startOffset": 24284,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 29358,
+            "parents": [],
+            "refoffsets": {
+                "b0155": {
+                    "endOffset": 29357,
+                    "startOffset": 29353
+                }
+            },
+            "secId": "s0020",
+            "sentence": "They also found that horns were used very regularly (12% of the total time measured), which increase exposure levels an average of 0 to 4 dB, and that they significantly contribute to the feelings of discomfort of the local population [31].",
+            "startOffset": 29118,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 26484,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Together with this densification of the central portion, secondary centres also mushroomed, and urbanization spread along the main roads.",
+            "startOffset": 26347,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 57660,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "The use of OSM data allowed us to effectively model the impact of the type of roads taken on cyclists\u2019 noise exposure in HCMC.",
+            "startOffset": 57534,
+            "title": "Pertinence of OSM data"
+        },
+        {
+            "endOffset": 58208,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "It was not surprising to find that cyclists\u2019 levels of noise exposure in HCMC are very high compared with cities in the North, which can be explained in particular by the density of the traffic, the large proportion of scooters, and the frequent use of horns.",
+            "startOffset": 57949,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 22268,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0005": {
+                    "endOffset": 22213,
+                    "startOffset": 22210
+                }
+            },
+            "secId": "s0010",
+            "sentence": "More specifically, the authors used a SAR-Lag regression [1] in order to take spatial autocorrelation into account.",
+            "startOffset": 22153,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 42054,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The results of the other independent variables will only be described in detail for the final model.",
+            "startOffset": 41954,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 54096,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0095",
+            "sentence": "It is important to note straightaway that the noise exposure levels recorded in HCMC are a concern.",
+            "startOffset": 53997,
+            "title": "Worrisome noise levels"
+        },
+        {
+            "endOffset": 19087,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "In Ho Chi Minh City (HCMC), this is all the more so because cycling infrastructures are non-existent and cyclists have to wend their way between cars and scooters.",
+            "startOffset": 18924,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 30133,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Their trips were recorded using triathlon watches (Garmin Forerunner 920XT) equipped with GPS.",
+            "startOffset": 30039,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 33906,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "In order to take the temporal variability of traffic into account, the days of the week are introduced in the form of dummy variables, with Saturday as the reference day; the time of day is introduced as a continuous variable, expressing the number of minutes passed since 7:00 a.m.",
+            "startOffset": 33624,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 57272,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "Finally, the use of GAM models provided pertinent information on noise exposure, especially concerning the spatial and temporal dimension.",
+            "startOffset": 57134,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 31436,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0035",
+            "sentence": "To compare these means, we will use bootstrapping to obtain confidence intervals through multiple random sampling.",
+            "startOffset": 31322,
+            "title": "Methods of analysis"
+        },
+        {
+            "endOffset": 57938,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0105",
+            "sentence": "So it would be advisable to prioritize these data in the future, in order to facilitate direct comparisons between a number of cities.",
+            "startOffset": 57804,
+            "title": "Pertinence of OSM data"
+        },
+        {
+            "endOffset": 35477,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "If bivariate terms or interactions are used, the principle remains the same, but two variables are allowed to vary and the final graph then shows a heat map rather than a simple curve (for example: vis.gam function of the MGCV package, based on an original idea and design by Mike Lonergan).",
+            "startOffset": 35186,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 15892,
+            "parents": [],
+            "refoffsets": {
+                "b0215": {
+                    "endOffset": 15891,
+                    "startOffset": 15887
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Indeed, the health impacts of prolonged noise exposure are well recognized today, \u201cincluding increased risk of ischaemic heart disease as well as sleep disturbance, cognitive impairment among children, annoyance, stress-related mental health risks, and tinnitus\u201d [43].",
+            "startOffset": 15624,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 21420,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "More specifically, they built linear regression models in order to predict cyclists\u2019 levels of exposure to air pollution, with predictors such as the type of road that the cyclist was travelling on, the presence of various types of vehicles (cars, scooters, etc.), and time.",
+            "startOffset": 21146,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 30211,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "Noise levels were measured with Class 1 dosimeters (Br\u00fcel & Kjaer Type 4448).",
+            "startOffset": 30134,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 16114,
+            "parents": [],
+            "refoffsets": {
+                "b0025": {
+                    "endOffset": 16113,
+                    "startOffset": 16104
+                },
+                "b0105": {
+                    "endOffset": 16113,
+                    "startOffset": 16104
+                },
+                "b0180": {
+                    "endOffset": 16113,
+                    "startOffset": 16104
+                }
+            },
+            "secId": "s0005",
+            "sentence": "These effects have now been clearly documented in health studies; we provide three literature reviews that stress the necessity of reducing environmental noise, considering its auditory and non-auditory effects [5,21,36].",
+            "startOffset": 15893,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40999,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "One can consider these inter-neighbourhood variations as a form of spatial autocorrelation.",
+            "startOffset": 40908,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 51924,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "We must point out straightaway that this is not a map of the concentration of noise levels in Ho Chi Minh City.",
+            "startOffset": 51813,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 27038,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "This strongly mixed land use thus contributes to the high noise levels.",
+            "startOffset": 26967,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 32352,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "refoffsets": {
+                "b0060": {
+                    "endOffset": 32146,
+                    "startOffset": 32139
+                },
+                "b0090": {
+                    "endOffset": 32146,
+                    "startOffset": 32139
+                }
+            },
+            "secId": "s0040",
+            "sentence": "Concerning the type of road taken, data from Open Street Map (OSM) [12,18] were used to calculate the time spent on each of seven categories of segment for a specific observation period (that is, one minute): trunk, primary, secondary, tertiary, residential, service, and unknown.",
+            "startOffset": 32072,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 15623,
+            "parents": [],
+            "refoffsets": {
+                "b0210": {
+                    "endOffset": 15621,
+                    "startOffset": 15617
+                }
+            },
+            "secId": "s0005",
+            "sentence": "Although the perception of noise is relative, it is considered to be the second most important nuisance after air pollution [42]).",
+            "startOffset": 15493,
+            "title": "Introduction"
+        },
+        {
+            "endOffset": 40443,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "b), the highest noise levels were recorded in the morning (8:00 a.m.: 79.55 dB(A), and 9:00 a.m.: 79.48 dB(A)) and the lowest levels were in the mid-day period (12:00p.m.: 77.20 dB(A), and 2:00p.m.: 77.83 dB(A)).",
+            "startOffset": 40231,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 56674,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "The noise discrepancies between these areas are very strong, ranging from 73 to more than 78 dB(A).",
+            "startOffset": 56575,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 20056,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0015": {
+                    "endOffset": 19874,
+                    "startOffset": 19871
+                }
+            },
+            "secId": "s0010",
+            "sentence": "In Montreal, Canada, Apparicio et al. [3] found that, during rush hours, cyclists were exposed to higher noise levels than were motorists but lower levels than public transit users (68.8, 66.8, and 74.0 dB(A) respectively).",
+            "startOffset": 19833,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 48040,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "On the other hand, we can highlight the systematic variability from one day to another and note the appropriateness of controlling for this in modelling exercises.",
+            "startOffset": 47877,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 39586,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "refoffsets": {
+                "b0070": {
+                    "endOffset": 39585,
+                    "startOffset": 39581
+                }
+            },
+            "secId": "s0045",
+            "sentence": "This term allows us to capture variations in noise intensity in space when all other parameters are controlled for [14].",
+            "startOffset": 39466,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 51038,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "First, noise exposure is lowest when traffic is moving well (cyclist\u2019s speed of about 20 km/h) and when the slope is gentle (between \u22121 and +1%), shown by the circle in the centre of the figure.",
+            "startOffset": 50844,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 32072,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Several hypotheses can be formulated regarding each predictor.",
+            "startOffset": 32010,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 22021,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0010": {
+                    "endOffset": 21923,
+                    "startOffset": 21920
+                }
+            },
+            "secId": "s0010",
+            "sentence": "More recently, Apparicio et al. [2] looked at cyclists\u2019 exposure to noise and air pollution in several central districts of Montreal.",
+            "startOffset": 21888,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 44291,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "Finally, as shown in Fig. 4a (right side), the distribution of the model residuals is close to normality (skewness = \u22120.057), with however a few extreme values that tend to distort it (kurtosis = 6.337).",
+            "startOffset": 44088,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 47325,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Table 1 (linear terms) presents the results for the predictors linearly added to the model.",
+            "startOffset": 47234,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 55450,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "refoffsets": {
+                "b0135": {
+                    "endOffset": 55160,
+                    "startOffset": 55156
+                }
+            },
+            "secId": "s0100",
+            "sentence": "First, regarding the temporal dimension, our results are in keeping with those of [27]; Phan et al., 2010a), who observed more intense road traffic as of 5:00 a.m., which reached an initial peak between 8:00 a.m. and 9:00 a.m., followed by a decrease until 1:00 p.m., when traffic started up again, between 5:00 p.m. and 6:00 p.m, with levels comparable to the morning period.",
+            "startOffset": 55074,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 48184,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "It is not surprising that noise exposure is strongly associated with the type of road taken and follows the hierarchization of the OSM typology.",
+            "startOffset": 48040,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 57134,
+            "parents": [
+                {
+                    "id": "s0085",
+                    "title": "Discussion"
+                }
+            ],
+            "secId": "s0100",
+            "sentence": "With the aim of protecting cyclists against noise, it would be possible to design bicycle routes that prioritize the use of these sectors, where exposure levels are lower.",
+            "startOffset": 56963,
+            "title": "Comparison with previous studies on HCMC"
+        },
+        {
+            "endOffset": 35008,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "More simply put, one can produce a graph representing the effect of a non-linear term.",
+            "startOffset": 34922,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 30459,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "This noise intensity is measured in decibels A (dB(A)), that is, a decibel scale adjusted according to sound frequency.",
+            "startOffset": 30340,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 51405,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Third, when the speed drops and is close to 0, noise levels also increase.",
+            "startOffset": 51331,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 33333,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "On the other hand, it is also possible that a greater number of intersections means more vehicles speeding up again around the cyclist, leading to higher noise levels.",
+            "startOffset": 33166,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 30768,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                }
+            ],
+            "secId": "s0030",
+            "sentence": "More specifically, we used the 3 dB(A) exchange rate, which means that an increase of 3 dB(A) on our scale corresponds to a doubled noise intensity.",
+            "startOffset": 30620,
+            "title": "Data collection and design"
+        },
+        {
+            "endOffset": 25679,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "Intersected by the Saigon River, it is also the country\u2019s economic centre, especially due to the presence of its port.",
+            "startOffset": 25561,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 41209,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "If we estimate the spatial autocorrelation of noise exposure levels with Moran\u2019s I using a distance matrix, we can see that the autocorrelation is greatest at a distance of 300 m (0.38) and always significant.",
+            "startOffset": 41000,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 50642,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Fig. 7 shows the term of interaction between slope and speed.",
+            "startOffset": 50581,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 52779,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "The Khen Do\u00ef canal in fact seems to mark the southern limit of the city\u2019s urbanization.",
+            "startOffset": 52692,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 48479,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0075",
+            "sentence": "Thus, compared with a street with an unknown typology, spending one minute on a trunk road increases mean noise exposure by more than 5.13 dB(A), with an increase of 3.41 dB(A) for primary roads, 3.07 dB(A) for secondary roads, and 2.24 dB(A) for tertiary roads, which are sizeable differences.",
+            "startOffset": 48185,
+            "title": "Analysis of the linear parameters of the model: Trip characteristics"
+        },
+        {
+            "endOffset": 21025,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The present study falls within this category.",
+            "startOffset": 20980,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 40008,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "The mean noise level recorded during the trips was 78.84 dB(A) (with a 95% confidence interval of 78.75 to 78.94, obtained by bootstrapping with 5000 replications).",
+            "startOffset": 39844,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 23902,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Added to this is the fact that they use typologies of roads specific to the cities studied, which makes it difficult to reutilize the results for the purposes of comparison.",
+            "startOffset": 23729,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 26793,
+            "parents": [],
+            "refoffsets": {
+                "b0140": {
+                    "endOffset": 26792,
+                    "startOffset": 26788
+                }
+            },
+            "secId": "s0020",
+            "sentence": "This resulted in particular in more permissive and transparent legislation regarding property ownership and land tenure as of 2003 [28].",
+            "startOffset": 26657,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 49335,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Each has a significant effect (p-value < 0.000).",
+            "startOffset": 49287,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 23025,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "The authors were also able to emphasize that the fact of using bike lanes and shared bike lanes did not reduce the exposure to noise or air pollution.",
+            "startOffset": 22875,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 18923,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Cyclists are a population with an especially high exposure to noise since they travel directly next to traffic and have no cabin to protect them.",
+            "startOffset": 18778,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 27781,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The airport constitutes an enclave to the northwest, around which shophouses have cropped up in irregular fashion.",
+            "startOffset": 27667,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 58955,
+            "parents": [],
+            "secId": "s0115",
+            "sentence": "The authors declare that they have no competing interests.",
+            "startOffset": 58897,
+            "title": "Authors competing interesting"
+        },
+        {
+            "endOffset": 29117,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The noise levels reported (LAeq, hourly average) are relatively constant during the day after 7:00 a.m., with an Lden mean (daily mean) of over 69 dB.",
+            "startOffset": 28967,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 33053,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "We can thus expect that when stopped, vehicles produce less noise, and that when accelerating, or when traffic is moving well, they produce more noise.",
+            "startOffset": 32902,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 34921,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "The curves estimated by these models can be observed through the predictions made by the model.",
+            "startOffset": 34826,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 51697,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "Fourth, a positive slope of over 1% increases noise exposure levels as well, as vehicle engines must work harder, with the opposite of course being true when the slope is negative.",
+            "startOffset": 51517,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 24283,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "refoffsets": {
+                "b0160": {
+                    "endOffset": 24163,
+                    "startOffset": 24159
+                }
+            },
+            "secId": "s0010",
+            "sentence": "The observations performed by Phan et al. [32] in HCMC clearly indicate that road traffic follows hourly patterns, with both a morning and a late afternoon rush hour.",
+            "startOffset": 24117,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 26115,
+            "parents": [],
+            "secId": "s0020",
+            "sentence": "The city largely developed around two distinct centres corresponding to the two older cities of Saigon and Cholon, which were merged.",
+            "startOffset": 25982,
+            "title": "Description of the study area: Ho Chi Minh city"
+        },
+        {
+            "endOffset": 32480,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0040",
+            "sentence": "Note that the latter category corresponds to roads that did not yet exist in the OSM database or did not have a specified type.",
+            "startOffset": 32353,
+            "title": "Independent variables in the regression models"
+        },
+        {
+            "endOffset": 46631,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0070",
+            "sentence": "It is evident that the second model is far better adjusted than the first (7205 versus 4997), which represents a major improvement given the fact that only one predictor is added: that is, s(x,y).",
+            "startOffset": 46435,
+            "title": "Assessment of the model"
+        },
+        {
+            "endOffset": 52591,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                },
+                {
+                    "id": "s0065",
+                    "title": "Final GAMAR model: Integration of all dimensions"
+                }
+            ],
+            "secId": "s0080",
+            "sentence": "On this map, to avoid any risk of overinterpreting the results, we masked areas not covered during the data collection (particularly the airport area).",
+            "startOffset": 52440,
+            "title": "Analysis of the non-linear parameters of the model"
+        },
+        {
+            "endOffset": 19557,
+            "parents": [
+                {
+                    "id": "s0005",
+                    "title": "Introduction"
+                }
+            ],
+            "secId": "s0010",
+            "sentence": "Indeed, a higher ventilation rate multiplies the doses of gaseous and particulate pollutants that cyclists inhale.",
+            "startOffset": 19443,
+            "title": "Cyclists\u2019 environmental noise exposure in urban areas"
+        },
+        {
+            "endOffset": 40711,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "c), with the minimum means observed in the district 02 and rural areas (76.53 dB(A), 77.21 dB(A)) and the maximum observed in districts 12 and TB (80.15 dB(A), 80.17 dB(A)).",
+            "startOffset": 40538,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 41728,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "The other linearly controlled parameters are the time spent on each type of road, the day of the week, the number of intersections crossed by the cyclist, and the proximity to major arteries.",
+            "startOffset": 41537,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 36100,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "This method has however, to our knowledge, never been used to model noise exposure.",
+            "startOffset": 36017,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 38429,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "In sum, in order to respect the conditions for the application of regression models, the above two indicators must be close to 0 when they are calculated on the residuals.",
+            "startOffset": 38258,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 41322,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0055",
+            "sentence": "This indicates a positive spatial autocorrelation, but probably at a finer scale than that of the neighbourhood.",
+            "startOffset": 41210,
+            "title": "Descriptive statistics"
+        },
+        {
+            "endOffset": 41536,
+            "parents": [
+                {
+                    "id": "s0050",
+                    "title": "Results"
+                }
+            ],
+            "secId": "s0060",
+            "sentence": "In order to measure the neighbourhood effect, a GAMM model was constructed by introducing a different intercept for each neighbourhood (random effect of the model).",
+            "startOffset": 41372,
+            "title": "GAMM model: Evaluating the neighbourhood effect"
+        },
+        {
+            "endOffset": 58435,
+            "parents": [],
+            "secId": "s0110",
+            "sentence": "The models showed that several trip characteristics together significantly increased noise exposure levels: the type of roads\u2014with residential streets and service roads being the least noisy\u2014the slope, and the cyclist\u2019s speed.",
+            "startOffset": 58209,
+            "title": "Conclusion"
+        },
+        {
+            "endOffset": 37974,
+            "parents": [
+                {
+                    "id": "s0025",
+                    "title": "Methodology"
+                },
+                {
+                    "id": "s0035",
+                    "title": "Methods of analysis"
+                }
+            ],
+            "secId": "s0045",
+            "sentence": "It is simply the correlation between observation t and observation t-h (h being the time lag).",
+            "startOffset": 37880,
+            "title": "Use of generalized additive models"
+        },
+        {
+            "endOffset": 16535,
+            "parents": [],
+            "secId": "s0005",
+            "sentence": "So it is hardly surprising that, over the past two decades, many studies have looked at noise exposure in a number of cities around the world.",
+            "startOffset": 16393,
+            "title": "Introduction"
+        }
+    ],
+    "docId": "S0003682X18306923",
+    "metadata": {
+        "asjc": [
+            "3102"
+        ],
+        "authors": [
+            {
+                "email": "jeremy.gelb@ucs.inrs.ca",
+                "first": "Gelb",
+                "initial": "G.",
+                "last": "J\u00e9r\u00e9my"
+            },
+            {
+                "email": null,
+                "first": "Philippe",
+                "initial": "P.",
+                "last": "Apparicio"
+            }
+        ],
+        "doi": "10.1016/j.apacoust.2018.12.031",
+        "firstpage": "332",
+        "issn": "0003682X",
+        "lastpage": "343",
+        "openaccess": "Full",
+        "pub_year": 2019,
+        "subjareas": [
+            "PHYS"
+        ],
+        "title": "Noise exposure of cyclists in Ho Chi Minh City: A spatio-temporal analysis using non-linear models"
+    }
+}
